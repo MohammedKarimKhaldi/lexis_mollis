@@ -1,0 +1,143 @@
+{
+  "schema_version": "0.1-draft",
+  "description": "Controlled tag namespaces for the OCR treaty corpus.",
+  "tag_format": "namespace:value",
+  "namespaces": {
+    "corpus": {
+      "description": "Corpus membership.",
+      "values": ["traites"]
+    },
+    "stage": {
+      "description": "Publication or processing stage.",
+      "values": ["live_snapshot", "final", "reviewed", "superseded"]
+    },
+    "doc_type": {
+      "description": "Normalized documentary type from parsed metadata.",
+      "values": [
+        "Accord",
+        "Arrangement",
+        "Autre",
+        "Certificat",
+        "Convention",
+        "Déclaration",
+        "Échange de lettres",
+        "Inconnu",
+        "Instrument d'adhésion",
+        "Instrument de ratification",
+        "Lettre",
+        "Minutes",
+        "Note verbale",
+        "Notification",
+        "Pouvoirs",
+        "Procès-verbal",
+        "Protocole",
+        "Texte",
+        "Traité"
+      ]
+    },
+    "instrument_type": {
+      "description": "Soft-law instrument family (broader than doc_type).",
+      "values": [
+        "treaty",
+        "declaration",
+        "resolution",
+        "recommendation",
+        "guideline",
+        "code_of_conduct",
+        "decision",
+        "opinion",
+        "communication",
+        "standard",
+        "programme_of_action",
+        "other",
+        "unknown"
+      ]
+    },
+    "legal_force": {
+      "description": "Binding character of the instrument. Keep unknown unless source metadata explicitly supports a stronger value.",
+      "values": ["binding", "non_binding", "mixed", "unknown"]
+    },
+    "issuing_body": {
+      "description": "Issuing authority (free slug, aligned to Wikidata when possible).",
+      "examples": ["un_general_assembly", "oecd", "ilo", "who", "wto", "eu_commission", "unep"]
+    },
+    "source_db": {
+      "description": "Originating source database / connector.",
+      "values": ["traites_mineae", "eur_lex", "oecd", "ilo", "who", "wto", "ecolex", "ungao", "other"]
+    },
+    "period": {
+      "description": "Historical period derived from year.",
+      "values": [
+        "early_modern_1516_1788",
+        "revolutionary_napoleonic_1789_1815",
+        "nineteenth_century_1816_1913",
+        "world_war_i_and_interwar_1914_1938",
+        "world_war_ii_and_postwar_1939_1989",
+        "contemporary_1990_present",
+        "unknown"
+      ]
+    },
+    "century": {
+      "description": "Century derived from year, formatted as c16, c17, etc.",
+      "pattern": "^c(16|17|18|19|20|21)|unknown$"
+    },
+    "language": {
+      "description": "Detected language, preferably ISO 639-1 where available.",
+      "examples": ["fr", "en", "es", "de", "it", "ar", "zh", "ru", "ja"]
+    },
+    "script": {
+      "description": "Detected writing system, preferably ISO 15924 label where practical.",
+      "examples": ["Latin", "Arabic", "Han", "Cyrillic", "Japanese", "Hangul", "Hebrew", "Thai", "Devanagari", "Other"]
+    },
+    "ocr_method": {
+      "description": "OCR method family.",
+      "values": ["native_pymupdf", "apple_vision", "tesseract", "mixed", "unknown"]
+    },
+    "quality": {
+      "description": "Quality band from page quality_score.",
+      "values": ["accepted_ge_0_85", "review_0_65_0_85", "priority_review_lt_0_65"]
+    },
+    "review": {
+      "description": "Review workflow state.",
+      "values": ["not_required", "required_normal", "required_high", "reviewed_confirmed", "reviewed_corrected", "deferred"]
+    },
+    "review_reason": {
+      "description": "Controlled review flags emitted by the pipeline.",
+      "values": [
+        "engine_disagreement",
+        "high_noise",
+        "low_confidence",
+        "mixed_scripts",
+        "no_text_on_nonblank_page",
+        "possible_handwriting_or_historical_print",
+        "sparse_extraction"
+      ]
+    },
+    "source_form": {
+      "description": "Observed source form.",
+      "values": ["native_text_pdf", "scan_ocr", "mixed_pdf", "unknown"]
+    },
+    "rights_status": {
+      "description": "Rights status for publication; do not infer if unknown.",
+      "values": ["unknown", "public_domain_claimed", "open_data_source", "restricted", "to_review"]
+    }
+  },
+  "recommended_document_tags": [
+    "corpus:traites",
+    "stage:live_snapshot",
+    "doc_type:<doc_type>",
+    "instrument_type:<instrument_type>",
+    "legal_force:<legal_force>",
+    "source_db:traites_mineae",
+    "period:<derived_period>",
+    "century:<derived_century>",
+    "rights_status:to_review"
+  ],
+  "recommended_page_tags": [
+    "language:<language>",
+    "script:<script>",
+    "ocr_method:<method_family>",
+    "quality:<quality_band>",
+    "review:<review_state>"
+  ]
+}

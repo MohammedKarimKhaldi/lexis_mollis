@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/schemas/ocr-treaties/page.schema.json",
+  "title": "OCR Treaty Corpus Page Record",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "document_id",
+    "source_filename",
+    "source_sha256",
+    "page_number",
+    "page_count",
+    "text",
+    "method",
+    "quality_score",
+    "review_required",
+    "pipeline_version"
+  ],
+  "properties": {
+    "document_id": {"type": "string"},
+    "source_filename": {"type": "string"},
+    "canonical_filename": {"type": "string"},
+    "source_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "title": {"type": "string"},
+    "treaty_id": {"type": ["string", "null"]},
+    "treaty_number": {"type": ["string", "null"]},
+    "doc_type": {"type": "string"},
+    "year": {"type": ["integer", "null"]},
+    "page_number": {"type": "integer", "minimum": 1},
+    "page_count": {"type": "integer", "minimum": 1},
+    "language": {"type": "array", "items": {"type": "string"}},
+    "script": {"type": "array", "items": {"type": "string"}},
+    "method": {"type": "string"},
+    "quality_score": {"type": "number", "minimum": 0, "maximum": 1},
+    "quality_band": {
+      "type": "string",
+      "enum": ["accepted_ge_0_85", "review_0_65_0_85", "priority_review_lt_0_65"]
+    },
+    "review_required": {"type": "boolean"},
+    "review_priority": {"type": "string", "enum": ["none", "normal", "high"]},
+    "review_reasons": {"type": "array", "items": {"type": "string"}},
+    "text": {"type": "string"},
+    "text_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "pipeline_version": {"type": "string"},
+    "tags": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^[a-z_]+:.+$"},
+      "uniqueItems": true
+    }
+  }
+}
+

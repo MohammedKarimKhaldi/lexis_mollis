@@ -1,0 +1,32 @@
+name: Signaler une transcription
+description: Signaler une page OCR à vérifier ou corriger.
+title: "[Transcription] "
+labels: ["transcription", "review"]
+body:
+  - type: input
+    id: document_id
+    attributes:
+      label: document_id
+      description: Identifiant du document concerné.
+    validations:
+      required: true
+  - type: input
+    id: page_number
+    attributes:
+      label: page_number
+      description: Numéro de page physique.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Décrire le problème et, si possible, citer un court extrait.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Preuve / source
+      description: Lien vers scan, image, référence externe ou capture.
+

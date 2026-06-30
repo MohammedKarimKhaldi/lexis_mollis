@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+pdfkb.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+
+# Local environments
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local OCR corpus/state/output artifacts
+traites/
+extracted/
+outputs_v2/
+outputs_live/
+outputs_live_check/
+outputs_v2_check/
+outputs_live_tmp/
+outputs_live_check/
+metadata/*.sqlite3
+metadata/*.sqlite3-*
+metadata/*.log
+metadata/*.bak
+metadata/.fuse_hidden*
+metadata/download_log.json
+metadata/extraction_log.json
+metadata/parsed_metadata.csv
+metadata/pipeline.sqlite3
+
+# Large derived artifacts
+*.parquet
+*.npy
+*.faiss
+*.index
+
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Local platform experiments
+kb_platform/
+kb_repository/
+analysis/
+chunks/
+
+# LaTeX build/temp files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.bak
+*.preview.pdf

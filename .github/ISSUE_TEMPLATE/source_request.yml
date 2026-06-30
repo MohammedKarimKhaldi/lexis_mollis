@@ -1,0 +1,37 @@
+name: Proposer une source
+description: Proposer une nouvelle source ouverte de droit souple.
+title: "[Source] "
+labels: ["source", "triage"]
+body:
+  - type: input
+    id: source_name
+    attributes:
+      label: Nom de la source
+      description: Nom officiel ou usuel de la source.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Page d'accès, API ou portail documentaire.
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Licence / droits
+      description: Conditions de réutilisation connues. Ne pas deviner si inconnu.
+    validations:
+      required: true
+  - type: input
+    id: volume
+    attributes:
+      label: Volume estimé
+      description: Nombre approximatif de documents/pages.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Langues, formats, contraintes techniques, intérêt scientifique.
+

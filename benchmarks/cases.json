@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Couche texte native",
+    "category": "native",
+    "filename": "TRA20100322_101_fr_s1.pdf",
+    "page_number": 1,
+    "year": 2010,
+    "min_chars": 100,
+    "contains": ["ACCORD EURO-MÉDITERRANÉEN", "ROYAUME HACHÉMITE DE JORDANIE"],
+    "method_prefix": "native_pymupdf",
+    "review_required": false
+  },
+  {
+    "name": "Imprimé moderne français",
+    "category": "modern_print",
+    "filename": "TRA20182386_001_s1.pdf",
+    "page_number": 2,
+    "year": 2018,
+    "min_chars": 3000,
+    "contains": ["Traités de Lancaster House", "Conseil de Sécurité des Nations Unies"],
+    "script": "Latin"
+  },
+  {
+    "name": "Cyrillique russe",
+    "category": "multilingual",
+    "filename": "tra19660081_005_et_007_s1.pdf",
+    "page_number": 1,
+    "year": 1966,
+    "min_chars": 900,
+    "contains": ["Министерство Иностранных Дел"],
+    "script": "Cyrillic"
+  },
+  {
+    "name": "Chinois",
+    "category": "multilingual",
+    "filename": "tra19780213_003_s1.pdf",
+    "page_number": 2,
+    "year": 1978,
+    "min_chars": 70,
+    "contains": ["中华人民共和国国务院", "科学技术"],
+    "script": "Han"
+  },
+  {
+    "name": "Manuscrit historique",
+    "category": "handwriting",
+    "filename": "18750001_10_s1.pdf",
+    "page_number": 1,
+    "year": 1875,
+    "min_chars": 700,
+    "contains": ["Procès", "République Française"],
+    "script": "Latin",
+    "review_required": true
+  },
+  {
+    "name": "Couverture chinoise presque vide",
+    "category": "sparse_page",
+    "filename": "tra19780213_003_s1.pdf",
+    "page_number": 1,
+    "year": 1978,
+    "script": "Han",
+    "review_required": true
+  }
+]

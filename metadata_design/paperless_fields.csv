@@ -1,0 +1,17 @@
+field_name,field_type,level,required,example,notes
+source_sha256,text,document,yes,dcea6e22c5d9eceb2bce3c0a99bd3a295c14eaa32b48fbd9a64f368cbfb39345,Immutable physical PDF identifier
+document_id,text,document,yes,16460004_s1,Documentary alias/stem
+canonical_filename,text,document,yes,16460004_s1.PDF,Canonical filename chosen by inventory
+treaty_id,text,document,no,TRA16460004,Diplomatic treaty identifier when present
+treaty_number,text,document,no,001,Diplomatic treaty number when present
+doc_type,text,document,yes,Convention,Controlled value from tag_taxonomy.json
+year,number,document,no,1646,Year parsed from metadata
+page_count,number,document,yes,5,PDF page count
+pipeline_version,text,document,yes,2.0.1,OCR pipeline version
+ocr_status,text,document,yes,live_snapshot,live_snapshot or final
+mean_quality,number,document,no,0.9472,Computed during publication
+min_quality,number,document,no,0.8123,Computed during publication
+review_required,boolean,document,yes,false,true if any page requires review
+review_priority,text,document,yes,none,none normal high
+rights_status,text,document,yes,to_review,Do not infer publication rights automatically
+

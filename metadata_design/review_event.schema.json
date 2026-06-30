@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/schemas/ocr-treaties/review_event.schema.json",
+  "title": "OCR Treaty Corpus Review Event",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "event_id",
+    "source_sha256",
+    "page_number",
+    "created_at",
+    "reviewer",
+    "issue_type",
+    "decision"
+  ],
+  "properties": {
+    "event_id": {"type": "string"},
+    "source_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "document_id": {"type": "string"},
+    "source_filename": {"type": "string"},
+    "page_number": {"type": "integer", "minimum": 1},
+    "created_at": {"type": "string", "format": "date-time"},
+    "reviewer": {"type": "string"},
+    "issue_type": {
+      "type": "string",
+      "enum": [
+        "engine_disagreement",
+        "high_noise",
+        "low_confidence",
+        "mixed_scripts",
+        "no_text_on_nonblank_page",
+        "possible_handwriting_or_historical_print",
+        "sparse_extraction",
+        "metadata_issue",
+        "other"
+      ]
+    },
+    "decision": {
+      "type": "string",
+      "enum": [
+        "accept_as_is",
+        "confirm_uncertain",
+        "needs_manual_transcription",
+        "exclude_from_high_confidence_subset",
+        "metadata_correction_needed",
+        "defer"
+      ]
+    },
+    "confidence_after_review": {
+      "type": ["string", "null"],
+      "enum": ["high", "medium", "low", null]
+    },
+    "notes": {"type": ["string", "null"]},
+    "linked_commit": {"type": ["string", "null"]},
+    "linked_paperless_id": {"type": ["string", "null"]}
+  }
+}
+

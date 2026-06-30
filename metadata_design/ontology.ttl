@@ -1,0 +1,154 @@
+@prefix slo:  <https://lexis-mollis.org/ontology#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+slo: a owl:Ontology ;
+  rdfs:label "Lexis Mollis ontology"@en ;
+  rdfs:comment "Ontology for a faithful, auditable open corpus of soft-law instruments."@en ;
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/> .
+
+# ---- Classes ----
+slo:Instrument a owl:Class ;
+  rdfs:subClassOf schema:Legislation ;
+  rdfs:label "Soft-law instrument"@en ;
+  rdfs:comment "FRBR Work: the legal or soft-law act independently of a scan/version."@en .
+
+slo:Document a owl:Class ;
+  rdfs:label "Document/manifestation"@en ;
+  rdfs:comment "FRBR Manifestation: a concrete scan, file, alias or language/version record."@en .
+
+slo:Party a owl:Class ;
+  rdfs:subClassOf schema:Country ;
+  rdfs:label "Party/State"@en .
+
+slo:Organization a owl:Class ;
+  rdfs:subClassOf schema:Organization ;
+  rdfs:label "Organization"@en .
+
+slo:Person a owl:Class ;
+  rdfs:subClassOf schema:Person ;
+  rdfs:label "Person"@en .
+
+slo:Place a owl:Class ;
+  rdfs:subClassOf schema:Place ;
+  rdfs:label "Place"@en .
+
+slo:TopicConcept a owl:Class ;
+  rdfs:subClassOf schema:DefinedTerm ;
+  rdfs:label "Topic concept"@en .
+
+slo:Clause a owl:Class ;
+  rdfs:label "Clause/passage"@en .
+
+slo:SimilarityLink a owl:Class ;
+  rdfs:label "Weighted similarity link"@en ;
+  rdfs:comment "Reified similarity edge used when RDF must preserve weights, type and provisional status."@en .
+
+# ---- Knowledge-graph object properties ----
+slo:partyTo a owl:ObjectProperty ;
+  rdfs:domain slo:Party ;
+  rdfs:range slo:Instrument ;
+  rdfs:label "party to"@en .
+
+slo:issuedBy a owl:ObjectProperty ;
+  rdfs:domain slo:Instrument ;
+  rdfs:range slo:Organization ;
+  rdfs:label "issued by"@en .
+
+slo:signedAt a owl:ObjectProperty ;
+  rdfs:domain slo:Instrument ;
+  rdfs:range slo:Place ;
+  rdfs:label "signed at"@en .
+
+slo:amends a owl:ObjectProperty ;
+  rdfs:domain slo:Instrument ;
+  rdfs:range slo:Instrument ;
+  rdfs:label "amends"@en .
+
+slo:supersedes a owl:ObjectProperty ;
+  rdfs:domain slo:Instrument ;
+  rdfs:range slo:Instrument ;
+  rdfs:label "supersedes"@en .
+
+slo:references a owl:ObjectProperty ;
+  rdfs:domain slo:Instrument ;
+  rdfs:range slo:Instrument ;
+  rdfs:label "references"@en .
+
+slo:translationOf a owl:ObjectProperty ;
+  rdfs:domain slo:Document ;
+  rdfs:range slo:Document ;
+  rdfs:label "translation of"@en .
+
+slo:sameInstrumentAs a owl:ObjectProperty, owl:SymmetricProperty ;
+  rdfs:domain slo:Document ;
+  rdfs:range slo:Document ;
+  rdfs:label "same instrument as"@en .
+
+slo:aboutTopic a owl:ObjectProperty ;
+  rdfs:range slo:TopicConcept ;
+  rdfs:label "about topic"@en .
+
+slo:similarTo a owl:ObjectProperty, owl:SymmetricProperty ;
+  rdfs:comment "Weighted similarity edge; weight and edge type are carried via reification or the property graph."@en ;
+  rdfs:label "similar to"@en .
+
+# ---- Similarity-specific properties/classes for EPIC C edge types ----
+slo:duplicate a owl:ObjectProperty, owl:SymmetricProperty ;
+  rdfs:subPropertyOf slo:similarTo ;
+  rdfs:label "duplicate"@en .
+
+slo:clauseReuse a owl:ObjectProperty, owl:SymmetricProperty ;
+  rdfs:subPropertyOf slo:similarTo ;
+  rdfs:label "clause reuse"@en .
+
+slo:semanticKin a owl:ObjectProperty, owl:SymmetricProperty ;
+  rdfs:subPropertyOf slo:similarTo ;
+  rdfs:label "semantic kin"@en .
+
+slo:translation a owl:ObjectProperty, owl:SymmetricProperty ;
+  rdfs:subPropertyOf slo:similarTo ;
+  rdfs:label "translation similarity"@en .
+
+slo:weakLink a owl:ObjectProperty, owl:SymmetricProperty ;
+  rdfs:subPropertyOf slo:similarTo ;
+  rdfs:label "weak similarity link"@en .
+
+# ---- Literal properties ----
+slo:dated a owl:DatatypeProperty ;
+  rdfs:range xsd:date ;
+  rdfs:label "dated"@en .
+
+slo:qualityScore a owl:DatatypeProperty ;
+  rdfs:range xsd:decimal ;
+  rdfs:label "quality score"@en .
+
+slo:reviewRequired a owl:DatatypeProperty ;
+  rdfs:range xsd:boolean ;
+  rdfs:label "review required"@en .
+
+slo:rightsStatus a owl:DatatypeProperty ;
+  rdfs:range xsd:string ;
+  rdfs:label "rights status"@en .
+
+slo:legalForce a owl:DatatypeProperty ;
+  rdfs:range xsd:string ;
+  rdfs:label "legal force"@en .
+
+slo:weight a owl:DatatypeProperty ;
+  rdfs:domain slo:SimilarityLink ;
+  rdfs:range xsd:decimal ;
+  rdfs:label "weight"@en .
+
+slo:provisional a owl:DatatypeProperty ;
+  rdfs:range xsd:boolean ;
+  rdfs:label "provisional"@en .
+
+# ---- Alignment notes ----
+schema:Legislation a owl:Class .
+owl:sameAs rdfs:comment "Use owl:sameAs to align entities with Wikidata IRIs such as http://www.wikidata.org/entity/Q142."@en .
+

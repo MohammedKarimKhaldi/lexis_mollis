@@ -1,0 +1,83 @@
+{
+  "schema_version": "0.1-draft",
+  "description": "Deterministic mapping from source doc_type to broad instrument_type and default legal_force. legal_force remains unknown unless source metadata explicitly supports a stronger value.",
+  "mappings": {
+    "Accord": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
+    "Arrangement": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
+    "Autre": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
+    "Certificat": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
+    "Convention": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
+    "Déclaration": {
+      "instrument_type": "declaration",
+      "legal_force": "unknown"
+    },
+    "Échange de lettres": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
+    "Inconnu": {
+      "instrument_type": "unknown",
+      "legal_force": "unknown"
+    },
+    "Instrument d'adhésion": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
+    "Instrument de ratification": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
+    "Lettre": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
+    "Minutes": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
+    "Note verbale": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
+    "Notification": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
+    "Pouvoirs": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
+    "Procès-verbal": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
+    "Protocole": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
+    "Texte": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
+    "Traité": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    }
+  }
+}
+

@@ -1,0 +1,40 @@
+name: Signaler une relation
+description: Signaler une similarité ou relation manquante/fausse.
+title: "[Relation] "
+labels: ["relation", "knowledge-graph"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Document, chunk, entité ou URL concerné.
+    validations:
+      required: true
+  - type: input
+    id: target
+    attributes:
+      label: Cible
+      description: Document, chunk, entité ou URL relié.
+    validations:
+      required: true
+  - type: dropdown
+    id: relation_type
+    attributes:
+      label: Type de relation
+      options:
+        - duplicate
+        - clause_reuse
+        - semantic_kin
+        - translation
+        - references
+        - same_instrument_as
+        - about_topic
+        - other
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Preuve
+      description: Pourquoi cette relation devrait-elle exister ou être modifiée ?
+    validations:
+      required: true
+

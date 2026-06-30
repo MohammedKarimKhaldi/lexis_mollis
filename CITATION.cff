@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si vous utilisez Lexis Mollis, merci de citer ce dépôt."
+title: "Lexis Mollis — base ouverte de droit souple"
+abstract: >-
+  Corpus ouvert de droit souple (traités, déclarations, résolutions,
+  recommandations, lignes directrices) avec transcription OCR fidèle et
+  auditable, knowledge base, knowledge graph et détection de similarités.
+type: dataset
+authors:
+  - family-names: Khaldi
+    given-names: Mohammed-Karim
+  - family-names: Rostane
+    given-names: Reda
+license: CC-BY-4.0
+repository-code: "https://github.com/lexis-mollis/pipeline"
+url: "https://github.com/lexis-mollis"
+keywords:
+  - soft law
+  - droit souple
+  - open data
+  - knowledge graph
+  - OCR
+  - semantic search
+version: "0.1.0"
+date-released: "2026-07-01"
+# doi: "10.5281/zenodo.XXXXXXX"
+

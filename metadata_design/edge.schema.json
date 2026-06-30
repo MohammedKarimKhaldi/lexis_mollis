@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/schemas/ocr-treaties/edge.schema.json",
+  "title": "Lexis Mollis Graph Edge",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["src", "dst", "level", "type"],
+  "properties": {
+    "src": {"type": "string", "minLength": 1},
+    "dst": {"type": "string", "minLength": 1},
+    "level": {"type": "string", "enum": ["chunk", "document", "entity"]},
+    "type": {
+      "type": "string",
+      "enum": [
+        "duplicate",
+        "clause_reuse",
+        "semantic_kin",
+        "translation",
+        "weak_link",
+        "party_to",
+        "issued_by",
+        "signed_at",
+        "dated",
+        "amends",
+        "supersedes",
+        "references",
+        "translation_of",
+        "same_instrument_as",
+        "similar_to",
+        "about_topic"
+      ]
+    },
+    "lexical": {"type": ["number", "null"], "minimum": 0, "maximum": 1},
+    "semantic": {"type": ["number", "null"], "minimum": 0, "maximum": 1},
+    "combined": {"type": ["number", "null"], "minimum": 0, "maximum": 1},
+    "quality_weight": {"type": ["number", "null"], "minimum": 0, "maximum": 1},
+    "provisional": {"type": "boolean", "default": false},
+    "method": {"type": ["string", "null"]},
+    "evidence": {"type": ["string", "null"]},
+    "pipeline_version": {"type": "string"}
+  }
+}
+

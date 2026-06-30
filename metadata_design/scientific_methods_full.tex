@@ -1,0 +1,634 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{verbatim}
+\usepackage{float}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows.meta, positioning, calc, fit,
+  backgrounds, decorations.pathreplacing}
+
+\geometry{margin=2.5cm}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue!50!black,
+  urlcolor=blue!60!black,
+  citecolor=blue!50!black
+}
+
+\setlist[itemize]{topsep=0.25em,itemsep=0.15em}
+\setlist[enumerate]{topsep=0.25em,itemsep=0.15em}
+\renewcommand{\arraystretch}{1.15}
+
+% ---------------------------------------------------------------------------
+% Palette et styles partagés pour les schémas TikZ
+% ---------------------------------------------------------------------------
+\definecolor{kbblue}{HTML}{1F4E79}
+\definecolor{kbblue2}{HTML}{DDE7F2}
+\definecolor{kbgreen}{HTML}{2E7D32}
+\definecolor{kbgreen2}{HTML}{E3F1E4}
+\definecolor{kbamber}{HTML}{B26A00}
+\definecolor{kbamber2}{HTML}{FBEBD2}
+\definecolor{kbgray}{HTML}{4A4A4A}
+\definecolor{kbgray2}{HTML}{ECECEC}
+\definecolor{kbred}{HTML}{B23A3A}
+
+\tikzset{
+  font=\small,
+  >=Stealth,
+  proc/.style={rectangle, rounded corners=2pt, draw=kbblue, line width=0.8pt,
+    fill=kbblue2, text=black, align=center, minimum height=8mm,
+    inner sep=4pt, text width=30mm},
+  io/.style={trapezium, trapezium left angle=70, trapezium right angle=110,
+    draw=kbgray, line width=0.8pt, fill=kbgray2, align=center,
+    minimum height=8mm, inner sep=3pt, text width=26mm},
+  store/.style={cylinder, shape border rotate=90, aspect=0.28, draw=kbamber,
+    line width=0.8pt, fill=kbamber2, align=center, minimum height=11mm,
+    inner sep=3pt, text width=24mm},
+  dec/.style={diamond, aspect=1.7, draw=kbgreen, line width=0.8pt,
+    fill=kbgreen2, align=center, inner sep=1pt, text width=24mm},
+  term/.style={rectangle, rounded corners=8pt, draw=kbgreen, line width=0.9pt,
+    fill=kbgreen2, align=center, minimum height=8mm, inner sep=4pt,
+    text width=28mm},
+  flag/.style={rectangle, rounded corners=2pt, draw=kbred, line width=0.8pt,
+    fill=red!8, align=center, minimum height=8mm, inner sep=3pt, text width=28mm},
+  entity/.style={rectangle, draw=kbblue, line width=0.9pt, fill=kbblue2,
+    align=left, inner sep=5pt, text width=38mm},
+  link/.style={->, line width=0.8pt, draw=kbgray},
+  flow/.style={->, line width=0.9pt, draw=kbblue},
+  lbl/.style={font=\footnotesize\itshape, text=kbgray},
+}
+
+\title{Méthodes de constitution, d'OCR et d'audit d'un corpus numérique de traités diplomatiques}
+\author{Mohammed-Karim Khaldi \and Reda Rostane}
+\date{Version méthodologique provisoire --- \today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Ce document décrit une méthode reproductible de transformation de fichiers PDF diplomatiques en une base textuelle exploitable pour la recherche documentaire et la constitution d'une base de connaissances. La chaîne privilégie la fidélité au document source, l'auditabilité page par page et la conservation des incertitudes. Elle combine extraction native PDF, OCR local par Apple Vision et Tesseract, sélection de candidats fondée sur des métriques de qualité, nettoyage déterministe, stockage d'état SQLite, export Markdown/JSONL, file de révision et versioning Git. Une couche d'analyse de similarité documentaire, destinée à identifier les relations entre traités, est décrite en fin de document. Aucune correction générative ni reformulation automatique n'est appliquée au texte reconnu.
+\end{abstract}
+
+\tableofcontents
+
+\section{Statut du document}
+
+Ce texte est une version provisoire destinée à documenter la méthode pendant que le traitement OCR complet est encore en cours. Les valeurs numériques finales doivent être figées après génération définitive de \texttt{outputs\_v2/manifest.json}.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{ll}
+\toprule
+Élément & Statut \\
+\midrule
+Pipeline OCR & Implémenté localement dans \texttt{pdfkb} \\
+État technique & \texttt{metadata/pipeline.sqlite3} \\
+Version pipeline & \texttt{2.0.1} au moment du brouillon \\
+Sorties finales & À figer après fin OCR complète \\
+Correction générative & Exclue \\
+Couche de similarité & Conçue, implémentation à venir \\
+\bottomrule
+\end{tabular}
+\caption{Statut méthodologique du document.}
+\end{table}
+
+\section{Objectif scientifique et documentaire}
+
+L'objectif est de produire, à partir d'un ensemble de PDF diplomatiques, une transcription textuelle fidèle, auditable et réutilisable. La finalité n'est pas d'obtenir un texte modernisé ou stylistiquement corrigé, mais une représentation documentaire contrôlable, page par page, permettant:
+
+\begin{itemize}
+  \item la recherche plein texte;
+  \item l'indexation sémantique;
+  \item la constitution d'une base de connaissances;
+  \item l'identification de similitudes entre documents;
+  \item la vérification humaine des pages incertaines;
+  \item la publication éventuelle d'un corpus documenté en accès ouvert.
+\end{itemize}
+
+Deux couches textuelles sont distinguées. La couche brute conserve la transcription sélectionnée par page. La couche nettoyée applique uniquement des transformations déterministes destinées à améliorer la recherche et la segmentation documentaire. Les pages faibles ou incertaines ne sont pas supprimées; elles sont incluses avec des drapeaux de révision.
+
+\section{Architecture générale de la chaîne}
+
+La figure~\ref{fig:pipeline} présente la chaîne complète, de l'inventaire des PDF jusqu'aux livrables et à la couche d'analyse de similarité. Chaque page physique traverse une succession d'étapes déterministes dont l'état est journalisé dans SQLite.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[node distance=8mm and 14mm]
+  \node[io] (pdf) {PDF sources\\\texttt{traites/}};
+  \node[store, right=of pdf] (meta) {Métadonnées\\\texttt{parsed\_metadata}};
+  \node[proc, below=of pdf] (inv) {Inventaire\\SHA-256, pages, alias};
+  \node[proc, below=of inv] (native) {Extraction native\\PyMuPDF};
+  \node[dec, below=of native] (cred) {Couche native crédible?};
+  \node[proc, right=22mm of cred] (raster) {Rendu image\\300 DPI + OSD};
+  \node[proc, below=of raster] (ocr) {OCR local\\Apple Vision + Tesseract};
+  \node[proc, below=of cred] (score) {Scoring + accord\\inter-moteurs};
+  \node[proc, below=of score] (select) {Sélection\\meilleur candidat};
+  \node[store, left=20mm of select] (sql) {État SQLite\\source de vérité};
+  \node[proc, below=of select] (clean) {Nettoyage\\déterministe};
+  \node[dec, below=of clean] (rev) {Incertitude?};
+  \node[flag, right=20mm of rev] (queue) {File de révision\\\texttt{review\_queue.csv}};
+  \node[term, below=of rev] (export) {Exports\\\texttt{raw} / \texttt{clean} / \texttt{kb}};
+  \node[term, right=20mm of export] (sim) {Couche similarité\\(figure~\ref{fig:sim})};
+
+  \draw[flow] (pdf) -- (inv);
+  \draw[link] (meta) |- (inv);
+  \draw[flow] (inv) -- (native);
+  \draw[flow] (native) -- (cred);
+  \draw[flow] (cred) -- node[lbl,above]{non} (raster);
+  \draw[flow] (raster) -- (ocr);
+  \draw[flow] (ocr.west) -- (score.east);
+  \draw[flow] (cred) -- node[lbl,left]{oui} (score);
+  \draw[flow] (score) -- (select);
+  \draw[link] (select) -- (sql);
+  \draw[link] (sql.north) -- (score.west);
+  \draw[flow] (select) -- (clean);
+  \draw[flow] (clean) -- (rev);
+  \draw[flow] (rev) -- node[lbl,above]{oui} (queue);
+  \draw[flow] (rev) -- node[lbl,left]{non} (export);
+  \draw[link] (queue) |- (export);
+  \draw[flow] (export) -- (sim);
+\end{tikzpicture}
+\caption{Architecture générale du pipeline \texttt{pdfkb}, de l'inventaire des PDF à la couche d'analyse de similarité. Les flèches en bleu marquent le flux documentaire principal; les flèches grises marquent les dépendances de données et l'état.}
+\label{fig:pipeline}
+\end{figure}
+
+\section{Corpus source}
+
+Le corpus est constitué de fichiers PDF conservés localement dans le répertoire \texttt{traites/}. Chaque fichier correspond à un alias documentaire. Plusieurs alias peuvent renvoyer au même PDF physique lorsque leur empreinte SHA-256 est identique.
+
+Les métadonnées initiales proviennent de \texttt{metadata/parsed\_metadata.json}. Les champs disponibles incluent:
+
+\begin{itemize}
+  \item \texttt{filename}: nom de fichier source;
+  \item \texttt{url}: URL documentaire source lorsqu'elle est disponible;
+  \item \texttt{treaty\_id}: identifiant du traité;
+  \item \texttt{treaty\_number}: numéro ou sous-référence documentaire;
+  \item \texttt{title}: titre documentaire;
+  \item \texttt{doc\_type}: type documentaire normalisé;
+  \item \texttt{year}: année extraite;
+  \item \texttt{file\_exists}: présence locale du fichier;
+  \item \texttt{file\_size}: taille du fichier en octets.
+\end{itemize}
+
+\subsection{Valeurs à compléter après traitement final}
+
+\begin{longtable}{p{0.45\linewidth}p{0.35\linewidth}}
+\caption{Indicateurs à figer dans la version finale.}\\
+\toprule
+Indicateur & Valeur finale \\
+\midrule
+\endfirsthead
+\toprule
+Indicateur & Valeur finale \\
+\midrule
+\endhead
+Nombre d'alias documentaires PDF & À compléter \\
+Nombre de PDF physiques uniques & À compléter \\
+Nombre de pages logiques exportées & À compléter \\
+Nombre de pages physiques uniques OCRisées & À compléter \\
+Période chronologique couverte & À compléter \\
+Nombre de pages sans erreur technique & À compléter \\
+Nombre de pages nécessitant révision & À compléter \\
+\bottomrule
+\end{longtable}
+
+\section{Inventaire et identification}
+
+Avant toute OCR, chaque PDF est inventorié. L'inventaire calcule:
+
+\begin{itemize}
+  \item l'empreinte SHA-256 des octets du fichier;
+  \item le nombre de pages;
+  \item les dimensions et rotations PDF au niveau page;
+  \item le chemin local absolu;
+  \item le nom canonique associé à chaque SHA-256;
+  \item les métadonnées documentaires associées au nom de fichier.
+\end{itemize}
+
+La distinction entre identifiant physique et identifiant documentaire est centrale. Le champ \texttt{source\_sha256} identifie le PDF physique. Le champ \texttt{document\_id} identifie l'alias documentaire lisible. Cette séparation permet de mutualiser le traitement des doublons exacts sans perdre les différents alias documentaires.
+
+\section{Unité de traitement}
+
+L'unité de traitement OCR est la page PDF physique, identifiée par:
+
+\begin{itemize}
+  \item \texttt{source\_sha256};
+  \item \texttt{page\_number}, numéroté à partir de 1;
+  \item \texttt{pipeline\_version}.
+\end{itemize}
+
+Le pipeline sauvegarde l'état après chaque page dans SQLite. Une page déjà transcrite avec succès ne peut pas être remplacée par un échec ultérieur. Les erreurs sont enregistrées séparément.
+
+\section{Extraction native et décision OCR}
+
+Pour chaque page, le pipeline commence par extraire la couche texte native avec PyMuPDF. Cette extraction produit le texte natif trié, les blocs natifs, leurs coordonnées normalisées et la couverture approximative des images dans la page.
+
+La couche native n'est utilisée que si elle est crédible. La figure~\ref{fig:decision} formalise la décision qui évite ou non l'OCR raster.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[node distance=7mm and 16mm]
+  \node[io] (page) {Page PDF};
+  \node[proc, below=of page] (nat) {Texte natif\\PyMuPDF};
+  \node[dec, below=of nat] (d1) {$\geq 3$ car., pas de U+FFFD ni PUA?};
+  \node[dec, below=8mm of d1] (d2) {imprimables $\geq 0{,}98$, bruit $\leq 0{,}01$?};
+  \node[dec, below=8mm of d2] (d3) {score $\geq 0{,}82$ et couverture image $< 0{,}50$?};
+  \node[term, right=20mm of d3] (usenat) {Page numérique\\OCR évité};
+  \node[proc, left=18mm of d2] (raster) {Rendu 300 DPI\\+ OCR local};
+
+  \draw[flow] (page) -- (nat);
+  \draw[flow] (nat) -- (d1);
+  \draw[flow] (d1) -- node[lbl,right]{oui} (d2);
+  \draw[flow] (d2) -- node[lbl,right]{oui} (d3);
+  \draw[flow] (d3) -- node[lbl,above]{oui} (usenat);
+  \draw[flow] (d1) -| node[lbl,above,pos=0.25]{non} (raster.north);
+  \draw[flow] (d2) -- node[lbl,above]{non} (raster);
+  \draw[flow] (d3) -| node[lbl,below]{non} (raster);
+\end{tikzpicture}
+\caption{Arbre de décision entre couche native et OCR raster. Toute condition non satisfaite renvoie la page vers le rendu image et l'OCR local.}
+\label{fig:decision}
+\end{figure}
+
+\section{Rendu image et mesure visuelle}
+
+Les pages nécessitant OCR sont rendues en image RGB à 300 DPI. Une mesure visuelle simple, \texttt{ink\_ratio}, estime la proportion de pixels sombres sur une version réduite de l'image. Cette mesure sert notamment à détecter les pages visuellement non vides pour lesquelles aucun texte n'est reconnu.
+
+Tesseract OSD est utilisé pour détecter l'orientation et le script lorsqu'il est disponible. Une rotation globale de 90, 180 ou 270 degrés peut être appliquée si la confiance d'orientation est suffisante.
+
+\section{Moteurs OCR et sélection des candidats}
+
+Le pipeline produit plusieurs candidats par page, puis sélectionne le meilleur sur la base d'un score composite et d'un accord inter-moteurs. La figure~\ref{fig:ocr} résume ce processus.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[node distance=9mm and 12mm]
+  \node[proc] (img) {Image 300 DPI\\(+ variante rehaussée)};
+  \node[proc, below left=12mm and 4mm of img] (vision) {Apple Vision\\texte, blocs, confiance};
+  \node[proc, below right=12mm and 4mm of img] (tess) {Tesseract\\modèle par script};
+  \node[proc, below=26mm of img] (agree) {Accord inter-moteurs\\(NFKC, casse repliée)};
+  \node[proc, below=of agree] (sc) {Score composite $S$\\(équation~\ref{eq:score})};
+  \node[term, below=of sc] (best) {Meilleur candidat\\retenu};
+  \node[store, right=14mm of best] (audit) {Candidats écartés\\conservés en audit};
+
+  \draw[flow] (img) -- (vision);
+  \draw[flow] (img) -- (tess);
+  \draw[flow] (vision) |- (agree);
+  \draw[flow] (tess) |- (agree);
+  \draw[flow] (agree) -- (sc);
+  \draw[flow] (sc) -- (best);
+  \draw[link] (sc) -| (audit);
+\end{tikzpicture}
+\caption{Production et sélection des candidats OCR. Apple Vision sert de moteur principal, Tesseract de moteur secondaire choisi selon le script; l'accord entre les deux module le score et déclenche éventuellement une révision.}
+\label{fig:ocr}
+\end{figure}
+
+\subsection{Apple Vision}
+
+Apple Vision est utilisé comme moteur OCR local principal pour les pages rasterisées. Il produit un candidat contenant le texte reconnu, des blocs textuels, des coordonnées normalisées, une confiance et une variante de traitement, par exemple \texttt{original} ou \texttt{enhanced}.
+
+\subsection{Tesseract}
+
+Tesseract est utilisé comme moteur secondaire. Le choix du modèle dépend du script détecté par Apple Vision ou par OSD. Le mapping principal est le suivant:
+
+\begin{longtable}{ll}
+\caption{Modèles Tesseract par script.}\\
+\toprule
+Script détecté & Modèle Tesseract \\
+\midrule
+\endfirsthead
+\toprule
+Script détecté & Modèle Tesseract \\
+\midrule
+\endhead
+Latin & \texttt{script/Latin} \\
+Cyrillique & \texttt{script/Cyrillic} \\
+Arabe & \texttt{script/Arabic} \\
+Han & \texttt{script/HanS} \\
+Japonais & \texttt{script/Japanese} \\
+Hangul & \texttt{script/Hangul} \\
+Grec & \texttt{script/Greek} \\
+Hébreu & \texttt{script/Hebrew} \\
+Devanagari & \texttt{script/Devanagari} \\
+Thaï & \texttt{script/Thai} \\
+Fraktur & \texttt{script/Fraktur} \\
+\bottomrule
+\end{longtable}
+
+Pour les pages latines datées avant 1950, le modèle complémentaire \texttt{fra+frm+lat+eng} est ajouté afin de couvrir le français moderne, le français ancien, le latin et l'anglais. Tesseract est lancé avec OEM 3, PSM 3 par défaut, et PSM 6 comme repli lorsque PSM 3 ne produit aucun texte exploitable.
+
+\section{Prétraitement visuel conservateur}
+
+Une variante améliorée de l'image peut être testée si le meilleur résultat initial est insuffisant ou si Tesseract ne produit aucun texte. Cette variante applique une conversion en niveaux de gris, un autocontraste léger, une augmentation de contraste limitée, une estimation d'angle par les composantes sombres et un redressement uniquement lorsque l'angle est faible et plausible.
+
+La binarisation agressive systématique est évitée. Le but est de préserver la morphologie documentaire des pages historiques.
+
+\section{Score de qualité des candidats}
+
+Chaque candidat OCR reçoit un score composite entre 0 et 1. La formule est:
+
+\begin{equation}
+\label{eq:score}
+\begin{split}
+S ={}& 0.36 \cdot C
++ 0.20 \cdot P
++ 0.14 \cdot A
++ 0.14 \cdot T \\
+&+ 0.10 \cdot N
++ 0.06 \cdot E
+- \Pi
+\end{split}
+\end{equation}
+
+où:
+
+\begin{itemize}
+  \item \(C\) est la confiance moteur;
+  \item \(P\) est le ratio de caractères imprimables;
+  \item \(A\) est un score lié au ratio alphanumérique;
+  \item \(T\) est un score pénalisant les mots isolés;
+  \item \(N\) est un score pénalisant les caractères de bruit;
+  \item \(E\) est une mesure logarithmique d'évidence textuelle;
+  \item \(\Pi\) est la pénalité pour caractères de remplacement et caractères Unicode en zone privée.
+\end{itemize}
+
+Le score final est borné entre 0 et 1. Il ne mesure pas la vérité documentaire, mais une qualité relative de transcription.
+
+\section{Accord inter-moteurs}
+
+Lorsque Apple Vision et Tesseract produisent tous deux un texte suffisant, un score d'accord est calculé. Les textes sont normalisés en Unicode NFKC, convertis en casse repliée, puis réduits aux seuls caractères alphanumériques. Une similarité de séquence est ensuite calculée.
+
+Si les textes sont très longs, le début et la fin sont échantillonnés afin de limiter le coût de comparaison. Un accord supérieur à 0,55 peut accorder un faible bonus aux candidats Apple Vision et Tesseract. Un désaccord marqué peut déclencher une révision.
+
+\section{Sélection du meilleur candidat}
+
+La sélection ne dépend jamais uniquement du nombre de caractères. Elle suit les règles suivantes:
+
+\begin{enumerate}
+  \item exclure les candidats vides si des candidats non vides existent;
+  \item recalculer les scores de tous les candidats;
+  \item retenir prioritairement la couche native lorsqu'elle est crédible;
+  \item comparer Apple Vision et Tesseract lorsqu'ils sont disponibles;
+  \item sélectionner le candidat au score final le plus élevé.
+\end{enumerate}
+
+Les candidats non sélectionnés sont conservés dans l'audit complet.
+
+\section{Détection des langues et scripts}
+
+Les scripts sont détectés par plages Unicode. Les scripts reconnus incluent notamment latin, arabe, cyrillique, grec, hébreu, han, japonais, hangul, devanagari, thaï et lao. Les langues sont estimées sur un échantillon textuel normalisé.
+
+Ces étiquettes sont descriptives et doivent être interprétées prudemment, notamment pour les pages courtes, multilingues ou très bruitées.
+
+\section{Nettoyage déterministe}
+
+Le nettoyage est appliqué uniquement à la couche destinée à la recherche et à l'indexation. Il comprend une normalisation Unicode NFC, une normalisation des espaces, la suppression de marqueurs invisibles ou de césure douce, une fusion conservatrice de lignes en paragraphes et la suppression des lignes marginales récurrentes en début ou fin de page.
+
+La couche brute reste intacte. Les lignes retirées de la couche nettoyée sont conservées dans l'audit.
+
+\section{Règles de révision}
+
+Une page est signalée pour révision lorsqu'au moins une condition d'incertitude est satisfaite.
+
+\begin{longtable}{p{0.35\linewidth}p{0.55\linewidth}}
+\caption{Raisons de révision.}\\
+\toprule
+Raison & Définition \\
+\midrule
+\endfirsthead
+\toprule
+Raison & Définition \\
+\midrule
+\endhead
+\texttt{low\_confidence} & Score inférieur à 0,85. \\
+\texttt{engine\_disagreement} & Désaccord significatif entre Apple Vision et Tesseract. \\
+\texttt{no\_text\_on\_nonblank\_page} & Page visuellement non vide avec texte quasi absent. \\
+\texttt{sparse\_extraction} & Page encrée mais extraction courte et incertaine. \\
+\texttt{high\_noise} & Ratio de bruit supérieur au seuil. \\
+\texttt{mixed\_scripts} & Trois scripts ou plus détectés. \\
+\texttt{possible\_handwriting\_}\linebreak\texttt{or\_historical\_print} & Document ancien avec désaccord moteur. \\
+\bottomrule
+\end{longtable}
+
+Les priorités sont définies ainsi:
+
+\begin{longtable}{lll}
+\caption{Priorités de révision.}\\
+\toprule
+Score ou condition & Priorité & Interprétation \\
+\midrule
+\endfirsthead
+\toprule
+Score ou condition & Priorité & Interprétation \\
+\midrule
+\endhead
+\(S \geq 0.85\), sans drapeau & \texttt{none} & Pas de révision requise \\
+\(0.65 \leq S < 0.85\) ou autre drapeau & \texttt{normal} & Révision recommandée \\
+\(S < 0.65\) ou page non vide sans texte & \texttt{high} & Révision prioritaire \\
+\bottomrule
+\end{longtable}
+
+\section{Exports}
+
+Les sorties finales sont organisées comme suit:
+
+\begin{longtable}{p{0.35\linewidth}p{0.55\linewidth}}
+\caption{Livrables principaux.}\\
+\toprule
+Chemin & Contenu \\
+\midrule
+\endfirsthead
+\toprule
+Chemin & Contenu \\
+\midrule
+\endhead
+\texttt{outputs\_v2/raw/*.md} & Transcription brute sélectionnée, page par page. \\
+\texttt{outputs\_v2/clean/*.md} & Texte normalisé pour recherche. \\
+\texttt{outputs\_v2/kb/pages.jsonl} & Un enregistrement par page pour ingestion KB. \\
+\texttt{outputs\_v2/audit/pages.jsonl} & Audit détaillé: candidats, blocs, coordonnées, transformations. \\
+\texttt{outputs\_v2/review\_queue.csv} & File des pages à contrôler. \\
+\texttt{outputs\_v2/manifest.json} & Comptes des documents, pages, erreurs et révisions. \\
+\bottomrule
+\end{longtable}
+
+Pendant le traitement, des snapshots légers peuvent être exportés vers \texttt{outputs\_live/}. Ces snapshots excluent l'audit détaillé lourd mais conservent les Markdown, les pages JSONL pour la KB, la file de révision et le manifeste.
+
+\section{Métadonnées et modèle de données}
+
+Le modèle de métadonnées distingue plusieurs niveaux: document, page, chunk de base de connaissances, événement de révision et tags contrôlés. La figure~\ref{fig:datamodel} en donne les relations.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[node distance=10mm and 18mm]
+  \node[entity] (doc) {\textbf{Document}\\\texttt{document\_id}\\\texttt{source\_sha256}\\\texttt{treaty\_id}, \texttt{title}\\\texttt{doc\_type}, \texttt{year}};
+  \node[entity, right=of doc] (page) {\textbf{Page}\\\texttt{source\_sha256}\\\texttt{page\_number}\\\texttt{method}, \texttt{quality\_score}\\\texttt{language}, \texttt{script}};
+  \node[entity, right=of page] (chunk) {\textbf{Chunk}\\\texttt{chunk\_id}\\\texttt{text}\\\texttt{embedding}\\\texttt{tags[]}};
+  \node[entity, below=14mm of page] (rev) {\textbf{Événement de révision}\\\texttt{page ref}\\\texttt{reason}, \texttt{priority}\\\texttt{decision}, \texttt{reviewer}};
+
+  \draw[link] (doc) -- node[lbl,above]{1 \,--\, *} (page);
+  \draw[link] (page) -- node[lbl,above]{1 \,--\, *} (chunk);
+  \draw[link] (page) -- node[lbl,right]{1 \,--\, *} (rev);
+\end{tikzpicture}
+\caption{Modèle de données. Un document agrège des pages; chaque page produit des chunks pour la recherche sémantique et peut générer des événements de révision.}
+\label{fig:datamodel}
+\end{figure}
+
+Les tags suivent le format \texttt{namespace:value}. Les namespaces recommandés incluent \texttt{corpus}, \texttt{stage}, \texttt{doc\_type}, \texttt{period}, \texttt{century}, \texttt{language}, \texttt{script}, \texttt{ocr\_method}, \texttt{quality}, \texttt{review}, \texttt{review\_reason} et \texttt{rights\_status}.
+
+\section{Couche d'analyse de similarité documentaire}
+
+La finalité applicative du corpus est l'identification de similitudes entre traités: réutilisations de clauses, filiations textuelles, versions multilingues d'un même acte et familles diplomatiques. Cette couche s'appuie sur la couche nettoyée et n'altère jamais le texte source.
+
+\subsection{Principe}
+
+Le texte nettoyé de chaque page est segmenté en chunks de taille contrôlée, encodés en vecteurs denses par un modèle multilingue, puis indexés. Deux familles de similarité sont calculées et combinées:
+
+\begin{itemize}
+  \item une similarité \emph{lexicale} robuste au bruit OCR, fondée sur des empreintes de n-grammes de caractères (MinHash / Jaccard), efficace pour détecter les réutilisations quasi littérales;
+  \item une similarité \emph{sémantique}, fondée sur la distance cosinus entre embeddings, capable de relier des formulations différentes ou des traductions d'un même contenu.
+\end{itemize}
+
+\subsection{Chaîne de traitement}
+
+La figure~\ref{fig:sim} décrit la chaîne, du texte nettoyé jusqu'au graphe de similarité et à ses livrables.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[node distance=8mm and 13mm]
+  \node[io] (clean) {Texte nettoyé\\\texttt{clean/*.md}};
+  \node[proc, below=of clean] (chunk) {Segmentation\\en chunks};
+  \node[proc, below left=11mm and 2mm of chunk] (emb) {Embeddings\\modèle multilingue};
+  \node[proc, below right=11mm and 2mm of chunk] (minhash) {Empreintes\\n-grammes / MinHash};
+  \node[store, below=24mm of chunk] (index) {Index vectoriel\\+ index LSH};
+  \node[proc, below=of index] (knn) {Recherche kNN\\+ seuils};
+  \node[proc, below=of knn] (graph) {Graphe de similarité\\documents / clauses};
+  \node[term, below left=10mm and 0mm of graph] (clusters) {Clusters\\\& familles};
+  \node[term, below right=10mm and 0mm of graph] (explore) {Exploration\\publique open-source};
+
+  \draw[flow] (clean) -- (chunk);
+  \draw[flow] (chunk) -- (emb);
+  \draw[flow] (chunk) -- (minhash);
+  \draw[flow] (emb) |- (index);
+  \draw[flow] (minhash) |- (index);
+  \draw[flow] (index) -- (knn);
+  \draw[flow] (knn) -- (graph);
+  \draw[flow] (graph) -- (clusters);
+  \draw[flow] (graph) -- (explore);
+\end{tikzpicture}
+\caption{Couche d'analyse de similarité. Les similarités lexicale et sémantique sont indexées séparément puis combinées en un graphe reliant documents et clauses, exploitable pour le clustering et l'exploration publique.}
+\label{fig:sim}
+\end{figure}
+
+\subsection{Choix techniques}
+
+Le tableau~\ref{tab:simtech} récapitule les composants envisagés. Tous sont locaux ou open-source, conformément à la finalité de publication.
+
+\begin{longtable}{p{0.30\linewidth}p{0.60\linewidth}}
+\caption{Composants de la couche de similarité.}\label{tab:simtech}\\
+\toprule
+Composant & Choix envisagé \\
+\midrule
+\endfirsthead
+\toprule
+Composant & Choix envisagé \\
+\midrule
+\endhead
+Segmentation & Chunks de 256--512 tokens, recouvrement modéré, respect des frontières de page. \\
+Embeddings & Modèle multilingue de phrases (par exemple famille \texttt{sentence-transformers} multilingue), exécuté localement. \\
+Index sémantique & FAISS ou équivalent, distance cosinus, normalisation L2. \\
+Index lexical & MinHash + LSH sur n-grammes de caractères, robuste au bruit OCR. \\
+Graphe & Arêtes pondérées par score combiné, seuils distincts par type de relation. \\
+Détection de familles & Composantes connexes et clustering communautaire sur le graphe. \\
+Pondération qualité & Atténuation des arêtes issues de pages à \texttt{review\_required}. \\
+\bottomrule
+\end{longtable}
+
+\subsection{Précautions}
+
+Le bruit OCR sur les pages historiques peut produire de fausses similitudes ou en masquer de réelles. Les arêtes du graphe doivent donc pondérer la confiance OCR des pages impliquées, et les relations détectées sur des pages à réviser sont signalées comme provisoires. Comme pour la transcription, la couche de similarité privilégie la transparence des scores à une décision binaire automatique.
+
+\section{Versioning et audit externe}
+
+Les snapshots publiables sont conservés dans un dépôt Git séparé, \texttt{kb\_repository/}. Ce dépôt permet l'historique des changements, l'inspection des diffs Markdown et JSONL, la publication ultérieure via Forgejo et la séparation entre traitement OCR actif et corpus publié.
+
+Forgejo peut être utilisé comme interface web locale pour consulter les commits, les fichiers Markdown, les diffs et les versions publiées.
+
+\section{Validation}
+
+La validation repose sur des tests unitaires du scoring, du nettoyage et de l'état SQLite; un benchmark stratifié incluant couche native, imprimé moderne, cyrillique, chinois, page presque vide et manuscrit historique; le contrôle des comptes finaux; l'inspection de la file de révision; et la comparaison avec les sorties antérieures \texttt{extracted/}.
+
+Les indicateurs finaux à publier comprennent la distribution des méthodes OCR, des langues détectées et des scripts; le nombre et la proportion de pages à réviser; le nombre de pages prioritaires; les erreurs techniques; et des exemples de pages acceptées, incertaines et prioritaires.
+
+\section{Reproductibilité}
+
+Une reproduction minimale nécessite:
+
+\begin{enumerate}
+  \item les PDF sources ou leurs URLs;
+  \item \texttt{metadata/parsed\_metadata.json};
+  \item le code source du pipeline \texttt{pdfkb};
+  \item les versions des moteurs OCR locaux;
+  \item la commande d'exécution;
+  \item le fichier d'état \texttt{metadata/pipeline.sqlite3} ou les exports JSONL;
+  \item le manifeste final;
+  \item les cas de benchmark.
+\end{enumerate}
+
+La commande canonique est:
+
+\begin{verbatim}
+python -m pdfkb run \
+  --source traites \
+  --metadata metadata/parsed_metadata.json \
+  --output outputs_v2 \
+  --state metadata/pipeline.sqlite3 \
+  --workers 4 \
+  --dpi 300 \
+  --resume
+\end{verbatim}
+
+\section{Limites}
+
+Le score OCR ne constitue pas une mesure absolue de vérité documentaire. Les manuscrits, les pages très dégradées, les imprimés historiques, les documents multilingues et les pages très courtes peuvent rester incertains. La détection de langue peut être instable sur des segments courts ou bruités.
+
+Les droits de publication ne sont pas inférés automatiquement. Ils doivent être établis par une analyse indépendante des conditions de diffusion des documents sources.
+
+La méthode privilégie l'inclusion signalée plutôt que l'exclusion: les pages faibles sont conservées dans les sorties avec leurs drapeaux de révision.
+
+\section{Annexe: champs principaux}
+
+\begin{longtable}{p{0.30\linewidth}p{0.20\linewidth}p{0.40\linewidth}}
+\caption{Champs principaux du corpus publié.}\\
+\toprule
+Champ & Niveau & Définition \\
+\midrule
+\endfirsthead
+\toprule
+Champ & Niveau & Définition \\
+\midrule
+\endhead
+\texttt{document\_id} & document/page & Identifiant lisible dérivé du nom de fichier. \\
+\texttt{source\_sha256} & document/page & SHA-256 du PDF physique. \\
+\texttt{source\_filename} & document/page & Nom du fichier source. \\
+\texttt{canonical\_filename} & document/page & Nom canonique pour les doublons exacts. \\
+\texttt{page\_number} & page & Numéro de page, base 1. \\
+\texttt{method} & page & Méthode OCR sélectionnée. \\
+\texttt{quality\_score} & page & Score composite entre 0 et 1. \\
+\texttt{review\_required} & page & Indique si la page nécessite une révision. \\
+\texttt{review\_reasons} & page & Raisons contrôlées de révision. \\
+\texttt{text} & page/chunk & Texte destiné à la KB. \\
+\texttt{pipeline\_version} & tous & Version du pipeline producteur. \\
+\bottomrule
+\end{longtable}
+
+\end{document}

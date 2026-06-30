@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pdfkb"
+version = "2.0.1"
+description = "Pipeline OCR local, multilingue et auditable pour corpus PDF"
+requires-python = ">=3.11"
+dependencies = [
+  "PyMuPDF>=1.27",
+  "Pillow>=12",
+  "numpy>=2",
+  "opencv-python>=4.13",
+  "pytesseract>=0.3.13",
+  "langdetect>=1.0.9",
+  "tqdm>=4.68",
+  "pyobjc-framework-Vision>=12; sys_platform == 'darwin'",
+  "pyobjc-framework-Quartz>=12; sys_platform == 'darwin'",
+]
+
+[project.optional-dependencies]
+derive = [
+  "sentence-transformers>=3.0",
+  "faiss-cpu>=1.8",
+  "datasketch>=1.6",
+  "networkx>=3.2",
+  "python-louvain>=0.16",
+  "pyarrow>=15",
+  "rdflib>=7",
+  "numpy>=2",
+  "tqdm>=4.68",
+  "scikit-learn>=1.4",
+  "regex>=2024.0",
+  "jsonschema>=4.22",
+]
+
+[project.scripts]
+pdfkb = "pdfkb.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["pdfkb*"]

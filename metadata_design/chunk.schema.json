@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/schemas/ocr-treaties/chunk.schema.json",
+  "title": "OCR Treaty Corpus KB Chunk",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "chunk_id",
+    "source_sha256",
+    "document_id",
+    "page_number",
+    "chunk_index",
+    "text",
+    "text_sha256",
+    "quality_score",
+    "review_required",
+    "pipeline_version",
+    "tags"
+  ],
+  "properties": {
+    "chunk_id": {"type": "string", "pattern": "^[a-f0-9]{64}:p[0-9]{4}:c[0-9]{3}$"},
+    "source_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "document_id": {"type": "string"},
+    "source_filename": {"type": "string"},
+    "title": {"type": "string"},
+    "treaty_id": {"type": ["string", "null"]},
+    "year": {"type": ["integer", "null"]},
+    "doc_type": {"type": "string"},
+    "page_number": {"type": "integer", "minimum": 1},
+    "chunk_index": {"type": "integer", "minimum": 0},
+    "char_start": {"type": "integer", "minimum": 0},
+    "char_end": {"type": "integer", "minimum": 0},
+    "text": {"type": "string"},
+    "text_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "language": {"type": "array", "items": {"type": "string"}},
+    "script": {"type": "array", "items": {"type": "string"}},
+    "quality_score": {"type": "number", "minimum": 0, "maximum": 1},
+    "review_required": {"type": "boolean"},
+    "review_priority": {"type": "string", "enum": ["none", "normal", "high"]},
+    "embedding_model": {"type": ["string", "null"]},
+    "embedding_created_at": {"type": ["string", "null"], "format": "date-time"},
+    "pipeline_version": {"type": "string"},
+    "tags": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^[a-z_]+:.+$"},
+      "uniqueItems": true
+    }
+  }
+}
+
