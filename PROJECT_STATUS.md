@@ -30,7 +30,7 @@ Cloudflare, et faire l'annotation humaine de calibration des seuils de similarit
 
 **Changements locaux à traiter avant tout build public :** `.gitignore`,
 `PROJECT_STATUS.md`, la configuration Node/Wrangler racine (`package.json`,
-`package-lock.json`, `wrangler.jsonc`, `.nvmrc`) et le dossier `platform/` sont
+`package-lock.json`, `wrangler.jsonc`, `.nvmrc`, `.npmrc`) et le dossier `platform/` sont
 modifiés/non suivis. `node_modules/`, `dist/`, `.astro/` et `.wrangler/` sont exclus par le
 `.gitignore` modifié. À faire : choisir si `platform/site/public/data/` doit contenir le
 sample minimal ou le pilote de 100 documents, puis committer/pousser les fichiers retenus
@@ -45,7 +45,7 @@ vers `origin/main`.
 | `HF_TOKEN` | Configuré | Secret GitHub Actions présent. À régénérer si le token exposé précédemment n'a pas encore été révoqué. |
 | Hugging Face dataset | OK | `lexis-mollis/soft-law-corpus`, public, non gated, non disabled. |
 | Zenodo | Connecté côté compte | Webhook/intégration annoncé comme connecté ; DOI vérifiable seulement après première release GitHub. |
-| Cloudflare | Scaffold prêt | `platform/site` ajouté pour Workers Static Assets ; configuration Git Cloudflare préférée : root `platform/site`, build `npm ci && npm run build`, deploy `npx wrangler deploy`. Configuration racine aussi ajoutée pour les builds qui partent de `/` ; `npm ci && npm run build` et `npm run deploy -- --dry-run` validés depuis la racine. |
+| Cloudflare | Scaffold prêt | `platform/site` ajouté pour Workers Static Assets ; configuration Git Cloudflare préférée : root `platform/site`, build `npm ci && npm run build`, deploy `npx wrangler deploy`. Configuration racine aussi ajoutée pour les builds qui partent de `/` ; optional deps npm forcées pour le binding Linux Rolldown ; `npm ci --include=optional && npm run build` et `npm run deploy -- --dry-run` validés depuis la racine. |
 | Site local | OK | Astro dev server testé en HTTP 200 sur `http://127.0.0.1:4321/`; données actuelles : pilote `outputs_v2/release_pilot` limité à 100 documents. |
 | Branch protection | À configurer | Pas encore de protection `main`/required checks. |
 | OCR | **Terminé** | 3 146/3 146 documents, 26 566 pages, 0 erreur, run sorti `status=0`. |
@@ -88,7 +88,8 @@ Deploy command: npm run deploy
 Les configurations Workers Static Assets sont versionnées dans `platform/site/wrangler.jsonc`
 et `wrangler.jsonc` à la racine. La configuration racine déploie `platform/site/dist`.
 Le lockfile racine `package-lock.json` est nécessaire pour que `npm ci` fonctionne depuis
-la racine Cloudflare.
+la racine Cloudflare. Les fichiers `.npmrc` forcent l'installation des dépendances natives
+optionnelles nécessaires à Astro/Rolldown sur Linux (`@rolldown/binding-linux-x64-gnu`).
 
 À faire côté Cloudflare :
 
@@ -119,7 +120,7 @@ unset CLOUDFLARE_ACCOUNT_ID
    - sample minimal pour un repo léger et un build Cloudflare garanti ;
    - ou pilote 100 documents pour une démo locale/publique plus parlante.
 2. Committer et pousser les changements en attente : `.gitignore`, `PROJECT_STATUS.md`,
-   `package.json`, `package-lock.json`, `wrangler.jsonc`, `.nvmrc`, puis `platform/`
+   `package.json`, `package-lock.json`, `wrangler.jsonc`, `.nvmrc`, `.npmrc`, puis `platform/`
    (en excluant `node_modules/`, `dist/`, `.astro/`, `.wrangler/` — déjà couverts par le
    `.gitignore` modifié).
 3. Lancer le build complet sur les 3 146 documents (OCR et audit déjà faits, donc
