@@ -33,6 +33,7 @@ derive = [
   "scikit-learn>=1.4",
   "regex>=2024.0",
   "jsonschema>=4.22",
+  "PyYAML>=6.0",
 ]
 
 [project.scripts]
