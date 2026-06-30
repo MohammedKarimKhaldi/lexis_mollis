@@ -9,13 +9,25 @@ EPIC F scaffold for the public Lexis Mollis platform:
 
 ## Cloudflare setup
 
-Use the Cloudflare Git screen that asks for both build and deploy commands:
+Preferred setup if Cloudflare lets you choose the site root:
 
 ```text
 Root directory: platform/site
 Build command: npm ci && npm run build
 Deploy command: npx wrangler deploy
 ```
+
+If Cloudflare ignores the site root or starts installing the Python package with
+`pip install .`, use the repository root instead:
+
+```text
+Root directory: /
+Build command: npm ci && npm run build
+Deploy command: npm run deploy
+```
+
+The root-level `package.json` and `wrangler.jsonc` delegate to `platform/site` and deploy
+`platform/site/dist`.
 
 The site deploys with `wrangler.jsonc`:
 
@@ -41,6 +53,14 @@ cd platform/site
 npm ci
 npm run build
 npx wrangler deploy --dry-run
+```
+
+Root-level equivalent, matching the fallback Cloudflare setup:
+
+```bash
+npm ci
+npm run build
+npm run deploy -- --dry-run
 ```
 
 The committed `site/public/data` folder contains a tiny sample dataset so Cloudflare can
