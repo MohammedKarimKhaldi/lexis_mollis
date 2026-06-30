@@ -30,6 +30,9 @@ La feuille de route complète est dans [ROADMAP.md](ROADMAP.md). Le cahier
 d'exécution est dans [BUILD_PLAYBOOK.md](BUILD_PLAYBOOK.md), avec les specs
 détaillées dans [`epics/`](epics/).
 
+Le statut opérationnel de déploiement est suivi dans
+[PROJECT_STATUS.md](PROJECT_STATUS.md).
+
 Flux cible :
 
 1. OCR fidèle et auditable avec `pdfkb`.

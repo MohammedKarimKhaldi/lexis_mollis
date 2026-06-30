@@ -1,7 +1,7 @@
 # Feuille de route — Base ouverte mondiale de droit souple
 
 **Auteurs / droits :** Mohammed-Karim Khaldi, Reda Rostane
-**Statut :** plan de travail — conçu pour avancer **en parallèle de l'OCR** (encore en cours)
+**Statut :** plan de travail — conçu pour avancer **en parallèle de l'OCR** ; état opérationnel suivi dans [`PROJECT_STATUS.md`](PROJECT_STATUS.md)
 **Vision :** constituer la plus grande base de données ouverte au monde de *droit souple*
 (traités, déclarations, résolutions, recommandations, codes de conduite, lignes
 directrices…), entièrement **en ligne, accessible, open source et gratuite**, avec
