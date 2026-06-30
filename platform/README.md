@@ -28,8 +28,9 @@ Deploy command: npm run deploy
 
 The root-level `package.json` and `wrangler.jsonc` delegate to `platform/site` and deploy
 `platform/site/dist`.
-The committed `.npmrc` files force npm to include optional native dependencies, which is
-needed for Astro/Rolldown on Cloudflare Linux builds.
+The committed `.npmrc` files force npm to include optional native dependencies. Linux native
+bindings for Astro compiler, esbuild, and Rolldown are also direct optional dependencies so
+Cloudflare does not depend on transitive optional dependency resolution.
 
 The site deploys with `wrangler.jsonc`:
 
