@@ -65,8 +65,26 @@ Export léger exploitable pendant l'OCR :
 python -m pdfkb audit --state metadata/pipeline.sqlite3 --output outputs_v2 --light
 ```
 
-Les commandes `similarity build` et `graph build` sont prévues par les EPIC C/D et
-seront ajoutées au fur et à mesure des modules dérivés.
+Pilote similarité lexical léger pendant l'OCR :
+
+```bash
+python -m pdfkb similarity build \
+  --kb outputs_v2/kb/pages.jsonl \
+  --output outputs_v2/similarity_pilot \
+  --lexical-only \
+  --limit-pages 500
+```
+
+Build complet similarité lexicale + embeddings + FAISS, à lancer quand la machine
+peut encaisser l'encodage local :
+
+```bash
+python -m pdfkb similarity build \
+  --kb outputs_v2/kb/pages.jsonl \
+  --output outputs_v2/similarity
+```
+
+La commande `graph build` est prévue par l'EPIC D.
 
 ## Données, licence et attribution
 
@@ -98,4 +116,3 @@ relation/similarité manquante.
 ## Auteurs
 
 Mohammed-Karim Khaldi, Reda Rostane.
-

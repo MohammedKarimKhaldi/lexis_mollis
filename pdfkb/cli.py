@@ -53,6 +53,37 @@ def build_parser() -> argparse.ArgumentParser:
     benchmark.add_argument("--cases", type=Path, default=Path("benchmarks/cases.json"))
     benchmark.add_argument("--dpi", type=int, default=200)
     benchmark.add_argument("--report", type=Path)
+
+    similarity = subparsers.add_parser("similarity", help="Construire les similarités lexicales/sémantiques")
+    similarity_subparsers = similarity.add_subparsers(dest="similarity_command", required=True)
+    similarity_build = similarity_subparsers.add_parser("build", help="Construire chunks, index FAISS, arêtes et clusters")
+    similarity_build.add_argument("--kb", type=Path, required=True, help="Fichier pages JSONL, ex. outputs_v2/kb/pages.jsonl")
+    similarity_build.add_argument("--output", type=Path, required=True, help="Répertoire de sortie similarity/")
+    similarity_build.add_argument("--model", default="sentence-transformers/LaBSE")
+    similarity_build.add_argument(
+        "--fallback-model",
+        default="sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+    )
+    similarity_build.add_argument("--target-tokens", type=int, default=384)
+    similarity_build.add_argument("--overlap", type=int, default=64)
+    similarity_build.add_argument("--minhash-perm", type=int, default=128)
+    similarity_build.add_argument("--char-ngram", type=int, default=5)
+    similarity_build.add_argument("--lsh-threshold", type=float, default=0.5)
+    similarity_build.add_argument("--knn", type=int, default=20)
+    similarity_build.add_argument("--w-lexical", type=float, default=0.5)
+    similarity_build.add_argument("--w-semantic", type=float, default=0.5)
+    similarity_build.add_argument("--t-duplicate", type=float, default=0.90)
+    similarity_build.add_argument("--t-clause-reuse", type=float, default=0.60)
+    similarity_build.add_argument("--t-translation", type=float, default=0.80)
+    similarity_build.add_argument("--t-weak-link", type=float, default=0.70)
+    similarity_build.add_argument("--batch-size", type=int, default=64)
+    similarity_build.add_argument("--seed", type=int, default=20260701)
+    similarity_build.add_argument("--limit-pages", type=int, help="Limiter le nombre de pages pour un pilote")
+    similarity_build.add_argument(
+        "--lexical-only",
+        action="store_true",
+        help="Pilote rapide sans embeddings/FAISS, utile pendant que l'OCR tourne",
+    )
     return parser
 
 
@@ -83,6 +114,33 @@ def main(argv: list[str] | None = None) -> int:
     elif args.command == "status":
         with PipelineState(args.state) as state:
             manifest = state.progress()
+    elif args.command == "similarity":
+        from .similarity import SimilarityConfig
+        from .similarity.run import build as build_similarity
+
+        if args.similarity_command != "build":
+            raise ValueError(f"Unknown similarity command: {args.similarity_command}")
+        cfg = SimilarityConfig(
+            model=args.model,
+            fallback_model=args.fallback_model,
+            target_tokens=args.target_tokens,
+            overlap_tokens=args.overlap,
+            minhash_perm=args.minhash_perm,
+            char_ngram=args.char_ngram,
+            lsh_threshold=args.lsh_threshold,
+            knn=args.knn,
+            w_lexical=args.w_lexical,
+            w_semantic=args.w_semantic,
+            t_duplicate=args.t_duplicate,
+            t_clause_reuse=args.t_clause_reuse,
+            t_translation=args.t_translation,
+            t_weak_link=args.t_weak_link,
+            batch_size=args.batch_size,
+            seed=args.seed,
+            lexical_only=args.lexical_only,
+            limit_pages=args.limit_pages,
+        )
+        manifest = build_similarity(args.kb, args.output, cfg)
     else:
         manifest = run_benchmark(args.source, args.cases, dpi=args.dpi)
         if args.report:
