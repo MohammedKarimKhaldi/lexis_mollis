@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.1-draft",
+  "description": "Human-annotated calibration cases for similarity thresholds. Fill with at least 30 positive and 30 negative real pairs before claiming calibrated thresholds.",
+  "case_format": {
+    "case_id": "stable short identifier",
+    "src": "chunk_id or document node id",
+    "dst": "chunk_id or document node id",
+    "label": "positive or negative",
+    "expected_type": "duplicate, clause_reuse, semantic_kin, translation, weak_link, similar_to, same_instrument_as, or null for negative",
+    "notes": "short human rationale"
+  },
+  "minimum_for_calibration": {
+    "positive": 30,
+    "negative": 30
+  },
+  "cases": []
+}
+

@@ -86,6 +86,15 @@ python -m pdfkb similarity build \
 
 La commande `graph build` est prévue par l'EPIC D.
 
+Calibration des seuils, après annotation humaine de paires réelles dans
+`benchmarks/similarity_cases.json` :
+
+```bash
+python scripts/calibrate_similarity.py \
+  --similarity-dir outputs_v2/similarity \
+  --output outputs_v2/similarity/calibration_report.json
+```
+
 ## Données, licence et attribution
 
 Le code est distribué sous licence Apache-2.0. Les données produites par Lexis
