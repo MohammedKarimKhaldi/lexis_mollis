@@ -2,6 +2,7 @@
 
 [![Code license: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE)
 [![Data license: CC-BY-4.0](https://img.shields.io/badge/data-CC--BY--4.0-green.svg)](LICENSE-DATA)
+[![CI](https://github.com/MohammedKarimKhaldi/lexis_mollis/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammedKarimKhaldi/lexis_mollis/actions/workflows/ci.yml)
 [![DOI](https://img.shields.io/badge/DOI-Zenodo%20à%20venir-lightgrey.svg)](.zenodo.json)
 
 Lexis Mollis vise à construire une base ouverte, auditable et interrogeable de
