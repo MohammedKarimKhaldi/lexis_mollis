@@ -1,0 +1,216 @@
+<section class="search-shell card" aria-label="Recherche dans le corpus">
+  <div class="search-controls">
+    <label>
+      <span>Recherche plein texte</span>
+      <input id="search-query" type="search" placeholder="ex. arbitrage, frontières, droits de l'homme…" />
+    </label>
+    <label>
+      <span>Langue</span>
+      <select id="language-filter">
+        <option value="">Toutes</option>
+      </select>
+    </label>
+    <label>
+      <span>Type</span>
+      <select id="type-filter">
+        <option value="">Tous</option>
+      </select>
+    </label>
+  </div>
+  <div class="semantic-row">
+    <button class="button primary" id="semantic-button" type="button">Recherche sémantique</button>
+    <span id="semantic-status">Disponible via HF Space quand l’index FAISS est publié.</span>
+  </div>
+  <div id="search-results" class="results" aria-live="polite"></div>
+</section>
+
+<script>
+  import MiniSearch from "minisearch";
+
+  const queryInput = document.querySelector("#search-query");
+  const languageFilter = document.querySelector("#language-filter");
+  const typeFilter = document.querySelector("#type-filter");
+  const resultsEl = document.querySelector("#search-results");
+  const semanticButton = document.querySelector("#semantic-button");
+  const semanticStatus = document.querySelector("#semantic-status");
+
+  const [searchData, facets] = await Promise.all([
+    fetch("/data/search.json").then((response) => response.json()),
+    fetch("/data/facets.json").then((response) => response.json())
+  ]);
+
+  const documents = searchData.documents || [];
+  const miniSearch = new MiniSearch({
+    fields: ["title", "text", "summary", "tags"],
+    storeFields: [
+      "document_id",
+      "title",
+      "year",
+      "doc_type",
+      "languages",
+      "quality_score",
+      "review_required",
+      "review_priority",
+      "summary"
+    ],
+    searchOptions: {
+      boost: { title: 3, tags: 1.5 },
+      fuzzy: 0.12,
+      prefix: true
+    }
+  });
+  miniSearch.addAll(documents);
+
+  for (const language of facets.languages || []) {
+    const option = document.createElement("option");
+    option.value = language;
+    option.textContent = language;
+    languageFilter.append(option);
+  }
+
+  for (const type of facets.doc_types || []) {
+    const option = document.createElement("option");
+    option.value = type;
+    option.textContent = type;
+    typeFilter.append(option);
+  }
+
+  function qualityClass(result) {
+    if (!result.review_required) return "quality";
+    return result.review_priority === "high" ? "quality priority" : "quality review";
+  }
+
+  function passesFilters(result) {
+    const language = languageFilter.value;
+    const docType = typeFilter.value;
+    const languages = result.languages || [];
+    return (!language || languages.includes(language)) && (!docType || result.doc_type === docType);
+  }
+
+  function render(items) {
+    const visible = items.filter(passesFilters).slice(0, 24);
+    if (!visible.length) {
+      resultsEl.innerHTML = "<p class=\"muted\">Aucun résultat pour ces filtres.</p>";
+      return;
+    }
+    resultsEl.innerHTML = visible
+      .map((result) => {
+        const score =
+          typeof result.quality_score === "number" ? result.quality_score.toFixed(2) : "n/a";
+        const label = result.review_required ? `Révision · ${score}` : `Accepté · ${score}`;
+        return `<a class="result panel" href="/document/${encodeURIComponent(result.document_id)}/">
+          <span class="${qualityClass(result)}">${label}</span>
+          <strong>${result.title || result.document_id}</strong>
+          <span class="result-meta">${result.year || "année n/a"} · ${result.doc_type || "type n/a"} · ${(result.languages || []).join(", ")}</span>
+          <span>${result.summary || ""}</span>
+        </a>`;
+      })
+      .join("");
+  }
+
+  function update() {
+    const q = queryInput.value.trim();
+    const hits = q ? miniSearch.search(q) : documents;
+    render(hits);
+  }
+
+  queryInput.addEventListener("input", update);
+  languageFilter.addEventListener("change", update);
+  typeFilter.addEventListener("change", update);
+  semanticButton.addEventListener("click", async () => {
+    const q = queryInput.value.trim();
+    if (!q) {
+      semanticStatus.textContent = "Entre une requête avant d’appeler la recherche sémantique.";
+      return;
+    }
+    const endpoint =
+      import.meta.env.PUBLIC_SEARCH_API_URL || "https://lexis-mollis-search.hf.space/search";
+    semanticStatus.textContent = "Interrogation du Space…";
+    try {
+      const url = new URL(endpoint);
+      url.searchParams.set("q", q);
+      url.searchParams.set("k", "10");
+      const response = await fetch(url);
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const payload = await response.json();
+      semanticStatus.textContent = `${payload.results?.length || 0} résultat(s) sémantique(s).`;
+    } catch (error) {
+      semanticStatus.textContent =
+        "Le Space ne répond pas encore ; la recherche locale reste disponible.";
+    }
+  });
+
+  update();
+</script>
+
+<style>
+  .search-shell {
+    padding: 24px;
+  }
+
+  .search-controls {
+    display: grid;
+    grid-template-columns: 1.6fr 0.7fr 0.9fr;
+    gap: 14px;
+  }
+
+  label {
+    display: grid;
+    gap: 0.42rem;
+    color: var(--muted);
+    font-size: 0.84rem;
+    font-weight: 800;
+  }
+
+  input,
+  select {
+    width: 100%;
+    min-height: 46px;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: #fffefb;
+    color: var(--ink);
+    padding: 0.72rem 0.86rem;
+  }
+
+  .semantic-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 18px 0 0;
+    color: var(--muted);
+    font-size: 0.92rem;
+  }
+
+  .results {
+    display: grid;
+    gap: 12px;
+    margin-top: 22px;
+  }
+
+  :global(.result) {
+    display: grid;
+    gap: 0.35rem;
+    padding: 18px;
+  }
+
+  :global(.result strong) {
+    font-size: 1rem;
+  }
+
+  :global(.result-meta) {
+    color: var(--muted);
+    font-size: 0.88rem;
+  }
+
+  @media (max-width: 760px) {
+    .search-controls {
+      grid-template-columns: 1fr;
+    }
+
+    .semantic-row {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+  }
+</style>

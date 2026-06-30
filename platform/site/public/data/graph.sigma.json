@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "doc:sample-declaration-001",
+      "label": "Déclaration pilote",
+      "type": "Document",
+      "document_id": "sample-declaration-001",
+      "x": -0.8,
+      "y": 0.1,
+      "size": 8
+    },
+    {
+      "id": "doc:sample-guideline-002",
+      "label": "Lignes directrices OCR",
+      "type": "Document",
+      "document_id": "sample-guideline-002",
+      "x": 0.8,
+      "y": 0.15,
+      "size": 8
+    },
+    {
+      "id": "topic:ocr_audit",
+      "label": "Audit OCR",
+      "type": "Topic",
+      "x": 0,
+      "y": 0.9,
+      "size": 6
+    },
+    {
+      "id": "org:lexis_mollis",
+      "label": "Lexis Mollis",
+      "type": "Organization",
+      "x": 0,
+      "y": -0.8,
+      "size": 6
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc:sample-declaration-001",
+      "target": "org:lexis_mollis",
+      "type": "published_by",
+      "weight": 1,
+      "provisional": false
+    },
+    {
+      "source": "doc:sample-guideline-002",
+      "target": "topic:ocr_audit",
+      "type": "about_topic",
+      "weight": 1,
+      "provisional": true
+    },
+    {
+      "source": "doc:sample-declaration-001",
+      "target": "doc:sample-guideline-002",
+      "type": "related_sample",
+      "weight": 0.4,
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+---
+interface Props {
+  score?: number | null;
+  reviewRequired?: boolean;
+  priority?: string | null;
+}
+
+const { score = null, reviewRequired = false, priority = "none" } = Astro.props;
+const scoreLabel = typeof score === "number" ? score.toFixed(2) : "n/a";
+const cls = reviewRequired ? (priority === "high" ? "quality priority" : "quality review") : "quality";
+const label = reviewRequired ? `Révision ${priority || "normale"} · ${scoreLabel}` : `Accepté · ${scoreLabel}`;
+---
+
+<span class={cls}>{label}</span>

@@ -1,0 +1,36 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SearchInterface from "../components/SearchInterface.astro";
+---
+
+<BaseLayout title="Recherche">
+  <section class="section container intro">
+    <h1>Recherche</h1>
+    <p class="muted">
+      Recherche instantanée dans les métadonnées et les extraits OCR publiés. Le bouton
+      sémantique appellera le Space Hugging Face lorsque l’index FAISS complet sera en ligne.
+    </p>
+  </section>
+  <section class="container">
+    <SearchInterface />
+  </section>
+</BaseLayout>
+
+<style>
+  .intro {
+    padding-bottom: 28px;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: clamp(3rem, 7vw, 6rem);
+    line-height: 0.95;
+    letter-spacing: -0.07em;
+  }
+
+  p {
+    max-width: 72ch;
+    margin-top: 1rem;
+    font-size: 1.08rem;
+  }
+</style>

@@ -1,0 +1,37 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import GraphView from "../components/GraphView.astro";
+---
+
+<BaseLayout title="Graphe">
+  <section class="section container intro">
+    <h1>Graphe de connaissances</h1>
+    <p class="muted">
+      Vue Sigma.js des documents, instruments, entités et thèmes. Les liens provisoires et
+      les scores issus de pages faibles restent explicitement signalés dans les données.
+    </p>
+  </section>
+  <section class="container">
+    <GraphView />
+  </section>
+</BaseLayout>
+
+<style>
+  .intro {
+    padding-bottom: 28px;
+  }
+
+  h1 {
+    max-width: 12ch;
+    margin: 0;
+    font-size: clamp(3rem, 7vw, 6rem);
+    line-height: 0.95;
+    letter-spacing: -0.07em;
+  }
+
+  p {
+    max-width: 72ch;
+    margin-top: 1rem;
+    font-size: 1.08rem;
+  }
+</style>

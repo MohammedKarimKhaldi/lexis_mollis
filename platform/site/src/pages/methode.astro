@@ -1,0 +1,77 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="Méthode">
+  <section class="section container">
+    <h1>Méthode</h1>
+    <div class="method-grid">
+      <article class="card">
+        <h2>OCR fidèle</h2>
+        <p>
+          Le pipeline local combine couche texte native, Apple Vision et Tesseract. Les
+          candidats, coordonnées, langues, scores et drapeaux sont conservés pour audit.
+        </p>
+      </article>
+      <article class="card">
+        <h2>Nettoyage déterministe</h2>
+        <p>
+          La couche knowledge base normalise Unicode, espaces, paragraphes et césures sûres.
+          Aucune correction générative ne reformule le contenu documentaire.
+        </p>
+      </article>
+      <article class="card">
+        <h2>Graphes & similarités</h2>
+        <p>
+          Les chunks, liens lexicaux, embeddings et entités propagent toujours les champs de
+          qualité OCR afin que les résultats faibles restent provisoires.
+        </p>
+      </article>
+    </div>
+    <p class="method-link">
+      Voir aussi le protocole local :
+      <a href="https://github.com/MohammedKarimKhaldi/lexis_mollis/tree/main/metadata_design">
+        metadata_design
+      </a>.
+    </p>
+  </section>
+</BaseLayout>
+
+<style>
+  h1 {
+    margin: 0 0 1.5rem;
+    font-size: clamp(3rem, 7vw, 6rem);
+    line-height: 0.95;
+    letter-spacing: -0.07em;
+  }
+
+  .method-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px;
+  }
+
+  article {
+    padding: 26px;
+  }
+
+  h2 {
+    margin: 0 0 0.7rem;
+    letter-spacing: -0.05em;
+  }
+
+  p {
+    color: var(--muted);
+  }
+
+  .method-link a {
+    color: var(--accent-strong);
+    font-weight: 800;
+  }
+
+  @media (max-width: 860px) {
+    .method-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

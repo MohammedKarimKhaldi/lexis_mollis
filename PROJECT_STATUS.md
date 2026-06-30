@@ -1,16 +1,32 @@
 # Lexis Mollis — statut de déploiement
 
-Dernière mise à jour vérifiée : 2026-06-30.
+Dernière mise à jour vérifiée : 2026-06-30 (re-vérifiée par Claude après la fin de l'OCR).
 
 ## Résumé
+
+**L'OCR est terminé.** Le run est sorti avec `status=0` à 22:23:22+0100 :
+3 146/3 146 documents exportés, 26 566 pages, 0 document incomplet, 0 erreur.
+**L'audit complet a déjà tourné sur l'ensemble du corpus** dans la foulée :
+`outputs_v2/kb/pages.jsonl` et `outputs_v2/audit/pages.jsonl` contiennent chacun
+26 566 lignes, `outputs_v2/clean/` et `outputs_v2/raw/` contiennent chacun 3 146
+fichiers Markdown. Le blocage « attendre la fin de l'OCR » des versions précédentes de
+ce document n'existe donc plus.
 
 Le socle local est opérationnel : pipeline OCR v2, schémas, similarité, knowledge graph,
 outillage de release et CI GitHub. Le dépôt GitHub est public, le dataset Hugging Face
 `lexis-mollis/soft-law-corpus` existe et est public, et Zenodo est connecté à GitHub selon
 la configuration effectuée côté compte.
 
-Le déploiement public complet reste bloqué par la configuration Cloudflare, par la fin de
-l'OCR, puis par les builds complets de similarité/graphe/release.
+Ce qui reste avant le déploiement public complet : lancer les builds **complets** (pas
+pilotes) de similarité/graphe/release sur les 3 146 documents, finaliser la configuration
+Cloudflare, et faire l'annotation humaine de calibration des seuils de similarité.
+
+**Changements locaux à traiter avant tout build :** `.gitignore` et `PROJECT_STATUS.md`
+sont modifiés mais non commités ; le dossier `platform/` (scaffold Astro + Spaces HF) est
+entièrement non suivi par git, y compris `platform/site/node_modules/` (volumineux —
+déjà exclu dans le `.gitignore` modifié, mais pas encore commité). À faire : committer
+`.gitignore`, `PROJECT_STATUS.md`, puis `platform/` (hors `node_modules/`, `dist/`,
+`.astro/`, `.wrangler/`), et pousser vers `origin/main`.
 
 ## État vérifié
 
@@ -21,9 +37,10 @@ l'OCR, puis par les builds complets de similarité/graphe/release.
 | `HF_TOKEN` | Configuré | Secret GitHub Actions présent. À régénérer si le token exposé précédemment n'a pas encore été révoqué. |
 | Hugging Face dataset | OK | `lexis-mollis/soft-law-corpus`, public, non gated, non disabled. |
 | Zenodo | Connecté côté compte | Webhook/intégration annoncé comme connecté ; DOI vérifiable seulement après première release GitHub. |
-| Cloudflare | À configurer | Aucun secret Cloudflare GitHub Actions présent, aucun workflow de déploiement site encore présent. |
+| Cloudflare | Scaffold prêt | `platform/site` ajouté pour Workers Static Assets ; configuration Git Cloudflare : root `platform/site`, build `npm ci && npm run build`, deploy `npx wrangler deploy`. |
 | Branch protection | À configurer | Pas encore de protection `main`/required checks. |
-| OCR | En cours | 23 824 / 26 540 pages, 89.766 %, 0 erreur lors de la dernière vérification. |
+| OCR | **Terminé** | 3 146/3 146 documents, 26 566 pages, 0 erreur, run sorti `status=0`. |
+| Audit complet | **Terminé** | `outputs_v2/kb/` et `outputs_v2/audit/` régénérés sur le corpus complet (26 566 lignes), 6 084 pages en file de révision (`outputs_v2/review_queue.csv`). |
 
 ## Statut par epic
 
@@ -31,25 +48,36 @@ l'OCR, puis par les builds complets de similarité/graphe/release.
 |---|---:|---|
 | A — Infrastructure & gouvernance | Partiel avancé | GitHub public OK, HF dataset OK, CI OK. Reste : branch protection, éventuelle org GitHub `lexis-mollis`, premier DOI Zenodo après release. |
 | B — Modèle de données & standards | Fait | Schémas, taxonomie, ontologie, identifiants et validation automatisée en place. |
-| C — Similarité | Implémenté, pilote fait | Attendre fin OCR pour build complet ; annoter ≥30 paires positives et ≥30 négatives pour calibrer les seuils. |
-| D — Knowledge graph | Implémenté, pilote fait | Attendre full similarity/full OCR ; enrichir gazetteers ; valider un échantillon d'entités. |
+| C — Similarité | Implémenté, pilote fait | OCR terminé : build complet à lancer maintenant sur les 3 146 documents (le `similarity_pilot` actuel n'a qu'1 arête/2 clusters, donc non représentatif). Annoter ≥30 paires positives et ≥30 négatives pour calibrer les seuils (`scripts/calibrate_similarity.py` existe, aucune annotation humaine trouvée sur le disque). |
+| D — Knowledge graph | Implémenté, pilote fait | Build complet à lancer après le build de similarité complet ; enrichir gazetteers ; valider un échantillon d'entités. |
 | E — Export & publication | Outillage local fait | Publier vers HF après release complète ; DOI Zenodo après tag ; droits PDF à revoir avant Internet Archive. |
-| F — Plateforme web | Non commencé | Choix Cloudflare confirmé ; créer `platform/site`, données site, workflow Cloudflare et secrets. |
+| F — Plateforme web | Scaffold déployable | Astro + Workers Static Assets, données sample, pages principales, Sigma.js et Spaces search/SPARQL scaffolds. Reste : brancher release complète, recherche FAISS/BM25 réelle, URL publique. |
 | G — CI/CD | Partiel | CI qualité OK. Reste : `build-derive.yml`, `release.yml`, `deploy-site.yml`, `keepalive.yml`. |
 | H — Expansion corpus | Non commencé | Choisir et implémenter le premier connecteur, probablement EUR-Lex, avec droits/provenance explicites. |
 | I — Révision communauté | Non commencé | Générer lots de révision ; choisir mini-interface Astro ou workflow issues GitHub ; stocker `review_events.jsonl`. |
 
-## Déploiement Cloudflare — besoins restants
+## Déploiement Cloudflare — configuration
+
+Si Cloudflare demande un build command et un deploy command, utiliser :
+
+```text
+Root directory: platform/site
+Build command: npm ci && npm run build
+Deploy command: npx wrangler deploy
+```
+
+La configuration Workers Static Assets est versionnée dans `platform/site/wrangler.jsonc`.
 
 À faire côté Cloudflare :
 
 1. Créer ou choisir un compte Cloudflare.
-2. Créer un projet Cloudflare Pages, recommandé : `lexis-mollis`.
-3. Créer un token API Cloudflare limité au déploiement Pages.
-4. Ajouter les secrets GitHub Actions :
+2. Connecter le dépôt GitHub et choisir le root `platform/site`.
+3. Déployer avec les commandes ci-dessus.
+4. Optionnel pour EPIC G : créer un token API Cloudflare limité au déploiement.
+5. Optionnel pour GitHub Actions : ajouter les secrets :
    - `CLOUDFLARE_API_TOKEN`
    - `CLOUDFLARE_ACCOUNT_ID`
-5. Ajouter le workflow `deploy-site.yml` après création de `platform/site`.
+6. Ajouter `deploy-site.yml` seulement si on choisit le déploiement via GitHub Actions plutôt que via l’intégration Git Cloudflare.
 
 Commandes prévues après obtention des valeurs :
 
@@ -65,17 +93,23 @@ unset CLOUDFLARE_ACCOUNT_ID
 
 ## Prochaine séquence recommandée
 
-1. Finir l'OCR sans interruption.
-2. Construire une première plateforme Astro avec données pilote locales.
-3. Ajouter `deploy-site.yml` Cloudflare.
-4. À 100 % OCR :
+1. Committer et pousser les changements en attente : `.gitignore`, `PROJECT_STATUS.md`,
+   puis `platform/` (en excluant `node_modules/`, `dist/`, `.astro/`, `.wrangler/` —
+   déjà couverts par le `.gitignore` modifié).
+2. Lancer le build complet sur les 3 146 documents (OCR et audit déjà faits, donc
+   l'étape `audit` ci-dessous est surtout une re-vérification rapide) :
    ```bash
    .venv/bin/python -m pdfkb audit --state metadata/pipeline.sqlite3 --output outputs_v2 --light
    .venv/bin/python -m pdfkb similarity build --kb outputs_v2/kb/pages.jsonl --output outputs_v2/similarity
    .venv/bin/python -m pdfkb graph build --kb outputs_v2/kb/pages.jsonl --similarity outputs_v2/similarity --output outputs_v2/graph
    .venv/bin/python scripts/build_release_tables.py
    ```
-5. Ajouter `release.yml`, publier le dataset HF, créer le tag GitHub `v0.1.0`, récupérer le DOI Zenodo et le reporter dans `CITATION.cff`, `README.md` et la card Hugging Face.
+3. Annoter ≥30 paires positives et ≥30 négatives et lancer
+   `scripts/calibrate_similarity.py` pour calibrer les seuils avant de communiquer
+   sur la qualité de la similarité.
+4. Déployer le scaffold Astro Cloudflare avec les commandes ci-dessus.
+5. Ajouter `deploy-site.yml` Cloudflare si le déploiement doit passer par GitHub Actions.
+6. Ajouter `release.yml`, publier le dataset HF, créer le tag GitHub `v0.1.0`, récupérer le DOI Zenodo et le reporter dans `CITATION.cff`, `README.md` et la card Hugging Face.
 
 ## Points de vigilance
 
@@ -83,4 +117,3 @@ unset CLOUDFLARE_ACCOUNT_ID
 - Ne pas affirmer que les seuils de similarité sont calibrés avant annotation humaine.
 - Ne pas committer de secrets, sorties OCR, bases SQLite, fichiers Parquet, embeddings ou PDF.
 - Si le token Hugging Face exposé précédemment n'a pas été remplacé, le révoquer et mettre à jour `HF_TOKEN`.
-

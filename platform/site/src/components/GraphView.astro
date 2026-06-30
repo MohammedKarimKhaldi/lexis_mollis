@@ -1,0 +1,137 @@
+<section class="graph-shell card">
+  <div class="graph-toolbar">
+    <label>
+      <span>Filtrer un nœud</span>
+      <input id="graph-filter" type="search" placeholder="Titre, État, thème…" />
+    </label>
+    <span id="graph-count" class="muted">Chargement du graphe…</span>
+  </div>
+  <div id="sigma-container" aria-label="Graphe de connaissances Lexis Mollis"></div>
+  <div id="graph-detail" class="graph-detail muted">Clique un nœud pour afficher ses détails.</div>
+</section>
+
+<script>
+  import Graph from "graphology";
+  import Sigma from "sigma";
+
+  const container = document.querySelector("#sigma-container");
+  const detail = document.querySelector("#graph-detail");
+  const count = document.querySelector("#graph-count");
+  const filter = document.querySelector("#graph-filter");
+  const payload = await fetch("/data/graph.sigma.json").then((response) => response.json());
+  const graph = new Graph();
+  const colors = {
+    Document: "#1f6f78",
+    Instrument: "#354a5f",
+    State: "#7b5d2f",
+    Organization: "#594c8f",
+    Topic: "#23724d",
+    default: "#8c96a3"
+  };
+
+  for (const node of payload.nodes || []) {
+    graph.addNode(node.id, {
+      label: node.label || node.id,
+      x: Number.isFinite(node.x) ? node.x : Math.random(),
+      y: Number.isFinite(node.y) ? node.y : Math.random(),
+      size: node.size || 4,
+      color: colors[node.type] || colors.default,
+      type: node.type || "Node",
+      document_id: node.document_id || node.id.replace(/^doc:/, "")
+    });
+  }
+
+  for (const edge of payload.edges || []) {
+    if (graph.hasNode(edge.source) && graph.hasNode(edge.target)) {
+      graph.mergeEdge(edge.source, edge.target, {
+        label: edge.type || "link",
+        size: Math.max(1, Number(edge.weight || 1)),
+        color: edge.provisional ? "rgba(154, 91, 31, 0.45)" : "rgba(23, 33, 43, 0.22)"
+      });
+    }
+  }
+
+  const renderer = new Sigma(graph, container, {
+    renderEdgeLabels: false,
+    allowInvalidContainer: true
+  });
+
+  count.textContent = `${graph.order} nœuds · ${graph.size} liens`;
+
+  renderer.on("clickNode", ({ node }) => {
+    const attrs = graph.getNodeAttributes(node);
+    const href = attrs.type === "Document" ? `/document/${encodeURIComponent(attrs.document_id)}/` : null;
+    detail.innerHTML = href
+      ? `<strong>${attrs.label}</strong><br><span>${attrs.type}</span><br><a class="button secondary" href="${href}">Ouvrir la fiche</a>`
+      : `<strong>${attrs.label}</strong><br><span>${attrs.type}</span>`;
+  });
+
+  filter.addEventListener("input", () => {
+    const q = filter.value.trim().toLowerCase();
+    renderer.setSetting("nodeReducer", (node, data) => {
+      if (!q) return data;
+      const label = String(data.label || "").toLowerCase();
+      if (label.includes(q)) return { ...data, color: "#144d57", size: Math.max(data.size, 8) };
+      return { ...data, color: "rgba(140,150,163,0.18)", label: "" };
+    });
+    renderer.refresh();
+  });
+</script>
+
+<style>
+  .graph-shell {
+    padding: 22px;
+  }
+
+  .graph-toolbar {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 14px;
+  }
+
+  label {
+    display: grid;
+    gap: 0.42rem;
+    width: min(420px, 100%);
+    color: var(--muted);
+    font-size: 0.84rem;
+    font-weight: 800;
+  }
+
+  input {
+    min-height: 44px;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: #fffefb;
+    color: var(--ink);
+    padding: 0.72rem 0.86rem;
+  }
+
+  #sigma-container {
+    height: min(66vh, 620px);
+    min-height: 420px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    background:
+      radial-gradient(circle at 20% 20%, rgba(31, 111, 120, 0.12), transparent 20rem),
+      #fffefb;
+  }
+
+  .graph-detail {
+    display: grid;
+    gap: 0.4rem;
+    margin-top: 14px;
+    padding: 14px;
+    border: 1px dashed var(--line);
+    border-radius: var(--radius-md);
+  }
+
+  @media (max-width: 760px) {
+    .graph-toolbar {
+      align-items: stretch;
+      flex-direction: column;
+    }
+  }
+</style>

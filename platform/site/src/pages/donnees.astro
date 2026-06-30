@@ -1,0 +1,65 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { loadJson, type SiteManifest } from "../lib/data";
+
+const manifest = loadJson<SiteManifest>("public/data/manifest.json", {});
+---
+
+<BaseLayout title="Données & licence">
+  <section class="section container">
+    <h1>Données & licence</h1>
+    <div class="content card">
+      <p>
+        Les transcriptions, métadonnées, chunks, graphes et similarités dérivés sont publiés
+        comme corpus scientifique ouvert avec attribution à Mohammed-Karim Khaldi et Reda
+        Rostane.
+      </p>
+      <div class="notice">
+        Licence des données dérivées : <strong>CC-BY-4.0</strong>. Le statut de droits des PDF
+        sources reste conservé document par document via <code>rights_status</code>.
+      </div>
+      <h2>Exports publics</h2>
+      <ul>
+        <li><a href="https://huggingface.co/datasets/lexis-mollis/soft-law-corpus">Dataset Hugging Face</a></li>
+        <li><a href="/data/documents.json">Index documents JSON</a></li>
+        <li><a href="/data/graph.sigma.json">Graphe Sigma JSON</a></li>
+        <li><a href="/data/manifest.json">Manifest du site</a></li>
+      </ul>
+      <h2>État de ce build</h2>
+      <pre>{JSON.stringify(manifest, null, 2)}</pre>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  h1 {
+    margin: 0 0 1.5rem;
+    font-size: clamp(3rem, 7vw, 6rem);
+    line-height: 0.95;
+    letter-spacing: -0.07em;
+  }
+
+  .content {
+    display: grid;
+    gap: 1.2rem;
+    padding: 28px;
+  }
+
+  h2 {
+    margin: 0.5rem 0 0;
+    letter-spacing: -0.04em;
+  }
+
+  a {
+    color: var(--accent-strong);
+    font-weight: 800;
+  }
+
+  pre {
+    overflow: auto;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    background: #fffefb;
+    padding: 16px;
+  }
+</style>

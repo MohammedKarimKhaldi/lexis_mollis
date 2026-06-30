@@ -1,0 +1,232 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import QualityBadge from "../../components/QualityBadge.astro";
+import { loadJson, type DocumentSummary } from "../../lib/data";
+
+type PageRecord = {
+  page_number: number;
+  text: string;
+  quality_score?: number | null;
+  review_required?: boolean;
+  review_priority?: string | null;
+  method?: string | null;
+  language?: string[];
+};
+
+type DocumentRecord = DocumentSummary & {
+  source_filename?: string | null;
+  source_url?: string | null;
+  treaty_id?: string | null;
+  rights_status?: string | null;
+  pages?: PageRecord[];
+  similar_documents?: Array<{ document_id: string; title?: string; score?: number; type?: string }>;
+};
+
+export function getStaticPaths() {
+  const docs = loadJson<DocumentSummary[]>("public/data/documents.json", []);
+  return docs.map((doc) => {
+    const fullDoc = loadJson<DocumentRecord>(`public/data/docs/${doc.document_id}.json`, doc as DocumentRecord);
+    return {
+      params: { document_id: doc.document_id },
+      props: { doc: fullDoc }
+    };
+  });
+}
+
+const { doc } = Astro.props as { doc: DocumentRecord };
+const pages = doc.pages || [];
+---
+
+<BaseLayout title={doc.title || doc.document_id}>
+  <section class="section container doc-hero">
+    <div>
+      <QualityBadge
+        score={doc.quality_score}
+        reviewRequired={doc.review_required}
+        priority={doc.review_priority}
+      />
+      <h1>{doc.title || doc.document_id}</h1>
+      <div class="doc-meta">
+        <span>{doc.document_id}</span>
+        <span>·</span>
+        <span>{doc.year || "année inconnue"}</span>
+        <span>·</span>
+        <span>{doc.doc_type || "type à qualifier"}</span>
+        <span>·</span>
+        <span>{(doc.languages || []).join(", ") || "langue n/a"}</span>
+      </div>
+    </div>
+    <aside class="panel meta-panel">
+      <strong>Provenance</strong>
+      <dl>
+        <dt>Fichier</dt><dd>{doc.source_filename || "n/a"}</dd>
+        <dt>Traité</dt><dd>{doc.treaty_id || "n/a"}</dd>
+        <dt>Droits</dt><dd>{doc.rights_status || "to_review"}</dd>
+      </dl>
+      {doc.source_url && <a class="button secondary" href={doc.source_url}>PDF source</a>}
+    </aside>
+  </section>
+
+  {doc.review_required && (
+    <section class="container">
+      <div class="notice">
+        Cette fiche contient au moins une page à réviser. Elle reste publiée pour conserver
+        l’exhaustivité du corpus, avec son score et ses raisons de révision.
+      </div>
+    </section>
+  )}
+
+  <section class="section container content-grid">
+    <article>
+      <h2>Texte propre</h2>
+      {pages.length ? (
+        pages.map((page) => (
+          <section class="page-block">
+            <div class="page-head">
+              <strong>Page {page.page_number}</strong>
+              <QualityBadge
+                score={page.quality_score}
+                reviewRequired={page.review_required}
+                priority={page.review_priority}
+              />
+            </div>
+            <div class="page-text">{page.text}</div>
+          </section>
+        ))
+      ) : (
+        <div class="page-text">{doc.text_preview || "Texte non disponible dans ce build."}</div>
+      )}
+    </article>
+    <aside class="side">
+      <section class="panel side-card">
+        <h2>Tags</h2>
+        <div class="tag-list">
+          {(doc.tags || []).map((tag) => <span class="tag">{tag}</span>)}
+        </div>
+      </section>
+      <section class="panel side-card">
+        <h2>Documents similaires</h2>
+        {(doc.similar_documents || []).length ? (
+          <ul>
+            {(doc.similar_documents || []).map((item) => (
+              <li>
+                <a href={`/document/${encodeURIComponent(item.document_id)}/`}>
+                  {item.title || item.document_id}
+                </a>
+                <span>{item.type || "similar"} · {typeof item.score === "number" ? item.score.toFixed(2) : "n/a"}</span>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="muted">Aucun lien de similarité publié dans ce build.</p>
+        )}
+      </section>
+    </aside>
+  </section>
+</BaseLayout>
+
+<style>
+  .doc-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 320px;
+    gap: 24px;
+    align-items: start;
+    padding-bottom: 28px;
+  }
+
+  h1 {
+    margin: 1rem 0 0;
+    max-width: 16ch;
+    font-size: clamp(2.8rem, 6vw, 5.6rem);
+    line-height: 0.95;
+    letter-spacing: -0.07em;
+  }
+
+  .meta-panel,
+  .side-card {
+    padding: 20px;
+  }
+
+  dl {
+    display: grid;
+    grid-template-columns: 90px 1fr;
+    gap: 0.45rem 0.8rem;
+    margin: 1rem 0;
+    font-size: 0.92rem;
+  }
+
+  dt {
+    color: var(--muted);
+  }
+
+  dd {
+    margin: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .content-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 320px;
+    gap: 24px;
+    align-items: start;
+  }
+
+  h2 {
+    margin: 0 0 1rem;
+    letter-spacing: -0.04em;
+  }
+
+  .page-block {
+    display: grid;
+    gap: 0.8rem;
+    margin-bottom: 18px;
+  }
+
+  .page-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .side {
+    display: grid;
+    gap: 16px;
+    position: sticky;
+    top: 96px;
+  }
+
+  .tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+
+  ul {
+    display: grid;
+    gap: 0.8rem;
+    padding-left: 1rem;
+  }
+
+  li span {
+    display: block;
+    color: var(--muted);
+    font-size: 0.86rem;
+  }
+
+  li a {
+    color: var(--accent-strong);
+    font-weight: 800;
+  }
+
+  @media (max-width: 900px) {
+    .doc-hero,
+    .content-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .side {
+      position: static;
+    }
+  }
+</style>

@@ -1,0 +1,188 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import DocCard from "../components/DocCard.astro";
+import { loadJson, type DocumentSummary, type SiteManifest } from "../lib/data";
+
+const docs = loadJson<DocumentSummary[]>("public/data/documents.json", []);
+const manifest = loadJson<SiteManifest>("public/data/manifest.json", {});
+const featured = docs.slice(0, 6);
+---
+
+<BaseLayout title="Lexis Mollis">
+  <section class="hero container">
+    <div class="hero-copy">
+      <h1>Une base ouverte du droit souple</h1>
+      <p>
+        Lexis Mollis rassemble des textes juridiques transcrits localement, audités page par
+        page, reliés par similarité et exposés comme corpus scientifique reproductible.
+      </p>
+      <div class="hero-actions">
+        <a class="button primary" href="/recherche/">Explorer le corpus</a>
+        <a class="button secondary" href="/methode/">Voir la méthode</a>
+      </div>
+    </div>
+    <aside class="hero-panel card" aria-label="Aperçu du corpus">
+      <div class="scan-line"></div>
+      <strong>OCR auditable</strong>
+      <p>
+        Chaque page conserve sa méthode, sa langue, son score qualité et ses drapeaux de
+        révision. Les textes faibles ne sont pas cachés.
+      </p>
+      <div class="quality-row">
+        <span class="quality">Accepté · 0.94</span>
+        <span class="quality review">Révision · 0.72</span>
+      </div>
+    </aside>
+  </section>
+
+  <section class="container stats">
+    <div class="kpi-grid">
+      <div class="kpi"><strong>{manifest.document_count ?? docs.length}</strong><span>documents indexés</span></div>
+      <div class="kpi"><strong>{manifest.page_count ?? "—"}</strong><span>pages exportées</span></div>
+      <div class="kpi"><strong>{manifest.graph_node_count ?? "—"}</strong><span>nœuds graphe</span></div>
+      <div class="kpi"><strong>CC-BY</strong><span>données dérivées</span></div>
+    </div>
+  </section>
+
+  <section class="section container split">
+    <div>
+      <h2>Recherche locale maintenant, sémantique ensuite</h2>
+      <p class="muted">
+        Le site embarque une recherche MiniSearch légère. Le Space Hugging Face prendra le
+        relais pour la recherche FAISS + BM25 dès que les index EPIC C/E complets seront
+        publiés.
+      </p>
+      <a class="button secondary" href="/recherche/">Ouvrir la recherche</a>
+    </div>
+    <div class="panel preview-lines" aria-hidden="true">
+      <span></span><span></span><span></span><span></span><span></span>
+    </div>
+  </section>
+
+  <section class="section container">
+    <div class="section-head">
+      <div>
+        <h2>Documents pilotes</h2>
+        <p class="muted">Échantillon déployable pendant que le traitement OCR final se termine.</p>
+      </div>
+      <a class="button secondary" href="/donnees/">Données & licence</a>
+    </div>
+    <div class="doc-grid">
+      {featured.map((doc) => <DocCard doc={doc} />)}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.8fr);
+    gap: 34px;
+    align-items: center;
+    padding: 82px 0 46px;
+  }
+
+  h1 {
+    max-width: 12ch;
+    margin: 0;
+    font-size: clamp(3.3rem, 8vw, 7.2rem);
+    line-height: 0.9;
+    letter-spacing: -0.08em;
+  }
+
+  h2 {
+    margin: 0 0 0.8rem;
+    font-size: clamp(2rem, 4vw, 3.4rem);
+    line-height: 1;
+    letter-spacing: -0.06em;
+  }
+
+  .hero-copy p {
+    max-width: 58ch;
+    margin: 1.4rem 0 0;
+    color: var(--muted);
+    font-size: 1.12rem;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-top: 1.8rem;
+  }
+
+  .hero-panel {
+    position: relative;
+    overflow: hidden;
+    padding: 30px;
+  }
+
+  .scan-line {
+    height: 190px;
+    margin-bottom: 24px;
+    border: 1px solid var(--line);
+    border-radius: 22px;
+    background:
+      linear-gradient(90deg, transparent, rgba(31, 111, 120, 0.18), transparent),
+      repeating-linear-gradient(#fffefb, #fffefb 16px, #f0eadc 17px, #f0eadc 18px);
+  }
+
+  .hero-panel strong {
+    font-size: 1.5rem;
+    letter-spacing: -0.04em;
+  }
+
+  .quality-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+
+  .stats {
+    padding-bottom: 18px;
+  }
+
+  .split {
+    display: grid;
+    grid-template-columns: 0.9fr 1fr;
+    gap: 32px;
+    align-items: center;
+  }
+
+  .preview-lines {
+    display: grid;
+    gap: 14px;
+    padding: 26px;
+  }
+
+  .preview-lines span {
+    display: block;
+    height: 48px;
+    border-radius: 14px;
+    background: linear-gradient(90deg, rgba(31, 111, 120, 0.16), rgba(31, 111, 120, 0.04));
+  }
+
+  .preview-lines span:nth-child(even) {
+    width: 78%;
+  }
+
+  .section-head {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 22px;
+  }
+
+  @media (max-width: 860px) {
+    .hero,
+    .split {
+      grid-template-columns: 1fr;
+    }
+
+    h1 {
+      max-width: 10ch;
+    }
+  }
+</style>

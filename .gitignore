@@ -15,6 +15,13 @@ venv/
 .env.*
 !.env.example
 
+# Node / web build artifacts
+node_modules/
+platform/site/dist/
+platform/site/.astro/
+platform/site/.wrangler/
+platform/site/.mf/
+
 # Local OCR corpus/state/output artifacts
 traites/
 extracted/

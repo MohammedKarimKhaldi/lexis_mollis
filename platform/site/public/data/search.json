@@ -1,0 +1,32 @@
+{
+  "documents": [
+    {
+      "id": "sample-declaration-001",
+      "document_id": "sample-declaration-001",
+      "title": "Déclaration pilote sur la coopération internationale",
+      "year": 1948,
+      "doc_type": "Déclaration",
+      "languages": ["fr"],
+      "quality_score": 0.94,
+      "review_required": false,
+      "review_priority": "none",
+      "summary": "Les parties affirment leur volonté de coopérer pacifiquement et de publier les textes avec une provenance vérifiable.",
+      "text": "coopération internationale provenance vérifiable déclaration paix droit souple corpus ouvert",
+      "tags": "instrument_type:declaration language:fr quality:accepted_ge_0_85 rights_status:to_review"
+    },
+    {
+      "id": "sample-guideline-002",
+      "document_id": "sample-guideline-002",
+      "title": "Lignes directrices pilotes pour la révision OCR",
+      "year": 1954,
+      "doc_type": "Lignes directrices",
+      "languages": ["fr", "en"],
+      "quality_score": 0.72,
+      "review_required": true,
+      "review_priority": "normal",
+      "summary": "Les pages incertaines restent dans la base avec un drapeau de révision, un score et les raisons d’audit.",
+      "text": "révision OCR audit qualité score pages incertaines review queue guidelines",
+      "tags": "instrument_type:guideline language:fr language:en quality:review_0_65_0_85 review:required"
+    }
+  ]
+}

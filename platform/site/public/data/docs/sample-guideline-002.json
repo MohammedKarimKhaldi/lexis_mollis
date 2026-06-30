@@ -1,0 +1,43 @@
+{
+  "document_id": "sample-guideline-002",
+  "title": "Lignes directrices pilotes pour la révision OCR",
+  "year": 1954,
+  "doc_type": "Lignes directrices",
+  "languages": ["fr", "en"],
+  "quality_score": 0.72,
+  "review_required": true,
+  "review_priority": "normal",
+  "source_filename": "sample-guideline-002.pdf",
+  "source_url": "https://huggingface.co/datasets/lexis-mollis/soft-law-corpus",
+  "treaty_id": "SAMPLE002",
+  "rights_status": "to_review",
+  "tags": ["instrument_type:guideline", "language:fr", "language:en", "quality:review_0_65_0_85", "review:required"],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Lignes directrices pilotes pour la révision OCR\n\nLes pages incertaines restent dans la base avec un drapeau de révision, un score et les raisons d’audit.",
+      "quality_score": 0.72,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "sample",
+      "language": ["fr"]
+    },
+    {
+      "page_number": 2,
+      "text": "Pilot guidelines for OCR review\n\nUncertain pages remain visible in the knowledge base with review flags and quality metadata.",
+      "quality_score": 0.69,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "sample",
+      "language": ["en"]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "sample-declaration-001",
+      "title": "Déclaration pilote sur la coopération internationale",
+      "score": 0.4,
+      "type": "related_sample"
+    }
+  ]
+}

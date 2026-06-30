@@ -1,0 +1,63 @@
+---
+import QualityBadge from "./QualityBadge.astro";
+
+interface Props {
+  doc: {
+    document_id: string;
+    title: string;
+    year?: number | null;
+    doc_type?: string | null;
+    languages?: string[];
+    quality_score?: number | null;
+    review_required?: boolean;
+    review_priority?: string | null;
+    text_preview?: string;
+    tags?: string[];
+  };
+}
+
+const { doc } = Astro.props;
+---
+
+<a class="doc-card panel" href={`/document/${encodeURIComponent(doc.document_id)}/`}>
+  <QualityBadge
+    score={doc.quality_score}
+    reviewRequired={doc.review_required}
+    priority={doc.review_priority}
+  />
+  <h3>{doc.title || doc.document_id}</h3>
+  <div class="doc-meta">
+    <span>{doc.year || "année inconnue"}</span>
+    <span>·</span>
+    <span>{doc.doc_type || "type à qualifier"}</span>
+    <span>·</span>
+    <span>{(doc.languages || []).join(", ") || "langue n/a"}</span>
+  </div>
+  <p>{doc.text_preview || "Aucun extrait disponible."}</p>
+  <div class="tag-row">
+    {(doc.tags || []).slice(0, 4).map((tag) => <span class="tag">{tag}</span>)}
+  </div>
+</a>
+
+<style>
+  a {
+    display: block;
+  }
+
+  h3 {
+    margin-top: 1rem;
+  }
+
+  p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.94rem;
+  }
+
+  .tag-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-top: 1rem;
+  }
+</style>

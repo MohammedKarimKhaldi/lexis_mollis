@@ -1,0 +1,34 @@
+{
+  "document_id": "sample-declaration-001",
+  "title": "Déclaration pilote sur la coopération internationale",
+  "year": 1948,
+  "doc_type": "Déclaration",
+  "languages": ["fr"],
+  "quality_score": 0.94,
+  "review_required": false,
+  "review_priority": "none",
+  "source_filename": "sample-declaration-001.pdf",
+  "source_url": "https://huggingface.co/datasets/lexis-mollis/soft-law-corpus",
+  "treaty_id": "SAMPLE001",
+  "rights_status": "to_review",
+  "tags": ["instrument_type:declaration", "language:fr", "quality:accepted_ge_0_85", "rights_status:to_review"],
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Déclaration pilote sur la coopération internationale\n\nLes parties affirment leur volonté de coopérer pacifiquement et de publier les textes avec une provenance vérifiable.\n\nCe texte est un échantillon technique destiné à valider le déploiement Cloudflare.",
+      "quality_score": 0.94,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "sample",
+      "language": ["fr"]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "sample-guideline-002",
+      "title": "Lignes directrices pilotes pour la révision OCR",
+      "score": 0.4,
+      "type": "related_sample"
+    }
+  ]
+}

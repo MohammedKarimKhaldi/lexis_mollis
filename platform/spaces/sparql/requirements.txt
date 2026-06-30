@@ -1,0 +1,4 @@
+fastapi>=0.116
+uvicorn[standard]>=0.35
+rdflib>=7
+pydantic>=2.8
