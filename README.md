@@ -84,7 +84,15 @@ python -m pdfkb similarity build \
   --output outputs_v2/similarity
 ```
 
-La commande `graph build` est prévue par l'EPIC D.
+Knowledge graph conservateur (gazetteers + règles + import des similarités) :
+
+```bash
+python -m pdfkb graph build \
+  --kb outputs_v2/kb/pages.jsonl \
+  --similarity outputs_v2/similarity \
+  --output outputs_v2/graph \
+  --ontology metadata_design/ontology.ttl
+```
 
 Calibration des seuils, après annotation humaine de paires réelles dans
 `benchmarks/similarity_cases.json` :

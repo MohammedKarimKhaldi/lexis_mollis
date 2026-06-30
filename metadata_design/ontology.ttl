@@ -144,6 +144,19 @@ slo:weight a owl:DatatypeProperty ;
   rdfs:range xsd:decimal ;
   rdfs:label "weight"@en .
 
+slo:src a owl:ObjectProperty ;
+  rdfs:domain slo:SimilarityLink ;
+  rdfs:label "similarity source"@en .
+
+slo:dst a owl:ObjectProperty ;
+  rdfs:domain slo:SimilarityLink ;
+  rdfs:label "similarity target"@en .
+
+slo:linkType a owl:DatatypeProperty ;
+  rdfs:domain slo:SimilarityLink ;
+  rdfs:range xsd:string ;
+  rdfs:label "similarity link type"@en .
+
 slo:provisional a owl:DatatypeProperty ;
   rdfs:range xsd:boolean ;
   rdfs:label "provisional"@en .
@@ -151,4 +164,3 @@ slo:provisional a owl:DatatypeProperty ;
 # ---- Alignment notes ----
 schema:Legislation a owl:Class .
 owl:sameAs rdfs:comment "Use owl:sameAs to align entities with Wikidata IRIs such as http://www.wikidata.org/entity/Q142."@en .
-

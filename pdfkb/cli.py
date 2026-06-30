@@ -84,6 +84,18 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Pilote rapide sans embeddings/FAISS, utile pendant que l'OCR tourne",
     )
+
+    graph = subparsers.add_parser("graph", help="Construire le knowledge graph")
+    graph_subparsers = graph.add_subparsers(dest="graph_command", required=True)
+    graph_build = graph_subparsers.add_parser("build", help="Construire nodes/edges/RDF/Sigma")
+    graph_build.add_argument("--kb", type=Path, required=True, help="Fichier pages JSONL")
+    graph_build.add_argument("--similarity", type=Path, help="Répertoire outputs_v2/similarity à importer")
+    graph_build.add_argument("--output", type=Path, required=True, help="Répertoire de sortie graph/")
+    graph_build.add_argument("--ontology", type=Path, default=Path("metadata_design/ontology.ttl"))
+    graph_build.add_argument("--gazetteers", type=Path, default=Path("data/gazetteers"))
+    graph_build.add_argument("--min-confidence", type=float, default=0.70)
+    graph_build.add_argument("--seed", type=int, default=20260701)
+    graph_build.add_argument("--limit-pages", type=int, help="Limiter le nombre de pages pour un pilote")
     return parser
 
 
@@ -141,6 +153,19 @@ def main(argv: list[str] | None = None) -> int:
             limit_pages=args.limit_pages,
         )
         manifest = build_similarity(args.kb, args.output, cfg)
+    elif args.command == "graph":
+        from .graph import GraphConfig
+        from .graph.run import build as build_graph
+
+        if args.graph_command != "build":
+            raise ValueError(f"Unknown graph command: {args.graph_command}")
+        cfg = GraphConfig(
+            gazetteers=args.gazetteers,
+            min_confidence=args.min_confidence,
+            seed=args.seed,
+            limit_pages=args.limit_pages,
+        )
+        manifest = build_graph(args.kb, args.similarity, args.output, args.ontology, cfg)
     else:
         manifest = run_benchmark(args.source, args.cases, dpi=args.dpi)
         if args.report:
