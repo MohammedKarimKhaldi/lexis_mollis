@@ -177,12 +177,22 @@ main {
 }
 
 .doc-card {
+  display: flex;
+  flex-direction: column;
   min-height: 100%;
   padding: 20px;
   transition:
     transform 160ms ease,
     border-color 160ms ease;
 }
+
+.doc-card p {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 
 .doc-card:hover {
   border-color: rgba(31, 111, 120, 0.4);

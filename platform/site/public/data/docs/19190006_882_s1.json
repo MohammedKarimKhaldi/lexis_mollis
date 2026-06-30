@@ -1,0 +1,57 @@
+{
+  "document_id": "19190006_882_s1",
+  "title": "Procès verbal de dépôt de l'instrument tchécoslovaque",
+  "year": 1919,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9494,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DEPOT PAR L'ETAT TCHECO-SLOVAQUE DES RATIFICATIONS SUR LE TRAITE DE PAIX SICE NEULLY-SUR-SEINE 1E 27 VOVEMBRE 1919. Entre, d'une part, les États-Unis d'Amérique, l'Empire britannique, la France, l'Italie et le Japon, Principales Puissances alliées et associées, la Belgique, la Chine, Caha, la Grèce, de Hedjaz, la Poloque, le Portugal, l'Étal serbe- croate-slovène, le Siam et l'État Ichéco-slovaque, constituant avec…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_882_s1.pdf",
+  "source_filename": "19190006_882_s1.pdf",
+  "source_sha256": "844fdc8eb583c1baf81f62c25f4702c3687cda56fb0059a97f976310508bed54",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "CZK003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEPOT PAR L'ETAT TCHECO-SLOVAQUE DES RATIFICATIONS\n\nSUR LE TRAITE DE PAIX\n\nSICE NEULLY-SUR-SEINE 1E 27 VOVEMBRE 1919.\n\nEntre, d'une part, les États-Unis d'Amérique, l'Empire britannique, la France, l'Italie et le Japon, Principales Puissances alliées et associées, la Belgique, la Chine, Caha, la Grèce, de Hedjaz, la Poloque, le Portugal, l'Étal serbe- croate-slovène, le Siam et l'État Ichéco-slovaque, constituant avec les Principale.\n\nQ dicpmrtire 1919\n\nEn crécation des clauses finates du Traité de paix signé à Nouilly- sur-Seine le a- novembre 101o, le MiNIsTRE DE LA RÉPUBLIQUE TCHÉCO\n\nSLOVAQUE À PARIS s'est présenté aujourd'hui au Ministère des Allates\n\nEtrangères, a Paris, pour procéder an dépol des ratilications du Prési dent de la République Ichéco-slovaque sur ledit Traité et le Protocole et les remettre au Gouvernement de la Republique francaise\n\nL'instrument des ratifications a été produit et ayant élé, après exa- nen, trouvé en honne et due forme, a été confié au Gouvernement de la République francaise pour rester depose dans ses archives.\n\nConformément aux dispositions des clauses finales précitées, le Gou vernement francais donnera avis de ce dépôt aux Puissances contrac- tantes",
+      "quality_score": 0.9577,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "EN FOI DE QUOT, les soûssignés ont dréssé le présent procesverbal et y ont apposé leurs cachets.\n\nFAIT à Paris, le seize avril 1921; 4 seize heures.",
+      "quality_score": 0.9411,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

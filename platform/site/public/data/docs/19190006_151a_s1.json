@@ -1,0 +1,79 @@
+{
+  "document_id": "19190006_151a_s1",
+  "title": "Instrument de ratification bulgare du Traité de Paix",
+  "year": 1919,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.98,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "RATIFICATIONS de Sa Majesté le ROI des BULGARES sur le Traité de Paix conclu le 27 Novembre 1919 à Neuilly-sur-Seine entre la Bulgarie et les Etats-Unis d'Amérique, l'Empire Britannique, la France, I'ltalie, le Japon, la Belgique, la Chine, le Cuba, la Grèce, le Hedjaz, la Pologne, le Portugal, la Roumanie, l'Etat Serbe-Croate-Slovène, le Siam et la Tchéco-Slovaquie. BORIS III ROI DES BULGARES A tous présents et à v…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_151a_s1.pdf",
+  "source_filename": "19190006_151a_s1.pdf",
+  "source_sha256": "6aea3fd6e7118e0a08d99e187abe8297aec004efdc0320bf24aa17c9202691c0",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "BGR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RATIFICATIONS\n\nde Sa Majesté le ROI des BULGARES sur le Traité de\n\nPaix conclu le 27 Novembre 1919 à Neuilly-sur-Seine entre la\n\nBulgarie et les Etats-Unis d'Amérique, l'Empire Britannique, la France, I'ltalie, le Japon, la Belgique, la Chine, le Cuba, la\n\nGrèce, le Hedjaz, la Pologne, le Portugal, la Roumanie, l'Etat\n\nSerbe-Croate-Slovène, le Siam et la Tchéco-Slovaquie.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "BORIS III\n\nROI DES BULGARES\n\nA tous présents et à venir, Salut.\n\nAprès que le Sobranié Bulgare, dans sa XVIIIème Session\n\nOrdinaire, la voté et accepté, ayant vu, examiné, sanctionné et fait promulguer le Traité de Paix conclu le 27 Novembre 1919 à Neuilly-sur-Seine entre la Bulgarie et les Etats-Unis d'Amérique, l'Empire Britannique, la France, l'Italie, le Japon, la Belgique, la Chine, le Cuba, la Grèce, le Hedjaz, la Pologne, le Portugal, la Roumanie, l'Etat Serbe-Croate-Slovène, le Siam et la Tchéco-Slovaquie par notre plénipotentiaire, muni de pleins pouvoirs spéciaux, avec les plénipotentiaires, également munis de pleins pouvoirs en bonne et due forme, de la part de leurs Etats respectifs, Traité dont la teneur suit:",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Voir texte 19190006 01 sur bobine\n\nb253",
+      "quality_score": 0.9414,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "Nous approuvons, ratifions et confirmons ledit Traité promettant de le faire exécuter et observer selon sa forme et teneur, sans permettre quil y soit contrevenu en aucune sorte ou maniére que ce soit En foi de quoi, Nous avons\n\nSigné les présentes lettres de ratification et y avons fait apposer le sceau de l'Etat.\n\nDonné au Palais de Sofia\n\n— jour du mois Ka. de l'an de grâce mil-neuf-cent-vingt.\n\nGuerre, et, par interim, Ministre des Travaux Publics, Voies et\n\nCommunications: pl Sa\n\nLe Ministre des Affaires Etrangéres et des Cultes:",
+      "quality_score": 0.9787,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

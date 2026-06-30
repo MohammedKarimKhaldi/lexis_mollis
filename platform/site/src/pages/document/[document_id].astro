@@ -35,6 +35,13 @@ export function getStaticPaths() {
 
 const { doc } = Astro.props as { doc: DocumentRecord };
 const pages = doc.pages || [];
+
+const GROUP_SIZE = 25;
+const pageGroups: PageRecord[][] = [];
+for (let i = 0; i < pages.length; i += GROUP_SIZE) {
+  pageGroups.push(pages.slice(i, i + GROUP_SIZE));
+}
+const showToc = pages.length > GROUP_SIZE;
 ---
 
 <BaseLayout title={doc.title || doc.document_id}>
@@ -78,20 +85,39 @@ const pages = doc.pages || [];
 
   <section class="section container content-grid">
     <article>
-      <h2>Texte propre</h2>
-      {pages.length ? (
-        pages.map((page) => (
-          <section class="page-block">
-            <div class="page-head">
-              <strong>Page {page.page_number}</strong>
-              <QualityBadge
-                score={page.quality_score}
-                reviewRequired={page.review_required}
-                priority={page.review_priority}
-              />
-            </div>
-            <div class="page-text">{page.text}</div>
-          </section>
+      <div class="article-head">
+        <h2>Texte propre</h2>
+        {pages.length > 0 && <span class="muted page-total">{pages.length} page{pages.length > 1 ? "s" : ""}</span>}
+      </div>
+      {showToc && (
+        <nav class="page-toc" aria-label="Sommaire des pages">
+          {pages.map((page) => (
+            <a href={`#page-${page.page_number}`}>{page.page_number}</a>
+          ))}
+        </nav>
+      )}
+      {pageGroups.length ? (
+        pageGroups.map((group, groupIndex) => (
+          <details class="page-group" open={groupIndex === 0}>
+            {showToc && (
+              <summary>
+                Pages {group[0].page_number}–{group[group.length - 1].page_number}
+              </summary>
+            )}
+            {group.map((page) => (
+              <section class="page-block" id={`page-${page.page_number}`}>
+                <div class="page-head">
+                  <strong>Page {page.page_number}</strong>
+                  <QualityBadge
+                    score={page.quality_score}
+                    reviewRequired={page.review_required}
+                    priority={page.review_priority}
+                  />
+                </div>
+                <div class="page-text">{page.text}</div>
+              </section>
+            ))}
+          </details>
         ))
       ) : (
         <div class="page-text">{doc.text_preview || "Texte non disponible dans ce build."}</div>
@@ -176,10 +202,70 @@ const pages = doc.pages || [];
     letter-spacing: -0.04em;
   }
 
+  .article-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .page-total {
+    font-size: 0.86rem;
+    font-weight: 700;
+  }
+
+  .page-toc {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    max-height: 92px;
+    overflow-y: auto;
+    margin-bottom: 18px;
+    padding: 10px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    background: rgba(255, 253, 248, 0.6);
+  }
+
+  .page-toc a {
+    min-width: 1.8rem;
+    padding: 0.18rem 0.4rem;
+    border-radius: 6px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 700;
+  }
+
+  .page-toc a:hover {
+    background: var(--accent-soft);
+    color: var(--accent-strong);
+  }
+
+  .page-group {
+    margin-bottom: 14px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    padding: 0 16px;
+  }
+
+  .page-group[open] {
+    padding-bottom: 4px;
+  }
+
+  .page-group summary {
+    cursor: pointer;
+    padding: 14px 0;
+    color: var(--accent-strong);
+    font-weight: 800;
+    list-style: revert;
+  }
+
   .page-block {
     display: grid;
     gap: 0.8rem;
     margin-bottom: 18px;
+    scroll-margin-top: 96px;
   }
 
   .page-head {

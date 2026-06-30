@@ -1,0 +1,342 @@
+{
+  "document_id": "18750001_26_s1",
+  "title": "Instrument de ratification de la Grèce",
+  "year": 1875,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "bg",
+    "ca",
+    "en",
+    "fi",
+    "fr",
+    "hr",
+    "id",
+    "mk",
+    "pt",
+    "sk"
+  ],
+  "quality_score": 0.9103,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "yt EAAHNIKH AHMOKPATIA — tH REPUBLIQUE HELLENIQUE République Hellénique Ratification de la Convention du mètre Signée à Paris le 20 mai 1875, modifiée par la Convention signée à Sèvres le 6 octobre 1921 et Règlement annexé Hellenique Considérant que la Convention du mètre a été signée à Paris le 20 mai 1875, modifiée par la Convention signée à Sèvres le 6 octobre 1921 et Règlement annexé, dont le texte suit : 4785 T…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_26_s1.pdf",
+  "source_filename": "18750001_26_s1.pdf",
+  "source_sha256": "155c4caab435916822f4b46ba68f2b003fd1510cc7809fb50cbb4a7e9f223585",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "GRE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "yt\n\nEAAHNIKH AHMOKPATIA\n\n— tH\n\nREPUBLIQUE HELLENIQUE",
+      "quality_score": 0.9362,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fi",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "République Hellénique\n\nRatification\n\nde la Convention du mètre\n\nSignée à Paris le 20 mai 1875, modifiée par la Convention signée à Sèvres le 6 octobre 1921 et Règlement annexé",
+      "quality_score": 0.9849,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Hellenique\n\nConsidérant que la Convention du mètre a été signée à Paris le 20 mai 1875, modifiée par la Convention signée à Sèvres le 6 octobre 1921 et Règlement annexé, dont le texte suit :",
+      "quality_score": 0.9671,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "4785\n\nTHE EAAHNIKHZ AHMOKPATIAZ\n\nTEYXOZ MPATO Ap. düAAou 261\n\n23 NoepBpiou 1999\n\nNOMOZ YM API@. 2763\n\nKüouon me IepBaans tau Mérpou.\n\nQMPOEAPOZ\n\nTHE EAAHNIKHI BHMOKPATIAZ\n\nEKSISOUE rov akdAouBo vópo nou wriguwe n Bou:\n\n'ApÜpo mpura\n\nKupiveTUL Kal ÉXEU Tv rox nou oper ro 4p8p0 28 map.\n\n1 rou Zuvràyuaroc n Zuuaor rou M£Tpou. Mou UNOFPAPHKS gro ſlapla atic 20 Malou 1875, énwe rpononomjenke and m du ao nou unoypógnke one Léfpec anc 6 Ortufipiau 1921, me onclac ro Weluevo ce npuwróruna gir valAkr\n\nÂGIGO Kal GE petó«pogugr ginv £AArvikr] Exel we EE:",
+      "quality_score": 0.8018,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "ca",
+        "hr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "4786\n\nEHMERIZ THE KYBEPNHZEOI (TEYXOZ ПРЯТО)\n\nCONVENTION DU MÈTRE\n\n€\n\nARTICLE PRENIER (1875)\n\nART. 3 (1875)\n\nLe Gouvernement français prendra les dispositions nécessaires pour faciliter l'acquisition ou, s'il y i licu, la construction d'un bâtiment spécialement affecté à\n\ncelle destination, dans les\n\nconditions déterminées par le Règlement anneré à lil présente\n\nConvention.\n\nART. 3 (1875)\n\nLe Bureau international fonctionnera sous la direction et la surveillance exclusives d'un Cumicé international des poids e\n\nART. 4 (1875)\n\nLa présidence de la Conférence générale des poids et mesures est altribuée au président en exercice de l'Académie des Sciences de Paris.\n\n) Le 25 avril 1969 un accord de siège a éré signé entre le Guuverneme\n\n• la République françaiso el le Cumire international des pors el mesures ( icxle di cel accard il été publié au Juurnal Oificiel de la Reputingue frasey are.\n\ndu 18 septembre 1970, pp. 8719-8721)",
+      "quality_score": 0.9429,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "EHMEPIZ THE KYBEPNHZERZ (TEYXOI ПРЯТО)\n\nARr. S (1875)\n\n4787\n\nLe Bureau international des poids et mesures est chargé :\n\nl° De toutes les comparaisons er vérifications des nouveaux prototypes du metro et du kilogramine :\n\n- De la conservation des protorypes internationaux :\n\n3\" Des comparaisens periodiques des elalons nationaux avee les prototypes internationaux et avce lours lémoins, ainsi que de celles des thermomètres étalons;\n\n4 De la comparaison des nouveaux prototypes avec les étalons fondamentaux\n\ndes poids el mesures non métriques\n\nemployés dans les dilférents pays et dans les sciences :\n\n5° De l'étalonnago et de la comparaison des régles géodesiques ;\n\n6° De la comparaison des étalons et échelles de précision dont la vérification serait demandée, sois par des Gouvernements.\n\nsoil par des sociélés savantes, soit même par des artistes en des\n\nAR. 7 (1921)\n\nAprès que le Comité aura procédé du travail de coordination des mesures relatives dux unités élcotriques, el lorsquo la\n\nConférence générale en aura décidé par ma vote unanime, le\n\nBureau sera chargé de l'établissement el de la conservation des étalons des unités électriques et de leurs lémoins, ainsi que de la comparaison, avec ces étalons, des étalons nationaux ou d'aures étalons de précision.\n\nLe Bureau est charge, en outre, des déterminations relatives aux constantes physiques dont une connaissance plus exacte peut accroître la précision el il assurer mieux l'unitorinité",
+      "quality_score": 0.9735,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "4788\n\nEØHMEPIZ THZ KYBEPNHZESZ (TEYXOZ ПРЯТО)\n\ndans les domaines auxquels appartiennent les unités ci-dessu mentionnées (article d et l\"alinéa de l'article 7).\n\nIl est chargé, entin, du travail de coordination des détermi- nations analogues effectuées dans d'autres instituts.\n\nARr. 8 (1921)\n\nLes protolypes internationaux, ainsi que leurs témoins.\n\ndemeureront déposés dans le Bureau; l'accès\n\ndu dépôl seral\n\nuniquement réservé au Comité international.\n\nARr 9 (1875)\n\nTous les truis\n\nd'établissement en dinstallation du Burcau\n\ninternational des poids et mesures, ainsi que les dépenses annuelles\n\nJu Comité, seront couverts par de\n\nontributions des États contractants, établies d'après une échell basée sur leur population actuelle.\n\nART 10 (1875)\n\nLes sommes représentant la part contributive de chacun des cals contractants seront versées, du commencement de chaqu anée. Dar l'interniddiaire du Ministère dos Allaires étranger de France, il lid Caisse des dépors et consignations il Paris. d'ou elles seront retirées, au fur el il mesure des besoins, sur mandats du directeur du Bureau.\n\nART. I1 (1875)\n\nLes Gouvernements qui useraient de la facullé, réservée a à l'amélioration du matériel scientifique du Bureau ().\n\n¿ Le Comité international des poids de mesures, au cours de sil ty sess (octobre 1960). a décide yue la combation contribution d'calrco mentin dans ces article il serait egale d partir du l'aver l, du montan d cuntribulion annuelle.\n\n€",
+      "quality_score": 0.9395,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "ФНМЕРІХ THI KYBEPNHZENZ (TEYXOZ ПРЯТО)\n\nARTICLE III\n\n¡disposiciuns ajourée ur la Convention de |93N)(*\n\nTour Élas pourru hérer d la présente Convencion en nulifiant i adhésion au Gouvernement francais, qui en donnera avis is les Étuts participunts et uu orésident du Comite internatio des poids el mesures.\n\nToute accession nouelle à la Convention du 20 mai 1873 entraînera obligatoiremens adhésion à la présente Concention\n\nARI. 12 (1875)\n\nLes Haules Parties cuntractantes se réservent la faculté d'apporter d'un commun accord à la présente Convention toutes les moditications dont l'expérience démontrerait l'utilité.\n\nАкт 13 (1875)\n\nA l'expiration d'un terme de douze années, la présente\n\nConvention pourra étre dénoncée par l'une ou l'autre des Hautes\n\nParties contractantes.\n\nLe Gouvernement qui userait de la faculté d'en faire cesser les elfets en ce qui le cuncerne sera lenu de notifier son intention une année d'avance, el renoncera, pir ce fait, il tous droits de copropriété sur les prototypes internationaux er sur le Bureau.\n\nART. 14 (1875)\n\nLa présente Convention sera ratifiée suivant les lois consti- tutionnelles particulières à chaque Etat; les ratitications en seront échangées à Paris dans le delai de six mois, ou plus lôt si faire se peut. Elle sera mise à exécution i partir du 1\" janvier 1876\n\nEn foi de quoi, les plénipotentiaires respectifs l'ont signée et y ont apposé le cachet de leurs armes.\n\n1) Voir l'Avertissement, p. J.\n\n4789",
+      "quality_score": 0.952,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "4790\n\nANNEXE\n\nRÈGLEMENT\n\n-- ARTICLE PREMIER (1875)\n\nLe Buredu international des poids et mesures sera établi dans un bätiment spécial présentant foules des garanties nécessaires d tranquillité et de stabilité\n\npersonnel de garde el de service.\n\nART. 3 (1875)\n\ne Comite internacional est charge de lacquisition el dr appropriation de ce batiment, ainsi que de linstallation de services auxquels il est destine.\n\nDans le cas où lè Comilé ne trouverait pas il acquérir un bâtiment convenable, il en sera construit un sous su direction\n\nАкт. 3 (1875)\n\nLe Gouvernement français prendria, sur l demande du Comilé\n\nHernational, les dispositions nécessaires pour faire reconnait\n\nBureau comme drablissement d'utilite publiqu\n\nАкт. 4 (1875)\n\nLe Comité international fera exécuter les instruments néces- saires, tels que: comparateurs pour les étalons i traits es a bouts, appareil pour les déterminations des dilatations absolues.\n\nbalances pour les pesées dans l'air el dans le vide, comparareurs pour les règles géodésiques, etc\n\n€",
+      "quality_score": 0.988,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "EHMEPIZ THZ KYBEPNHZESZ (TEYXOZ ПРЯТО)\n\nАнт. 5 (1875)\n\n4791*\n\nART\n\n6 (1921)\n\n1. La dotation annuelle du Bureau international est composée de deux parties: Tune fixe. l'aure complémentaire.\n\n2. La partie fixe est, en principe, de 150000 francs, mais peut erre porter i 300000 francs par décision unanime du\n\nComité. Elle est à la charge de lous les Etas et des Colonies aulonomes qui ont adhéré à la Convention du Merre avant la\n\nSixième Conterence géncrale.\n\n3. Le partie complémentaire est formée des contributions des\n\nEtals et des Culonies\n\niulonomes qui sont anirés dans\n\nConvention après ladile Conférence générale.\n\n1. Le Comité est chargé d'établir, sur la proposition du directeur, le budget annucl, mais sans dépasser la sonme culculéo conformément aux stipulations\n\ndes deux alinéas ci-dessus. Co\n\nbudger est porté, chaque année, dans un Rapport special financier, connaissance des Gouvernements des Haures Parties\n\n5. Dans le cas ou le Comité jugerait nécessaire, soit d'accroître au-delà de 300000 frames la partie lixe de la dotation annuelle, soit de moditer le calcul des\n\ncontributions détermine par\n\nl'article 30 du présent Réglement, il devrait en saisir les\n\nGouvernements de façon à leur permettre de donner, en lemps wile, les instructions nécessaires à leurs délégués à la Conférence générale suivante, alin que celle-ci puisse délibérer valablement.\n\nLa décision sera valable seulement dans le cas où aucun des\n\nÉtats contractants n'aura exprimé, ou n'exprimera, dans la\n\nConférence, un avis contraire (*).\n\n() En application de velle procédure, depuis li Tronziame Conference gonsrill des poids el mesures fuclobre 1968), les dotations annuelles sont adoptées pur chaque Conlérence generale",
+      "quality_score": 0.9503,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "4792\n\nEHMEPIZ THE KYBEPNHZENZ (TEYXOI ПРЯТО)\n\navance faite à l'État retardataire, el kur sont remboursdes elui-ei vient à acquitter ses contributions arriérée\n\n8. Après trois nouvelles années, l'État déficieire est axelu de la Convention.\n\nel le calcul des contributions\n\nrétabli\n\nconformément aux dispositions de l'artile 20 du présen\n\nReglement.\n\nAkr 7 (1875)\n\nLa Conférence générale. mentionnéo i Particle 3 de la\n\nConvention. se réunira il Paris, sur la convocation du Comité international. du moins une fois tous les six ans.\n\nElle il pour mission de discuter et de provoquer les mesures necessilires pour lit propagation el le perlectionnement du Système métrique, ainsi que do sinctionner les nouvelles déterminations métrologiques fondamentales qui auraient éré faites dans l'anter- valle de ses réunions. Elle reçoir le Rappore du Comiré incernational sur les travaux accomplis, el procède, du scrutin secret, du renouvellement par moitié du Comité incernational.\n\nLes votes, ill sein de la Conférenco générale, ont lieu par\n\nÉtats ; chaque État a droit i une voix.\n\nLes membres du Comité international siègent de droit dans les réunions de la Conférence: ils peuvent êrre en mème temps délégués de leurs Gouvernements.\n\nАкт. 8 (1921)\n\nLe Comité international, mentionné à l'article 3 de la\n\nConvention, sera composé de dix-huit mombres appartenant cons il des Etats différents.",
+      "quality_score": 0.9698,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "ФЕК 261\n\nE$HMEPIZ THZ KYBEPNHZENZ (TEYXOZ ПР2ТО)\n\n4793\n\nARr. 9 (1921)\n\nLe Comité international se constitue en choisissant lui-même au scrutin secret, son président et son secrétaire: Ces nominations sont notifiées aux Gouvernements des Hautes Parties contractantes.\n\nLe président et le secrétaire du Comité, el le directeur di\n\nSureau, doivent appartenir à des pays différent:\n\nART. 10 (1921)\n\nLe Comité international dirige tous les travaux métrologiques que les Hautes Parties contractantes décideront de faire exécuter\n\nI est chargé, en outre, de surveiller la conservation de prototypes el étalons internationaux \" peul, enfin, instituer la coopération de spécialistes dan les questions de métrologie, el courdonner les résultats de leur\n\nAHr. I1 (1921)\n\nLe Comité se réunira au moins une fois cous les deux ans.\n\nART. 12 (1921)\n\nLes votes au sein du Comité ont lieu à la majorité des voix :\n\nen cas de partage, la\n\nvoix du président est prépondérante, Les\n\ndécisions ne sont valables que si le nombre des membres presents égale au moins la moilié des membres élus qui composent le",
+      "quality_score": 0.9775,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "4794\n\nEHMEPIZ THE KYBEPNHZENZ (TEYXOI ПРЯТО)\n\nSous réserve de cette condition, les membres absents ont le droit de déléguer leurs votes aux membres présents, qui devront\n\nART. 13 (1875)\n\nDans l'intervalle d'une session à l'autre, le Comité a le droit de délibérer par correspondance lous les membres du\n\nDans ce cas, pour cum lit dicin et appels l en lure leur avis.\n\nART. 14 (1875)\n\nLo Comité international\n\ndes purs et mesures rempli\n\nprovisoirement les vacances qui pourraient se produire dans sor sein; les élections se font par correspondance, chacun des membres élant appelé à y prendre purt.\n\nART 15 (1921)\n\nLe Comité international élaborera un règlement détaillé pour l'organisation et les travaux du Bureau, el il fixer les taxes à pilyer pour les travaux extraordinaires prévus aux articles 6 el 7 de la Convention.\n\nCes laxes seront affectés au perfectionnement du mulériel scientifique du Bureau. Un prélèvement annuel pourra ètre effectué, en faveur de la Caisse des retraites, sur la rocal des laxes perçues par le Bureau.\n\nART. 16 (1875)\n\nToutes les communications du Comité international avec les\n\nGouvernements des Hautes Parties contractantes auront lieu par l'intermédiaire de leurs représentants diplomatiques à Paris.\n\nPour toutes les affaires dont la solucion appartiendra à une administration française, le Comilé dura recours au Ministère des Affaires étrangères de France.",
+      "quality_score": 0.9686,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "-\n\nEHMEPIZ THE KYBEPNHZERZ (TEYXO2 ПРПТО)\n\nART: 17 (1921)\n\nUn réglement, établi par le Comicé, fixera l'effectif maximun our chaque carégorie du personnel du Bureau\n\n4795\n\nART. 18 (1921)\n\nLe directeur du Bureau n'aura accés\n\nau lieu de dépôl des\n\nprototypes internationaux qu'en vertu d'une résolution du Cumité el en présence d'au muins un de ses membres.\n\nLe lieu de dépôr des prototypes ne pourra s'ouvrir qu'au moyen de trois clefs, dont une sera en la possession du directeur des Archives de Franco. lal seconde dans celle du président du\n\nComité, et la troisième dans celle du directeur du Bureiu.\n\nLes étalons de la calégorie des prototypes nationaux serviront seuls aux travaux ordinaires de comparaisons du Burcal.\n\n-\n\nART. 19 (1907)\n\nLe directeur du Bureau adressera, il chaque session, au\n\nComité :\n\n1° Un rapport financier sur les compres des exercice précédents, dont il lui sera, après vérification, donné decharge :\n\n2° Un rapport sur l'état du matériel ;\n\n3° Un rapport général sur les travaux accomplis depuis la session précédente.\n\nLe bureau du Comite international adressera, de son cote, a tous les Gouvernements des Hautes Parties contractantes,\n\nRapport annuel sur li situation administrative en financière du\n\nService, et contenant la prévision des depenses de l'exercice suivant, ainsi que le Tableau des parts contriburives des Erais",
+      "quality_score": 0.9974,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "-\n\n4796\n\nEHMEPIZ THZ KYBEPNHZENZ (TEYXOZ ПРЯТО)\n\nsentral dies du Coin render corpo de Contrice series rapest these bication Coming es due.\n\nvernements des Hautes Parties contractantes.\n\nART. 30 (1931)\n\n1. L'échelle des contributions, dont il est question à l'article 9 de la Convention, est établie, pour la partie fixe, sur lil bilse de la dolation indiquée par l'article 6 du présent Reglement, er sur celle de lil population: la contribution normale de chaque Élat no peur etre inferiere a S pour 1000, ni supérieure a 15 pour 100 de la dotation totale, quel que soie lo chitro de la population.\n\n2: Pour établir colle échelle. on détermine d'abord quels sont les Étars qui se trousens dana les conditions roulues pour co minimum of co mosimom: el loo répartio lo resto de la somno contributive entre les auros Etals, en filison directo du chittre de leur population : '1.\n\n3. Les parts contributives ainsi calculées sont valables pour coule la période de lumps comprise entre deux Conferences génerales consécutives, el no peuvent ètre modifiées, dans l'intervalle, que dans les cils suivants:\n\n«. Si l'un des Ecats adhérents il laissé passer trois années successives sans faire ses versements;\n\n, Si, au contraire, un Etal lieu de restituer aux autres Governements les avances faires \" La Onzième, la Seiziènie el la Dix-huitiéme Conference générale onl dopé de novelles dispositions qui rendent caduques colles des almeas l el do cur irticle 3O. Cos nouvelles dispositiona s'inspirent des rigles appliques par lOrgunisation des Nations linies pour le calcul des contribunons, en minenin un pourcentage macad el minimal de concibocion.",
+      "quality_score": 0.9571,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "EHMEIZ THE KYBEPNHZESZ (TEYXOZ ПРОТО)\n\n4797\n\n6. Lorsqu'une Colonie recunnue autonome désirera adhérer a la Convention, elle sera considérée, en ce qui concerne son entrée dans celte Convention, suivant la décision de la Métropole.\n\nsoil comme une dépendance de celle-ci, soit comme un État\n\nART. 21 (1875)\n\nLes frais de confection des prototypes internationaux. ainsi que des étalons et témoins destinés à los accompagner, seront supportés par les Hautes Parties contractantes d'après l'échelle établie à l'article précédent.\n\nLes frais de comparaison et de vérification des étalons demandés par des Etats qui ne participeraient pas à la présente\n\nConvention seront réglés par le Comité conformément aux laxes fixées en vertu de l'article 15 du Règlement.\n\nART 22 (1875)\n\nLe présent Règlement aura même force el valeur que la\n\nConvention à laquelle il est annexé.",
+      "quality_score": 0.9733,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "4799\n\nEHMEPIZ THE KYBEPNHZENZ (TEYXOZ ПРЯТО)\n\nZYMBAZH TOY METPOY\n\no Графею EiVaL EnpapTiquevo, еплАсок, на та\n\nХетКОй нЕ пС кЕ, стадр проОбОрЮНО\n\nAPOPO 1 (1875)\n\nmy aufnorms акрівсю, как оту колитери басара avikouy o nooavapepqueves Movaões (Apêpo 6 kal 1o ебарю rau 'Apдрou 7).\n\nchos, cival EpOpTIONÉVO HE TV EPYGOia OUYTOV you tww avanoywy провоторюрии, пои прахиот\n\nАРОРО 8 (1921)\n\nTou onolou п єбра Пріокегат ото Поріог\n\nAPOPO 2 (1875)\n\nГамим корерупо ва Лове та апароітта ретр a va deukolúvel mv апоктоп, n av ouvtpéyel n pintwon, ту катаокси каром проаркореко сбика уа та акопо autóv, úupwva не та проилодко.\n\nпои каворідоита апо ток продарто Kavovidua оту поройаа Euppaon.\n\nАРЕРО 3 (1875)\n\nTo REdves Графео да дештоирупог ипо ту апо- KAEM deüluvon kal emonteia mas diefvoug Eni- тр тадих ка Метршу, пои топоветста п іба zumbannouevar Kußepvnaewv.\n\nAPOPO 4 (1875)\n\nН проєбреа тис Гекс ДОКЕИМа Етадику кас\n\nМЕтршу aovêuEtal drov ev cvepycia Проебро тус\n\nAkdonuiaç Emomuwy ou Парюой.\n\nAPOPO 5 (1875)\n\nH opydywon тои Графом, кадик, ка n auvdsan каl\n\nAdokeyng Zrauwy kar Метр кадоріотаї апо тоу продартео omy паройта Zuußaon Kavoviguó.\n\nAPOPO 6 (1875]\n\nTo dieêves Графею Ітадииу ка Mêtpwy sivor era- pOpTIopèvo NE:\n\n1. одс tig orykpideI, как Єпадпосив, ту vEWV притотипши нетрои ки киой.\n\n2. т филабл тии бедуши прототипии,\n\n3. пе перадика, аукроЕ, ту cEvIK протогши не та бвил притотипа кот не тс апобед тоис.\n\nкадас ка литсс тиу протипшу дерноретрии,\n\n4. т, ойукрот т vEWy притотипи нЕ та Дасика протипа ип нетрику отавии нак стрим, паи хрп-\n\n5. ov exe ка афрауют отадиши как истрии кат m pykpa twy yewöadlakür Kavovwv,\n\n6. m diукpion ту протипшу ка клиакши акрідекаs,\n\nKUBEPYrjOEIS CiTE GRO TIC EMOTUOVIKEG ETCUCiES CiTE aTO TOUG ISIOUS TOUG KOAMITÉXVEÇ KOI EMIOTNHOVES.\n\nAPOPO 7 (1921)\n\nTWY OXETIKÜN HÉTOWY HE TIG MAEKTOKÉS KOVADES KAI\n\nота п Генку даоксит то апофадось фаршка, та\n\nГрафсо Во стифортадєї не ти ойта каї т филой тУ протипо ти пієктриких коабши каї тик апо- aeşsü touG, Kaf, как т ацукрон. не та протипа aurá, twv sevuwv протипу к ahlwy протипшу окрі- BEIaÇ.\n\nAPOPO 9 (1875)\n\nAEOvoUG Графсои Етадишу ка Метрши, кадша ка та кратик, пом каворізокта айнфика не клінака поч\n\nAPOPO I0 (1875)\n\nEupßathouevou Kparou, ва катаваллаута оту api kale étoug neow Tou Ynoupyciou EgwtEpIKiY ms\n\nГалас ото Tapelo Паракатайлких ка Aavelww Tou\n\nAPOPO 11 (1875)\n\nO Kupepmidei, nou Ba xpnororoausay in Sura- orta auTn, п сприловаєта од кове Кратос, а прокрей отту паройла Zuußaon, Da eivar илохраш- да кадорічати ала ту Ельтрапп не раст то Ардро\n\nAPOPO IlI (даталс пои простеенкау не m Züpßaon rou 1921)\n\nKee Kparos до порсі на проохщопов оту по- та оцинстехоута крату ка та Проворо та Дє₴vous каве vea проахирпол от гиваот ms 201g Maiou\n\nAPOPO 12 (1875)\n\nTo Yunto Iuusandopava Mépn enqutáadourar ms varomas va pepour de koivi outpavia omnv na- ПЕрПЕріО На ОПЕбЕКиє Т ХРПОНОТУТИ.\n\nAPOPO 13 (1875)\n\nad m anen g проведнас тих дибека стах. п порошоа вист ва мпорсі на катаруслеєі опо то\n\nEva d TO dito tar YunAwr ZuyBalhonavar Mspur.",
+      "quality_score": 0.7404,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "mk",
+        "bg"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Avwy притотипии ка таи Грарскои.\n\nАРОРО 14 (1875)\n\nH поройоа биваот да стикиривой ойрина не тома\n\nOr enupwacIc да аутамахдойи ото Паріо неса ос провеиа df, unwy i no vopic av civar duvaróv. Od\n\nTElEi dE exTENEOn anó my In lavouapiou 1876.\n\n2 пот ти парапак ок актотохо піл-\n\nПАРАРТНМА\n\nKANONIEMOZ\n\nAPPO 1 (1875)\n\nTo Aiedveg Графеко Етадиии кас Mètpwy да сука- татадєї ає са сбико ктрю, пои пароисадя олес is apaies eyunes прена как отодеротта,.\n\nу катодеот ту притотпу, ас на ту є- укатостас ту Juyiy ха rov quywv, epyaampro,\n\nАплоис ка катовс ула то продшико филайя кап иппресас.\n\nAPOPO 2 (1875)\n\nпото кок ібопопол то кріви атой, кава как ту дукатаютаол ти unedi, уа т ополєс проо- PICETOL\n\nImy паріпон пои п Елтроги беу да нпорсі а апахтов каталитло ктірю, да клювеі ека оту ка- reuduvan aut kas cuupuva pe ra axedia aura.\n\nАРОРО 3 (1875)\n\nAvous Emponns, та апаратта нетри уа va ava- укріє то Графека так Ібрина Kowns Офелес.\n\nAPOPO 4 (1875)\n\nH дд Ептрол ва ектелёов та апаратута opyava, опис: ошукритес уча та протипа не слеп как a, e d tos проборой ти аполитих\n\nKEVO, DUYKPITES YID TOUG YEWSIdIaKOU, KavOVES K.ÀM..\n\nAPOPO 5 (1875)\n\nTo dEoda апоката 1 катаохитя том ктріон кон\n\nKal OUTKEUV dEV unOpOUr va UnEpßouv ouvalika To побо Twy 400.000 фраукы.\n\nAPOPO 6 (1921]\n\npelou anoteleia anó dua нер: та éva стадеро, то алло сингаприратико.\n\n4799\n\n2. To aralepó Hepas civar, upiws, 250.000 фраука, alta шпорсі на федос та 300.000 фраука не quowvn апофаот my Enrpors. Eival de Bapoç Ody ruv\n\nКрату как autovauwy Anowuy nou exouv проохи- AIGOMENT.\n\n3. То сципАприкото нерас апотелсіта ало тис\n\n4. H Елтрол clvar епрортюреуп не то ка сиитаба.\n\nне прога то Дт, тоу єтоо проиполоуюо,\n\nTous opous twv dio продуаферднеких єбафіши. О прополока, Us ферта каде хро неда яє ciden Orkovous Avapopa of yvon twv Kußepvnotwv\n\n5. Етру перінтиют пои п Етітропи да єкріє опа- pairto eite va duEnael népa rur 300.00 фраукшу то d pepo s emas парохта coua, сіте пои каборійстак ало то арбро 20 тои парочтос Ка- ETAL GOTE VO TOUS ERITPEREI VA SWOOUV, EV EUDETW pao da sival dykuen povo amy періптшоп пои каєа dev da ekopdoc din diaokeun artidemn yviun.\n\n6. Av eva Kparos napauêvel Tpia xpovia xupic va праунатопоое ту піпрший та вистофорас тои, поой, пои катаваллота не тои тропо дито апо та\n\nBoin, rau éyive ato koduatepouv Kparos kal rous\n\n7. Та пасочектната как то прокоша пои апоено-\n\n8. Мета anó тріа veu хрома, то елланнатко Кратос\n\nAPOPO 7 (1875)\n\nН ГЕРА ДаОКЕЦЯ пОи акафрета ата 'Ардро 3 hs dcovou, Етрогас толахотоу нід фора каде\n\nÉEI XPÓVIa.\n\n§pyaoies nou exour праунатопоес кат на провсі, he AlEfvous Eritponns.\n\nда лара жира ava Kparos. Каде Кратос ехат бкана kaig onç duykeytpuda, ms didokayms. Mnopoúy va eival rautov екпроошпої wy Киверупоєшу т.",
+      "quality_score": 0.751,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "bg"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "4800\n\nAPGPO 8 (1921)\n\nH AxBvne Entpami, NOU avapépetal ota Apépa 3\n\nTrs ZupBaone, Ga anoteActras and dzkaok Tu) HÉAN, Mau avnrauv HAC ce Stapopetind Kedm. |\n\nKata m SLAPKEUA TG AVAVÉWENG «ata TO mou TNS\n\nAwëvoue Erurponne, ra eEepxóueva (lean &a cival kar üpxHv qutà, nou GE HEPINTWON XRpelas, cEeAévnoav npocupiváà evdidyeda ge duo auvadoug Tria d rok at AAA Da Bopifovra ruxala.\n\nTa skepydyueva UÉAN enavesAeyovrat.\n\nAPOPO 9 (1921)\n\nH ETATS Érurpor ancreAcirat, emAgyovtag uóvi\n\nTNS, VE MUOtIK] rpogopid, Tov Nodedpo Ka To lpau- Hatéa ms. OL éiopiguiot QUTOI Kewvoncwuvtar ong Ku- Beovigeac rcov YuAwy EuupaAAonEvtav Kparav.\n\nO rlpaágópoc xar a l'payuaréag mec Entpanns kar (AEUDUe TG tou Tpapeiou npéne va avikouv qe dia- POPETIKES xapeq.\n\nAno m onyu} rou Da guoraBd n Emnrponn dev pnogel va npopei az kavvoüpyieq £kAoyéq À Giapiaiotq nàpd uóvg TES uüveg apoU oda ra uéAn Ba éxouv\n\nEvnpiepuiei yia. M xrpeia nou ENUTPÉTIEL ungopopia.\n\nAPGPQ 10 (1921)\n\nH debvic Enitpom) Kareudiver ua petpoAoyiKec coyagies, nou ra YunAa ZuyflaAAouEva Mépn Gd ano- Qügigouv VG EXTEAEGOUY and KOlvüU.\n\nEival erkpopnop£vn ETUNAËOV pe TO va emBAénet \"\n\nQUAQËEN Tav npuroxunev Kat Tiv Sie@vay nporunuv.\n\nMnopei, r£Aac, va Beauo8emoe nq duvepyadia Tuv\n\nElue ge Gépata uETDOAÀGYidQ KQl vq gauvrovigél Td anoTcAÉgpuatg Tuv epyaciuy tOUC.\n\nAPOPO 11 (1921)\n\nH Érutporm 8a guykevrputei TOURÜXIGTOY ula pop\n\nKage dua xpôvia.\n\nAPOPO 12 (1921)\n\nOi Wnipoeopies grouc KHATOUG inq Enttporii npay- HOTOMTOOUVTG LE Tv NA pa gy wipuv, Ic ng- BUTTON (ogrgptac, n urac tou fIpatópou untptOXxU£i.\n\nOo anopagerg dev TVU EYKUPES Topd Wóvo gv o\n\nQpiduó Tuv nagóvrav uela pivot looc rouAaytgrov\n\nHE TO Hou THY EKA€yOUEVOQv HEAQY, ru anoreAogy\n\nTv Engonn.\n\nMe tv enupüAa£n MS Mpaunoeane aum, ra anóvra per éxouv &waiopa va efoudiodatygouv Ya inv ge\n\nPoPopia Ta napóvra pean, nou da nDÉn& va Dugauo- Aayrjgauy \"mv £Eougtodó mon auri. To ide loyuei Ya\n\nTOUS A&opuouoUc pe BUSTA) qrnpotpopigq.\n\nO deuGuvvris Tou Fpapelou exer ékaiaua pr\n\nEULBoUA A. x MA npou oxo\n\nAPOPO 13 (1875)\n\nIto eväidueuo ang TH ula ouvedpia 9\n\nEmtponh eye, Raga va Quake 5e NP\n\nAPOPO 14 (1875)\n\nH dte8vig Enupom Frag\n\nwy .\n\nngogupwá \"e ynpe Www Kal Mérpuy rAnpai\n\nEG, nou a pgropouocavy va Srjuoug- EGHMEPIZ THE KYBEPNHZEQZ (TEYXOZ NPQTO}\n\nYnÔQUY aToug KOANOUT TS: Ot exkayes ywovta ue gÀAnAoypagig, kaB£va ONO Ta WEAN KaAgira va AGBey pepas.\n\nAPOPO 15 (1921)\n\nH deëvie Emtporm 9a encÉepyaogei Acnroucpn\n\nKAVOVIGUO YI THY OPYÜVION KA TZ £DYAMEC roy\n\nFhapelou kar 8a ka&opiaer Ta TÉAN nou Da nànpabouy yid WG ÉKTOKTEG Epyaoiec, MOU npofláénavrai ora ‘Ap- Dpa 6 ka 7 me Züufaoana.\n\nTa réÀn auià Ha óurigEvra. yid. mv Y£Aciortoinaq\n\nTOU ETUO mprovikou VAN OÙ rou Coageiou. E moi Kady 8a prope va npayuaronowgei npoc OcpeAag Tou Ta- uciou ZuviüEeuv emi tou duvóÀou Tuv ‘pépuv nou &ongaxensav and ra loapeio.\n\nAPQPO 16 (1875)\n\n‘Odes à enkawuvieg Mme AB vour Enttpanric pe nc\n\nKufepvioe ruv YuynAuv ZuugaAAóucvav Mepay gg\n\nAGHouv xupa peow rev GNAWHIATKUV exnpodunuy\n\nToug ato Mapici.\n\nMa OAEG TIC unaBéoelc, ruv anoiay n Adan éxkEurey om yaÀA«r óuxnon, n Eniipom 8a npoopuyea arov\n\nYnoupyó EEgrepikuv me l'aAAiaq.\n\nAPOPO 17 (1921)\n\n'Evac kavoviguóe, nou auvrágae ra and Trjv Eruroo- nr, 8a Kkabopiget ro Peyote EvepyntiKd yo Kade Ka- Myopia NacocuriKed Tou Fhageiou.\n\nO Meuduvtig Kat or Bongoi rou 8a Sopitovra ue uugukn (hiupopapia and mm AcAvA Erurponn. O &ogi- OUÔ TOU 9d kowononBe, gu Kupeovqgec Tuv Y- Way £uufaAAouevuv Mepuv.\n\nO AtevBuvms 8a &opiog ta AKA LEAN rou npogu- nKOU, uéga gra ópur nou kaBopiavrar and xov xava- ViOHO, TOU avapépera. OTA npoavagepóuevo nouo £óàqio.\n\nAPOPO 18 (1921)\n\nO Ateuduvticg tou Foageiou Sev 3a éxet koyia npà- gBacn gto xupo karüBeconq Tv GeIvwv npuraiümuv,\n\nMaga Suvaug& andpaons mo Erutpone «d HE Uv rüpouoía TAUAGXIOTOY Evade ganó Ta HÉAN THC. |\n\nO tónoq karóüzone tuv npwrorunuy dev Da urtoget va avoiker napd uóvo ue tpia xAedid, and ta onoi éva Ga éxet 9 Ateuduviris Tuv Apxtiuv Me Fadhas,\n\nTO deutepo 9 flpógópoc me Eniponnu xa T9 Tito 9 Auguviris tou Cpageigu, .\n\nTa npótuna vri, kamyopias rov eGvikgiv nirrorünav 9a xpnuuieuouv nóvo OTIG TaKTIKES Epyagigc GUYKALONS\n\nTau (papeluu,\n\nAPOPO 19 (1907)\n\n© dieubuvtic toy lpageiou da anogtéAke of Kae\n\nQuvedpia amy Enuponr:\n\n1. Okovouikr avapapa via TOUG AayapiaguoUG TOV\n\nPO YoUU£vurv xprigeuv, tou onoigu Ba rou Sadei, HETÉ ano EngÀngeuon, anaAAaqm.,\n\n2. Avagopd via. my katagraan rou UAKOU.\n\n3. evi] avagopa yia tic cpyaoite, nou npayparo- nomenkav ans mv ngonyoüpevn guveópia. |,\n\nTo Tpageio mc dtedvauc Emtponns Ba aneuguvel\n\nQno My nAcupa rou, ge óÀeq nq Kupepynoeis TUV\n\nYunMuv ZuugaAAóuevuv Mepv, emaa Avapopd Wü\n\nTN Sun nir kai oikcvouikri Karügrag we Ynmpeouas.",
+      "quality_score": 0.763,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "ca",
+        "pt",
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "DEK 261\n\nnou Bg REPÉXEL nRÔBACN rov Sanavwy yia inv end- uev] xenon, «adu Kat Pivaxa tov guvetoqgepóyuevav\n\nBepdinv Tuv TUUBAAAQUE vo Kpatwy,\n\nO Mpdrdpoe me Enitponns da anodacet Aovapuaguó om levi Agkeun yia TS EPYAUIES, nou npayuato- norjBnkav gno mv ETOXH MG TEAEUTGlde mc guyké- VTM.\n\nOù avaqopé ka or SNUAMEUOEIG TMS Erurponñs ka tou Mhapelou 8a ouvraxdoüUv gta yaAAkr vAoaoa ken 8a kowonomBoUv cric KUBEP AGE \"ruv Ygrgv Lup- BaAAOuEvtv MEQuv.\n\nAPOPQ 20 (1921)\n\nf. H xAiuaxa Tuv. ouveLaqogov, n oneia avagépetai gro Apüoo 9 m6 £üugaons, karaprizEra, via Ta gra- Bees u£poc, uz Báon mv avagepóuevr napoxr euo- énuaroG gro \"Ápdpo à rou napóvroc Kavowiguou KOI\n\nHE gui rau nàngucuou. H Kkavovik] cuvelggood Kade\n\nKpdtouc dev propel va eival Kkatwregn and 5 yia 1.000,\n\nQUTE qvtyrepn and 15 yia. 100 tris guvoAiris napoyris\n\nEwodhyatog, aveEaomta tou apiüuou rou mAnguapou,\n\n2. l'a va karapmigBei rj kApgaka aum, kagopi£euug\n\nKat apyriv ra Kpàm nou fipiokovrar arie ngolinodégerc\n\nTOW TiBevra, yid. TO £AQyxgTO Kai TO u£ytaro KA dia- VÉHOULE ro UNDAGING TOU OCUvEICIpEOOUEvOU mogou a- vdpgrega ofa dÀÀa Kodi duvdye àpega toy apiBpoU\n\nTOU nÀngudyuou TOUG.\n\n3. Ta guvetogEpouEva pepióia nou ungAayiCavra, LE\n\nTov Tpóno auTOv igxüouv yla OAn Inv nepioSo nou neplappavetal qvauega amc 5o dadoxkée Cevinéc : ADRÉUWEIS Kal Sev HTOPOUV va rpanonogiDouv, ev Tu\n\nUETOEU, napà WOVE gTiG dkóAocuSEG nepurragei:\n\na) Av éva and ta Kpüxn, nou £xouv npogywprjaet, agnoe va nepacouy Tpia SiadoxiKd ypovia xupiq va\n\nKAVEt TIS KaTaBoAée Tou.\n\nB! Av, aviidera, Eva Kpdtoe, aqou eixe xaQugrepriaet nponvotuceva Nepwodtess and teia ypovig. karégaAe\n\nTG KOGUCTEPNVEVES OUVELTPODÉG xou, guvipéxer Adyac\n\nVA £ntorp£ye OTIS AAE KuBepvnrozi mc npokarago- Acq mou £yrvav and autéc, |\n\n4. H ouinAnpuuaru guvetapopë UROAOYICETOL pe my a Paon rou rAnfuauou kai elvat lon HE aur) nou\n\nRÀnpüvouv guupuvd pe Tic (ec npoünoOtgkq Ta\n\nKpäm nou Éxouv nakabrepa Evraxael om Xuupaan.\n\n§, Av £va Kpároc nou éxet npooyupiger am Lunia\n\nGnAWGEL ón déAe va Seupuver To agekog oe pia À\n\nNepigadtepes un auróvouec ANOKIES, 9 apiüuóc tou nAn8uguoU Twv Ev Adyw Arnoktüv Ba npoorefel ce ayró tou Kpdtouc ya tov unoAoyioNé MHS KAlaKaS\n\nTav QUYELTPODUY,\n\n6. 'Orav yia avayvupiquévn auróvour Anoukia embupel va fpooxupAoe om Xuugaon, Ha dewpeita, GE Ou apopd ty slcañé mc am ZuuBaan auri DUHPWVA pe\n\nTHY dnóqaon me Mnrognaanc, Eire ot e€aptata and aut] cite Gav IuupaAAóuEvo Kpätoc.\n\nE®HMEPIZ THE KYBEPNHZEOZ (TEYXOZ lIPQTO)\n\n4801\n\nAP@PO 21 (1875)\n\nTa £Eoóa KATAGKEUTIS Tuv ücOvuv nouTOTUnav, Ka- Du KO TUV NOOTUNUY Kal arodeiEewy nau ngoopicovrai yi va ra ouvodelouv, 8a ta avahüBauv rg YiumnAà 2uufaAAóuEva Méon auupova ue mv KAUdka, nou avapépEtTa gro. nponyounuevo áp8po.,\n\nTa £Eoóa aUykovanc xav enoAngeuona tov nporünuv nou éntouvtat ano ta Kodm, nou dev guuuer£xouv omy napoügg Zuupaon, Da puOugroUv and mv Em- tom ouipova ue ra TEAT, NOU kagogltovra: Suvàue tou \"Agüpou 15 rou Kavoviauou.\n\nAPOPO 22 (1875)\n\nQ napàv Kavoviguóc Da éxet vv (Gta l1oxU «ar afia\n\nUE duty mj; Züupaong aiv onola npocaprárai.\n\n‘Apâpo Scutepe\n\n1. Q Gandvec via. mv npoayxegnon KM MY ETC copopà me EAAddac ain Lupfaon rou Mérpou Bapu- VOUY TOV ripounoAavyiogó rou Yroupyelgu Owovoumay.\n\n2. O1 6anádves OUUUSTOXHS avrinpogamtuv gra ópyava\n\nTie Zuupaonc tau Métoou kal ot Aginée nágna quaeuq\n\nGanûves nou npofkénovra, ZE duty KaAümravial anda\n\nTOV ngounjoAoywué Tay Yroupyelou AvantuEnc,\n\nAp8po rpíro\n\nH waXxüG tou mapdvtoe vóuou apyicer and xr Srjpoateu- or rou omy Epnuepiüa TK Kupepvroeur, Kat TE ZUp- Baonc nou Kupuvero and rrjv MAT pwoT uv npoünolé- GEuv tou ápOpou 14 auis.\n\nnTlapayy£AAoye xr] ónpogíguonr] rou napóvroc arme E- qnpsplóa mg Kufiepvrjaeu kar trjv ekréAegr TOU wc Né- pau rou Kpárous.\n\nAürjva, 19 Noeufniou 1999\n\nOTIPOEAPOX THE AHMOKPATIAX\n\nKONETANTINOZ ZTEPANOTIOYAOZ\n\n- Op To YPrOl\n\nE=NTEPIKQN\n\nF.4. MANANAPEQY\n\nANADITYZHE\n\nETAT. BENIZEAQE\n\nOIKONOMIKIIN\n\nr. NANANTONIOY\n\nOewprjanke Kai régnke rn MeydAn Zppayida tov Kpároug\n\nABrjva, 23 Noepfipiou 1999\n\nET THE AIKAIOEYRHE YTIOYPT OZ\n\nE. FI'ANNOTIOYAOZ",
+      "quality_score": 0.7832,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "ca",
+        "sk",
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "4804 EOHMEPIZ THE KYBEPNHZEQZ (TEYXOZ NPLTO)\n\nEONIKO TYTIOTPA®EIO\n\nE®HMEPIAA THE KYBEPNHZEGZ\n\nKATIOAIZTPIOY 34 * AOHNA 104 32 * TELEX 223211 YPET GR * FAX 52 34 312\n\nHAEKTFONIKH AIEYOYNZH: http: www.at.gr e-mail: webmaster @ et.gr\n\nYTIHPEZIEZ EZYTIHPETHZHZ MNOAITON\n\nKENTPIKH YMHPEZIA NÉPISEPEIAKA [PA®ELA\n\nlInpogopíes 6nyogigupátuv AE. - E.TE. 5225 761 | GEZZAAONIKH\n\n5230 841 | Bag. QAyac 227 - T.K, 54100 (031) 423 9568\n\nMAñpapoplec Srnpoaieupdvuv Aormuv d. E.K, 5225713 | lIEIPAIAZ\n\n1 5249 547\n\nl'an o.E.K, 5239 762\n\nDwtoavtTiypapa nakauv DE.K. 5248 141\n\nHiBaoënkn MaAdinv D.E.K. 5243 158\n\nOënyiec via STUOTEUMATA A.E. - EE. 5248 785\n\nExvpapH Zuvópoyurnrav $.E.K. kai anogroàr o.E.K, 5248 320\n\nNurjra 6-8 T.K. 185 31 4135 228\n\nNATPA\n\nKopfvBau 327 - T.K, 262 23 (061) &3B1 100\n\nINANNINA\n\nAvummigu T.K. 450 44 (0651) 67215\n\nKOMQTHNH\n\nAnuoxparías 1 T.K. 691 00 (0531) 22 858\n\nABPIEA\n\nAvIKn THO T.K. 411 10 (041) 597449\n\nKEPKYPA\n\nZapapá 13 T.K. 491 00 (0661) 89 127 / 99 120\n\nHPAKAEIO\n\nTTA, FAsu@splac 1, T.K. 711 10 (081) 396 223\n\nAEXBOT\n\nNA. KavotavivoundAsuc T.K. 811 00 Mur\n\n(0251) 46 888 / 47 533\n\nTIMH ŒYAANN ~ MEXpl 8 gekides 200 Spy,\n\nESHMEPIAOZ THE KYBEPNHIEQY\n\n- And 8 GEASEG kai ava NPOGCQAUÈrT On 100 Spy. avé AOÉALSO \"n pépoec AUTOU\n\nETHZIEZ ZYNAPOMEZ $.E.K.\n\nA (Nópot (A. Zupflágem KA.)\n\nAvavüuuw Erapewy & E.NLE,\n\nMA OAA TA TEYXH EKTOZ AE. À ETLE.\n\n500\n\nB' (Yrroupvikés anoqáceis KA.) 3.506 7%\n\nV (Atopwayol, artoAUgEIS K Art, Anp. YOAN Ay) \\ E à (AnaAXorptdatc, TOOL k. An.) m i\n\nAvaru&iakuv l'ipáEenv (T.ANLE.) $500 »\n\nNAS, (Atoptopol An. ripoagrukon NAA) p llapápmpa ('ipormpu£n Ségewuv AEN K.TÀ.] mo\n\nActo Bioumxavucrge l&okrmoías (A.E. B.L.) 290 or\n\nAvwrtatay ELSIKOU wkagmpiou (AE A) 500 »\n\nTIPONIPUESU À JET. 150\n\n* Quauvópous TOU c£urrepikoó eniBapuvavrar né y C ; NÉDAV toy 5 | . Junép NOJOGTOU Tou avrutotye( oe. CUVEpopié (os.\n\nL 1 MOL, ak\n\nOE Kai od npo to AH urge Tau TAIES mS Ru OL em : ou To \"Hou OUT WXUEL Yt £va xoóvo. rou a |\n\nEYYpaspoviaiouvóoounrée yu Roe repo wean M 10 mugp(ou Kau Me\n\nANG TO EONIKO TYNOrPAGE!O",
+      "quality_score": 0.7373,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "pt",
+        "id"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "Considérant que ladite Convention a été approuvée en Grèce par la loi No 2763 / 1999 publiée dans le Journal Officiel No 261 du 23 novembre 1999 (fascicule A')\n\nAyant vu et examiné le texte de ladite Convention Nous l'approuvons, ratifions et confirmons promettant de la faire observer selon sa forme et teneur raidio ei de quoi apos vose suent es présentes letres de\n\nFait à Athènes le vingt deux février deux mille un\n\nLe Président de la République\n\nKupaing\n\nLe Ministre des Affaires Étrangères",
+      "quality_score": 0.9711,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

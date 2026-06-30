@@ -1,0 +1,63 @@
+{
+  "document_id": "18750001_55_s1",
+  "title": "Note verbale d'adhésion à la convention",
+  "year": 1875,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8537,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Belgrade 1e 9/21 Septembre 1879 Monsieur le Chargé d'affaires, T'as sece la secte que vous a aves faut l'homme. de m'adresser le 30 duit dernier pour me communiquer l'obligeante reponse de votre Gouvernement aux des mandes que vous aviez bien voulu lui transmeller de notre part relativement à l'accession de la Gerbie à la Convention du mitre. Le Genernes Gires a pait exant connais: sance du tente de la Convention si…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_55_s1.pdf",
+  "source_filename": "18750001_55_s1.pdf",
+  "source_sha256": "cc9eb3802b21c9e131f380b77405972fa0366caa6cf17e9f8c2acebd9c2a3f5d",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "795",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Belgrade 1e 9/21 Septembre 1879\n\nMonsieur le Chargé d'affaires,\n\nT'as sece la secte que vous a aves faut l'homme.\n\nde m'adresser le 30 duit dernier pour me communiquer l'obligeante reponse de votre Gouvernement aux des mandes que vous aviez bien voulu lui transmeller de notre part relativement à l'accession de la Gerbie à la Convention du mitre.\n\nLe Genernes Gires a pait exant connais:\n\nsance du tente de la Convention signee à Paris le 201\n\nMai 1875 er particulierement des obligations impostes par elle / Antiq et ii/ à tout ltat qui desire y accéder.\n\nbussi cosme l'introduction en terbe du nouveau resterre dot avera beu le planier prochan, le Goc versemerit Juincier, sans attendre la reponse du Comete\n\nInternational des pords et mesures sur questions qui lu ant été posés, déclare adhérer à la Corvetion du 20 Mai 1575 cions toutes ses parties es s'engageant à se sous, mettre à toutes les obligations qu'elle impose aux liato segnataires.\n\nMonsieur le Vicomte H6. de Brancaire\n\nChargo d'affaire de Fance e, * la Belges d",
+      "quality_score": 0.8548,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Je vous prie, fensivur le Chargé d'affaires, de vouloir bien domer a votre Gouvernement acte de la presente delaration et d'agreer à cette acadion l'expression De ma considération la plus destingue.\n\nI. Niestit",
+      "quality_score": 0.8526,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

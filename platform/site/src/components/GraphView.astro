@@ -6,8 +6,18 @@
     </label>
     <span id="graph-count" class="muted">Chargement du graphe…</span>
   </div>
+  <ul class="graph-legend" aria-label="Légende des types de nœuds">
+    <li><span class="dot" style="background:#1f6f78"></span>Document</li>
+    <li><span class="dot" style="background:#354a5f"></span>Instrument</li>
+    <li><span class="dot" style="background:#7b5d2f"></span>État</li>
+    <li><span class="dot" style="background:#594c8f"></span>Organisation</li>
+    <li><span class="dot" style="background:#23724d"></span>Thème</li>
+  </ul>
   <div id="sigma-container" aria-label="Graphe de connaissances Lexis Mollis"></div>
   <div id="graph-detail" class="graph-detail muted">Clique un nœud pour afficher ses détails.</div>
+  <noscript>
+    <p class="muted">Le graphe interactif nécessite JavaScript. Export brut : <a href="/data/graph.sigma.json">graph.sigma.json</a>.</p>
+  </noscript>
 </section>
 
 <script>
@@ -107,6 +117,31 @@
     background: #fffefb;
     color: var(--ink);
     padding: 0.72rem 0.86rem;
+  }
+
+  .graph-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.9rem;
+    margin: 0 0 14px;
+    padding: 0;
+    list-style: none;
+    color: var(--muted);
+    font-size: 0.84rem;
+    font-weight: 700;
+  }
+
+  .graph-legend li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .dot {
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 999px;
+    flex-shrink: 0;
   }
 
   #sigma-container {

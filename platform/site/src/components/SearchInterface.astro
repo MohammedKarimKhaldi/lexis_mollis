@@ -22,6 +22,12 @@
     <span id="semantic-status">Disponible via HF Space quand l’index FAISS est publié.</span>
   </div>
   <div id="search-results" class="results" aria-live="polite"></div>
+  <noscript>
+    <p class="muted">
+      La recherche interactive nécessite JavaScript. Consultez l'
+      <a href="/donnees/">index documents JSON</a> ou la liste sur la page d'accueil.
+    </p>
+  </noscript>
 </section>
 
 <script>
@@ -33,6 +39,8 @@
   const resultsEl = document.querySelector("#search-results");
   const semanticButton = document.querySelector("#semantic-button");
   const semanticStatus = document.querySelector("#semantic-status");
+
+  resultsEl.innerHTML = "<p class=\"muted\">Chargement du corpus…</p>";
 
   const [searchData, facets] = await Promise.all([
     fetch("/data/search.json").then((response) => response.json()),
@@ -114,7 +122,13 @@
     render(hits);
   }
 
-  queryInput.addEventListener("input", update);
+  let debounceTimer;
+  function debouncedUpdate() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(update, 120);
+  }
+
+  queryInput.addEventListener("input", debouncedUpdate);
   languageFilter.addEventListener("change", update);
   typeFilter.addEventListener("change", update);
   semanticButton.addEventListener("click", async () => {

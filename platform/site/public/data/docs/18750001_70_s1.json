@@ -1,0 +1,47 @@
+{
+  "document_id": "18750001_70_s1",
+  "title": "Lettre de l'Ambassadeur de Turquie au BIPM d'envoi de chèque d'adhésion",
+  "year": 1875,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8435,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "[o CRE um Ge. lung ess 798 5 Zi | a A eps Zousieur lo Direc 2t9ur, dei LTD de Vous Teire s&rvezir sous ce là, un chèque sur le ZUS de *reace de I07,975,Zrs 28 c, pour le comte du ministère ture de l'EZoonorie Detieusle, en Versenent de TRE isetirn et wes droits d'entrée rele~ tits à l'ednésion du gouverne zut ture gu Buresu Interne ticnal des Foids et Mesures, /— Je vous prie Qe me Zeire tenir quittance en double ex…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_70_s1.pdf",
+  "source_filename": "18750001_70_s1.pdf",
+  "source_sha256": "06135a0d50e865d767872616a7c13b4a72f0c4c7207896f1e099ee13ee467265",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "TUR008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "[o CRE um Ge. lung ess 798 5\n\nZi | a\n\nA eps\n\nZousieur lo Direc 2t9ur,\n\ndei LTD de Vous Teire s&rvezir sous ce là, un chèque sur le ZUS de *reace de I07,975,Zrs 28 c, pour le comte du ministère ture de l'EZoonorie Detieusle, en Versenent de TRE isetirn et wes droits d'entrée rele~ tits à l'ednésion du gouverne zut ture gu Buresu Interne ticnal des Foids et Mesures, /— Je vous prie Qe me Zeire tenir quittance en double exeunlaeire, dudit nzoniant et de n'acuuser, également, récention ce cette lettre,\n\nYeuillez egréer, lignsieur ie Directeur, lL'assurecus\n\n4\n\nde me coneidération tris distinguée,\n\nL'Anbessadeur de Turguie,\n\ny\n\nA\n\nVA\n\n-\"\n\nST le Directeur au Saüresu Internetianel\n\nlas PLÉE LE EU EEE EEE)\n\nArs 20198 et \"esures,\n\nSèvres,\n\n€",
+      "quality_score": 0.8435,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

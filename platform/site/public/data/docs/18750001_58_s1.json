@@ -1,0 +1,57 @@
+{
+  "document_id": "18750001_58_s1",
+  "title": "Instrument de ratification de la Slovaquie",
+  "year": 1875,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "sk"
+  ],
+  "quality_score": 0.9191,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "VLÁDA SLOVENSKEJ REPUBLIKY Dňa 20. mája 1875 bol v Paríži dohodnutý Medzinárodný dohovor o sústave metrickej /CIPM/ Vláda Slovenskej republiky tento Dohovor preskúmala a v súlade so slovenskými ústavnými predpismi k nemu pristupuje podla ustanovení Jeho článku 11. s platnostou od 1. 1. 1993. V Bratislave dña 18. decembra 1992 EWIS TERSTNO GLOVENSIES ORYCH VEC. REPUBLINES podpredseda vlády a minister zahraničných veci",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_58_s1.pdf",
+  "source_filename": "18750001_58_s1.pdf",
+  "source_sha256": "c8b74d48fd59d3bfe165dde2a28c4834c6c2e10dd818e16802481f38ce430a8a",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "SVK002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "VLÁDA SLOVENSKEJ REPUBLIKY\n\nDňa 20. mája 1875\n\nbol v Paríži dohodnutý\n\nMedzinárodný dohovor o sústave metrickej\n\n/CIPM/",
+      "quality_score": 0.9198,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "sk"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Vláda Slovenskej republiky tento Dohovor preskúmala a v súlade so\n\nslovenskými ústavnými predpismi k nemu\n\npristupuje podla ustanovení Jeho článku 11. s platnostou od\n\n1. 1. 1993.\n\nV Bratislave dña 18. decembra 1992\n\nEWIS TERSTNO\n\nGLOVENSIES\n\nORYCH VEC.\n\nREPUBLINES\n\npodpredseda vlády a minister zahraničných\n\nveci",
+      "quality_score": 0.9185,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "sk"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

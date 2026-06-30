@@ -1,0 +1,49 @@
+{
+  "document_id": "18750001_35_s1",
+  "title": "Dépôt de l'instrument de ratification",
+  "year": 1875,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.85,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Transe.. (Juit norge Proces-verbal d'échange) . des soussignes d'etartreunis pour procéder à Déchange des Pratifications de Son Vacellence lePrésiden de la République. Francaise et de da Majesté le roi de Suède et de Norvége, our la Convention signée à Paris, le 20 Mai 1875, dans le but d'asurer l'unification interna tionale et le perfechonnement du Iyaleme métrique: deo Inotruments de cet acte ont élé productiel, a…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_35_s1.pdf",
+  "source_filename": "18750001_35_s1.pdf",
+  "source_sha256": "af3f5afba537732dc75977c37470b6619ed80402d8a8d1db9d8ab3d818aafdce",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "847",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Transe..\n\n(Juit norge\n\nProces-verbal d'échange) .\n\ndes soussignes d'etartreunis pour procéder à\n\nDéchange des Pratifications de Son Vacellence lePrésiden de la République. Francaise et de da Majesté le roi de\n\nSuède et de Norvége, our la Convention signée à Paris, le 20 Mai 1875, dans le but d'asurer l'unification interna tionale et le perfechonnement du Iyaleme métrique:\n\ndeo Inotruments de cet acte ont élé productiel, aprés examen, trouvés en borne et due forme. Aux termes des diopositions adoptées en conférence, le 2o Mai 1845, l'xemplaire des\n\nRatifications présenité un nom de la Majasté le Moi de Suède it de Morage a été ree par le gravonement prançaio qui donnera avio de cette remise ana autres\n\nPuissance signataires de la Convention. En foi de quoi, les soussignés ont descosé le présent Proces Verbal et l'ont reste de leurs Cacheto.\n\nVait alPario, lez0 décembre 1845",
+      "quality_score": 0.85,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

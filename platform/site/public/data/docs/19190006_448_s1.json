@@ -1,0 +1,57 @@
+{
+  "document_id": "19190006_448_s1",
+  "title": "Procès verbal de dépôt de l'instrument japonais",
+  "year": 1919,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9682,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCÈS-VERBAL DU DÉPÔT DES RATIFICATIONS PAR LE JAPON SUR LE TRAITÉ DE PAIX SIGNÉ À NEUILLY-SUR-SEINE LE 27 NOVEMERE 1919, 4 Entre, d'une part, les États-Unis d'Amérique, l'Empire Britannique, la France, Eltale et le Japon, Principales Puissances allies et associées, la Belgique, la Chine, Cuba, la Grèce, le Hedjaz, la Pologne, le Portugal, l'État serbe- ‘croate-slovene, le Siam et l'Etat tchéco-slovaque, constituan…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_448_s1.pdf",
+  "source_filename": "19190006_448_s1.pdf",
+  "source_sha256": "29a8d321195ba9e3b4c3baf3afa0191fcd2930d7258e862c3cd7e25918f0fc53",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "JPN004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCÈS-VERBAL\n\nDU DÉPÔT DES RATIFICATIONS PAR LE JAPON\n\nSUR LE TRAITÉ DE PAIX\n\nSIGNÉ À NEUILLY-SUR-SEINE LE 27 NOVEMERE 1919,\n\n4\n\nEntre, d'une part, les États-Unis d'Amérique, l'Empire Britannique, la France,\n\nEltale et le Japon, Principales Puissances allies et associées, la Belgique, la Chine, Cuba, la Grèce, le Hedjaz, la Pologne, le Portugal, l'État serbe- ‘croate-slovene, le Siam et l'Etat tchéco-slovaque, constituant avec les Princi- pales Prissances ci-dessus les Paissances alliées et associées, et, d'autre part, la\n\nBulgarie, ainsi que sur le PROTOCOLE, signé le méme joar par les mêmes\n\nPutssances; actes auxquels a accédé la Roumante par Déclaration en date du 9 décembre 1919.\n\n;\n\nEn exécution des clauses finales du Trailé de Paix signé à Neuilly- sur-Seine, le 27 novembre 1919, l'AMBASSADEUR DU Japox À Pans s'est présenté aujourd'hui au Ministère des Affaires Étrangéres, à Paris, pour procéder au dépôt des ratificalions de Sa Majesté l'Empereur du Japon\n\nSur ledit Traité et le Protocole, et les remettre au Gouvernement de la\n\nRépublique francaise.\n\n\" Une note de l'Ambassadeur du Japon à Paris, en dale du 36 mai 1921, informant le Gouvernement français, conformément auxdites clauses finales, que la ratification avait été donnée, a été communiquée le 13 juin 1921 à toutes les Puissances signataires du Traité de Neuilly- sur-Seine.\n\nL'instrument des ratilications a été produit et ayant élé, aprés exa- men, irouvé en bonne et due forme, a été confié au Gouvernement de la République Française pour rester déposé dans ses archives.",
+      "quality_score": 0.9642,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "- 2 - Conformément aus dispositions des clauses finales précitées, le Gou- vernement français donnera avis de ce dépôt aux Pulssances contrao- tantes.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procis-verbal et y ont apposé leurs cachets.\n\ncente en core 101\n\nK. thie",
+      "quality_score": 0.9722,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

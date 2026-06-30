@@ -1,0 +1,67 @@
+{
+  "document_id": "18750001_67_s1",
+  "title": "Instrument de ratification de l'Empire Ottoman",
+  "year": 1875,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "ca",
+    "fa",
+    "fr",
+    "ur"
+  ],
+  "quality_score": 0.6242,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "روم ہرشی سی ہیں کردا وو کار ہر و و سر نرود رد n‏ ر ا 4 ا وم سر ردا س و زی وودکرمز ودای eg‏ ا ر ر 0 لی کک رر ۰ رکز 28 شر رزو ر زر کر رک زوا وودد ووک کاود ر روو ) روو 8 ری سی ر ر رورس وو ب طرفہ وو گر ررد ورو mm JO OE OO ro qq — SE EE € qq mm Pa D can din 3 3 € - ivit \" © emm ja rite . \" - ri : à ™ - 5 1 fr 4 , . M aS . fr Ne * ^ . 1 . v 1 » ^x . M | - ——— D Bees oe Tet - E B, sil BH | . ^",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_67_s1.pdf",
+  "source_filename": "18750001_67_s1.pdf",
+  "source_sha256": "caa41830aef9bc84d7acd06dbd95ecd524d35fd5d78d0bb89f8f5235d98bd2a8",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "920",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "روم ہرشی سی ہیں کردا وو کار ہر و و سر نرود رد n‏ ر ا 4 ا وم سر ردا س و زی وودکرمز ودای eg‏\n\nا ر ر 0 لی کک رر ۰ رکز 28 شر رزو ر زر کر رک زوا وودد ووک کاود ر روو\n\n) روو 8 ری سی ر ر رورس وو ب طرفہ وو گر ررد ورو",
+      "quality_score": 0.6393,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Arabic:psm3",
+      "language": [
+        "ur",
+        "fa"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "mm JO OE OO ro qq — SE EE € qq mm Pa D can din 3 3 € - ivit \" © emm ja rite . \" - ri : à ™\n\n- 5 1\n\nfr 4 , .\n\nM\n\naS\n\n. fr\n\nNe * ^\n\n. 1\n\n. v 1 »\n\n^x . M\n\n| -\n\n——— D Bees oe Tet\n\n- E B, sil BH\n\n| . ^",
+      "quality_score": 0.6092,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [
+        "fr",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "19190006_796_s1",
+  "title": "Instrument de ratification du Royaume des Serbes, Croates, Slovènes de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+  "year": 1919,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8558,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Voir texte 19190006 01 sur bobine b253 Au mone de La Maicote •Viette) -Maxandre ticilier de Poine a tous ceux qui tes présentes lettres verront faisons savoir. Un Truité de Puix avant ite conde et signera Neuilly- ave-Seine' le 27 novembrel 1919 par le a as Via mexique empira Britanique: des Serbes, Croates et Slovènes, de Siam/et la Echéco- Constituant avec les Principales Pissances ci-dessais les Puidsances allice…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_796_s1.pdf",
+  "source_filename": "19190006_796_s1.pdf",
+  "source_sha256": "898bbeb90b82a3ad6f6928d53ab54f8186dd505a60cc1e36c4728ae4b43ec68b",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "796",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Voir texte\n\n19190006 01 sur bobine\n\nb253",
+      "quality_score": 0.9213,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Au mone de La Maicote •Viette)\n\n-Maxandre ticilier de Poine a tous ceux qui tes présentes lettres verront faisons savoir.\n\nUn Truité de Puix avant ite conde et signera Neuilly-\n\nave-Seine' le 27 novembrel 1919 par\n\nle a as Via mexique empira Britanique:\n\ndes Serbes, Croates et Slovènes, de Siam/et la Echéco- Constituant avec les Principales Pissances ci-dessais\n\nles Puidsances allices et associées, d'une part\n\net la Bulgarie\n\nd'autre port\n\ninsi qu'un protocole concernant l'execution du Traite!\n\nNous, ryant au et eraminé les dits Grailes el pretecte deint la teneur précile et les ayant trouvés conformero à nos vaco, tes azers\n\napprenneset décarcas qui\n\nils regal, ratifies et confirmés et premeet ons qu'ils seront invitattement etiercés de leur entree en mirent:\n\nEn diri de queri trao avons signé les présentes lettras de rostifi\n\n16 Fuie\n\nmit neuf-cent-\n\nvingt!\n\nMiniobre des lfaires dtrangers a i ou. Yintchitch\n\nСРБА,",
+      "quality_score": 0.7904,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

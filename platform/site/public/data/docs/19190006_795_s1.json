@@ -1,0 +1,49 @@
+{
+  "document_id": "19190006_795_s1",
+  "title": "Pouvoirs du Royaume des Serbes, Croates, Slovènes",
+  "year": 1919,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7869,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "de raba Alejeder \"Pirate! par la grâce de Dieu et la volante nationale Roi dententes, Quates et Everos Heauntre Hecte du Crinel Paix de 1 tigler Blano eto eto, ancien Pérdent du Comasilider Ministes es présents puleins pouvais pour enter not, procéderiau stépet de lora. lification sur le Oraite de Pao conduiente le Ruinancia Alices et Associées d'une part et la Bulgario dinte part, signe a Mouilly res seines le 47 т…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_795_s1.pdf",
+  "source_filename": "19190006_795_s1.pdf",
+  "source_sha256": "41dcbc2674af0013f09563ce7a17d04622ff807bde556e4899b5ad76d3485ec2",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "795",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "de raba Alejeder \"Pirate!\n\npar la grâce de Dieu et la volante nationale\n\nRoi dententes, Quates et Everos\n\nHeauntre Hecte du Crinel\n\nPaix de 1 tigler Blano eto eto, ancien Pérdent du Comasilider Ministes es présents puleins pouvais pour enter not, procéderiau stépet de lora.\n\nlification sur le Oraite de Pao conduiente le Ruinancia Alices et Associées d'une part et la Bulgario dinte part, signe a Mouilly res seines le 47\n\nтето 2919.\n\nEn fei de pui tors arron ordonné sur la prévente lettres soient ravéluos are\n\nvera de l'Olal.\n\nDonné à Belgrade, le\n\n16 Faire\n\nMinistes des Affaires tangeres ain wa. Yentelitch\n\nКРАЛЬКОС",
+      "quality_score": 0.7869,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

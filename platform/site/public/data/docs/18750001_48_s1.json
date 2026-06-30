@@ -1,0 +1,70 @@
+{
+  "document_id": "18750001_48_s1",
+  "title": "Instrument d'adhésion de la République Tchèque",
+  "year": 1875,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "cs",
+    "en"
+  ],
+  "quality_score": 0.969,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "VLÁDA ČESKÉ REPUBLIKY Dne 20. Května 1875 byla v Pařizi sjednána Mezinárodní úmluva o soustavě metrické (CIPM) Vláda české republiky tuto Mezinárodni úmluvu prozkoumala a v souladu s deskými právními předpisy k ní přistupuje podle us- tanovení jejiho clánku 11, s platností od 1. ladna 1993. Dáno v Praze dne 21. prosince 1992, (losef Vetuue ministr mezinárodnich vztahů české republiky /UNOFFICIAL TRANSLATION/ THE GOV…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_48_s1.pdf",
+  "source_filename": "18750001_48_s1.pdf",
+  "source_sha256": "d1a85250c06af6573ca73530e5cd1f0b121f61f89444c00b280e15e143416796",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "CZE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "VLÁDA\n\nČESKÉ\n\nREPUBLIKY\n\nDne 20. Května 1875 byla v Pařizi sjednána\n\nMezinárodní úmluva o soustavě metrické\n\n(CIPM)",
+      "quality_score": 0.9627,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "cs"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Vláda české republiky\n\ntuto Mezinárodni\n\númluvu prozkoumala\n\na v souladu s deskými právními předpisy k ní přistupuje podle us- tanovení jejiho clánku 11, s platností od\n\n1. ladna 1993.\n\nDáno v Praze dne 21. prosince 1992,\n\n(losef Vetuue ministr mezinárodnich vztahů\n\nčeské republiky",
+      "quality_score": 0.9443,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "cs"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "/UNOFFICIAL TRANSLATION/\n\nTHE GOVERNMENT OF THE CZECH REPUBLIC\n\nThe International Convention for Measures and weights /CIPM/ was negotlated at Paris on 20th May 1875\n\nThe Government of the Czech Republic has examined the convention and, In accordance with Czech legal regulations, adheres to its pursuant to its Article 11 as of January 1, 1993.\n\nDone at Prague, December 21, 1992\n\nJosef\n\nZieleniec\n\nMinister for International Relations\n\nof the Czech Republic",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

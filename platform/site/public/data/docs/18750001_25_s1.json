@@ -1,0 +1,61 @@
+{
+  "document_id": "18750001_25_s1",
+  "title": "Note verbale d'adhésion de la Finlande",
+  "year": 1875,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8546,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "18902 LÉGATION DE FINLANDE 22 tue de la Paix Paria, le 25 0 1. 293.9 Ace. roup, • Saillania DINSTAL SG ALAREESA. CABINES DEMISE D NOV 1920 \"Finira a de sacra Latine Citrique: \"• Monsteur le Préaldente du Consett, Jasin 1991 MONSIEUT detro ayant térité, 9us-to proposition du dossail Ulésin à la colemiode l'atosoa de la unendo a se comi finlande vention du 20 mai Pour aesor 1'urleat1on internationale et perfectionneme…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_25_s1.pdf",
+  "source_filename": "18750001_25_s1.pdf",
+  "source_sha256": "de65e48814c07e0fa149d96e66baa2ef291946d97a9f06812f81a4c645629087",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "FIN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "18902\n\nLÉGATION DE FINLANDE\n\n22 tue de la Paix\n\nParia, le 25\n\n0 1. 293.9\n\nAce. roup,\n\n• Saillania\n\nDINSTAL SG ALAREESA.\n\nCABINES DEMISE D\n\nNOV 1920\n\n\"Finira a de sacra\n\nLatine\n\nCitrique:\n\n\"• Monsteur le Préaldente du Consett,\n\nJasin 1991\n\nMONSIEUT\n\ndetro ayant térité, 9us-to proposition du dossail\n\nUlésin à la colemiode l'atosoa de la unendo a se comi finlande\n\nvention du 20 mai\n\nPour aesor 1'urleat1on\n\ninternationale et\n\nperfectionnement du système\n\nSon\n\nRosang.\n\nIxcellence\n\nMonsieur\n\nG. LEYGUES,\n\nPrésident du Conseil,\n\nMindatre dea Affaires Etrangères,\n\nParis.",
+      "quality_score": 0.8235,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "..=\n\nnotifier cette déciaion aux puissances\n\navent aó jà\n\nadhéré\n\nla dite\n\nconvention; et\n\nj'ose espérer que\n\nVotre\n\nExcellence Toudra bien réserver à\n\ndenande\n\nde mon Gourernement\n\nun accueil favorable.\n\nAgréez les essurences,\n\nde\n\nIa plue hauto considé-\n\nration aver laquelle J'ai\n\n.I'honneur d'être,\n\nMonsieur le\n\nPrésident\n\ndu Conseil,\n\nde\n\n\"votre Excelience le très humble et trèe obéissant serviteur.\n\nPour le Miniatre, absent,",
+      "quality_score": 0.8856,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

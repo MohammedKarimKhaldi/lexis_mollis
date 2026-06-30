@@ -1,0 +1,49 @@
+{
+  "document_id": "19190006_095_s1",
+  "title": "Pouvoirs belges",
+  "year": 1919,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7969,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Nous Albert, Roi des BeLars, zésirant arréter se concerance les ailéquis de Suissant alliéro el adocié dane parta, et les délé gues de Sa Plageolé le Roi des Bulgares, d'autre part, le Traité se Laix entre les biles frisance et la Bulgarie à co cades el Tout confiant entièrenant en la capacite, lo bile et le dévouement de Marniens Rolin Inegerzyna, itembre de l'Inattat de droit international privé Secrétaire Sénéral…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_095_s1.pdf",
+  "source_filename": "19190006_095_s1.pdf",
+  "source_sha256": "46cf966c158c9bafb1d3c9bceaab43f878497495bc663d12a1bd5c7fe29970ea",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "BEL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nous Albert, Roi des BeLars, zésirant arréter se concerance les ailéquis de Suissant alliéro el adocié dane parta, et les délé gues de Sa Plageolé le Roi des Bulgares, d'autre part, le Traité se Laix entre les biles frisance et la Bulgarie à co cades el Tout confiant entièrenant en la capacite, lo bile et le dévouement de Marniens\n\nRolin Inegerzyna, itembre de l'Inattat de droit international privé\n\nSecrétaire Sénéral de la Délégution belge à la Conférence de la Paix, l'avois nommé pas cea parédentes Matre Plénipotentiaire à l'effeh aen:\n\nLes en pourparler aberces que y auront été autorités de la parl de lors Gonten pour conclure d diger le dit traite, Poud reervant d'approuver el de ratifier de que Matre dil Plénipotentiaire aura promis et ligne, en Mette des prédato fileino ponteiro, confort mément au instraction dont il col muni. En foi de quai, Foud avons ordonné qui les prédentes fustent revêtues du desar de l'Elal\n\nMante à brurell, te doride 1o4e droo de Mobertie de l'an\n\nIn ginet mit meuf cent Dit ment.\n\nAlbert.\n\nPar le Roi:\n\n, Le Ministre deo Affaires étrangères,",
+      "quality_score": 0.7969,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

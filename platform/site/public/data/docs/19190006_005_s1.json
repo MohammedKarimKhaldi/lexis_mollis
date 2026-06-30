@@ -1,0 +1,45 @@
+{
+  "document_id": "19190006_005_s1",
+  "title": "Protocole relatif aux droits des Puissances alliées en cas de non-exécution ou d'exécution incomplète des clauses d'Armistice de la part de la Bulgarie",
+  "year": 1919,
+  "doc_type": "Protocole",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9639,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROTOCOLE. Au moment de procéder au premier dépôt des ratifications du Traité de paix entre les Puissances alliées et associées et la Bulgarie, signé à Neuilly-sur-Scine le 27 novembre 1919, les Puissances alliées déclarent réserver tous les droits pouvant leur appartenir par suite de la non- exécution des clauses d'Armistice ou de leur exécution incompléte de la part de la Bulgarie. FAIT à Paris, le neuf août 1920,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_005_s1.pdf",
+  "source_filename": "19190006_005_s1.pdf",
+  "source_sha256": "368627d037e1e5baed6c90229acd2d90e57221ab3b8672b4feea99b99deb950a",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROTOCOLE.\n\nAu moment de procéder au premier dépôt des ratifications du Traité de paix entre les Puissances alliées et associées et la Bulgarie, signé à\n\nNeuilly-sur-Scine le 27 novembre 1919, les Puissances alliées déclarent réserver tous les droits pouvant leur appartenir par suite de la non- exécution des clauses d'Armistice ou de leur exécution incompléte de la part de la Bulgarie.\n\nFAIT à Paris, le neuf août 1920, à onze heures.",
+      "quality_score": 0.9639,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

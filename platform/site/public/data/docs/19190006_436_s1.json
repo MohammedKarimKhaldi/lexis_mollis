@@ -1,0 +1,82 @@
+{
+  "document_id": "19190006_436_s1",
+  "title": "Instrument de ratification italien de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+  "year": 1919,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "it"
+  ],
+  "quality_score": 0.9517,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "VITTORIO EMANUELE M. PER GRAZIA DI DIO E PER VOLONTÀ DELLA NAZIONE RE D'ITALIA El tutti coloro che le presenti velzanno, salute: Un Trattato, che stabilice le condizioni di pace tra l'Italia con te altre. Edorge alleade ed enasociate e la Bulgaria, essendo-stalo dai rispellivi lenipertengine sotterrale a tuel se Fine il 94. Povembre 1919; Eraltato del tenora seguente: Voir texte 19190006 01 sur bobine b253 Doi, aven…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_436_s1.pdf",
+  "source_filename": "19190006_436_s1.pdf",
+  "source_sha256": "cc695921cb73bc46eb3c7f2ea1f08d9432bdce0c5aee24164e93482c65e9f16b",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "ITA002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "VITTORIO EMANUELE M.\n\nPER GRAZIA DI DIO E PER VOLONTÀ DELLA NAZIONE\n\nRE D'ITALIA\n\nEl tutti coloro che le presenti velzanno, salute:\n\nUn Trattato, che stabilice le condizioni di pace tra l'Italia con te altre.\n\nEdorge alleade ed enasociate e la\n\nBulgaria, essendo-stalo dai rispellivi lenipertengine sotterrale a tuel se\n\nFine il 94. Povembre 1919;",
+      "quality_score": 0.9563,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Eraltato del tenora seguente:",
+      "quality_score": 0.9673,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Voir texte 19190006 01 sur bobine\n\nb253",
+      "quality_score": 0.9231,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "Doi, avendo veduto e esaminato il serra:\n\nseritto Erattato, con annesso Protocollo, approvandolo in ogni singola sua parte lo abbiamo accettato, ratificato e confermato, come per le presenti lo accettiamo, ratifichiamo e confermiamo, promettendo si osservarlo e di farlo inviolabilmente osservate:\n\nEn fare di che door aliano di Stostra mano firmato le presenti lettere di ratificazione e vi abbiamo fatto apporre il Mostro Reale sigillo. Dato in\n\nRoma: addi 28 Aprile, l'armo del Signore millenovecentoventi.\n\nsmanuele\n\nVistorio\n\nSo parte di Sua-Maestà il Se\n\nscialo",
+      "quality_score": 0.9601,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

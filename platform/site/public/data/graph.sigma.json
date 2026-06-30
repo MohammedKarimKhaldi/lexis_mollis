@@ -1,61 +1,320 @@
 {
   "nodes": [
     {
-      "id": "doc:sample-declaration-001",
-      "label": "Déclaration pilote",
+      "id": "doc:16460004_s1",
+      "label": "Articles",
       "type": "Document",
-      "document_id": "sample-declaration-001",
-      "x": -0.8,
-      "y": 0.1,
-      "size": 8
+      "x": -0.9999999999999999,
+      "y": 0.2648541792357738,
+      "size": 2
     },
     {
-      "id": "doc:sample-guideline-002",
-      "label": "Lignes directrices OCR",
+      "id": "doc:18750001_0012_s1",
+      "label": "Accord",
       "type": "Document",
-      "document_id": "sample-guideline-002",
-      "x": 0.8,
-      "y": 0.15,
-      "size": 8
+      "x": 0.031303103071477024,
+      "y": 0.2758947863553607,
+      "size": 3
     },
     {
-      "id": "topic:ocr_audit",
-      "label": "Audit OCR",
-      "type": "Topic",
-      "x": 0,
-      "y": 0.9,
-      "size": 6
+      "id": "doc:18750001_05_s1",
+      "label": "Convention du mètre et son règlement annexe",
+      "type": "Document",
+      "x": -0.13020445736833225,
+      "y": 0.19657698383828678,
+      "size": 3
     },
     {
-      "id": "org:lexis_mollis",
-      "label": "Lexis Mollis",
+      "id": "doc:18750001_09_s1",
+      "label": "Instrument de ratification de l'Argentine",
+      "type": "Document",
+      "x": 0.5081367321508559,
+      "y": -0.1798631709863789,
+      "size": 2
+    },
+    {
+      "id": "doc:18750001_10_s1",
+      "label": "Procès verbal de dépôt de la ratification",
+      "type": "Document",
+      "x": -0.25737610093366314,
+      "y": -0.26587604690336314,
+      "size": 2
+    },
+    {
+      "id": "doc:18750001_14_s1",
+      "label": "Instrument de ratification de la Belgique",
+      "type": "Document",
+      "x": 0.04949102633941599,
+      "y": -0.4398639772057133,
+      "size": 2
+    },
+    {
+      "id": "ent:TopicConcept:date_1875_05_20",
+      "label": "1875-05-20",
+      "type": "TopicConcept",
+      "x": -0.19320866939084372,
+      "y": -0.09197410192487153,
+      "size": 2
+    },
+    {
+      "id": "ent:TopicConcept:date_1876_10_29",
+      "label": "1876-10-29",
+      "type": "TopicConcept",
+      "x": -0.0800806396834904,
+      "y": 0.3563702970357413,
+      "size": 2
+    },
+    {
+      "id": "ent:TopicConcept:date_1879_05_20",
+      "label": "1879-05-20",
+      "type": "TopicConcept",
+      "x": 0.04546241973496081,
+      "y": -0.2653516666425828,
+      "size": 2
+    },
+    {
+      "id": "ent:TopicConcept:date_1921_10_06",
+      "label": "1921-10-06",
+      "type": "TopicConcept",
+      "x": 0.34661543341076,
+      "y": -0.2968714308252416,
+      "size": 2
+    },
+    {
+      "id": "ent:TopicConcept:instrument_type_other",
+      "label": "instrument_type:other",
+      "type": "TopicConcept",
+      "x": -0.35446171152007266,
+      "y": 0.15287279868695305,
+      "size": 3
+    },
+    {
+      "id": "ent:TopicConcept:instrument_type_treaty",
+      "label": "instrument_type:treaty",
+      "type": "TopicConcept",
+      "x": 0.298059426876642,
+      "y": -0.13169354856046334,
+      "size": 2
+    },
+    {
+      "id": "ent:wd:Q1065",
+      "label": "United Nations",
       "type": "Organization",
-      "x": 0,
-      "y": -0.8,
-      "size": 6
+      "x": 0.4408808181440858,
+      "y": 0.1487458197369472,
+      "size": 2
+    },
+    {
+      "id": "ent:wd:Q142",
+      "label": "France",
+      "type": "Party",
+      "x": -0.3877553495714062,
+      "y": 0.0323521536711096,
+      "size": 3
+    },
+    {
+      "id": "ent:wd:Q159",
+      "label": "Russia",
+      "type": "Party",
+      "x": 0.25069025190045285,
+      "y": 0.14871945526733665,
+      "size": 2
+    },
+    {
+      "id": "ent:wd:Q183",
+      "label": "Germany",
+      "type": "Party",
+      "x": 0.2108677694988516,
+      "y": -0.37380844648920586,
+      "size": 2
+    },
+    {
+      "id": "ent:wd:Q29",
+      "label": "Spain",
+      "type": "Party",
+      "x": -0.1104436892109461,
+      "y": -0.3371915916352984,
+      "size": 2
+    },
+    {
+      "id": "ent:wd:Q38",
+      "label": "Italy",
+      "type": "Party",
+      "x": 0.4375642868192941,
+      "y": -0.007206981255400889,
+      "size": 2
+    },
+    {
+      "id": "ent:wd:Q458",
+      "label": "European Union",
+      "type": "Organization",
+      "x": 0.3279629336520938,
+      "y": 0.29102126384660937,
+      "size": 2
+    },
+    {
+      "id": "ent:wd:Q90",
+      "label": "Paris",
+      "type": "Place",
+      "x": 0.1717013586913301,
+      "y": 0.3652534019961533,
+      "size": 2
+    },
+    {
+      "id": "instr:TRA16460004",
+      "label": "Articles",
+      "type": "Instrument",
+      "x": -0.6769459127161225,
+      "y": 0.1768327336691406,
+      "size": 4
+    },
+    {
+      "id": "instr:TRA18750001",
+      "label": "Accord",
+      "type": "Instrument",
+      "x": 0.0717409701046572,
+      "y": -0.019792910910891498,
+      "size": 20
     }
   ],
   "edges": [
     {
-      "source": "doc:sample-declaration-001",
-      "target": "org:lexis_mollis",
-      "type": "published_by",
-      "weight": 1,
-      "provisional": false
-    },
-    {
-      "source": "doc:sample-guideline-002",
-      "target": "topic:ocr_audit",
+      "source": "instr:TRA16460004",
+      "target": "ent:TopicConcept:instrument_type_other",
       "type": "about_topic",
-      "weight": 1,
-      "provisional": true
+      "weight": 1.0
     },
     {
-      "source": "doc:sample-declaration-001",
-      "target": "doc:sample-guideline-002",
-      "type": "related_sample",
-      "weight": 0.4,
-      "provisional": true
+      "source": "instr:TRA18750001",
+      "target": "ent:TopicConcept:instrument_type_other",
+      "type": "about_topic",
+      "weight": 1.0
+    },
+    {
+      "source": "instr:TRA18750001",
+      "target": "ent:TopicConcept:instrument_type_treaty",
+      "type": "about_topic",
+      "weight": 1.0
+    },
+    {
+      "source": "instr:TRA18750001",
+      "target": "ent:TopicConcept:date_1875_05_20",
+      "type": "dated",
+      "weight": 0.95
+    },
+    {
+      "source": "instr:TRA18750001",
+      "target": "ent:TopicConcept:date_1876_10_29",
+      "type": "dated",
+      "weight": 0.95
+    },
+    {
+      "source": "instr:TRA18750001",
+      "target": "ent:TopicConcept:date_1879_05_20",
+      "type": "dated",
+      "weight": 0.95
+    },
+    {
+      "source": "instr:TRA18750001",
+      "target": "ent:TopicConcept:date_1921_10_06",
+      "type": "dated",
+      "weight": 0.95
+    },
+    {
+      "source": "instr:TRA18750001",
+      "target": "ent:wd:Q1065",
+      "type": "issued_by",
+      "weight": 0.95
+    },
+    {
+      "source": "instr:TRA18750001",
+      "target": "ent:wd:Q458",
+      "type": "issued_by",
+      "weight": 0.95
+    },
+    {
+      "source": "ent:wd:Q142",
+      "target": "instr:TRA16460004",
+      "type": "party_to",
+      "weight": 0.95
+    },
+    {
+      "source": "ent:wd:Q142",
+      "target": "instr:TRA18750001",
+      "type": "party_to",
+      "weight": 0.95
+    },
+    {
+      "source": "ent:wd:Q159",
+      "target": "instr:TRA18750001",
+      "type": "party_to",
+      "weight": 0.95
+    },
+    {
+      "source": "ent:wd:Q183",
+      "target": "instr:TRA18750001",
+      "type": "party_to",
+      "weight": 0.95
+    },
+    {
+      "source": "ent:wd:Q29",
+      "target": "instr:TRA18750001",
+      "type": "party_to",
+      "weight": 0.95
+    },
+    {
+      "source": "ent:wd:Q38",
+      "target": "instr:TRA18750001",
+      "type": "party_to",
+      "weight": 0.95
+    },
+    {
+      "source": "doc:16460004_s1",
+      "target": "instr:TRA16460004",
+      "type": "same_instrument_as",
+      "weight": 0.84834
+    },
+    {
+      "source": "doc:18750001_0012_s1",
+      "target": "instr:TRA18750001",
+      "type": "same_instrument_as",
+      "weight": 0.8773814814814814
+    },
+    {
+      "source": "doc:18750001_05_s1",
+      "target": "instr:TRA18750001",
+      "type": "same_instrument_as",
+      "weight": 0.8559954545454546
+    },
+    {
+      "source": "doc:18750001_09_s1",
+      "target": "instr:TRA18750001",
+      "type": "same_instrument_as",
+      "weight": 0.7496708333333334
+    },
+    {
+      "source": "doc:18750001_10_s1",
+      "target": "instr:TRA18750001",
+      "type": "same_instrument_as",
+      "weight": 0.8437
+    },
+    {
+      "source": "doc:18750001_14_s1",
+      "target": "instr:TRA18750001",
+      "type": "same_instrument_as",
+      "weight": 0.8878904761904762
+    },
+    {
+      "source": "instr:TRA18750001",
+      "target": "ent:wd:Q90",
+      "type": "signed_at",
+      "weight": 0.95
+    },
+    {
+      "source": "doc:18750001_0012_s1",
+      "target": "doc:18750001_05_s1",
+      "type": "similar_to",
+      "weight": 0.402344
     }
   ]
 }

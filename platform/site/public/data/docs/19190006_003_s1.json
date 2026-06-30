@@ -1,0 +1,138 @@
+{
+  "document_id": "19190006_003_s1",
+  "title": "Protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+  "year": 1919,
+  "doc_type": "Protocole",
+  "languages": [
+    "ca",
+    "en",
+    "fr",
+    "id",
+    "it",
+    "nl"
+  ],
+  "quality_score": 0.8076,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "PROTOCOLE. En vue de préciser les conditions dans lesquelles devront étre exécutées cer- taines clauses du Traité signé à la date de ce jour, il est entendu entre les Hautes Parties CONTRACTANTES que : 1° La liste des personnes que, conformément à l'article 118, alinéa 2, la Bulgarie devra livrer aux Puissances alliées et associées, sera adressée au Gouvernement bulgare dans le mois qui sumra la mise en vigueur du T…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_003_s1.pdf",
+  "source_filename": "19190006_003_s1.pdf",
+  "source_sha256": "d86a66b05ea28feae4bd107aeb115a7e833290ab2284514935da917e39215093",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROTOCOLE.\n\nEn vue de préciser les conditions dans lesquelles devront étre exécutées cer- taines clauses du Traité signé à la date de ce jour, il est entendu entre les Hautes\n\nParties CONTRACTANTES que :\n\n1° La liste des personnes que, conformément à l'article 118, alinéa 2, la Bulgarie devra livrer aux Puissances alliées et associées, sera adressée au Gouvernement bulgare dans le mois qui sumra la mise en vigueur du Traité;\n\n2° Des poursuites seront exer- cées contre les personnes qui auraient commis des actes délic- tueux en ce qui concerne la liquidation des biens bulgares, et les Puissances ailiées et associées recevront les renseignements et preuves que le Gouvernement bulgare pourra fournir à ce su- jet\n\nPROTOCOL:\n\nWith a view to indicating precisely the conditions in which cerlain provisions of the Treaty of even date are to be carried out, it is agreed by the Hen GowrgacrixG PARTIES that :\n\n(1) The list of persons to be handed over to the Allied and\n\nAssociated Governments by Bul- garia under the second paragraph of Article 118 shall be commu- nicated to the Bulgarian Govern- ment within a month from the coming into force of the Treaty;\n\n(2) Proceedings. will be taken against persons who have com- mitted punishable offences in the liquidation of Bulgarian property, and the Alked and Associated\n\nPowers will welcome any infor- mation or evidence which the\n\nBulgarian Government can fur- msh on this subject.\n\nPROTOCOLLO.\n\nPer mente le condizioni esatta- nelle quai dovranno essere ese- guite alcune clausole del trat- tato sottoscritto con la stessa data, resta inteso fra le ALTE\n\nPARTI GONTRAENTI che :\n\ndeterminare\n\n1\" L'elenco delle persone che la Bulgaria dovrà consegnare alle\n\nPotenze alleate e associate, in conformità del 9° comma dell'- articolo 118, sarà comunicato al\n\nGoverno bulgaro entro il mese che seguirà l'entrata in vigore del irattato.\n\n2° Saranno promossi proce- dimenti contro coloro che si fossero resi colpevoli di atti delit- tuos; nella liquidazione dei beni bulgari, e le Potenze alleate e associate. riceveranno le informa- zioni e le prove che il Governo bulgaro potrà fornire in propo- sito.",
+      "quality_score": 0.9373,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Fat en francais, en anolais et en italien, le texte français aisant foi en cas de diver genice, à Neuilly-sur-Seine, le cent dix-neuf.\n\nDove in French. in English and in lalion, of which the\n\nFrench text shall preyall in case of divergence, at Neuilly- sur-beme, the twenty-seventh day of November, one thou- sand nine hundred and nine- Patrolotrancese in Jacese e in italiano (il testo francese prevarrà in caso di divergenza)\n\nà Newilly-sur-Seine, il venti- novembre mille nove-\n\ncas titice\n\nCholl #: 25042046",
+      "quality_score": 0.9886,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "—$-—\n\nhe an\n\nLe dl\n\nCap À Cr \"77 $. EA vL",
+      "quality_score": 0.7199,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "terraadey frei-tae\n\nGughiue Mareni\n\nGalantino 77 2a Catani\n\nI tau den Henuel",
+      "quality_score": 0.6915,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "deer Peers AN deti.\n\n; ax 4£ Pate Bu\n\nMEM\n\n—\n\nA",
+      "quality_score": 0.73,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Parkl,\n\nThousa Caster.\n\nJaipse Batall a Reir\n\nton .? Ducht\n\nguan Zage,",
+      "quality_score": 0.7553,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "id"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "(eg\n\nLE",
+      "quality_score": 0.8307,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "18750001_15_s1",
+  "title": "Procès verbal de dépôt de la ratification",
+  "year": 1875,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8642,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "France? Proces-verbal d'échange. . Les sonsoignés étant reunis pour procéder à l'échange des Ratifications de Son Excellence le Président de la Poépubliqu Francaise ot de la Majesté le Moi des Belgeo, sur la Convention, oignée a Dario, le20 Mai 1845, dano le brat d'assurer l'unifica- tion internationale et le perfectionnement de lajoteme métrique: Les 'Instrumento de cet acte ont été produito et, après examen, trouv…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_15_s1.pdf",
+  "source_filename": "18750001_15_s1.pdf",
+  "source_sha256": "53dec409a8ec25ef5bfaa5f638b28ea09fcca20aa025b3a6d8d96f63ec4c2aa1",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "BEL002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "France?\n\nProces-verbal d'échange.\n\n. Les sonsoignés étant reunis pour procéder à l'échange des Ratifications de Son Excellence le Président de la Poépubliqu\n\nFrancaise ot de la Majesté le Moi des Belgeo, sur la Convention, oignée a Dario, le20 Mai 1845, dano le brat d'assurer l'unifica- tion internationale et le perfectionnement de lajoteme métrique: Les 'Instrumento de cet acte ont été produito et, après examen, trouvés en bonne et due forme. Aux termes des diopositiono adoptées en conférence, le20 mai 1845.\n\nl'Exemplaire des Matifications présenté au nom de la\n\nMajesté le Moi des Belges a été reçu par le gouvanement.\n\nfrancais quidonnera avio de cette remise auxantres Puissances signatarico de la convention. Un foi de quoi, les nosignés ont dressé le présent Porio-Terbal et l'ont reveto de leurs\n\nCacheto.\n\nSait à Pario, le zo décembre 1815.\n\n4.1г с2\n\nHerare.",
+      "quality_score": 0.8642,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

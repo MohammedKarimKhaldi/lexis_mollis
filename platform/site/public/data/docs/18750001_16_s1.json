@@ -1,0 +1,89 @@
+{
+  "document_id": "18750001_16_s1",
+  "title": "Instrument de ratification taïwanais",
+  "year": 1875,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "zh-cn"
+  ],
+  "quality_score": 0.5454,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Tt JE: EI | 对 NOON NE | 准 从 半 少 Wr Ne 站 半 区 A MN， 昌吉 站 庆 蝶 他 浇 江 国 的 贡 玉 如、 “PX 关 江 漳 虹 《人 术 全 六 咎 名 失 叶 关注 和 Fa - A ペペ \"AAD AAD se a A N 疹 ' ~~ 守 裕和 庄",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_16_s1.pdf",
+  "source_filename": "18750001_16_s1.pdf",
+  "source_sha256": "86164f2a0df781128c8ba1407c2b36eec7c7e6103d72877ca2d5aab1dfbbae3f",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "TWN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Tt\n\nJE:\n\nEI",
+      "quality_score": 0.7745,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "| 对\n\nNOON NE\n\n| 准 从 半 少 Wr\n\nNe 站 半 区 A MN， 昌吉 站 庆 蝶 他 浇 江 国 的 贡 玉 如、 “PX 关 江 漳 虹 《人 术 全 六 咎 名 失 叶 关注 和",
+      "quality_score": 0.4628,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "zh-cn"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Fa\n\n-\n\nA ペペ \"AAD AAD se a A N 疹\n\n' ~~ 守 裕和",
+      "quality_score": 0.4394,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "庄",
+      "quality_score": 0.5048,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

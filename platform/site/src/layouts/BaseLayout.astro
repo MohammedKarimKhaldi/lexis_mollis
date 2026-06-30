@@ -13,6 +13,7 @@ const {
   description = "Lexis Mollis — corpus ouvert de droit souple, recherche, graphe et méthode OCR auditable."
 } = Astro.props;
 const fullTitle = title === "Lexis Mollis" ? title : `${title} · Lexis Mollis`;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
@@ -22,6 +23,17 @@ const fullTitle = title === "Lexis Mollis" ? title : `${title} · Lexis Mollis`;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="theme-color" content="#144d57" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Lexis Mollis" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
     <title>{fullTitle}</title>
   </head>
   <body>

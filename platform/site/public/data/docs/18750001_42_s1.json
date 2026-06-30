@@ -1,0 +1,791 @@
+{
+  "document_id": "18750001_42_s1",
+  "title": "Instrument d'adhésion du Pérou",
+  "year": 1875,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "ca",
+    "da",
+    "en",
+    "es",
+    "fr",
+    "it"
+  ],
+  "quality_score": 0.8166,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Convencion Métrica. | | Manuel Pardo- Piesidarti de la Popúblia Seria. Por cuanto ni la inten del Peré, de Augestad el Emperador de Merari, de allegadad el Coperados. de la Monarquia Auotro Hungara, du Magestad el Roy de los Belgar, lagestad dl Enferados del Brasil. Se Enielencia el Presidente de la Hepública Argentera, de Magestad dl Roz de Dinamarca, de Magestad el Ley de Epario, da Cocalencia el Guidentà de los E…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_42_s1.pdf",
+  "source_filename": "18750001_42_s1.pdf",
+  "source_sha256": "d469f872aa93fa4dfa5a0141160c5474a33dd2118d30638eddb0ab405353724e",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "PER001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Convencion Métrica.",
+      "quality_score": 0.9544,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "| |",
+      "quality_score": 0.6144,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Manuel Pardo- Piesidarti de la Popúblia Seria.\n\nPor cuanto ni la inten del Peré, de Augestad el Emperador de\n\nMerari, de allegadad el Coperados.\n\nde la Monarquia Auotro Hungara, du\n\nMagestad el Roy de los Belgar, lagestad dl Enferados del Brasil.\n\nSe Enielencia el Presidente de la Hepública",
+      "quality_score": 0.8079,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Argentera, de Magestad dl Roz de\n\nDinamarca, de Magestad el Ley de Epario, da Cocalencia el Guidentà de los Estados Unidas de Arrierica,\n\nSu Excelencia el Presidenté de la\n\nRepública Francos, du aMagestad el Ras de Malia, du Magestad\n\nel Rey de Postigal,\n\no de las\n\nAlgares, Ju Magestad el imperados de todas las Rusias, o hanga, de rateria el Cieri.\n\ndenté de la Confederacione Suizas Ju y de Cicelencia el Oresidente de la Se- pública de Veroguela, de celetro por los intenden peticiones de mande de\n\nMayo últine, le siguiente Conicncine:",
+      "quality_score": 0.8086,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "一\n\nJon Cicellence le Président de la.\n\nRépublique de Perone, La ellageoté el\n\nimperena de Allemagne,\n\nLa Majoré l'Empereno de Autriche Hongrie, la\n\nMeute la Pi a Blai da grie.\n\nle Président de la Confédération Argentine, la Majesté le Noi de Sanemark, da\n\nMasesté le Moi d'Espagne, de Greellence\n\nPrésident des Cato Unio d'Amérique.\n\nun Excellence le Unésident de la Népubione\n\nFrançaide, la Majesté de Noi d'Italie,\n\nla Maraté le Roi.\n\nde Portugal et des\n\nAlgares, da Magaité l'Empereur de tirates les Russieo, La Majedté le Moi de duade et de onege, Son Excellence le Président de la Confédération Suisse, la Majesté l'Empereur des Ottomane et son Excellence le Orésident de la Nopublique\n\nde Venezuélas --",
+      "quality_score": 0.8319,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "devisant avoures l'unification internationale et le perfectinnement du dasteme metrique, désola de conclure una Convention.\n\nà ced offer et ont mermé freer lune\n\nAlempotentaines, sarrir:\n\nun Coccellence le Insident-de la\n\nRépublique de Pier, et Dede Galiz,\n\nGringe\n\nextraordinaire et Miniolié\n\ntaire du Verou à Pario, et Il Francisco de Rivero-Ancien Envigé extraordinaine et attiriatié plenipotentiaire du Ceim;, la Majesté l'Empereur d'Allemagne.\n\nd. et le Cince de Motentobe Sehellingfinel\n\nGrand Crois del 'Ordre de l'Aigle Rouge de Prude et de l'ordre de Je Hubert de\n\nBavière eta, été, de Con Ambassadeur extraordinaire et filenipolentiane à Paris;\n\nla Mejecté l'Empercur d'Autriche Hongrie,\n\n1. Exa edl le Comté etpfonfi, don chambelles\n\nactuel ot Conseiller\n\nintime, Chevalier de la",
+      "quality_score": 0.7985,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Erico d'or, Grand Cria de l'Andre try, de dE Etienne de Mongril et del'ordre- impérial de despotle de été de con\n\nAmbaora deur extraordinaire et pelenin\n\npotentiaire à Pario;\n\nda Majesté le Roi des Bolger, A le\n\nBarm Degens, Grand officier de don ore de alie, gand officier de la dégion de Parme-de, eté et de trige extiaordinaire et Miniatre ploniputentaine\n\nà Pario;\n\nell. Marcos Antonio d'Aranjo 1icolé é'Mapula, Grand de l'Empire, Membre du Conseil de la Majesté, Commandeur de Son Ordre du Christ, Grand officier de la déjim d'Honneur: ela eté de dore\n\nEnvoyé extraordinaire et Miniatré\n\nplempotentiaire à Vario;\n\nIn Excellence le Crésident de la",
+      "quality_score": 0.7945,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Confédération Argentene, Al. Balcarce,\n\nEnvogé extraordinare et Minido Aléni.\n\npotentiaire de la Confédératio Argentine\n\nParis;\n\nla Majesté le Roi de Danemark,\n\nM. le Conde de Moltte Hallelat, Grand'\n\nCrine del' Ordre du Gannebrog it décré de la Cirine d'Henneur du mème Ondre,\n\nGrand officier de la désion d' Horneur.\n\nde ele de don Envejé entrandinaire et\n\nMinicie plenipolentiaise á Vario;\n\nlá\n\nMajesté le Roi d'Espagne, dire\n\nDon Mariano Poca de Frgores, Marquis\n\nde eMolino, Ticonté de Nocamera.\n\nGrand l'Espagne de premicre clavre, Chavalier del'Ordre indigne de la tricon d'er,\n\nGrand Crie do la dégino de'funeur, ete ete de Gerecter de l'Académie\n\nRogale Espagnole, don Ambaseadeur extraordinaire et plénipotenticine á Paris;",
+      "quality_score": 0.7903,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "A M. le Vénéral Ibanes, Grand Grix\n\nde l'ordre d'\n\nIsabelle la Catholique ete de ete Directeur général de l'Institet geographique et statiolique d'Espagne,\n\nMembre de l'Académie des sciences;\n\nJon Excellence le Président des\n\nElato Unio d'Amérique, M. Elida.\n\nBanjamin Hashburne, Envoyé entrentinaire et Miniché filérifestentiaise des Etats lais\n\nà Pario;\n\nSon Excellence le Président de la\n\nRépublique Française all le Duc Deca- res, Député à l'Assemblé Nationale,\n\nCommandeur del'Odre de la déjion d'Honneur, ete ete de Ministé des\n\naffaires Etrangeners\n\nIl le Vernité de Meaure, Député à l'Assemblée Nationale, Minoté de l'\n\nAgriculture et du Commerces;\n\net. M. Duras, Secrétaire perpétuel",
+      "quality_score": 0.8357,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "de l'Académie, Grand Coria de l'Andre de la dégion de Honneur de dé de.\n\nLa Majesté le Noi d'Italia ell le Cheralier Constantin tigra, Chesalie,\n\nGrand Croire de des erdres de Cainto l'allaise et degare, et de la pronone d'Italia, Grand officiar de la digin d'Honneur, de été de don convoyé extraordinaire et eliniché pileniputentianie\n\nà Pario;\n\nLa Majesté le Roi de Portugal et des Algares, ell José da Silva\n\nMendes deal, Pair du Poyaume,\n\nGrand Carie de l'Ordre de Sefacqueo, chevalier de l'ordre de la Jour etl\n\nEpé de Portugal de de de doa Cunjé estradinaire et Minisé plenipotentaine.\n\nà Pario;\n\nLa iMagesté l'Empersur de laiter",
+      "quality_score": 0.8204,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Chevalion des Ordres de Ruerio de JE\n\nAnne de resclavre, de d' Maniolas des palade, de dE Madimir de 3ª classe commandeur de l'dégine d'honneur, eté ete ele Conseitler d'Elat actuel, conseiller, de l'Ambassade de Quasie\n\nà Pario;\n\nla Majeté le Roi de Suède et de Norvége, ett le Baron Adelowaid,\n\nGrand'Croix des Ardres de l'Etaile\n\nPolaire de tuède, et de J'Mat de\n\nNerrèze, Grand officien de la d'honneur eté eté ete dou tenvoye\n\nextinerdinavie et miniche\n\nheniholenharie\n\nà Paris;\n\nSon Excellence la Prévident de la\n\nConfédération Aniode all. Jean Conrado\n\nKer, Envoyé extinordinaire et Ministe plemputentianie de la Confédération\n\nsucase à Paris;",
+      "quality_score": 0.7994,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "La allegeté l'Emparu de .\n\nAlinans, Harnybey, dientenant bolonel d'Etat Major, decoré de la t'classe del'ordre Imperial del'armanie, de la \"\"dasse del ordre du medjidié, officier del'ordre de la dépin de honnens ete ete\n\nIon Excellence le Président de la Repratiqne de Veneguela, el. le\n\nDocteur Eliser etcorta.\n\ndes quelo, apres d'été communque\n\nlenno fileino pouvoirs, firaves en tonne et due forne, ont arété les desperitines suivantes\n\ndes Manter Parties Combractantes\n\ns'engagent à forter ch entretenir, à frais commune, un Burean interna -.\n\ntinal des froido et mesures saentifique et permanent, dont le viège est à Paris-",
+      "quality_score": 0.8143,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Ait: 2.\n\nde bourtonement français prendia\n\nles despositiono nécersaises four faon\n\nbiles\n\nhen,\n\nla\n\naffecté à celte destination, dano les conditiono déterminées par le Reglement annexé à la fréenté Conventione.\n\nle Buscais international ponchionncia\n\ndono la directiona et la surocillance sectaina d'un Comité international dis perido et mesureo, placé lui-méme tono l' antonile d'une conference generale der poido et mesurco formée de delegueo de tous les Gouvenemento contracánto.\n\nAit: 11.\n\nLa Présidence de la Conference",
+      "quality_score": 0.7949,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "generale des fois et mesures est attrituée\n\nFen exercice de l'Académie\n\ndes sciences de Paris.\n\nAst: 0.\n\ncomité international et de la Confience générale des froido et mesures cent determinées par le Reglement annexé á la présente Convention.\n\nAit: 6.\n\nle Bureau international des\n\npoids et mesures elt changé:\n\n1ª de toute les compannicons et\n\nvérifications des nouveaux prototypes\n\ninternationaux;\n\n2º de la indervation des protatifia",
+      "quality_score": 0.843,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "5° des comparticond feriadiques des\n\nétalons natinaux avec les fertilyped internationand et avec leuro témoind.\n\n\"talon que de celer dis themenias\n\n4. de la comparaison des norzaux.\n\nprototipes avec les italond fondementines des frida, et mesures non metriques enfilagés dano les différente franço et dans les sciences;\n\n6° de l'étalonnage et de la.\n\ncomparaison des règles géndivignes;\n\n6° de la comparaicon des étalons\n\net échelles de précision dont la vérificatione derait demandée, soit far-des foenernemento, doit par des sociétés davantes, soit même pas des artotão et des savanto-",
+      "quality_score": 0.8309,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Art: 7?\n\nde personnel du Burean el com.\n\nperera d'un direderit, de der adjoind et du nombe d'employes neceoraine.\n\ned pastir de l'éprque un les\n\ncompassano des nouncana, prototypes auront été effectieéo chou ces prtapes arront été répartis entra les dives Cato, le perimel du Burean sona réduit dano la proportion jugée convenable.\n\ndes nominationo der perdonnel\n\ndu Bureau verut notifier par le comité sitérational aux foreranements des Hanteo Parties Castractantes.\n\nArt: 8.\n\nses prototypes internationaux\n\nMme in de de tea manes mini",
+      "quality_score": 0.7972,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "déporés dans le Bureau; l'accés du depôt sera uniquement réservé an comité international.\n\nAst : 9.\n\nFono les fais d'etablirement et\n\nd'installation du Barean internatioial des frido et mesures, ainsi que les depenses annuelles d'entretien et celles du comité seront converto far des contributiono des Elato contractanto, établies d'après une échelle barée dur leno population adretle.\n\nOit: 10.\n\ndes smones reprisatant la part\n\ncontributive de chacun\n\ndes Elato=\n\nentractanto seront verdecan commencement de chague année,",
+      "quality_score": 0.8377,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "par l'intermédiaire de Miniolère da\n\nGrangères de France à\n\nla caisse des déproto et consignationo à Pario, d'où elles seront rétines au fur et à mesure der Jupine, dur- mandato du disedour du Bureau.\n\nArt: 11.\n\nLes Gouvernemento qui maeraient\n\nde la faculté, réscinée à tout clad, d'accéder à la presente Comentira veront teno d'acquitter une contribution dont le montant sera déterminé par le comité sur les bases établico à l'article\n\nO et qui sur affestié à l'amélioration de matériel vocantifique du Burean\n\nAit: 12.\n\ndena Mantes Parties contradanto",
+      "quality_score": 0.783,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "commum acond, à las présente Commentin rutea les mudifications dont l'espisience.\n\ndémontrerait l'utilité\n\nAit: 13.\n\nA l'expiration d'un terme de duge\n\nannéco, la picrende Convention pourra ibre denoncee par l'une va l'autie des Hardes Partis Contractantes.\n\nde gouvernement que userait de\n\nla faculté d'en faire center les affalien ce qui le concerne, ses tenu de notifier dom intention une année d'avance et a parait un li piege danti\n\nAit: 14\n\nLa présente Convention cra\n\nratifée suinant les dois conditationnalles",
+      "quality_score": 0.8089,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "particulières à chaque clat; les Ratifi- cation en veront échangées à Paris, dano le délai de dix-meio en plus tôt, di frise on frent, Elle 11 7876.\n\n- mise à exécution\n\nà partir du tannier\n\nen foi de quoi, les lempotentiaine\n\nrapectifs l'ont signée et y ont appose le cachet de leurs armes.\n\nTait à Pario, le 20 Mai 1895.\n\nrancise de fluvere.\n\n(L.A) signed-Hebaulche\n\n(is) rgma lam (LD) signod -. Staluya.",
+      "quality_score": 0.8206,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "(L) rigned.. Balonce\n\n(LS) signed Manquis de alelir (LS) sigued- Уватся\n\n(88) signed-Secases.\n\n(Es) signed -Meaua (Ls) signed- Donas- (Ld) signed-elégias.\n\n(LiS) signed-Here.",
+      "quality_score": 0.7461,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "Annexe NT\n\nFigloment.\n\nArtice piemiet:\n\nde Burean\n\ninternational des froido\n\net mesureo dera établi dano un batiment spécial piréscutant toute les garantés nécessaires de branguillité et de stabilité.\n\nIl comprendra, outre le local\n\napprofié au dépôt des ferototypes, des alles frour l'indallation des com- parateuro et des balances, un labora- tare, une tittothegue, una Palle a archives, des cabinelo de travail porer es fonctionnainco et des logemento pirer personnel de garde et de cerice-",
+      "quality_score": 0.8247,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "Arki i de Comité intermational est\n\nchangé de l'acquisition et de l' appempriation de ce bâtiment, ainsi que de l'installationa des derricco aux quelo il est destiné.\n\nDano de cas vi le Comité ne\n\ntrouverast-fao à arguerir un bitiment.\n\nconvenable,\n\nil en sera construit un\n\ndour da disection et sut des pilano.\n\ndit j.\n\nde douvesnement français prendra,\n\ndur la demande du Comité internationa les dispersitio reconnaitre le Bureau comme éla bliorement d'utilité publique.",
+      "quality_score": 0.8327,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "Ait 11\n\nde Comité internation al fera-\n\nexecuter les instrumenta nécessaires, lels que: comparateuro fer les étalma à trito et à bruto, apparile pour les déterminations des delitation absolues, balances pour les peréca dans l'air et dano le vide, comparateurs pour les règles genevigues, de.\n\nAnto.\n\nLes frais d'acquisition ou de\n\ncontraction du bâtiment et les dependeo d'installation et d'achat des indumento et appareilo se poressont\n\nla comme de\n\n200. 1100 francs.",
+      "quality_score": 0.8611,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "Ait 6.\n\nde budget de dependes annuelles\n\nest evalie dind p'il suit.\n\nelo. Pour la frisióne période\n\nde la confection et de la comparaidon des norweaux frotalypes:\n\na) Fraitement du directèur\n\n15.111111 g\n\no de deno adjento a S004 rico-12.000 \"de guatre aides a 3000 pranco-. 12.000\n\npages de deux garçono de burear, à 1500 france- \"3000\n\nTotal des trailenzentos. ...\n\n25.000\n\n6) Indemnités porer les caranto et les antiato gri, de la demande de Comité, seraient chanzés de tasana spéciaux.\n\nEntreten du batiment achat et reparatione d'appareilo-",
+      "quality_score": 0.779,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 26,
+      "text": "chanffage, éclainge, fais de borean -__\n\n- - 244.000\n\ne) Indemnité pour le decitaine du Comité international des poido et mermes — - : 6000.\n\nFital 75.000.\n\nde budget armel de Barcan\n\nfruma che modifié, duirant les besvino, fras le Comité international, sur la proposition du directeur, mais dano pouvoir depasser la comme de 100.000 franco.\n\nToute modification que le Comité\n\ncravait devoir apporter, dans ces limites au budget annuel fixé par le paevent reglement, ser portée a\n\n'la connaissance\n\ndes Gourernemento contractante.\n\nde Comité frican antoires de\n\ndirecteur, sur da demande, à operer",
+      "quality_score": 0.8387,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 27,
+      "text": "des viremento d'un shopibé à l'ante\n\ncat alloué.\n\nà la distribution des prototypes:\n\na) traiterent du diredteuot--=-15:000g\n\na d'un adjoint →\n\n_--6:000\n\nAppointementon d'une mécanisico conicoge - 3000.\n\nGages d'us garçon de barena - - 1000\n\n25,000.\n\n6) Dépenseo du Burean- - = = 18.500\n\nc) Indemnité frour le decrétarien du\n\nComité international - = → →= 6.000\n\nTotal - 50.000\n\nà Pario, dur la comocation du Comité international an mine une foss tous les dix and.\n\nElle à pour mission de discuter",
+      "quality_score": 0.8124,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 28,
+      "text": "et de provoquer les mesures mécerdaiseo pour la propagations et le perfectionne.\n\nment du apoteme metrique amoi que de variationner les nouvelles determina.\n\nlimo sétiologiques fondamentales que auraient été faites dans l intervalle de des réunions. Ole segoit le rapport des Comité international suiteo travano accomplio, et procede, au scrutin secret, au renouvellement par mitié du Comité international\n\nles voles, an sein de la Conférence\n\ngénérale, ont tien par Elati; c\n\nEtat a droit à uns vois.\n\nLes mem\n\nbico du Comité internatisia\n\ndegent de droit dans les réunion de la Conférences; ils peuvent être es même lempo déléguéo de leuro fourernemento.",
+      "quality_score": 0.8486,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 29,
+      "text": "Ait 8.\n\n• de Comité international, men- tinné à l'article is de la Envention,\n\nIl sera frimé, percer le premièse\n\nfois, des douze membreo de\n\nComité persanent de la Conseiarion interosationale de 1879 et des deme déléguéo qui toro de la nomination de ce Comité permanente, avaient obtenu le plus grand nembre des inffrages apréo la membres ela.\n\ndina der renouvellement, par\n\nmoitié, du Comité internationalos les membres sortants seront d' abord cent qui, en cas de vacance, auront été duo provisoirement dano l'intervalle entré deux dessino de",
+      "quality_score": 0.8616,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 30,
+      "text": "la confica 2 ment sigie lis mentes entants mont religibles.\n\nAst. 9.\n\ndes moreau prototypes, el an général tons les travaux métrologiques que les antes Parties Contractantes désideront de fains exécuter en ситтик.\n\nsurveiller la conserration des pro- totipes internationanc\n\nArt. 10.\n\nLe Comité internatinale de\n\nconstitue en choisissant lui-même",
+      "quality_score": 0.7871,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 31,
+      "text": "an criten secret, don president ot notifieco\n\nMantes Partiar contractantes.\n\nde prédident et le seoétaie.\n\ndu Comité et le disecteur de Buscan dirvent appartenis a des paga difients.\n\nIne foro conositié, le Consite?\n\na port furcéder a de monrellen i dectiono un nominations que tin mrio aprés que tus les mentes en amont été avertia pola huran der Comité.\n\nAit Y1.\n\n心\n\nfroquia l'apogue on las morrenna le Comité de vertio.\n\n'morind une\n\nfrio par an; aprè cette épogue, des",
+      "quality_score": 0.768,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 32,
+      "text": "surime det a moins transalla\n\nart 12.\n\ndes potes du Comité ont bien\n\nà la majorité de voix en sao de nartage,\n\nla vie du prevident est\n\npreponderande des décisio ne dent valables que si le nombe des mésites brevento egale au sarina la troitié huo-s-des membres qui composent le comiten\n\nVous réserve de secte conditions\n\nles mermber absento ont le droit de deligner les enter au membre presento,\n\nAit 13.\n\nDans l'intervalle d'une session",
+      "quality_score": 0.7834,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 33,
+      "text": "a l'autre, le Comité a le droit de déle bever par conespendance.\n\nLane de cas, porr queela déci\n\nsino soit valable, il faut que lives les membes dur Comité aient été appeles á émettre leur avis.\n\nAnt 141.\n\nLe commité international des poido\n\net mesures remplit provisinement les vacances qui pourraient de produire dans un deim,cer électimas do font par comespon dance, chacun des member élant appele à y prendre part.\n\nOnt. 15.\n\nde comité international élaborera\n\nun tentement delpille of les travau du le taxes a pagér porer les tramune",
+      "quality_score": 0.8705,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 34,
+      "text": "extrandinaises prévuo a l'article 6 de\n\n- Convention.\n\nLes taxes stront affesteco au perfee- tironement du matérial scientifique du\n\nBurlan.\n\nWak 16.\n\nFontes les comm\n\nunication du Comité\n\ninternational avec les buvernemento de Hantes Vartes contractantes auront lien par l'intermédiaire de leono repré sentanto diplomatiques a ario.\n\nPour toutes les affaires dont la\n\nsolution appartiendra a une adminis tation françaide, le Comité aura recouro an Ministère Sera prado étrangères de\n\nFrance.\n\nAst 17.\n\nLe directeur du Bureau ainsi",
+      "quality_score": 0.8346,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 35,
+      "text": "que des adjointe dent nosamé du sta secret fiar le Comité international.\n\nle diredeur.\n\ndes emplagéo sont somnilo fra de directeur a voire deliterative\n\nau sein des Comidé.\n\nArk 18.\n\nde directeur der Parean n'aura\n\naccés an lien de dépôt des prototypes internationau du melie et da hilogramme grien est d'une reste.\n\ntim du Comité et en présence de deure de sus mernbres\n\nde lien de dépôt des portotypes\n\nne pourra d'outir gui an moyen la provevion du directeur - des\n\nArchives de France, la scande dans celle du président du Comité, et la",
+      "quality_score": 0.8382,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 36,
+      "text": "tivisième dans celle du directero\n\ndu Bureau.\n\ndes italme de la catégoria des prototypes nationane vermont- seulo aux travano ordinaires-de\n\ncomparaisons du Burean.\n\nAit 19.\n\nle Directeus du Buream adresdea.\n\nchaque année, au bomité l'um rapport financier sur les comptés de l'exercice precedent, dont it le pes, apres vérification, donné décharge: 2 un sapport sur l'etat du matérial: 3º un mapport général sur les travaux.\n\naccomplis dans le couro de l'année\n\necontée.\n\nde comité international adressera, de don côté, á tons les Gouresmemento des Manteo Parties contractantes un",
+      "quality_score": 0.8541,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 37,
+      "text": "rapport annuel eur l'endemble de ses operatimo scientifizues, lechni- guer et adminiotiatives et de celles du\n\nBureaus.\n\nde President du lomilé sendra.\n\ncompte à la Conference générales des tramure acomplis depris l' epoque dar da dernière dession.\n\ndes rapporte et publicationo\n\ndes Comité et du Bureau seront redigés en langue française. de veront imprimés et comuniques ane bovernemento des Hantes- Parties contractantes.\n\nAit 20.\n\nl'échelle des contributiona,\n\ndont il est questin a liartiale 9 de la Comention, sera établic ainsi qu'il suit.",
+      "quality_score": 0.8356,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 38,
+      "text": "de chiffre de la population, exprime en millions,\n\ndess subtiplee\n\nfar le corfficient-3 pour les fato dano les quelo le\n\nsystéma.\n\nmétrique est obligatoire;\n\nbar le coefficient 2 fois ceux\n\nI n'est que facultatif,\n\nhar le coefficient 1 pour les\n\nartses Elado.\n\nda comme des frroduito\n\nainsi obtenuo provis le nombre\n\nde défense.\n\nAit. 91.\n\nLes frir de confection des\n\nprototepes internatimana, aindi que des etalino et témoino destinés",
+      "quality_score": 0.8606,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 39,
+      "text": "á les accompagner, deront supportes par les Haules Paities contraclan.\n\nto d'aprés l'échelle établic a l'article précédent\n\ndes pais de comparaioon et\n\nde verification des etalono demandes sar des Elato qui ne partcipe - raient fao a la firesante Consentime seront réglés pas le comité co- formement aux tares fixees en verti de l'article 15 du\n\nRestement.\n\nArt 22.\n\nde poente léglement au\n\nmaitre force et salle que la Contine)\n\nà la quelle il est annexé.\n\n(AS) signed. I. Gatory.\n\n(LI) digned-Francioes de Revena (L.S) signed-Ashentohe -",
+      "quality_score": 0.809,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 40,
+      "text": "(d.1) digned-elefongi:\n\n(d.J.) arquied- Bagens.\n\n(2.2.)\n\n(d.1)\n\nsigned _Balcances\n\n(L.L) srgied-Manques de Aulino.\n\n(a.d.) signed. Itunes (d.d.) signed_Hashtarme (at) god- eyor (d.1.) signed - Ede Meaux..\n\n(d.J.) signed-I Sumind (d.1) signed- eligia.\n\n(d.d.) sigied-faré da Ata eNtendes dend.\n\n(A.L.) siqued Okouneff\n\n8777a72\n\n(2'S) signed-Fern.\n\nAd.) signed-Heomy.\n\n(2.1) 66. Acosta",
+      "quality_score": 0.7763,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "da",
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 41,
+      "text": "Annexe No\n\nDispositions transitoires\n\nAilide frimier.\n\nTous les Etats qui étaient\n\nreprésentés à la Commission internationale de métie surie in Paris en 1872, gui iles tractantes à\n\nConvention, recevront les prototypes qu'ils-auront",
+      "quality_score": 0.8382,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 42,
+      "text": "commandes et qui leur seront livres dano toutes les conditim.\n\nde parantie delersinees par dité Commissio interra- tionale.\n\nArt h.\n\ndes pirimine bienne\n\nde la Conference générale des poids et mesures men- tonnée a l'artiale de la\n\nConventira, aura, botamment, pour objets de sanctiner er nouveau prototypes es de le départir entre les Cats\n\nYou en aurat fei la demandes\n\nen consequences:",
+      "quality_score": 0.8262,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 43,
+      "text": "ventés à la Commision indera-.\n\ntimale de 1872, ainsi que les Membres de la section française, perent de droit partie de celtè premiere reunion fois concoursis.\n\nà la sanction des prototy.\n\nfres.\n\nArt 3.\n\nde comité internaternal\n\nmentionné a l'article é de la Convention, et com- posé comme il est dif a l'article 8 du Reglements ent charge de recevoir en de compraser entre eux les- morereau prototypes, d'africa les décisions scientifigues",
+      "quality_score": 0.8514,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 44,
+      "text": "de la formission interna-.\n\ntionale de 1872. et de am\n\nComité permanent, dovo sé- derve\n\ndes modifications\n\nune le penina tourit inggérer dand i\n\nAit 1.\n\nLa section française de la Commission internationale de 18/a reale chargee - des tarant- qui lui ont été confiés frer la constrution des morneaun protolyper, avec le concoure du Comité in ternational.\n\nArt 5.\n\ndes fraio de fabrication",
+      "quality_score": 0.8208,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 45,
+      "text": "des etalone mettoges comatieto par la section française seront rembrundés par les\n\nGouvernemento intéressés, d'aprco le prix de se- rent par midé qui vera clerminé par-ladite dee- tion.\n\nAit. 6.\n\nde Comité international est autorisé à se constituer srimédintement et à faire fontes les études preparator- res necessaires pour la mise a exécution de la Convention.\n\ndano engages ancre de pense avant l'échange dis",
+      "quality_score": 0.8264,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 46,
+      "text": "ratificationo- de ladite Convention (X.1) riqued. P. Galarg (2.D) digned-Francisco de Percos.\n\n(L.L) signed- Bagens.\n\n(a.1) signed. Stahya.\n\n(X.1) signed- Balcance",
+      "quality_score": 0.8617,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 47,
+      "text": "(2D) agued- Serves.\n\n(2.1) signed - (de Menux.\n\n(d.d) argied-d. Surad.\n\n(2.d) argued- Migra\n\n(.d.) signed- O truneff.\n\ni spied, far of le than abdel noon\n\n(a? D.) signed Hern\n\n(1. 1) signed Jramy (2.1) Clersta",
+      "quality_score": 0.7874,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 48,
+      "text": "Por tanto- y habando al Congre Arian aprobado en diz y ocio de turia del arriante air la trimestá Convencion adi como el Neglamanto y disposiciones transitorias que la acompañare, en u0o de la faralado que le Cortelacion de La Petilla me celeres te verido es aceptada, apasta. e ratificarla, teniendola como les del Etada conferimetiendo para su obseriancia el heras\n\nnacional.\n\nEn fi de lo cual fino la parente ratificacione\n\npeor el Ministio de Estado cor el a\n\nDespacho de\n\nPelaciones Exteriores en hima á tiece de Agoston\n\nde mil ochosientos ostenta a cinco.\n\natando\n\n1. 1 de laltores",
+      "quality_score": 0.7762,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

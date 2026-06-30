@@ -63,7 +63,11 @@ const featured = docs.slice(0, 6);
     <div class="section-head">
       <div>
         <h2>Documents pilotes</h2>
-        <p class="muted">Échantillon déployable pendant que le traitement OCR final se termine.</p>
+        <p class="muted">
+          OCR terminé sur les 3 146 documents du corpus ; ce build expose un échantillon
+          pilote de {manifest.document_count ?? docs.length} documents pendant que les
+          builds complets de similarité et de graphe sont préparés.
+        </p>
       </div>
       <a class="button secondary" href="/donnees/">Données & licence</a>
     </div>

@@ -1,0 +1,86 @@
+{
+  "document_id": "19190006_446_s1",
+  "title": "Instrument de ratification japonais de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+  "year": 1919,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "ko",
+    "zh-cn"
+  ],
+  "quality_score": 0.6748,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Voir texte 19190006 01 sur bobine 6253 2 | 人 愉 湛 评 全 和、 器 长 铅 o4{ 才 和 委 半 这 ~ 和 2 梯 ， ‘fof ,Kx 尝 攻 于 < 十 民 ye 闯 因 岂 区 入 ~ 一 EE 风 光 讼 全 如 处 从 蚜 水 雹 加 如 当 ( Ba Bos 外， BE KK、 区 二 生 中 z Tp = 全 AoA 六 巡 沁 对 区 过 汉 和 可 吉 训 从 和 Ym 要 家 柱 x : Pop 人 二 避 < 十 {9 长 叶 十 ES A ee IN A | A ( ( ( !",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_446_s1.pdf",
+  "source_filename": "19190006_446_s1.pdf",
+  "source_sha256": "9d545989a02b909f2cbd5c08aeb3ea53c34b0b34b8366d5f3889114cbf954f23",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "JPN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Voir texte 19190006 01 sur bobine\n\n6253",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "2 | 人 愉 湛 评 全 和、 器 长 铅 o4{ 才 和 委 半 这 ~ 和 2 梯 ， ‘fof ,Kx\n\n尝 攻 于 < 十 民 ye 闯 因 岂 区 入 ~ 一\n\nEE 风 光 讼\n\n全 如 处 从 蚜 水 雹 加 如 当 ( Ba\n\nBos 外， BE KK、 区 二 生 中\n\nz Tp = 全 AoA 六 巡 沁 对 区 过 汉 和 可 吉 训 从 和 Ym 要 家 柱 x :\n\nPop 人 二 避 < 十 {9 长 叶 十",
+      "quality_score": 0.4874,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "ko",
+        "zh-cn"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "ES A ee",
+      "quality_score": 0.6261,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "IN\n\nA |\n\nA\n\n( ( (\n\n!",
+      "quality_score": 0.5856,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

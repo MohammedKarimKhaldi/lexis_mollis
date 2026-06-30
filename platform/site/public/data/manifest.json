@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-06-30T00:00:00Z",
-  "source": "committed_sample",
-  "document_count": 2,
-  "page_count": 3,
-  "graph_node_count": 4,
-  "graph_edge_count": 3,
-  "pipeline_version": "2.0.1",
-  "note": "Tiny committed sample used so Cloudflare can build before the full OCR/release export is available."
+  "generated_at": "2026-06-30T21:38:55Z",
+  "source": "outputs_v2/release_pilot",
+  "document_count": 100,
+  "page_count": 1462,
+  "graph_node_count": 22,
+  "graph_edge_count": 23,
+  "pipeline_version": "2.0.1"
 }

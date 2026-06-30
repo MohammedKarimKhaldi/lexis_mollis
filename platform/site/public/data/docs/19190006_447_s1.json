@@ -1,0 +1,45 @@
+{
+  "document_id": "19190006_447_s1",
+  "title": "Note de transmission de l'instrument japonais",
+  "year": 1919,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8816,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Paris, 26 wai I92I à L'Amhessadeur du Japon à Paris à M, le Président du Conseil, Ministre des Affaires Etrancères. Le Gouvernement du Lagon vient de me fairs savoir que BA Majenté l'Empereur, Mon Auguste Souverain, a ratifié , en date du 25 mei I921, le Traité de Paix avea la Bulgerie et le Protocole y annexé » signés à Xeuilly-sur-Seine le 2? novembre 1919. En conformité des clauses finales dudit Traité, j'ai l'ho…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_447_s1.pdf",
+  "source_filename": "19190006_447_s1.pdf",
+  "source_sha256": "48ac0ec77d0450b61d0f553b07b276946144b6c567e760cd4a0429222870ce48",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "JPN003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Paris, 26 wai I92I à\n\nL'Amhessadeur du Japon à Paris à M, le Président du Conseil,\n\nMinistre des Affaires Etrancères.\n\nLe Gouvernement du Lagon vient de\n\nme fairs savoir que BA Majenté l'Empereur, Mon Auguste\n\nSouverain, a ratifié , en date du 25 mei I921, le Traité de Paix avea la Bulgerie et le Protocole y annexé » signés à Xeuilly-sur-Seine le 2? novembre 1919.\n\nEn conformité des clauses finales\n\ndudit Traité, j'ai l'honneur de porter ce qni prdodde à la connaissance de Y, Exo, et de l'assurer de ia transmission ultérieurs dss instruments de ratification ada leur réception JJ.",
+      "quality_score": 0.8816,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

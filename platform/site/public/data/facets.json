@@ -1,8 +1,62 @@
 {
-  "languages": ["en", "fr"],
-  "doc_types": ["Déclaration", "Lignes directrices"],
-  "years": [1948, 1954],
-  "instrument_types": ["declaration", "guideline"],
-  "legal_force": ["unknown"],
-  "source_db": ["sample"]
+  "languages": [
+    "af",
+    "bg",
+    "ca",
+    "cs",
+    "cy",
+    "da",
+    "de",
+    "en",
+    "es",
+    "et",
+    "fa",
+    "fi",
+    "fr",
+    "hr",
+    "id",
+    "it",
+    "ko",
+    "mk",
+    "nl",
+    "no",
+    "pt",
+    "ro",
+    "sk",
+    "th",
+    "ur",
+    "zh-cn"
+  ],
+  "doc_types": [
+    "Accord",
+    "Autre",
+    "Convention",
+    "Instrument d'adhésion",
+    "Instrument de ratification",
+    "Lettre",
+    "Note verbale",
+    "Notification",
+    "Pouvoirs",
+    "Procès-verbal",
+    "Protocole",
+    "Texte"
+  ],
+  "years": [
+    1646,
+    1875,
+    1897,
+    1913,
+    1915,
+    1919
+  ],
+  "instrument_types": [
+    "other",
+    "treaty"
+  ],
+  "legal_force": [
+    "unknown"
+  ],
+  "source_db": [
+    "traites_mineae"
+  ]
 }

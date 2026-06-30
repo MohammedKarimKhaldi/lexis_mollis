@@ -5,6 +5,7 @@ const nav = [
   { href: "/donnees/", label: "Données" },
   { href: "/methode/", label: "Méthode" }
 ];
+const currentPath = Astro.url.pathname;
 ---
 
 <header class="site-header">
@@ -14,7 +15,11 @@ const nav = [
       <span>Lexis Mollis</span>
     </a>
     <nav aria-label="Navigation principale">
-      {nav.map((item) => <a href={item.href}>{item.label}</a>)}
+      {nav.map((item) => (
+        <a href={item.href} aria-current={currentPath.startsWith(item.href) ? "page" : undefined}>
+          {item.label}
+        </a>
+      ))}
     </nav>
   </div>
 </header>
@@ -76,6 +81,11 @@ const nav = [
   nav a:hover {
     background: rgba(31, 111, 120, 0.08);
     color: var(--accent-strong);
+  }
+
+  nav a[aria-current="page"] {
+    background: var(--accent-strong);
+    color: #fff;
   }
 
   @media (max-width: 640px) {

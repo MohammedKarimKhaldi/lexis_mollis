@@ -1,0 +1,45 @@
+{
+  "document_id": "19190006_727_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification roumain",
+  "year": 1919,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9713,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Le Ministre de Roumanie à Paris s'est présenté aujourd'hui au Minis- tére des Affaires Étrangéres pour procéder, d'accord avec le Président du Gonseil, Ministre des Affaires Etrangères de la République francaise, au dépôt de l'instrument des Ratifications de Sa Majesté le Roi de Rou- manie sur le Traité de Paix avec la Bulgarie, signé, à Neuilly-sur-Seine, le 27 novembre 1919, ainsi que sur le Protocole portant la m…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_727_s1.pdf",
+  "source_filename": "19190006_727_s1.pdf",
+  "source_sha256": "264d7f08e32ee698af8df90e018fb78340484651c0f1b45025c24df472aa9a5f",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "ROU003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Le Ministre de Roumanie à Paris s'est présenté aujourd'hui au Minis- tére des Affaires Étrangéres pour procéder, d'accord avec le Président du Gonseil, Ministre des Affaires Etrangères de la République francaise, au dépôt de l'instrument des Ratifications de Sa Majesté le Roi de Rou- manie sur le Traité de Paix avec la Bulgarie, signé, à Neuilly-sur-Seine, le 27 novembre 1919, ainsi que sur le Protocole portant la méme date.\n\nL'instrument ayant été, aprés examen, trouvé en bonne et due forme, a été déposé pour être conservé dans les archives de la Répu- blique française,\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procès verbal qu'ils ont revétu de leurs cachets.\n\nFAIT à Paris, en double exemplaire, le A septembre 1920.\n\nNeuilly, — Dép&t Ratifications, — Roumenie.",
+      "quality_score": 0.9713,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

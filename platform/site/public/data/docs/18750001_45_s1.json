@@ -1,0 +1,58 @@
+{
+  "document_id": "18750001_45_s1",
+  "title": "Pouvoirs de signature du Portugal",
+  "year": 1875,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "pt"
+  ],
+  "quality_score": 0.9196,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Pai do heino, Ministro d'Estado Hinosario » Meus Envirão tetras dinario e Menistio Harpo. Anciarios em tranços Amigo: Quemão raniades e Parig a Confermeia, intenneion gomnto, mentor, consummados aptidão e nelo polo derro publico, Honros pos ban homerovas como pas ! representante replanotico pas parte de Ebates nerliados tel do acho somendes. O que na fiarece commo rucarvos, pares vaso untalligancico e detifição Ito…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_45_s1.pdf",
+  "source_filename": "18750001_45_s1.pdf",
+  "source_sha256": "3821ddab615a55efd0bad5852943129bd267e2dff324286d713237ea3840a06a",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "715",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Pai do heino, Ministro d'Estado Hinosario »\n\nMeus Envirão tetras dinario e Menistio Harpo.\n\nAnciarios em tranços Amigo: Quemão raniades e Parig a Confermeia, intenneion gomnto, mentor, consummados aptidão e nelo polo derro publico, Honros pos ban homerovas como pas !\n\nrepresentante replanotico pas parte de Ebates\n\nnerliados tel\n\ndo acho somendes. O que na fiarece commo rucarvos, pares vaso untalligancico e detifição\n\nIto de 1895.--\n\nate o dntuate Love\n\ndio o Meus tura do Patrão diario o Ministo\n\nStanif",
+      "quality_score": 0.8759,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "truciario eu Franção.",
+      "quality_score": 0.9633,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

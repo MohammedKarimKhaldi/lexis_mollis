@@ -1,0 +1,49 @@
+{
+  "document_id": "18750001_68_s1",
+  "title": "Instrument d'adhésion de l'Empire Ottoman (traduction française",
+  "year": 1875,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7655,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "20 mai e625 Camention duMitu Traduction Rohfication turques 'On exemplaire de la conventiz clatare par la confirme Internationales des pardo et mesures, réunie à Paris el lignée par le déliqué de la sublime tente. le 20 mai 1875, arant élé tares pour eto reveta de notré canition Impériale, nottei Ordonnance Imperiale a été imamé à eel offet et le prévent Tarman condatant tal a ité en conséquen progr pas titre Diman…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_68_s1.pdf",
+  "source_filename": "18750001_68_s1.pdf",
+  "source_sha256": "a18bda01053c38650c441f4a4d35879b2096ee8565b92ba910b5541c469305ad",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "920-a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "20 mai e625 Camention duMitu\n\nTraduction Rohfication turques\n\n'On exemplaire de la conventiz\n\nclatare par la confirme Internationales des pardo et mesures, réunie à Paris el lignée par le déliqué de la sublime tente.\n\nle 20 mai 1875, arant élé tares pour eto reveta de notré canition Impériale, nottei\n\nOrdonnance Imperiale a été imamé à eel offet et le prévent Tarman condatant tal a ité en conséquen progr pas titre Diman Iipera de a Namas\n\n1292. -",
+      "quality_score": 0.7655,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

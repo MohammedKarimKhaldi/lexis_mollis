@@ -1,0 +1,114 @@
+{
+  "document_id": "19190006_351a_s1",
+  "title": "Instrument de ratification grec de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+  "year": 1919,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "en",
+    "es",
+    "it",
+    "pt"
+  ],
+  "quality_score": 0.7986,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Baoyeis zoo Epiocas ¿oranodiooo dendror igpároo trovo urraji Suão nai ägda 296 mai zoü cagno muigo airț aguzonóyor io zö uisegoy tarce. Voir texte 19190006 01 sur bobine 6253 E + 3 M. RUSTEM HAÏDAR. AQUXI ABDUL-HADI. L. GRABSKI. ST. PATEK. — ,. AFFONSO COSTA. JAYME BATALHA, REIS, , NIK. P. PACHITCH. Da. ANTE TRUMBIC. Dr. IVAN ZOLGER. . CHAROON. -à Dr. EDVARD BENES. STEFAN OSUSKY. AL. STAMBOLIISKI. XX aoowon toa, Ua…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_351a_s1.pdf",
+  "source_filename": "19190006_351a_s1.pdf",
+  "source_sha256": "6555b96922cdd8fe80753e0aca338556351cf7ea0ac2ba3318b51a1768c6fc6a",
+  "treaty_id": "TRA19190006",
+  "treaty_number": "GRE002a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Baoyeis zoo Epiocas\n\n¿oranodiooo dendror igpároo trovo urraji Suão nai",
+      "quality_score": 0.7217,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ägda 296 mai zoü cagno muigo airț aguzonóyor io zö uisegoy tarce.",
+      "quality_score": 0.7295,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt",
+        "es",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Voir texte 19190006 01 sur bobine\n\n6253",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "E\n\n+ 3\n\nM. RUSTEM HAÏDAR.\n\nAQUXI ABDUL-HADI.\n\nL. GRABSKI.\n\nST. PATEK. — ,.\n\nAFFONSO COSTA.\n\nJAYME BATALHA, REIS, ,\n\nNIK. P. PACHITCH.\n\nDa. ANTE TRUMBIC.\n\nDr. IVAN ZOLGER.\n\n. CHAROON. -à\n\nDr. EDVARD BENES.\n\nSTEFAN OSUSKY.\n\nAL. STAMBOLIISKI.\n\nXX aoowon toa, Ua pvooMtg VO. Lod.\n\nuy vw bopdnung worry uara dàgux abris\n\nLOU OQVOJAOUO, Lore ya UVOSULUS adm\n\nRD, AES t£ ua OÙ 1 MIT Jnoopouor\n\nUA Dradoxor, UO YO HL aaa buco avingy, sind | UV OUR OM LO wy dao sev Olcgovwdoto GApabacw CAMO, fin croton ray Ayartow Hatgoayasuey my",
+      "quality_score": 0.8067,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "paçor airña diá eño co Huereço Soaoycioo\n\nSappagidos.\n\nчої кубої іоанобочої гоой lrovo.",
+      "quality_score": 0.7351,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

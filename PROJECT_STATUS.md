@@ -20,21 +20,28 @@ la configuration effectuée côté compte.
 Le scaffold EPIC F est maintenant testable localement : Astro répond sur
 `http://127.0.0.1:4321/`, et `platform/site/public/data/` contient actuellement une
 génération pilote depuis `outputs_v2/release_pilot` : 100 documents, 1 462 pages,
-22 nœuds graphe, 23 arêtes. Ce jeu pilote est utile pour tester l'interface, mais il faut
-décider avant commit si l'on garde ces données pilotes ou si l'on revient au minuscule
-sample prévu pour Cloudflare.
+22 nœuds graphe, 23 arêtes. **Décision (Claude, 2026-06-30) : on garde le jeu pilote de
+100 documents** plutôt que les 2 documents d'exemple fictifs — le site déployé doit
+montrer du vrai contenu du corpus. À swapper pour la release complète (3 146 documents)
+dès que les builds complets de similarité/graphe (EPIC C/D) seront prêts ; voir
+`scripts/build_site_data.py` côté génération.
+
+Une passe d'amélioration UI a aussi été faite sur `platform/site/src/` (favicon + balises
+OG/Twitter, état actif dans la navigation, pied de page avec liens GitHub/Hugging Face,
+légende des couleurs du graphe, recherche avec état de chargement + debounce, secours
+`<noscript>` pour recherche/graphe, et surtout un sommaire + regroupement par paquets de
+25 pages (`<details>`) sur les fiches document longues — le pilote contient un document de
+445 pages qui rendait la fiche très lourde sans ce découpage). Build Astro vérifié en
+local (106 pages générées, 0 erreur).
 
 Ce qui reste avant le déploiement public complet : lancer les builds **complets** (pas
 pilotes) de similarité/graphe/release sur les 3 146 documents, finaliser le déploiement
 Cloudflare, et faire l'annotation humaine de calibration des seuils de similarité.
 
-**Changements locaux à traiter avant tout build public :** `.gitignore`,
-`PROJECT_STATUS.md`, la configuration Node/Wrangler racine (`package.json`,
-`package-lock.json`, `wrangler.jsonc`, `.nvmrc`, `.npmrc`) et le dossier `platform/` sont
-modifiés/non suivis. `node_modules/`, `dist/`, `.astro/` et `.wrangler/` sont exclus par le
-`.gitignore` modifié. À faire : choisir si `platform/site/public/data/` doit contenir le
-sample minimal ou le pilote de 100 documents, puis committer/pousser les fichiers retenus
-vers `origin/main`.
+**Changements locaux traités par Claude (2026-06-30) :** données pilote (100 documents) et
+améliorations UI ci-dessus committées sur `main`. Le push depuis le bac à sable Claude
+échoue (pas de clé SSH/identifiants GitHub dans cet environnement isolé) ; un `git push
+origin main` depuis la machine de l'utilisateur reste nécessaire après chaque session.
 
 ## État vérifié
 
@@ -60,7 +67,7 @@ vers `origin/main`.
 | C — Similarité | Implémenté, pilote fait | OCR terminé : build complet à lancer maintenant sur les 3 146 documents (le `similarity_pilot` actuel n'a qu'1 arête/2 clusters, donc non représentatif). Annoter ≥30 paires positives et ≥30 négatives pour calibrer les seuils (`scripts/calibrate_similarity.py` existe, aucune annotation humaine trouvée sur le disque). |
 | D — Knowledge graph | Implémenté, pilote fait | Build complet à lancer après le build de similarité complet ; enrichir gazetteers ; valider un échantillon d'entités. |
 | E — Export & publication | Outillage local fait | Publier vers HF après release complète ; DOI Zenodo après tag ; droits PDF à revoir avant Internet Archive. |
-| F — Plateforme web | Scaffold déployable, test local OK | Astro + Workers Static Assets, données pilote locales, pages principales, Sigma.js et Spaces search/SPARQL scaffolds. Reste : décider sample vs pilote à committer, brancher release complète, recherche FAISS/BM25 réelle, URL publique. |
+| F — Plateforme web | Scaffold déployable, données pilote committées, UI améliorée | Astro + Workers Static Assets, 100 documents pilote committés, pages principales avec navigation active/footer/légende graphe/sommaire documents longs, Sigma.js et Spaces search/SPARQL scaffolds. Reste : brancher release complète (3 146 documents), recherche FAISS/BM25 réelle, confirmer URL publique Cloudflare. |
 | G — CI/CD | Partiel | CI qualité OK. Reste : `build-derive.yml`, `release.yml`, `deploy-site.yml`, `keepalive.yml`. |
 | H — Expansion corpus | Non commencé | Choisir et implémenter le premier connecteur, probablement EUR-Lex, avec droits/provenance explicites. |
 | I — Révision communauté | Non commencé | Générer lots de révision ; choisir mini-interface Astro ou workflow issues GitHub ; stocker `review_events.jsonl`. |

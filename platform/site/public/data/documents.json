@@ -1,28 +1,2604 @@
 [
   {
-    "document_id": "sample-declaration-001",
-    "title": "Déclaration pilote sur la coopération internationale",
-    "year": 1948,
-    "doc_type": "Déclaration",
-    "languages": ["fr"],
-    "quality_score": 0.94,
-    "review_required": false,
-    "review_priority": "none",
-    "text_preview": "Les parties affirment leur volonté de coopérer pacifiquement et de publier les textes avec une provenance vérifiable.",
-    "tags": ["instrument_type:declaration", "language:fr", "quality:accepted_ge_0_85", "rights_status:to_review"],
-    "source_url": "https://huggingface.co/datasets/lexis-mollis/soft-law-corpus"
-  },
-  {
-    "document_id": "sample-guideline-002",
-    "title": "Lignes directrices pilotes pour la révision OCR",
-    "year": 1954,
-    "doc_type": "Lignes directrices",
-    "languages": ["fr", "en"],
-    "quality_score": 0.72,
+    "document_id": "16460004_s1",
+    "title": "Articles",
+    "year": 1646,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8483,
     "review_required": true,
     "review_priority": "normal",
-    "text_preview": "Les pages incertaines restent dans la base avec un drapeau de révision, un score et les raisons d’audit.",
-    "tags": ["instrument_type:guideline", "language:fr", "language:en", "quality:review_0_65_0_85", "review:required"],
-    "source_url": "https://huggingface.co/datasets/lexis-mollis/soft-law-corpus"
+    "text_preview": "16460004 M.A.E. Traités. Trêves 1646. 19 juillet Articles relatifs à la garnison de la forteresse de Philippsburg - Nombre de pièces : 1 Treus 1646 track lig? Sillen Artiles accordéer aub le bon plaisir du Ray. Trelirestien, et Monisieur Loliche nesque de Freues, Prince et Flecteur du str Breien Bien bourg a Sielen, ein eines. ee Commandeux de est chaseimin. Exter i prés de con dereinellectorales. 1Eleteur de Treues…",
+    "tags": [
+      "century:c17",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:early_modern_1516_1788",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/16460004_s1.PDF"
+  },
+  {
+    "document_id": "18750001_51_s1",
+    "title": "Acceptation de l'accession de la Roumanie",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8563,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Convention du Mého acceptation de l'Accessin dela Roumanie 22 aorce 1884. La Majesté le Roi de Roumanie ayant accédé à la Convention condus à Paris, le 20 mai 1815, à l'effet d'assurer l'unification internationale et le perfectionne ment du système métrique, en vertu de D'acti d'Accession déliré, par los Envoyé extraor- dinaire et Ministre pléniprotentiaie pier le Gouranemant de Ca Rejeublique Française, muni deplei…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_51_s1.pdf"
+  },
+  {
+    "document_id": "18750001_0012_s1",
+    "title": "Accord",
+    "year": 1875,
+    "doc_type": "Accord",
+    "languages": [
+      "ca",
+      "es",
+      "fr",
+      "it"
+    ],
+    "quality_score": 0.8774,
+    "review_required": true,
+    "review_priority": "high",
+    "text_preview": "Franc Contrallence le Président de la République Francaise, La Majesté l'empereur dallemagne, La Majesté l'mpereur d'Autricho hongrie, Sa Majesté le Roi des Belges, la Majesté l'empereur du Brésil, Son lacellence le Résident de la Confédération Argentine, Sa Majesté lechoi de Danemark, La Majeste le Roi d'Espagne, Son Excellence les résident des clats Unis d'Amerique la Majeste le Koi d'Italie Sontacellence le résid…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Accord",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_0012_s1.pdf"
+  },
+  {
+    "document_id": "18750001_18_s1",
+    "title": "Accusé de réception français de l'instrument taïwanais",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "es",
+      "fr"
+    ],
+    "quality_score": 0.9271,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "-50CT196- 05440 \"/ I, 29 08 1 (4) 16 Untons Internatlona1eg Le Ilalotère des Alfaires Itrangòres présente ses complinenta à l'Ambassado d'Australlo et a l'honneur de lul fatre savois de qui quit a I'Ambansado d'Auntralie a bien roulu déposer su Ministèro dos Altatros Itrangares, Io 5 octobro 1:04, un dooupent ródigó er languo chinoloo, et dunt l. «raduotion est la buirantes \"contornóment aux procódures conatitutionn…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_18_s1.pdf"
+  },
+  {
+    "document_id": "18750001_50_s1",
+    "title": "Acte d'accession de la Roumanie",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8538,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Da Mapesté de Roi de Roumanie désirant user de la faculté qui Qui est réservée par l'article 11 de la Convention conclue à Paris, le 20 rai 1875, à l'offer d'assures, l'en fication internationale et le perfection. -nement du Exotime métrique; la lire aventie a rente 2 y accéder? Cla sbajesté a donné à cet effet des pleins pouvoirs à bondieur Michel Shérékyde, Cun Envorjé extraordinaire et Ministre plénipotentiaire p…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_50_s1.pdf"
+  },
+  {
+    "document_id": "18750001_05_s1",
+    "title": "Convention du mètre et son règlement annexe",
+    "year": 1875,
+    "doc_type": "Convention",
+    "languages": [
+      "ca",
+      "en",
+      "fr",
+      "pt"
+    ],
+    "quality_score": 0.856,
+    "review_required": true,
+    "review_priority": "high",
+    "text_preview": "CONVENTION INTERNATIONALE SPOETAME MODIFICATIO CONYENTION DU METRE SIGNALE PARIS LI 20 MAI 1ST REGLEMENT, ANNEXÉ TEXTES MODIFIES PARIS GAUTHIER VILLARS, IMPRIMEUR-LIBRAIRE 19503 UR NEM HE PA BO AE ie ES FAS FAT Ed (PR e er BE e Mt tue RP A T n Au TUA E t fa Crue be Re i deje DA REE PO RATE SU MEE EE RENS poe Mura foie Sinn oou (e b imi Un. pov p TAS TE e ES SER UE Ap A SENSUS RECETA CREEK ie UE ee QE nor ur p Pea ag…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Convention",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_05_s1.pdf"
+  },
+  {
+    "document_id": "18750001_35_s1",
+    "title": "Dépôt de l'instrument de ratification",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.85,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Transe.. (Juit norge Proces-verbal d'échange) . des soussignes d'etartreunis pour procéder à Déchange des Pratifications de Son Vacellence lePrésiden de la République. Francaise et de da Majesté le roi de Suède et de Norvége, our la Convention signée à Paris, le 20 Mai 1875, dans le but d'asurer l'unification interna tionale et le perfechonnement du Iyaleme métrique: deo Inotruments de cet acte ont élé productiel, a…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_35_s1.pdf"
+  },
+  {
+    "document_id": "18750001_68_s1",
+    "title": "Instrument d'adhésion de l'Empire Ottoman (traduction française",
+    "year": 1875,
+    "doc_type": "Instrument d'adhésion",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.7655,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "20 mai e625 Camention duMitu Traduction Rohfication turques 'On exemplaire de la conventiz clatare par la confirme Internationales des pardo et mesures, réunie à Paris el lignée par le déliqué de la sublime tente. le 20 mai 1875, arant élé tares pour eto reveta de notré canition Impériale, nottei Ordonnance Imperiale a été imamé à eel offet et le prévent Tarman condatant tal a ité en conséquen progr pas titre Diman…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument d'adhésion",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_68_s1.pdf"
+  },
+  {
+    "document_id": "18750001_37_s1",
+    "title": "Instrument d'adhésion de la Nouvelle-Zélande",
+    "year": 1875,
+    "doc_type": "Instrument d'adhésion",
+    "languages": [
+      "en"
+    ],
+    "quality_score": 1.0,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "WHEREAS the Convention concerning the Creation of an International Office of Weights and Measures (hereinafter referred to as \"the Convention\") was done at Paris on 20 May 1875, and was amended at Sevres on 6 October 1921; AND WHEREAS any State may adhere to the Convention; AND WHEREAS pursuant to Article 3 of the 1921 Convention, any adhesions to the Convention shall automatically entail adherence to the 1921 Conve…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument d'adhésion",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_37_s1.pdf"
+  },
+  {
+    "document_id": "18750001_48_s1",
+    "title": "Instrument d'adhésion de la République Tchèque",
+    "year": 1875,
+    "doc_type": "Instrument d'adhésion",
+    "languages": [
+      "cs",
+      "en"
+    ],
+    "quality_score": 0.969,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "VLÁDA ČESKÉ REPUBLIKY Dne 20. Května 1875 byla v Pařizi sjednána Mezinárodní úmluva o soustavě metrické (CIPM) Vláda české republiky tuto Mezinárodni úmluvu prozkoumala a v souladu s deskými právními předpisy k ní přistupuje podle us- tanovení jejiho clánku 11, s platností od 1. ladna 1993. Dáno v Praze dne 21. prosince 1992, (losef Vetuue ministr mezinárodnich vztahů české republiky /UNOFFICIAL TRANSLATION/ THE GOV…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument d'adhésion",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_48_s1.pdf"
+  },
+  {
+    "document_id": "18750001_40_s1",
+    "title": "Instrument d'adhésion du Pakistan",
+    "year": 1875,
+    "doc_type": "Instrument d'adhésion",
+    "languages": [
+      "en"
+    ],
+    "quality_score": 1.0,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "THE PRESIDENT INSTRUMENT OF ACCESSION WE, ZULFIKAR ALI BHUTTO, PRESIDENT OF THE ISLAMIC REPUBLIC OF PAKISTAN TO ALL TO WHOM THESE PRESENTS MAY COME GREETINGS: HAVING SEEN AND EXAMINED the CONVENTION DUE METRE establishing BUREAU INTERNATIONAL DES POIDS & MEASURES Done at Paris May, 1875, CONVENTION OF WHICH THE TEXT IS IN ENGLISH DECLARE THAT WE ACCEDE TO IT AND PROMISE THAT IT WILL BE INVIOLABLY OBSERVED. IN WITNES…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument d'adhésion",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_40_s1.pdf"
+  },
+  {
+    "document_id": "18750001_46_s1",
+    "title": "Instrument d'adhésion du Portugal",
+    "year": 1875,
+    "doc_type": "Instrument d'adhésion",
+    "languages": [
+      "ca",
+      "en",
+      "es",
+      "fr",
+      "pt"
+    ],
+    "quality_score": 0.8634,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Van Leix, por Graça de aus Foi da Pasia e da Sedia 15\" Faço saber das que? a presente Carta de confinnação e ratificação mem que os vinte de Maio do ansio pioremo Mim e Sua Magestado o Cimperador def Alemanha, Lua Magestade Imperador de Austria-Apunqia, Sua Magestade o Rei dos Belgas, Sua Magestado a Imperados: do Prasil, Sua Excellencia o Presidente da Confederação Argentina, tua Magestado à Rei de Dinamarca, e Lua…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument d'adhésion",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_46_s1.pdf"
+  },
+  {
+    "document_id": "18750001_42_s1",
+    "title": "Instrument d'adhésion du Pérou",
+    "year": 1875,
+    "doc_type": "Instrument d'adhésion",
+    "languages": [
+      "ca",
+      "da",
+      "en",
+      "es",
+      "fr",
+      "it"
+    ],
+    "quality_score": 0.8166,
+    "review_required": true,
+    "review_priority": "high",
+    "text_preview": "Convencion Métrica. | | Manuel Pardo- Piesidarti de la Popúblia Seria. Por cuanto ni la inten del Peré, de Augestad el Emperador de Merari, de allegadad el Coperados. de la Monarquia Auotro Hungara, du Magestad el Roy de los Belgar, lagestad dl Enferados del Brasil. Se Enielencia el Presidente de la Hepública Argentera, de Magestad dl Roz de Dinamarca, de Magestad el Ley de Epario, da Cocalencia el Guidentà de los E…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument d'adhésion",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_42_s1.pdf"
+  },
+  {
+    "document_id": "18750001_28_s1",
+    "title": "Instrument d'adhésion israélien",
+    "year": 1875,
+    "doc_type": "Instrument d'adhésion",
+    "languages": [
+      "en"
+    ],
+    "quality_score": 1.0,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "ZITZEAR SHAMIR VICE PREMIER and MINISTER OF FOREIGN AFFAIRS FO ALL TO WHOM THESE PRESENTS SHALL COME BE IT KNOWN HEREAS a Convention on the Metex was signed at Paris on 20 May 1875 and modified at sèvres on 6 October 1921; AND WHEREAS under Article III Of the Modified Convention of 1921 the State of Israel is entitled to accede to the sald Conyention; AND WHEREAS on 10 March 1985, the government of the state of Isra…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument d'adhésion",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_28_s1.pdf"
+  },
+  {
+    "document_id": "18750001_09_s1",
+    "title": "Instrument de ratification de l'Argentine",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "es",
+      "it"
+    ],
+    "quality_score": 0.7497,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "del Alliter vieres! Farted! \" to santo a tries alone., Hurrin, Sell el Ross de los Helen, Tell el Euporder del. de la tapestle Meanerora! Lest el It, de Pula, I É el 9e Genidande de la Hopittica del Sane. HM. de Paraguals, descrando conger to conflecasier ene formacional y el porfercin merito del sisteroe metre el Se Presidente de la A prittira Argenti losetario Mercate Matorcero de lo Repúbleco ftromen en Harris. d…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_09_s1.pdf"
+  },
+  {
+    "document_id": "18750001_67_s1",
+    "title": "Instrument de ratification de l'Empire Ottoman",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "ca",
+      "fa",
+      "fr",
+      "ur"
+    ],
+    "quality_score": 0.6242,
+    "review_required": true,
+    "review_priority": "high",
+    "text_preview": "روم ہرشی سی ہیں کردا وو کار ہر و و سر نرود رد n‏ ر ا 4 ا وم سر ردا س و زی وودکرمز ودای eg‏ ا ر ر 0 لی کک رر ۰ رکز 28 شر رزو ر زر کر رک زوا وودد ووک کاود ر روو ) روو 8 ری سی ر ر رورس وو ب طرفہ وو گر ررد ورو mm JO OE OO ro qq — SE EE € qq mm Pa D can din 3 3 € - ivit \" © emm ja rite . \" - ri : à ™ - 5 1 fr 4 , . M aS . fr Ne * ^ . 1 . v 1 » ^x . M | - ——— D Bees oe Tet - E B, sil BH | . ^",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_67_s1.pdf"
+  },
+  {
+    "document_id": "18750001_21_s1",
+    "title": "Instrument de ratification de l'Espagne",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "es",
+      "fr",
+      "pt"
+    ],
+    "quality_score": 0.8171,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Don Monso XII. Say Comitucional de Coparin 80.\"8.20.\" Por cuanto el dia veinte de Mayo de mil ochocientes setenta y cenco fermo en Pario por el Eximo:. Se EMbarqués de l. Don Carlos Ibanex en apesentacin de Copaña y porlos donas Ponipotencias combradas al efedo por Austria- Kungia, Bélgica, Brasil, Confideracion Aligentina, Dinamarca, Estados Unidos de América, Francia, Italia, Rein, Bostugal, Rusia, Sucia y Momega,…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_21_s1.pdf"
+  },
+  {
+    "document_id": "18750001_14_s1",
+    "title": "Instrument de ratification de la Belgique",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "ca",
+      "en",
+      "fr",
+      "ro"
+    ],
+    "quality_score": 0.8823,
+    "review_required": true,
+    "review_priority": "high",
+    "text_preview": "à tons présens et à venir, Salut. yous vue ehexamine la convention concernam o la création. d'un bureau international des pards cha mesurer, conclue el signée à Saris le 20 Mai 1875, par Notre Plénipotentiaire avec les Plénipo- tentiaises D'antrel pays, convention sons lo teneur suit: Cla Sa Rajarté le Roi des 1Belger, SaCajesté ' Empereur d'Allemagne, la Rajarté lEupereur 'autriche. Vongrie, de cajesté l, Empereur…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_14_s1.pdf"
+  },
+  {
+    "document_id": "18750001_26_s1",
+    "title": "Instrument de ratification de la Grèce",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "bg",
+      "ca",
+      "en",
+      "fi",
+      "fr",
+      "hr",
+      "id",
+      "mk",
+      "pt",
+      "sk"
+    ],
+    "quality_score": 0.9103,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "yt EAAHNIKH AHMOKPATIA — tH REPUBLIQUE HELLENIQUE République Hellénique Ratification de la Convention du mètre Signée à Paris le 20 mai 1875, modifiée par la Convention signée à Sèvres le 6 octobre 1921 et Règlement annexé Hellenique Considérant que la Convention du mètre a été signée à Paris le 20 mai 1875, modifiée par la Convention signée à Sèvres le 6 octobre 1921 et Règlement annexé, dont le texte suit : 4785 T…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_26_s1.pdf"
+  },
+  {
+    "document_id": "18750001_54_s1",
+    "title": "Instrument de ratification de la Russie",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "en",
+      "fr",
+      "it",
+      "nl"
+    ],
+    "quality_score": 0.7653,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Traductan IMPIREUR ET AUTOCRATE DE TOUTES LES HUSSTES de:Moscou, sKion, Madimis, Airogoroa: Jak de Cuser, Tur d'Astrantum: Tar de Pologue: Ter de ibérie, Tar de la Chersonese Taurique, Tsar de La Gérigie, leigneur de Plescon d frand Due de a le Silhuanie, Volhanie, Podolie el de Finlande; Dur l'Estenie, de Euromi, de Courlande et Semigallei de Famogile, Bidostock, Carelis, Tuer, Suporie, Prim, + L'alba, tolgurie et…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_54_s1.pdf"
+  },
+  {
+    "document_id": "18750001_58_s1",
+    "title": "Instrument de ratification de la Slovaquie",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "sk"
+    ],
+    "quality_score": 0.9191,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "VLÁDA SLOVENSKEJ REPUBLIKY Dňa 20. mája 1875 bol v Paríži dohodnutý Medzinárodný dohovor o sústave metrickej /CIPM/ Vláda Slovenskej republiky tento Dohovor preskúmala a v súlade so slovenskými ústavnými predpismi k nemu pristupuje podla ustanovení Jeho článku 11. s platnostou od 1. 1. 1993. V Bratislave dña 18. decembra 1992 EWIS TERSTNO GLOVENSIES ORYCH VEC. REPUBLINES podpredseda vlády a minister zahraničných veci",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_58_s1.pdf"
+  },
+  {
+    "document_id": "18750001_23_s1",
+    "title": "Instrument de ratification des Etats-Unis",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "ca",
+      "en",
+      "fr"
+    ],
+    "quality_score": 0.8859,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Rutherford B3. bayes, Resident of the United States of emerica. So all to whore: dese presents shall come, Greeting: Know Ye, that whereas a elbetric bonvention betweew the United States and His elbajesty the Emperor of Germany, this Aajesty te Emperor of etustria. Houngary, His elbajesty the ding of the Belgiaws, I6 is Albajiety the Emperor of Brazil, Z6i Exellency the President of the corgentive boufederation, His…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_23_s1.pdf"
+  },
+  {
+    "document_id": "18750001_19_s1",
+    "title": "Instrument de ratification du Danemark",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "ca",
+      "da",
+      "en",
+      "fr"
+    ],
+    "quality_score": 0.8753,
+    "review_required": true,
+    "review_priority": "high",
+    "text_preview": "Kat Cătwo Hanć Muutu Harrmart, De Vouers n Gothers, ellers, foring til Sireng folien Stormar tashe Faurborg og lrnburg e Gjora veltalige it ti, friser fee lose os... undulegne de stormeneliore, angacorde eprettalse og tealig holdelse, fon de fortabende Farters falles Sigring, af it videres tabelint of seddevaerde, internationalt. Bureau for trigt og, iflaal, mud dede i Faris, twitter ionvantion ed tilkomnde Rugemore…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_19_s1.pdf"
+  },
+  {
+    "document_id": "18750001_72_s1",
+    "title": "Instrument de ratification du Venezuela",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "ca",
+      "es",
+      "fr"
+    ],
+    "quality_score": 0.7979,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "DOCTOR Diego Bautista llrbanga • Ministio de Estado. Emargado de la Persistencia Prisional de loo (Estades Tbnidos de Tengulae O lodos los que las presentes vieren, Salud! Por cante culo la sepittia de Pingulas, Su eMbajistad el Pinperado de eMemania Su etajestao el ramadas de e destra Magena, e, N0 iestad el Sery de los Belgas, Ju Majestad el Emperado del Brasil, du Falencia el Sesidente de la tentederacion agentin…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_72_s1.pdf"
+  },
+  {
+    "document_id": "18750001_31_s1",
+    "title": "Instrument de ratification italien",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "ca",
+      "de",
+      "en",
+      "es",
+      "fr",
+      "it"
+    ],
+    "quality_score": 0.8965,
+    "review_required": true,
+    "review_priority": "high",
+    "text_preview": "VITTORIO EMANUELE PER GRAZIA DI DIO E PER VOLONTA DELLA NAZIONE RE DTFALIA \"tulli celero chele persenti valranno, salute! NA Convenzione essendo stata conchiusa tra l'Italia, l'Olustria-Angheria, il Belgio, il Brasile, la Confederazione Orgentina; la Danimarca, la Francia, la Germania, la Repubblica Del Peri, ilD. Portogallo, la Rissia la Spagna, gli Stati riti 'America, Svezia e Morvegia, la Confederazione Orizzera…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_31_s1.pdf"
+  },
+  {
+    "document_id": "18750001_16_s1",
+    "title": "Instrument de ratification taïwanais",
+    "year": 1875,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "zh-cn"
+    ],
+    "quality_score": 0.5454,
+    "review_required": true,
+    "review_priority": "high",
+    "text_preview": "Tt JE: EI | 对 NOON NE | 准 从 半 少 Wr Ne 站 半 区 A MN， 昌吉 站 庆 蝶 他 浇 江 国 的 贡 玉 如、 “PX 关 江 漳 虹 《人 术 全 六 咎 名 失 叶 关注 和 Fa - A ペペ \"AAD AAD se a A N 疹 ' ~~ 守 裕和 庄",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_16_s1.pdf"
+  },
+  {
+    "document_id": "18750001_70_s1",
+    "title": "Lettre de l'Ambassadeur de Turquie au BIPM d'envoi de chèque d'adhésion",
+    "year": 1875,
+    "doc_type": "Lettre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8435,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "[o CRE um Ge. lung ess 798 5 Zi | a A eps Zousieur lo Direc 2t9ur, dei LTD de Vous Teire s&rvezir sous ce là, un chèque sur le ZUS de *reace de I07,975,Zrs 28 c, pour le comte du ministère ture de l'EZoonorie Detieusle, en Versenent de TRE isetirn et wes droits d'entrée rele~ tits à l'ednésion du gouverne zut ture gu Buresu Interne ticnal des Foids et Mesures, /— Je vous prie Qe me Zeire tenir quittance en double ex…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Lettre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_70_s1.pdf"
+  },
+  {
+    "document_id": "18750001_30_s1",
+    "title": "Lettre de transmission de la ratification italienne",
+    "year": 1875,
+    "doc_type": "Lettre",
+    "languages": [
+      "it"
+    ],
+    "quality_score": 0.9747,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Derie Politia 07: 883 Noia) 16 Dicembre 1895 Signar Muiblo, etti afpulto di tarmettere as 1.1. le ratifida Delle Convenzione is forza delle quale cine . indeterito si farigi an'afficio permanente d interagina di pesi fitte misure.. Nella scadione in cui di procederà allo. sedendio dela ratifiche didiererei de la 1.1 esprimedle il Petiderio del governo italiano - li vivere entrare in edecuzione la convenzione alla da…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Lettre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_30_s1.pdf"
+  },
+  {
+    "document_id": "18750001_56_s1",
+    "title": "Lettre du Ministre des AE demandant l'adhésion de Singapour",
+    "year": 1875,
+    "doc_type": "Lettre",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "quality_score": 0.9964,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "• SEP/TPN/065/94 L'Ambassade de la République de Singapour présente ses compliments au Ministère des Affaires Etrangères et 丑 l'honneur de transmettre sous ce pli une lettre que Son Excellence le Professeur 5 JAYAKUMAR, Ministre des Affaires Etrangères singapourien, a adressée à Son Excellence Monsieur Alain JUPPE, Ministre des Affaires Etrangères français, concernant l'adhésion de la République de Singapour à la Co…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Lettre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_56_s1.pdf"
+  },
+  {
+    "document_id": "18750001_66_s1",
+    "title": "Note de transmission de la ratification tchécoslovaque",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.93,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "LEGATION DE LA REPUBLIQUE TCHECOSLOVAQUE y 4 Paris 15, Avenue Charles-Floquet, 18 Cr arri) \" N° S5II/sdm/I9£2. $4 JUIN tage mire Monsieur le Président , Je suis chargé de notifier à Votre Excellence que le Gouvernement tchécoslovaque ade hère à la Convention pour la Création d'un Bureau International des Poids et Mesures, signée à Faris le 80 Mai 1875, Ci-jaint j'ai l'honneur de vous soumettre l'instrument de la rat…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_66_s1.pdf"
+  },
+  {
+    "document_id": "18750001_17_s1",
+    "title": "Note verbale d'adhésion de la Chine populaire",
+    "year": 1875,
+    "doc_type": "Note verbale",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9668,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "中华人氏共和 1国大使馆 AMBASSADE DE LA REPUBLIQUE POPULAIRE DE CHINE N° SP 016/77 ARCHIVES ET DOCUMENTATIOM Enregistre «23 MAi 1977) L'Ambassade de la République Populaire de Chine présente ses compliments au Ministère des Affaires Etrangères de la République Française et a I'honneur de porter à sa connaissance ce qui suit: Le Gouvernement de la République Populaire a décidé d'adhérer à la Convention du Mètre, signée le 20 Ma…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Note verbale",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_17_s1.pdf"
+  },
+  {
+    "document_id": "18750001_25_s1",
+    "title": "Note verbale d'adhésion de la Finlande",
+    "year": 1875,
+    "doc_type": "Note verbale",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8546,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "18902 LÉGATION DE FINLANDE 22 tue de la Paix Paria, le 25 0 1. 293.9 Ace. roup, • Saillania DINSTAL SG ALAREESA. CABINES DEMISE D NOV 1920 \"Finira a de sacra Latine Citrique: \"• Monsteur le Préaldente du Consett, Jasin 1991 MONSIEUT detro ayant térité, 9us-to proposition du dossail Ulésin à la colemiode l'atosoa de la unendo a se comi finlande vention du 20 mai Pour aesor 1'urleat1on internationale et perfectionneme…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Note verbale",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_25_s1.pdf"
+  },
+  {
+    "document_id": "18750001_55_s1",
+    "title": "Note verbale d'adhésion à la convention",
+    "year": 1875,
+    "doc_type": "Note verbale",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8537,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Belgrade 1e 9/21 Septembre 1879 Monsieur le Chargé d'affaires, T'as sece la secte que vous a aves faut l'homme. de m'adresser le 30 duit dernier pour me communiquer l'obligeante reponse de votre Gouvernement aux des mandes que vous aviez bien voulu lui transmeller de notre part relativement à l'accession de la Gerbie à la Convention du mitre. Le Genernes Gires a pait exant connais: sance du tente de la Convention si…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Note verbale",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_55_s1.pdf"
+  },
+  {
+    "document_id": "18750001_38_s1",
+    "title": "Note verbale de transmission de l'instrument d'adhésion de la Nouvelle-Zélande",
+    "year": 1875,
+    "doc_type": "Note verbale",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9911,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "46/1/3 26/1/5 Arrivee le 31/05 NOTE NO: 1991/31 L'Ambassade • de Nouvelle-Zélande présente ses compliments au Ministère des Affaires Etrangères, Direction du Protocole, et se référant à la Convention concernant la création d'un Bureau International des Poids et Mesures, faite à Paris le 20 mai 1875 et modifiée a sèvres le 6 octobre 1921, a l'honneur de lui faire parvenir, en tant que représentant de l'Etat dépositai…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Note verbale",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_38_s1.pdf"
+  },
+  {
+    "document_id": "18750001_33_s1",
+    "title": "Note verbale transmettant la lettre d'adhésion du Kazakhstan au BIPM",
+    "year": 1875,
+    "doc_type": "Note verbale",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "quality_score": 0.9704,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "КАЗАКСТАН РЕСПУБЛИКАСЫНЫЙ ФРАНЦИЯДАРЫ ЕЛИЛІ AMBASSADE DE LA REPUBLIQUE DU KAZAKHSTAN EN FRANCE A3 Hi Nº 31/A22 L'Ambassade de la République du Kazakhstan en France présente ses compliments à la Direction de l'Europe Continentale du Ministère des Affaires Etrangères de la République Française et a l'honneur de lui faire parvenir en annexe en anglais la lettre d'adhésion de la République du Kazakhstan vers la Conventi…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Note verbale",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_33_s1.pdf"
+  },
+  {
+    "document_id": "18750001_57_s1",
+    "title": "Notification aux Etats-membres de l'adhésion de Singapour",
+    "year": 1875,
+    "doc_type": "Notification",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9767,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "i MINISTERE DES AFFAIRES ETRANGERES DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES --- Sous-Direction des Questions Politiques -- Responsable du dossier : M-F. CARBON Tél. 47.53.46.65 NºS6O NUOI/P REPUBLIQUE FRANCAISE Paris, le 19 juillet 1994 ARCHIVES ET BOLUMENER ! Enreçistre Trates. LE MINISTRE DES AFFAIRES ETRANGERES MONSIEUR L'AMBASSADEUR DE FRANCE. (destinataires au verso) Als, Adhésion de la…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Notification",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_57_s1.pdf"
+  },
+  {
+    "document_id": "18750001_27_s1",
+    "title": "Notification aux Etats-membres de l'adhésion de l'adhésion de l'Iran",
+    "year": 1875,
+    "doc_type": "Notification",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9289,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "JCP/MP MINISTÈRE DES AFFAIRES ÉTRANGÈRES DIRECTION DES CONVENTIONS DMINSTRATIVE T DES AFFAIRES CONSULAIRE UNIONS INTERNATIONALES 23, rue La Pérouse - PARIS XVI il. 553.52.0 20 man 1 875 out 21 RÉPUBLIQUE FRANÇAISE PARIS. LE 26FEV1975-0101053 17. 29 0a 1 (4)/39 IE LINISTRE DES AFTAIRES BURUNGERES à MONSIEUR L'ANBASSADEUR DE TRANCE A/s. Adhésion de l'Iran à la Convantion du Latre . Le gouvernement du pays de votre rés…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Notification",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_27_s1.pdf"
+  },
+  {
+    "document_id": "18750001_41_s1",
+    "title": "Notification aux Etats-membres de l'adhésion du Pakistan",
+    "year": 1875,
+    "doc_type": "Notification",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.958,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "JP/ML MINISTÈRE DES AFFAIRES ÉTRANGÈRES DIRECTION DES CONVENTIONS ADMINISTRATIVES ET DES AFFAIRES CONSULAIRES UNIONS INTERNATIONALES 23, tue Lo Pérousa - PARIS XVI* Tel. 553.52.00 RÉPUBLIQUE FRANÇAISE PARIS, LE 18 JUIL 1973~004016 I. 29 0a 1 (4) / 57 LE MINISTRE DES AFFAIRES ETRANGERES A MONSIEUR L'AMBASSADEUR DE FRANCE A/s. Adhésion du Pakistan à la Convention 192 née à sèvres 1e Ie gouvernement de la République Is…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Notification",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_41_s1.pdf"
+  },
+  {
+    "document_id": "18750001_62_s1",
+    "title": "Notification d'adhésion de Taïwan aux Etats-membres (consignes aux ambassadeurs sur la position française vis-à-vis de la Chine",
+    "year": 1875,
+    "doc_type": "Notification",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9778,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "JI/MP MINISTERE .\" AFFAIRES DIRECTION DES_CONVENTIONS ADMINISTRATIVES ET DES AFFAIRES CONSULAIRES Unions Internationales ARCHIVES DIPLOMATIQUES ET DOCUMENTATION, Enregistre 10 2 7 0CT. 1964 REPUBLIQUE FRANCAISE Paris, 1e270C11964- / Iº 29 0a 1 (4)/16 LE MINISTRE DES AFFAIRES ETPANGERES a 05939 A/s. Adhésion des Autorités de Taïpeh à la Convention du Mètre. — Les Autorités de Taipeh ont fait remettre au Département p…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Notification",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_62_s1.pdf"
+  },
+  {
+    "document_id": "18750001_71_s1",
+    "title": "Pouvoirs de négociation et de signature du Venezuela",
+    "year": 1875,
+    "doc_type": "Pouvoirs",
+    "languages": [
+      "es"
+    ],
+    "quality_score": 0.8293,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Diego Bantista Orbaneja, Ministro de Relaciones Intoriones Enca Onidos de Nenezuela Il litos lis que las presentes vieren, Tulio?!. valor cuantó, el Gobiernó de, los Estados Onidos de rencia diplomático convocada por el Gobierno de la iRe piblica Francesa con cholyeto de asegurar una organisacion internacional á los trabajos de la Comision del Metro, a depónito de los patrones y dia conservacione usó posterior, de e…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Pouvoirs",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_71_s1.pdf"
+  },
+  {
+    "document_id": "18750001_45_s1",
+    "title": "Pouvoirs de signature du Portugal",
+    "year": 1875,
+    "doc_type": "Pouvoirs",
+    "languages": [
+      "pt"
+    ],
+    "quality_score": 0.9196,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Pai do heino, Ministro d'Estado Hinosario » Meus Envirão tetras dinario e Menistio Harpo. Anciarios em tranços Amigo: Quemão raniades e Parig a Confermeia, intenneion gomnto, mentor, consummados aptidão e nelo polo derro publico, Honros pos ban homerovas como pas ! representante replanotico pas parte de Ebates nerliados tel do acho somendes. O que na fiarece commo rucarvos, pares vaso untalligancico e detifição Ito…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Pouvoirs",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_45_s1.pdf"
+  },
+  {
+    "document_id": "18750001_73_s1",
+    "title": "Procès verbal d'échange des instruments de ratification du Venezuela",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8035,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "France, Racis Verbal d'échange). Les Soussignés scane réunis pour procèder à l'échange des Karificationo de ton incellence le 'resident de la Republique) Française en de Son lacellence le Orecident de la Republique de Vénézuila ser la Convention vigné à Dario, Le20 mai 1875, - dans le bus-d'aforrer l'empiration internationale et les perfectionnenens du Systoine métrique; - des Instrinenta de cet Acte ont été produit…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_73_s1.pdf"
+  },
+  {
+    "document_id": "18750001_69_s1",
+    "title": "Procès verbal d'échange des ratifications",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.814,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "該amnee.- pree Pioces verbal d'échange! des tousignes d'étant termes pour parder de l'échange des Matifications de Von Oxcellence le Président de la Pépublique Irancaise et de da Majesté l'Empereurdes (Ottomano, aur la convention signée à Pario, le 20 Mai 1895, dans lebrat d'anarer l'aidication internationale et le perfectionnement du Système métrique, Yes notruments de cet acte ont eté produnti et apres examen, trou…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_69_s1.pdf"
+  },
+  {
+    "document_id": "18750001_43_s1",
+    "title": "Procès verbal de dépôt de l'instrument d'adhésion du Pérou",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9614,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Thance Proces-verbal d'échange. des sorosignes s'elant reunis pour proceder a l'échange des Patifications de don Excellence le Présiders dela République Prancaise et de Son Excellence le Thésident de la Republique du Peror, our la convention signéé à Pario, le so Mai 1945, dano le but d'avourer 'unification internationale et le perfectionnement du sapoteme metrique; des Anotumento de cet recto mut ete products et, a…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_43_s1.pdf"
+  },
+  {
+    "document_id": "18750001_29_s1",
+    "title": "Procès verbal de dépôt de l'instrument d'adhésion israélien",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9872,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT D'ADHESION DE L'ETAT D'ISRAEL A LA CONVENTION POUR ASSURER L'UNIFICATION INTERNATIONALE ET LE PERFECTIONNEMENT DU SYSTEME METRIQUE (ENSEMBLE DEUX ANNEXES) SIGNEE A PARIS LE 20 MAI 1875 TELLE QUE MODIFIEE PAR LA CONVENTION FAIT A SEVRES LE 6 OCTOBRE 1921 S. Exc. M. Ovadia SOFFER, Ambassadeur Extraordinaire et Plénipotentiaire de l'Etat d'Israël, s'est présenté aujourd'hui au Min…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_29_s1.pdf"
+  },
+  {
+    "document_id": "18750001_47_s1",
+    "title": "Procès verbal de dépôt de l'instrument d'adhésion portugais",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8779,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Proces-verbal d'échange). des corsignés d'étort sérais parer parcéder à l'échange des Rátifications de son Excellence le) Président de la République Orancaire et de la Majesté le Roi de Portugal et des Algarre, sur la conventionn oignée à Paris, lero Mai 1845, dans le but d'assurer limi- fication et le perfectionnement du Ayoteme métrique; Les Inotruments de cet A dé ont été produits et apréo examen, trouvés en bonn…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_47_s1.pdf"
+  },
+  {
+    "document_id": "18750001_20_s1",
+    "title": "Procès verbal de dépôt de l'instrument de ratification",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8422,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "France. Danemard) Proces verbal d'échange. Président de la République Francaise et de la) Majesté le Moi de Danemark, sur la convention vignée à Paris, le 20 Mai 1895, dano le but d'amarer dinification internationale et le perfectionnement du Destème mitrique, deatinotrumento de cet Acti ant été produits, et, après examen, trorivé en borme et dureforme. Aura termes des dio postions adoptéra en conférence, le 20 mai…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_20_s1.pdf"
+  },
+  {
+    "document_id": "18750001_22_s1",
+    "title": "Procès verbal de dépôt de l'instrument de ratification",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8252,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Трати. Proces verbal d'échange. des soussignes s'étant rénnio purer procider a l'échange des Matificationo de don Garcellence le. Président de la République Transcine et le la Majesté le Roi d'Ecopagne, sur le convention signée à Vario le ao mai 1945, dansle bent d'avouer l'unification internationale et le perfectionnement du Depoteme métrique: des Inotrumento de cet acte ont étte produito et, après examen, trouvé e…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_22_s1.pdf"
+  },
+  {
+    "document_id": "18750001_32_s1",
+    "title": "Procès verbal de dépôt de l'instrument de ratification de l'Italie",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8497,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Procès-verbal d'échange. des soussignes s'étantreunis pourprocéder ci l'echange des Ratifications de Jon Excellence leChésident de la République Francaise et de la Majesté le Moi d'Malie, sur la Convention signéé à Pario, lero mai 1895. dano lebrat d'avouer l'unification internationale et. le perfectionnement du Dysteme métrique, des Irstrumento de cet acte ont été producto et, aprés examen, torivés en bonne et due…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_32_s1.pdf"
+  },
+  {
+    "document_id": "18750001_53_s1",
+    "title": "Procès verbal de dépôt de l'instrument de ratification de la Russie",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8613,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Prance, Nume Procès verbal d'échange. des sonorignés d'étantireunes pour proceder di l'échange des Ratificationo de lon Macellence le Président de la République Française et déta Majesté l'empereur de torités les Russico, sur la convention signée à Daris, le 90 mai 1895, dano le but d'assurer l'unification internationale elle perfection nement de systeme métrique, des Anotrumento de cet acte ont été proderito et, ap…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_53_s1.pdf"
+  },
+  {
+    "document_id": "18750001_10_s1",
+    "title": "Procès verbal de dépôt de la ratification",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8437,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Franca Procès Verbal d'échange. Les Soussignés s'étans éunis pour procéder à l'echange des Ratificationo de Son lacellence le Président de la République Françaire et de Son Aecellenc le Frésiden de la Confédération Argentine our la? Conventión signée à Pario, le Romai 18%5, dano le but d'afrurer l'unification internationale et-les perfectionnement de Lyatime métrique, - les Inotrean de ces Acte ons été produito et,…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_10_s1.pdf"
+  },
+  {
+    "document_id": "18750001_15_s1",
+    "title": "Procès verbal de dépôt de la ratification",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8642,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "France? Proces-verbal d'échange. . Les sonsoignés étant reunis pour procéder à l'échange des Ratifications de Son Excellence le Président de la Poépubliqu Francaise ot de la Majesté le Moi des Belgeo, sur la Convention, oignée a Dario, le20 Mai 1845, dano le brat d'assurer l'unifica- tion internationale et le perfectionnement de lajoteme métrique: Les 'Instrumento de cet acte ont été produito et, après examen, trouv…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_15_s1.pdf"
+  },
+  {
+    "document_id": "18750001_36_s1",
+    "title": "Traduction française de l'instrument suédo-norvégien",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8247,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Traduction. Aous Arcan, par la Grace de Biau, Pai de Luide et de tonnéze des Buttes et dis Tendales sois parions, qu'aant die consent tira, Lidutichu, Abongrie, la Selgique, le Brisil, le Danemark, l'Espagne, le Chate Unio dl: Aminiqua, la France, l'Italia, le Pérou, le Portugal, la Ruasie, la Suisse, la Turquie et le Vomirciala jugé bon et utile d'entrer en négociations pour la conclusion d'une convention concernan…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_36_s1.pdf"
+  },
+  {
+    "document_id": "18750001_64_s1",
+    "title": "Transmission de la note de la Bulgarie sur l'adhésion de Taïwan",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9791,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "4 € JLT/HJ MINISTERE des AFFAIRES ETRANGERES DIRECTION DES CONVENTIONS ADMINISTRATIVES ET DES AFFAIRES CONSULAIRES Unions Internationales REPUBLIQUE FRANCAISE PARIS, le 22 FEV 1965 - 1066 / T.29.0.a. 1(4) 16 LE MINISTRE DES AFFAIRES ETRANGERES à MONSIEUR L'ANBASSADEUR DE FRANCE A/s, Adhésion des Autorités de Taipeh à la Convention du Mètre. 1111=1 Les Autorités de Taipeh ont fait remettre au Dépar- tement par I'Amba…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_64_s1.pdf"
+  },
+  {
+    "document_id": "18750001_63_s1",
+    "title": "Transmission de la note de la Roumanie sur l'adhésion de Taïwan",
+    "year": 1875,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9757,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "Au 23-1 JLT/HJ MINISTERE des AFFAIRES ETRANGERES DIRECTION DES CONVENTIONS ADMINISTRATIVES ET DES AFFAIRES CONSULAIRES Unions Internationales REPUBLIQUE FRANCAISE PARIS, le 14DEC1964- 06906 / T.29.0 a 1 (4) 16 LE MINISTRE DES AFFAIRES ETRANGERES ả MONSIEUR L'AMBASSADEUR DE FRANCE A/s. Adhésion des Autorités de Taipeh à la Convention du Mètre. les Autorités de Taipeh ont tait remettre du Departe- ment par l'Ambassade…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18750001_63_s1.pdf"
+  },
+  {
+    "document_id": "18970019_001_s1",
+    "title": "Accord",
+    "year": 1897,
+    "doc_type": "Accord",
+    "languages": [
+      "ca",
+      "de",
+      "en",
+      "fr",
+      "it",
+      "no",
+      "ro"
+    ],
+    "quality_score": 0.7801,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "53ヶ Narfinn in Angiazzng irrfae, ll pnirtanaaaranl ht m.ltijrutil figeeren im Pina sinal gegarfait igara ine-fitzungen in Dahomey ipret in ilinitalis i trafer sapitängen in riraercicinnneartaatrtisrot.n Jogo katersitete Alle ense / jiluanel in tretres in drall ină Mistpar leit zãe ncnnu den lro, hres oireierpres: mánilig: fun ftcattuan, ( Pine callonz dor Mi, linliil Nrtreret nifer sur anbinästigen le, •Miviler de f…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Accord",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18970019_001_s1.pdf"
+  },
+  {
+    "document_id": "18970019_003_s1",
+    "title": "Procès-verbal d'échange des ratifications",
+    "year": 1897,
+    "doc_type": "Procès-verbal",
+    "languages": [
+      "ca",
+      "en",
+      "fr"
+    ],
+    "quality_score": 0.7528,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "éftncis.Pcrbal. frosta koll lias laniliin iilael séraeis Arnicinm ein Mentasznifnatan hir eme hem. javr pasereesri ditinnne dee- mal nane, üm Dau. Mülteru lef ine (harti. nlijintinne de tâcéitat dele -'itrrdionas ino Piriniombon en inagó, Meprottigon draminier oo de dollaje fien Aasiiblik ini baimnr dberfaföit ired itinyjrrcen@draliennqur.hric Madian Arino. Ninivo\" yon. erú. Jirwur, cirertn Craeratines seurter =/ms,…",
+    "tags": [
+      "century:c19",
+      "corpus:traites",
+      "doc_type:Procès-verbal",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/18970019_003_s1.pdf"
+  },
+  {
+    "document_id": "19130002_001b_s1",
+    "title": "Compromis général d'arbitrage",
+    "year": 1913,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8491,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "CN En vue de résoudre en droit et sn aquite et de tecler définitivement lea réclam&ilons des IT&nosis et nrotérén Frenseis qui, concernent des füiis antérieurs Bu LL Témous 132) (24 Juillet 1908) ont sta formulées &uprbas de l8 PBublimeo Porte evant la date du present compromis General d'&Tbi- LO par l'ambpasssie de Frerce B Oonstauntinople st n'ont pas encore requ de solution, et &ussi celles qui, concernint aem TA…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19130002_001b_s1.pdf"
+  },
+  {
+    "document_id": "19130002_011_s1",
+    "title": "Protocole de signature",
+    "year": 1913,
+    "doc_type": "Protocole",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8672,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "P#02000LE . D'acoord et le comprenta d'arbitrage pignés à la date de ce jour par Bon ixcellence 1 ambesandeur de trence et son Altesse le Grand Vieir ne devent produtre leuro eftete qu'aprés avold obtert le sanction Inpériale, 11 est entendu entro lee sirataites que cette banction sere demendée à se mifesté le Bultan en mêmo tempo que celle des contrete et des arrangements à conclure à Parie en exécution de L'entent…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Protocole",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:nineteenth_century_1816_1913",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19130002_011_s1.pdf"
+  },
+  {
+    "document_id": "19150010_lettre-france_s1",
+    "title": "Copie conforme de la lettre française",
+    "year": 1915,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9736,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "/ Copie Marine 21 13ky5, le 23 Avril 1915 5 L° Ambassadeur de la République Française au Japon à Son Excellence le Baron Rato, Miniatre Inpérial des Affaires Rtrangères, du Japon. Monsieur le Baron, Comme suite à l'acceptation, par le Gouvernement de la Républigue, de la proposition du Gouvernement Impérial tendant à règler désormais par un simple échange de lettres la guestion de l'entretien at de l'administration…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19150010_lettre-france_s1.pdf"
+  },
+  {
+    "document_id": "19150010_lettre-japon_s1",
+    "title": "Traduction de la lettre japonaise",
+    "year": 1915,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.993,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "五一116一！ 21. Juin 915 rakyã, le 15 Avril 1915. Praduotion Copie. \"Le Baron Kato, Ministre des Affaires: Etrangères à Son Excellence Monsieur E.: Regnault, 'Ambassadeur de France au Japon :Par Sa lettre No.43 du 13 Mai de l'année dernière, Vo- \"tre Excellence n'a fait savoir que le Gouvernement de la Républigue adbérait à la proposition du Gouvernement Impérial qui désirait règler désormais par un simple échange de le…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19150010_lettre-japon_s1.pdf"
+  },
+  {
+    "document_id": "19190006_001_s1",
+    "title": "Accord",
+    "year": 1919,
+    "doc_type": "Accord",
+    "languages": [
+      "ca",
+      "de",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "pt",
+      "ro"
+    ],
+    "quality_score": 0.9684,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "and Jaran. et associeps: NIE. VAKIA. VAQUIE, Constituant, avec les Prin- These Powers constituting, cipales Puissances ci-dessus, with the Principal Powers les Puissances alliées et asso- mentioned above, the Allied ciées, and Associated Powers, d'ane part; of the one part; EL LA BULGARIE. dautre part: of the other part; TA. B. dall' aitra; -4- Considérant qu'à la deman- Whereas on the request of Considerando che, a…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Accord",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_001_s1.pdf"
+  },
+  {
+    "document_id": "19190006_002_s1",
+    "title": "Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
+    "year": 1919,
+    "doc_type": "Convention",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9672,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "Ainsi quil est prévu a l'article 56, alinéa 2 du Traité de paix avec la Bulgarie conclu le.... et conformement a la decision des Principales Puissances alliées et associées en date du.... et ainsi conçue : « Vu l'article 56, alinéa a du Traité de pair avec la Bulgarie, les Principales Puissances alliées et associées jugent opportun que l'émigration réciproque et volon- taire des minorités ethniques, de religion ou d…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Convention",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_002_s1.pdf"
+  },
+  {
+    "document_id": "19190007_07_s1",
+    "title": "Exemplaire de l'Illustration du 17 janvier 1920",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "de",
+      "en",
+      "fr"
+    ],
+    "quality_score": 0.9172,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "N° 401) « 78\" ANNÉE 17 Janvier 1920 |. JOURNAL UNIVERSEL -— - | HEBDOMADAIRE E Les droits de reproduction des photograpbies, dessins, cartes el articles publiés par L'ILLUSTRATION sont réservés pour fous pays. . + PE METRO ABONNEMENTS | . payables en billets de la Banque de France, mandats, bons de poste ou chèques à l'ordre de L’Titustration {Chèques postaux : Compte 2101 Paris), à Un an. 8o fr. Un an. 100 fr. FRAN…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_07_s1.pdf"
+  },
+  {
+    "document_id": "19190007_06_s1",
+    "title": "Exemplaire de l'Illustration du 6 septembre 1919",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "af",
+      "ca",
+      "de",
+      "en",
+      "fr",
+      "no",
+      "pt"
+    ],
+    "quality_score": 0.8821,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Crimina entient le Fac-similé en couleurs ¿ DOCUMENT HISTORIQUE. 6 Septembre ig19 5 Penipotentit Ses qui ont signé I fr. 75 de tous les Trailote Versailles. LILLUSIRATION JOuRNAL UNIVERSEL ٨٩٥٩٦٣٢ Les droite de reproduction des photorranhies, desins, cartes el arlicles publiés par L'ILLUSTRATION ront réterués pour tous pays. ABONNEMENTS pavables en billets de la Banque de France, mandats, bons de poste ou chèques à…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_06_s1.pdf"
+  },
+  {
+    "document_id": "19190006_096_s1",
+    "title": "Instrument de ratification belge de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8973,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "Orges, à tous présents et à venir, Salut. Gyanh vu et examine le traité de Saix ch le Protocole signéo à Neuilly out Seine le 27 no- vembre 1919 entre les Suissances alliées et Gooccices d'une park, et la Bulgarie, d'autre part, par 960s Pénipolentiairco munis de pleino pouvoiro spéciaux avec les Plénipotentiaires également munio de pleino pouvoiro en bonne eh que forme de la part des Puissanceo représentées aux Con…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_096_s1.pdf"
+  },
+  {
+    "document_id": "19190006_731_s1",
+    "title": "Instrument de ratification britannique de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "en"
+    ],
+    "quality_score": 1.0,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "George, be the Grace of God, of the United kingdom of Great Britain and freland and of the Iritish Dominions beyond the Seas ling, Defender of the faith, Emperor of 3ndía, &c., Sc., Sc. To all ano singular to wbom tbese Presents shall come, Greeting ! Tubereas a Treaty between Us and the Powers and States therein specified, providing for the termination of the State of War existing between certain of the Allied and…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_731_s1.pdf"
+  },
+  {
+    "document_id": "19190006_151b_s1",
+    "title": "Instrument de ratification bulgare de la Convention entre la Bulgarie et la Grèce",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "bg",
+      "fr"
+    ],
+    "quality_score": 0.9295,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "RATIFICATIONS de Sa Majesté le ROI des BULGARES sur la Convention d'émigration conclue le 27 Novembre 1919 à Neuilly-sur-Seine entre la Bulgarie et la Grèce. BORIS III ROI DES BULGARES A tous présents et à venir, Salut. Après que le Sobranié Bulgare, dans sa XVIII me Session Ordinaire, l'a votée et acceptée, ayant vu, examiné, sanctionné et fait promulguer la Convention d'émigration conclue le 27 Novembre 1919 à Neu…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_151b_s1.pdf"
+  },
+  {
+    "document_id": "19190006_151a_s1",
+    "title": "Instrument de ratification bulgare du Traité de Paix",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.98,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "RATIFICATIONS de Sa Majesté le ROI des BULGARES sur le Traité de Paix conclu le 27 Novembre 1919 à Neuilly-sur-Seine entre la Bulgarie et les Etats-Unis d'Amérique, l'Empire Britannique, la France, I'ltalie, le Japon, la Belgique, la Chine, le Cuba, la Grèce, le Hedjaz, la Pologne, le Portugal, la Roumanie, l'Etat Serbe-Croate-Slovène, le Siam et la Tchéco-Slovaquie. BORIS III ROI DES BULGARES A tous présents et à v…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_151a_s1.pdf"
+  },
+  {
+    "document_id": "19190006_796_s1",
+    "title": "Instrument de ratification du Royaume des Serbes, Croates, Slovènes de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8558,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Voir texte 19190006 01 sur bobine b253 Au mone de La Maicote •Viette) -Maxandre ticilier de Poine a tous ceux qui tes présentes lettres verront faisons savoir. Un Truité de Puix avant ite conde et signera Neuilly- ave-Seine' le 27 novembrel 1919 par le a as Via mexique empira Britanique: des Serbes, Croates et Slovènes, de Siam/et la Echéco- Constituant avec les Principales Pissances ci-dessais les Puidsances allice…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_796_s1.pdf"
+  },
+  {
+    "document_id": "19190006_326_s1",
+    "title": "Instrument de ratification français de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "es",
+      "fr"
+    ],
+    "quality_score": 0.8454,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Ratifications au Présidens de la République Trançaise sur le traite de Haix concia Nevit sur teine le 31 Novembre 1919 entre la France les Gtals Unia diAmérique l'Empire Britanniqueil Halie. et le lapon: Frincipales Fussances allies et associces ta belgique la Chine Cuba la Grèce. le Hedias la Folione le Fortugal l'Etat Serbe Croate Hovène le tiam et l'otat (chico Ho vaque dine part et la Bulgarie d'autre part ainsi…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_326_s1.pdf"
+  },
+  {
+    "document_id": "19190006_351a_s1",
+    "title": "Instrument de ratification grec de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "en",
+      "es",
+      "it",
+      "pt"
+    ],
+    "quality_score": 0.7986,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Baoyeis zoo Epiocas ¿oranodiooo dendror igpároo trovo urraji Suão nai ägda 296 mai zoü cagno muigo airț aguzonóyor io zö uisegoy tarce. Voir texte 19190006 01 sur bobine 6253 E + 3 M. RUSTEM HAÏDAR. AQUXI ABDUL-HADI. L. GRABSKI. ST. PATEK. — ,. AFFONSO COSTA. JAYME BATALHA, REIS, , NIK. P. PACHITCH. Da. ANTE TRUMBIC. Dr. IVAN ZOLGER. . CHAROON. -à Dr. EDVARD BENES. STEFAN OSUSKY. AL. STAMBOLIISKI. XX aoowon toa, Ua…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_351a_s1.pdf"
+  },
+  {
+    "document_id": "19190006_351b_s1",
+    "title": "Instrument de ratification grec de la Convention entre la Bulgarie et la Grèce",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "es",
+      "fr",
+      "it"
+    ],
+    "quality_score": 0.8863,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Oligarcoos Bacetes sin Ellinu Sern to po tien en bite fo de i argos. Ainsi qu'il est prévu à l'article 56, alinéa z du Traité de paix avec la Bulgarie conclu le 27 novembre 1gag el conformément à la décision des Principales Puissances alliées et assocides en date du 27 novembre 1g1g et ainsi conçue : * Vu l'article 50, alinéa a du Traité de paix avec la Bulgarie, les Principales Puissances alliées et associées jugen…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_351b_s1.pdf"
+  },
+  {
+    "document_id": "19190006_436_s1",
+    "title": "Instrument de ratification italien de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "it"
+    ],
+    "quality_score": 0.9517,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "VITTORIO EMANUELE M. PER GRAZIA DI DIO E PER VOLONTÀ DELLA NAZIONE RE D'ITALIA El tutti coloro che le presenti velzanno, salute: Un Trattato, che stabilice le condizioni di pace tra l'Italia con te altre. Edorge alleade ed enasociate e la Bulgaria, essendo-stalo dai rispellivi lenipertengine sotterrale a tuel se Fine il 94. Povembre 1919; Eraltato del tenora seguente: Voir texte 19190006 01 sur bobine b253 Doi, aven…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_436_s1.pdf"
+  },
+  {
+    "document_id": "19190006_446_s1",
+    "title": "Instrument de ratification japonais de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "ko",
+      "zh-cn"
+    ],
+    "quality_score": 0.6748,
+    "review_required": true,
+    "review_priority": "high",
+    "text_preview": "Voir texte 19190006 01 sur bobine 6253 2 | 人 愉 湛 评 全 和、 器 长 铅 o4{ 才 和 委 半 这 ~ 和 2 梯 ， ‘fof ,Kx 尝 攻 于 < 十 民 ye 闯 因 岂 区 入 ~ 一 EE 风 光 讼 全 如 处 从 蚜 水 雹 加 如 当 ( Ba Bos 外， BE KK、 区 二 生 中 z Tp = 全 AoA 六 巡 沁 对 区 过 汉 和 可 吉 训 从 和 Ym 要 家 柱 x : Pop 人 二 避 < 十 {9 长 叶 十 ES A ee IN A | A ( ( ( !",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_446_s1.pdf"
+  },
+  {
+    "document_id": "19190006_716_s1",
+    "title": "Instrument de ratification portugais de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "pt"
+    ],
+    "quality_score": 0.9188,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "António José de Almeid; residente da Meniblica aportuguesa pelo toto do Congressa Laço sabor, aos que a presente Carta de Confirmação e Reuti ficação virem, que, aos cente e sete de Novembro de mil novecentos e desemar, foram assinales em Nouilly-duto Seine, entie Polugal, os Estados Venides de Smória, a Ampério Britinica, a França, a estilu, o Japão, a Piélgica, a Clina, Cuba, a Guécia, o Hecajaz, aPolonia, a Romén…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_716_s1.pdf"
+  },
+  {
+    "document_id": "19190006_886_s1",
+    "title": "Instrument de ratification thailandais de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Instrument de ratification",
+    "languages": [
+      "en",
+      "th"
+    ],
+    "quality_score": 0.8937,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "สมเด็จพระรามาธิบกีศรีสินทรมหารจิก พระบงกุฎเกล้าเจ้ากรุงสยาม ทั้งผ้ายเหนือ, ผ้ายใต้และ คินแคนตั้งหลายที่ใกล้เคียง คือ สาวเฉียง, สาวกาว, มลาบูลกเหรี่ยงและอื่นๆ 1สฯ ฯลฯ ฯลฯ ขอประกาศแก่ท่านทั้งหลายทั้งปวงซึ่งจะได้ พบประกาศนี้ให้ทราบว่า 1 หนังสือสัญญาฉบับหนึ่งว่าด้วย สันศิภาพจึ่งได้ทกลงกันที่เนยบัณแม่น้ำเซนเมื่อวันที่มส พฤศริกายน พุทธศักร๒น๒ ในระหว่างรัฐษสราช สัมพันธมิตร์สหิตประเทศรวมทั้งรัฐบาลสยามด้วยผ้ายหนึ่ง กับประเทศ…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Instrument de ratification",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_886_s1.pdf"
+  },
+  {
+    "document_id": "19190007_05_s1",
+    "title": "Liste des plénipotentiaires",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "en",
+      "es",
+      "fr"
+    ],
+    "quality_score": 0.9441,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "LISTE DES PLENIPOTENTIAIRES DANS L’ORDRE CI-INOLUS, PEE gag ETATS-UNIS D’AMERIQUE: L'Honorable Woodrow WILSON, L'Honorable Robert LANSING, L’Honorable Henry WHITE, L'Honorable Edward MeHOUSE, Le Général TASKER E. BLISS. EMPIRE BRITANNIQUE: Le Trés Honorable David LLOYD GEORGE, Le Très Honorable Andrew BONAR LAW, Le Trés Honorabls Vicomte MILNER, Le Très Honorable Arthur James BALFOUR, Le Très Honorable George Nicoll…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_05_s1.pdf"
+  },
+  {
+    "document_id": "19190006_447_s1",
+    "title": "Note de transmission de l'instrument japonais",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8816,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "Paris, 26 wai I92I à L'Amhessadeur du Japon à Paris à M, le Président du Conseil, Ministre des Affaires Etrancères. Le Gouvernement du Lagon vient de me fairs savoir que BA Majenté l'Empereur, Mon Auguste Souverain, a ratifié , en date du 25 mei I921, le Traité de Paix avea la Bulgerie et le Protocole y annexé » signés à Xeuilly-sur-Seine le 2? novembre 1919. En conformité des clauses finales dudit Traité, j'ai l'ho…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_447_s1.pdf"
+  },
+  {
+    "document_id": "19190006_449_s1",
+    "title": "Note verbale du protocole à l'Ambassade du Japon (ensemble un état des ratifications des Traités de Paix par chaque puissance signataire, exception faite du Japon)",
+    "year": 1919,
+    "doc_type": "Note verbale",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.8436,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "k rd R. Ministère RÉPUBLIQUE FRANÇAISE M ee ie pe mum de Kote pour l'Anbassade du JAPON étrangers Ris ke m 50. Wovenbre-19269 <-—- En réponae à sa note du 22 Septeubre dernier, ls Service du Protocole a l'honneur de gormmiquer ci-joint à l'Anbassade du Japan uns Liste sur laquelle sont indiquees les dates de ratifications ( non Lua dates de dept des rütifications ) de chaque Pulasanoss signataire | exception faite d…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Note verbale",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_449_s1.pdf"
+  },
+  {
+    "document_id": "19190007_11_s1",
+    "title": "Pouvoirs",
+    "year": 1919,
+    "doc_type": "Pouvoirs",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.843,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Albert, Roi des Belges, ayant été invité à désignet des folé. nipotentiaires pour prendre part aux Confécences, qui de réunitant paur pré. passe, negreies et conclure les traités de paie qui mettront fin à la queee. dano laquelle la Belgique de traue impliquée, à ceo coudeo nous confiant entierement en la capacité, le sele et le devouement de Monsieu foxul SOymans, Officicr de l'Oxore de Léopold, Grand Croix de l'Or…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Pouvoirs",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_11_s1.pdf"
+  },
+  {
+    "document_id": "19190007_10_s1",
+    "title": "Pouvoirs (Londres, 01/01/1919 et 14/10/1919)",
+    "year": 1919,
+    "doc_type": "Pouvoirs",
+    "languages": [
+      "en"
+    ],
+    "quality_score": 1.0,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "Spong-s George, by the Grace of God, of the United Kingdom of Great Britain and Ireland and of the British Dominions beyond the Seas King, Defender of the Faith, Emperor of India, etc., etc., etc., Io all and singular to whom these Presents shall come, Greeting! Whereas for the better treating of and arranging certain matters which are now in discussion, or which may come Into discussion, between Us and other Powers…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Pouvoirs",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_10_s1.pdf"
+  },
+  {
+    "document_id": "19190006_095_s1",
+    "title": "Pouvoirs belges",
+    "year": 1919,
+    "doc_type": "Pouvoirs",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.7969,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "Nous Albert, Roi des BeLars, zésirant arréter se concerance les ailéquis de Suissant alliéro el adocié dane parta, et les délé gues de Sa Plageolé le Roi des Bulgares, d'autre part, le Traité se Laix entre les biles frisance et la Bulgarie à co cades el Tout confiant entièrenant en la capacite, lo bile et le dévouement de Marniens Rolin Inegerzyna, itembre de l'Inattat de droit international privé Secrétaire Sénéral…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Pouvoirs",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_095_s1.pdf"
+  },
+  {
+    "document_id": "19190006_795_s1",
+    "title": "Pouvoirs du Royaume des Serbes, Croates, Slovènes",
+    "year": 1919,
+    "doc_type": "Pouvoirs",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.7869,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "de raba Alejeder \"Pirate! par la grâce de Dieu et la volante nationale Roi dententes, Quates et Everos Heauntre Hecte du Crinel Paix de 1 tigler Blano eto eto, ancien Pérdent du Comasilider Ministes es présents puleins pouvais pour enter not, procéderiau stépet de lora. lification sur le Oraite de Pao conduiente le Ruinancia Alices et Associées d'une part et la Bulgario dinte part, signe a Mouilly res seines le 47 т…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Pouvoirs",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_795_s1.pdf"
+  },
+  {
+    "document_id": "19190006_880a_s1",
+    "title": "Pouvoirs tchécoslovaques",
+    "year": 1919,
+    "doc_type": "Pouvoirs",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9633,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "Thomas Go Masar Président de Ia République Ichécoslovaque tols ceur 9¼1 ¢e8 présentes lettres verront, Salut: - La Nation Tchécoslovaque d'est rangés, dès la début de la guerre, du oûté des Alllás et est restée Loyalement dévouée à la cause communo jusqu'à la victoire finale. Pénétré de ces sentiments de loyauté Inébranlable et animé du désir de mettre un terme aux calamités de la guerre actuelle ainsi que de contri…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Pouvoirs",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_880a_s1.pdf"
+  },
+  {
+    "document_id": "19190006_880b_s1",
+    "title": "Pouvoirs tchécoslovaques",
+    "year": 1919,
+    "doc_type": "Pouvoirs",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9525,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "Prósident de la République Tchécoslovaque à tous ceux qui ces présentce lettres verront, Salut: La Nation Tehécoslovaque atest ran- gée, dès le début de la guerre, du côté des Alliés st ect restée loyalement dévoude à la cause commune Jusqu'à le victoire finale. Pénétré de ces sentiments de loyauté inóbranlable ot animé du désir de mettre un terme aux calamites de la guerre actuelle ainsi que de contribuer, en tout…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Pouvoirs",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_880b_s1.pdf"
+  },
+  {
+    "document_id": "19190006_352a_s1",
+    "title": "Procès verbal de dépôt de l'Instrument de ratification grec de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9533,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "PROCES-VERBAL DU DEPOT DE RATIRICATIONS SUR LE TRAITE DE PAIX SIGNE & NEWLLY-SUR-SEINE LE 97 NOVEMBRE 1910 • Entre, d'une part, les Érass Unis d'Amérique, l'Empire britannique, la France, Itate et le Japon, Principales Puissances allées et associées, la Belgiqu • Chine, Cuba, la Grèce, le Hediaz, la Poloone, le Portugal, l'État serb croate-slovene, le Siam el lElat tchéco-stona que, constuuant avec les Principales P…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_352a_s1.pdf"
+  },
+  {
+    "document_id": "19190006_352b_s1",
+    "title": "Procès verbal de dépôt de l'Instrument de ratification grec de la convention entre la Bulgarie et la Grèce",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9828,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "Le CHARGE D'AFFAIRES DE GRECE a Paris sest présente amourd'hui au Ministère des Affaires Etrangères pour procéder, d'accord avec le Prési dent du Conseil, Ministre des Aflaires Etrangeres de la Rénublice fran. çaise, au dépôt de l'instrument des Ratifications de Sa Majesté le Roi des Hellenes sur la Gonvention entre la Grece et la Bulgarie, signée à Neuilly sur seine, le 27 novembre tq1q. Linstrument ayant éte, apre…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_352b_s1.pdf"
+  },
+  {
+    "document_id": "19190006_727_s1",
+    "title": "Procès verbal de dépôt de l'instrument de ratification roumain",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9713,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "Le Ministre de Roumanie à Paris s'est présenté aujourd'hui au Minis- tére des Affaires Étrangéres pour procéder, d'accord avec le Président du Gonseil, Ministre des Affaires Etrangères de la République francaise, au dépôt de l'instrument des Ratifications de Sa Majesté le Roi de Rou- manie sur le Traité de Paix avec la Bulgarie, signé, à Neuilly-sur-Seine, le 27 novembre 1919, ainsi que sur le Protocole portant la m…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_727_s1.pdf"
+  },
+  {
+    "document_id": "19190006_797_s1",
+    "title": "Procès verbal de dépôt de l'instrument du Royaume des Serbes, Croates, Slovènes",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9738,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "PROCÈS-VERBAL DU DÉPÔT DE RATIFICATIONS SUR LE TRAITÉ DE PAIX SIGNÉ À NEUILLY-SUR-SEINE LE 27 NOVEMBRE 1919, Entre, d'une pars, les États-Unis d'Amérique, l'Empire britanrique, la France, ¡lalie et le Japon, Principales Puissances ailiées es associées, la Belgique, la Chine, Cuba, la Grèce, le Hedjaz, la Fulogne, le Portugal, l'État serbe croate-slovène, le Siamett État tchéco-stovaque, constituant arecles Principal…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_797_s1.pdf"
+  },
+  {
+    "document_id": "19190006_448_s1",
+    "title": "Procès verbal de dépôt de l'instrument japonais",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9682,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "PROCÈS-VERBAL DU DÉPÔT DES RATIFICATIONS PAR LE JAPON SUR LE TRAITÉ DE PAIX SIGNÉ À NEUILLY-SUR-SEINE LE 27 NOVEMERE 1919, 4 Entre, d'une part, les États-Unis d'Amérique, l'Empire Britannique, la France, Eltale et le Japon, Principales Puissances allies et associées, la Belgique, la Chine, Cuba, la Grèce, le Hedjaz, la Pologne, le Portugal, l'État serbe- ‘croate-slovene, le Siam et l'Etat tchéco-slovaque, constituan…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_448_s1.pdf"
+  },
+  {
+    "document_id": "19190006_717_s1",
+    "title": "Procès verbal de dépôt de l'instrument portugais",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9061,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "PROCES-VERBAL du dépot des RATIFICATIONS par le PORTUGAL sur le TRAITE de PAIX signé à NEUILLY BUT SEINE le 2 7 Novembre 1919 Entre d'une part, les Etsts-Unia d'Amérique, l'EmpIre Britannique, 1a France, l'Italie et le Japon, Principales Fuissances alllées et easo- cléen, la Belgique, la Chine, Cuba, 1a Grèce, le Hedjaz, la Pologne, le Fortugal ,l'Etat serbe - croute- olovène, le slan et l'Itat Ichéco slotaque, cona…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_717_s1.pdf"
+  },
+  {
+    "document_id": "19190006_882_s1",
+    "title": "Procès verbal de dépôt de l'instrument tchécoslovaque",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9494,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "DEPOT PAR L'ETAT TCHECO-SLOVAQUE DES RATIFICATIONS SUR LE TRAITE DE PAIX SICE NEULLY-SUR-SEINE 1E 27 VOVEMBRE 1919. Entre, d'une part, les États-Unis d'Amérique, l'Empire britannique, la France, l'Italie et le Japon, Principales Puissances alliées et associées, la Belgique, la Chine, Caha, la Grèce, de Hedjaz, la Poloque, le Portugal, l'Étal serbe- croate-slovène, le Siam et l'État Ichéco-slovaque, constituant avec…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_882_s1.pdf"
+  },
+  {
+    "document_id": "19190006_006_s1",
+    "title": "Procès-Verbal de dépôt des instruments de ratification de l'accord",
+    "year": 1919,
+    "doc_type": "Procès-verbal",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9593,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "PROCES-VERBAL DU DÉPÔT DES RATIFICATIONS SUR LE TRAITÉ DE PAIX GNÉ À NEUILLY-SUR-SEINE LE 27 NOVEMBRE 1919, \" Entre, d'une part, les États-Unis d Amérique, l'Empire britannique, la France, l'Italie et le Japon, Principales Pnissances. alliées et associées, la Belgique, la Chine, Cuba Sla Grèce, le Hedjoz, la Pologne, le Portagal, l'État serbe- croate-slovene, leSiam et l'État tchéco-slovaque, constituant avec les Pr…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Procès-verbal",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_006_s1.pdf"
+  },
+  {
+    "document_id": "19190006_007_s1",
+    "title": "Procès-Verbal de dépôt des ratifications de la Convention entre la Bulgarie et la Grèce",
+    "year": 1919,
+    "doc_type": "Procès-verbal",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9954,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "PROCES-VERBAL DU DÉPÔT DE RATIFICATIONS SUR LA'CONVENTION SIGNÉE À NEUILLY-SUR-SEINE LE 27 NOVEMPRE 1919 Entre la Grèce et la Bulgarie. En exécution des clauses finales de la Convention signée à Neuilly- au Seine le 27 novembre 1010, entre la Grèce et la Bulgarie, le Délégué du Gouvernement bulgare s'est présenté aujourd'hui au Minis- tère des Allaires étrangères pour procéder au dépit de l'instrument ides ratificat…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Procès-verbal",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_007_s1.pdf"
+  },
+  {
+    "document_id": "19190006_004_s1",
+    "title": "Protocole concernant la signature",
+    "year": 1919,
+    "doc_type": "Protocole",
+    "languages": [
+      "ca",
+      "en",
+      "fr",
+      "it"
+    ],
+    "quality_score": 0.7687,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "PROTOCOLE PROTOCOLLO CONCERNANT LA SIGNATURE RELATING TO SIGYATURE. CONCERNAVTR LA FIRMA. Les Trailé et Prolocale en dale ce jour pourroot elre sig jusqu'an Décembro 1919. midi, par les Puissances ayant déja apposé leur signature ou accéde ux Traité de paix, Arrangements, Protocole et Déclaration, conclas hamt- bermam -eo-ave. le 10 Septembre 191g. The Treaty and Protocol of IIl trattalo e il protacollo in even date…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Protocole",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_004_s1.pdf"
+  },
+  {
+    "document_id": "19190006_003_s1",
+    "title": "Protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+    "year": 1919,
+    "doc_type": "Protocole",
+    "languages": [
+      "ca",
+      "en",
+      "fr",
+      "id",
+      "it",
+      "nl"
+    ],
+    "quality_score": 0.8076,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "PROTOCOLE. En vue de préciser les conditions dans lesquelles devront étre exécutées cer- taines clauses du Traité signé à la date de ce jour, il est entendu entre les Hautes Parties CONTRACTANTES que : 1° La liste des personnes que, conformément à l'article 118, alinéa 2, la Bulgarie devra livrer aux Puissances alliées et associées, sera adressée au Gouvernement bulgare dans le mois qui sumra la mise en vigueur du T…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Protocole",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_003_s1.pdf"
+  },
+  {
+    "document_id": "19190006_005_s1",
+    "title": "Protocole relatif aux droits des Puissances alliées en cas de non-exécution ou d'exécution incomplète des clauses d'Armistice de la part de la Bulgarie",
+    "year": 1919,
+    "doc_type": "Protocole",
+    "languages": [
+      "fr"
+    ],
+    "quality_score": 0.9639,
+    "review_required": false,
+    "review_priority": "none",
+    "text_preview": "PROTOCOLE. Au moment de procéder au premier dépôt des ratifications du Traité de paix entre les Puissances alliées et associées et la Bulgarie, signé à Neuilly-sur-Scine le 27 novembre 1919, les Puissances alliées déclarent réserver tous les droits pouvant leur appartenir par suite de la non- exécution des clauses d'Armistice ou de leur exécution incompléte de la part de la Bulgarie. FAIT à Paris, le neuf août 1920,…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Protocole",
+      "instrument_type:treaty",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_005_s1.pdf"
+  },
+  {
+    "document_id": "19190006_009_s1",
+    "title": "Texte de la Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
+    "year": 1919,
+    "doc_type": "Texte",
+    "languages": [
+      "ca",
+      "de",
+      "en",
+      "fr",
+      "ro"
+    ],
+    "quality_score": 0.8246,
+    "review_required": true,
+    "review_priority": "normal",
+    "text_preview": "EYMBAZIZ IXWBYZIS METAET EMANOS KAL BORNTARIĄZ er RE ANIA d EEROYEAE WETETCHE TRN PYAFȚIKON MELONOTHTON 4S PTOPPACEIEA ER AtiTe THE TO KOEMBRON SaS tasne no tig et CONVENTION\" ENTRĘ LA GREČÉ'ET LA BULGARIE RELATHYE A L'ENIGRATION RECIPROQUE EE YOLONTAIRES ş#ă SIGNÉE A NEULLY LE 1A27 NOVEMBRE 1919 4°0 = 1 44 ＃， ㅚ EM A@MNALE, 1919 ...1 •SYMBAZIZ METaÇO Elhádos rai Boulyaplas repl 'Aposßalas xal 'Etzñovolas . METaVaotE…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Texte",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190006_009_s1.pdf"
+  },
+  {
+    "document_id": "19190007_03_s1",
+    "title": "Épreuve avant tirage définitif (s. d.)",
+    "year": 1919,
+    "doc_type": "Autre",
+    "languages": [
+      "ca",
+      "cy",
+      "en",
+      "et",
+      "fr"
+    ],
+    "quality_score": 0.9803,
+    "review_required": true,
+    "review_priority": "high",
+    "text_preview": "Paul Mantoux ÉPREUVE avant tirage définits! Versailles: \"'2s juin ogig mainten CONDITIONS DE PAIX CONDITIONS OF PEACE | NOTE. 2. Ce tirage ne contient que la carte des frontières orientales de l'Allemagne; les autres cartes étant identiques (sauf celle du Slesvig, où la ligue bleu est supprimée } aux Cartes annexées aux précédents tirages. CONDITIONS DE PAIX trs CONDITIONS OF PEACE Conptrumn, Krasn NEvins Seveso. Ni…",
+    "tags": [
+      "century:c20",
+      "corpus:traites",
+      "doc_type:Autre",
+      "instrument_type:other",
+      "legal_force:unknown",
+      "period:world_war_i_and_interwar_1914_1938",
+      "rights_status:to_review",
+      "source_db:traites_mineae",
+      "stage:live_snapshot"
+    ],
+    "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_03_s1.pdf"
   }
 ]
