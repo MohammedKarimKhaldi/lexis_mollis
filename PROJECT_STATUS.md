@@ -1,6 +1,6 @@
 # Lexis Mollis — statut de déploiement
 
-Dernière mise à jour vérifiée : 2026-07-01 (Codex : évaluation LLM provisoire, graphe/release complets, site Cloudflare déployé).
+Dernière mise à jour vérifiée : 2026-07-01 (Codex : évaluation LLM provisoire, graphe/release complets, dataset Hugging Face publié, site Cloudflare déployé).
 
 ## Résumé
 
@@ -22,8 +22,8 @@ Le scaffold EPIC F n'est plus seulement testable localement : il a été aliment
 `https://lexis-mollis.mk-74a.workers.dev`. Le manifeste public
 `/data/manifest.json` annonce 3 146 documents, 26 566 pages, un graphe réduit à
 3 000 nœuds et 9 000 arêtes pour l'affichage navigateur. Les exports lourds restent hors
-Git et hors bundle statique complet ; Hugging Face/Zenodo restent la cible canonique pour
-les tables complètes.
+Git et hors bundle statique complet ; Hugging Face est maintenant la cible canonique publiée
+pour les tables complètes, et Zenodo reste la cible DOI après release GitHub.
 
 Une passe d'amélioration UI a aussi été faite sur `platform/site/src/` (favicon + balises
 OG/Twitter, état actif dans la navigation, pied de page avec liens GitHub/Hugging Face,
@@ -54,8 +54,7 @@ provisoires et 12 786 arêtes provisoires.
 
 Ce qui reste avant une publication académique/release v0.1.0 propre : remplacer ou confirmer
 les annotations LLM par une validation humaine, valider un échantillon de mentions d'entités,
-fournir un token Hugging Face avec droit `write` sur `lexis-mollis/soft-law-corpus`, créer le
-tag GitHub pour Zenodo, puis reporter le DOI.
+créer le tag GitHub pour Zenodo, puis reporter le DOI.
 
 ## État vérifié
 
@@ -63,8 +62,8 @@ tag GitHub pour Zenodo, puis reporter le DOI.
 |---|---:|---|
 | GitHub repo | OK | `MohammedKarimKhaldi/lexis_mollis`, public, branche `main`. |
 | CI GitHub | OK | Workflow `CI` actif ; dernier run vérifié en succès. |
-| `HF_TOKEN` | **Bloqué write** | Le token fourni identifie l'utilisateur et voit `lexis-mollis/soft-law-corpus`, mais l'upload LFS/Xet échoue en `403 Forbidden`. Il faut un token `write` ayant accès à l'organisation/dataset, puis révoquer le token exposé. |
-| Hugging Face dataset | OK | `lexis-mollis/soft-law-corpus`, public, non gated, non disabled. |
+| `HF_TOKEN` | OK ponctuel | Le token exposé initialement ne doit plus être utilisé ; l'utilisateur a relancé l'upload avec un token corrigé. Ne pas stocker de token dans Git. |
+| Hugging Face dataset | **Publié** | `lexis-mollis/soft-law-corpus`, public, non gated, non disabled ; 13 fichiers attendus visibles, manifest HF vérifié : 3 146 documents, 26 566 pages, 30 285 chunks, 414 304 arêtes, 8 441 nœuds. Commit HF vérifié : `bf89fd4aafcb905baaa0d54e1b171a7b9e65121a`. |
 | Zenodo | Connecté côté compte | Webhook/intégration annoncé comme connecté ; DOI vérifiable seulement après première release GitHub. |
 | Cloudflare | **Déployé** | Worker `lexis-mollis` déployé sur `https://lexis-mollis.mk-74a.workers.dev` ; `/`, `/recherche/`, `/graphe/` et `/data/manifest.json` vérifiés en HTTP 200. Config Git Cloudflare préférée : root `platform/site`, build `npm ci && npm run build`, deploy `npx wrangler deploy`. |
 | Site local | OK | Build Astro complet vérifié ; `platform/site/public/data/manifest.json` annonce 3 146 documents, 26 566 pages, graphe réduit 3 000 nœuds / 9 000 arêtes. |
@@ -78,12 +77,12 @@ tag GitHub pour Zenodo, puis reporter le DOI.
 
 | Epic | Statut | Bloqué par / reste à faire |
 |---|---:|---|
-| A — Infrastructure & gouvernance | Partiel avancé | GitHub public OK, repo HF visible, CI OK. Reste : droit d'écriture effectif sur le dataset HF, branch protection, éventuelle org GitHub `lexis-mollis`, premier DOI Zenodo après release. |
+| A — Infrastructure & gouvernance | Partiel avancé | GitHub public OK, dataset HF publié, CI OK. Reste : branch protection, éventuelle org GitHub `lexis-mollis`, premier DOI Zenodo après release. |
 | B — Modèle de données & standards | Fait | Schémas, taxonomie, ontologie, identifiants et validation automatisée en place. |
 | C — Similarité | Build complet fait, calibration LLM-draft | `outputs_v2/similarity/` construit sur 3 146 documents. Fix appliqué : IDs de chunks document-scoped pour conserver les alias de PDF exacts ; scores FAISS clampés à `[0,1]`. `benchmarks/similarity_cases.json` contient 54 positifs / 50 négatifs / 16 exclus évalués par Codex. Reste : validation humaine si publication scientifique. |
 | D — Knowledge graph | **Complet provisoire construit** | Gazetteers enrichis et graphe complet construit : 8 441 nœuds, 104 206 arêtes, 114 963 mentions. Reste : validation humaine d'au moins 50 mentions si revendication scientifique. |
-| E — Export & publication | Release locale complète prête ; HF bloqué token | `outputs_v2/release` construit sur 3 146 documents / 26 566 pages ; `outputs_v2/hf_dataset` préparé localement. Upload HF tenté puis bloqué par `403 Forbidden` sur LFS/Xet avec le token fourni ; un commit test minimal est également refusé en `403`. Reste : token HF write valide, tag GitHub, DOI Zenodo après release. |
-| F — Plateforme web | **Déployé avec données complètes optimisées** | Astro + Workers Static Assets déployé sur `https://lexis-mollis.mk-74a.workers.dev`, avec manifest complet, recherche statique, fiches document et graphe réduit. Les JSON statiques complets optimisés sont maintenant destinés à être versionnés pour rendre le déploiement Git reproductible. Reste : domaine personnalisé éventuel, recherche HF Space/FAISS réelle, publication canonique HF. |
+| E — Export & publication | **HF publié ; release locale complète prête** | `outputs_v2/release` construit sur 3 146 documents / 26 566 pages ; `outputs_v2/hf_dataset` préparé localement puis publié sur `lexis-mollis/soft-law-corpus`. Reste : tag GitHub `v0.1.0`, DOI Zenodo après release, puis reporter le DOI. |
+| F — Plateforme web | **Déployé avec données complètes optimisées** | Astro + Workers Static Assets déployé sur `https://lexis-mollis.mk-74a.workers.dev`, avec manifest complet, recherche statique, fiches document et graphe réduit. Les JSON statiques complets optimisés sont versionnés pour rendre le déploiement Git reproductible. Reste : domaine personnalisé éventuel, recherche HF Space/FAISS réelle. |
 | G — CI/CD | Partiel | CI qualité OK. Reste : `build-derive.yml`, `release.yml`, `deploy-site.yml`, `keepalive.yml`. |
 | H — Expansion corpus | Non commencé | Choisir et implémenter le premier connecteur, probablement EUR-Lex, avec droits/provenance explicites. |
 | I — Révision communauté | Non commencé | Générer lots de révision ; choisir mini-interface Astro ou workflow issues GitHub ; stocker `review_events.jsonl`. |
@@ -130,9 +129,10 @@ les fichiers de sortie et dans le rapport de calibration.
    .venv/bin/python scripts/export_hf_dataset.py --release outputs_v2/release
    .venv/bin/python scripts/export_hf_dataset.py --release outputs_v2/release --upload
    ```
-   Préparation locale faite dans `outputs_v2/hf_dataset`. Upload tenté le 2026-07-01 avec
-   le token fourni, mais Hugging Face renvoie `403 Forbidden` sur LFS/Xet malgré un
-   `whoami` valide et un repo visible. Dataset cible : `lexis-mollis/soft-law-corpus`.
+   Fait le 2026-07-01 : préparation locale dans `outputs_v2/hf_dataset`, puis publication
+   sur `lexis-mollis/soft-law-corpus`. Vérification publique sans token : 13 fichiers
+   attendus visibles (`README.md`, `release_manifest.json`, `CHECKSUMS.sha256`, tables
+   Parquet et exports `graph/`) ; commit HF `bf89fd4aafcb905baaa0d54e1b171a7b9e65121a`.
 5. Générer la couche Cloudflare depuis la release :
    ```bash
    .venv/bin/python platform/scripts/build_site_data.py \
@@ -154,8 +154,8 @@ Critères d'acceptation de la base publique :
 
 - `outputs_v2/release/release_manifest.json` indique 3 146 documents et 26 566 pages. **OK**
 - Le dataset HF expose les tables `documents`, `pages`, `chunks`, `edges`, `nodes` et le
-  dossier `graph/`. **Bloqué actuellement : le repo est visible mais l'écriture est refusée
-  en `403 Forbidden`, même pour un fichier test minimal.**
+  dossier `graph/`. **OK : publication vérifiée publiquement sur
+  `lexis-mollis/soft-law-corpus`.**
 - Le site Cloudflare expose `manifest.json`, `documents.json`, `search.json`,
   `facets.json`, `docs/<document_id>.json` et `graph.sigma.json`. **OK**
 - Les fiches documents affichent titre, type, année, langues, score qualité, statut de
@@ -273,8 +273,7 @@ unset CLOUDFLARE_ACCOUNT_ID
    ```bash
    .venv/bin/python scripts/export_hf_dataset.py --release outputs_v2/release --upload
    ```
-   Bloqué tant que `HF_TOKEN` n'a pas un droit `write` effectif sur
-   `lexis-mollis/soft-law-corpus`.
+   Fait : dataset publié et manifest vérifié depuis Hugging Face.
 8. Ajouter `release.yml`, créer le tag GitHub `v0.1.0`, récupérer le DOI Zenodo et le
    reporter dans `CITATION.cff`, `README.md` et la card Hugging Face.
 9. Ajouter `deploy-site.yml` seulement si le déploiement doit passer par GitHub Actions
@@ -285,6 +284,5 @@ unset CLOUDFLARE_ACCOUNT_ID
 - Ne pas publier les PDF sur Internet Archive tant que `rights_status` reste `to_review`.
 - Ne pas affirmer que les seuils de similarité sont calibrés avant annotation humaine.
 - Ne pas committer de secrets, sorties OCR, bases SQLite, fichiers Parquet, embeddings ou PDF.
-- Le token Hugging Face exposé précédemment a été utilisé à la demande de l'utilisateur,
-  mais il ne permet pas l'upload (`403 Forbidden`). Le révoquer et le remplacer par un
-  token `write` de préférence finement scoped au dataset.
+- Le token Hugging Face exposé précédemment ne doit pas être conservé ni réutilisé ; garder
+  uniquement des tokens `write` finement scoped au dataset, hors Git et hors logs.
