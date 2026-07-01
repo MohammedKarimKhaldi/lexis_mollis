@@ -71,6 +71,32 @@ def compact_text(text: str | None, limit: int = 420) -> str:
   return normalized[: limit - 1].rstrip() + "…"
 
 
+# Small stopword list for the assistant's lightweight keyword index (build.py
+# generates this so the Worker never has to tokenize full text at request
+# time — see platform/site/worker/ask.ts).
+STOPWORDS = frozenset(
+  "le la les un une des du de et en à au aux ce cet cette ces son sa ses leur leurs qui que quoi dont où "
+  "est sont pour par sur avec sans entre dans not the and for with from into onto that this these those "
+  "il elle nous vous ils elles on ne pas plus tout tous toute toutes ainsi ou mais donc or ni car été être "
+  "avoir fait faire dit dite entre 2020 2021 2022 2023 2024 2025"
+  .split()
+)
+
+
+def extract_keywords(text: str, limit: int = 40) -> str:
+  words = re.findall(r"[a-zà-öø-ÿ0-9]{3,}", (text or "").lower())
+  seen: list[str] = []
+  seen_set: set[str] = set()
+  for word in words:
+    if word in STOPWORDS or word in seen_set:
+      continue
+    seen_set.add(word)
+    seen.append(word)
+    if len(seen) >= limit:
+      break
+  return " ".join(seen)
+
+
 def tag_value(tags: list[str], namespace: str) -> str | None:
   prefix = f"{namespace}:"
   for tag in tags:
@@ -148,17 +174,68 @@ def build_similarity(edges: list[dict[str, Any]], chunks: list[dict[str, Any]], 
   return grouped
 
 
-def reduce_graph(graph: dict[str, Any], max_nodes: int) -> dict[str, Any]:
+# Document nodes come first so every document stays explorable; the remaining
+# budget favors small, high-value entity types (states/orgs/places/instruments)
+# in full before spending what's left on the highest-degree topic concepts.
+GRAPH_TYPE_PRIORITY = ["Document", "Organization", "Party", "Place", "Instrument", "TopicConcept"]
+
+
+def reduce_graph(graph: dict[str, Any], max_nodes: int, max_edges_per_node: int = 8) -> dict[str, Any]:
   nodes = graph.get("nodes") or []
   edges = graph.get("edges") or []
-  selected = nodes[:max_nodes]
+
+  weighted_degree: dict[str, float] = defaultdict(float)
+  for edge in edges:
+    weight = float(edge.get("weight") or 1.0)
+    weighted_degree[edge.get("source")] += weight
+    weighted_degree[edge.get("target")] += weight
+
+  by_type: dict[str, list[dict[str, Any]]] = defaultdict(list)
+  for node in nodes:
+    by_type[node.get("type") or "default"].append(node)
+  for bucket in by_type.values():
+    bucket.sort(key=lambda n: weighted_degree.get(n.get("id"), 0.0), reverse=True)
+
+  ordered_types = [t for t in GRAPH_TYPE_PRIORITY if t in by_type]
+  ordered_types += [t for t in by_type if t not in ordered_types]
+
+  selected: list[dict[str, Any]] = []
+  remaining = max_nodes
+  for node_type in ordered_types:
+    if remaining <= 0:
+      break
+    bucket = by_type[node_type]
+    take = bucket[:remaining]
+    selected.extend(take)
+    remaining -= len(take)
+
   selected_ids = {node.get("id") for node in selected}
-  selected_edges = [
+
+  candidate_edges = [
     edge
     for edge in edges
     if edge.get("source") in selected_ids and edge.get("target") in selected_ids
-  ][: max_nodes * 3]
-  return {"nodes": selected, "edges": selected_edges}
+  ]
+  candidate_edges.sort(key=lambda edge: float(edge.get("weight") or 0.0), reverse=True)
+
+  # Keep each node's strongest links first so high-degree nodes don't crowd out
+  # the rest and no selected node ends up stranded without any edges.
+  per_node_count: dict[str, int] = defaultdict(int)
+  seen_pairs: set[tuple[str, str]] = set()
+  kept_edges: list[dict[str, Any]] = []
+  for edge in candidate_edges:
+    source, target = edge.get("source"), edge.get("target")
+    pair = tuple(sorted((str(source), str(target))))
+    if pair in seen_pairs:
+      continue
+    if per_node_count[source] >= max_edges_per_node and per_node_count[target] >= max_edges_per_node:
+      continue
+    kept_edges.append(edge)
+    seen_pairs.add(pair)
+    per_node_count[source] += 1
+    per_node_count[target] += 1
+
+  return {"nodes": selected, "edges": kept_edges}
 
 
 def build(args: argparse.Namespace) -> dict[str, Any]:
@@ -179,6 +256,7 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
 
   summaries: list[dict[str, Any]] = []
   search_docs: list[dict[str, Any]] = []
+  ask_index: list[dict[str, Any]] = []
   facets: dict[str, set[Any]] = {
     "languages": set(),
     "doc_types": set(),
@@ -282,6 +360,16 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
         "tags": " ".join(tags),
       }
     )
+    ask_index.append(
+      {
+        "id": doc_id,
+        "title": doc.get("title") or doc_id,
+        "year": year,
+        "doc_type": doc_type,
+        "treaty_id": doc.get("treaty_id"),
+        "kw": extract_keywords(f"{doc.get('title') or ''} {' '.join(tags)} {preview}"),
+      }
+    )
 
   summaries.sort(key=lambda row: (row.get("year") or 99999, row.get("title") or ""))
   graph_reduced = reduce_graph(graph, args.max_graph_nodes)
@@ -298,6 +386,7 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
   write_json(site / "manifest.json", manifest)
   write_json(site / "documents.json", summaries)
   write_json(site / "search.json", {"documents": search_docs})
+  write_json(site / "ask_index.json", ask_index)
   write_json(
     site / "facets.json",
     {
@@ -318,7 +407,7 @@ def parse_args() -> argparse.Namespace:
   parser.add_argument("--release", default="outputs_v2/release_pilot", help="Release export directory.")
   parser.add_argument("--site", default="platform/site/public/data", help="Output data directory.")
   parser.add_argument("--max-documents", type=int, default=500, help="Maximum documents to include.")
-  parser.add_argument("--max-graph-nodes", type=int, default=3000, help="Maximum graph nodes for the static view.")
+  parser.add_argument("--max-graph-nodes", type=int, default=6000, help="Maximum graph nodes for the static view.")
   parser.add_argument("--search-text-chars", type=int, default=2200, help="Text characters per document in client search data.")
   return parser.parse_args()
 

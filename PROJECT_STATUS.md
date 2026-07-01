@@ -2,6 +2,82 @@
 
 Dernière mise à jour vérifiée : 2026-07-01 (Codex : évaluation LLM provisoire, graphe/release complets, dataset Hugging Face publié, site Cloudflare déployé, release GitHub `v0.1.0` créée).
 
+Troisième mise à jour du même jour (Claude) : ajout d'un assistant de question/réponse gratuit
+sur le corpus, en deux volets.
+- **Local (`scripts/rag_ask.py`)** : recherche vectorielle locale et gratuite (FAISS +
+  sentence-transformers/LaBSE déjà construits dans `outputs_v2/similarity/`), enrichie par le
+  graphe de connaissances (`outputs_v2/graph/`), puis appel du modèle gratuit `big-pickle`
+  d'OpenCode Zen pour la réponse finale. Bug macOS trouvé et corrigé : FAISS et PyTorch chargés
+  dans le même process s'y font planter (segfault) sauf à forcer FAISS en mono-thread et
+  `KMP_DUPLICATE_LIB_OK=TRUE`.
+- **En ligne (`/assistant/`, `platform/site/worker/ask.ts`)** : le site n'était que des assets
+  statiques Cloudflare (pas de logique serveur) — ajout d'un Worker (`main` dans `wrangler.jsonc`,
+  toujours combiné aux `assets` existants) qui gère `/api/ask` et sert le reste normalement via
+  `env.ASSETS.fetch()`. Recherche par recouvrement de mots-clés sur un petit index pré-calculé au
+  build (`platform/scripts/build_site_data.py` écrit `ask_index.json`, ~1,5 Mo), enrichissement
+  par documents similaires (déjà présents dans les fiches JSON), puis appel serveur du même modèle
+  `big-pickle` — la clé API reste un secret Cloudflare (`wrangler secret put OPENCODE_API_KEY`),
+  jamais exposée au navigateur.
+  Bug de production trouvé et corrigé : la première version indexait le corpus complet avec
+  MiniSearch à chaque requête, ce qui dépassait le quota CPU du palier gratuit Workers (erreur
+  Cloudflare 1102) — remplacé par le petit index pré-calculé + un score de recouvrement de mots
+  simple, sans bibliothèque de recherche en texte intégral côté Worker.
+  Identifiant de modèle correct découvert par tâtonnement : `big-pickle` (pas `opencode/big-pickle`
+  malgré la documentation/les résultats de recherche web) — vérifié via `GET
+  https://opencode.ai/zen/v1/models`.
+
+Seconde mise à jour du même jour (Claude) : après le premier correctif du graphe, l'utilisateur
+a signalé que `/graphe/` restait bloqué sur « Chargement du graphe… » en test réel, et a demandé
+un rendu plus moderne. Deux changements ont été faits dans
+`platform/site/src/components/GraphView.astro` :
+1. Ajout d'une gestion d'erreur explicite (sonde WebGL, timeout réseau de 30 s sur le fetch,
+   `try/catch` autour de toute l'initialisation) qui affiche désormais un message d'erreur
+   visible et un bouton « Réessayer » au lieu d'un spinner infini silencieux en cas d'échec —
+   utile pour diagnostiquer si le problème revient.
+2. Un bug introduit par ce correctif a été détecté et corrigé avant déploiement : l'overlay de
+   chargement/erreur partagait une classe CSS `display: flex` qui prenait le pas sur l'attribut
+   HTML `hidden` (une règle auteur bat toujours une règle user-agent, même à spécificité égale),
+   ce qui aurait maintenu l'overlay visible en permanence par-dessus un graphe pourtant rendu
+   correctement. Ajout de la règle `.graph-overlay[hidden] { display: none; }`. Vérifié en local
+   avant déploiement : le graphe s'affiche et les 6 000 nœuds / 27 200 arêtes sont bien rendus.
+3. Refonte visuelle : fond canevas sombre avec dégradés colorés, nouvelle palette de couleurs
+   par type d'entité, labels dessinés sur des pastilles arrondies (au lieu de texte brut qui se
+   chevauchait), effet de survol, entrée animée de la caméra, arêtes atténuées hors focus.
+
+Redéploiement vérifié : `https://lexis-mollis.mk-74a.workers.dev`, Version ID
+`7c43c68d-4dc4-4b8c-9a4d-64d210f1a028`. Si le graphe reste bloqué malgré ce correctif dans un
+navigateur donné, l'overlay affiche maintenant un message d'erreur exploitable (au lieu de rien) —
+le récupérer pour diagnostiquer la cause exacte (WebGL désactivé, réseau, etc.).
+
+Mise à jour du même jour (Claude) : le graphe interactif `/graphe/` ne s'affichait en réalité
+jamais en production — un bug bloquant faisait que Sigma.js levait une exception silencieuse
+dès l'initialisation (`could not find a suitable program for node type "Document"`), la page
+restant figée sur « Chargement du graphe… » sans qu'aucune erreur ne soit visible sans ouvrir
+la console. Trois bugs cumulés ont été corrigés dans `platform/site/src/components/GraphView.astro` :
+1. le champ `type` des nœuds/arêtes est réservé en interne par Sigma pour choisir le programme
+   de rendu WebGL — l'écraser avec des valeurs métier (`Document`, `similar_to`, …) faisait
+   planter le constructeur ; renommé en `entityType`/`edgeType`.
+2. les coordonnées de layout ne sont pas dans `[0,1]` alors que la caméra par défaut de Sigma
+   est centrée sur `(0.5, 0.5)` avec un ratio de 1 — sans normalisation explicite, seule une
+   infime tranche du graphe était cadrée. Coordonnées renormalisées à l'affichage.
+3. le champ `size` des nœuds est un compteur de connexions non borné (jusqu'à 1 113 pour les
+   nœuds les plus centraux) utilisé tel quel comme rayon en pixels — quelques nœuds hubs
+   recouvraient tout le canevas. Passage à une échelle en racine carrée bornée (3–18 px).
+
+En même temps, `platform/scripts/build_site_data.py::reduce_graph` a été réécrit : l'ancienne
+troncature positionnelle (`nodes[:max_nodes]`) supprimait silencieusement tous les nœuds
+d'entités (États, organisations, lieux, instruments, thèmes) dès que le nombre de documents
+dépassait le plafond — le graphe publié ne contenait donc que des documents. La sélection
+priorise maintenant l'ensemble des documents, puis les entités par ordre de degré pondéré, et
+conserve les liens les plus forts de chaque nœud plutôt qu'un sous-ensemble arbitraire. Le
+graphe publié passe de 3 000 nœuds / 9 000 arêtes (documents uniquement) à 6 000 nœuds /
+27 200 arêtes couvrant les 3 146 documents, 1 201 instruments, 1 561 thèmes les plus connectés,
+59 parties, 18 organisations et 15 lieux. L'UI `/graphe/` gagne aussi des filtres par type de
+nœud/lien, un seuil de similarité minimale, et une mise en évidence des voisins directs au clic
+(pour explorer les documents similaires). Vérifié en local (Astro preview) puis déployé sur
+Cloudflare : `https://lexis-mollis.mk-74a.workers.dev/data/manifest.json` annonce
+`graph_node_count: 6000`, `graph_edge_count: 27200`.
+
 ## Résumé
 
 **L'OCR est terminé.** Le run est sorti avec `status=0` à 22:23:22+0100 :
@@ -21,7 +97,8 @@ Le scaffold EPIC F n'est plus seulement testable localement : il a été aliment
 `outputs_v2/release` et déployé sur Cloudflare Workers Static Assets. Le site public est :
 `https://lexis-mollis.mk-74a.workers.dev`. Le manifeste public
 `/data/manifest.json` annonce 3 146 documents, 26 566 pages, un graphe réduit à
-3 000 nœuds et 9 000 arêtes pour l'affichage navigateur. Les exports lourds restent hors
+6 000 nœuds et 27 200 arêtes pour l'affichage navigateur (documents, instruments, thèmes,
+parties, organisations et lieux — voir la note de mise à jour ci-dessus). Les exports lourds restent hors
 Git et hors bundle statique complet ; Hugging Face est maintenant la cible canonique publiée
 pour les tables complètes, et Zenodo reste la cible DOI après release GitHub.
 
@@ -67,7 +144,7 @@ puis reporter le DOI Zenodo lorsqu'il sera visible.
 | GitHub release | **Créée** | Release publique `v0.1.0` : `https://github.com/MohammedKarimKhaldi/lexis_mollis/releases/tag/v0.1.0`. |
 | Zenodo | En attente | `.zenodo.json` cohérent avec `CITATION.cff`, mais aucun record Zenodo public trouvé après création de la release. À vérifier dans le tableau de bord Zenodo GitHub. |
 | Cloudflare | **Déployé** | Worker `lexis-mollis` déployé sur `https://lexis-mollis.mk-74a.workers.dev` ; `/`, `/recherche/`, `/graphe/` et `/data/manifest.json` vérifiés en HTTP 200. Config Git Cloudflare préférée : root `platform/site`, build `npm ci && npm run build`, deploy `npx wrangler deploy`. |
-| Site local | OK | Build Astro complet vérifié ; `platform/site/public/data/manifest.json` annonce 3 146 documents, 26 566 pages, graphe réduit 3 000 nœuds / 9 000 arêtes. |
+| Site local | OK | Build Astro complet vérifié ; `platform/site/public/data/manifest.json` annonce 3 146 documents, 26 566 pages, graphe réduit 6 000 nœuds / 27 200 arêtes (documents + entités, tous types représentés). |
 | Branch protection | À configurer | Pas encore de protection `main`/required checks. |
 | OCR | **Terminé** | 3 146/3 146 documents, 26 566 pages, 0 erreur, run sorti `status=0`. |
 | Audit complet | **Terminé** | `outputs_v2/kb/` et `outputs_v2/audit/` régénérés sur le corpus complet (26 566 lignes chacun), 6 084 pages en file de révision (`outputs_v2/review_queue.csv` : 6 085 lignes avec en-tête). |
@@ -83,7 +160,7 @@ puis reporter le DOI Zenodo lorsqu'il sera visible.
 | C — Similarité | Build complet fait, calibration LLM-draft | `outputs_v2/similarity/` construit sur 3 146 documents. Fix appliqué : IDs de chunks document-scoped pour conserver les alias de PDF exacts ; scores FAISS clampés à `[0,1]`. `benchmarks/similarity_cases.json` contient 54 positifs / 50 négatifs / 16 exclus évalués par Codex. Reste : validation humaine si publication scientifique. |
 | D — Knowledge graph | **Complet provisoire construit** | Gazetteers enrichis et graphe complet construit : 8 441 nœuds, 104 206 arêtes, 114 963 mentions. Reste : validation humaine d'au moins 50 mentions si revendication scientifique. |
 | E — Export & publication | **HF publié ; release GitHub créée** | `outputs_v2/release` construit sur 3 146 documents / 26 566 pages ; `outputs_v2/hf_dataset` préparé localement puis publié sur `lexis-mollis/soft-law-corpus`; GitHub release `v0.1.0` créée. Reste : vérifier/récupérer le DOI Zenodo, puis le reporter dans `CITATION.cff`, `README.md` et la card Hugging Face. |
-| F — Plateforme web | **Déployé avec données complètes optimisées** | Astro + Workers Static Assets déployé sur `https://lexis-mollis.mk-74a.workers.dev`, avec manifest complet, recherche statique, fiches document et graphe réduit. Les JSON statiques complets optimisés sont versionnés pour rendre le déploiement Git reproductible. Reste : domaine personnalisé éventuel, recherche HF Space/FAISS réelle. |
+| F — Plateforme web | **Déployé avec données complètes optimisées ; graphe interactif corrigé** | Astro + Workers Static Assets déployé sur `https://lexis-mollis.mk-74a.workers.dev`, avec manifest complet, recherche statique, fiches document et graphe interactif désormais fonctionnel (bug Sigma.js bloquant corrigé le 2026-07-01, voir note en tête de document). Les JSON statiques complets optimisés sont versionnés pour rendre le déploiement Git reproductible. Reste : domaine personnalisé éventuel, recherche HF Space/FAISS réelle. |
 | G — CI/CD | Partiel | CI qualité OK. Reste : `build-derive.yml`, `release.yml`, `deploy-site.yml`, `keepalive.yml`. |
 | H — Expansion corpus | Non commencé | Choisir et implémenter le premier connecteur, probablement EUR-Lex, avec droits/provenance explicites. |
 | I — Révision communauté | Non commencé | Générer lots de révision ; choisir mini-interface Astro ou workflow issues GitHub ; stocker `review_events.jsonl`. |
@@ -202,6 +279,17 @@ Déploiement direct vérifié :
 URL: https://lexis-mollis.mk-74a.workers.dev
 Version ID: 5eeb3783-b203-44e6-a91d-bc1355195531
 Checks: /, /recherche/, /graphe/ et /data/manifest.json en HTTP 200
+```
+
+Redéploiement du 2026-07-01 (correctif graphe interactif + graphe 6 000/27 200) :
+
+```text
+URL: https://lexis-mollis.mk-74a.workers.dev
+Version ID: c941dbf8-4491-4541-a1ba-85184f430b38
+Checks: /, /recherche/, /graphe/, /donnees/ et /data/manifest.json en HTTP 200
+/data/manifest.json: graph_node_count=6000, graph_edge_count=27200
+/data/graph.sigma.json vérifié en direct : 6000 nœuds (Document 3146, TopicConcept 1561,
+Instrument 1201, Party 59, Organization 18, Place 15), 27200 arêtes
 ```
 
 À faire côté Cloudflare :

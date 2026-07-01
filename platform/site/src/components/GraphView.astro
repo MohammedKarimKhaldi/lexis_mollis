@@ -4,17 +4,42 @@
       <span>Filtrer un nœud</span>
       <input id="graph-filter" type="search" placeholder="Titre, État, thème…" />
     </label>
-    <span id="graph-count" class="muted">Chargement du graphe…</span>
+    <label>
+      <span>Similarité minimale <span id="weight-value">0.00</span></span>
+      <input id="graph-weight" type="range" min="0" max="1" step="0.01" value="0" />
+    </label>
+    <button id="graph-reset" class="button secondary" type="button">Réinitialiser la sélection</button>
+    <span id="graph-count" class="muted">—</span>
   </div>
-  <ul class="graph-legend" aria-label="Légende des types de nœuds">
-    <li><span class="dot" style="background:#1f6f78"></span>Document</li>
-    <li><span class="dot" style="background:#354a5f"></span>Instrument</li>
-    <li><span class="dot" style="background:#7b5d2f"></span>État</li>
-    <li><span class="dot" style="background:#594c8f"></span>Organisation</li>
-    <li><span class="dot" style="background:#23724d"></span>Thème</li>
-  </ul>
-  <div id="sigma-container" aria-label="Graphe de connaissances Lexis Mollis"></div>
-  <div id="graph-detail" class="graph-detail muted">Clique un nœud pour afficher ses détails.</div>
+  <div class="graph-toggles">
+    <fieldset>
+      <legend>Types de nœuds</legend>
+      <div id="node-type-toggles" class="toggle-list"></div>
+    </fieldset>
+    <fieldset>
+      <legend>Types de liens</legend>
+      <div id="edge-type-toggles" class="toggle-list"></div>
+    </fieldset>
+  </div>
+  <div class="graph-canvas-wrap">
+    <div id="sigma-container" aria-label="Graphe de connaissances Lexis Mollis"></div>
+    <div id="graph-loading" class="graph-overlay">
+      <div class="graph-spinner" aria-hidden="true"></div>
+      <p id="graph-loading-text">Chargement des données du graphe…</p>
+    </div>
+    <div id="graph-error" class="graph-overlay graph-error" hidden>
+      <p class="graph-error-title">Le graphe n'a pas pu s'afficher</p>
+      <p id="graph-error-detail" class="muted"></p>
+      <div class="graph-error-actions">
+        <button id="graph-retry" class="button secondary" type="button">Réessayer</button>
+        <a class="button secondary" href="/data/graph.sigma.json">Données brutes (JSON)</a>
+      </div>
+    </div>
+  </div>
+  <div id="graph-detail" class="graph-detail muted">
+    Clique un nœud pour afficher ses détails et mettre en évidence ses voisins directs
+    (documents similaires, entités liées).
+  </div>
   <noscript>
     <p class="muted">Le graphe interactif nécessite JavaScript. Export brut : <a href="/data/graph.sigma.json">graph.sigma.json</a>.</p>
   </noscript>
@@ -23,69 +48,396 @@
 <script>
   import Graph from "graphology";
   import Sigma from "sigma";
+  import type { Settings } from "sigma/settings";
 
-  const container = document.querySelector("#sigma-container");
-  const detail = document.querySelector("#graph-detail");
-  const count = document.querySelector("#graph-count");
-  const filter = document.querySelector("#graph-filter");
-  const payload = await fetch("/data/graph.sigma.json").then((response) => response.json());
-  const graph = new Graph();
-  const colors = {
-    Document: "#1f6f78",
-    Instrument: "#354a5f",
-    State: "#7b5d2f",
-    Organization: "#594c8f",
-    Topic: "#23724d",
-    default: "#8c96a3"
+  const container = document.querySelector<HTMLElement>("#sigma-container");
+  const loadingEl = document.querySelector<HTMLElement>("#graph-loading");
+  const loadingText = document.querySelector<HTMLElement>("#graph-loading-text");
+  const errorEl = document.querySelector<HTMLElement>("#graph-error");
+  const errorDetail = document.querySelector<HTMLElement>("#graph-error-detail");
+  const retryButton = document.querySelector<HTMLButtonElement>("#graph-retry");
+  const detail = document.querySelector<HTMLElement>("#graph-detail");
+  const count = document.querySelector<HTMLElement>("#graph-count");
+  const filter = document.querySelector<HTMLInputElement>("#graph-filter");
+  const weightSlider = document.querySelector<HTMLInputElement>("#graph-weight");
+  const weightValue = document.querySelector<HTMLElement>("#weight-value");
+  const resetButton = document.querySelector<HTMLButtonElement>("#graph-reset");
+  const nodeTypeToggles = document.querySelector("#node-type-toggles");
+  const edgeTypeToggles = document.querySelector("#edge-type-toggles");
+
+  const colors: Record<string, string> = {
+    Document: "#2f7d8c",
+    Instrument: "#3d5a80",
+    Party: "#c17817",
+    Organization: "#6a4c93",
+    TopicConcept: "#2a9d8f",
+    Place: "#e15554",
+    default: "#94a1b2"
+  };
+  const typeLabels: Record<string, string> = {
+    Document: "Document",
+    Instrument: "Instrument",
+    Party: "État / partie",
+    Organization: "Organisation",
+    TopicConcept: "Thème",
+    Place: "Lieu"
+  };
+  const edgeTypeLabels: Record<string, string> = {
+    similar_to: "Similaire à",
+    translation: "Traduction",
+    same_instrument_as: "Même instrument",
+    about_topic: "Porte sur",
+    dated: "Daté",
+    issued_by: "Émis par",
+    party_to: "Partie à",
+    signed_at: "Signé à"
   };
 
-  for (const node of payload.nodes || []) {
-    graph.addNode(node.id, {
-      label: node.label || node.id,
-      x: Number.isFinite(node.x) ? node.x : Math.random(),
-      y: Number.isFinite(node.y) ? node.y : Math.random(),
-      size: node.size || 4,
-      color: colors[node.type] || colors.default,
-      type: node.type || "Node",
-      document_id: node.document_id || node.id.replace(/^doc:/, "")
-    });
-  }
-
-  for (const edge of payload.edges || []) {
-    if (graph.hasNode(edge.source) && graph.hasNode(edge.target)) {
-      graph.mergeEdge(edge.source, edge.target, {
-        label: edge.type || "link",
-        size: Math.max(1, Number(edge.weight || 1)),
-        color: edge.provisional ? "rgba(154, 91, 31, 0.45)" : "rgba(23, 33, 43, 0.22)"
-      });
+  function showError(err: unknown) {
+    console.error("Graph view failed to initialize", err);
+    if (loadingEl) loadingEl.hidden = true;
+    if (errorEl) errorEl.hidden = false;
+    if (errorDetail) {
+      const message = err instanceof Error ? err.message : String(err);
+      errorDetail.textContent = message || "Erreur inconnue.";
     }
   }
 
-  const renderer = new Sigma(graph, container, {
-    renderEdgeLabels: false,
-    allowInvalidContainer: true
-  });
+  // Draws each label on a small rounded pill instead of raw canvas text, so
+  // labels stay legible over a dense, overlapping graph instead of turning
+  // into an illegible smear of black text.
+  function drawPillLabel(
+    context: CanvasRenderingContext2D,
+    data: { x: number; y: number; size: number; label?: string | null; color?: string },
+    settings: Settings
+  ) {
+    if (!data.label) return;
+    const size = settings.labelSize;
+    context.font = `${settings.labelWeight} ${size}px ${settings.labelFont}`;
+    const width = context.measureText(data.label).width;
+    const paddingX = 7;
+    const paddingY = 4;
+    const x = data.x + data.size + 5;
+    const rectY = data.y - size / 2 - paddingY;
+    const rectH = size + paddingY * 2;
+    const rectW = width + paddingX * 2;
+    const radius = rectH / 2;
 
-  count.textContent = `${graph.order} nœuds · ${graph.size} liens`;
+    context.beginPath();
+    context.moveTo(x + radius, rectY);
+    context.arcTo(x + rectW, rectY, x + rectW, rectY + rectH, radius);
+    context.arcTo(x + rectW, rectY + rectH, x, rectY + rectH, radius);
+    context.arcTo(x, rectY + rectH, x, rectY, radius);
+    context.arcTo(x, rectY, x + rectW, rectY, radius);
+    context.closePath();
+    context.fillStyle = "rgba(20, 27, 36, 0.86)";
+    context.fill();
 
-  renderer.on("clickNode", ({ node }) => {
-    const attrs = graph.getNodeAttributes(node);
-    const href = attrs.type === "Document" ? `/document/${encodeURIComponent(attrs.document_id)}/` : null;
-    detail.innerHTML = href
-      ? `<strong>${attrs.label}</strong><br><span>${attrs.type}</span><br><a class="button secondary" href="${href}">Ouvrir la fiche</a>`
-      : `<strong>${attrs.label}</strong><br><span>${attrs.type}</span>`;
-  });
+    context.fillStyle = data.color || "#fdfaf3";
+    context.fillRect(x + paddingX - 5, rectY + rectH / 2 - 2, 4, 4);
+    context.fillStyle = "#fdfaf3";
+    context.textBaseline = "middle";
+    context.fillText(data.label, x + paddingX, rectY + rectH / 2);
+  }
 
-  filter.addEventListener("input", () => {
-    const q = filter.value.trim().toLowerCase();
-    renderer.setSetting("nodeReducer", (node, data) => {
-      if (!q) return data;
-      const label = String(data.label || "").toLowerCase();
-      if (label.includes(q)) return { ...data, color: "#144d57", size: Math.max(data.size, 8) };
-      return { ...data, color: "rgba(140,150,163,0.18)", label: "" };
+  async function init() {
+    if (!container) return;
+
+    const canvasProbe = document.createElement("canvas");
+    const webglOk = !!(canvasProbe.getContext("webgl2") || canvasProbe.getContext("webgl"));
+    if (!webglOk) {
+      throw new Error(
+        "Ce navigateur ne semble pas prendre en charge WebGL, nécessaire pour le rendu du graphe. Essayez une version récente de Chrome, Firefox ou Edge, ou vérifiez que l'accélération matérielle n'est pas désactivée."
+      );
+    }
+
+    if (loadingText) loadingText.textContent = "Chargement des données du graphe…";
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 30000);
+    let response: Response;
+    try {
+      response = await fetch("/data/graph.sigma.json", { signal: controller.signal });
+    } catch {
+      throw new Error("Le téléchargement des données du graphe a échoué ou a expiré (connexion lente ou interrompue).");
+    } finally {
+      clearTimeout(timeout);
+    }
+    if (!response.ok) {
+      throw new Error(`Le serveur a répondu ${response.status} en tentant de charger les données du graphe.`);
+    }
+    const payload = await response.json();
+
+    if (loadingText) loadingText.textContent = "Construction du graphe…";
+    const graph = new Graph();
+
+    // The exported layout coordinates aren't normalized to [0, 1], but Sigma's
+    // default camera is centered at (0.5, 0.5) with ratio 1 — without rescaling,
+    // it only frames a small off-center slice of the actual graph.
+    const rawXs = (payload.nodes || []).map((n: any) => n.x).filter(Number.isFinite);
+    const rawYs = (payload.nodes || []).map((n: any) => n.y).filter(Number.isFinite);
+    const xMin = rawXs.length ? Math.min(...rawXs) : 0;
+    const xMax = rawXs.length ? Math.max(...rawXs) : 1;
+    const yMin = rawYs.length ? Math.min(...rawYs) : 0;
+    const yMax = rawYs.length ? Math.max(...rawYs) : 1;
+    const xSpan = xMax - xMin || 1;
+    const ySpan = yMax - yMin || 1;
+
+    // Raw `size` is an unbounded connection count (some hub nodes exceed 1000),
+    // not a pixel radius — a sqrt scale keeps hubs visibly bigger without one
+    // node swallowing the whole canvas.
+    const rawSizeMax = Math.max(1, ...(payload.nodes || []).map((n: any) => Number(n.size) || 0));
+    const scaleSize = (value: number) => 3 + 14 * Math.sqrt(Math.max(0, value) / rawSizeMax);
+
+    for (const node of payload.nodes || []) {
+      graph.addNode(node.id, {
+        label: node.label || node.id,
+        x: Number.isFinite(node.x) ? (node.x - xMin) / xSpan : Math.random(),
+        y: Number.isFinite(node.y) ? (node.y - yMin) / ySpan : Math.random(),
+        size: scaleSize(Number(node.size) || 0),
+        baseColor: colors[node.type] || colors.default,
+        color: colors[node.type] || colors.default,
+        entityType: node.type || "Node",
+        document_id: node.document_id || node.id.replace(/^doc:/, "")
+      });
+    }
+
+    for (const edge of payload.edges || []) {
+      if (graph.hasNode(edge.source) && graph.hasNode(edge.target)) {
+        graph.mergeEdge(edge.source, edge.target, {
+          label: edge.type || "link",
+          edgeType: edge.type || "link",
+          // NB: don't set a `type` attribute on nodes/edges — Sigma reserves it
+          // to pick a WebGL rendering program and throws on unknown values.
+          weight: Number(edge.weight || 0),
+          size: Math.max(0.6, Math.min(3, Number(edge.weight || 1) * 2)),
+          baseColor: edge.provisional ? "rgba(193, 120, 23, 0.4)" : "rgba(61, 90, 128, 0.16)",
+          color: edge.provisional ? "rgba(193, 120, 23, 0.4)" : "rgba(61, 90, 128, 0.16)"
+        });
+      }
+    }
+
+    if (!graph.order) {
+      throw new Error("Les données du graphe sont vides.");
+    }
+
+    const renderer = new Sigma(graph, container, {
+      renderEdgeLabels: false,
+      allowInvalidContainer: true,
+      zIndex: true,
+      hideEdgesOnMove: true,
+      hideLabelsOnMove: true,
+      labelRenderedSizeThreshold: 8,
+      labelFont: "Fraunces, Georgia, serif",
+      labelColor: { color: "#fdfaf3" },
+      defaultDrawNodeLabel: drawPillLabel,
+      // Sigma's built-in hover renderer draws a hard-coded white box behind
+      // the label and text in `labelColor` (which is near-white here for
+      // the pill style) — white-on-white while the cursor sits on a node.
+      // Reuse the same pill renderer so hover looks identical to the resting
+      // label instead of briefly turning illegible.
+      defaultDrawNodeHover: drawPillLabel
     });
-    renderer.refresh();
-  });
+
+    if (loadingEl) loadingEl.hidden = true;
+
+    // Soft "reveal" entrance: start slightly zoomed out and settle into place.
+    const camera = renderer.getCamera();
+    camera.setState({ ratio: 1.35 });
+    camera.animate({ ratio: 1 }, { duration: 700, easing: "quadraticOut" });
+
+    count!.textContent = `${graph.order} nœuds · ${graph.size} liens`;
+
+    // -- Filter controls, built from the node/edge types actually present --
+    const activeNodeTypes = new Set(graph.nodes().map((id) => graph.getNodeAttribute(id, "entityType")));
+    const activeEdgeTypes = new Set(graph.edges().map((id) => graph.getEdgeAttribute(id, "edgeType")));
+    const disabledNodeTypes = new Set<string>();
+    const disabledEdgeTypes = new Set<string>();
+
+    for (const type of activeNodeTypes) {
+      const id = `node-type-${type}`;
+      const wrapper = document.createElement("label");
+      wrapper.className = "toggle-chip";
+      wrapper.innerHTML = `<input type="checkbox" id="${id}" checked /><span class="dot" style="background:${colors[type] || colors.default}"></span>${typeLabels[type] || type}`;
+      nodeTypeToggles?.appendChild(wrapper);
+      wrapper.querySelector("input")?.addEventListener("change", (event) => {
+        const checked = (event.target as HTMLInputElement).checked;
+        if (checked) disabledNodeTypes.delete(type);
+        else disabledNodeTypes.add(type);
+        applyFilters();
+      });
+    }
+
+    for (const type of activeEdgeTypes) {
+      const id = `edge-type-${type}`;
+      const wrapper = document.createElement("label");
+      wrapper.className = "toggle-chip";
+      wrapper.innerHTML = `<input type="checkbox" id="${id}" checked />${edgeTypeLabels[type] || type}`;
+      edgeTypeToggles?.appendChild(wrapper);
+      wrapper.querySelector("input")?.addEventListener("change", (event) => {
+        const checked = (event.target as HTMLInputElement).checked;
+        if (checked) disabledEdgeTypes.delete(type);
+        else disabledEdgeTypes.add(type);
+        applyFilters();
+      });
+    }
+
+    let focusNode: string | null = null;
+    let hoverNode: string | null = null;
+    let neighborSet = new Set<string>();
+    let neighborEdges = new Set<string>();
+
+    function edgeVisible(edgeId: string): boolean {
+      const attrs = graph.getEdgeAttributes(edgeId);
+      if (disabledEdgeTypes.has(attrs.edgeType)) return false;
+      if (attrs.weight < Number(weightSlider?.value || 0)) return false;
+      return true;
+    }
+
+    function applyFilters() {
+      const query = (filter?.value || "").trim().toLowerCase();
+      // Only a deliberate click dims the rest of the graph to highlight a
+      // neighborhood — with 6000 nodes packed together, doing that on every
+      // mouse-over instead would flicker the whole canvas near-white as the
+      // cursor crosses node after node while just moving around.
+      const activeNode = focusNode;
+      const activeNeighbors = neighborSet;
+      const activeNeighborEdges = neighborEdges;
+
+      // Drawing all ~27k edges at once fuses the dense core into a solid
+      // white mass — edges are hidden by default and only revealed for the
+      // node currently focused (click) or hovered, which is also the more
+      // useful reading: "what is *this* document connected to," not a
+      // static hairball nobody can parse.
+      renderer.setSetting("edgeReducer", (edge, data) => {
+        if (!edgeVisible(edge)) return { ...data, hidden: true };
+        if (activeNode) return activeNeighborEdges.has(edge)
+          ? { ...data, color: "rgba(60, 210, 190, 0.65)", zIndex: 1 }
+          : { ...data, hidden: true };
+        if (hoverNode) return graph.edges(hoverNode).includes(edge)
+          ? { ...data, color: "rgba(253, 250, 243, 0.45)", zIndex: 1 }
+          : { ...data, hidden: true };
+        return { ...data, hidden: true };
+      });
+
+      renderer.setSetting("nodeReducer", (node, data) => {
+        const attrs = graph.getNodeAttributes(node);
+        if (disabledNodeTypes.has(attrs.entityType)) return { ...data, hidden: true };
+
+        let result = { ...data, color: data.baseColor };
+
+        // Thousands of nodes recolored to a pale, translucent grey still
+        // fuse into a solid white wash once they overlap at this density.
+        // Shrinking them toward invisible — while keeping their own hue —
+        // makes the unrelated part of the graph recede into the dark
+        // background instead of washing it out.
+        if (query) {
+          const label = String(data.label || "").toLowerCase();
+          if (!label.includes(query)) return { ...result, size: Math.min(data.size, 1.4), label: "" };
+          result = { ...result, color: "#144d57", size: Math.max(data.size, 9), zIndex: 2 };
+        }
+
+        if (activeNode) {
+          if (node === activeNode) return { ...result, color: "#144d57", size: Math.max(data.size, 12), zIndex: 3 };
+          if (activeNeighbors.has(node)) return { ...result, size: Math.max(data.size, 7), zIndex: 2 };
+          return { ...result, size: Math.min(data.size, 1.4), label: "" };
+        }
+
+        // Light hover affordance: only the hovered node itself gets a nudge,
+        // the rest of the graph stays untouched.
+        if (node === hoverNode) {
+          return { ...result, size: Math.max(data.size, 10), zIndex: 3, forceLabel: true };
+        }
+
+        return result;
+      });
+
+      renderer.refresh();
+    }
+
+    function describeNeighbors(node: string): string {
+      const rows = graph
+        .edges(node)
+        .filter(edgeVisible)
+        .map((edgeId) => {
+          const other = graph.opposite(node, edgeId);
+          const otherAttrs = graph.getNodeAttributes(other);
+          const edgeAttrs = graph.getEdgeAttributes(edgeId);
+          const href = otherAttrs.entityType === "Document" ? `/document/${encodeURIComponent(otherAttrs.document_id)}/` : null;
+          const label = href ? `<a href="${href}">${otherAttrs.label}</a>` : otherAttrs.label;
+          return { label, type: edgeAttrs.edgeType, weight: edgeAttrs.weight, other };
+        })
+        .sort((a, b) => b.weight - a.weight)
+        .slice(0, 12);
+
+      if (!rows.length) return "<p class=\"muted\">Aucun lien visible avec les filtres actuels.</p>";
+      return `<ul class="neighbor-list">${rows
+        .map((row) => `<li>${row.label} <span>${edgeTypeLabels[row.type] || row.type} · ${row.weight.toFixed(2)}</span></li>`)
+        .join("")}</ul>`;
+    }
+
+    renderer.on("clickNode", ({ node }) => {
+      const attrs = graph.getNodeAttributes(node);
+      const href = attrs.entityType === "Document" ? `/document/${encodeURIComponent(attrs.document_id)}/` : null;
+
+      focusNode = node;
+      neighborEdges = new Set(graph.edges(node));
+      neighborSet = new Set(graph.neighbors(node));
+
+      detail!.innerHTML = `
+        <strong>${attrs.label}</strong><br>
+        <span>${typeLabels[attrs.entityType] || attrs.entityType}</span>
+        ${href ? `<br><a class="button secondary" href="${href}">Ouvrir la fiche</a>` : ""}
+        <div class="neighbor-head">Liens directs (${neighborSet.size})</div>
+        ${describeNeighbors(node)}
+      `;
+
+      applyFilters();
+    });
+
+    renderer.on("clickStage", () => {
+      focusNode = null;
+      neighborSet = new Set();
+      neighborEdges = new Set();
+      detail!.innerHTML = "Clique un nœud pour afficher ses détails et mettre en évidence ses voisins directs (documents similaires, entités liées).";
+      applyFilters();
+    });
+
+    renderer.on("enterNode", ({ node }) => {
+      if (focusNode) return;
+      hoverNode = node;
+      container.style.cursor = "pointer";
+      applyFilters();
+    });
+
+    renderer.on("leaveNode", () => {
+      if (focusNode) return;
+      hoverNode = null;
+      container.style.cursor = "default";
+      applyFilters();
+    });
+
+    filter?.addEventListener("input", applyFilters);
+    weightSlider?.addEventListener("input", () => {
+      if (weightValue) weightValue.textContent = Number(weightSlider.value).toFixed(2);
+      applyFilters();
+    });
+    resetButton?.addEventListener("click", () => {
+      if (filter) filter.value = "";
+      if (weightSlider) weightSlider.value = "0";
+      if (weightValue) weightValue.textContent = "0.00";
+      focusNode = null;
+      neighborSet = new Set();
+      neighborEdges = new Set();
+      detail!.innerHTML = "Clique un nœud pour afficher ses détails et mettre en évidence ses voisins directs (documents similaires, entités liées).";
+      applyFilters();
+    });
+
+    applyFilters();
+  }
+
+  retryButton?.addEventListener("click", () => location.reload());
+
+  init().catch(showError);
 </script>
 
 <style>
@@ -119,22 +471,61 @@
     padding: 0.72rem 0.86rem;
   }
 
-  .graph-legend {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.9rem;
-    margin: 0 0 14px;
+  #graph-weight {
+    min-height: 24px;
     padding: 0;
-    list-style: none;
-    color: var(--muted);
-    font-size: 0.84rem;
-    font-weight: 700;
+    border: none;
   }
 
-  .graph-legend li {
+  #graph-reset {
+    align-self: end;
+    white-space: nowrap;
+  }
+
+  .graph-toggles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+    margin: 0 0 14px;
+  }
+
+  .graph-toggles fieldset {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6rem;
+    margin: 0;
+    padding: 0.4rem 0;
+    border: none;
+  }
+
+  .graph-toggles legend {
+    width: 100%;
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
+
+  .toggle-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  }
+
+  .toggle-chip {
     display: inline-flex;
     align-items: center;
-    gap: 0.4rem;
+    gap: 0.35rem;
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--ink);
+    cursor: pointer;
+  }
+
+  .toggle-chip input {
+    accent-color: #2f7d8c;
   }
 
   .dot {
@@ -144,14 +535,103 @@
     flex-shrink: 0;
   }
 
-  #sigma-container {
+  .neighbor-head {
+    margin-top: 0.6rem;
+    font-weight: 800;
+    font-size: 0.84rem;
+  }
+
+  .neighbor-list {
+    display: grid;
+    gap: 0.35rem;
+    margin: 0;
+    padding-left: 1rem;
+    font-size: 0.86rem;
+  }
+
+  .neighbor-list li span {
+    display: block;
+    color: var(--muted);
+    font-size: 0.78rem;
+  }
+
+  .graph-canvas-wrap {
+    position: relative;
     height: min(66vh, 620px);
     min-height: 420px;
-    border: 1px solid var(--line);
+  }
+
+  #sigma-container {
+    position: absolute;
+    inset: 0;
+    border: 1px solid rgba(20, 27, 36, 0.5);
     border-radius: var(--radius-md);
+    overflow: hidden;
     background:
-      radial-gradient(circle at 20% 20%, rgba(31, 111, 120, 0.12), transparent 20rem),
-      #fffefb;
+      radial-gradient(circle at 18% 12%, rgba(47, 125, 140, 0.35), transparent 42%),
+      radial-gradient(circle at 82% 88%, rgba(106, 76, 147, 0.28), transparent 45%),
+      radial-gradient(circle at 60% 30%, rgba(42, 157, 143, 0.16), transparent 55%),
+      linear-gradient(160deg, #10151c 0%, #161d27 55%, #1b232f 100%);
+    box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.35);
+  }
+
+  .graph-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.9rem;
+    padding: 2rem;
+    text-align: center;
+    border-radius: var(--radius-md);
+    background: rgba(16, 21, 28, 0.72);
+    color: #fdfaf3;
+    backdrop-filter: blur(2px);
+  }
+
+  /* `display: flex` above has author-origin precedence over the UA's
+     `[hidden] { display: none }` rule, so it must be restated explicitly
+     or the `hidden` property/attribute stops hiding this element. */
+  .graph-overlay[hidden] {
+    display: none;
+  }
+
+  .graph-spinner {
+    width: 34px;
+    height: 34px;
+    border-radius: 999px;
+    border: 3px solid rgba(253, 250, 243, 0.22);
+    border-top-color: #2a9d8f;
+    animation: graph-spin 0.85s linear infinite;
+  }
+
+  @keyframes graph-spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  .graph-error {
+    background: rgba(16, 21, 28, 0.92);
+  }
+
+  .graph-error-title {
+    font-size: 1.05rem;
+    font-weight: 800;
+  }
+
+  .graph-error .muted {
+    color: rgba(253, 250, 243, 0.7);
+    max-width: 46ch;
+  }
+
+  .graph-error-actions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.6rem;
   }
 
   .graph-detail {
