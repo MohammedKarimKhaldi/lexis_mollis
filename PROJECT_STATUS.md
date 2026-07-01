@@ -199,7 +199,7 @@ Déploiement direct vérifié :
 
 ```text
 URL: https://lexis-mollis.mk-74a.workers.dev
-Version ID: 7793e9f4-b261-43ea-a7cd-569b15c65d92
+Version ID: 5eeb3783-b203-44e6-a91d-bc1355195531
 Checks: /, /recherche/, /graphe/ et /data/manifest.json en HTTP 200
 ```
 
