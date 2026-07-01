@@ -8,6 +8,10 @@ from .config import SimilarityConfig
 from .io import read_parquet_records, write_parquet_records
 
 
+def _clamp01(value: float) -> float:
+    return max(0.0, min(1.0, value))
+
+
 def _normalise(vectors: np.ndarray) -> np.ndarray:
     vectors = np.asarray(vectors, dtype=np.float32)
     norms = np.linalg.norm(vectors, axis=1, keepdims=True)
@@ -58,7 +62,7 @@ def semantic_pairs(embeddings_npy: Path, embeddings_index_pq: Path, cfg: Similar
                     continue
                 dst = id_rows[int(dst_row)]["chunk_id"]
                 a, b = sorted((src, dst))
-                score_value = float(score)
+                score_value = _clamp01(float(score))
                 previous = pairs.get((a, b))
                 if previous is None or score_value > previous:
                     pairs[(a, b)] = score_value
@@ -68,4 +72,3 @@ def semantic_pairs(embeddings_npy: Path, embeddings_index_pq: Path, cfg: Similar
         for (src, dst), score in sorted(pairs.items())
     ]
     return write_parquet_records(records, out_dir / "semantic_pairs.parquet")
-

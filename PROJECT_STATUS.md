@@ -34,9 +34,17 @@ légende des couleurs du graphe, recherche avec état de chargement + debounce, 
 445 pages qui rendait la fiche très lourde sans ce découpage). Build Astro vérifié en
 local (106 pages générées, 0 erreur).
 
-Ce qui reste avant le déploiement public complet : lancer les builds **complets** (pas
-pilotes) de similarité/graphe/release sur les 3 146 documents, finaliser le déploiement
-Cloudflare, et faire l'annotation humaine de calibration des seuils de similarité.
+Le build **complet** de similarité a maintenant été lancé sur les 3 146 documents :
+`outputs_v2/similarity/manifest.json` indique 30 285 chunks, 24 446 paires lexicales,
+461 840 paires sémantiques, 310 098 arêtes chunk, 87 451 arêtes document et 116 clusters.
+La calibration reste volontairement non revendiquée : `benchmarks/similarity_cases.json`
+contient encore 0 cas annoté, et `outputs_v2/similarity/calibration_report.json` signale
+`insufficient_annotations`. Une shortlist de 120 candidats humains est disponible dans
+`outputs_v2/similarity/calibration_candidates.csv` / `.json`.
+
+Ce qui reste avant le déploiement public complet : annoter les paires de calibration,
+valider/enrichir les gazetteers puis lancer les builds **complets** graphe/release sur les
+3 146 documents, finaliser le déploiement Cloudflare, et publier la release.
 
 **Changements locaux traités par Claude (2026-06-30) :** données pilote (100 documents) et
 améliorations UI ci-dessus committées sur `main`. Le push depuis le bac à sable Claude
@@ -57,6 +65,8 @@ origin main` depuis la machine de l'utilisateur reste nécessaire après chaque 
 | Branch protection | À configurer | Pas encore de protection `main`/required checks. |
 | OCR | **Terminé** | 3 146/3 146 documents, 26 566 pages, 0 erreur, run sorti `status=0`. |
 | Audit complet | **Terminé** | `outputs_v2/kb/` et `outputs_v2/audit/` régénérés sur le corpus complet (26 566 lignes chacun), 6 084 pages en file de révision (`outputs_v2/review_queue.csv` : 6 085 lignes avec en-tête). |
+| Similarité complète | **Construite, non calibrée** | `outputs_v2/similarity/` : 30 285 chunks, 87 451 arêtes document, 116 clusters. Scores bornés `[0,1]`, IDs de chunks uniques. Calibration bloquée par annotation humaine ≥30/≥30. |
+| Candidats gazetteer | Préparés | `outputs_v2/graph/gazetteer_candidates.csv` : 300 candidats fréquents non couverts à valider avant modification de `data/gazetteers/*.csv`. |
 
 ## Statut par epic
 
@@ -64,13 +74,72 @@ origin main` depuis la machine de l'utilisateur reste nécessaire après chaque 
 |---|---:|---|
 | A — Infrastructure & gouvernance | Partiel avancé | GitHub public OK, HF dataset OK, CI OK. Reste : branch protection, éventuelle org GitHub `lexis-mollis`, premier DOI Zenodo après release. |
 | B — Modèle de données & standards | Fait | Schémas, taxonomie, ontologie, identifiants et validation automatisée en place. |
-| C — Similarité | Implémenté, pilote fait | OCR terminé : build complet à lancer maintenant sur les 3 146 documents (le `similarity_pilot` actuel n'a qu'1 arête/2 clusters, donc non représentatif). Annoter ≥30 paires positives et ≥30 négatives pour calibrer les seuils (`benchmarks/similarity_cases.json` existe mais contient 0 cas ; `scripts/calibrate_similarity.py` prêt). Plan détaillé : [`CODEX_NEXT_STEPS_SIMILARITY_GRAPH.md`](CODEX_NEXT_STEPS_SIMILARITY_GRAPH.md). |
-| D — Knowledge graph | Implémenté, pilote fait | Build complet à lancer après le build de similarité complet ; gazetteers très minces aujourd'hui (12 États, 9 organisations, 10 lieux) à étoffer avant le run complet ; valider un échantillon d'entités (≥50 mentions). Plan détaillé : [`CODEX_NEXT_STEPS_SIMILARITY_GRAPH.md`](CODEX_NEXT_STEPS_SIMILARITY_GRAPH.md). |
+| C — Similarité | Build complet fait, calibration bloquée | `outputs_v2/similarity/` construit sur 3 146 documents. Fix appliqué : IDs de chunks document-scoped pour conserver les alias de PDF exacts ; scores FAISS clampés à `[0,1]`. Reste : annoter ≥30 paires positives et ≥30 négatives dans `benchmarks/similarity_cases.json`, puis relancer `scripts/calibrate_similarity.py` et re-builder avec seuils calibrés. |
+| D — Knowledge graph | Implémenté, pilote fait ; préparation complète en cours | Build complet à lancer après validation/enrichissement des gazetteers et calibration ou décision explicite d'utiliser les seuils provisoires. `outputs_v2/graph/gazetteer_candidates.csv` propose 300 candidats à valider ; gazetteers actuels encore minces (12 États, 9 organisations, 10 lieux). Reste aussi : valider un échantillon d'entités (≥50 mentions). |
 | E — Export & publication | Outillage local fait | Publier vers HF après release complète ; DOI Zenodo après tag ; droits PDF à revoir avant Internet Archive. |
 | F — Plateforme web | Scaffold déployable, données pilote committées, UI améliorée | Astro + Workers Static Assets, 100 documents pilote committés, pages principales avec navigation active/footer/légende graphe/sommaire documents longs, Sigma.js et Spaces search/SPARQL scaffolds. Reste : brancher release complète (3 146 documents), recherche FAISS/BM25 réelle, confirmer URL publique Cloudflare. |
 | G — CI/CD | Partiel | CI qualité OK. Reste : `build-derive.yml`, `release.yml`, `deploy-site.yml`, `keepalive.yml`. |
 | H — Expansion corpus | Non commencé | Choisir et implémenter le premier connecteur, probablement EUR-Lex, avec droits/provenance explicites. |
 | I — Révision communauté | Non commencé | Générer lots de révision ; choisir mini-interface Astro ou workflow issues GitHub ; stocker `review_events.jsonl`. |
+
+## Base de données publique & affichage — plan verrouillé
+
+Décision d'architecture : **Hugging Face Dataset est la source canonique complète** et
+Cloudflare reste la vitrine publique optimisée. Les exports lourds (`outputs_v2/release`,
+Parquet, RDF, embeddings, index FAISS) ne sont pas committés dans Git ; ils sont publiés via
+Hugging Face/Zenodo, tandis que le site charge des JSON statiques réduits produits depuis la
+release.
+
+Flux prévu :
+
+1. Finaliser la calibration humaine de similarité : annoter ≥30 positifs et ≥30 négatifs
+   dans `benchmarks/similarity_cases.json`, puis relancer `scripts/calibrate_similarity.py`.
+2. Valider/enrichir les gazetteers depuis `outputs_v2/graph/gazetteer_candidates.csv`, puis
+   lancer le graphe complet dans `outputs_v2/graph`.
+3. Construire la release complète :
+   ```bash
+   .venv/bin/python scripts/build_release_tables.py \
+     --kb outputs_v2/kb/pages.jsonl \
+     --similarity outputs_v2/similarity \
+     --graph outputs_v2/graph \
+     --output outputs_v2/release \
+     --scope full_corpus_v0_1
+   ```
+4. Préparer puis publier la base canonique sur Hugging Face :
+   ```bash
+   .venv/bin/python scripts/export_hf_dataset.py --release outputs_v2/release
+   .venv/bin/python scripts/export_hf_dataset.py --release outputs_v2/release --upload
+   ```
+   Dataset cible : `lexis-mollis/soft-law-corpus`.
+5. Générer la couche Cloudflare depuis la release :
+   ```bash
+   .venv/bin/python platform/scripts/build_site_data.py \
+     --release outputs_v2/release \
+     --site platform/site/public/data \
+     --max-documents 4000 \
+     --max-graph-nodes 3000 \
+     --search-text-chars 1200
+   ```
+6. Tester et déployer :
+   ```bash
+   npm run build
+   npx wrangler deploy --dry-run
+   npx wrangler deploy
+   ```
+
+Critères d'acceptation de la base publique :
+
+- `outputs_v2/release/release_manifest.json` indique 3 146 documents et 26 566 pages.
+- Le dataset HF expose les tables `documents`, `pages`, `chunks`, `edges`, `nodes` et le
+  dossier `graph/`.
+- Le site Cloudflare expose `manifest.json`, `documents.json`, `search.json`,
+  `facets.json`, `docs/<document_id>.json` et `graph.sigma.json`.
+- Les fiches documents affichent titre, type, année, langues, score qualité, statut de
+  révision, texte OCR, documents similaires, licence et liens vers les données.
+- Les pages faibles restent visibles avec `review_required` / `review_priority` et les
+  relations incertaines restent marquées `provisional`.
+- Aucun asset statique Cloudflare ne dépasse 25 MiB et le nombre de fichiers reste sous la
+  limite du palier gratuit ; les gros exports complets restent servis par HF/Zenodo.
 
 ## Déploiement Cloudflare — configuration
 
@@ -131,20 +200,43 @@ unset CLOUDFLARE_ACCOUNT_ID
    `package.json`, `package-lock.json`, `wrangler.jsonc`, `.nvmrc`, `.npmrc`, puis `platform/`
    (en excluant `node_modules/`, `dist/`, `.astro/`, `.wrangler/` — déjà couverts par le
    `.gitignore` modifié).
-3. Lancer le build complet sur les 3 146 documents (OCR et audit déjà faits, donc
-   l'étape `audit` ci-dessous est surtout une re-vérification rapide) :
+3. Annoter la calibration de similarité :
+   - ouvrir `outputs_v2/similarity/calibration_candidates.csv` ;
+   - copier ≥30 cas positifs et ≥30 cas négatifs validés dans `benchmarks/similarity_cases.json` ;
+   - renseigner `label`, `expected_type` et `notes`.
+4. Lancer la calibration et, si les seuils changent, re-builder la similarité :
    ```bash
-   .venv/bin/python -m pdfkb audit --state metadata/pipeline.sqlite3 --output outputs_v2 --light
-   .venv/bin/python -m pdfkb similarity build --kb outputs_v2/kb/pages.jsonl --output outputs_v2/similarity
-   .venv/bin/python -m pdfkb graph build --kb outputs_v2/kb/pages.jsonl --similarity outputs_v2/similarity --output outputs_v2/graph
+   .venv/bin/python scripts/calibrate_similarity.py \
+     --similarity-dir outputs_v2/similarity \
+     --cases benchmarks/similarity_cases.json \
+     --output outputs_v2/similarity/calibration_report.json
+
+   OMP_NUM_THREADS=1 VECLIB_MAXIMUM_THREADS=1 OPENBLAS_NUM_THREADS=1 \
+     .venv/bin/python -m pdfkb similarity build \
+     --kb outputs_v2/kb/pages.jsonl \
+     --output outputs_v2/similarity \
+     --model sentence-transformers/LaBSE \
+     --target-tokens 384 --overlap 64 \
+     --seed 20260701
+   ```
+5. Valider/enrichir les gazetteers depuis `outputs_v2/graph/gazetteer_candidates.csv`, puis lancer le graphe complet :
+   ```bash
+   .venv/bin/python -m pdfkb graph build \
+     --kb outputs_v2/kb/pages.jsonl \
+     --similarity outputs_v2/similarity \
+     --output outputs_v2/graph \
+     --ontology metadata_design/ontology.ttl \
+     --gazetteers data/gazetteers \
+     --min-confidence 0.70 \
+     --seed 20260701
+   ```
+6. Valider ≥50 mentions d'entités, puis générer la release complète :
+   ```bash
    .venv/bin/python scripts/build_release_tables.py
    ```
-4. Annoter ≥30 paires positives et ≥30 négatives et lancer
-   `scripts/calibrate_similarity.py` pour calibrer les seuils avant de communiquer
-   sur la qualité de la similarité.
-5. Déployer le scaffold Astro Cloudflare avec les commandes ci-dessus.
-6. Ajouter `deploy-site.yml` Cloudflare si le déploiement doit passer par GitHub Actions.
-7. Ajouter `release.yml`, publier le dataset HF, créer le tag GitHub `v0.1.0`, récupérer le DOI Zenodo et le reporter dans `CITATION.cff`, `README.md` et la card Hugging Face.
+7. Déployer le scaffold Astro Cloudflare avec les commandes ci-dessus.
+8. Ajouter `deploy-site.yml` Cloudflare si le déploiement doit passer par GitHub Actions.
+9. Ajouter `release.yml`, publier le dataset HF, créer le tag GitHub `v0.1.0`, récupérer le DOI Zenodo et le reporter dans `CITATION.cff`, `README.md` et la card Hugging Face.
 
 ## Points de vigilance
 

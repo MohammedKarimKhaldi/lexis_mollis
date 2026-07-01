@@ -82,6 +82,18 @@ class SimilarityTests(unittest.TestCase):
         self.assertTrue(any(":p0002:" in chunk["chunk_id"] for chunk in first))
         self.assertTrue(all(chunk["source_sha256"] in {SHA_A, SHA_B} for chunk in first))
 
+    def test_chunk_ids_preserve_document_aliases_for_duplicate_pdfs(self) -> None:
+        cfg = SimilarityConfig(target_tokens=32, overlap_tokens=0)
+        pages = [
+            page_record(SHA_A, "doc_alias_a", 1, "same physical pdf, first documentary alias"),
+            page_record(SHA_A, "doc_alias_b", 1, "same physical pdf, second documentary alias"),
+        ]
+        chunks = list(chunk_pages(pages, cfg, FakeTokenizer()))
+        self.assertEqual(len(chunks), 2)
+        self.assertEqual({chunk["source_sha256"] for chunk in chunks}, {SHA_A})
+        self.assertEqual({chunk["document_id"] for chunk in chunks}, {"doc_alias_a", "doc_alias_b"})
+        self.assertEqual(len({chunk["chunk_id"] for chunk in chunks}), 2)
+
     def test_lexical_normalisation_and_ngrams(self) -> None:
         self.assertEqual(normalise_lexical("État,  ÉTAT!"), "etat etat")
         self.assertEqual(char_ngrams("abc", 5), {"abc"})
@@ -149,10 +161,12 @@ class SimilarityTests(unittest.TestCase):
             ]
             chunks_pq = write_parquet_records(chunks, root / "chunks.parquet")
             lexical_pq = write_parquet_records([{"src": "c1", "dst": "c2", "jaccard": 0.1}], root / "lexical_pairs.parquet")
-            semantic_pq = write_parquet_records([{"src": "c1", "dst": "c2", "cosine": 0.86}], root / "semantic_pairs.parquet")
+            semantic_pq = write_parquet_records([{"src": "c1", "dst": "c2", "cosine": 1.000001}], root / "semantic_pairs.parquet")
             edges_pq = fuse_pairs(lexical_pq, semantic_pq, chunks_pq, SimilarityConfig(), root)
             edges = read_parquet_records(edges_pq)
             self.assertEqual(edges[0]["type"], "translation")
+            self.assertLessEqual(edges[0]["semantic"], 1.0)
+            self.assertLessEqual(edges[0]["combined"], 1.0)
             self.assertTrue(edges[0]["provisional"])
             schema = json.loads(Path("metadata_design/edge.schema.json").read_text(encoding="utf-8"))
             Draft202012Validator.check_schema(schema)
@@ -200,4 +214,3 @@ class SimilarityTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

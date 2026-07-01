@@ -74,6 +74,23 @@ def _page_tags(page: dict) -> list[str]:
     return sorted(tags)
 
 
+def _chunk_identity_sha(page: dict) -> str:
+    """Return a schema-compatible digest for a document-scoped chunk id.
+
+    The OCR inventory intentionally preserves aliases for exact duplicate PDFs:
+    several documentary records can point at the same physical ``source_sha256``.
+    A chunk id based only on ``source_sha256 + page + chunk_index`` therefore
+    collapses those aliases, which makes MinHash/FAISS unable to distinguish
+    document-level relationships.  We keep the original physical SHA in the
+    dedicated ``source_sha256`` field and derive the first chunk-id segment from
+    both the document alias and the physical source.
+    """
+
+    document_id = str(page.get("document_id") or page.get("source_filename") or "")
+    source_sha256 = str(page["source_sha256"])
+    return text_sha256(f"{document_id}\0{source_sha256}")
+
+
 def chunk_pages(pages: Iterable[dict], cfg: SimilarityConfig, tokenizer: Any | None) -> Iterator[dict]:
     if cfg.target_tokens <= 0:
         raise ValueError("target_tokens must be > 0")
@@ -89,6 +106,7 @@ def chunk_pages(pages: Iterable[dict], cfg: SimilarityConfig, tokenizer: Any | N
         if not offsets:
             continue
 
+        identity_sha = _chunk_identity_sha(page)
         chunk_index = 0
         start_token = 0
         while start_token < len(offsets):
@@ -98,7 +116,7 @@ def chunk_pages(pages: Iterable[dict], cfg: SimilarityConfig, tokenizer: Any | N
             char_start, char_end, chunk_text = _trimmed_span(text, char_start, char_end)
             if chunk_text:
                 yield {
-                    "chunk_id": make_chunk_id(page["source_sha256"], int(page["page_number"]), chunk_index),
+                    "chunk_id": make_chunk_id(identity_sha, int(page["page_number"]), chunk_index),
                     "source_sha256": page["source_sha256"],
                     "document_id": page["document_id"],
                     "source_filename": page.get("source_filename") or "",
@@ -132,4 +150,3 @@ def chunks_from_jsonl(kb: Path, cfg: SimilarityConfig, tokenizer: Any | None, ou
     pages = read_jsonl(kb, limit=cfg.limit_pages)
     chunks = list(chunk_pages(pages, cfg, tokenizer))
     return write_parquet_records(chunks, out_dir / "chunks.parquet")
-

@@ -8,6 +8,10 @@ from .config import SimilarityConfig
 from .io import read_parquet_records, write_parquet_records
 
 
+def _clamp01(value: float) -> float:
+    return max(0.0, min(1.0, value))
+
+
 def _language_differs(left: dict, right: dict) -> bool:
     left_langs = {lang for lang in left.get("language") or [] if lang}
     right_langs = {lang for lang in right.get("language") or [] if lang}
@@ -44,13 +48,13 @@ def fuse_pairs(lexical_pq: Path, semantic_pq: Path, chunks_pq: Path, cfg: Simila
             continue
         left = chunks[src]
         right = chunks[dst]
-        lexical = float(scores.get("lexical", 0.0))
-        semantic = float(scores.get("semantic", 0.0))
+        lexical = _clamp01(float(scores.get("lexical", 0.0)))
+        semantic = _clamp01(float(scores.get("semantic", 0.0)))
         edge_type = _edge_type(lexical, semantic, left, right, cfg)
         if edge_type is None:
             continue
-        combined = cfg.w_lexical * lexical + cfg.w_semantic * semantic
-        quality_weight = min(float(left.get("quality_score") or 0), float(right.get("quality_score") or 0))
+        combined = _clamp01(cfg.w_lexical * lexical + cfg.w_semantic * semantic)
+        quality_weight = _clamp01(min(float(left.get("quality_score") or 0), float(right.get("quality_score") or 0)))
         provisional = bool(left.get("review_required") or right.get("review_required"))
         records.append(
             {
@@ -70,4 +74,3 @@ def fuse_pairs(lexical_pq: Path, semantic_pq: Path, chunks_pq: Path, cfg: Simila
         )
 
     return write_parquet_records(records, out_dir / "edges.parquet")
-
