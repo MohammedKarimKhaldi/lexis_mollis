@@ -2,8 +2,10 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "lexis-mollis",
   "compatibility_date": "2026-06-30",
+  "main": "./worker/ask.ts",
   "assets": {
     "directory": "./dist",
+    "binding": "ASSETS",
     "not_found_handling": "single-page-application"
   },
   "observability": {

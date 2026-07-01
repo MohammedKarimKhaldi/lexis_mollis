@@ -1,0 +1,156 @@
+<section class="ask-shell card" aria-label="Assistant de recherche">
+  <form id="ask-form">
+    <label>
+      <span>Votre question</span>
+      <textarea id="ask-input" rows="2" placeholder="ex. Quels traités concernent la Roumanie après 1918 ?" required></textarea>
+    </label>
+    <button class="button primary" type="submit" id="ask-submit">Poser la question</button>
+  </form>
+  <div id="ask-status" class="muted" aria-live="polite"></div>
+  <div id="ask-answer" class="ask-answer" hidden></div>
+  <ul id="ask-sources" class="ask-sources"></ul>
+  <noscript>
+    <p class="muted">L'assistant nécessite JavaScript. Utilisez la <a href="/recherche/">recherche plein texte</a> à la place.</p>
+  </noscript>
+</section>
+
+<script>
+  const form = document.querySelector<HTMLFormElement>("#ask-form");
+  const input = document.querySelector<HTMLTextAreaElement>("#ask-input");
+  const submitButton = document.querySelector<HTMLButtonElement>("#ask-submit");
+  const statusEl = document.querySelector<HTMLElement>("#ask-status");
+  const answerEl = document.querySelector<HTMLElement>("#ask-answer");
+  const sourcesEl = document.querySelector<HTMLUListElement>("#ask-sources");
+
+  interface Source {
+    document_id: string;
+    title?: string;
+    year?: number;
+    score: number;
+  }
+
+  function renderSources(sources: Source[]) {
+    if (!sourcesEl) return;
+    sourcesEl.innerHTML = sources
+      .map(
+        (source) =>
+          `<li><a href="/document/${encodeURIComponent(source.document_id)}/">${source.title || source.document_id}</a>` +
+          `<span>${source.year || "année n/a"} · score ${source.score.toFixed(2)}</span></li>`
+      )
+      .join("");
+  }
+
+  form?.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    const query = input?.value.trim();
+    if (!query || !statusEl || !answerEl || !sourcesEl || !submitButton) return;
+
+    submitButton.disabled = true;
+    statusEl.textContent = "Recherche dans le corpus puis interrogation du modèle…";
+    answerEl.hidden = true;
+    sourcesEl.innerHTML = "";
+
+    try {
+      const response = await fetch("/api/ask", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ query })
+      });
+      const payload = await response.json();
+
+      if (payload.sources?.length) renderSources(payload.sources);
+
+      if (payload.answer) {
+        answerEl.textContent = payload.answer;
+        answerEl.hidden = false;
+        statusEl.textContent = payload.sources?.length
+          ? `Réponse basée sur ${payload.sources.length} document(s) du corpus.`
+          : "";
+      } else if (payload.error) {
+        statusEl.textContent = payload.error;
+      } else {
+        statusEl.textContent = "Aucune réponse retournée.";
+      }
+    } catch (error) {
+      statusEl.textContent = "L'assistant n'a pas pu être contacté. Réessayez dans un instant.";
+    } finally {
+      submitButton.disabled = false;
+    }
+  });
+</script>
+
+<style>
+  .ask-shell {
+    padding: 24px;
+    display: grid;
+    gap: 16px;
+  }
+
+  form {
+    display: grid;
+    gap: 12px;
+  }
+
+  label {
+    display: grid;
+    gap: 0.42rem;
+    color: var(--muted);
+    font-size: 0.84rem;
+    font-weight: 800;
+  }
+
+  textarea {
+    width: 100%;
+    resize: vertical;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: #fffefb;
+    color: var(--ink);
+    padding: 0.72rem 0.86rem;
+    font: inherit;
+  }
+
+  button[type="submit"] {
+    justify-self: start;
+  }
+
+  .ask-answer {
+    padding: 18px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    background: rgba(31, 111, 120, 0.06);
+    white-space: pre-wrap;
+    line-height: 1.6;
+  }
+
+  .ask-sources {
+    display: grid;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  /* Source <li> items are injected via innerHTML at runtime, so they never
+     get Astro's build-time scoping attribute — these rules must be :global
+     to reach them (same pattern as SearchInterface.astro's .result). */
+  :global(.ask-sources li) {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 10px 14px;
+    border: 1px dashed var(--line);
+    border-radius: 12px;
+  }
+
+  :global(.ask-sources a) {
+    color: var(--accent-strong);
+    font-weight: 800;
+  }
+
+  :global(.ask-sources span) {
+    color: var(--muted);
+    font-size: 0.84rem;
+  }
+</style>

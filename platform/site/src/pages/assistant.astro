@@ -1,0 +1,38 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import AskAssistant from "../components/AskAssistant.astro";
+---
+
+<BaseLayout title="Assistant">
+  <section class="section container intro">
+    <h1>Assistant</h1>
+    <p class="muted">
+      Posez une question en langage naturel : elle est d'abord recherchée dans le corpus publié
+      (recherche + liens de similarité issus du graphe de connaissances), puis la réponse est
+      générée à partir des extraits trouvés — jamais inventée hors du corpus. Réponses en cours
+      d'évaluation, à vérifier auprès des sources citées.
+    </p>
+  </section>
+  <section class="container">
+    <AskAssistant />
+  </section>
+</BaseLayout>
+
+<style>
+  .intro {
+    padding-bottom: 28px;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: clamp(3rem, 7vw, 6rem);
+    line-height: 0.95;
+    letter-spacing: -0.07em;
+  }
+
+  p {
+    max-width: 72ch;
+    margin-top: 1rem;
+    font-size: 1.08rem;
+  }
+</style>

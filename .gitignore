@@ -21,6 +21,10 @@ platform/site/dist/
 platform/site/.astro/
 platform/site/.wrangler/
 platform/site/.mf/
+.wrangler/
+
+# Local Claude Code session state (permissions, launch config, locks)
+.claude/
 
 # Local OCR corpus/state/output artifacts
 traites/
