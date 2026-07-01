@@ -1,6 +1,6 @@
 # Lexis Mollis — statut de déploiement
 
-Dernière mise à jour vérifiée : 2026-07-01 (Codex : évaluation LLM provisoire, graphe/release complets, dataset Hugging Face publié, site Cloudflare déployé).
+Dernière mise à jour vérifiée : 2026-07-01 (Codex : évaluation LLM provisoire, graphe/release complets, dataset Hugging Face publié, site Cloudflare déployé, release GitHub `v0.1.0` créée).
 
 ## Résumé
 
@@ -52,19 +52,20 @@ provisoires et 12 786 arêtes provisoires.
 `outputs_v2/release/release_manifest.json` indique 3 146 documents, 26 566 pages,
 30 285 chunks, 414 304 arêtes et 8 441 nœuds.
 
-Ce qui reste avant une publication académique/release v0.1.0 propre : remplacer ou confirmer
+Ce qui reste avant une publication académique vraiment solide : remplacer ou confirmer
 les annotations LLM par une validation humaine, valider un échantillon de mentions d'entités,
-créer le tag GitHub pour Zenodo, puis reporter le DOI.
+puis reporter le DOI Zenodo lorsqu'il sera visible.
 
 ## État vérifié
 
 | Élément | Statut | Preuve / note |
 |---|---:|---|
-| GitHub repo | OK | `MohammedKarimKhaldi/lexis_mollis`, public, branche `main`. |
+| GitHub repo | OK | `MohammedKarimKhaldi/lexis_mollis`, public, branche `main`; PR #1 fusionnée dans `main` via `7c198a58fd2eca2e8b19834e1dff6b903a76349e`. |
 | CI GitHub | OK | Workflow `CI` actif ; dernier run vérifié en succès. |
 | `HF_TOKEN` | OK ponctuel | Le token exposé initialement ne doit plus être utilisé ; l'utilisateur a relancé l'upload avec un token corrigé. Ne pas stocker de token dans Git. |
 | Hugging Face dataset | **Publié** | `lexis-mollis/soft-law-corpus`, public, non gated, non disabled ; 13 fichiers attendus visibles, manifest HF vérifié : 3 146 documents, 26 566 pages, 30 285 chunks, 414 304 arêtes, 8 441 nœuds. Commit HF vérifié : `bf89fd4aafcb905baaa0d54e1b171a7b9e65121a`. |
-| Zenodo | Connecté côté compte | Webhook/intégration annoncé comme connecté ; DOI vérifiable seulement après première release GitHub. |
+| GitHub release | **Créée** | Release publique `v0.1.0` : `https://github.com/MohammedKarimKhaldi/lexis_mollis/releases/tag/v0.1.0`. |
+| Zenodo | En attente | `.zenodo.json` cohérent avec `CITATION.cff`, mais aucun record Zenodo public trouvé après création de la release. À vérifier dans le tableau de bord Zenodo GitHub. |
 | Cloudflare | **Déployé** | Worker `lexis-mollis` déployé sur `https://lexis-mollis.mk-74a.workers.dev` ; `/`, `/recherche/`, `/graphe/` et `/data/manifest.json` vérifiés en HTTP 200. Config Git Cloudflare préférée : root `platform/site`, build `npm ci && npm run build`, deploy `npx wrangler deploy`. |
 | Site local | OK | Build Astro complet vérifié ; `platform/site/public/data/manifest.json` annonce 3 146 documents, 26 566 pages, graphe réduit 3 000 nœuds / 9 000 arêtes. |
 | Branch protection | À configurer | Pas encore de protection `main`/required checks. |
@@ -77,11 +78,11 @@ créer le tag GitHub pour Zenodo, puis reporter le DOI.
 
 | Epic | Statut | Bloqué par / reste à faire |
 |---|---:|---|
-| A — Infrastructure & gouvernance | Partiel avancé | GitHub public OK, dataset HF publié, CI OK. Reste : branch protection, éventuelle org GitHub `lexis-mollis`, premier DOI Zenodo après release. |
+| A — Infrastructure & gouvernance | Partiel avancé | GitHub public OK, dataset HF publié, CI OK, release GitHub `v0.1.0` créée. Reste : branch protection, éventuelle org GitHub `lexis-mollis`, DOI Zenodo si le webhook a bien archivé la release. |
 | B — Modèle de données & standards | Fait | Schémas, taxonomie, ontologie, identifiants et validation automatisée en place. |
 | C — Similarité | Build complet fait, calibration LLM-draft | `outputs_v2/similarity/` construit sur 3 146 documents. Fix appliqué : IDs de chunks document-scoped pour conserver les alias de PDF exacts ; scores FAISS clampés à `[0,1]`. `benchmarks/similarity_cases.json` contient 54 positifs / 50 négatifs / 16 exclus évalués par Codex. Reste : validation humaine si publication scientifique. |
 | D — Knowledge graph | **Complet provisoire construit** | Gazetteers enrichis et graphe complet construit : 8 441 nœuds, 104 206 arêtes, 114 963 mentions. Reste : validation humaine d'au moins 50 mentions si revendication scientifique. |
-| E — Export & publication | **HF publié ; release locale complète prête** | `outputs_v2/release` construit sur 3 146 documents / 26 566 pages ; `outputs_v2/hf_dataset` préparé localement puis publié sur `lexis-mollis/soft-law-corpus`. Reste : tag GitHub `v0.1.0`, DOI Zenodo après release, puis reporter le DOI. |
+| E — Export & publication | **HF publié ; release GitHub créée** | `outputs_v2/release` construit sur 3 146 documents / 26 566 pages ; `outputs_v2/hf_dataset` préparé localement puis publié sur `lexis-mollis/soft-law-corpus`; GitHub release `v0.1.0` créée. Reste : vérifier/récupérer le DOI Zenodo, puis le reporter dans `CITATION.cff`, `README.md` et la card Hugging Face. |
 | F — Plateforme web | **Déployé avec données complètes optimisées** | Astro + Workers Static Assets déployé sur `https://lexis-mollis.mk-74a.workers.dev`, avec manifest complet, recherche statique, fiches document et graphe réduit. Les JSON statiques complets optimisés sont versionnés pour rendre le déploiement Git reproductible. Reste : domaine personnalisé éventuel, recherche HF Space/FAISS réelle. |
 | G — CI/CD | Partiel | CI qualité OK. Reste : `build-derive.yml`, `release.yml`, `deploy-site.yml`, `keepalive.yml`. |
 | H — Expansion corpus | Non commencé | Choisir et implémenter le premier connecteur, probablement EUR-Lex, avec droits/provenance explicites. |
@@ -274,8 +275,11 @@ unset CLOUDFLARE_ACCOUNT_ID
    .venv/bin/python scripts/export_hf_dataset.py --release outputs_v2/release --upload
    ```
    Fait : dataset publié et manifest vérifié depuis Hugging Face.
-8. Ajouter `release.yml`, créer le tag GitHub `v0.1.0`, récupérer le DOI Zenodo et le
-   reporter dans `CITATION.cff`, `README.md` et la card Hugging Face.
+8. Créer le tag/release GitHub `v0.1.0`, récupérer le DOI Zenodo et le reporter dans
+   `CITATION.cff`, `README.md` et la card Hugging Face.
+   Fait côté GitHub : release `v0.1.0` publiée sur le commit
+   `7c198a58fd2eca2e8b19834e1dff6b903a76349e`. En attente côté Zenodo : aucun record
+   public trouvé via l'API Zenodo après le webhook ; vérifier le tableau de bord Zenodo.
 9. Ajouter `deploy-site.yml` seulement si le déploiement doit passer par GitHub Actions
    plutôt que par l'intégration Git Cloudflare ou Wrangler local.
 
