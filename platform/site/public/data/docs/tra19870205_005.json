@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19870205_005",
+  "title": "Instrument de l'ASE",
+  "year": 1987,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9699,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "O.spécial 14-17-1987-19870205 eesa JUR/3.6.3/CC/ 10 163 european space agency agence spatiale européenne Paris, le 25 septembre 1987 ANISER RES AFFAIRES TRANSTRES 'ti: SERVICE OU PROTOCOLE - 2.0GT. 1987 Monsieur le Ministre, Je me réfère à l'Accord entre le Gouvernement français et l'Agence relatif au Centre spatial guyanais pour la période 1987/1989 qui a été signé à Paris le 14 septembre 1987 par le Président du C…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19870205_005.pdf",
+  "source_filename": "tra19870205_005.pdf",
+  "source_sha256": "75860ef7d1a4546d3a58c1bc412307dfb553c093475b6890565471e930fe7d0f",
+  "treaty_id": "TRA19870205",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "O.spécial 14-17-1987-19870205\n\neesa\n\nJUR/3.6.3/CC/ 10 163\n\neuropean space agency agence spatiale européenne\n\nParis, le 25 septembre 1987\n\nANISER RES AFFAIRES TRANSTRES\n\n'ti:\n\nSERVICE OU PROTOCOLE\n\n- 2.0GT. 1987\n\nMonsieur le Ministre,\n\nJe me réfère à l'Accord entre le Gouvernement français et l'Agence relatif au Centre spatial guyanais pour la période 1987/1989 qui a été signé à Paris le 14 septembre 1987 par le Président du CNES\n\nM. Jean-Louis LIONS au nom du Gouvernement français et par le Pr.\n\nReimar Lüst au nom de l'Agence spatiale européenne.\n\nL'article 18 de cet Accord prévoit que chaque Partie notifie à l'autre l'accomplissement de ses procédures propres d'approbation.\n\nJe suis heureux de pouvoir notifier au Gouvernement français que les procédures prévues à cet article sont accomplies en ce qui concerne l'Agence.\n\nJe vous prie d'agréer, Monsieur le Ministre, l'expression de ma haute considération.\n\ntakick bejuami\n\nAlalfendudee\n\nG. Lafferranderie\n\nConseiller Juridique\n\nMonsieur Jean-Bernard Raimond\n\nMinistre des Affaires Etrangères à l'attention du Service du PROTOCOLE 37, Quai d'Orsay\n\n8-10, rue Mario-Nikis - 75738 Paris Cedex 15 - Tél. (33.1) 42.73.76.54 - Telex ESA 202746 - Télégr. Spaceurop Paris",
+      "quality_score": 0.9699,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19850253_005",
+      "title": "Instrument de l'ASE",
+      "score": 0.706802,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.395459,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.3954,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19770075_004",
+      "title": "Instrument de ratification français",
+      "score": 0.394829,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19970011_004_s1",
+      "title": "Instrument français",
+      "score": 0.389937,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.388833,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19940256_004",
+      "title": "Instrument d'approbation français",
+      "score": 0.387634,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_togo_s1",
+      "title": "Notification au BIE de l'adhésion du Togo",
+      "score": 0.386805,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_60_s1",
+      "title": "Notification aux Ambassadeurs auprès des Etats-membres de la dénonciation de la Tanzanie",
+      "score": 0.386777,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_141_s1",
+      "title": "Instrument d'adhésion du Brésil",
+      "score": 0.386185,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

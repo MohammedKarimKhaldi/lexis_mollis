@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20040238_851",
+  "title": "Convention",
+  "year": 2004,
+  "doc_type": "Convention",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9933,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "20040238 France dépositaise. PACT DES ATRES RIPONS ARRIVEE 18. SEP 2006 ICOTE.. AMBASSADE DE SUISSE EN FRANCE PAR PORTEUR L'Ambassade de Suisse présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui confirmer les éléments suivants concernant l'Accord révisé relatif au projet spécial Esrange et Andoya entre certains États membres de l'Agence spatiale européenne et l'Agence spatiale europé…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Convention",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20040238_851.pdf",
+  "source_filename": "tra20040238_851.pdf",
+  "source_sha256": "20a2cc8ab0cee1d0a2817f72df90949dd513ef6ba44ab032e444f6a2c6316907",
+  "treaty_id": "TRA20040240",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "20040238\n\nFrance dépositaise.\n\nPACT DES ATRES RIPONS\n\nARRIVEE\n\n18. SEP 2006\n\nICOTE..\n\nAMBASSADE DE SUISSE EN FRANCE\n\nPAR PORTEUR\n\nL'Ambassade de Suisse présente ses compliments au Ministère des\n\nAffaires Etrangères et a l'honneur de lui confirmer les éléments suivants concernant l'Accord révisé relatif au projet spécial Esrange et Andoya entre certains États membres de l'Agence spatiale européenne et l'Agence spatiale européenne concernant le lancement de fusées-sondes et de ballons, conclu à\n\nParis le 17 juin 2004.\n\nLa Suisse a signé l'Accord révisé relatif au projet spécial Esrange et\n\nAndoya entre certains États membres de l'Agence spatiale européenne et l'Agence spatiaie européenne concernant le lancement de fusées-sondes et de ballons le 15 décembre 2005 (signature sans réserve de ratification).\n\nL'Ambassade de Suisse saisit cette occasion pour renouveler au Ministère des Affaires Etrangères les assurances de sa haute considération.\n\nParis, le 14 septembre 2006\n\nSSAD\n\nSONYUANS\n\nMinistère des Affaires étrangères\n\nDirection des affaires juridiques\n\nSous-direction des accords et traités 37, quai d'Orsay 75700 Paris 07 SP",
+      "quality_score": 0.9933,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20020029_007",
+      "title": "Accusé de réception français de l'instrument de l'ASE",
+      "score": 0.403913,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740201_302_s1",
+      "title": "Note de transmission de l'instrument espagnol",
+      "score": 0.399815,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_861_s1",
+      "title": "Note verbale d'accompagnement de l'instrument syrien",
+      "score": 0.39014,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20050255_100",
+      "title": "Résolution 5/2015 modifiant les annexes de la convention adoptée par l'Assemblée Générale réunie à Strasbourg le 16 septembre 2015",
+      "score": 0.387013,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.383546,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_55_s1",
+      "title": "Transmission du pouvoir de signature du protocole",
+      "score": 0.382814,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.382669,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_242_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.382562,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_098_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument belge",
+      "score": 0.382145,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.381646,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

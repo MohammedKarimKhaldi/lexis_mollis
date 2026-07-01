@@ -1,0 +1,116 @@
+{
+  "document_id": "19200048_352_s1",
+  "title": "Procès-verbal de dépôt de l'instrument grec",
+  "year": 1920,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9287,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Conformément aux dispositions du Traité signé à Shvros le 28 /IO Aout 1920 entre la Grbce,l'Empi- re Britannique, la Ffance, ltItalia st le Japon, re- latif à la reconnaissance de la souveraineté hellénigue sur les territoires de la Thrace hà l'égard desquels la Bulgarie avait renoncé, en faveur des Principales Puissances Alliées et Associóes, à tous droits et ti- tres , le Ministre de Grice à Paris s'est présenté a…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200048_352_s1.pdf",
+  "source_filename": "19200048_352_s1.pdf",
+  "source_sha256": "108749ba469d8398efd420a3323208aa2440c997ef141cd1d7eaad9803bc9106",
+  "treaty_id": "TRA19200048",
+  "treaty_number": "GRE003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Conformément aux dispositions du Traité signé à Shvros le 28 /IO Aout 1920 entre la Grbce,l'Empi- re Britannique, la Ffance, ltItalia st le Japon, re- latif à la reconnaissance de la souveraineté hellénigue sur les territoires de la Thrace hà l'égard desquels la Bulgarie avait renoncé, en faveur des Principales\n\nPuissances Alliées et Associóes, à tous droits et ti- tres , le Ministre de Grice à Paris s'est présenté au\n\nMinistère des Affaires Etrangères de la République fran= gaise et à déposé, les Ratifications de Sa Majesté le\n\nHoi des Hellènes sur ledit Traité.\n\nFait à Paris le 1} Yévtier 1924",
+      "quality_score": 0.9287,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200049_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.616552,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_352b_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative aux modalités du remboursement par le gouvernement hellénique des dettes résultantes des actes des autorités helléniques en Turquie",
+      "score": 0.405196,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_352a_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec relatif à 12 actes signés à Lausanne",
+      "score": 0.373411,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_732b_s1",
+      "title": "Déclaration franco-britannique relative à la non-application des dispositions de la Convention commerciale au territoire du condominium des Nouvelles-Hébrides",
+      "score": 0.36853,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200048_001_s1",
+      "title": "Traité",
+      "score": 0.36781,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_732d_s1",
+      "title": "Déclaration franco-britannique relative à la non-application des dispositions de la Convention concernant l'établissement et la compétence judiciaire au territoire du condominium des Nouvelles-Hébrides",
+      "score": 0.367223,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_003_s1",
+      "title": "Procès-verbal de dépôt des instruments britanniques, italiens et japonais de certains actes signés à Lausanne le 24 juillet 1923 et le 23 novembre 1923, et à Sèvres le 10 août 1920",
+      "score": 0.367057,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_326_s1",
+      "title": "Instrument de ratification français de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.36199,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_352c_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative à la Thrace",
+      "score": 0.355878,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200048_351_s1",
+      "title": "Instrument de ratification grec",
+      "score": 0.352192,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

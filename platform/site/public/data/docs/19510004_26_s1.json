@@ -1,0 +1,116 @@
+{
+  "document_id": "19510004_26_s1",
+  "title": "Note verbale d'accompagnement de l'instrument de ratification estonien",
+  "year": 1951,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9998,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE D'ESTONIE JON FRANCE Paris, le 27 décembre 1993 L'Ambassade d'Estonie en france présente ses compliments au Ministère des Affaires Etrangères de la l République Française et a l'honneur de lui faire parvenir, sous ce pil, une lettre du Ministre estonien des Affaires Etrangères. Cette lettre concerne la ratification par le Parlement estonien la Convention de l'établissement de l'Organisation Européenne de P…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_26_s1.pdf",
+  "source_filename": "19510004_26_s1.pdf",
+  "source_sha256": "af7f7de5d7e3a8c37f6ef8283c6668ff76881c8c7bae06b5181fbb96495ab8d9",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "EST002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE D'ESTONIE\n\nJON FRANCE\n\nParis, le 27 décembre 1993\n\nL'Ambassade d'Estonie en france présente ses compliments au Ministère des Affaires Etrangères de la l\n\nRépublique Française et a l'honneur de lui faire parvenir, sous ce pil, une lettre du Ministre estonien des Affaires\n\nEtrangères.\n\nCette lettre concerne la ratification par le\n\nParlement estonien la Convention de l'établissement de l'Organisation Européenne de Protection de Plantes.\n\nL'Ambassade d'Estonie saisit cette occasion pour renouveler au Ministère des Affaires Etrangères de la République Française les assurances de sa haute considération.\n\nMinistène des Affaines étrangeres\n\nPARIS\n\n14. Boulevard Montmartre - 75009 PARIS\n\nTel. (33 1) 48 01 00 22 - Fax (33 1) 48 01 02 95",
+      "quality_score": 0.9998,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19920190_258_s1",
+      "title": "Note verbale de l'Ambassade royale de Danemark notifiant le retrait de la réserve portant sur l'application de la Convention au territoire des Iles Féroé.",
+      "score": 0.478728,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_242_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.434715,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_46_s1",
+      "title": "Lettre du Président de Lituanie au 1er ministre Lionel Jospin sur l'adhésion de la Lituanie à l'OEPP",
+      "score": 0.396672,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_05_s1",
+      "title": "Accusés-réception de divers pays de l'adhésion de l'Albanie",
+      "score": 0.391494,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_100_s1",
+      "title": "Note du Poste à la Partie ouzbèke demandant la transmission de la version en langue ouzbèke de la convention",
+      "score": 0.388616,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_042_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion coréen",
+      "score": 0.384759,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.3844,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.383575,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.383261,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_adhesion_convention_du_metre_bipm_estonie_s1",
+      "title": "Lettre au Directeur du BIPM sur l'adhésion de l'Estonie",
+      "score": 0.383062,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

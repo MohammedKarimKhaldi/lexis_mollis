@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19980026_007_s1",
+  "title": "Date de réception français de l'instrument maltais",
+  "year": 1998,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9586,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "F8+68 AMBASSADE DE FRANCE Keeu au B. O le 7 -30 JUN 1998 Lassment 1 FR 10 N.V. 186198 The Ministry of Foreign Affairs and the Environment presents its compliments to the Embassy of France and with reference to the Embassy's Note No. 94/AE dated 16 June 1998, has the honour to enclose herewith the Instrument of Ratification of the Agreement on Co-operation in Matters regarding Internal Affairs between the Government…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19980026_007_s1.pdf",
+  "source_filename": "tra19980026_007_s1.pdf",
+  "source_sha256": "ebaa2377b634e4304d0da50904afa563c5961ab9a0d736f67ceb5a2c0f31a8eb",
+  "treaty_id": "TRA19980026",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "F8+68\n\nAMBASSADE DE FRANCE\n\nKeeu au B. O le 7 -30 JUN 1998\n\nLassment 1\n\nFR 10\n\nN.V. 186198\n\nThe Ministry of Foreign Affairs and the Environment presents its compliments to the\n\nEmbassy of France and with reference to the Embassy's Note No. 94/AE dated 16 June 1998, has the honour to enclose herewith the Instrument of Ratification of the Agreement on Co-operation in Matters regarding Internal Affairs between the Government of the\n\nRepublic of Malta and the Government of the Republic of France signed in Paris on 9*\n\nMarch 1998.\n\nThe Ministry requests the intervention of the Embassy of France in forwarding the\n\nInstrument of Ratification to its highest destination.\n\nThe Ministry of Foreign Affairs and the Environment avails itself of this opportunity to renew to the Embassy of France the assurances of its highest consideration.\n\nas June 1998\n\nENTINO\n\nEmbassy of France\n\nTa' Xbiex",
+      "quality_score": 0.9586,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19680033_006_s1",
+      "title": "Note accusant réception de l'approbation française et transmettant l'instrument maltais",
+      "score": 0.415517,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19570067_576_s1",
+      "title": "Note verbale de retrait de Maurice",
+      "score": 0.413149,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_51_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Macédoine du Nord",
+      "score": 0.407158,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_016_s1",
+      "title": "Note verbale d'acceptation du Danemark",
+      "score": 0.405819,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19800233_004_s1",
+      "title": "Instrument chypriote AVEC tampon arrivé le 30 oct 19980 de l'ambassade de France",
+      "score": 0.395012,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_005_s1",
+      "title": "Instrument chypriote (avec tampon arrivée le 16 août 1982 à l'ambassade de France)",
+      "score": 0.394157,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19690107_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français",
+      "score": 0.393817,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_042_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion coréen",
+      "score": 0.393701,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.390582,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_033_s1",
+      "title": "accusé de réception du Nicaragua de la notification de l'amendement",
+      "score": 0.390294,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

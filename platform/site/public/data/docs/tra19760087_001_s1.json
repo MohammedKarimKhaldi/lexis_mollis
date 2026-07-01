@@ -1,0 +1,228 @@
+{
+  "document_id": "tra19760087_001_s1",
+  "title": "Accord",
+  "year": 1976,
+  "doc_type": "Accord",
+  "languages": [
+    "ca",
+    "de",
+    "en",
+    "fr",
+    "it"
+  ],
+  "quality_score": 0.8139,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "ARTIRA SEERIA ATE ehFRIRE MEHR AeEEAEAED dittatori tiaa M RI MEPA e PERMAI S d. Todipatad ee PAA. ACCOR D DE ION H El L E ENTR LE GOPVERNEMENT DE LA HEPUHLIQUE FRANCAISE E T LE GOUVERNEMENT DE LA REPIBLIQUE TOGOLAISE - 1 - Le gouvernement de la République française, d'une part, Le gouvernement de la République togolaise, d'autre part, Désireux de promouvoir leurs échanges dans le domaine de la science, de l'éducatio…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760087_001_s1.pdf",
+  "source_filename": "tra19760087_001_s1.pdf",
+  "source_sha256": "0987fd9bbd61965cc5f790da87d77e56d1e3489f52148c52033b5173bcce86a2",
+  "treaty_id": "TRA19760087",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ARTIRA SEERIA ATE\n\nehFRIRE MEHR AeEEAEAED dittatori tiaa M RI\n\nMEPA e PERMAI S d. Todipatad ee PAA.",
+      "quality_score": 0.5725,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCOR D\n\nDE\n\nION\n\nH\n\nEl L E\n\nENTR\n\nLE GOPVERNEMENT DE LA HEPUHLIQUE FRANCAISE\n\nE T\n\nLE GOUVERNEMENT DE LA REPIBLIQUE TOGOLAISE",
+      "quality_score": 0.8789,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "ca",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "- 1 -\n\nLe gouvernement de la République française, d'une part,\n\nLe gouvernement de la République togolaise, d'autre part,\n\nDésireux de promouvoir leurs échanges dans le domaine de la\n\nscience, de l'éducation et la culture,\n\nSont convenus des dispositions ci-après :\n\n.../...\n\n-2- TITRE PREMIER\n\nDe la coopération en matière d'enseignement\n\nARTICLE PREMIER\n\nLe gouvernement de la République française s'engage à aider, dans la mesure de ses moyens, sur le territoire de la\n\nRépublique togolaise et sur son propre territoire l'éducation des citoyens togolais désireux de poursuivre un enseignement de caractère français et d'acquérir les diplômes qui le sanc- tionnent. Il s'engage en particulier à prendre les mesures appropriées en vue de mettre, dans toute la mesure du possible, à la disposition du gouvernement togolais, pour l'enseigne- ment, la culture, l'éducation physique et les sports, 1e personnel qualifié dont celui-ci peut avoir besoin.\n\nLa procédure de mise à disposition de ces personnels, leurs devoirs, droits et garanties sont régis par l'Accord général de coopération technique. Des dispositions spéciales propres au personnel enseignant font toutefois l'objet d'un\n\nprotocole annexé au présent Accord.\n\nARTICLE II\n\nLe gouvernement de la République togolaise s'engage dans\n\nle même esprit à :\n\n- Accorder à ces personnels ainsi mis à sa disposition toutes facilités dans l'exercice de leurs fonctions, ainsi qu'aux membres des corps d'inspection et de jurys d'examen et concours dans l'accomplissement de leur mission;\n\n- Accorder éventuellement toutes facilités au gouvernement de la République française pour ouvrir et entretenir sur le territoire de la République togolaise, dans le respect des lois et règlements relatifs à l'ordre public et aux bonnes moeurs, des établissements d'enseignement relevant de son .../٠٠٠",
+      "quality_score": 0.9678,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "- 3- ARTICLE III\n\nLe Baccalauréat de l'enseignement secondaire délivré\n\nsoit en France, soit au Togo bénéficie du régime de la validité de plein droit sur le territoire de l'un et l'autre Etat.\n\nLes grades, diplômes et titres autres que le bacca-\n\nlauréat de l'enseignement secondaire bénéficient du régime d'équi-\n\nToutefois, les dispositions du paragraphe précédent\n\npourront, le cas échéant, faire l'objet de modifications par échange de lettres sur demande de l'une ou l'autre Partie.\n\nARTICLE IV\n\nLes ressortissants de la République française et ceux\n\nde la République togolaise, personnes physiques et morales, peuvent, sous réserve d'une autorisation préalable du gouvernement, ouvrir ou entretenir sur le territoire de l'autre Partie contractante des établissements d'enseignement privé, dans le respect des lois et réglements du pays de résidence, notamment en ce qui concerne les titres de capacité exigés. Les autorisations accordées aux établissements régulièrement ouverts à la date de signature de la présente convention sont confirmées.\n\nLes établissements ouverts au Iogo par des ressor-\n\ntissants français et assurant la scolarisation des enfants français et les établissements ouverts en France par des ressortissants togolais et assurant la scolarisation des enfants togolais pour- ront, par dérogation spéciale accordée cas par cas, suivre les horaires, programmes et méthodes en vigueur dans le pays d'origine.\n\nARTICLE V\n\nChacun des deux gouvernements peut organiser sur\n\nle territoire de l'autre des centres d'examens et de concours auxquels peuvent se présenter ses ressortissants dans les conditions prévues par la réglementation de leur pays d'origine.\n\n.../...\n\n- 4'-\n\nTITRE II\n\nDes échanges culturels\n\nARTICLE VI\n\nChaque Etat s'engage à favoriser sur son territoire la création par l'autre Etat de bibliothèques et de centres culturels destinés à répandre la connaissance mutuelle de leurs cultures et de leurs civilisations.\n\nLes deux Etats s'engagent de même à faciliter par tous les moyens et notamment par l'organisation de voyages documentaires, stages, échanges d'enseignants et de jeunes, ainsi que par l'emploi des techniques auxiliaires de communication audiovisuelle, la connaissance de leurs vies nationales respectives.\n\nCompte tenu de la législation en vigueur, toutes facilités seront accordées en matière de recherche scienti- 24910 pour de compta encen fique pour l'accomplissement de missions sur le territoire\n\nARTICLE VII\n\nChacun des deux Etats s'engage à faciliter les études ou recherches des ressortissants de l'autre, notamment par l'octroi de bourses d'études, de prêts d'honneur, de bourses de recherches et par l'organisation de stages.\n\nARTICLE VIII\n\n•Le gouvernement français s'engage en particulier à faciliter aux candidats togolais l'admission aux grandes écoles françaises dans toute la mesure compatible avec les réglements de ces écoles.\n\nLes étudiants et élèves togolais séjournant en\n\nFrance bénéficieront, pendant la durée normale de leurs études, des droits et avantages accordés ou reconnus aux étudiants et élèves français.\n\n.../...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "-\n\n- 5 -\n\nARTICLE IX\n\nLes ressortissants de chacun des deux Etats disposent, sur le territoire de l'autre, dans le domaine de la pensée et de l'art, de toute la liberté compatible avec le respect de l'ordre public et des bonnes moeurs.\n\nL'entrée, la circulation, la diffusion des moyens d'expression de la pensée et de l'art de chacun des deux pays sont assurées librement et, dans toute la mesure du possible, encouragées sur le territoire de l'autre, sous réserve du respect de l'ordre public et des bonnes moeurs.\n\n- 6- ARTICLE XII\n\nLe présent Accora qui abroge et remplace l'Accord de coopération culturelle du 10 juillet 1963 et 1'Accord en matière d'enseignement supérieur du 9 juillet 1970 entrera en vigueur le premier jour du deuxième mois suivant l'échange des instruments constatant l'accomplissement des procédures requises à cet effet dans chacun des deux Etats.\n\ncet échange aura lieu à Paris aussitôt que faire se pourra.\n\nLe présent Accord demeurera en vigueur jusqu'à l'expiration d'une année à compter du jour où l'une des Parties contractantes aura déclaré vouloir en faire cesser les effets.\n\nARTICLE X\n\nToutes dispositions seront prises par le gouvernement de la République française et par le gouvernement de la République togolaise pour assurer aux organismes culturels de chacune des\n\nParties contractantes, dans le cadre des lois et réglements en vigueur sur leur territoire, les avantages d'ordre fiscal et para-fiscal concédés aux organismes publics correspondants.\n\nTITRE III\n\nDispositions diverses\n\nARTICLE XI\n\nUne commission mixte sera constituée pour l'applica- tion du présent Accord. Elle comprendra autant de délégués que chacune des Parties contractantes le jugera nécessaire. E11e élira son président en son sein et se réunira au moins une fois par an.\n\nFait à Lomé, le\n\n23 mars 1976\n\nen deux exemplaires originaux.\n\nPour le gouvernement de la République française ٦٠ ٠ /١٠٠١٠\n\nJean de LIPKOWSKI\n\nMinistre de la Coopération\n\nPour le gouvernement\n\nde la République Togolaise\n\nAyi Houenou HUNLEDE\n\nMinistre des Affaires\n\nEtrangères\n\n.../٠٠٠",
+      "quality_score": 0.9773,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "PROTOCOLE ANNEXE\n\nRELATIF AU\n\nPERSONNEL\n\nDEL'ENSEIGNEMENT MIS ALA DISPOSITION\n\nDE\n\nLA\n\nREPUBLIQUE\n\nTOGOLAISE",
+      "quality_score": 0.9664,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "Le gouvernement de la République française, d'une part,\n\nLe gouvernement de la République togolaise, d'autre part,\n\nSont convenus des dispositions ci-après :\n\n- 2 -\n\nARTICLE PREMIER\n\nLe présent protocole a pour objet de déterminer, conformément à l'article premier de l'Accord de coopération culturelle en date de ce jour, les dispositions particulières applicables aux personnels enseignants mis à la disposition du gouvernement de la République togolaise en vertu de l'Accord général de coopération technique en date de ce jour. Les dispositions de l'Accord général sont applicables à ces personnels dans la mesure où il n'y est pas dérogé par le présent protocole.\n\nARTICLE II\n\nL'état des besoins en personnel enseignant est arrêté annuellement par la République togolaise et notifié à la République française avant le ler février de chaque année, pour l'année universitaire suivante.\n\nCompte tenu de l'importance des besoins en personnel d'enseignement et des exigences du calendrier scolaire, les présentations des listes de candidats doivent être suivies de réponse dans un délai de quinze jours après leur réception.\n\nLa nomination du personnel enseignant est prononcée par les autorités compétentes de la République togolaise à compter d'une date fixée de manière à éviter toute interruption du service scolaire en cours.\n\nLa première nomination est prononcée pour une période de deux années scolaires.\n\nCette période est prolongée d'année scolaire en année scolaire par tacite reconduction, sauf demande contraire de l'intéressé ou décision de l'une des parties contractantes, formulée trois mois au moins avant la date prévue pour le premier mouvement d'affectation du personnel de l'enseignement en France. L'intéressé est informé à la même date de la décision prise en ce qui le concerne.\n\n.../...",
+      "quality_score": 0.9969,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "- 3-\n\nLa date de rapatriement du personnel enseignant coincide avec la fin de l'année scolaire sous réserve de l'application des dispositions de l'article IV de l'Accord général.\n\nARTICLE III\n\nLes membres de l'enseignement détachés au titre de l'assistance technique française bénéficient d'un congé annuel de soixante quinze jours, délai de route compris, coincidant avec les grandes vacances scolaires togolaises.\n\nLe personnel administratif détaché au même titre bénéficie d'un congé annuel de soixante quinze jours, fixé selon les nécessités du service et qui pourront ne pas cofncider avec les grandes vacances scolaires.\n\nARTICLE IV\n\nLe personnel mis à la disposition de la République togolaise en vertu de l'Accord général de coopération technique en date de ce jour jouit, dans le cadre de la législation relative à la position de fonctionnaire détaché, des conditions d'exercice et des garanties et franchises professionnelles tra- ditionnellement accordées aux membres de l'enseignement par la République fran- çaise.\n\nLes durées hebdomadaires de service dues par le personnel enseignant mis par le gouvernement de la République française à la disposition du gouver- nement de la République togolaise sont définies en tant que de besoin par la\n\nCommission mixte instituée à l'article XI de l'Accord de coopération cultu- relle.\n\nARTICLE V\n\nLe contrôle pédagogique du personnel enseignant français en service sur le territoire de la République togolaise sera assuré par les membres compétents des corps d'inspection des deux pays.\n\n../...\n\n- .\n\n- 4-\n\nLa notation administrative des personnels visés par le présent protocole est assurée par les fonctionnaires qualifiés, français et togolais de l'ordre universitaire et par le ministre de l'éducation nationale de la République togolaise.\n\nARTICLE VI\n\nLa République togolaise peut demander que l'inspection définie au premier alinéa de l'article précédent porte sur les personnels autres que ceux qui sont visés au-dit alinéa.\n\nLe gouvernement de la République togolaise accorde toutes facilités pour accomplir leur mission aux membres du personnel enseignant et des corps d'inspection, ainsi qu'aux jurys des examens et concours appelés à exercer sur le territoire de la République togo- Laise en vertu de l'Accord de coopération culturelle et du présent protocole.\n\nFait à Lomé, le 23 mars I976\n\nPour le gouvernement de la République française, ١ ١١ش\n\nJean de LIPKOWSKI\n\nMinistre de la Coopération\n\nPour le gouvernement\n\nde la République togolaise,\n\n［~\n\nAyi Houenou HUNLEDE\n\nMinistre des Affaires\n\nEtrangères",
+      "quality_score": 0.9651,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630358_001b_s1",
+      "title": "Protocole annexe",
+      "score": 0.744015,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.652691,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760086_001_s1",
+      "title": "Accord",
+      "score": 0.635238,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_001_s1",
+      "title": "Convention",
+      "score": 0.616231,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_001_s1",
+      "title": "Convention",
+      "score": 0.594847,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630358_001a_s1",
+      "title": "Accord",
+      "score": 0.447131,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_100",
+      "title": "Protocole de signature",
+      "score": 0.41489,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760091_001_s1",
+      "title": "Accord",
+      "score": 0.409585,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610266_005_s1",
+      "title": "Ratification mauritanienne",
+      "score": 0.406759,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19620009_001_s1",
+      "title": "Accord français",
+      "score": 0.406272,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

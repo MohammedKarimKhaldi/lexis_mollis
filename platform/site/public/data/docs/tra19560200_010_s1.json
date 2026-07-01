@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560200_010_s1",
+  "title": "Accord (lettre marocaine)",
+  "year": 1956,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9976,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Paris, le 2 Mars 1956 Monsieur le Président, En application de l'article III du Protocole du 2 mars 1956, j'ai l'honneur de vous proposer qu'une Commission composée de représentants français et marocains se réunisse le 10 mars 1956 à Rabat pour examiner la question du transfert des pouvoirs de gestion jusqu'ici rêservés, à l'exception des problèmes monétaires, financiers, militaires et diplomatiques qui seront trait…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560200_010_s1.pdf",
+  "source_filename": "tra19560200_010_s1.pdf",
+  "source_sha256": "66bed886ddd896962104c293dc0f52065b541da87b96ccdd5b52ea5cec15d9cb",
+  "treaty_id": "TRA19560200",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Paris, le 2 Mars 1956\n\nMonsieur le Président,\n\nEn application de l'article III du Protocole\n\ndu 2 mars 1956, j'ai l'honneur de vous proposer qu'une\n\nCommission composée de représentants français et marocains se réunisse le 10 mars 1956 à Rabat pour examiner la question du transfert des pouvoirs de gestion jusqu'ici rêservés, à l'exception des problèmes monétaires, financiers, militaires et diplomatiques qui seront traités soit à Rabat soit à Paris.\n\nVeulllez agréer, Monsieur le Président, l'assu-\n\nrance de ma très haute considération.\n\nA Son Excellence,\n\nMonsieur Christian PINEAU\n\nMinistre des Affaires Etrangères\n\nPrésident de la Délégation française",
+      "quality_score": 0.9976,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560200_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.795982,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560201_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.431788,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.412088,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560203_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.39996,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.376022,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640106_011_s1",
+      "title": "Publication de l'accord au Journal officiel du",
+      "score": 0.371038,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290061_001d_s1",
+      "title": "Lettre de dénonciation",
+      "score": 0.370721,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630118_001_s1",
+      "title": "Publication au Journal officiel de l'échange de lettres sans le procès-verbal",
+      "score": 0.370538,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760301_002_s1",
+      "title": "Lettre française",
+      "score": 0.369943,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560203_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.368405,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

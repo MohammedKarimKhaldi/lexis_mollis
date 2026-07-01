@@ -1,0 +1,148 @@
+{
+  "document_id": "tra16970009_001f_s1",
+  "title": "Déclaration relative à l'application de la cessation des hostilités sur mer",
+  "year": 1697,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8558,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Ministère des Affaires étrangéres - Direction des Archives - Conservation des Traités Multilatéraux GRANDE-BRETAGNE Traité de paix.- Ryswick, 20 septembre 1697. » Déclaration sur le délai de restitution des prises en mer.- Ryswick, 12 octobre 1697. Original en francais.- Feuillet papier.- 6 cachets de cire rouge. Le saris su17. fur les delais firmer et Plenipotentiaires du Roy Tres Chressien at sii Bay Jela land Bar…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16970009_001f_s1.pdf",
+  "source_filename": "tra16970009_001f_s1.pdf",
+  "source_sha256": "c04af374342daf31e14bc8642fce851eb6df4e0e2f45fc8118ba0943b867892e",
+  "treaty_id": "TRA16970009",
+  "treaty_number": "001F",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministère des Affaires étrangéres - Direction des Archives - Conservation des Traités\n\nMultilatéraux\n\nGRANDE-BRETAGNE\n\nTraité de paix.- Ryswick, 20 septembre 1697.\n\n» Déclaration sur le délai de restitution des prises en mer.- Ryswick, 12 octobre 1697.\n\nOriginal en francais.- Feuillet papier.- 6 cachets de cire rouge.",
+      "quality_score": 0.9928,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Le saris su17.\n\nfur les delais firmer\n\net Plenipotentiaires du Roy Tres Chressien at sii Bay Jela land Baragne, Déclarin quencore quil fois porté par lantile.\n\nDixiesme du Fraisé De Paix figné a\n\nRyfick terringliame, Remoni de feprembre dernier, Entre leurs Majester Creik\n\nChrestienne et Briannique, que les\n\nVelais prescies-pondais articles, ne cumenencerone qu'aprés la fignature pe es publication Jadis Cruisé, Neunmoun lintention De leurs aides Majestes, ef que lesdito délais commencera Ju oss\n\nDeferrembre jour Sela fignature Sudis\n\nCrait; En forte que celu, de Jouges.\n\ngours, qui y est manque pour les mers - Britannique en feptentrionale. Jois estre confé expiré des le Peuxiesme de",
+      "quality_score": 0.7983,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "pirien muis; Et les autres Délais\n\nDevan expires a porportion, Infoy\n\nDegeroy Mous avume fijné le prefine fort, et à icelug fail appofer le\n\nCuld De mes armes. Fait Durble a Ryfrick le Jougiesme Doctobre mil fir lents quatrevinghs din fepr.,\n\nMandatomacul\n\nillars\n\n....",
+      "quality_score": 0.7764,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16970001_001c_s1",
+      "title": "Déclaration rectificative de l'article 7",
+      "score": 0.699694,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001b_s1",
+      "title": "Article séparé",
+      "score": 0.662079,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001e_s1",
+      "title": "Acte extrait du protocole de médiation relatif aux titres des plénipotentiaires britanniques",
+      "score": 0.46345,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001a_s1",
+      "title": "Traité",
+      "score": 0.462454,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001d_s1",
+      "title": "Acte extrait du protocole de médiation relatif à la pension de Marie d'Este",
+      "score": 0.454657,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001b_s1",
+      "title": "Article séparé",
+      "score": 0.454611,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970010_001b_s1",
+      "title": "Article séparé",
+      "score": 0.453715,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001c_s1",
+      "title": "Déclaration relative à l'inclusion des États italiens et suisses",
+      "score": 0.4472,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001a_s1",
+      "title": "Traité",
+      "score": 0.438692,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_005c_s1",
+      "title": "Lettres patentes portant ratification de l'article séparé",
+      "score": 0.434731,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

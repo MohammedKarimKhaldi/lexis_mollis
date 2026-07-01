@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19980155_098_s1",
+  "title": "Accusé de réception par le dépositaire de l'instrument belge",
+  "year": 1998,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9931,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTERE DES AFFAIRES ETRANGERES DIRECTION DES AFFAIRES STRATEGIQUES, DE SECURITE ET DU DESARMEMENT RÉPUBLIQUE FRANÇAISE Paris, le 16 mai 2003 Le ministère des Affaires étrangères, Direction des Affaires stratégiques, de sécurité et du désarmement présente ses compliments à l'Ambassade de Belgique à Paris et accuse réception de la notification de la ratification intervenue le 8 avril 2003 de la Convention portant c…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19980155_098_s1.pdf",
+  "source_filename": "tra19980155_098_s1.pdf",
+  "source_sha256": "dc551c788094ba4e1d30f9c5653a3d40b137b8b67a06e1fe3a9f137cb6a05285",
+  "treaty_id": "TRA19980155",
+  "treaty_number": "BEL004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTERE\n\nDES\n\nAFFAIRES ETRANGERES\n\nDIRECTION DES AFFAIRES STRATEGIQUES,\n\nDE SECURITE ET DU DESARMEMENT\n\nRÉPUBLIQUE FRANÇAISE\n\nParis, le 16 mai 2003\n\nLe ministère des Affaires étrangères, Direction des Affaires stratégiques, de sécurité et du désarmement présente ses compliments à l'Ambassade de Belgique à Paris et accuse réception de la notification de la ratification intervenue le 8 avril 2003 de la Convention portant création de l'Organisation conjointe de Coopération en matière d'armement (OCCAR).\n\nLa Convention, signée le 9 septembre 1998 à Farnborough est déjà en vigueur pour ses quatre membres tondateurs: la République française, la République fédérale d'Allemagne, la République italienne, le Royaume-Uni de Grande Bretagne et d'Irlande du Nord.\n\nLa Convention, et ses annexes, qui en font partie intégrante, entrent en vigueur pour la Belgique 30 jours à compter de la date de dépôt de l'instrument d'adhésion, conformément à l'article 53, soit le\n\n27 mai 2003.\n\nLe ministère des Affaires étrangères, Direction des Affaires stratégiques, de sécurité\n\net du désarmement saisit cette occasion pour renouveler à l'Ambassade de Belgique l'expression de sa haute considération./.\n\nGérard ARAUT\n\nAmbassade de Belgique 9, rue de Tilsitt 75 840 Paris\n\nLo Directeur des Alfaires Stratégiques\n\n../..",
+      "quality_score": 0.9931,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19980155_097_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.417458,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_033_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument allemand",
+      "score": 0.411956,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_733_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument britannique",
+      "score": 0.407133,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_098_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument belge",
+      "score": 0.404871,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_326_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.387258,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_100",
+      "title": "Note relative aux pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.381626,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_098",
+      "title": "Accusé de réception par le dépositaire de l'instrument wallon",
+      "score": 0.378379,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_099",
+      "title": "Notifications du dépositaire aux Parties relatives au dépôt de l'instrument wallon",
+      "score": 0.377939,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.375576,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_097",
+      "title": "Pouvoirs wallons",
+      "score": 0.37487,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

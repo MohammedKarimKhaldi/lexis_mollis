@@ -411,5 +411,62 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_72_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.385439,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_21_s1",
+      "title": "Instrument de ratification de l'Espagne",
+      "score": 0.382236,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_14_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.364947,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_40_s1",
+      "title": "Instrument de ratification du Royaume-Uni",
+      "score": 0.364806,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16780001_005_s1",
+      "title": "Lettres patentes de ratification",
+      "score": 0.351705,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19210001_001_s1",
+      "title": "Accord",
+      "score": 0.350784,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16970010_003b_s1",
+      "title": "Lettres patentes portant délégation de pouvoir",
+      "score": 0.350433,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16970009_001a_s1",
+      "title": "Traité",
+      "score": 0.350048,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

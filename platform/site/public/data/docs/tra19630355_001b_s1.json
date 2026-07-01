@@ -1,0 +1,130 @@
+{
+  "document_id": "tra19630355_001b_s1",
+  "title": "Lettre togolaise",
+  "year": 1963,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9795,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "PARIS, le 10 Juillet 1963. Monsieur le Président, A lá suite des échanges de vues qui ont eu lieu entre nos deux et a dent lord de convera que les modale de d'apla tion dire 8/3cles financière seraieni, en ce qui concerne le régime des échanges franco- togolais, les suivants : 1°/- Du point de vue de l'importation au Togo pour l'année 1963 al Le Togo maintiendra ses importations en provenance de France au niveau de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19630355_001b_s1.pdf",
+  "source_filename": "tra19630355_001b_s1.pdf",
+  "source_sha256": "91b7bf87806acbcc5651c3164d79b66c8bddac81da7f09ecdaadaa5afc345905",
+  "treaty_id": "TRA19630355",
+  "treaty_number": "001b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PARIS, le 10 Juillet 1963.\n\nMonsieur le Président,\n\nA lá suite des échanges de vues qui ont eu lieu entre nos deux et a dent lord de convera que les modale de d'apla tion dire 8/3cles financière seraieni, en ce qui concerne le régime des échanges franco-\n\ntogolais, les suivants :\n\n1°/- Du point de vue\n\nde l'importation au Togo pour l'année 1963 al Le Togo maintiendra ses importations en provenance de France\n\nau niveau de la moyenne des années 1960 et 1961.\n\nLe Gouvernement togolais a pris note du voeu du Gouvernement français de voir se développer les importations des produits français\n\nsuivants :\n\n- produits laitiers - vins et liqueurs - véhicules (poste 87) -\n\nfarine - sucre -\n\nréfrigérateurs et conditionneurs d'air - et cotonnades\n\n(poste 55).\n\nb/ Sauf opérations faisant l'objet d'accords particuliers, les dispositions nécessaires seroni prises pour que l'industrie française soit informée en temps utile des aupels d'offres ou toutes autres consultations\n\nauxquelies il sera procédé.\n\n2°%- En afplication de l'article 6, 3ème alinéa, de l'Accord de\n\nCoopération en matière économique, monétaire et financière, la République\n\nFrançaise ouvre au compte \"Togo\n\ndroit de tirage\" pour l'année 1963 un droit\n\nde tirage supplémentaire égal à 25 millions de francs.\n\nAu cas où les disponibilités en devises du Togo se révéleraient insuffisantes, l'ouverture d'un droit de tirage supplémentaire pourra être examinée dans les conditions fixées par l'article 6, 3ème alinéa de l'Accord\n\nde Coopération en matière économique, monétaire et financière.\n\n3°/- lour la période du ler novembre 1962 au 31 octobre 1963, les débouchés suivants sont réservés aux produits originaires et en provenance\n\nRépublique Togolaise\n\n- Café\n\n••••\n\n- Arachides\n\n5.500 tonnes 2,300 tonnes\n\nSon Excellenue\n\nMonsieur Raymond TRIBOULET\n\nPrésident de\n\nla Délégation Française.\n\n..../٠٠٠٠",
+      "quality_score": 0.9683,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "données générales de la campagne.\n\nJ'ai l'honneur de vous prier de bien vouloir ne confirmer votre accord sur ce qui précède.\n\nVeuillez agréer, Monsieur le Président, l'assurance de ma haute considération,",
+      "quality_score": 0.9906,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630355_001c_s1",
+      "title": "Lettre en réponse",
+      "score": 0.646741,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630108_001c_s1",
+      "title": "Lettre en réponse",
+      "score": 0.376468,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19650017_010_s1",
+      "title": "Accord (lettre sud-africaine).",
+      "score": 0.371387,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630108_001b_s1",
+      "title": "Lettre française",
+      "score": 0.36914,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19640026_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.368148,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19650017_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.366561,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19640026_010_s1",
+      "title": "Accord (lettre sud-africaine).",
+      "score": 0.352745,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19700021_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.352676,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19820085_001b_s1",
+      "title": "Lettre relative aux articles 3, 5 et 8",
+      "score": 0.351957,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19370087_011_s1",
+      "title": "Lettres siamoises a/s différents points du traité",
+      "score": 0.350278,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

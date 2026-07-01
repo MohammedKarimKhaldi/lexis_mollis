@@ -1,0 +1,157 @@
+{
+  "document_id": "tra19610137_003",
+  "title": "Instrument français",
+  "year": 1961,
+  "doc_type": "Autre",
+  "languages": [
+    "en",
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.9374,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "RATIFICATIONS DU PRESIDENT DE LA REPUBLIQUE FRANCAISE PRESIDENT DE LA COMIUNAUTE DE L'ACTE ADDITIONNEL A L'ARRANGEMENT DE LA HAYE CONCERNANT LE DEPÔT INTERNATIONAL DES DESSINS OU MODELES INDUSTRIELS DU 6 NOVEMBRE 1925, REVISE A LONDRES LE 2 JUIN 1934, SIGNE A MONACO LE 18 NOVEMBRE 1961 CHARLES de GAULLE PRESIDENT DE LA REPUBLIQUE FRANCAISE PRESIDENT DE LA COMMUNAUTE A TOUS CEUX QUI CES PRESENTES LETTRES VERRONT SALU…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19610137_003.pdf",
+  "source_filename": "tra19610137_003.pdf",
+  "source_sha256": "cd0219c8c7f8205c20ebfe8027bc5743d11c4dc40f35b99b3e631770189a336b",
+  "treaty_id": "TRA19610137",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RATIFICATIONS\n\nDU PRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nPRESIDENT DE LA COMIUNAUTE\n\nDE L'ACTE ADDITIONNEL A L'ARRANGEMENT DE LA HAYE\n\nCONCERNANT LE DEPÔT INTERNATIONAL DES DESSINS\n\nOU MODELES INDUSTRIELS DU 6 NOVEMBRE 1925,\n\nREVISE A LONDRES LE 2 JUIN 1934,\n\nSIGNE A MONACO LE 18 NOVEMBRE 1961",
+      "quality_score": 0.9358,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "CHARLES de GAULLE\n\nPRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nPRESIDENT DE LA COMMUNAUTE\n\nA TOUS CEUX QUI CES PRESENTES LETTRES VERRONT\n\nSALUT:\n\nUN ACTE ADDITIONNEL A L'ARRANGEMENT DE LA HAYE\n\nCONCERNANT LE DEPÔT INTERNATIONAL DES DESSINS\n\nOU MODELES INDUSTRIELS DU 6 NOVEMBRE 1925,\n\nREVISE A LONDRES LE 2 JUIN 1934,\n\nAYANT ETE SIGNE A MONACO LE 18 NOVEMBRE 1961\n\nACTE ADDITIONNEL DONT LA TENEUR SUIT :",
+      "quality_score": 0.9561,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Ayant vu et examiné lE dit\n\nACTE\n\nADDITIONNEL NOUS\n\nL'avons approuvé et\n\napprouvons en toutes et chacun de SES parties, en vertu des dispositions qui y sont contenues et conformément à l'article 52 de la Constitution.\n\nDECLARONS qu'IL EST accepté , ratifié, et confirmé et PROMETTONS qu'IL SERA inviolablement obeervé •\n\nEN FOI DE QUOI, Nous avons donné les présentes, revêtues du Sceau de la République.\n\nA PARIS, le 19 MARS 1962\n\nLe Président du Conseil des Ministres\n\nSigné : Michel DEBRE\n\nSigné : Charles de GAULLE\n\nPar le Président de la République\n\nLe Ministre des Affaires\n\nEtrangères\n\nSigné : Maurice COUVE de MURVILLE",
+      "quality_score": 0.9676,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "* 9 MAI 1962\n\nPOUR COPIE CERTIFIÉE CONFORNE:\n\nLe Ministre Plénipotentiaire chef de sacrion de Prolocales т. Шалі\n\nDES\n\nETRANG",
+      "quality_score": 0.8902,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19600199_004_s1",
+      "title": "Instrument français",
+      "score": 0.884259,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.871277,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_004",
+      "title": "Instrument français (ratification)",
+      "score": 0.826665,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_004_s1",
+      "title": "Instrument français",
+      "score": 0.747903,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530025_004",
+      "title": "Instrument français",
+      "score": 0.696535,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_07_s1",
+      "title": "Pouvoirs de signature de la Grèce",
+      "score": 0.587788,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_004",
+      "title": "Instrument français",
+      "score": 0.47648,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "fr-ratif_s1",
+      "title": "Ratification française",
+      "score": 0.46224,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_056_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.46004,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710031_004_s1",
+      "title": "Lettres patentes de ratification",
+      "score": 0.447227,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

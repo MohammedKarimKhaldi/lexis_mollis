@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_mdv001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTER OF FOREIGN AFFAIRS REPUBLIC OF MALDIVES WHEREAS the Convention on International Exhibition was adopted at Paris on the Twenty Second Day of November, One Thousand Nine Hundred and Twenty Eight; WHEREAS the Republic of Maldives is entitled to become party to the above mentioned Convention by virtue of Article 35 thereof; WHEREAS the Republic of Maldives desires to accede to the above mentioned Convention; an…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_mdv001_s1.pdf",
+  "source_filename": "tra19280002_mdv001_s1.pdf",
+  "source_sha256": "4d4a0315282d785c19b1961af562d61c2ee1f584c1d69284d21c316cc9ac3c3e",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MDV001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTER OF FOREIGN AFFAIRS\n\nREPUBLIC OF MALDIVES\n\nWHEREAS the Convention on International Exhibition was adopted at Paris on the Twenty Second Day of November, One Thousand Nine Hundred and Twenty Eight;\n\nWHEREAS the Republic of Maldives is entitled to become party to the above mentioned Convention by virtue of Article 35 thereof;\n\nWHEREAS the Republic of Maldives desires to accede to the above mentioned Convention; and\n\nIN WITNESS WHEREOF, I, ABDULLA SHAHID, Minister of Foreign\n\nAffairs of the Republic of Maldives, have signed this Instrument of Accession and affixed my seal.\n\nDONE, at Male', this Twenty Fourth Day of Shawwal, One Thousand Four\n\nHundred and Twenty Eight of the Hijri Calendar, corresponding to the Fourth Day of\n\nNovember, Two Thousand and Seven.\n\nPatella and\n\nAbdulla Shahid",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_34_s1",
+      "title": "Instrument d'adhésion d'Israël",
+      "score": 0.405634,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_208_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.399446,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "australie_denonciation_s1",
+      "title": "Dénonciation",
+      "score": 0.398772,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_142_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.396693,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_28_s1",
+      "title": "Instrument d'adhésion israélien",
+      "score": 0.395506,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.393199,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_230_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.389755,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_brn001_s1",
+      "title": "Instrument  d'adhésion",
+      "score": 0.389344,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_202_s1",
+      "title": "Instrument d'adhésion du Sri Lanka",
+      "score": 0.387267,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_ken001_s1",
+      "title": "Instrument d'adhésion du Kenya",
+      "score": 0.383364,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

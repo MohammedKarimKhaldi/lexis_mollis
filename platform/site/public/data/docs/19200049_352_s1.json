@@ -1,0 +1,88 @@
+{
+  "document_id": "19200049_352_s1",
+  "title": "Procès-verbal de dépôt de l'instrument grec",
+  "year": 1920,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9437,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Conformément aux dispositions du Traité signé à Shvres le 28 / 10 Aout 1920, entre la Grace, l'Empire Britannique , le Yrance,l'Iltalie et le Japon et relstif & la protec: tion des Minorités ethniques en Grboe, le Ministre de Grèce à, Paria s'est présenté au Ministère deg Affaires Etrangères de la République frangaise et a déposé les Ratificktions de Ba Majesté le Roi des Hellènes sur ledit Traité. | Fait à Paris le…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200049_352_s1.pdf",
+  "source_filename": "19200049_352_s1.pdf",
+  "source_sha256": "9a5698ad7c52c11991a17b75a39623c3900dd64ff25a4d0cb308443893d33ab4",
+  "treaty_id": "TRA19200049",
+  "treaty_number": "GRE003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Conformément aux dispositions du Traité signé à\n\nShvres le 28 / 10 Aout 1920, entre la Grace, l'Empire Britannique , le Yrance,l'Iltalie et le Japon et relstif & la protec:\n\ntion des Minorités ethniques en Grboe, le Ministre de Grèce à,\n\nParia s'est présenté au Ministère deg Affaires Etrangères de la République frangaise et a déposé les Ratificktions de Ba\n\nMajesté le Roi des Hellènes sur ledit Traité. |\n\nFait à Paris le 1] Yévrier 1924",
+      "quality_score": 0.9437,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200048_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.616552,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_352b_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative aux modalités du remboursement par le gouvernement hellénique des dettes résultantes des actes des autorités helléniques en Turquie",
+      "score": 0.40511,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_352c_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative à la Thrace",
+      "score": 0.382474,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_003_s1",
+      "title": "Procès-verbal de dépôt des instruments britanniques, italiens et japonais de certains actes signés à Lausanne le 24 juillet 1923 et le 23 novembre 1923, et à Sèvres le 10 août 1920",
+      "score": 0.373293,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_352a_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec relatif à 12 actes signés à Lausanne",
+      "score": 0.362543,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200048_446_s1",
+      "title": "Instrument de ratification japonais",
+      "score": 0.351226,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

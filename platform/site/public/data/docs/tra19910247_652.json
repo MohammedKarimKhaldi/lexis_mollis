@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19910247_652",
+  "title": "Instrument de ratification",
+  "year": 1991,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.994,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE ROYALE DE NORVEGE 1 1t5 - 305025 COURRIER ARRIVE AU CAC 19 MAI 2016 DGM/DCERR LMHB-2016/057 770.7/112 L'Ambassade Royale de Norvège présente ses compliments au Ministère des Affaires étrangères et du Développement international et a l'honneur de l'informer de la ratification par le Royaume de Norvège du protocole d'adhésion du Royaume des Pays-Bas à la Convention du 16 décembre 1988 relative à la construct…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19910247_652.pdf",
+  "source_filename": "tra19910247_652.pdf",
+  "source_sha256": "2313470217208a5f51accf34468ba0d5a0dd3af4d7dcfd70243c9ffdd49c6ba6",
+  "treaty_id": "TRA19910247",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE ROYALE DE NORVEGE\n\n1 1t5 - 305025\n\nCOURRIER ARRIVE\n\nAU CAC\n\n19 MAI 2016\n\nDGM/DCERR\n\nLMHB-2016/057\n\n770.7/112\n\nL'Ambassade Royale de Norvège présente ses compliments au Ministère des Affaires étrangères et du Développement international et a l'honneur de l'informer de la ratification par le Royaume de Norvège du protocole d'adhésion du Royaume des Pays-Bas à la Convention du 16 décembre 1988 relative à la construction et à l'exploitation d'une installation européenne de rayonnement synchrotron, signé à Paris le 9 décembre 1991.\n\nL'Ambassade Royale de Norvège saisit cette occasion pour renouveler au\n\nMinistère des Affaires étrangères et du Développement international les assurances de sa haute considération. ¿*.\n\nParis, le 12 mai 2016\n\nMinistère des Affaires étrangères et du Développement international\n\nDirection générale de la Mondialisation, du Développement et des Partenariats,\n\nDirection de la coopération culturelle, universitaire et de la recherche 27, rue de la Convention\n\nCS 91533\n\n75732 Paris cedex 15\n\nAmbassade Royale de Norvège, 28 rue Bayard, 75008 Paris\n\nTéléphone : 01 53 67 04 00 - Courriel: emb.paris@mfa.no",
+      "quality_score": 0.994,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.405861,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.403379,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_256_s1",
+      "title": "Instrument de ratification",
+      "score": 0.398093,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200018_104",
+      "title": "Accusé de réception de l'instrument d'adhésion",
+      "score": 0.396559,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.395769,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_258_s1",
+      "title": "Note verbale de l'Ambassade royale de Danemark notifiant le retrait de la réserve portant sur l'application de la Convention au territoire des Iles Féroé.",
+      "score": 0.394566,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_12_s1",
+      "title": "Lettre de l'ambassade de Norvège accusant réception de la réponse du Directeur général de l'Organisation européenne de Recherches spatiales",
+      "score": 0.393859,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_045_s1",
+      "title": "Note verbale d'acceptation de l'amendement de la Suède",
+      "score": 0.391304,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.391026,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_005",
+      "title": "Note de l’ambassade notifiant l’accomplissement des procédures constitutionnelles",
+      "score": 0.39042,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

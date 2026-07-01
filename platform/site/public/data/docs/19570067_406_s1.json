@@ -1,0 +1,129 @@
+{
+  "document_id": "19570067_406_s1",
+  "title": "Instrument d'adhésion indonésien",
+  "year": 1957,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9905,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE D'INDONÉSIE 49, RUE CORTAMBERT - 75016 PARIS TEl. : 45-03-07.60 N°.: 509/06/37/V/92 L'Ambassade d'Indonésie présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de porter à sa connaissance la décision de l'Indonésie de devenir membre de la Commission sericicole Internationale. Le Ministre indonésien de la Forêt, Hasirul Harahap, en a déjà informé le président de la Connission Serici…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_406_s1.pdf",
+  "source_filename": "19570067_406_s1.pdf",
+  "source_sha256": "3e1719f02d9ea637896079ee3b389af4ae5574562c7b650c03b5de8fa546ad00",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "IDN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE D'INDONÉSIE\n\n49, RUE CORTAMBERT - 75016 PARIS\n\nTEl. : 45-03-07.60\n\nN°.: 509/06/37/V/92\n\nL'Ambassade d'Indonésie présente ses compliments au\n\nMinistère des Affaires Etrangères et a l'honneur de porter à sa connaissance la décision de l'Indonésie de devenir membre de la Commission sericicole Internationale.\n\nLe Ministre indonésien de la Forêt, Hasirul Harahap, en a déjà informé le président de la Connission Sericicole In- ternationale au mois d'avril dernier, par une déclaration officielle revêtue du sceau de la République d'Indonésie.\n\nL'Ambassade d'Indonésie saisit cette occasion pour renouveler au Ministère des Affaires Etrangères les assur- ances de sa haute considération.\n\nParis, le 25 Mai 1992\n\nMinistère des Affaires Etrangères\n\nParis\n\nPARIS",
+      "quality_score": 0.9934,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "HASJRUL HARAHAP\n\nMINISTER OF FORESTRY\n\nHAVING SEEN ANO EXAMINED THE CONVENTION INSTITUTING\n\nTHE INTERNATIONAL SERICULTURAL COMMISSION, WE DECLARE\n\nWE JOIN IT AND PROMISE IT WILL BE INVIOLABLY OBEYED.\n\nUPON WITH, WE GAVE THE PRESENT LETTERS COVERED WITH\n\nTHE SEAL OF THE REPUBLIC.,\n\nSIGNED IN : JAKARTA, ON APRIL 1992",
+      "quality_score": 0.9876,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_111",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.427804,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_35_s1",
+      "title": "Note de l'OEPP sur le retrait de l'Iran",
+      "score": 0.380797,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.379713,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_887_s1",
+      "title": "Note verbale d'accompagnement de l'instrument thaïlandais",
+      "score": 0.379574,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_41_s1",
+      "title": "Lettre du Ministre de l'Agriculture de Jordanie de candidature à l'OEPP",
+      "score": 0.378613,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.376329,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.374944,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_296_s1",
+      "title": "Note verbale d'envoi de l'instrument espagnol",
+      "score": 0.374218,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_242_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.374186,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_776",
+      "title": "Accusé de réception de l'instrument salvadorien",
+      "score": 0.373061,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_031_s1",
+  "title": "Pièces dans 19280002",
+  "year": 1982,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9275,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "文、 T A RETOURNER A LA DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES SIERE DE HELIONS EXTEREN: DATE : 16 décembre I982 HATIONS UNIES POSTE : BUDAPEST LEFE: 1982) HET CORANICATIONS INTERNATION LES REFERENCE A RAPPELER : Protocole de 1972 concernant Ies Expositions Internationales LETTRE DU DEPARTEMENT N° : N° 219 A/S : Amendement au protocole de 1912 portant moditication de la Convention de 1928, si…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_031_s1.pdf",
+  "source_filename": "19820018_031_s1.pdf",
+  "source_sha256": "68d02b641914fdb9fc1a71a22013027a2f5580128fbc77bdeb1029f1e47e7489",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "GTM001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "文、\n\nT\n\nA RETOURNER A LA DIRECTION DES NATIONS UNIES ET DES\n\nORGANISATIONS INTERNATIONALES\n\nSIERE DE HELIONS EXTEREN:\n\nDATE : 16 décembre I982\n\nHATIONS UNIES\n\nPOSTE : BUDAPEST\n\nLEFE: 1982)\n\nHET CORANICATIONS INTERNATION LES\n\nREFERENCE A RAPPELER : Protocole de 1972 concernant Ies Expositions\n\nInternationales\n\nLETTRE DU DEPARTEMENT N° : N° 219\n\nA/S : Amendement au protocole de 1912 portant moditication de la Convention de 1928, signée à Paris, concernant les expositions internationales.\n\nTexte de l'Amendement adopté par l'Assemblée Générale du\n\nBureau International des Expositions :\n\n\"Les dispositions de l'article 5.2 sont supprimées à partir des mots : les intervalles ci-dessus\".\n\nLe Gouvernement. de la Républiere Eaupulaire Hongraise.....\n\na accepté cet amendement le..19.dégembre. 1982............\n\n( Au das du is fourernement du pays de votre résidenco surait tale des réserves, prière de joindre sa communication.",
+      "quality_score": 0.9275,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_038_s1",
+      "title": "Formulaire d'adhésion de Monaco à l'amendement",
+      "score": 0.629423,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_045_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.4545,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_005_s1",
+      "title": "Formulaire d'acceptation de l'amendement au protocole",
+      "score": 0.453272,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_040_s1",
+      "title": "Formulaire d'adhésion de la Norvège",
+      "score": 0.424596,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_110_s1",
+      "title": "Note verbale d'accompagnement de l'instrument de ratification des Etats-Unis et de réserve sur l'alinéa 2 de l'article 10",
+      "score": 0.380999,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.379499,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.377967,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.377086,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_42_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.37593,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_65_s1",
+      "title": "Instrument de ratification de Monaco",
+      "score": 0.375777,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

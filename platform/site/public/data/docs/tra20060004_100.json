@@ -1,0 +1,108 @@
+{
+  "document_id": "tra20060004_100",
+  "title": "Acte de reconnaissance de l'authenticité des textes de l'accord",
+  "year": 2006,
+  "doc_type": "Autre",
+  "languages": [
+    "fr",
+    "ru"
+  ],
+  "quality_score": 0.9588,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ACTE de la reconnaissance de l'authenticité des textes de l'Accord entre le Gouvernement de la Fédération de Russie et le Gouvernement de la République française relatif à la protection mutuelle de la propriété intellectuelle dans le cadre de la coopération militaire et technique bilatérale Moscou, le 8 février 2006 Nous soussignés M.Zacharie GROSS, Deuxième Conseiller à l'Ambassade de France en Russie, et M.Dmitry…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20060004_100.pdf",
+  "source_filename": "tra20060004_100.pdf",
+  "source_sha256": "41c1b01f6a6bfe1677bff9f8158cde38dfd8f921e908bcab4369edebc7a18b08",
+  "treaty_id": "TRA20060004",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ACTE\n\nde la reconnaissance de l'authenticité des textes de l'Accord entre le\n\nGouvernement de la Fédération de Russie et le Gouvernement de la\n\nRépublique française relatif à la protection mutuelle de la propriété intellectuelle dans le cadre de la coopération militaire et technique bilatérale\n\nMoscou, le 8 février 2006\n\nNous soussignés M.Zacharie GROSS, Deuxième Conseiller à l'Ambassade de France en Russie, et M.Dmitry MIKHAYLOV, Troisième secrétaire du Premier département européen du Ministère des affaires étrangères de la Fédération de la\n\nRussie, attestons par le présent que les textes russe et français de l'Accord entre le\n\nGouvernement de la Fédération de Russie et le Gouvernement de la République française relatif à la protection mutuelle de la propriété intellectuelle dans le cadre de la coopération militaire et technique bilatérale sont authentiques, l'authenticité étant établie par les signataires suite à une vérification.\n\nZacharie GROSS\n\nIl Dmitry MIKHAYLOV",
+      "quality_score": 0.9937,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "АКТ\n\nсверки аутентичности текстов Соглашения между Правительством\n\nРоссийской Федерации и Правительством Французской Республики\n\nо взаимной охране интеллектуальной собственности в ходе двустороннего военно-технического сотрудничества\n\nМосква, 8 февраля 2006 г.\n\nМы, нижеподписавшиеся, второй советник Посольства Французской\n\nРеспублики в Российской Федерации Захарий Гросс и третий секретарь ІЕД\n\nМИД России Дмитрий Михайлов, составили настоящий акт в том, что нами осуществлена сверка текстов межправительственного Соглашения о взаимной охране интеллектуальной собственности в ходе двустороннего военно-технического сотрудничества на русском и французском языках.\n\nТексты признаны полностью аутентичными.\n\nВ чем подписываемея.\n\nЗахарий Гросс | Дмитрий Михайлов\n\nРо / в\n\nи",
+      "quality_score": 0.924,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930199_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.364692,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20060004_007",
+      "title": "Accusé de réception français de l'instrument russe",
+      "score": 0.359422,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192609_001_s1",
+      "title": "Déclaration",
+      "score": 0.356695,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192608_001_s1",
+      "title": "Texte de l'avenant",
+      "score": 0.35563,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.355337,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202854_100_s1",
+      "title": "Publication de l'avenant au Journal officiel du",
+      "score": 0.352349,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20162050_010_s1",
+      "title": "Lettre costaricienne",
+      "score": 0.350457,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

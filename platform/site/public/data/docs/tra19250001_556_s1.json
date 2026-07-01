@@ -1,0 +1,81 @@
+{
+  "document_id": "tra19250001_556_s1",
+  "title": "Instrument d'adhésion palestinien",
+  "year": 1925,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "اص مليت دولة فلسطين الرشكيس٤ ACCESSION WHEREAS the Protocol for the Prohibition of the Use of Asphyxiating, Poisonous or Other Gases, and of Bacteriological Methods of Warfare was adopted in Geneva, on 17 June 1925; NOW THEREFORE I, Mahmoud Abbas, President of the State of Palestine, declare that the Government of the State of Palestine, having considered the above-mentioned Protocol, accedes to the same and underta…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19250001_556_s1.pdf",
+  "source_filename": "tra19250001_556_s1.pdf",
+  "source_sha256": "2d75f7f09fa9d8724fc43d6dce5f4b6ecf8bb6591e8fac2c4a2a83ab0177b765",
+  "treaty_id": "TRA19250001",
+  "treaty_number": "PSE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "اص مليت دولة فلسطين الرشكيس٤\n\nACCESSION\n\nWHEREAS the Protocol for the Prohibition of the Use of Asphyxiating,\n\nPoisonous or Other Gases, and of Bacteriological Methods of Warfare was adopted in Geneva, on 17 June 1925;\n\nNOW THEREFORE I, Mahmoud Abbas, President of the State of\n\nPalestine, declare that the Government of the State of Palestine, having considered the above-mentioned Protocol, accedes to the same and undertakes faithfully to perform and carry out the stipulations therein ' contained:\n\nIN WITNESS WHEREOF, I have signed this instrument of accession at\n\nRamallah, State of Palestine, on 06 December 2017.\n\nMahmeud Abbas,\n\nPresident of the Stafe of Palestine",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_brn001_s1",
+      "title": "Instrument  d'adhésion",
+      "score": 0.377298,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19250001_248",
+      "title": "instrument de succession ; une réserve",
+      "score": 0.369142,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_28_s1",
+      "title": "Instrument d'adhésion israélien",
+      "score": 0.354246,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_34_s1",
+      "title": "Instrument d'adhésion d'Israël",
+      "score": 0.351384,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_018_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.350937,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

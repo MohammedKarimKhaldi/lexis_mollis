@@ -53,5 +53,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19200069_882_s1",
+      "title": "Procès-verbal de dépôt de l'instrument techécoslovaque",
+      "score": 0.716757,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_732_s1",
+      "title": "Procès-verbal de dépôt de l'instrument britannique",
+      "score": 0.656614,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_006_s1",
+      "title": "Procès-Verbal de dépôt des instruments de ratification de l'accord",
+      "score": 0.655162,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190038_02_s1",
+      "title": "Procès-verbal de dépôt des ratifications",
+      "score": 0.645503,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_882_s1",
+      "title": "Procès-verbal de dépôt de l'instrument tchécoslovaque",
+      "score": 0.640786,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_352a_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.627398,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_448_s1",
+      "title": "Procès verbal de dépôt de l'instrument japonais",
+      "score": 0.418191,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_798_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification serbe-croate-slovène",
+      "score": 0.416276,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_631_s1",
+      "title": "Procès-verbal du dépôt de ratification du traité de paix du 10 septembre 1919",
+      "score": 0.416185,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.410728,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
 }

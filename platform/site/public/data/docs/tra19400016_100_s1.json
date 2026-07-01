@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19400016_100_s1",
+  "title": "Procès-verbal de signature",
+  "year": 1940,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE SIGNATURE de la Convention relative à l'abolition de la Caisse de la Dette Publique Egyptienne conclue entre le Gouvernement Français et le Gouvernement Royal Egyptien. Les soussignés, Son Excellence Monsieur Jean Pozzi, Envoyé Extraordinaire et Ministre Plénipotentiaire de France en Egypte, d'une part, et Son Excellence Hassan Sabry Pacha, Président du Conseil des Ministres, Ministre des Affaires E…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19400016_100_s1.pdf",
+  "source_filename": "tra19400016_100_s1.pdf",
+  "source_sha256": "42eceec86e7607c583951c21e850b8b2a9ee7980bc3ca58df44ec6e4544f4564",
+  "treaty_id": "TRA19400016",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE SIGNATURE\n\nde la Convention relative à l'abolition de la\n\nCaisse de la Dette Publique Egyptienne conclue entre le Gouvernement Français et le Gouvernement Royal Egyptien.\n\nLes soussignés, Son Excellence Monsieur Jean Pozzi, Envoyé\n\nExtraordinaire et Ministre Plénipotentiaire de France en Egypte, d'une part, et Son Excellence Hassan Sabry Pacha, Président du Conseil des\n\nMinistres, Ministre des Affaires Etrangères de Sa Majesté le Roi d'Egypte, d'autre part, s'étant réunis pour signer la Convention relative à l'abolition de la Caisse de la Dette Publique Egyptienne conclue entre le Gouvernement Français et le Gouvernement Royal Egyptien.\n\nSon Excellence Monsieur Jean Pozzi ayant produit les pleinspouvoirs l'autorisant à signer au nom de son Gouvernement, il a été procédé à la signature de la Convention en question.\n\nA ce moment, Son Excellence Hassan Sabry Pacha donna lecture d'une déclaration annexée à la Convention dont Son Excellence Monsieur\n\nJean Pozzi prit connaissance et acte.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procèsverbal qu'ils ont signé en double expédition et revêtu de leurs cachets.\n\nFAIT au Caire, le trois Août 1940.\n\nHasan ale",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630357_007_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.377266,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610286_008_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification du Traité",
+      "score": 0.371325,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730140_005",
+      "title": "Instrument iranien",
+      "score": 0.366468,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19400016_001_s1",
+      "title": "Convention ; déclaration du plénipotentaire égyptien",
+      "score": 0.365267,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_008",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.364131,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200048_001_s1",
+      "title": "Traité",
+      "score": 0.361956,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19550235_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.357735,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_005_s1",
+      "title": "Instrument allemand/copie conforme signée par le directeur des Affaires juridiques du ministère des Affaires étrangères allemand et Protocole d'échange des notifications entre le Chancelier Konrad Adenauer et le président de la République René Coty",
+      "score": 0.35351,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_002_s1",
+      "title": "Procès-verbal de rectification de la convention",
+      "score": 0.353507,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19040040_001_s1",
+      "title": "Accord",
+      "score": 0.353193,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

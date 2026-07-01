@@ -1,0 +1,51 @@
+{
+  "document_id": "tra15360001_101",
+  "title": "Chemise contemporaine de la traduction du traité",
+  "year": 1536,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "fr"
+  ],
+  "quality_score": 0.7823,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "n0 2 (прот, совати. Crauling - ди ekles Consule fatalank es 110 9 1535-sriw Craduction Du Traité dedaix en Dálliano ligue à foutantinopls paole Or fean de laforess, ambassadeu de nes auprès de la four Ottomane, au чи де ванов I, a le tan",
+  "tags": [
+    "century:c16",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra15360001_101.pdf",
+  "source_filename": "tra15360001_101.pdf",
+  "source_sha256": "0f8d664163173f1232ec97ef0d38c1debc4ce164a08907c382b387637321578d",
+  "treaty_id": "TRA15360001",
+  "treaty_number": "101",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "n0 2 (прот, совати. Crauling\n\n- ди\n\nekles Consule\n\nfatalank es\n\n110 9 1535-sriw\n\nCraduction Du Traité dedaix\n\nen Dálliano ligue à foutantinopls paole\n\nOr fean de laforess, ambassadeu de nes auprès de la four Ottomane, au чи де ванов I,\n\na le tan",
+      "quality_score": 0.7823,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

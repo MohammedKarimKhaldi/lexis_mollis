@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_218_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "cs"
+  ],
+  "quality_score": 0.9193,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 218 25735 Vláda české republiky tuto úmluvu prozkoumala a v souladu s českymi právními předpisy k ní přistupuje podle ustanovení jejsho článku XXXV., s platnosti od 1.ledna 1993, Dáno v Praze dne 21. prosince 1992. Losef letene inárodních vztahů české republiky mezinarodnics",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_218_s1.pdf",
+  "source_filename": "19280002_218_s1.pdf",
+  "source_sha256": "4b0d55838e5c57a6d6117fd041fde0e9e8fdadb2c62fc372fd5dc36405b91837",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "CZE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 218",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "25735\n\nVláda české republiky tuto úmluvu prozkoumala a v souladu s českymi právními předpisy k ní přistupuje podle ustanovení jejsho článku XXXV., s platnosti od 1.ledna 1993,\n\nDáno v Praze dne 21. prosince 1992.\n\nLosef letene inárodních vztahů české republiky\n\nmezinarodnics",
+      "quality_score": 0.8954,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "cs"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.859012,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_214_s1",
+      "title": "Note verbale de dénonciation",
+      "score": 0.854399,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_210_s1",
+      "title": "Instrument d'adhésion de la Syrie",
+      "score": 0.850269,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.849638,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_216_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.838395,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_211_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.837962,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_212_s1",
+      "title": "Instrument d'adhésion de la Tanzanie",
+      "score": 0.829075,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_208_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.764863,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_48_s1",
+      "title": "Instrument d'adhésion de la République Tchèque",
+      "score": 0.75131,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.74833,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "document_id": "19720117_15_s1",
+  "title": "Pouvoirs de signature de l'Autriche",
+  "year": 1972,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9549,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "REPUBLIK OSTERREICH VOLLMACHT Traduction inofficielle Le Président Fédéral de la République d'Autriche a sur proposition du Gouvernement fédéral autrichien donné pouvoir à M. Erich Bielka-KaIltre u, Ambassadeur Extraordinaire et Plénipotentiaire de la République d'Autriche aupres de la République française de signer, au nom de la République d'Autriche, le Protocole portant modification de la Convention signée à Pari…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_15_s1.pdf",
+  "source_filename": "19720117_15_s1.pdf",
+  "source_sha256": "f29e6a7277c511a65caed33945d2ad11f332e1d277735e9ef776e1f56fbebc9b",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "AUT001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLIK OSTERREICH\n\nVOLLMACHT",
+      "quality_score": 0.987,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Traduction inofficielle\n\nLe Président Fédéral de la République d'Autriche a sur proposition du Gouvernement fédéral autrichien donné pouvoir à\n\nM. Erich Bielka-KaIltre u,\n\nAmbassadeur Extraordinaire et Plénipotentiaire de la\n\nRépublique d'Autriche aupres de la République française de signer, au nom de la République d'Autriche, le Protocole portant modification de la Convention signée à Paris le 22 Novembre 1928, concernant les Expositions Internationales,\n\nsous réserve de la ratification.\n\nEn foi de quoi le présent pouvoir est signé par le\n\nPrésident Fédéral, contresigné par le Chancelier Fédéral et a été muni du Sceau d'Etat de la République d'Autriche.\n\nFait à Vienne, 1e 26 Juillet 1973\n\nLe Président Fédéral:\n\nJONAS m.p.\n\nLe Chancelier Fédéral:\n\nB. KREISKY m.p.\n\nSceau d'Etat",
+      "quality_score": 0.9229,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.462026,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_070_s1",
+      "title": "Pouvoirs autrichiens",
+      "score": 0.403668,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_14_s1",
+      "title": "Pouvoirs de signature de l'Autriche",
+      "score": 0.38336,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.383012,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.381393,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_100_s1",
+      "title": "Pouvoirs de signature de la Suisse",
+      "score": 0.380087,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_058_s1",
+      "title": "Pouvoirs français",
+      "score": 0.379152,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.378233,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19240002_091_s1",
+      "title": "Pouvoirs finlandais",
+      "score": 0.377321,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.371051,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

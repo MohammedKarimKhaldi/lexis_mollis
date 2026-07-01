@@ -1,0 +1,128 @@
+{
+  "document_id": "19920190_420_s1",
+  "title": "Pouvoirs",
+  "year": 1992,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9933,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "IRELAND CONVENTION FOR THE PROTECTION OF THE MARINE ENVIRONMENT OF THE NORTH EAST ATLANTIC WHEREAS a CONVENTION FOR THE PROTECTION OF THE MARINE ENVIRONMENT OF THE NORTH EAST ATLANTIC has been concluded; AND WHEREAS the said Convention is open for signature at paris from 22 September, 1992 to 30 June, 1993 by the contracting parties to the Oslo Convention or the Paris Convention; AND WHEREAS Ireland is such a State;…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19920190_420_s1.pdf",
+  "source_filename": "19920190_420_s1.pdf",
+  "source_sha256": "a863081b9108aa24bd656f5564bf9c60be0bbb7c1413cf43a59d0bef4102eec1",
+  "treaty_id": "TRA19920190",
+  "treaty_number": "IRL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "IRELAND\n\nCONVENTION FOR THE PROTECTION OF THE MARINE ENVIRONMENT OF THE\n\nNORTH EAST ATLANTIC\n\nWHEREAS a CONVENTION FOR THE PROTECTION OF THE MARINE\n\nENVIRONMENT OF THE NORTH EAST ATLANTIC has been concluded;\n\nAND WHEREAS the said Convention is open for signature at paris from 22 September, 1992 to 30 June, 1993 by the contracting parties to the Oslo Convention or the Paris Convention;\n\nAND WHEREAS Ireland is such a State;\n\nAND WHEREAS the Government of Ireland have seen the said\n\nConvention and judged it appropriate that it should be signed, subject to ratification, on behalf of Ireland;\n\nNOW, THEREFORE, I , David Andrews, I.D., Minister for Foreign\n\nAffairs of Ireland, do by these presents Hereby authorise and empower\n\nMichael Smith, T.D.,\n\nMinister for the Environment of Ireland to sign, subject to ratification, the said CONVENTION FOR THE\n\nPROTECTION OF THE ENVIRONMENT OF THE NORTH EAST ATLANTIC on behalf of Ireland.",
+      "quality_score": 0.9969,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "GIVEN AT DUBLIN under my Official Seal this the 15th day of\n\nSeptember, 1992,\n\npin\n\nMinister for Foreign Affairs of Ireland",
+      "quality_score": 0.9898,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19920190_421_s1",
+      "title": "Instrument de ratification",
+      "score": 0.425023,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_018_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.382375,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_005_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.377586,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141292_001_s1",
+      "title": "Accord",
+      "score": 0.376316,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.376072,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_202_s1",
+      "title": "Instrument d'adhésion du Sri Lanka",
+      "score": 0.375989,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.375621,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_655_s1",
+      "title": "Pouvoirs indiens",
+      "score": 0.374926,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_230_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.373343,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_003_s1",
+      "title": "Déclaration finale de la Réunion ministérielle des Commissions d'Oslo et de Paris, 21-22 septembre 1992",
+      "score": 0.372856,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

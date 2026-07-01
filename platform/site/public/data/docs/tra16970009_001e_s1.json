@@ -1,0 +1,132 @@
+{
+  "document_id": "tra16970009_001e_s1",
+  "title": "Acte extrait du protocole de médiation relatif aux titres des plénipotentiaires britanniques",
+  "year": 1697,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8961,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Ministère des Affaires étrangères - Direction des Archives - Conservation des Traités Multilatéraux 16970009 GRANDE-BRETAGNE Traité de paix.- Ryswick, 20 septembre 1697. » Extrait du protocole de la médiation de Ryswick (titres des plénipotentiaires anglais).- Ryswick, 12 octobre 1697. Original en français.- Feuillet papier. - 1 cachet de cire noire. Дарк, Oxtrait du Protocolle de la Media tote CRatean de Rijswijar…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16970009_001e_s1.pdf",
+  "source_filename": "tra16970009_001e_s1.pdf",
+  "source_sha256": "8a0bdf122518ac98b064a31d426d61696df11d6e90c63200ed88ad9b404055c0",
+  "treaty_id": "TRA16970009",
+  "treaty_number": "001E",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministère des Affaires étrangères - Direction des Archives - Conservation des Traités\n\nMultilatéraux\n\n16970009\n\nGRANDE-BRETAGNE\n\nTraité de paix.- Ryswick, 20 septembre 1697.\n\n» Extrait du protocole de la médiation de Ryswick (titres des plénipotentiaires anglais).- Ryswick, 12 octobre 1697.\n\nOriginal en français.- Feuillet papier. - 1 cachet de cire noire.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Дарк,\n\nOxtrait du Protocolle de la Media tote\n\nCRatean de Rijswijar fe →\n\n- Cotobre Hogy.\n\nin la diversité.\n\n'i le rencontre entre le premier\n\nartite On Traité de Gaix figné a Rigujar le 20°.\n\nde eptembre dernier, co te pouor aiffybuen que le preámbuce de la ratification\n\nRay de di Grande boretagne ont declaré que cela s'est\n\npas atriy, Ho promettant ie fournir un autre pouvon et ionforme auxdit Traites de forix; aniono que\n\n* de 'ray arbarfaders Unediatens.",
+      "quality_score": 0.7922,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16970009_001d_s1",
+      "title": "Acte extrait du protocole de médiation relatif à la pension de Marie d'Este",
+      "score": 0.857398,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_005a_s1",
+      "title": "Promesse de ratification",
+      "score": 0.72259,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001c_s1",
+      "title": "Déclaration relative à l'inclusion des États italiens et suisses",
+      "score": 0.694287,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001d_s1",
+      "title": "Déclaration rectificative de l'article 25",
+      "score": 0.660917,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16780001_007a_s1",
+      "title": "Pouvoirs pour prêter le serment d'observer les dispositions du traité",
+      "score": 0.523593,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001a_s1",
+      "title": "Traité",
+      "score": 0.466519,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001f_s1",
+      "title": "Déclaration relative à l'application de la cessation des hostilités sur mer",
+      "score": 0.46345,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970010_001b_s1",
+      "title": "Article séparé",
+      "score": 0.460008,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001b_s1",
+      "title": "Article séparé",
+      "score": 0.457202,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001a_s1",
+      "title": "Traité",
+      "score": 0.453029,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19830185_fra001_s1",
+  "title": "Lettre constituant instrument d'approbation",
+  "year": 1983,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9963,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ripublique Française Le Ministre d'Etat, Ministre des Affaires Etrangères Paris, le 22 Février 1989. Monsieur le Directeur Général, Me référant à l'article 10 de la Convention 159 concernant la réadaptation professionnelle et l'emploi des personnes handicapées, adoptée à Genève le 20 juin 1983, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République pour la mise en vigueu…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19830185_fra001_s1.pdf",
+  "source_filename": "tra19830185_fra001_s1.pdf",
+  "source_sha256": "de2f28a9f31f4081564aa534dcdd189379372316aeb7a8a08aa68c976a691e3b",
+  "treaty_id": "TRA19830185",
+  "treaty_number": "FRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ripublique Française\n\nLe Ministre d'Etat,\n\nMinistre des Affaires Etrangères\n\nParis, le 22 Février 1989.\n\nMonsieur le Directeur Général,\n\nMe référant à l'article 10 de la\n\nConvention\n\n159 concernant la réadaptation\n\nprofessionnelle et l'emploi des personnes handicapées, adoptée à Genève le 20 juin 1983, j'ai l'honneur de vous\n\nfaire\n\nsavoir que les\n\nprocédures requises par la Constitution de la\n\nRépublique pour la mise en vigueur de ladite\n\nConvention\n\nont été accomplies.\n\nLa présente lettre qui constitue\n\nl'Instrument d'Approbation de ladite Convention, vaut Instrument de Ratification formelle au sens de l'article 10 de cette Convention .\n\nJe vous serais reconnaissant de bien\n\nvouloir m'informer de la date à laquelle celle-ci vous sera\n\nparvenue./.\n\nJe vous prie d'agréer, Monsieur le\n\nDirecteur Général, l'expression\n\nde ma haute\n\nconsidération.\n\nPour copie certifiée conforme à l'original\n\nA Paris, le\n\n・・・ 22 FEvrier 1989.\n\nRoLU\n\nRoland DUMAS\n\nA Son Excellence\n\nM. Michel HANSENNE\n\nDirecteur Général du Bureau international du Travail\n\nGENEVE",
+      "quality_score": 0.9963,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990090_004_s1",
+      "title": "Instrument français",
+      "score": 0.643478,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.637871,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.425071,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.421021,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.417591,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.415168,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.414643,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.411504,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830185_fra002_s1",
+      "title": "Lettre accusant réception de l'approbation française",
+      "score": 0.410428,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_006",
+      "title": "tra19760084_006",
+      "score": 0.407913,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

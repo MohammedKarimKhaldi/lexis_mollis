@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19740038_100",
+  "title": "Échange de lettres rectificatif: lettre française",
+  "year": 1974,
+  "doc_type": "Échange de lettres",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9904,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "N° 1200 L'Ambassade de France présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de se référer à la Convention de coopération en matière judiciaire entre la République française et la République populaire du Congo, signée à Brazzaville le ler janvier 1974. Il a été constaté qu'une erreur dactylographique s'était produite lors de la rédaction du ler alinéa de l'article 53 de la Convention pr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Échange de lettres",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19740038_100.pdf",
+  "source_filename": "tra19740038_100.pdf",
+  "source_sha256": "e8d45110b168f217227cc4485c6b588e86d883d9552ba8b5f47fb6f5466acf84",
+  "treaty_id": "TRA19740038",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "N°\n\n1200\n\nL'Ambassade de France présente ses compliments au\n\nMinistère des Affaires Etrangères et\n\na l'honneur de se\n\nréférer à la Convention de coopération en matière judiciaire entre la République française et la République populaire du\n\nCongo, signée à Brazzaville le ler janvier 1974.\n\nIl a été constaté qu'une erreur dactylographique s'était produite lors de la rédaction du ler alinéa de l'article 53 de la Convention précitée qui fait, de manière inexacte, référence à l'article 48.\n\nLes autorités françaises proposent en conséquence, que cet alinéa se lise comme suit :\n\n\"Le président se borne à vérifier si la décision dont l'exécution est demandée remplit les conditions prévues à l'article 49\".\n\nSi cette proposition rencontre l'agrément du Gouver-\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nBRAZZAVILLE",
+      "quality_score": 0.9913,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "nement de la République populaire du Congo, l'Ambassade de\n\nFrance suggère que la présente lettre et la réponse du\n\nMinistère des Affaires Etrangères constituent l'accord des deux Gouvernements sur la rectification dont il\n\ns'agit.\n\nL'Ambassade de France saisit cette occasion pour renouveler au Ministère des Affaires Etrangères les assurances\n\nde sa haute considération. /.\n\nBrazzaville, le 16 Décembre 1975\n\nSiggé : THUILLIER\n\nCopie certifiée conforme à l'original\n\nBrazzaville, le 16 janvier 1976\n\nLE PREMIER CONSENNE\n\nFRANC\n\n*Claude THUILLIER",
+      "quality_score": 0.9895,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19740038_101",
+      "title": "Échange de lettres rectificatif: lettre congolaise",
+      "score": 0.707671,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_103",
+      "title": "Echange de notes relatif à Guernesey",
+      "score": 0.381537,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.372449,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_101",
+      "title": "Échange de notes relatifs aux sanctions",
+      "score": 0.369939,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800016_001a_s1",
+      "title": "Accord (note verbale française)",
+      "score": 0.367795,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.367374,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_005_s1",
+      "title": "Instrument émirati",
+      "score": 0.36719,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240060_001b_s1",
+      "title": "Note en réponse",
+      "score": 0.367131,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_100",
+      "title": "Échange de notes sur l'accès",
+      "score": 0.366504,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630043_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.36516,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

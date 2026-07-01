@@ -1,0 +1,82 @@
+{
+  "document_id": "tra18140009_001_s1",
+  "title": "Texte de l'acte",
+  "year": 1814,
+  "doc_type": "Texte",
+  "languages": [
+    "ca",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.753,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "MAC CRAP CRAT ANSE FAN: vn due yw ou se \" VM M بمن ف ع تعد الد لم كو كيز انش من اص مك ملن كن كو لانها دقول اللحف رنا مدم فرار مسندة لور باشاء بعب فن الهوفت اخبر * \"بهد عطشح من فزار منا تو مجل الخرفة جن أماز اوالامبى جمية يحسم فرام زولة لا مبى ترى ١ ١٤. حسنون مبون يب تيفك كل مكن فى كلف لكهرص كل نام وجنجه وناء كتم ده قوديد مانياد وسعوليس بينزده مدم مشرور منوال امدرو يل ملا وصومونبير وو سنبغر محكم واحين بوقد تحرب ا ولح…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Texte",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:revolutionary_napoleonic_1789_1815",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18140009_001_s1.pdf",
+  "source_filename": "tra18140009_001_s1.pdf",
+  "source_sha256": "c9ddf9bfc7298c6b96d7f496eb770cea68511126ed15abad8bd19e582e7bc81f",
+  "treaty_id": "TRA18140009",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MAC CRAP CRAT ANSE\n\nFAN: vn due yw ou se \" VM M",
+      "quality_score": 0.7692,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "بمن ف ع تعد الد لم كو كيز انش من اص مك ملن كن كو لانها دقول اللحف رنا مدم فرار مسندة لور باشاء بعب فن الهوفت اخبر * \"بهد عطشح من فزار منا تو مجل الخرفة جن أماز اوالامبى جمية يحسم فرام زولة لا مبى ترى ١ ١٤.\n\nحسنون مبون يب تيفك كل مكن فى كلف لكهرص كل نام وجنجه وناء كتم ده قوديد مانياد وسعوليس بينزده مدم مشرور منوال امدرو يل ملا وصومونبير وو سنبغر محكم واحين بوقد تحرب ا ولحدى مام فسو وعشر ين مانبى\n\nNows Charled François.\n\n« Traduction-eo la pioe-\"tunquo.\n\nli Panfies.\n\nMana la peróranto amma 1729/181d). er.\n\nla 9? etce novora damars, le llo fele-geresan abdique, Torcio XVIII de Parseinrma ra ee\n\nCoo reis que la fas, tait taurausa!) a éto alu\n\nBupereun (\"polichah) à so placa\n\nCuidaing seo pariae poan la doloran de eres foto, eb attaria occupare lo trime eh la panian co acior gerna es fitrita.\n\netan lom Janmitá e la litrici de An atajante lla Olai do Franca) qui Muero a eté' appaunteá es ramida pron la.\n\nesasa liar a tremard, la prais qui existent entra Mono etana Praintoria es Motra amitió condalidae; catte circumatesies a étó candigioé cèi dur la prédonr traitó).\n\n1l'an 1299/1814)\n\nEt had; eltly, Pay dsllgere la fias geendés:",
+      "quality_score": 0.7583,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "كهرا",
+      "quality_score": 0.7316,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

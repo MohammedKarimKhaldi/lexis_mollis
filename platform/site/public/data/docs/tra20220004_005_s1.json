@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20220004_005_s1",
+  "title": "Note de l'ambassade signifiant l'approbation",
+  "year": 2022,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9801,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ref. 2023-27 No. 53/2023 NOTE VERBALE L'Ambassade Royale de Danemark présente ses compliments au Ministère de l'Europe et des Atfaires étrangères de la France et a l'honneur d'informer le Gouvernement de la République française que la Convention entre le Gouvernement du Royaume du Danemark et le Gouvernement de la République française en vue d'éliminer les doubles impositions en matière d'impôts sur le revenu et de…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20220004_005_s1.pdf",
+  "source_filename": "tra20220004_005_s1.pdf",
+  "source_sha256": "702507e60f769b026d520c7ac913fe4855717f5d56dd446032607141f0a88af0",
+  "treaty_id": "TRA20220004",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ref. 2023-27\n\nNo. 53/2023\n\nNOTE VERBALE\n\nL'Ambassade Royale de Danemark présente ses compliments au Ministère de l'Europe et des\n\nAtfaires étrangères de la France et a l'honneur d'informer le Gouvernement de la République française que la Convention entre le Gouvernement du Royaume du Danemark et le\n\nGouvernement de la République française en vue d'éliminer les doubles impositions en matière d'impôts sur le revenu et de prévenir l'évasion et la fraude fiscales et le Protocole y annexé, faits à\n\nParis le 4 février 2022, ont été ratifiés en droit par le Royaume du Danemark :\n\n« Lov om gennemførelse af dobbeltbeskatningsoverenskomst og tilhørende protokol mellem\n\nKongeriget Danmark og Den Franske Republik »\n\n(Acte relatif à la mise en œuvre de la convention préventive de double imposition et du protocole y afférent entre le Royaume du Danemark et la République française).\n\nAinsi, l'ambassade du Royaume de Danemark en République française a l'honneur d'informer le\n\nMinistère des Affaires étrangères de la République française, conformément à l'article 31 de la\n\nConvention, que les procédures requises pour l'entrée en vigueur de la Convention et du\n\nProtocole ont ete accomplies par le Royaume de Danemark.\n\nL'Ambassade Royale de Danemark saisit cette occasion pout renouveler au Ministère de l'Europe et des Affaires étrangères l'assurance de sa haute considération.\n\n2023-0525662\n\nFAE / CAD\n\n30 NOV. 2023\n\nARRIVEE\n\nHABIGADE ROYALE\n\n只\n\nDANEMARK A PARIS\n\nParis, le 31. Octobre 2023\n\nMinistère de l'Europe et des Affaires étrangères\n\nProtocole 37, Quai d'Orsay\n\nPARIS",
+      "quality_score": 0.9801,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20212842_006_s1",
+      "title": "accusé de réception par la Macédoine du Nord de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.419637,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_006",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.41765,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240060_001b_s1",
+      "title": "Note en réponse",
+      "score": 0.410687,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220040_006_s1",
+      "title": "Note (DI/2/290) accusant réception de la notification d'approbation française.",
+      "score": 0.40204,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_005",
+      "title": "Note de l’ambassade notifiant l’accomplissement des procédures constitutionnelles",
+      "score": 0.399726,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220035_007_s1",
+      "title": "accusé de réception de l'instrument français",
+      "score": 0.392633,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_004",
+      "title": "Instrument de ratification",
+      "score": 0.390354,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_006_s1",
+      "title": "Accusé de réception ouzbèke de l'instrument français",
+      "score": 0.389516,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_010_s1",
+      "title": "Texte de l'arrangement : note suisse (sans les 3 plans annexes)",
+      "score": 0.388245,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750012_396",
+      "title": "Instrument français",
+      "score": 0.386804,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

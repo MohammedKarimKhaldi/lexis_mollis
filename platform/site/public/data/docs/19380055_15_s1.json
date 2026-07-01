@@ -1,0 +1,116 @@
+{
+  "document_id": "19380055_15_s1",
+  "title": "Pouvoirs de signature du Brésil",
+  "year": 1938,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "pt"
+  ],
+  "quality_score": 0.9812,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "GETULIO VARGAS PRESIDENTE DA REPÓBLICA DOS ESTADOS UNIDOS DO BRASIL Faço saber aos que a presente Carta de Plenos Pode- res virem que nomeel o Primeiro Secretário de Embaixada Argeu s. Machado Guimarães para, na qualidade de Delegado do Brasil & Con- ferência Sanitária Internacional,de Paris, assinar a Convenção alí concluída. Em testemunho disso, mandei passar esta Carta, que assino e é selada com o sêlo das Armas…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380055_15_s1.pdf",
+  "source_filename": "19380055_15_s1.pdf",
+  "source_sha256": "1e036cf28e534296fe5b85b19f76e87242c616f3c744663a89a0d1c97b0cba8e",
+  "treaty_id": "TRA19380055",
+  "treaty_number": "BRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GETULIO VARGAS\n\nPRESIDENTE DA REPÓBLICA DOS ESTADOS UNIDOS DO BRASIL\n\nFaço saber aos que a presente Carta de Plenos Pode- res virem que nomeel o Primeiro Secretário de Embaixada Argeu s.\n\nMachado Guimarães para, na qualidade de Delegado do Brasil & Con- ferência Sanitária Internacional,de Paris, assinar a Convenção alí concluída. Em testemunho disso, mandei passar esta Carta, que assino e é selada com o sêlo das Armas da República e subscrita pelo Ministro de Estado das Relações Exterlores. Dada no Palácio da Presidência, no Rio de Janeiro, aos vinte dias do mês de Dezem- bro do ano de mil novecentos e trinta e oito, 117: da Independência",
+      "quality_score": 0.9812,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.401436,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.379213,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.374999,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_16_s1",
+      "title": "Instrument de ratification du Brésil",
+      "score": 0.373373,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_47_s1",
+      "title": "Pouvoirs de vote et de signature du Portugal",
+      "score": 0.369887,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_174_s1",
+      "title": "Pouvoirs pour déposer l'instrument de ratification",
+      "score": 0.368682,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_05_s1",
+      "title": "Liste des plénipotentiaires",
+      "score": 0.367395,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_16_s1",
+      "title": "Pouvoirs (Rio de Janeiro, décembre 1918, juin 1919)",
+      "score": 0.363177,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_084_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.361543,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.360954,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

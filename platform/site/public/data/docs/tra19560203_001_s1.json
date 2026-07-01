@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560203_001_s1",
+  "title": "Accord (lettre française)",
+  "year": 1956,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9903,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Paris, le 2 Mars 1956 Monsieur le Président, Par lettre en date de ce jour, vous avez bien voulu me faire connaître ce qui suit : \" Je tiens à tous confirmer l'accord du Gouvernement marocain pour n'apporter, dans les domaines monétaire et financier, aucun changement au régime actuel en atte dant que les modalités nouvelles de la coopération de nos deux pays dans ces domaines aient été définies conformément à la Déc…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560203_001_s1.pdf",
+  "source_filename": "tra19560203_001_s1.pdf",
+  "source_sha256": "fabd3b89b5fe950ae4978030618e45d0d56d95eccc77ab3ced2ca9bfd56a0587",
+  "treaty_id": "TRA19560203",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Paris, le 2 Mars 1956\n\nMonsieur le Président,\n\nPar lettre en date de ce jour, vous avez bien voulu me faire connaître ce qui suit :\n\n\" Je tiens à tous confirmer l'accord du Gouvernement marocain pour n'apporter, dans les domaines monétaire et financier, aucun changement au régime actuel en atte dant que les modalités nouvelles de la coopération de nos deux pays dans ces domaines aient été définies conformément à la Déclaration commune et au Protocole en date de ce jour \".\n\nJ'ai l'honneur de vous confirner l'accord du Gouvernement français sur les dispositions qui précèdent, i\n\nVeuillez agréer, Monsieur le Président, I'assurance de ma très haute considérațion.\n\nA Son Excellence\n\nEmbarek BEKKAI\n\nPrésident du Gouvernement marocain •\n\nPrésident de la Délégation marocaine\n\nCopie certifiée conforme.\n\nAFFAIRES\n\nsuspendema\n\n兵\n\n12\n\nSININ",
+      "quality_score": 0.9903,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560203_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.7374,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.640409,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.546273,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560200_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.422494,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800233_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.39374,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750103_100_s1",
+      "title": "Publication au Journal officiel du",
+      "score": 0.393668,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19780215_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.386712,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620053_004_s1",
+      "title": "Instrument français",
+      "score": 0.383369,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620251_004_s1",
+      "title": "Instrument français",
+      "score": 0.383369,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620047_004_s1",
+      "title": "Instrument français",
+      "score": 0.383369,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

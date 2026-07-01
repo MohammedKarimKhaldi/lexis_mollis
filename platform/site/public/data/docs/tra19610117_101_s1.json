@@ -1,0 +1,74 @@
+{
+  "document_id": "tra19610117_101_s1",
+  "title": "Échange de TD a/s publication de l'accord (réponse de l'ambassade de France)",
+  "year": 1961,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9281,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "TD NICOSIE 239 1-DA 2음, 옷을 , EN ONS 3HAE ACE CED 3E8C 20E 2028 24/04/97 12H22 - 255574 AR01 TO NICOSIE 239 ROUTINE LE 23 AVRIL 1997 NOSE 2937 LE 24/04/97 A 12H07 REDACTEUR : F. BOCHU-VOISIN CO DIPLOMATIE 239 CQ VISAS 13 : CEU - ARD (MME GUYOT, M. KIND) ...... OBJET : ACCORD DE SUPPRESSION DU VISA DE COURT SEJOUR ENTRE LA FRANCE ET CHYPRE. REFERENCE : TD DIPLO FAE 4081- SELON LE MINISTERE CHYPRIOTE DES AFFAIRES ETRAN…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19610117_101_s1.pdf",
+  "source_filename": "tra19610117_101_s1.pdf",
+  "source_sha256": "c37fa9c2fc2dfad53009ce3840afe4f5400ded6011e00e1024964be81ec148e5",
+  "treaty_id": "TRA19610117",
+  "treaty_number": "101",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TD NICOSIE 239\n\n1-DA\n\n2음, 옷을 , EN ONS 3HAE ACE CED 3E8C 20E 2028\n\n24/04/97 12H22 - 255574\n\nAR01\n\nTO NICOSIE 239\n\nROUTINE\n\nLE 23 AVRIL 1997\n\nNOSE\n\n2937 LE 24/04/97 A 12H07\n\nREDACTEUR : F. BOCHU-VOISIN\n\nCO DIPLOMATIE 239\n\nCQ VISAS 13\n\n: CEU - ARD (MME GUYOT, M. KIND)\n\n......\n\nOBJET : ACCORD DE SUPPRESSION DU VISA DE COURT SEJOUR ENTRE LA FRANCE ET CHYPRE.\n\nREFERENCE : TD DIPLO FAE 4081-\n\nSELON LE MINISTERE CHYPRIOTE DES AFFAIRES ETRANGERES, L'ACCORD DE\n\nSUPPRESSION DU VISA DU 3 NOVEMBRE 1961, DE MEME QUE SON ADDITIF DU 15 NOVEMBRE 1961,\n\nONT ETE PUBLIES DANS LE JOURNAL OFFICIEL DE LA REPUBLIOUE DE CHYPRE NO 61/CAZ425 ET\n\nNO 61/CAZ428.\n\nDES QUE CELA LUI SERA POSSIBLE; CE POSTE TRANSMETTRA AU DEPARTEMENT\n\nCOPIE DES TEXTES OFFICIELS.\n\nSIGNE : JACOLIN. / .\n\nARO1 (SERV) AR\n\nARO 1 (SERV)\n\n3.11.1961 1961047 15.11.1961 manque",
+      "quality_score": 0.9281,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19610117_100_s1",
+      "title": "Échange de TD a/s publication de l'accord (question du service FAE)",
+      "score": 0.390508,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_049_s1",
+      "title": "Note verbale d'acceptation de la Tunisie",
+      "score": 0.358154,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_111_s1",
+      "title": "Pouvoirs de signature des Etats-Unis",
+      "score": 0.353295,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19360013_100",
+      "title": "Échange interne MAE : TD entre le poste en Biélorussie (Minsk 10/12/1998) et l'administration centrale (Diplomatie 15/12/1998) a/s durée de vigueur de l'accord",
+      "score": 0.352164,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

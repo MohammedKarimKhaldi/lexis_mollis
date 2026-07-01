@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20070032_006_s1",
+  "title": "Accusé de réception chinois de l'instrument de ratification français",
+  "year": 2007,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9545,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "中华人民共和国驻法兰西共和国大使馆 AMBASSADE DE LA REPUBLIQUE POPULAIRE DE CHINE EN REPUBLIQUE FRANCAISE Réf ACSB 036/2015 L'Ambassade de la République populaire de Chine en République française présente ses compliments au Ministère des Affaires étrangères et du Développement international de sala République française —la Direction des archives -, et a l'honneur de lui confirmer la réception par l'ambassade, le 17 juin 2015, de l'in…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20070032_006_s1.pdf",
+  "source_filename": "tra20070032_006_s1.pdf",
+  "source_sha256": "42fc9a20148324c36f2efd94ba008112605891e2131aa804485a4079047b65a0",
+  "treaty_id": "TRA20070032",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "中华人民共和国驻法兰西共和国大使馆\n\nAMBASSADE DE LA REPUBLIQUE POPULAIRE DE CHINE EN REPUBLIQUE FRANCAISE\n\nRéf ACSB 036/2015\n\nL'Ambassade de la République populaire de Chine en\n\nRépublique française présente ses compliments au Ministère des\n\nAffaires étrangères et du Développement international de\n\nsala\n\nRépublique française —la Direction des archives -, et a l'honneur de lui confirmer la réception par l'ambassade, le 17 juin 2015, de l'instrument d'approbation du «Traité d'extradition entre la République française et la République populaire de Chine».\n\nL'Ambassade de Chine en France saisit cette occasion pour renouveler au Ministère français des Affaires étrangères les assurances de sa haute considération.\n\nLEONE)\n\nPars,le4员n201s\n\nDirection des archives\n\nMinistère des Affaires étrangères et du Développement international de la\n\nRépublique française\n\nPARIS\n\nC.C.: Protocole",
+      "quality_score": 0.9545,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.438087,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_17_s1",
+      "title": "Note verbale d'adhésion de la Chine populaire",
+      "score": 0.417322,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_214_s1",
+      "title": "Note verbale de dénonciation",
+      "score": 0.394945,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_042_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion coréen",
+      "score": 0.394168,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151444_006_s1",
+      "title": "Accusé de réception français de la notification allemande",
+      "score": 0.394166,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_33_s1",
+      "title": "Note verbale transmettant la lettre d'adhésion du Kazakhstan au BIPM",
+      "score": 0.393749,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_010_s1",
+      "title": "accusé de réception de l'adhésion de l'Allemagne démocratique",
+      "score": 0.392809,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600149_491_s1",
+      "title": "note verbale de transmission de l'instrument à la France",
+      "score": 0.392425,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_blr001_s1",
+      "title": "Note informant de l'intention d'adhésion",
+      "score": 0.392315,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.392149,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

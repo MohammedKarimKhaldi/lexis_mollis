@@ -1,0 +1,130 @@
+{
+  "document_id": "19540090_191_s1",
+  "title": "Instrument de ratification chilien",
+  "year": 1954,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9655,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "CARIOS IBANEZ Presidente de la República de Chile CAMPO POR CUANIO, la República de Chile firmó con fecha veintitrés de abril de mil novecientos cincuenta y cinco, por Ple- nipotenciario debidamente autorizado, el Convenio In ternacional para la Unificación de los Métodos de A- nálisis y de Apreciación de los Vinos concertado en París el trece de octubre de mil novecientos cincuer ta y cuatro. POR IANIO, y habiendo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_191_s1.pdf",
+  "source_filename": "19540090_191_s1.pdf",
+  "source_sha256": "3f6d531ba3ef3798e3940282865a371d7753a682c7a3be2557300ca9084cd790",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "CHL002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CARIOS\n\nIBANEZ\n\nPresidente de la República de Chile\n\nCAMPO\n\nPOR\n\nCUANIO,\n\nla República de Chile firmó con fecha veintitrés de abril de mil novecientos cincuenta y cinco, por Ple- nipotenciario debidamente autorizado, el Convenio In ternacional para la Unificación de los Métodos de A- nálisis y de Apreciación de los Vinos concertado en\n\nParís el trece de octubre de mil novecientos cincuer\n\nta y cuatro.\n\nPOR\n\nIANIO,\n\ny habiendo el Congreso Nacional prestado su aproba- ción al mencionado Convenio, en uso de la facultad que me confiere la parte 16 del Artículo 72 de la\n\nConstitución Política del Estado, he venido en acep- tarlo y ratificarlo, teniéndolo como Ley de la Repú- blica y comprometiendo para su observancia el Honor\n\nNacional.",
+      "quality_score": 0.9541,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "- dos -\n\nEN FE\n\nCUA I,\n\nfirmo el presente Instrumento de Ratificación, sella do con el Sello de las Armas de la República y refren dado por el Ministro de Estado en el Departamento de\n\nRelaciones Exteriores,\n\na veintisiete días del mes de\n\nEnero del año de mil novecientos cincuenta y siete.\n\n• fera",
+      "quality_score": 0.977,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_037_s1",
+      "title": "Instrument du Chili",
+      "score": 0.41749,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_031_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.377593,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.377228,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_21_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.370873,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.370849,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_056_s1",
+      "title": "Instrument d'adhésion argentin",
+      "score": 0.370424,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_62_s1",
+      "title": "Notification d'adhésion de Taïwan aux Etats-membres (consignes aux ambassadeurs sur la position française vis-à-vis de la Chine",
+      "score": 0.367698,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_64_s1",
+      "title": "Transmission de la note de la Bulgarie sur l'adhésion de Taïwan",
+      "score": 0.36725,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.364345,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.36224,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

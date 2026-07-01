@@ -1,0 +1,116 @@
+{
+  "document_id": "19230072_717_s1",
+  "title": "Procès-verbal de dépôt de l'instrument portugais",
+  "year": 1923,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9446,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "et Traité PROCES-VERBAI de DEPOI des RATIFICATIONS du Président de a Republique Portugaise sur : le protocole ra atif a l'accossion du Portugal aux dis- positions de la section I du la Partle II ( clauses financièras) et aux disposit ns da la Partlo III ( clausas économiques ) du Iralté de Paix signé à Lausanne lo 24 Julllet 1923 sur la Declaration d'Accession du Portugal oignée à Lausanno 10 24 Julllet 1923. La Min…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_717_s1.pdf",
+  "source_filename": "19230072_717_s1.pdf",
+  "source_sha256": "9b9de97873bd4888d6992473ac4480acc40457f8aee81ae59a7df48370fc4ae1",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "PRT003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "et\n\nTraité\n\nPROCES-VERBAI de DEPOI des RATIFICATIONS du Président de a Republique Portugaise sur :\n\nle protocole ra atif a l'accossion du Portugal aux dis- positions de la section I du la Partle II ( clauses financièras)\n\net aux disposit ns da la Partlo III ( clausas économiques )\n\ndu Iralté de Paix signé à Lausanne lo 24 Julllet 1923 sur la Declaration d'Accession du Portugal oignée à Lausanno 10 24 Julllet 1923.\n\nLa Ministre du Portugal a Paris s'est presente aujourd'hul au Ministère des Affaires Etrangères de la Re- publique française et a dépose l'Instrument des ratifications de s-Exo. le President de la Republique Portugalso sur la\n\nProtocole relatil à l'accassion du Portugal aux diop sitions de\n\nLa saction I de La Partle II ( clauses financieres )et aux dispositions de la partie III ( clauses economiques ) du\n\nIralte de Paix sigré à Lausanne le 24 Julllet 1923 et sur 1a\n\nDeclaration d'accession du Portugal signé à Lausanno le 24\n\nJU1110€ 1923 .\n\nPast a Parso 10 28 Mai 1926.\n\nAntoni la terre,",
+      "quality_score": 0.9446,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230072_352a_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec relatif à 12 actes signés à Lausanne",
+      "score": 0.411166,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_003_s1",
+      "title": "Procès-verbal de dépôt des instruments britanniques, italiens et japonais de certains actes signés à Lausanne le 24 juillet 1923 et le 23 novembre 1923, et à Sèvres le 10 août 1920",
+      "score": 0.397265,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_922_s1",
+      "title": "Procès-verbal de dépôt des instruments de ratification turcs",
+      "score": 0.386985,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_732e_s1",
+      "title": "Procès-verbal de dépôt de déclarations britanniques et franco-britanniques",
+      "score": 0.376439,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.374707,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.37343,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760093_100_s1",
+      "title": "Ordonnance togolaise autorisant la ratification des accords de coopération signés le 23 mars 1976, dont le présent accord",
+      "score": 0.372673,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230006_003_s1",
+      "title": "Déclaration d'accession",
+      "score": 0.372646,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_727_s1",
+      "title": "Note verbale roumaine demandant au dépositaire de rectifier la date du procès-verbal de dépôt des ratifications roumaines ainsi que le nombre d'actes conclus à Lausanne ratifiés par la Roumanie",
+      "score": 0.371627,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19380055_14_s1",
+      "title": "Pouvoirs de signature du Luxembourg",
+      "score": 0.365511,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -113,5 +113,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190006_002_s1",
+      "title": "Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
+      "score": 0.826244,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_151b_s1",
+      "title": "Instrument de ratification bulgare de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.761538,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_009_s1",
+      "title": "Texte de la Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
+      "score": 0.720538,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19230002_002_s1",
+      "title": "Copie non signée du Convention",
+      "score": 0.399515,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_27_s1",
+      "title": "Pouvoirs de signature de la Grèce",
+      "score": 0.394238,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_13_s1",
+      "title": "Instrument de ratification finlandais",
+      "score": 0.393833,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_436_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.3935,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_25_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.392997,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_01_s1",
+      "title": "Arrangement",
+      "score": 0.391203,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_39_s1",
+      "title": "Instrument de ratification",
+      "score": 0.389643,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

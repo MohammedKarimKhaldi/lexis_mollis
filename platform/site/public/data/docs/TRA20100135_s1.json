@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20100135_s1",
+  "title": "Accord",
+  "year": 2010,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9795,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "CINQUIÈME PROCÈS-VERBAL DE RECTIFICATION DU TRAITÉ ENTRE LE ROYAUME DE BELGIQUE, LE ROYAUME DE DANEMARK, LA RÉPUBLIQUE FÉDÉRALE D'ALLEMAGNE, LA RÉPUBLIQUE HELLÉNIQUE, LE ROYAUME D'ESPAGNE, LA RÉPUBLIQUE FRANÇAISE, L'IRLANDE, LA RÉPUBLIQUE ITALIENNE, LE GRAND-DUCHÉ DE LUXEMBOURG, LE ROYAUME DES PAYS-BAS, LA RÉPUBLIQUE D'AUTRICHE, LA RÉPUBLIQUE PORTUGAISE, LA RÉPUBLIQUE DE FINLANDE, LE ROYAUME DE SUÈDE, LE ROYAUME-UNI…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20100135_s1.pdf",
+  "source_filename": "TRA20100135_s1.pdf",
+  "source_sha256": "69cbb23d264b0c680031da5ab74434c2d0804d64a05565644f2ebe3512401145",
+  "treaty_id": "TRA20100135",
+  "treaty_number": "01",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CINQUIÈME PROCÈS-VERBAL DE RECTIFICATION\n\nDU TRAITÉ\n\nENTRE\n\nLE ROYAUME DE BELGIQUE, LE ROYAUME DE DANEMARK,\n\nLA RÉPUBLIQUE FÉDÉRALE D'ALLEMAGNE, LA RÉPUBLIQUE HELLÉNIQUE,\n\nLE ROYAUME D'ESPAGNE, LA RÉPUBLIQUE FRANÇAISE, L'IRLANDE,\n\nLA RÉPUBLIQUE ITALIENNE, LE GRAND-DUCHÉ DE LUXEMBOURG,\n\nLE ROYAUME DES PAYS-BAS, LA RÉPUBLIQUE D'AUTRICHE,\n\nLA RÉPUBLIQUE PORTUGAISE, LA RÉPUBLIQUE DE FINLANDE, LE ROYAUME DE\n\nSUÈDE,\n\nLE ROYAUME-UNI DE GRANDE-BRETAGNE ET D'IRLANDE DU NORD\n\n(ÉTATS MEMBRES DE L'UNION EUROPÉENNE)\n\nET\n\nLA RÉPUBLIQUE TCHÈQUE, LA RÉPUBLIQUE D'ESTONIE,\n\nLA RÉPUBLIQUE DE CHYPRE, LA RÉPUBLIQUE DE LETTONIE,\n\nLA RÉPUBLIQUE DE LITUANIE, LA RÉPUBLIQUE DE HONGRIE,\n\nLA RÉPUBLIQUE DE MALTE, LA RÉPUBLIQUE DE POLOGNE,\n\nLA RÉPUBLIQUE DE SLOVÉNIE, LA RÉPUBLIQUE SLOVAQUE,\n\nRELATIF A L'ADHÉSION DE LA RÉPUBLIQUE TCHÈQUE,\n\nDE LA RÉPUBLIQUE D'ESTONIE, DE LA RÉPUBLIQUE DE CHYPRE,\n\nDE LA RÉPUBLIQUE DE LETTONIE, DE LA RÉPUBLIQUE DE LITUANIE,\n\nDE LA RÉPUBLIQUE DE HONGRIE, DE LA RÉPUBLIQUE DE MALTE,\n\nDE LA RÉPUBLIQUE DE POLOGNE, DE LA RÉPUBLIQUE DE SLOVÉNIE\n\nET DE LA RÉPUBLIQUE SLOVAQUE\n\nÀ L'UNION EUROPÉENNE,\n\nSIGNÉ À ATHÈNES LE 16 AVRIL 2003\n\nAttendu que des erreurs ont été relevées dans le texte original des versions tchèque, estonienne, hongroise, lettone, maltaise, polonaise, slovaque et slovène du traité d'adhésion à l'Union européenne signé à Athènes le 16 avril 2003 et dont le gouvernement de la République italienne est dépositaire;\n\nattendu que ces erreurs ont été portées à la connaissance des États signataires du traité par lettre du jurisconsulte du Conseil de l'Union européenne aux représentants permanents des États membres de l'Union européenne en date du 21 décembre 2009;\n\nattendu que les États signataires n'ont pas formulé d'objections à l'encontre des corrections proposées dans cette lettre avant l'expiration du délai y indiqué;\n\nil a été procédé aujourd'hui, au ministère des affaires étrangères de la République italienne, à la rectification de ces erreurs dans le sens indiqué en annexe.\n\nEn foi de quoi, le présent procès-verbal a été établi, dont copie sera adressée aux gouvernements des\n\nÉtats signataires dudit traité.\n\nPV5/AA2003/fr 1",
+      "quality_score": 0.9795,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20100143_s1",
+      "title": "Accord",
+      "score": 0.854863,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100142_s1",
+      "title": "Accord",
+      "score": 0.756629,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20120816_001_s1",
+      "title": "Accord",
+      "score": 0.423613,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100322_101_fr_s1",
+      "title": "Accord",
+      "score": 0.417446,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100322_001_s1",
+      "title": "Accord",
+      "score": 0.415859,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100145_s1",
+      "title": "Accord",
+      "score": 0.414834,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220148_001_s1",
+      "title": "Accord",
+      "score": 0.411886,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220147_001a_s1",
+      "title": "Accord",
+      "score": 0.411886,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20161726_001_s1",
+      "title": "Accord",
+      "score": 0.397654,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_26_s1",
+      "title": "Instrument de ratification japonais",
+      "score": 0.387871,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

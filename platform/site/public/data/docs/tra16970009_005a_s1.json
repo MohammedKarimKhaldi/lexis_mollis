@@ -1,0 +1,147 @@
+{
+  "document_id": "tra16970009_005a_s1",
+  "title": "Promesse de ratification",
+  "year": 1697,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8881,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Ministère des Affaires étrangères - Direction des Archives - Conservation des Traités Multilatéraux 16970009 GRANDE-BRETAGNE Traité de paix.- Ryswick, 20 septembre 1697. › Promesse de ratification du traité par Guillaume Ill, roi de Grande-Bretagne.- Loo, 21 septembre 1697. Original en français. - Feuillet papier.- 1 sceau sous-papier. sous te tel tever. promene d'agir. pour porter derangerles Ce signer par lenus de…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16970009_005a_s1.pdf",
+  "source_filename": "tra16970009_005a_s1.pdf",
+  "source_sha256": "e166890574347b02eff75fdaa8fb1d4e02c394b8e65a5b3ba7949812c9cd4991",
+  "treaty_id": "TRA16970009",
+  "treaty_number": "005A",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministère des Affaires étrangères - Direction des Archives - Conservation des Traités\n\nMultilatéraux\n\n16970009\n\nGRANDE-BRETAGNE\n\nTraité de paix.- Ryswick, 20 septembre 1697.\n\n› Promesse de ratification du traité par Guillaume Ill, roi de Grande-Bretagne.- Loo, 21 septembre 1697.\n\nOriginal en français. - Feuillet papier.- 1 sceau sous-papier.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "sous te tel tever.\n\npromene d'agir. pour porter derangerles Ce signer par lenus demip\n\nous Guillaume froisième,\n\npar la grace deDieu, Roy de la Grande protagne de approuvoris le fraité do\n\nBair fait et ligne a Aysivick le 20:-- Septembre 1697, entre 1201 Ambafsadeurs.\n\nExtriordinaires et Glenipotentiairos, et ceux du Seigneur Roy Iro Aretien: 8t - Nous nous obligeors, en doy ce faroládo - Goy, den fourrir dans le tens qui y est porto, la batificabion pure et Simple et ins borire fornie, Signée de Nous et Scelleedu.\n\nGiano Secau Dangleterre: Gt conne il a esté fait aufsi le meine four, au non du dit feigneur Roy Ires Aréticr, deux autros\n\nTraites, Lun avo le feigneur Roy Catholique, et lautro avoi les feigneurs Etats Generaux da Grovinces Vries, Nous, en cas quen vorte- Du Traite fait avec le Seigneur Roy (atrolique, le feigneur Groy. Iras thretien bon De faire retirer les roupes des Gates\n\nprisent acte, promettone offices les plico efficaces\n\nP2os",
+      "quality_score": 0.8078,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "aufsi en bornes, formes, Les Ratifications purts et Sinples des dits seux Traites, tankide laport du dit Seigneur Loy Catholique, quede la part derdits feigneurs Etat Gereravex, \"\n\nJant Le terne porto par les dis traites, SEli\n\npromettons arcoro, que le traité fait entro nos dits Arbafsadeurs et ceux du Roy tros- •\n\nGrétien, nien fortira pas moins fon plein -.\n\net entier effet; Et Nous nous engageau aufi d'employer de meine Nos offices pour faire que le Iraité et Ratification des dits Feigneurs - Etat Geureux Der Provincer Vies Soit pareil:\n\n:lement cecut de point en poirh, nonobstant.\n\nle rofus que pourroit faire le dit feigneur Gloy\n\nDe Notro part, de tout ce qui y est contenu;\n\nit ador ce 21\" de Septantro IN: 1697\n\nWilliam R.",
+      "quality_score": 0.8565,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16970009_001e_s1",
+      "title": "Acte extrait du protocole de médiation relatif aux titres des plénipotentiaires britanniques",
+      "score": 0.72259,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_003_s1",
+      "title": "pouvoirs",
+      "score": 0.673509,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_005a_s1",
+      "title": "Lettres patentes portant ratification du traité",
+      "score": 0.655586,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001d_s1",
+      "title": "Déclaration rectificative de l'article 25",
+      "score": 0.645334,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_005c_s1",
+      "title": "Ratification de la déclaration rectificative de l'article 7",
+      "score": 0.598194,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16780001_007a_s1",
+      "title": "Pouvoirs pour prêter le serment d'observer les dispositions du traité",
+      "score": 0.563735,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_005b_s1",
+      "title": "Ratification de l'article séparé",
+      "score": 0.467495,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_005c_s1",
+      "title": "Lettres patentes portant ratification de l'article séparé",
+      "score": 0.452882,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001d_s1",
+      "title": "Acte extrait du protocole de médiation relatif à la pension de Marie d'Este",
+      "score": 0.44947,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_003_s1",
+      "title": "Pouvoirs",
+      "score": 0.44675,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

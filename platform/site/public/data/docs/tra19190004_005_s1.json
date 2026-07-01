@@ -1,0 +1,171 @@
+{
+  "document_id": "tra19190004_005_s1",
+  "title": "Protocole de signature fixant la date limite de signature des traités, conventions, arrangements, protocole et déclarations datés du 10 sept 1919",
+  "year": 1919,
+  "doc_type": "Protocole",
+  "languages": [
+    "af",
+    "de",
+    "en",
+    "fr",
+    "id",
+    "it",
+    "ro"
+  ],
+  "quality_score": 0.7409,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "PROTOCOLE DE SIGNATURE. PROVOCA. OF SIGNATURE. hes rates. Conveutions. Ar- rangements, Protocole et Décla. rations en date de co jour, pourront etre signéss jusquau 13 Septembre rgıg à midi. FAIT i Saint-Germain-en- Laye le dix Septembre mil neut cent dix-neuf. 'he reales. Conventions. Agreements, Protocal and De- clarations of ever dale may be soned until midday on septem- 13. 1 Saint-Femain-en- Laye, the tenth day…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190004_005_s1.pdf",
+  "source_filename": "tra19190004_005_s1.pdf",
+  "source_sha256": "a6f6b779f0c0c146559f029d480da5af19c9c2e74547bac059a6724555f94115",
+  "treaty_id": "TRA19190004",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROTOCOLE\n\nDE SIGNATURE.\n\nPROVOCA.\n\nOF SIGNATURE.\n\nhes rates. Conveutions. Ar- rangements, Protocole et Décla.\n\nrations en date de co jour, pourront etre signéss jusquau 13 Septembre rgıg à midi.\n\nFAIT i\n\nSaint-Germain-en- Laye le dix Septembre mil neut cent dix-neuf.\n\n'he reales. Conventions.\n\nAgreements, Protocal and De- clarations of ever dale may be soned until midday on septem-\n\n13. 1 Saint-Femain-en- Laye, the tenth day of Septerber one thousand mune hundred and\n\nPROACOLO\n\nDI FIRMA.\n\nI Trattati, le Convenzioni, gli\n\nAccordi l Prolacolio a la di.\n\nchiarazioni in data di oggi po- tranno essere firmati fino al maz- zogiorno del 13 settembre 1919\n\nFATTO a Saint-Germain-en\n\nLaye. il dieci settembre mille novecento diciannove.\n\n1. Perma\n\ntinstolte\n\nTaoise 26 thin",
+      "quality_score": 0.9687,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "it",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "-2-\n\nWtBon Bepa\n\n3n Bonar Laur\n\nn Alaabied\n\nPecota bianuis\n\nA Erteu/y h Retna\n\nMaliad\n\nWhos dau keuzee\n\nJum Beriha f Binti,",
+      "quality_score": 0.6886,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "id",
+        "af"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "In Sterenecn i Fecharicm\n\natasataedieey\n\nSoritii.\n\nDintig tine mazgirinenFerraril",
+      "quality_score": 0.6771,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Sepiia Marenui\n\npri\n\nMoLchesda\n\nBr. R22tatore\n\nm Ien Serie Auread\n\nIn jecmen einy.",
+      "quality_score": 0.6819,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ro",
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "POUR,\n\nLin?\n\nbb ec fh. : .\n\nHII tn gp ES \"an ass MALTE Te fas \"hae, iEn. bs",
+      "quality_score": 0.7478,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "MLT do. dé.",
+      "quality_score": 0.7515,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "zi \"E 4 *\n\nn\n\nF",
+      "quality_score": 0.6706,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19190006_004_s1",
+      "title": "Protocole concernant la signature",
+      "score": 0.42609,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_004_s1",
+      "title": "Protocole des conclusions de la commission de délimitation des zones démilitarisées des détroits",
+      "score": 0.39838,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19660081_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.380435,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200040_002_s1",
+      "title": "Protocole concernant la signature",
+      "score": 0.353024,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

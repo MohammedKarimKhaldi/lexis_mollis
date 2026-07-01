@@ -1,0 +1,61 @@
+{
+  "document_id": "tra19780213_003_s1",
+  "title": "Pouvoirs chinois",
+  "year": 1978,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "ko",
+    "zh-cn"
+  ],
+  "quality_score": 0.8256,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "龰泓 全权证书 中华人民共和国国务院委派赵东宛为全权代表同法兰 西共和国政府的全权代表谈判并签订两国政府科学技术交 流补充项目议定书。 一九 北京 ..........：...：.：........",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19780213_003_s1.pdf",
+  "source_filename": "tra19780213_003_s1.pdf",
+  "source_sha256": "f3c45c9009d34a889ada7f644baa7e4240160c10bd60d7faa5c7fc1aea1d75d0",
+  "treaty_id": "TRA19780213",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "龰泓",
+      "quality_score": 0.6513,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "全权证书\n\n中华人民共和国国务院委派赵东宛为全权代表同法兰 西共和国政府的全权代表谈判并签订两国政府科学技术交 流补充项目议定书。\n\n一九\n\n北京\n\n..........：...：.：........",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "zh-cn",
+        "ko"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

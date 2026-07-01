@@ -1,0 +1,116 @@
+{
+  "document_id": "19730055_10_s1",
+  "title": "Procès-verbal de dépôt de l'instrument italien",
+  "year": 1973,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT DE RATIFICATION DE LA REPUBLIQUE D'ITALIE DE L'ARRANGEMENT ENTRE CERTAINS ETATS MEMBRES DE L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES ET L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES CONCERNANT L'EXECUTION D'UN PROGRAMME DE SATELLITE MARITIME EN DATE, A NEUILLY-SUR-SEINE, DU 21 SEPTEMBRE 1973 Son Excellence Monsieur Francesco MALFATTI di MONTETRETTO, Ambassadeur Extr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19730055_10_s1.pdf",
+  "source_filename": "19730055_10_s1.pdf",
+  "source_sha256": "faad50e2b22091e8597c6859a6138523d2419245e153832ee3377738fc757057",
+  "treaty_id": "TRA19730055",
+  "treaty_number": "ITA003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT DE RATIFICATION\n\nDE LA REPUBLIQUE D'ITALIE\n\nDE L'ARRANGEMENT ENTRE CERTAINS ETATS MEMBRES\n\nDE L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES\n\nET L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES\n\nCONCERNANT L'EXECUTION D'UN PROGRAMME DE SATELLITE MARITIME\n\nEN DATE, A NEUILLY-SUR-SEINE, DU 21 SEPTEMBRE 1973\n\nSon Excellence Monsieur Francesco MALFATTI di\n\nMONTETRETTO, Ambassadeur Extraordinaire et Plénipoten- tiaire de la République d'Italie, s'est présenté aujourd'hui au\n\nMinistère des Affaires Etrangères pour procéder avec Mon- sieur Jean-Paul ANGLES, Ministre Plénipotentiaire, Chef du\n\nProtocole agissant au nom du Ministre des Affaires Etrangères au dépôt de V'Instrument de Ratification de la République d'Ita- lie, de l'Arrangement entre certains Etats membres de l'Or- ganisation Européenne de Recherches Spatiales et l'Organisa- tion Européenne de Recherches Spatiales, concernant l'exécu- tion d'un programme de satellite maritime signé à Neuilly-sur- L'Instrument ayant été, après examen trouvé en bon- ne et due forme a été déposé, pour y être conservé dans les Ar- chives de la République française.\n\nEN FOI DE QUOI, lessoussignés ont dressé le présent\n\nProcés-Verbal qu'ils ont revêtu de leur Sceau.\n\nFait à Paris, en double exemplaire le 27 octobre 1975\n\nInhergli\n\n1. Vagal:",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19730055_03_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.758528,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification des Pays-Bas",
+      "score": 0.739487,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_05_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Espagne",
+      "score": 0.575613,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.530078,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_18_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification suédois",
+      "score": 0.420281,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_07_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.382633,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.375548,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slb001_s1",
+      "title": "Notification de non-succession",
+      "score": 0.358953,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_438",
+      "title": "Pouvoirs français",
+      "score": 0.355182,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_007_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.354837,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

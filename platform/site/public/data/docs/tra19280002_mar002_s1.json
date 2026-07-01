@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_mar002_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification du Maroc",
+  "year": 1928,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9916,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES VERBAL DES RATIFICATIONS SA MAJESTE LE SULTAN DU MAROC SUR LA CONVENTION CONCERNANT LES EXPOSITIONS INTERNATIONALES SIGNEEÀ PARIS LE 22 NOVEMBRE 1928 CONFORLE: ENT AUX DISPOSITIONS FINALES de la Convention concernant les expositions internationales signée à Paris le 22 Novembre 1928 , M. NACIVET, directeur à Paris de l'Office du Protectorat de la République Francaise au Maroc s'est présenté aujourd'hul au Min…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_mar002_s1.pdf",
+  "source_filename": "tra19280002_mar002_s1.pdf",
+  "source_sha256": "5ebe5878eefec2bfd8c7c3a6ea24caa0721f90348d40be3cd64909556479aab7",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MAR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES VERBAL\n\nDES RATIFICATIONS\n\nSA MAJESTE LE SULTAN DU MAROC SUR LA\n\nCONVENTION CONCERNANT\n\nLES EXPOSITIONS\n\nINTERNATIONALES SIGNEEÀ PARIS LE 22 NOVEMBRE 1928\n\nCONFORLE: ENT AUX DISPOSITIONS FINALES de la Convention concernant les expositions internationales signée à Paris le 22 Novembre 1928 , M. NACIVET, directeur à Paris de l'Office du\n\nProtectorat de la République Francaise au Maroc s'est présenté aujourd'hul au Ministère des Affaires Etrangères pour procéder au dépot des instruments de Ratifications de S.M. le Sultan du\n\nMaroc sur lesdits Accords et les remettre au Gouvernement de la République .\n\nCes instrunents ont été produits et ayant été, après examen, trouvés en bonne et due forme , sont confiés au\n\nGouvernement de la République Française pour rester céposés dans ses archives .\n\nUne copie authentique de cet acte sera adressée aux Puissances contractantes\n\nEN FOI DE QUOI les soussignés ont dressé le\n\nprésent procès verbal et y ont apposé leur cachet\n\npast à paris le 14 Janür 1931 =",
+      "quality_score": 0.9916,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_85_s1",
+      "title": "Procès-verbal de dépôt de la ratification de la Grèce",
+      "score": 0.695225,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.680254,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_15_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification des Pays-Bas",
+      "score": 0.610534,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Grèce",
+      "score": 0.600998,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_22_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Roumanie",
+      "score": 0.592959,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_42_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Luxembourg",
+      "score": 0.581668,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_06_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Egypte",
+      "score": 0.563106,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_166_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion des Pays-Bas",
+      "score": 0.43947,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_176_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.421318,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_235_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification soviétique",
+      "score": 0.420063,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

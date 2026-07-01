@@ -1,0 +1,79 @@
+{
+  "document_id": "tra18410009_001a_s1",
+  "title": "Traité",
+  "year": 1841,
+  "doc_type": "Traité",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8817,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Hille (840 no7.. 1:.i loi, Timiarou Fils de Tialan Ror Ei Ankara O de Noise be, de Mossi-Mitchion, de Mossi-Para? de Mors: Fali et antes eles environmant nos possessiona dar la grande terce Pores véctare en présence de mes treres et de mes granos que Je cède à ja majesté le Ser LouisThilippe promien foi des Français tous mes droito sur les terrio de Madagascar Lesquels foits je tieno de mes arcitzes; et que pe lei f…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Traité",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18410009_001a_s1.pdf",
+  "source_filename": "tra18410009_001a_s1.pdf",
+  "source_sha256": "b5328bd9407a9895f3d4d80ec28537412ca657eb28cd703baf090ee8aa10a481",
+  "treaty_id": "TRA18410009",
+  "treaty_number": "001a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Hille (840 no7..\n\n1:.i\n\nloi, Timiarou Fils de Tialan Ror Ei Ankara\n\nO de Noise be, de Mossi-Mitchion, de Mossi-Para? de Mors: Fali et antes eles environmant nos possessiona dar la grande terce\n\nPores véctare en présence de mes treres et de mes granos que\n\nJe cède à ja majesté le Ser LouisThilippe promien foi des Français tous mes droito sur les terrio de Madagascar\n\nLesquels foits je tieno de mes arcitzes; et que pe lei fais cession\" de tontes les Hes qui entorrent mon royaume 1@' Ankara.\n\nPer semandon à de repartes par da saense le\n\nFraño Poi comme ejeto Français et a être traiti comme retiti se vuis tersuavé.\n\nje pais con\n\nde mico itali, me conteresa comme von Filé\n\nme pinterera conte tout enrenzi et cl0i97e7a\n\nO be moi taut\n\ncrise que la majesté le\n\nver Trancais vura bien étendre ja bierreillance vur a Juicto, aus postoson desermais le unit de Trancai; quimos\n\nSeria.\n\ne Cinemas\n\nou frans foi sera le notee et nous emploicront\n\nnos cred comite foi; garconane-dera vos cellie dera le nate et nous li avieros de tout les movens en note nouvor. si sa i\n\nMajesté le as des Francais fart stariter von .\n\n'Farillon jur",
+      "quality_score": 0.9467,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Ode quere pour nous protèges contre in tiras ou tout autre еппеть.\n\net acte à Eté rédigé par moi Timiarou en\n\nvience de Monsieur Passot, officier de va Majesté le Ra\n\n\" konsicus le fourerneur de Bourbon,\n\nOde Monsieur Jéherne Commandant la Gabare du Rou la tenante cf de tous la Offin De a batmente.\n\nDimitaro\n\nA. Scherme",
+      "quality_score": 0.8166,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18410009_001c_s1",
+      "title": "Traité",
+      "score": 0.37852,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18410009_001b_s1",
+      "title": "Traité",
+      "score": 0.360339,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

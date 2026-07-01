@@ -1,0 +1,131 @@
+{
+  "document_id": "tra19740201_301_s1",
+  "title": "Instrument de ratification espagnol",
+  "year": 1974,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "cy",
+    "es"
+  ],
+  "quality_score": 0.7738,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "UUU oY oU o! oon o o Xoo n ooy o oy yyy oo = y yY — yY oyy yY e S yY o n o: IIyYyYyY onno UU o n y aS y o on on o o UUU o a y yY Uyyy YY yY o) yY onyo Uyyy yY IUU Yy -n YYY on o o yY o U -UUU oyyy yY o y =n ::yYyYyY nI on o yY Y YY oS::yYyYyY o on! o=o: yY o oo o yo S U yyy yY y yU SoY o o oY Yy yY IY UUU U U U R on!!! on!!! o n= :YyYo FELIPE VI REY DE ESPAÑA Vistos y examinados el preámbulo y los treinta y cinco ar…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19740201_301_s1.pdf",
+  "source_filename": "tra19740201_301_s1.pdf",
+  "source_sha256": "67b2eb4bb85a2ae62ed600fa8c8c0f5f2fa1a9eca190b3c14ac55ce6145a2c77",
+  "treaty_id": "TRA19740201",
+  "treaty_number": "301",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UUU oY oU o! oon o o Xoo n ooy o oy yyy oo = y yY — yY oyy yY e S yY o n o: IIyYyYyY onno UU o n y aS y o on on o o UUU o a y yY Uyyy YY yY o) yY onyo Uyyy yY IUU\n\nYy -n YYY on o o yY o U -UUU oyyy yY o y =n ::yYyYyY nI on o yY Y YY oS::yYyYyY o on! o=o: yY o oo o yo S U yyy yY y yU SoY o o oY Yy yY IY UUU U U U R on!!! on!!! o n= :YyYo",
+      "quality_score": 0.5712,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "cy"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "FELIPE VI\n\nREY DE ESPAÑA\n\nVistos y examinados el preámbulo y los treinta y cinco artículos del Protocolo sobre los privilegios e inmunidades de la Organización Europea para la investigación astronómica en el Hemisferio sur, hecho en París el 12 de julio de 1974,\n\nConcedida por las Cortes Generales la autorización prevista en el Artículo 94.1 de la\n\nConstitución,\n\nMANIFIESTO el consentimiento de España en obligarse por este Protocolo y EXPIDO el presente instrumento de adhesión firmado por Mí y refrendado por el Ministro de Asuntos\n\nExteriores y de Cooperación.\n\nDado en Madrid, a una de septiembre de dos mil diecisiete\n\nEL MINISTRO DE AsUnTos EXTERIORES Y DE COOPERACIÓN,\n\nde y de Coor\n\nAlfonso María Dastis Quecedo.",
+      "quality_score": 0.9764,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19980155_296_s1",
+      "title": "Instrument d'adhésion espagnol (et traduction)",
+      "score": 0.53712,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_297_s1",
+      "title": "Instrument de ratification (et NV de transmission)",
+      "score": 0.526804,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_06_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.483056,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.390482,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_296_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.379518,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_12_s1",
+      "title": "Lettre de l'ambassade de Norvège accusant réception de la réponse du Directeur général de l'Organisation européenne de Recherches spatiales",
+      "score": 0.365385,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_296_s1",
+      "title": "Note verbale d'envoi de l'instrument espagnol",
+      "score": 0.364743,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_005",
+      "title": "tra19720042_005",
+      "score": 0.363692,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.361956,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_037_s1",
+      "title": "Instrument du Chili",
+      "score": 0.357974,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

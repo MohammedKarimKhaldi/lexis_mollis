@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940065_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1994,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9788,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19140065 Republique Francaise N° 109/94 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministr des Affaires étrangères, donnons Pouvoirs par ces présentes à Monsieur Alain LAMASSOURE, Ministre délégué aux Affaire européennes, pour signer entre le Gouvernement de la Républiqu française et le Gouvernement de la République d'ouzbékistan u Accord relatif à la coopération entre les Ministères des Affaire: étrang…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940065_002_s1.pdf",
+  "source_filename": "tra19940065_002_s1.pdf",
+  "source_sha256": "daad5d6ebc96e1abcca5b12fc5fbed29ceba1397af0ab20a7c5bd520d19ea143",
+  "treaty_id": "TRA19940065",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19140065\n\nRepublique Francaise\n\nN° 109/94\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministr\n\ndes Affaires étrangères, donnons Pouvoirs par ces présentes à\n\nMonsieur Alain LAMASSOURE, Ministre délégué aux Affaire\n\neuropéennes,\n\npour signer entre le Gouvernement de la Républiqu\n\nfrançaise et le Gouvernement de la République d'ouzbékistan u\n\nAccord relatif à la coopération entre les Ministères des Affaire:\n\nétrangères. / .\n\nFAIT à PARIS, le 3 MAI 1994\n\nLe Ministre des Affaires Etrangères",
+      "quality_score": 0.9788,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.667654,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.660595,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_002_s1",
+      "title": "Pouvoir français",
+      "score": 0.628502,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990206_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.623065,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.604395,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.592863,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960259_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.573586,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870226_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.54076,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141368_002",
+      "title": "Pouvoirs français",
+      "score": 0.536489,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820077_002",
+      "title": "Pouvoirs français",
+      "score": 0.536195,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

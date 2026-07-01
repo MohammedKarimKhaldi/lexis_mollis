@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19810243_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1981,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8526,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "RELATIONS EXTENTEURES Nº 286 POUVOIRS Au nom du Couvernesent de le Républaque, NOUS, Ministre des relations extérleures, donnons pouvoira par cea présentes à Monsieur Comanuel JACQUIN de MARGERIE, Ambassadeur axtraordinaire et plénipotentleiro à Londres, pour signer le second evenent entre le Gouvernement de la République Frangeise, ie Gouvernement de la Répubiiquee/404rale d'Allemagne et le Gouvernement du Hoyaume-…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810243_002_s1.pdf",
+  "source_filename": "tra19810243_002_s1.pdf",
+  "source_sha256": "e27552d9b05beb187cea50d7b89b8f0b0c8192158dd17e65d48b39f7cb802094",
+  "treaty_id": "TRA19810243",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RELATIONS EXTENTEURES\n\nNº 286\n\nPOUVOIRS\n\nAu nom du Couvernesent de le Républaque, NOUS,\n\nMinistre des relations extérleures, donnons pouvoira par cea présentes à Monsieur Comanuel JACQUIN de MARGERIE, Ambassadeur axtraordinaire et plénipotentleiro à Londres, pour signer le second evenent entre le Gouvernement de la\n\nRépublique Frangeise, ie Gouvernement de la Répubiiquee/404rale d'Allemagne et le Gouvernement du Hoyaume-Uni de Grande- Bretugne et d'Irlande du Nord, A La convention du 19 Janvier 1967, sodifide par l'avenent du & Juillet 4971 entre 1e\n\nGouvernement de la Adoublique franoaire et le Gouvernement de le Répubilque Fédérale d'Allenegne sur dn construction et J'exploitation d'un résobeur & très haut flux modifide ultérieurement par l'accord du 19 Juillet 1974 entre les deux gouvernesents sussentionnes et le Couvernement du\n\nRoyaume-Uns de Grande-brotogne et d'Irlande du Nosd, relatif\n\nA L'adhéelon de ce dernier Gouvernement a la Convention et\n\nL'avenant du 27 Julilet 1976 entre des trade Gouverne- 眾眾群畫缀 susmentionnde./.\n\nFAITe PARASy 1e\n\n8/12/31\n\nLe Ministre dee relati\n\ncons excerzeures.\n\nС. связна.",
+      "quality_score": 0.8526,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760152_001_s1",
+      "title": "Texte de l'avenant",
+      "score": 0.559588,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760152_030a_s1",
+      "title": "Accord",
+      "score": 0.396956,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810243_001_s1",
+      "title": "Texte de l'avenant",
+      "score": 0.39459,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760152_730_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.375559,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19620054_101_s1",
+      "title": "publication au JO de la Convention (ensemble 1 échange de lettres signées à Paris le 3 février 1962)",
+      "score": 0.373361,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19910242_002",
+      "title": "Pouvoirs français",
+      "score": 0.369599,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.367285,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20213116_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.366424,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.366026,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610054_010",
+      "title": "Lettre française",
+      "score": 0.36587,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

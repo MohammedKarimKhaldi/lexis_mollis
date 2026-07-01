@@ -1,0 +1,371 @@
+{
+  "document_id": "tra19890163_001_s1",
+  "title": "Accord",
+  "year": 1989,
+  "doc_type": "Accord",
+  "languages": [
+    "ca",
+    "de",
+    "en",
+    "fr",
+    "hu",
+    "pt",
+    "ru"
+  ],
+  "quality_score": 0.8891,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "A m = = me a a ra AT aE a m A i mT T A a A ACCORD ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANÇAISE Er LE GOUVERNEMENT DE L'UNION DES REPUBLIQUES SOCTALISTES SOVIETIQUES SUR LA CREATION ET LES MODALITES DE FORCTIONNEMENT DES CENIRES CULTURELS FRANCAIS ET SOVIETIQUE ....... - 2- Le Gouvernement de la République française atle Gouvernement de l'Union des Républiques socialistes soviétiques, considérant l'intéret récipr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19890163_001_s1.pdf",
+  "source_filename": "tra19890163_001_s1.pdf",
+  "source_sha256": "4e046284888e2b6d89f70bd19f04e7def0a5e54302858718977771f9386c69e3",
+  "treaty_id": "TRA19890163",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "A m =\n\n=\n\nme a a ra AT aE a m A i mT\n\nT A a A",
+      "quality_score": 0.5474,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hu",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD\n\nENTRE\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FRANÇAISE\n\nEr\n\nLE GOUVERNEMENT DE L'UNION DES REPUBLIQUES SOCTALISTES SOVIETIQUES\n\nSUR LA CREATION ET LES MODALITES DE FORCTIONNEMENT\n\nDES CENIRES CULTURELS FRANCAIS ET SOVIETIQUE\n\n.......",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "- 2-\n\nLe Gouvernement de la République française atle Gouvernement de l'Union des\n\nRépubliques socialistes soviétiques, considérant l'intéret réciproque du peuple français at des peuples de 1'U.R.S.S.\n\npour la connaissance de leurs valeurs humaines et culturelles, s'inspirant des principes et des dispositions de l'Acte firal de la conférence sur la sécurité et la coopération en Europe, signé à Helsinki le ler août 1975 et du document de clôture de la réunion de Vienne du 15 janvier 1989, considérant l'accora de coopération culturelle entre le Gouvernement de la\n\nRépublique française et le Gouveznement de l'Union des Républiques socialistes soviétiques signé à Paris le 5 juillet 1989, considérant la convention consulaire entre la République française et 1 'Union des\n\nRépubliques socialistes soviétiques, signée le 8 décembre 1966, considérant la convention entre le Gouvernement de la République française et le\n\nGouvernement de l'Union des Républiques socialistes soviétiques, tendant à éviter les doubles impositions en satière d'impôts sur le revenu et sur la fortune, signé le 4 octobre 1985, sont convenus de de qui suit:\n\n....",
+      "quality_score": 0.9745,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "-3-\n\nArticle 1\n\nles parties conviarnent de la création, sur une base de réciprocité, d'un centre culturel français à Moscou et d'un centre culturel soviétique à Paris, ci-après dénomés centres.\n\nles parties peuvent décider, d'in connu accord, la création ultérieure d'annexes des centres dans d'autres villes des deux Etats.\n\nArticle 2\n\nLes centres ont pour mission de contribuer au développement des relations entre la France et 1'U.R.S.S. dans les donaines de la culture, de l'art, de l'enseignement, de la communication notamment audio-visuelle, de la science et de la technique et de faire connaître directement au public les valeurs et réalisations de chacun des deux Etats dans des différents domaines.\n\nIls peuvent contribuer à la mise en œuvre de l'accord de coopération culturelle du 5 juillet 1989, de l'acoard de coopération scientifique, technique et économique du 30 juin 1966, ainsi que de progranmes de coopération relevant de ministères et autres organismes publics, de collectivités locales, ou établis par des sociétés, associations et perscunes privées des deux Etats.\n\nArticle 3\n\nle centre français est placé sous l'autorité de l'ambassade de France en URSS, Le centre soviétique est placé sous l'autorité de l'ambassade de 1'URSS en France.\n\nLes parties garantissent le fonctionement régulier des centres et leur assurent des conditions de travail satisfaisantes.\n\nLes parties prennent toutes les desures nécessaires pour assurer la sécurité des personels et des locaux des centres. Sur demande de l'ambassade de la partie d'envoi des mesures particulières sont prises dans les meilleurs délais par la partie d'accueil.\n\nArticle 4\n\nLes centres peuvent établir des relations directes avec les ministères et autres organismes publics, collectivités locales, sociétés, associations et personnes privées des deux Etats.\n\n.!...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "-1..\n\nArticle 5\n\nLes activités des centres comprennent :\n\nl'organisation de nanifestations culturelles, scientifiques et techniques en France et en\n\nU.R.S.S.,\n\nl'organisation de conférences, colloques et autres rencontres, l'organisation de spectacles, concerts et expositions, la présentation de fils et de documents audiovisuels, l'accueil, à l'occasion des manifestations organisées par les centres, de chercheurs, conférenciers et artistes du pays d'envoi, l'infornation sur la vie culturelle, scientifique et tachrique du pays d'envoi, l'entretien d'une bibliothèque, d'une salle de lecture et d'une médiathèque permettant la consultation et le prêt de Livres, journaux, revues et autres documents de caractère culturel, scientifique et technique, le prêt de films, disques, cassettes, diapositives et autres docurents audiovisuels, la publication et la diffusion de programmes d'information, de catalogues et d'autres documents de caractère culturel, scientifique et technique, l'enseignenent et la pédagogie des langues, l'initiation à la civilisation du pays d'envoi, l'organisation de rencontres et autres manifestations pour les enfants et les jeunes.\n\nAprès acoord des parties, les centres peuvent participer à d'autres activités correspondant aux objectifs du présent accord ou les organiser.\n\nArticle 5\n\nLes centres exercent leurs activités dans le respect du droit interne de l'Etat d'accueil, sous réserve des dispositions du présent acoord et du droit international.\n\n.../...",
+      "quality_score": 0.9997,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "- 5-\n\nArticle 7\n\nEn accord avec la partie d'accueil, les centres peuvent organiser leurs activités à l'extérieur de leurs bâtiments.\n\nArticle 8\n\nLes parties garantissent l'accès sans entrave du public aux activités des centres, qu'elles aient lieu dans leurs bâtiments ou dans d'autres locaux, et veillent à ce que les centres puissent faire usage de tous les moyens disponibles pour informer le public de leurs activités.\n\nArticle 9\n\nLes centres sont des organismes d'Etat. Ils ont la persomalité juridique de l'Etat d'envoi et disposent de la capacité de passer, dans 1'Etat d'accueil, les actes nécessaires à leur fonctionnement.\n\nArticle 10\n\nLes centres n'ont pas de but lucratif.\n\nSans préjudice des dispositions fiscales et douanières fixées aux articles 12 et 13 du présent accord, les centres peuvent couvrir une partie de leurs dépenses par les recettes suivantes :\n\nla perception de droits d'entrée pour les manifestations qu'ils organisent et de droits d'inscription à leurs enseignements et à leurs autres activités, la vente de catalogues, affiches, programmes, livres, disques, docunents audiorisuels et matáriels didactiques quel qu'en soit le support, et autres objets, en relation directe avec les manifestations qu'ils organisent et sous réserve que leur vente ne porte pas atteinte aux règles d'une distribution commerciale normale, l'entretien d'une cafétéria poir le public des centres.\n\nles sodalités pratiques de ces activités sont réglées par des arrangements entre les autorités compétentes des deux Etat.\n\n../...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "- 6-\n\nArticle 11\n\nLes parties se prêtent, sur la base de la réciprocité, une assistance mutuelle en ce qui concerne l'abtention de terrains, ainsi que la construction ou la location et l'aménagement, dans les meilleurs délais, de bâtinents appropriés destinés aux centres .\n\nA cette fin les parties recherchent des conditions équivalentes de dépenses en devises en ce qui concerne l'obtention de terrains ou la location d'inmeubles, compta-tenu de leur équivalence en fonction de la taille, de la qualité et de l'emplacement.\n\nLes nodalités précises concernant l'abtention de terrains ou la location de bâtiments ou de locaux destinés aux centres sont définis par des accords particuliers entre les autorités compétentes des deux Etats\n\nLes études et travaux de construction ou d'aménagement exécutés pour les centres sont dirigés, après délivrance du permis de construire et conforménent aux règles d'urbanisme de l'Etat d'accueil, par l'Etat d'envoi qui fait appel aux entreprises de son choix.\n\nLes centres peuvent comprendre les équipements audiovisuels, informatiques et autres leur permettant d'axercer leurs activités.\n\nArticle 12\n\nLe régine fiscal des centres et de leur personnel est réglé par la législation de l'Etat d'accueil, compte- tenu de la convention entre le Gouvernement de la République française et le Gouvernement de 1 'Union des Républiques Socialistes Soviétiques, tendant à éviter les doubles inpositions en matière d'impôts sur le revenu et sur la fortune, du 4 octobra 1985, et notamment des dispositions de l'article 13 relatives à la non- discrimination qui sont étendues aux centres pour tous impôts et taxes à l'exception des taxes dues en contrepartie de services rendus.\n\nCe régime fiscal est précisé, en tant que de besoin, par échange de lettres transwises par la voie diplomatique.\n\nArticle 13\n\nLes centres bénéficient, sur une base de réciprocité, de l'exonération des droits et taxes dus au titre de l'importation des biens mobiliers natériels et matériaux nócessaires à leur construction et leur fonctionnement.\n\n.....",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "- 7-\n\nL'importation des objets destinés à la vente est subordonnée à la réglenentation douanière et fiscale en vigueur dans l'Etat d'accueil.\n\nUne importation en exonération de droits et taxes est accordée, sur une base de réciprocité, pour les catalogues, affiches, programmes, livres, disques, documents audiovisuels et matériels didactiques quel qu'en soit le support, et autres objets visés à l'article 10 du présent accord, sous réserve que leur vente ne porte pas atteinte aux règles d'une distribution commerciale normale.\n\nL'importation en exomération de droits et taxes est accordée, sur une base de réciprocité, pour les filns destinés à être visionnés ou projetés dans les locaux des centres ou, à l'extérieur de leurs bâtiments, dans le cadre des manifestations organisées par les centres.\n\nArticle 14\n\nChacune des parties nome le personnel des centres qu'il entretient. Ce personnel peut être nommé parmi les ressortissants de l'Etat d'envoi ou ceux de l'Etat d'accueil ou ceux d'un Etat tiers ; dans ce dernier cas, la nomination doit recevoir l'accord de l'Etat d'accueil.\n\nLe personnel nommé parmi les ressortissants de l'Etat d'envoi est considéré comme agent de l'Etat d'envoi.\n\nD'un commum accord entre les parties, le directeur et le directeur-adjoint peuvent être membres du personnel diplomatique des missions diplomatiques.\n\nL'effectif des personnels des centres est fixé d'un commun accord.\n\nLes parties s'informent mutuellement du recrutement des personnels des centres ainsi que de la prise et de la fin de leurs factions.\n\nArticle 15\n\nLes personnels des centres, nationaux de l'Etat d'envoi et séjournant de façon temporaire dans l'Etat d'accueil, et les personnes à leur charge au regard de la sécurité sociale de 1'Etat d'envoi sont soumis à la législation du travail et au régime de sécurité sociale en vigueur dans l'Etat d'envoi.\n\n../...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "- 8-\n\nArticle 16\n\nChaque partie permet aux membres du personnel du centre de l'autre partie d'importer, en exosération des droits et taxes dans un délai d'un an à partir de leur prise de fonction, leurs mobiliers et effets personnels, y compris leur véhicule automabile, en cours d'usage et de les réexporter à l'issue de leur mission. Cette exonération ne vaut que pour la durée de leurs fonctions au centre.\n\nCes dispositions ne sont pas applicables aux membres du personnel des centres qui sont ressortissants de l'Etat d'accueil ou résidents permanents dans cet Etat.\n\nArticle 17\n\nChaque partie délivre, en temps utile et sur une base de réciprocité, aux membres du personnel du centre de l'autre partie ainsi qu'à leur conjoint et à leurs enfants à charge pendant la durée des fonctions de l'agent, les visas et les titres de séjour dans l'Etat d'accueil. Ces visas et titres de séjour sont établis par le ministère des affaires étrangères de 1'Etat d'accueil.\n\nArticle 18\n\nChaque partie apporte, en cas de nécessité, son concours pour la location d'appartements pour le personnel du centre de l'autre partie.\n\nArticle 19\n\nLes questions touchant à l'interprétation et à l'application du présent accord sont traitées, en tant que de besoin, par la voie diplomatique.\n\nArticle 20\n\nLe présent accord entre en vigueur à la date d'échange des notifications écrites de l'accomplissement des formalités prévues pour chaque partie, en ce qui la concere, pour l'entrée en vigueur du présent accord",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "-9 -\n\nIl est conclu pour cinq ans et est reconduit tacitement.\n\nI1 peut être dénoncé après un délai de cinq ans à n'importe quel moment avec un préavis écrit d'un an.\n\nFait à Paris, le 5 juillet 1989, en deux exemplaires, en français et en russe, les deux textes faisant également foi.\n\nPour le Gouvernement de la\n\nRépublique française\n\nRoland Dimes\n\nPour le Gouvernerent de l'Union des Républiques socialistes soviétiques жимаий\n\nمنه",
+      "quality_score": 0.9742,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "СОГЛАШЕНИЕ\n\nмежду Правительством Французской Республики I\n\nІравительством Союза Советских Социалистических геспублик об учреждении и условиях деятельност\n\nсультурных центров Франции и ССС\n\nПравительство Французской Республики и Правительство Союза\n\nСоветских Социалистических Республик, учитывая взаимный интерес французского народа и народов СССР к ознакомлению с культурными и гуманитарными ценностями друг друra, руководствуясь принципами и положениями Заключительного акта\n\nСовещания по безопасности и сотрудничеству в Европе, подписанного в Хельсинки І августа 1975 г., и Итогового документа Венской встречи от 15 января 1989 года, ссылаясь на Соглашение о культурном сотрудничестве между\n\nПравительством Французской Республики и Правительством Союза Советских Социалистических Республик, подписанное в Париже июля 1989 г., ссылаясь на Консульскую конвенцию между Французской Республикой и Союзом Советских Социалистических Республик от 8 декабря 1966 г., ссылаясь на Соглашение между Правительством Французской Республики и Правительством Союза Советских Социалистических Республик об устранении двойного налогообложения доходов от 4 октября 1985 г., согласились о нижеследующем:",
+      "quality_score": 0.9197,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "-2-\n\nСтатья І\n\nСтороны согласились учредить на основе взаимности Культурный центр СССР в Париже и Культурный центр Франции в Москве,\n\nMMeHVe-\n\nмые далее Центры.\n\nВ будущем Стороны могут\n\nН8\n\nоснове обоюдного согласия принять\n\nрешение об учреждении филиалов этих Центров в других городах двух государств.\n\nСтатья 2\n\nЦентры будут способствовать развитию отношений между СССР и Францией в области культуры, искусства, образования, коммуникации, в том числе аудиовизуальной, науки и техники и непосредственно знакомить общественность с ценностями и достижениями каждого из двух государств в этих областях.\n\nОни могут содействовать выполнению Соглашения о культурном сотрудничестве от\n\nиюля 1989 г., Соглашения о научном, техни-\n\nческом и экономическом сотрудничестве от 30 июня 1966 г.,\n\nа так-\n\nже программ сотрудничества, относящихся к компетенции министерств и других государственных учреждений и местных органов власти или заключенных обществами, ассоциациями и отдельными лицами двух государств.\n\nСтатья 3\n\nСоветский Центр будет осуществлять свою деятельность под руководством Посольства СССР во Франции. Французский Центр будет осуществлять свою деятельность под руководством Посольства\n\nФранции в СССР.\n\nСтороны гарантируют нормальную деятельность Центров и обеспечат им благоприятные условия работы.",
+      "quality_score": 0.9504,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "- 3-\n\nСтороны примут все необходимые меры для обеспечения безопасности персонала и помещений центров. В случае обращения посольства направляющей Стороны принимающей Стороной будут незамедлительно приняты особые меры.\n\nСтатья 4\n\nЦентры могут устанавливать прямые связи с министерствами и другими государственными учреждениями, местными органами власти, объединениями, обществами, ассоциациями и отдельными лицами обеих стран.\n\nСтатья 5\n\nВ сферу деятельности Центров входит:\n\nпроведение в СССР и во Франции мероприятий в области культуры, науки и техники;\n\nорганизация конференций, коллоквиумов и других встреч;\n\nпроведение спектаклей, концертов и выставок;\n\nдемонстрация фильмов и аудиовизуальных материалов;\n\nприем для участия в мероприятиях, организованных Центрами, научных работников, деятелей культуры и искусства направляющей страны;\n\nраспространение информации о культурной, научной и технической жизни направляющей страны;\n\nобеспечение работы библиотеки, читального зала и салона аудиовизуальных средств для обслуживания посетителей на месте и предостявления во временное пользование книг, газет, журналов и других материалов культурного, научного и технического содержания;\n\nпредоставление\n\nвременное пользование фильмов, дисков,\n\nкассет, диапозитивов и других аудиовизуальных материалов;",
+      "quality_score": 0.9565,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "-4 -\n\nпубликация и распространение информационных программ, каталогов и других материалов культурного, научного и технического содержания;\n\nизучение языков и цивилизации направляющей страны и методика преподавания;\n\nорганизация встреч и других мероприятий для детей и молодежи.\n\nПо согласованию Сторон Центры могут участвовать в других видах деятельности, отвечающих целям настоящего Соглашения, или осуществлять их.\n\nСтатья 6\n\nДеятельность Центров осуществляется в соответствии с внутренним законодательством государства пребывания, если иное не предусмотрено положениями настоящего Соглашения и международного права.\n\nСтатья 7\n\nПо согласованию с принимающей Стороной Центры могут осу- ществлять деятельность вне своих помещений.\n\nСтатья 8\n\nСтороны обеспечат беспрепятственный доступ общественности в помещения Центров, а также на их мероприятия, проводимые в других местах. Они будут следить за тем, чтобы Центры могли использовать все возможные средства для информирования общественности о своей деятельности.\n\nСтатья 9\n\nЦентры являются государственными организациями. Они обладают статусом юридического лица направляющего государства и могут в принимающем государстве предпринимать действия, необходимые для их нормального функционирования.",
+      "quality_score": 0.9645,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": ".....\n\n- 5- Статья IO\n\nЦентры не ставят своей целью извлечение прибыли. При соблюдении положений статей I2 и IЗ настоящего Соглашения о налоговом и таможенном режимах, для возмещения части своих расходов центры могут:\n\nвзимать плату за посещение мероприятий, организуемых ими, зачисление на учебные курсы и другие виды деятельности;\n\nпродавать каталоги, афиши, программы, книги, диски, аудио- визуальные и дидактические материалы вне зависимости от\n\nспособа\n\nзаписи информации, а также\n\nдругие предметы, непосредственно свя\n\nзанные с организуемыми ими мероприятиями, при условии, что это не нанесет ущерба обычной торговой деятельности;\n\nиметь кафетерии для обслуживания посетителей Центров.\n\nПрактические вопросы, связанные с этой деятельностью, регу- лируются по согласованию между компетентными организациями двух государств.\n\nСтатья II\n\nСтороны на условиях взаимности окажут друг другу помощь в приобретении\n\nземельных участков, а также в строительстве или\n\nаренде и обустройстве подходящих зданий под Центры как можно в более короткие сроки.\n\nДля этих целей Стороны будут стремиться к эквивалентности условий валютных расходов в том, что касается приобретения земельных участков или аренды зданий, с учетом эквивалентности их раз- меров, качеств и месторасположения.\n\nКонкретные условия приобретения земельных участков, аренды зданий или помещений для Центров определяются отдельными",
+      "quality_score": 0.9694,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "-6-\n\nсоглашениями, подписываемыми компетентными организациями двух государств.\n\nРаботы по проектированию, строительству и обустройству Центров, после получения разрешения на строительство и в соответствии с правилами градостроительства принимающего государства, будут осуществляться под руководством направляющего государства, которое приглашает подрядчиков по своему выбору.\n\nЦентры могут быть оборудованы соответствующими аудиовизуальными, информативными и другими средствами, позволяющими им осушествлять свою\n\nдеятельность.\n\nСтатья 12\n\nНалоговый режим Центров и их персонала регулируется\n\nналого-\n\nвым законодательством государства пребывания с учетом положений\n\nСоглашения между Правительством Союза Советских Социалистических\n\nРеспублик и Правительством Французской Республики об устранении двойного налогообложения доходов от 4 октября 1985 года, в частности, положений\n\nстатьи І3, относящихся к избежанию дискримина-\n\nции, которые будут распространяться на Центры в том, что касается всех налогов и сборов, за исключением сборов, взимаемых за оказанные услуги.\n\nЭтот налоговый режим будет уточняться по мере необходимости путем обмена письмами по дипломатическим каналам.\n\nСтатья ІЗ\n\nЦентры будут пользоваться на основе взаимности освобождением от таможенных пошлин, установленных на ввоз материала и имущества, необходимого для их строительства и деятельности.\n\nВвоз предметов, предназначенных для продажи, будет регулироваться действующим в стране\n\nпребывания таможенным законода-\n\nтельством.",
+      "quality_score": 0.9641,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 18,
+      "text": "entin.\n\n- 7-\n\nРазрешение на ввоз с освобождением от таможенных пошлин будет предоставляться на основе взаимности для каталогов, афиш, программ, книг, дисков, аудиовизуальных и дидактических материалов вне зависимости от способа записи информации, а также других предметов, предусмотренных статьей 10 настоящего Соглашения, при условии,\n\nчто их продажа не нанесет ущерба обычной торговой де-\n\nятельности.\n\nРазрешение на ввоз с освобождением от таможенных пошлин бу-\n\nдет предоставляться на\n\n• основе взаимности для фильмов, демонстри-\n\nруемых в помещениях Центров или вне их помещений в рамках организуемых Центрами мероприятий.\n\nСтатья I4\n\nКаждая из Сторон назначает персонал своего Центра. Этот персонал может назначаться из числа граждан направляющего государства, принимающего государства или третьего государства. В последнем случае назначение должно быть согласовано с принимающим государством.\n\nПерсонал из граждан направляющего государства рассматривается как выполняющий государственные функции.\n\nДиректор и заместитель директора Центров по взаимной договоренности между Сторонами могут являться членами дипломатического персонала дипломатических представительств.\n\nЧисленность персонала Центров устанавливается по взаимной договоренности.\n\nСтороны будут взаимно информировать друг друга о комплектовании персонала Центров, а также о вступлении сотрудников на должность и прекращении их работы.",
+      "quality_score": 0.974,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 19,
+      "text": "عيييب\n\n-8- Статья 15\n\nНа сотрудников Центров, являющихся гражданами направляющего государства и не проживающих постоянно в стране пребывания, и на лица, находящиеся на их иждивении в рамках системы социального обеспечения направляющего государства, распространяются трудовое законодательство и режим социального обеспечения направляющего государства.\n\nСтатья I6\n\nКаждая Сторона разрешает сотрудникам Центра другой Стороны\n\nВВОЗ\n\nв печение года с момента вступления в должность и вывоз по истечении срока работы движимого имущества и личных вещей, в том числе автомашин,\n\nнаходящихся в их пользовании, с освобождением от\n\nуплаты таможенных пошлин. Это освобождение действует только в течение срока их работы в Центре.\n\nЭти положения не могут применяться к членам персонала Центров, являющимся гражданами государства пребывания, или лицам, постоянно проживающим в этом государстве.\n\nСтатья I7\n\nКаждая Сторона на основе взаимности своевременно выдает членам персонала Центра другой Стороны, а также совместно проживающим с ними супругам и детям в течение срока пребывания в должности сотрудника визы и разрешения на проживание в принимающем государстве. Такие визы и разрешения на проживание выдает Министерство иностранных дел принимающего государства.\n\nСтатья I8\n\nКаждая Сторона в случае необходимости окажет содействие в найме квартир для сотрудников Центра другой Стороны.",
+      "quality_score": 0.9505,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 20,
+      "text": "-9- Статья 19\n\nВ случае необходимости вопросы толкования и применения настояшего Соглашения будут разрешаться по дипломатическим каналам.\n\nСтатья 20\n\nНастоящее Соглашение вступает в силу с даты обмена письменными уведомлениями, подтверждающими выполнение каждой Стороной формальностей, предусмотренных в том, что ее касается, для вступления в силу настоящего Соглашения.\n\nОно заключается на\n\n5 лет и в последующем будет возобнов-\n\nляться на основе молчаливого согласия.\n\nПо истечении 5-летнего срока оно может быть денонсировано в любой момент с предварительным письменным уведомлением об этом за один год.\n\nСовершено в Париже \"5 \" июля 1989 года, в двух экземплярах, каждый на французском и русском языках, причем оба текета имеют одинаковую\n\nсилу.\n\nЗа Правительство\n\nФранцузской Республики\n\nPold Dim\n\nЗа Правительство\n\nСоюза Советских Социалистических\n\nРеспублик",
+      "quality_score": 0.967,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 21,
+      "text": "MEE EE E O I E S TE e a amea I TAn M A L I E Eaa A L a a A e S a T TTL CTT,\n\n- R a a a a a a E a S a a a a R T ATT AADU AD A ai yete E BaL UI E. m D e e aD A e re a lea T t a aT e AT Bayem T Aen e a a a E E E a RS MAD E en N m ee R T MA e aR eT Tta a a T a e a a S T et, ra d e ae nna n E T ata E Taa D ATL\n\nM aa na a a a NI MOTY, M BT a T we e T -ia ng sa oen TIm e ata e i ean TIDI D wT Uta maa Me LT T D a EN a a a a g aL a T ao om a S Zn L Ra BE an T TA ere t\n\nLaTNOLI aO TALM iy: maa TATAN TT PO pr n a a a a a a a E aUe TEN a E Tee yea, a E a a a a Tea e a a T Hi -Ta e Va JO O Jae\n\nKLON O a E E E a a e a aee Ne t T e VR Da e a A aTa. a EA DO a BeS a ta SIn L S a E E E E S E E E eT a N Be a DD N AA e a Aa TANA AT te T DA Mea tae, T te a E T a t ee T ea Mbe ETa De a ra DA TA Thn N -07 a - aTe, ANTE am te n L a e e e e a an n r E O E TAL TA E AS a S E A l Ee DE a ALA Te e T INR M tle eT L V m n G . oai, ` na g a e a a aE O a E a a S A a T A SES p h Diaa i aL e a Tae g Gan a M ET en ate eT aa a Panle a A n aire n\n\nTOUA PSR eiT aTe e a Tia amt TE M D O Tan tha MID aee ME AT t n a WAT A AT S A i em Do N te et e Ten T L A e Ta T De MT a a g n ee ame e T Aea . aLa T e ta S ueia m ae T\n\nN IN e A T N N T R T a T D a A A a e A TT H T a a M TS a Wae B a A a T A a e e A S n te Tah a at e aa a a h, ene Ds MOTA a aN a e e Te T\n\nMOKADUD TT M AMLAN D a T U AR T ATAT D aL Da e va O D a A i OMSAT TDU D Iae ADAT TA L ATA M Te L ee UTA T DA b e Eate e rhann Ae i a Tora pI\n\nARE E E a E E E a R E E a aa motin pt yat mrm a ANA S ea mm toa ea DT a mL Wae a Tn a a Al ae ae T aL e E E te M L a a EE E E E a a a n E R mineda De ee D A rea A Ta TA T A TTA E = aTe T aata a T a A A Lo, a E E A O a a E TAUMDA LOAN N aA a N E A e T Tt eO OAEDT IIA e T AUD ELA LD TI eT aTa A A A O dae a e a ea aD a gie g E a S a da a S m e ware T A D an aaa e a S a E a a e AE P me aM e aa TR ra n a R A e a aa a a a e D epia 1h ` e b DIT UDES owe a mni moa E E a a a E a R E pi „Dea T T aa oo s eh aT TN : La , x aN Dn vpt- Aa TI e e a a a Tae AIDAR a a a ee n aIem T Tan - A p Mh geh Ta aE aA ma AC ia JAR a LINDE t n ME eNLt mi a Mey m T a AM TAT e a r E a a a a E a a a a a a E A Spaa\n\nTOM A D AT N ar t AAT ANA eR D RA e n A A T U Da D a e e TATATA aAA E t a E L E e aD tnp ISe anata tia Ye D Ir EIA L la t .\n\n` e 5 EE T E e aa MUDDI DID Ise Ta a A a A wt a a E a e a eeneg GET DT e mL a Ae at D im a e a e aSa a ALI yI Wh fae L gra\n\nZob r E n a a ha na me mT E De Ee e aa T g n E Bei L AAA Te e D a E E a aeae a t a a E D ~ LSN aa w Mae aa Te A eMo v taim L thata tolse a onj a e DaDa, Mar eh a Mmeyro ta e De mogba wos Ta Mte n a L UST m Ieina S TE a S Ma Deoa O aT a et, mota Toae TUTE D =L\n\nAA KS Net e atr e A MOT MATEN A a a S a Le a ae Da aTa A T T. Íre Te e A e a o A AT e aa A aA a Pal O UT UseNet A eta aee Ta re Da e Len a a T\n\nTOTALT J t aa E TA A JIA TA AA T A E a a a a a E eee pe a a E E E E E TATL eA E ST A D A a a tait BOMA NDO ND wa a l naL T r S S a a a a ThaL T T te e n T A S A Aa e To e a na AED O AE AE ET o\n\nGANU DAITE AED A AM A AAV D MAL c AT RN n t e LA a e a e A E T T Daa ATA a A a T TAT Tte De TRIS ee r and e Ten e D n P R CaTa n T T a, ` r O O a a E -. r E E E r a E A E o n ny ara e ae a LA n T raa = OOA T\n\n- ao otiga a S BO o aa D A Ate MLA a T RT R m a T a ` t-n\" -O Mana Tha eg me er aia T h e T TT T m a eT a a a a a a T es\n\nDoae a A E A V AN A T a T aa a D A T e a a N T A E a AT AN a a a a sea De e Lre e N t L De at nt Dee e T r pA T Ba D e e TE e a T ` n E ESE a a E E CAUMONT U e LUMDAR T L Ma T a a L A L a re a e t e JLA a a e LT T La ee a aT eo witu\" h ao S onar A, LO A wa aL A Tn w t e Ma a e r a a E MEn a a a a E a Ca E - CL TAa w E LTD a TaT TAa a ET A T e en Da TAATA atm L A a ALA I er E a D o IE SI et eLa ne De e e Ba TTT A E aem eL aO a O TA T Arit\n\nC a a a S T E S a A mO MINN e a e E Me a A aa A ata e TaT ag p Hea a TaT- Sayi e aa D oee e a am e a e N LA T t a pa Tg a D E a A TAa T G Tnn\n\nLOTI ATu et e e e R A DON o AA D MAO a a T T A A T a Aer e e L Daa ROT aA De aT n Me Ta E S a a T gree tU Ua e e a T at e eTe J a a ea n m eTo a n e a a a a a E Mhm an S a A a aA ea D Ie Taja eTA tant e aa A L Tag a a DUT aT a a L a a ea ata, o g aerie) AE petae TIt a . E E JTA m a h Cl em M eie a T e H A D aT E A Tagann Yo Lian Mnal Mee aTa t D mea D uD A N Doe t T A et Te m LTT ATSI T he, ia o -a oa ea aG w a5 Ki De T T E mR TE Ta T a T A e a ES wa Ta YO ne Tn a e eale genie e ~, aa T TS Me m L I Io wa T -7T onr\n\nE E E E RTN E e WA N e T AD STA A a N E e Ta n a N Sa D er ERTS Ae e man ALOI VA ea Dei Th ei on -e Dahl etu e eao a a s a T SE aMi TDN g mota BUN e a LA T e m aal hT eT a a Diaa Tiea t nna BA pA e N T L L A Te NA Da A e w AT DL ea Aa ALa O metran L Bea and, . BAC ANET m Taa A De MOUIA N T a Aa a A A’ AON one E Jat Lre EO M ow a\" ae e e eta, a a E r a a E bo MLM S.T t a E O A A T R N e a a AE Te eT i t a T T T a T Da R A AL NTR LTAL TA E L MARD TUA EIA R e AU O ere t e L AT BR E T N a E E E a s A A E a E ` Haa t Ta o an a E a aa E E a e s a a E an Ta EN mielen oa nT A eno lei g a aa TO L ADA T e T a e L AUSAT T a e ET A ae a A r E a A ATUT A a a a a a E E T E\n\nE a a a R AUA et o e IV AS Meeta DT LD e a UT AS AN Mea e Le Bean PY a ow Aa e kata NDU w Dee e g a Ten Te e e a t e a eD g aieo tapa TN LATIS DSN A L A A A T TR E T T A T e e T A a N A LTA R In aT e e ea o a T a JA a, Tee T ea m AT T a Ta\n\nMA r T a A a B T TA a aTe TE TI ea ha r Te L R A l Are T DA T o a a, De OaM T A a- eera Tae T Ten a aT Be a T T eD Su Tea T ev\n\nMOTA a A T A e adn a e T e e at ETT M aT a e beme ta Deme dea a SA T e a t pa a a ES C R E eT a R a E EE E A eee T R TR T a a AA D a hte aT LLT T ARAT a a OITA A TT R A A T e IL aani p ema. TeL RIL aoon ADIA D aa TaT e t im a eTA a a a T L o a T Aae a n a De TaN e T a e e DaT e a m E m a a eE E E a a a eoo T\n\nJOOD LAA a T a AN LA Tata SETJA Tna a LH a Aon a NE DeD Ne Dee De Me Lm D e IA e e a O AIT T ip Y AT TI AeL it e T a e rea T ola a E a a E a a a a a a a S a a a E E a E E me e Ba Tea A TT a a eD at e Dae r .\n\nBeor Po p ta a Na A a a ahta L ataa L Ine Ta Sle. MA E a E M O ATAR A la Ter n T ADA n I A EL Am AV TT I r E O eol o y te\n\nE> a a a E E a E E a a a a e A A AD Ien e T eD e a T e e AO AAD A L T a R aA ec T a E S LODRA T A O MAAU AUTA R T eL DM T AT A ea a a r pe a E N E T a\n\nS eao t re aT Te Aem N an yO MDa ela OTa t a a E a Tes nee NT Pua ef Be a n De eL e ea e Joan T D Iet eoim Tt et Ten s n a E a E E E S O O a Paa o O E a E a E p a S a S a A EA e Ta Aa a D a a t a Ua e deL TaT L NA DT DLA T a a aa aA T a T ETa a E N u Apea te ta dt aae Dei a L atent n a ow a E a a a a S TIt eate a Ta a Aa T A D a ea a Te un a E U OT a e teo oa SDan Y TTo paT e e\n\nE E O A Mea nT Wa e A LAA T N AAD AAL OTe Tanat a a L DN bro ee AMEL I T G= ea ta ir eroi . g JAAD ToM u o mei T e DITT D a Ra TAi eve at n a aa T a SA TULA E a e a aoU e tua me aa T TA ad a f -al\n\n- a JMA MCU D eT n A UD TAD R L T TD T e T T a a A a a AT mT o M eI Doa eea DI E LT ad me e g a ALT a 2-1 Jir lm a AI S t e Fean ` sen UAND ela N TA ad a bal e ata b i Pa gT Worn t Te Len ae ran e O Se aan aT Tea e a a a De T ai t A TaT ta M T L BT e T e aa T mea a Ta oTa an mata Tan a a a Tatia Mo n AT e an T D t a m e e L AR erae D et a aT a Ta TA eE Ta Teo a ST a AL D N e P g TE\n\nL5 Sa T a aN T an E T e a aa e a Te Da Teen T Ta RUE NOD e L a a e a i O eat ea TTS aT ee LID moata Daa t ST e alae D a a ea e D : caT.\n\n` a a Je aTa an aA N T a AA TeLAT aT TN a a LIU I O m ape a aT eT Jaa aa Ia e N -2a eee lae L TIe Te a a LIe n a e S a O a O P ale mA DN An do b D aTa aa Te me da et T a en an D e TT Le ala ot De TT e y n oa o -o X VOJE UAN ATA DNUN tiS IRSN e a LLT TAT maon e at geL a Lre erT Ae t TTE BPOV I TDAI AALA n JATU TAST dapt LIE TAI Dah, tre T00 oa\n\nSedaaa IA eR a a p e a a p a a etea t Tei ee Doat L Timet aT ToD DLS e Te Ln YI yor ado eII te te a e l Aan Te D Ta Tee Tete aT., ah TLA a a a a\n\nToa a T ataa naru Deltom Ja iL. TIm a Data e T E a L, la aT aon e e Daa TLT a e a e a n E a\n\nK’ A DONGRADI aa a T A a T a ET a wi LT E V Ta aT e U e D a aL N S a a LTs T aD Loon i `\n\nS a R R a Mattea e a L T T T n S n a a Tee e p aT Ia e l MI e, eaa B E E ATO N a ATA O AT TOE EL TE aT l P E a E E r A aT e ALS,\n\nLUE OG hatto Doca tele gaiU LUN en e O EE qI SA b -Lan 0 b an T I- Te Tas O > Ta a M R T e u Cr a a R E S O E a a Te Lae e t Tesel-a Tap TLT Taa TT o Ta ea T -2 aoto’\n\n7 a Tato ia’ BO oaa e toa Ve J gIE l. aM BIr to Mosa p tat T Jp es Doa TDD r l a ne T E p ae e a TLT\n\nn -' .- ang a - ag a ao, te Dea OTNI T gp De aee o U e TA T regala a E mC et nea ia DT ee g Eea e]\n\ni ma LT - ` a T a’ a’ Daet tdas e e TT. a T - BOT om ke r RaDa h pa D motots Tene g e a D I, =i T e a aa n -r eT. cta ti Cu oT ta aTI Ta o Ge s aT e TLT TAN e ae La lea ele lese T e nt T r aT oL OTE na D e Te a TE U ea Le e a ` a T a T ea E D aD Te a ager i t ea Te a AT T AAT a CDI n MM ae TI. a a o D Wa eo D s et raet TA To Tear Tse TaT TIT a oa Da i n e TO i A De ETA M TL A Gr Den reeL LT T e e A TA MTE e T TA l w a D TNT E L Dat TaT Mad Ae TT e o\n\n- -. ` . eo m D r ae inaa ea TIE pa TaB ee euelet te Teee Le L T N, TIe Ty aL ge T aa a tt tl er Ta e en wai g ; Daoa o . . roaa’ =r. -en TE eleg a aea eg Dea a e e T a e w e a e TT T eT T A a TT A a T T e aea T ale. A T a L T en n a e t a T TO loaa F Tract e Dehla e TA pepr r sa l e Te n oae dor e Denain f TERTATA T EDA e u eeen a TAD ee aret t r ea NT TH e DUI Er na]\n\n` boaa Tfr Tele Toeter kOTO. eola eL eT D taea L T oer Iet. Stene e o gie I Te PIDIN ATLI al Teen Te U e e rst ne a R o; ; Eo Tan Cpa IAAD p egati ADe ue tB el gal e tert D Teg jea nin MA S OE NE p e ar E e ele LT D e DL Tele] DATEI UUN r o\n\nToa o TEE UD t rate elerte, DA aa E DOA TaT Doete oT nE teL nA S a R Te e T ANT f : a Lon ge Teis ee a E Ta AE OT TA ar Du TAL A D ADUI A IT ee A e T er TALDE a eD AA n T Erea te o b UA U T TII eA , N Aal a lta as mT -> PENA DT Titte mt T e Ten M e a b a Walenn riton e e e n E E E E r a O . : . Ere oy - - f . o e Feun d IIren ma Le m a Se aL i a Dg T Tega T Tene a a Tet . . - Toga e Aa Te ATTAT WA l To at e Fe L aa n e Ae a e ea eot a TT Aa t aia siSam ou Yoy \"la ao n a a a a a a . eea eote tt a Teie Tn . e E a a a dnne te D We e ea uea ta Ta eT a t a a i DO -l TIa, Pia Tee ALL a s De TeJo ete a ie TIm piel e o I aL AnA ae nn e An me Iberan Tei de Le t a S Se Tire a e u e e n T a T E T TIIA T a a eh eT e o aTe E et., Sea an E e o al Ta e L Ta r aA T eTe e E e e a e e D a i De e A aa L eTe e YOUNA DIONN FED ao SK o DTe Ta n Tm a e a A e o ele T e r eD e e e e u E T a Ty L E e a Sgian ie JIA. aet y oaa e e aD DDT D T S ot AAA T A TS\n\nSaana > . ee a TL E a e D a T Dotu e, Aa J5 Deta ee AoT aoe ea ea aT L i aa e Ee ye e e OT ': Tai mat D e e D SI e Dn T aau TT\n\nLo eT e o ao T. -= ET ia C o lnl v -iu reLea Tau p Er teln PeT t aD e a Y e a t T s ae e a E e, wer aT TT a LD e ` . a L aE La A Te e Daos Aleator Te Ten got aen E Ta e Anr aTe LI T eTR e DE O M O e Trat Ivl te h TIOL phatmi metat n, De LIT = 0 = -à -e Lol eE egra T eg i fir pa tead Dall, ara eT l aea rena rT re Te L aen ee tep U T o e otee L L D De pma Moatte ma h ei T a aSa on\n\nPaon -opi a’ arIa Piae fant DTe l decta t TaT T EA p ee eT a Er a L Faa Dan T A e R L ITANA y T nE `.\n\nRi -7 er oa TaT DeL Ta TD T eaae eta e E T a De CT T enn Tee ye ED u n o t Tear tT GML a OTLATAN e omga TEAT Ia T L AD e ei aL < AEE G Mote pf e ‘g AUDLA oo om De e e da P S a ab me a Te get a 0 eet Saan D Te DOme ma Sn e r at aa aA L I a Rna e",
+      "quality_score": 0.5587,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "pt",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19450094_001_s1",
+      "title": "Accord et une annexe datée du même jour",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240076_001_s1",
+      "title": "Déclaration",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182626_001_s1",
+      "title": "Déclaration",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19790195_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.470029,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19870226_001_s1",
+      "title": "Accord",
+      "score": 0.465786,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19770374_001_s1",
+      "title": "Texte de l'avenant (ensemble 4 annexes)",
+      "score": 0.462978,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19860200_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.462781,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19910098_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.462567,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19740378_001_s1",
+      "title": "Protocole",
+      "score": 0.458661,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19740101_001",
+      "title": "Convention (ensemble 1 protocole d'application et 4 annexes)",
+      "score": 0.45801,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

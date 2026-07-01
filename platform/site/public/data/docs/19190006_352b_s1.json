@@ -41,5 +41,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190006_727_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification roumain",
+      "score": 0.756317,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_096_s1",
+      "title": "Procès-verbal de dépôt de l'instrument des ratifications",
+      "score": 0.726205,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_727_s1",
+      "title": "Procès-verbal de dépôt des ratifications du traité de paix, protocole et déclaration du 10 septembre 1919",
+      "score": 0.696728,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hti002_s1",
+      "title": "Procès verbal du dépôt de ratification de Haïti",
+      "score": 0.623845,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.618669,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.600877,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.57899,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_03_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.553157,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_007_s1",
+      "title": "Procès-Verbal de dépôt des ratifications de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.427167,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_62_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification panaméen",
+      "score": 0.41307,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
 }

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19760086_007a_s1",
+  "title": "Lettre en réponse togolaise sur l'indemnité de 10 000 francs CFA aux VSN",
+  "year": 1976,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ーi- LOME, ie 23 Mars 1976 Monsieur le Ministre, Vous avez bien voulu, en date de ce jour, m'adresser la lettre dont la teneur suit : \"L'article 11, alinéa ler de l'Accord général de coopération technique signé à Lomé le 23 mars 1976 prévoit une indemnité forfaitaire mensuelle de logement et d'ameublement à verser par le gouvernement togolais aux personnels de l'assistance technique française mis à sa disposition, le…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760086_007a_s1.pdf",
+  "source_filename": "tra19760086_007a_s1.pdf",
+  "source_sha256": "30fce37f6739d1fc758783bb8ed92409f8d07128a252ab5d371b5ebe0cf10192",
+  "treaty_id": "TRA19760086",
+  "treaty_number": "007a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ーi-\n\nLOME, ie 23 Mars 1976\n\nMonsieur le Ministre,\n\nVous avez bien voulu, en date de ce jour, m'adresser la\n\nlettre dont la teneur suit :\n\n\"L'article 11, alinéa ler de l'Accord général de coopération\n\ntechnique signé à Lomé le 23 mars 1976 prévoit une indemnité forfaitaire mensuelle de logement et d'ameublement à verser par le gouvernement togolais aux personnels de l'assistance technique française mis à sa disposition, le montant de cette indemnité étant déterminé d'un commun accord entre les deux gouvernements.\n\nLes échanges de vues qui ont eu lieu entre nos deux délé-\n\ngations ont mis en lumière la nécessité d'accorder une dérogation aux volontaires du service national qui, compte tenu de leur situation juridique particulière, de la brieveté de leur séjour au Togo et de la modicité de leur rémunération ne peuvent être assimilés aux personnels civils de l'assistance technique.\n\nEn conséquence, j'ai l'honneur de vous proposer que le gou-\n\nvernement togolais verse une indemnité forfaitaire mensuelle supplémontairu de 10 000 F CFA aux volontaires du service national, pour tenir compte des servitudes spécifiques ci-dessus mentionnées.\n\nJe vous serais obligé de bien vouloir me faire savoir si\n\ncette proposition rencontre l'agrément du gouvernement togolais\".\n\nJ'ai 1 honneur de vous faire savoir que les dispositions\n\ncontenues dans cette lettre recueillent 1'agrément du gouvernement togolais.\n\nJe vous prie d'agréer, Monsieur le Ministre, les assurances\n\nde ma haute considération.\n\nSon Excellence\n\nMonsieur Jean de LIPKOWSKI\n\nMinistre de la Coopération de la République française\n\nHumer\n\nAyi Houenou HUNLEDE\n\nMinistre des Affaires Etrangères de la République togolaise•\n\n......：",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760086_006a_s1",
+      "title": "Lettre française sur une indemnité de 10 000 francs CFA aux VSN.",
+      "score": 0.814258,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760093_001c_s1",
+      "title": "Échange de lettres relatif à l'article 10, alinéa 1er de l'accord : lettre togolaise",
+      "score": 0.434305,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_007b_s1",
+      "title": "Lettre en réponse togolaise sur les taux mensuels des indemnités des personnels de coopération",
+      "score": 0.421063,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_006b_s1",
+      "title": "Lettre française sur les taux mensuels des indemnités des personnels de coopération",
+      "score": 0.40266,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001f_s1",
+      "title": "Lettre en réponse sur la subordination des personnels de coopération",
+      "score": 0.380036,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001d_s1",
+      "title": "Lettre en réponse sur la rémunération des agents de coopération",
+      "score": 0.374008,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630108_001c_s1",
+      "title": "Lettre en réponse",
+      "score": 0.371601,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.370872,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760094_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.370825,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001c_s1",
+      "title": "Lettre française sur la rémunération des agents de coopération technique",
+      "score": 0.369536,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

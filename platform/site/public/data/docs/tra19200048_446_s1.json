@@ -1,0 +1,161 @@
+{
+  "document_id": "tra19200048_446_s1",
+  "title": "Instrument de ratification japonais",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr",
+    "ko",
+    "zh-cn"
+  ],
+  "quality_score": 0.6656,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "| 以 起 人 于 姬 3 当下 呈 ~、 才 芝 个 窒 ?八国 包 咱 ~ 尖 尺 对 日 导 4 开赴 gg 克 志 内 铬 一 个 2 区 kK 0 BR RAAT ~、 川 RY 汝 \" 克 x。 放下 人 信 鸯 又 交 和 定好 全 - 必 六 Ee 、 尖 人 和 x / 合宜 以 全 六 于 虹 中 二 4 二 自 米 尺 对 十 < 中 让 ~ Ke A oN um d 19200048 446: Instrument de ratification du Traité entre les puissances alliées et la Grèce concernant la souveraineté de la Thrace ∞ Texte de ratification par le Japon du Traité concernant la souveraineté de la Thrace sig…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200048_446_s1.pdf",
+  "source_filename": "tra19200048_446_s1.pdf",
+  "source_sha256": "8db497768b61c1253dd1d00ad4c714ecec41b9ac9580716f3f6d8da271715b5f",
+  "treaty_id": "TRA19200048",
+  "treaty_number": "JPN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "|\n\n以 起 人 于 姬 3 当下 呈 ~、 才 芝 个 窒\n\n?八国 包 咱 ~ 尖 尺 对 日 导 4 开赴 gg 克 志 内 铬 一 个 2 区 kK 0 BR RAAT ~、 川\n\nRY\n\n汝 \" 克 x。 放下 人 信 鸯 又 交 和 定好 全 - 必 六\n\nEe 、 尖 人 和 x / 合宜 以 全 六 于 虹 中 二 4 二 自 米 尺 对 十\n\n<",
+      "quality_score": 0.4885,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "zh-cn",
+        "ko"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "中 让 ~ Ke A oN",
+      "quality_score": 0.4531,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "um\n\nd",
+      "quality_score": 0.7446,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "19200048 446: Instrument de ratification du Traité entre les puissances alliées et la\n\nGrèce concernant la souveraineté de la Thrace\n\n∞ Texte de ratification par le Japon du Traité concernant la souveraineté de la Thrace signé le 10 août 1920 en France, à Sèvres, entre les puissances alliées et associées et la\n\nGrèce ∞ Ratification par Yoshihito (NdT : Empereur du Japon) et Hirohito (NdT : prince héritier)\n\nle 31 mai 1924.\n\n∞ A gauche de la signature et du sceau de l’empereur, signature du baron\n\nMATSUI (Keishirô? illisible), ministre des affaires étrangères",
+      "quality_score": 0.9762,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200049_446_s1",
+      "title": "Instrument de ratification japonais",
+      "score": 0.870763,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760034_001b_s1",
+      "title": "Texte sud-africain",
+      "score": 0.405421,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_19_s1",
+      "title": "Pouvoirs de signature des délégués chinois : Lù Zhengxiáng (Lou Tseng Tsiang) ; Gù Wéijun (Wellington Koo Vi Kyun) ; Wei Chenzu (Wei Suntchou) ;  Shi Zhàoji (Sze Sao-Ke) ; Wang Zhengting -  Décrets présidentiels du 30 novembre de l'an VII, signatures : Xu Shichang (à droite), Qian Nengxun (à gauche) et traduction",
+      "score": 0.40387,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_445_s1",
+      "title": "Ratifications du traité, protocole et déclaration du 10 sept 1919 ; déclaration d'accession de l'État Serbe-Croate-Slovène du 5 déc 1919  et déclaration modificative du 8 déc 1919 ; déclaration d'accession de la Roumanie du 9 déc 1919 ; traité avec la Tchécoslovaquie du 10 sept 1919 ; traité avec l'État Serbe-Croate-Slovène du 10 set 1919 ; traité avec la Roumanie du 9 déc 1919  ; arrangement concernant l'italie du 19 sept 1919 et déclaration le modifiant du 8 déc 1919 ; arrangement concernant l'ancienne monarchie austro-hongroise du 10 sept 1919 et déclaration le modifiant du 8 déc 1919",
+      "score": 0.395063,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_436",
+      "title": "Instrument de ratification italien",
+      "score": 0.379995,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_50_s1",
+      "title": "Traduction en français  non datée de l'instrument de ratification",
+      "score": 0.364725,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16630006_001_s1",
+      "title": "Texte du traité (ensemble texte des pouvoirs danois et des pouvoirs français)",
+      "score": 0.364143,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_352a_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec relatif à 12 actes signés à Lausanne",
+      "score": 0.363941,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_064_s1",
+      "title": "Pouvoirs de signature japonais",
+      "score": 0.358096,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200048_351_s1",
+      "title": "Instrument de ratification grec",
+      "score": 0.35738,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "document_id": "tra19200016_726_s1",
+  "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "ca",
+    "fr",
+    "ro"
+  ],
+  "quality_score": 0.9183,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Ferdinand i Grin grația lui Dunezeu si vointa nationala Rege al Románici La toți de fațà și viitori Sănátate Ragänd pi cedand Fratatul de pace impreună cu Protocolul și Declarațiunca la dánsul anexate incheiat de Puterile aliate și asociate eu Uigaria in Frianon la 4 Junie: 1920; Tratat, Protocol și Declaratiune a cărora euprindere urmcază: Voir texte 19200016 OI sur bobine B256 - 519 - (L. S.) ROLIN-JAEQUEMYNS. (L.…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200016_726_s1.pdf",
+  "source_filename": "tra19200016_726_s1.pdf",
+  "source_sha256": "c85235cec9b205b0eef5831900b4786bf8eb07691bde448213396df88fb80cad",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "ROU002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ferdinand i\n\nGrin grația lui Dunezeu si vointa nationala\n\nRege al Románici\n\nLa toți de fațà și viitori Sănátate\n\nRagänd pi cedand Fratatul de pace impreună cu Protocolul și\n\nDeclarațiunca la dánsul anexate incheiat de Puterile aliate și asociate",
+      "quality_score": 0.9495,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ro"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "eu Uigaria in Frianon la 4 Junie:\n\n1920; Tratat, Protocol și Declaratiune a cărora euprindere urmcază:",
+      "quality_score": 0.9002,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ro"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Voir texte 19200016 OI sur bobine\n\nB256",
+      "quality_score": 0.9258,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "- 519 -\n\n(L. S.) ROLIN-JAEQUEMYNS.\n\n(L. S.) VIKYUIN WELLINGTON KOO.\n\n(L. S.) RAFAEL MARTINEZ ORTIZ.\n\n(... S.) A. ROMANOS.\n\n(L. S.) CARLOS A. VILLANUEVA.\n\n(u. S.) R. A. AMADOR.\n\n(L. S,) E. SAPIEHA.\n\n(L.S) ERASME PILTZ.\n\n(L. S.) AFFONSO COSTA.\n\n(L. S.) JOÃO CHAGAS.\n\n(L. S.) DR. J. CANTACUZENE.\n\n(L. S.) N. TITULESCU.\n\n(4. S.) NIK. P. PACHITCH\n\n(L. S.) DR. ANTE TRÜMBIC\n\n(L. S.) DR. IVAN ZOLGER.\n\n(L. S.) CHAROON.\n\n(L. S.) DR. EDVARD BEVES.\n\n(L. S.) STEFAN OSUSKY.\n\n(L. S.) A. BENÁRD\n\n(L. S.) DRASCHE LÁZÁR.\n\nIncuviințam și incredințăm cà primim dratatul ce precede cã il' a- probám: intarim si fägäduim aface sá fic indeplinit în a lui formă și\n\nTE.H.",
+      "quality_score": 0.8597,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ro"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "cuprindere, fárá a lăsà să fie cáleat subnici un fel sau chip. Spre credința cárora: am semnat acest aet de califi.\n\ncare și am ordonal sã fie investit cu sigiliul Nostru Regal.\n\nDat in București în a dovă zeci șe papica zi a lunci lii chugust anut Mäntut rei mna mie nond aute dora zea si al\n\nDomnici Hoastre al saselea.\n\nПоіший\n\nMinistrul Afacerilor Stráine\n\nTake fomern,",
+      "quality_score": 0.9375,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ro"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "(Traduit du roumain)\n\nFerdinand Ier\n\nPar la grâce de Dieu et la volonté nationale\n\nRoi de Roumanie\n\nÀ tous ceux présents et aux futurs, Santé\n\nEn voyant et en étudiant le Traité de paix avec le Protocole et la Déclaration qui y sont annexés, conclu par les Puissances alliées et associées avec la Hongrie dans le Trianon le 4 Juin 1920 ; Traité, Protocole et Déclaration dont suit le contenu :",
+      "quality_score": 0.9674,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "Voir texte 19200016_01 sur bobine\n\nB256\n\n-519- (L.S.) ROLIN-JAEQUEMYNS.\n\n(L.S.) VIKYUIN WELLINGTON KOO.\n\n(L.S.) RAFAEL MARTINEZ ORTIZ.\n\n(L.S.) A. ROMANOS.\n\n(L.S.) CARLOS A. VILLANUEVA.\n\n(L.S.) R. A. AMADOR.\n\n(L.S.) E. SAPIEHA.\n\n(L.S.) ERASME PILTZ.\n\n(L.S.) AFFONSO COSTA.\n\n(L.S.) JOÂO CHAGAS.\n\n(L.S.) DR. J. CANTACUZÈNE.\n\n(L.S.) N. TITULESCU.\n\n(L.S.) NIK. P. PACHITCH.\n\n(L.S.) DR. ANTE TRUMBIČ.\n\n(L.S.) DR. IVAN ZOLGER.\n\n(L.S.) CHAROON.\n\n(L.S.) DR. EDVARD BENES.\n\n(L.S.) STEFAN OSUSKY.\n\n(L.S.) A. BERNÁRD.\n\n(L.S.) DRASCHE LÁZÁR.",
+      "quality_score": 0.8263,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "native_pymupdf",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Nous consentons et Nous assurons que Nous recevons le Traité qui précède, que Nous l’approuvons, le renforçons et promettons faire qu’il soit accompli dans sa forme et dans son contenu, sans permettre qu’il soit violé sous quelque forme que ce soit. En foi de quoi Nous avons signé le présent acte de ratification et avons ordonné qu’y soit apposé Notre sceau royal.\n\nFait à Bucarest le vingt-septième jour du mois d’août l’année après le Christ mil neuf cent vingt et sixième année de Notre Règne.\n\nSignature du Roi Ferdinand Ier\n\nSceau royal\n\nLe Ministre des Affaires étrangères\n\nSignature du Ministre Take Popescu",
+      "quality_score": 0.9798,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200016_251_s1",
+      "title": "Instrument de ratification cubain du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_436_s1",
+      "title": "Pouvoirs (pour Mario Grassi)",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_396_s1",
+      "title": "Instrument de ratification français du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_196_s1",
+      "title": "Instrument de ratification chinois du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_096_s1",
+      "title": "Instrument de ratification belge du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_731_s1",
+      "title": "Instrument de ratification britannique du traité, du protocole et de la déclaration",
+      "score": 0.820171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_886_s1",
+      "title": "Instrument de ratification siamois du traité, du protocole et de la déclaration",
+      "score": 0.820171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_351_s1",
+      "title": "Instrument de ratification hongrois du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_326_s1",
+      "title": "Instrument de ratification grec du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_726_s1",
+      "title": "Ratifications du traité de paix, protocole et déclaration du 10 sept 1919 (actes auxquels l'État serbe-croate-slovène a accédé par déclaration signée à Paris le  5 déc 1919) ; de l' arrangement concernant l'Italie du 10 sept 1919 et déclaration modificative du 8 déc 1919 ; de l'arrangement concernant l'ancienne monarchie austro-hongroise du 10 sept 1919 et déclaration modificative du 8 déc 1919 ; (et du traité de paix et protocole avec la Bulgarie signés à Neuilly-sur-Seine le 27 nov 1919)",
+      "score": 0.536445,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

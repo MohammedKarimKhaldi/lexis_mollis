@@ -45,5 +45,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra19560090_095",
+      "title": "Pouvoirs belges",
+      "score": 0.375314,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_75_s1",
+      "title": "Pouvoirs délivés à Alfred Viscount Milner",
+      "score": 0.374128,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.372003,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19920190_095_s1",
+      "title": "Pouvoirs",
+      "score": 0.369341,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.369242,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19340016_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.368182,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_731_s1",
+      "title": "Instrument de ratification britannique de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.366679,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.364575,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_45_s1",
+      "title": "Pouvoirs",
+      "score": 0.363865,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_45_s1",
+      "title": "Pouvoirs suédois",
+      "score": 0.361332,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

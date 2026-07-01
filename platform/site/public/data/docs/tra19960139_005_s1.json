@@ -1,0 +1,131 @@
+{
+  "document_id": "tra19960139_005_s1",
+  "title": "Instrument biélorusse (avec tampon arrivée à l'ambassade de France le 30/09/1966)",
+  "year": 1996,
+  "doc_type": "Autre",
+  "languages": [
+    "fr",
+    "ru",
+    "uk"
+  ],
+  "quality_score": 0.9479,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "\\% \\ АХ ? Н С (3 МІНІСТЭРСТВА ЗАМЕЖНЫХ СПРАЎ ОЕ. ни РЭСПУБЛІКІ БЕЛАРУСЬ 2 / 10225 - н Міністэрства Замежных Спраў Рэспублікі Беларусь сведчыць сваю павагу да Пасольства Французскай Рэспублікі ў Рэспубліцы Беларусь і мае гонар паведаміць, што, ү адпаведнасці з пунктам 1 артыкула 19 Пагаднення паміж Урадам Рэспублікі Беларусь і Урадам Французскай Рэспублікі аб міжнародных аўтамабільных грузавых перавозках, якое было п…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19960139_005_s1.pdf",
+  "source_filename": "tra19960139_005_s1.pdf",
+  "source_sha256": "3cb54a31852506b70a1daec2cec9c9ea70aaab4cc23936ccd50999e7c8b4e71d",
+  "treaty_id": "TRA19960139",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "\\% \\ АХ\n\n?\n\nН\n\nС\n\n(3\n\nМІНІСТЭРСТВА ЗАМЕЖНЫХ СПРАЎ\n\nОЕ. ни\n\nРЭСПУБЛІКІ БЕЛАРУСЬ\n\n2 / 10225 - н\n\nМіністэрства Замежных Спраў Рэспублікі Беларусь сведчыць сваю павагу да Пасольства Французскай Рэспублікі ў\n\nРэспубліцы Беларусь і мае гонар паведаміць, што, ү адпаведнасці з пунктам 1 артыкула 19 Пагаднення паміж Урадам\n\nРэспублікі Беларусь і Урадам Французскай Рэспублікі аб міжнародных аўтамабільных грузавых перавозках, якое было падпісана 11 ліпеня 1996 года ў г.Парыжы, Рэспубліка\n\nБеларусь выканала адпаведныя ўнүтрыдзяржаўные працэдуры, неабходныя для ўступлення ў сілу вышэйазначанага Пагаднення.\n\nМіністэрства Замежных Спраў Рэспублікі Беларусь\n\nкарыстаецца гэтым выпадкам, каб зноў запэўніць Пасольства\n\nФранцузскай Рэспублікі ў Рэспубліцы Беларусь ү сваёӣ глыбокай павазе. |\n\nМінск, 27 верасня 1996 года\n\nПасольству Французскай\n\nРэспублікі ў Рэспубліцы Беларусь г. МІНСК\n\n| љо. е5. ЕЗ\n\nНе Е рак АНЕ аа\n\n*\n\nУ\n\n{ х у",
+      "quality_score": 0.8989,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk",
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": ".-\n\nTRADUCTION LIBRE\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nDE LA REPUBLIQUE DU BELARUS\n\n12/10225- H\n\nDébut de citation = conformément au point 1 de l'article 19 de l'accord entre le gouvernement de la République du Bélarus et celui de la République Française sur la transportation internationale routière par camion qui a été signé le 11 juillet 1996 à Paris, la République du\n\nBélarus a effectué la procédure intérieure correspondante nécessaire pour mettre en vigueur de l'accord ci-dessus indiqué = fin de citation.\n\nREPUBLIQUE FRANÇAISE\n\nAMBASSADE DE FRANCE",
+      "quality_score": 0.9968,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19660081_005_et_007_s1",
+      "title": "Instrument russe ET accusé de réception russe de l'instrument français",
+      "score": 0.38973,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_005_et_007_s1",
+      "title": "Accusé de réception russe de l'instrument français",
+      "score": 0.384936,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890163_005_s1",
+      "title": "Instrument soviétique",
+      "score": 0.384672,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.382055,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_696",
+      "title": "Pouvoirs néerlandais",
+      "score": 0.379856,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710277_010_s1",
+      "title": "Texte de l'accord (note soviétique)",
+      "score": 0.379348,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.379328,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.376247,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_05_s1",
+      "title": "Accusés-réception de divers pays de l'adhésion de l'Albanie",
+      "score": 0.37575,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20060004_007",
+      "title": "Accusé de réception français de l'instrument russe",
+      "score": 0.375258,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

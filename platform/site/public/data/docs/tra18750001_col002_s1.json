@@ -1,0 +1,116 @@
+{
+  "document_id": "tra18750001_col002_s1",
+  "title": "Accusé réception de l'instrument d'adhésion",
+  "year": 1875,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9691,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "BIPM sile Liberté • Égalité • Fraternité RÉPUBLIQUE FRANÇAISE MINISTÈRE DES AFFAIRES ÉTRANGÈRES N° 209/NUOI/EB Le ministère des affaires étrangères présente ses compliments aux ambassades des Etats membres du Bureau international des poids et mesures (BIPM) et a l'honneur de les informer que la France, Etat dépositaire de la Convention du Mètre instituant le BIPM, signée à Paris le 20 mai 1875 et modifiée le 6 octob…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18750001_col002_s1.pdf",
+  "source_filename": "tra18750001_col002_s1.pdf",
+  "source_sha256": "ae7900d5f7f3a0a44929d9ff7c1bf353044abe47150828230d84b2e9c9f26449",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "COL002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "BIPM\n\nsile\n\nLiberté • Égalité • Fraternité\n\nRÉPUBLIQUE FRANÇAISE\n\nMINISTÈRE DES AFFAIRES ÉTRANGÈRES\n\nN° 209/NUOI/EB\n\nLe ministère des affaires étrangères présente ses compliments aux ambassades des Etats membres du Bureau international des poids et mesures (BIPM) et a l'honneur de les informer que la France, Etat dépositaire de la\n\nConvention du Mètre instituant le BIPM, signée à Paris le 20 mai 1875 et modifiée le 6 octobre 1921, a reçu notification de l'adhésion de la Colombie à ladite Convention. L'adhésion a pris effet le jour du dépốt de l'instrument d'adhésion, soit le 6 février 2013.\n\nLe ministère des affaires étrangères saisit cette occasion pour renouveler aux ambassades des rats membres de Bureau inertional des poids et mesures les assurances de sa haute considérationg sy",
+      "quality_score": 0.9691,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "notification_denonciation_bie_guatemala_s1",
+      "title": "Dénonciation de la convention sur les expositions internationales",
+      "score": 0.620243,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.431392,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.413847,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.411754,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.404103,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.403361,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_776",
+      "title": "Accusé de réception de l'instrument salvadorien",
+      "score": 0.403182,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_38_s1",
+      "title": "Note verbale de transmission de l'instrument d'adhésion de la Nouvelle-Zélande",
+      "score": 0.402238,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_blr001_s1",
+      "title": "Note informant de l'intention d'adhésion",
+      "score": 0.399197,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_17_s1",
+      "title": "Note verbale d'adhésion de la Chine populaire",
+      "score": 0.396987,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19810111_100_s1",
+  "title": "Certificat d'enregistrement",
+  "year": 1981,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9417,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES No. 30681 CERTIFICATE of REGISTRATION The SECRETARY-GENERAL of the UNITED NATIONS has been registered with the Article 102 of the Charter of CERTIFICAT d'ENREGISTREMENT Le SECRETAIRE GENERAL de T'ORGANISATION des NATIONS UNIES certifie par la présente que l'accord international indiqué été enregistré au Secrétartat No. 22513. FRANCE AND FEDERAL REPUBLIC OF GERMANY: Som…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810111_100_s1.pdf",
+  "source_filename": "tra19810111_100_s1.pdf",
+  "source_sha256": "ad5b21f00b537cdfc12c9362374b608f5c8f3b590f8b6be9a9e4b69d933a97a6",
+  "treaty_id": "TRA19810111",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES\n\nNo. 30681\n\nCERTIFICATE of REGISTRATION\n\nThe SECRETARY-GENERAL of the UNITED NATIONS has been registered with the\n\nArticle 102 of the Charter of\n\nCERTIFICAT d'ENREGISTREMENT\n\nLe SECRETAIRE GENERAL de T'ORGANISATION des NATIONS UNIES certifie par la présente que l'accord international indiqué été enregistré au Secrétartat\n\nNo. 22513. FRANCE AND FEDERAL REPUBLIC OF GERMANY:\n\nSomal security contributtons. gmed at Paris ont 26 may\n\non 26 May\n\nRegistered by France_on 13 Deçember 1983.\n\nNo 22513. FRANCE ET REPUBLIQUE FEDERALE D'ALLEMAGNE :\n\nrecouvrement\n\nforcé de\n\nSigné à Parts\n\nle 26 mat\n\nEnregistré par la France le 13 décembre. 1983.\n\nDone at New York on 12 March\n\n1987\n\nFor the SECRETARY-GENERAL\n\nUNITED\n\nNATIONS\n\nLe Conseiller juridique:\n\nFait à New York le 12 mars\n\n1987\n\nPour le SECRETAIRE GENERAL\n\nThe Legal Counsel\n\nUNIES",
+      "quality_score": 0.9417,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19810127_011_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.609681,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.575489,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19820085_008_s1",
+      "title": "Certificat de l'enregistrement no 24657",
+      "score": 0.458099,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.455493,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760088_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.455267,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.446967,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19820004_990_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.443444,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_100_s1",
+      "title": "Certificat ONU d'enregistrement de la convention",
+      "score": 0.442694,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.439539,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.438468,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

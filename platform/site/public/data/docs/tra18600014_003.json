@@ -1,0 +1,134 @@
+{
+  "document_id": "tra18600014_003",
+  "title": "Pouvoirs italiens",
+  "year": 1860,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8223,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "VEE蛩83 ROI DE SARDAIGNE er. er. et il tous aux qui les présentes lilles verront, salut: des Français Nous a exposées dans lebut dobtenir notre condentement alal runion dela Savoie et de l'arondifement de tice à la France fatoua avond nommé et parles présentes nommons and effet. Abomte Cavour. Chevalier de l'Ordre Supréme de labris Sainte Annonciade, Grand briade l'Ordre ded Saints Mauriceet Lagare, Chevalie de lOrdr…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18600014_003.pdf",
+  "source_filename": "tra18600014_003.pdf",
+  "source_sha256": "4d9a883165bf9e7f5707d6ba4200f8a04b87a331de822b3ab4e7f34aa7930338",
+  "treaty_id": "TRA18600014",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "VEE蛩83\n\nROI DE SARDAIGNE\n\ner. er. et\n\nil tous aux qui les présentes lilles verront, salut:\n\ndes Français Nous a exposées dans lebut dobtenir notre condentement alal\n\nrunion dela Savoie et\n\nde l'arondifement de tice à la France fatoua avond nommé et parles présentes nommons and effet. Abomte Cavour.\n\nChevalier de l'Ordre Supréme de labris Sainte Annonciade, Grand briade l'Ordre ded Saints Mauriceet Lagare, Chevalie de lOrdre da mirie Civildedavie, rand aia del'Ordre Impirialdela region d'honneur et de flidieuré anties Ordres étrangera, Note Crésident du\n\nConseiled Ministre des Affaires irangires, et le Chevalier charles bris Farini, Charabir de l'Ordre Supréme dela Cris SaintelAnnonciade,\n\nChevalier des Ordres des Sainte Maurice et dazare et du Mérite Civil\n\ndecavie, Notre Ministredel Interieur,\n\narrêter et stipuler avecles Plénipotentiaires de Ca Majesté,\n\nL'Empereur des Français le Graité relatif a laréunion\n\nJusdite, enteur donnant toutes les facultés nécessaires et nous réservant deleratifier dans le terme dont ilsera convenue !\n\nOn foi de quoi Nous avons digné de Notre mais les prédente",
+      "quality_score": 0.8452,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Juin b vaf quotums;\n\navond fait apposer Notre Sceau Hofal. Genne\n\njourdumois de Mard de lan\n\ndegrace Milhuit cent sorxantel.\n\n١:١٩٢\n\nw \". ..\n\nD. As cefring",
+      "quality_score": 0.7995,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra17130003_034_s1",
+      "title": "Ratification de l'article séparé par Victor-Amédée II, duc de Savoie",
+      "score": 0.403648,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_033_s1",
+      "title": "Ratification du traité par Victor-Amédée II, duc de Savoie",
+      "score": 0.386275,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18600014_001",
+      "title": "Traité",
+      "score": 0.373287,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_19_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.372209,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_027_s1",
+      "title": "Ratification du traité par Frédéric-Guillaume Ier, roi de Prusse",
+      "score": 0.371679,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19510061_003_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.369318,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18600014_011",
+      "title": "Pouvoirs italiens pour la remise de la Savoie à la France",
+      "score": 0.363318,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19510061_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.361295,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19330035_005_s1",
+      "title": "Ratification britannique",
+      "score": 0.360554,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510075_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.359525,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

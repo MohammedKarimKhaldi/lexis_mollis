@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19520040_103",
+  "title": "Note du dépositaire - signature du Venezuela",
+  "year": 1952,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9619,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Pelletier .M Ambassade de France Aux Elats - Unis FEB 1 8 1954 .-- Doasler- 89 Arclerts The Acting Secretary of State presents his compl1ments to Their Excellencies and Messieurs the Chiefs of Mission of the Governments signatory to the Treaty of Peace with Japan and has the honor to inform the Chief's of Mission that in accordance with the provisions of Article VIII of the Agreement for the Settlement of Disputes A…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19520040_103.pdf",
+  "source_filename": "tra19520040_103.pdf",
+  "source_sha256": "2a1a92354eddd994e5b204951065f50315458ec08136beb3ba0aeb079c0b25ce",
+  "treaty_id": "TRA19520040",
+  "treaty_number": "VEN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Pelletier .M\n\nAmbassade de France\n\nAux Elats - Unis\n\nFEB 1 8 1954\n\n.-- Doasler- 89\n\nArclerts\n\nThe Acting Secretary of State presents his compl1ments to Their Excellencies and Messieurs the Chiefs of\n\nMission of the Governments signatory to the Treaty of\n\nPeace with Japan and has the honor to inform the Chief's of Mission that in accordance with the provisions of\n\nArticle VIII of the Agreement for the Settlement of\n\nDisputes Arising Under Article 15(a). of the Treats of\n\nPeace with Japan, opened for signature at Washington on\n\nJune 12, 1952, that Agreement was signed on behalf of the\n\nGovernment of Venezuela on February 3, 1954 and entered into force between the Governments of Venezuela and\n\nJapan on that date.\n\nThe Acting Secretary of State would be grateful 1f each Chief of Mission would forward this information to his Government.\n\nDepartment of State,\n\nWashington, February 9, 1954.\n\nC$.B",
+      "quality_score": 0.9619,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19520040_104",
+      "title": "Note du dépositaire - entrée en vigueur de l'accord pour certains signataires",
+      "score": 0.447443,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520040_105",
+      "title": "Note du dépositaire - ouverture à la signature",
+      "score": 0.440283,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520040_102",
+      "title": "Note du dépositaire - transmission des copies certifiées conformes des traités",
+      "score": 0.427887,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr007_s1",
+      "title": "Extension de l'adhésion à Chypre et à la Jamaïque",
+      "score": 0.390223,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_439b",
+      "title": "Échange de notes entre l'Ambassade d'Italie en France et le ministère français des Affaires étrangères relatif à la date d'entrée en vigueur de l'accord: lettre française",
+      "score": 0.385566,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19470051_and001_s1",
+      "title": "Note diplomatique informant de l'adhésion andorrane et de l'adhésion de Nauru",
+      "score": 0.382827,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380028_05_s1",
+      "title": "Note verbale ajoutant l'Australie à l'accession au traité",
+      "score": 0.373919,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_733_colonies_britanniques_s1",
+      "title": "Note de l'ambassade britannique relative à l'adhésion à l'accord des territoires sous domination britannique : Chypre, Malte, Côte de l'Or, Somalie britannique, Palestine, Maurice, Etats malais fédérés, Trinidad, Malouines",
+      "score": 0.373791,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.372811,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19520040_100",
+      "title": "Accord (2nd exemplaire)",
+      "score": 0.372432,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

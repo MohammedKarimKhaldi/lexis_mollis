@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19610137_004",
+  "title": "Procès-verbal de dépôt de l'instrument français",
+  "year": 1961,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9451,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "PRINCIPAUTÉ DE MONACO SERVICE DES RELATIONS EXTÉRIEURES PROCES VERBAI de dépôt de ratification de l'Acte Additionnel à 1'Arrangement de La Haye concernant le dépôt international des dessins ou modèles industriels du 6 novembre 1925, revisé à Londres le 2 juin 1934, signé à Monaco le 18 novembre 1961. Par lettre en date du 12 avril 1962 adressée à S. Exc. le Ministre d'Etat de la Principauté de Monaco, M. le Consul G…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19610137_004.pdf",
+  "source_filename": "tra19610137_004.pdf",
+  "source_sha256": "1b3dbad0f4bd07b739a931f488379287e4405af7d7fbbf1f7cdc68068810d12c",
+  "treaty_id": "TRA19610137",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PRINCIPAUTÉ DE MONACO\n\nSERVICE DES RELATIONS EXTÉRIEURES\n\nPROCES VERBAI\n\nde dépôt de ratification\n\nde l'Acte Additionnel à 1'Arrangement de La Haye concernant le dépôt international des dessins ou modèles industriels du 6 novembre 1925, revisé à Londres le 2 juin 1934,\n\nsigné à Monaco le 18 novembre 1961.\n\nPar lettre en date du 12 avril 1962 adressée à S.\n\nExc. le Ministre d'Etat de la Principauté de Monaco, M. le\n\nConsul Général de France a transmis au Gouvernement de\n\nS.A.S. le Prince les instruments de ratification de la France de l'Acte Additionnel à 1'Arrangement de La Haye concernant le dépôt international des dessins ou modèles industriels du 6 novembre 1925, revisé à Londres le 2 juin 1934, signé à\n\nMonaco le 18 novembre 1961.\n\nLe dépôt de ces instruments a été enregistré le 13\n\navril 1962, date de réception de la lettre susvisée.\n\nPait à Monaco, le 17 avril 1962.\n\nPierre Blanchy•",
+      "quality_score": 0.9451,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_58_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.400824,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_67_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Monaco",
+      "score": 0.396593,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_28_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'acceptation du Japon",
+      "score": 0.386745,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_11_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.386417,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_mar002_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Maroc",
+      "score": 0.384508,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_024_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Belgique",
+      "score": 0.380264,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_27_s1",
+      "title": "Dépôt de l'instrument de ratification de Haïti",
+      "score": 0.38014,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_hti002_s1",
+      "title": "Procès verbal du dépôt de ratification de Haïti",
+      "score": 0.379879,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_24_s1",
+      "title": "Dépôt de procès verbal de l'instrument de ratification",
+      "score": 0.379407,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_59_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification suisse",
+      "score": 0.378785,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

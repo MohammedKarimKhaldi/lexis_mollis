@@ -1,0 +1,84 @@
+{
+  "document_id": "tra19650122_325",
+  "title": "texte",
+  "year": 1965,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "quality_score": 0.9272,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE UN ACCORD PORTANT CREATION DE LA BANQUE ASIATIQUE DE DEVELOPPEMENT ADOPTE LE 4 DECEMBRE 1965 AYANT ETE OUVERT A L'ADHESION DES PAYS MEMBRES DE L'ORGANISATION DES NATIONS UNIES ET UNE RESOLUTION DU CONSEIL DES GOUVERNEURS DE LA BANQUE ASIATIQUE DE DEVELOPPEMENT ADMETTANT LA FRANCE COMME MEMBRE AYANT ETE ADOPTEE LE 25 MARS 1970, ACCORD ET RESOLUTION DONT LES TENEURS SUIVENT :…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19650122_325.pdf",
+  "source_filename": "tra19650122_325.pdf",
+  "source_sha256": "d5b5593a09b8773cdb65c9853016c1c0e96fc45c3d91fe5e688555f8561c6258",
+  "treaty_id": "TRA19650135",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nUN ACCORD PORTANT CREATION DE LA\n\nBANQUE ASIATIQUE DE DEVELOPPEMENT ADOPTE LE\n\n4 DECEMBRE 1965 AYANT ETE OUVERT A L'ADHESION DES\n\nPAYS MEMBRES DE L'ORGANISATION DES NATIONS UNIES\n\nET\n\nUNE RESOLUTION DU CONSEIL DES\n\nGOUVERNEURS DE LA BANQUE ASIATIQUE DE DEVELOPPEMENT\n\nADMETTANT LA FRANCE COMME MEMBRE AYANT ETE ADOPTEE\n\nLE 25 MARS 1970,\n\nACCORD ET RESOLUTION DONT LES TENEURS SUIVENT :",
+      "quality_score": 0.9715,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "AYANT VU ET EXAMINE L'ACCORD PORTANT\n\nCREATION DE LA BANQUE ASIATIQUE DE DEVELOPPEMENT\n\nADOPTE LE 4 DECEMBRE 1965 A MANILLE ET LA RESOLUTION\n\nDU CONSEIL DES GOUVERNEURS DE LA BANQUE ASIATIQUE DE\n\nDEVELOPPEMENT ADOPTEE LE 25 MARS 1970.\n\nDECLARE\n\n- ADHERER A L'ACCORD SOUS LA RESERVE SUIVANTE :\n\n\" LE GOUVERNEMENT FRANCAIS, EN APPLICATION DE L'ARTICLE\n\n56 PARAGRAPHE 2 DUDIT ACCORD, SE RESERVE DE PERCEVOIR\n\nL'IMPOT CONFORMEMENT A LA LEGISLATION FRANCAISE SUR LES\n\nTRAITEMENTS ET EMOLUMENTS PAYES PAR LA BANQUE AUX\n\nRESSORTISSANTS FRANCAIS. \"\n\n- ACCEPTER TOUS LES TERMES ET CONDITIONS DE LA RESOLU-\n\nTION\n\n- AVOIR PRIS TOUTES MESURES NECESSAIRES POUR LUI PERMETTRE\n\nDE REMPLIR TOUTES LES OBLIGATIONS PREVUES PAR LES STATUTS\n\nET LA RESOLUTION ET S'ENGAGER A FOURNIR A LA BANQUE\n\nTOUTES INDICATIONS QUE CETTE DERNIERE POURRAIT LUI\n\nDEMANDER EN CE DOMAINE.\n\nA PARIS, LE 9 JUILLET 1970\n\nLE MINISTRE DES AFFAIRES ETRANGERES\n\nSigné : Maurice SCHUMANN",
+      "quality_score": 0.9629,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "-4 SEP. 1970\n\nPOUR COPIE CERTIFIEE CONFORME :\n\nLe Ministre",
+      "quality_score": 0.8472,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19650122_326",
+      "title": "France - Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.36484,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

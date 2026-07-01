@@ -1,0 +1,116 @@
+{
+  "document_id": "19200016_795_s1",
+  "title": "Pouvoirs serbes-croates-slovènes",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9142,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "mano Fu im Au nom de Sa Majesté PIRREEI par la grêce de Dieu et la volonté nationale Roi des Serbes ,Crogtes et Slovanes NOUS ALEXANDRE HERITIER DU TRONE et revétus de Notre sceau crficisi,Kons leur Mathéas BOCHEOVITCH ,délégué à ia Commission des Réparations,a l'effet de procéder au dépot de la ratification sur le Traité de Paix conclu entre lea Puts- Bsnces alliées et associôes st la Hongrie , Protocole et Déclara…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200016_795_s1.pdf",
+  "source_filename": "19200016_795_s1.pdf",
+  "source_sha256": "fe43c9ca00c637481ec15e3f6f03690e162f1e79613168422f8aecd1c8e3355a",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "795",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "mano Fu im\n\nAu nom de Sa Majesté\n\nPIRREEI\n\npar la grêce de Dieu et la volonté nationale\n\nRoi des Serbes ,Crogtes et Slovanes\n\nNOUS\n\nALEXANDRE HERITIER DU TRONE\n\net revétus de Notre sceau crficisi,Kons leur Mathéas BOCHEOVITCH ,délégué à ia Commission des Réparations,a l'effet de procéder au dépot de la ratification sur le Traité de Paix conclu entre lea Puts- Bsnces alliées et associôes st la Hongrie , Protocole et Déclaration, signé le 4 juin 1920 à Trianon,\n\nDonné à Selgrads,le as” ffeeq- mil-neuf-cent-vingt et un.\n\nNommons par les présents pleins pouvoirs,signés de Notre main\n\nLe Président du Conseil,\n\nMinistre des Affaires Etrangères,\n\nVy, P Pachy le\n\nLo",
+      "quality_score": 0.9142,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200070_795_s1",
+      "title": "Pouvoirs Serbes-Croates-Slovènes",
+      "score": 0.603263,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_796_s1",
+      "title": "Instrument de ratification serbe-croate-slovène",
+      "score": 0.408436,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_797_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919",
+      "score": 0.402586,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200047_060_s1",
+      "title": "Pouvoirs arméniens de signature du Traité de Paix et de tous documents de la Conférence de la Paix ou des Gouvernements alliés concernant le règlement de la question arménienne",
+      "score": 0.370202,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_095",
+      "title": "Pouvoirs belges",
+      "score": 0.370061,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.369874,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_520",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.36792,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.367858,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_40_s1",
+      "title": "Pouvoirs de signature du Luxembourg",
+      "score": 0.366231,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_520a_s1",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.365536,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

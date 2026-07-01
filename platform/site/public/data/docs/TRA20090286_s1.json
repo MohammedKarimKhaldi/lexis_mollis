@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20090286_s1",
+  "title": "Accord",
+  "year": 2009,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9707,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "TROISIÈME PROCÈS-VERBAL DE RECTIFICATION DU TRAITÉ D'AMSTERDAM MODIFIANT LE TRAITÉ SUR L'UNION EUROPÉENNE, LES TRAITÉS INSTITUANT LES COMMUNAUTÉS EUROPÉENNES ET CERTAINS ACTES CONNEXES, SIGNÉ À AMSTERDAM LE 2 OCTOBRE 1997 Attendu qu'une erreur a été relevée dans le texte original de la version italienne du traité d'Amsterdam modifiant le traité sur l'Union européenne, les traités instituant les Communautés européenn…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20090286_s1.pdf",
+  "source_filename": "TRA20090286_s1.pdf",
+  "source_sha256": "8f766cf11b9d21d93fa243a0a9c555790f2e02069637976a0adb4cead98c5e8a",
+  "treaty_id": "TRA20090286",
+  "treaty_number": "01",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TROISIÈME PROCÈS-VERBAL DE RECTIFICATION\n\nDU TRAITÉ D'AMSTERDAM\n\nMODIFIANT LE TRAITÉ SUR L'UNION EUROPÉENNE,\n\nLES TRAITÉS INSTITUANT LES COMMUNAUTÉS EUROPÉENNES\n\nET CERTAINS ACTES CONNEXES,\n\nSIGNÉ À AMSTERDAM LE 2 OCTOBRE 1997\n\nAttendu qu'une erreur a été relevée dans le texte original de la version italienne du traité d'Amsterdam modifiant le traité sur l'Union européenne, les traités instituant les Communautés européennes, et certains actes connexes, signé à Amsterdam le 2 octobre 1997 et dont le gouvernement de la République italienne est dépositaire;\n\nattendu que cette erreur a été portée à la connaissance des États signataires du traité par lettre du jurisconsulte du Conseil de l'Union européenne aux représentants permanents des États membres de l'Union européenne en date du 17 novembre 2009;\n\nattendu que les États signataires n'ont pas formulé d'objections à l'encontre de la correction proposée dans cette lettre avant l'expiration du délai y indiqué;\n\nil a été procédé aujourd'hui, au ministère des affaires étrangères de la République italienne, à la rectification de cette erreur dans le sens indiqué en annexe.\n\nEn foi de quoi, le présent procès-verbal a été établi, dont copie sera adressée aux gouvernements des\n\nÉtats signataires dudit traité.\n\nPV3/AMSTERDAM/fr 1",
+      "quality_score": 0.9707,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20100139_s1",
+      "title": "Accord",
+      "score": 0.759095,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100141_s1",
+      "title": "Accord",
+      "score": 0.750746,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20131111_001_s1",
+      "title": "Texte du procès-verbal",
+      "score": 0.381405,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100322_102_s1",
+      "title": "Procès-verbal",
+      "score": 0.365846,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_001_s1",
+      "title": "Accord et annexe",
+      "score": 0.363528,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_27_s1",
+      "title": "Pouvoirs de signature de la Grèce",
+      "score": 0.360544,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20120816_001_s1",
+      "title": "Accord",
+      "score": 0.357629,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19500001_000015_s1",
+      "title": "Protocole no 15 portant amendement",
+      "score": 0.353289,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_24_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Egypte",
+      "score": 0.352772,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960312_010_s1",
+      "title": "Accord (version française modifée en 2011)",
+      "score": 0.352504,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

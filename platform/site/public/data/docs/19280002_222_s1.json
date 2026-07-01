@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_222_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9674,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 222 ВАЗИРИ КОРХОИ ХОРИЧИИ ЧУМХУРИИ ТОЧИКИСТОН MINISTER OF FOREIGN AFFAIRS REPUBLIC OF TAJIKISTAN INSTRUMENT OF ACCESSION WHEREAS the Convention relating to International Exhibitions was done at Paris on 22 November 1928; WHEREAS the Convention was amended and supplemented by the Protocol of 30 November 1972, the Amendments of 24 June 1982 and 31 May 1988; AND WHEREAS Article 3 of the said Protocol provides…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_222_s1.pdf",
+  "source_filename": "19280002_222_s1.pdf",
+  "source_sha256": "05d3d122c7e23732654b07a42675ebe013bd3f0023fd249a186bd5abde9edbe6",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "TJK001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 222",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "ВАЗИРИ КОРХОИ ХОРИЧИИ\n\nЧУМХУРИИ ТОЧИКИСТОН\n\nMINISTER OF FOREIGN AFFAIRS\n\nREPUBLIC OF TAJIKISTAN\n\nINSTRUMENT OF ACCESSION\n\nWHEREAS the Convention relating to International Exhibitions was done at\n\nParis on 22 November 1928;\n\nWHEREAS the Convention was amended and supplemented by the Protocol of 30 November 1972, the Amendments of 24 June 1982 and 31 May 1988;\n\nAND WHEREAS Article 3 of the said Protocol provides that the Protocol shall remain open for accession by Governments Parties to the 1928 Convention after 29\n\nNovember 1973;\n\nNOW THEREFORE, the Government of the Republic of Tajikistan, hereby accedes to the 1928 Convention and the 1972 Protocol, including the Amendments of 24 June 1982 and 31 May 1988, and undertakes faithfully to fulfill and carry out all provisions therein contained.\n\nIN WITNESS WHEREOF, I, Hamrokhon ZARIFI, Minister of Foreign Affairs of the Republic of Tajikistan, have signed this Instrument of Accession and caused the\n\nSeal of the Ministry o f Foreign A ffairs of the Republic o f Tajikistan to be hereunto affixed.\n\nDone at Dushanbe on the fifteenth day of November in the year of two thousand and seven.\n\nHamrokhon ZARIFI",
+      "quality_score": 0.9916,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_225_s1",
+      "title": "Instrument d'adhésion du Timor oriental",
+      "score": 0.850661,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_220_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.842283,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.837422,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_226_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.837029,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_79_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.812843,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_208_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.810488,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_230_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.805227,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hnd001_s1",
+      "title": "Instrument d'adhésion du Honduras",
+      "score": 0.798017,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_70_s1",
+      "title": "Instrument d'adhésion des Fidji",
+      "score": 0.77972,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.773301,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

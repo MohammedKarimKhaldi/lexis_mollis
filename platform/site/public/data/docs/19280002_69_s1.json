@@ -1,0 +1,139 @@
+{
+  "document_id": "19280002_69_s1",
+  "title": "Lettre portant dénonciation",
+  "year": 1928,
+  "doc_type": "Lettre",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9516,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 69 | | . a BS ps | EMBASSY OF THE — n UNITED STATES OF AMERICA ASIA ETS 28 AVR. LA ER — > VM MÀ 3 Paris, là 26 avril 2001 ae vum —— -9 MA! 2001 Monsieur le Ministre, Nous avons requ la lettre ci-jointe que le Secrétaire d'Etat Colin L. Powell nous a demandé de vous faire parvenir. Je vous prie de bien vouloir agréer, Monsieur le Ministre, l'expression de ma haute considération. e ol Douglas L. McElhaney Cha…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_69_s1.pdf",
+  "source_filename": "19280002_69_s1.pdf",
+  "source_sha256": "695049628577f7abf0dff771da4f924d3426986aae97c1555f23520bbacccd28",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "USA003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 69",
+      "quality_score": 0.9434,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "| | . a\n\nBS ps |\n\nEMBASSY OF THE — n\n\nUNITED STATES OF AMERICA\n\nASIA ETS\n\n28 AVR. LA ER\n\n— > VM MÀ\n\n3 Paris, là 26 avril 2001 ae vum ——\n\n-9 MA! 2001\n\nMonsieur le Ministre,\n\nNous avons requ la lettre ci-jointe que le Secrétaire d'Etat Colin L. Powell nous a demandé de vous faire parvenir.\n\nJe vous prie de bien vouloir agréer, Monsieur le\n\nMinistre, l'expression de ma haute considération.\n\ne ol\n\nDouglas L. McElhaney\n\nChargé d'Affaires ad in rim\n\nAnnexe:\n\nLettre\n\nSon Excellence\n\nMonsieur Hubert Védrine\n\nMinistre des Affaires étrangéres 37, quai d'Orsay 75007 Paris\n\nin».\n\nSy\n\nCA\n\nC",
+      "quality_score": 0.9411,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "THE SECRETARY OF STATE\n\nWASHINGTON\n\nAPI11 1U, LUU1\n\nDear Mr. Minister:|\n\nhis letter constitutes notification by the Governmen\n\nI the United States of America of its denunciation of th\n\nConvention as amended and supplemented, effective one year after the date of receipt of this notification pursuant to\n\nArticle 37 of the Convention.\n\nSincerely,\n\nColin I. Powell\n\nHis Excellency\n\nHubert Vedrine,\n\nMinister of Foreign Affairs of the French Republic,\n\nParis.",
+      "quality_score": 0.9704,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_66_s1",
+      "title": "Instrument de ratification",
+      "score": 0.819892,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.818855,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_68_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.818454,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_65_s1",
+      "title": "Pouvoirs pour la ratification de la convention",
+      "score": 0.773179,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_76_s1",
+      "title": "Instrument d'adhésion de la Gambie",
+      "score": 0.710599,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_79_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.707371,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.696848,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_169_s1",
+      "title": "Instrument de ratification",
+      "score": 0.696613,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.694691,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.690248,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

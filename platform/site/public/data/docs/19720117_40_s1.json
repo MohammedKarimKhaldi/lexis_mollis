@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_40_s1",
+  "title": "Pouvoirs de signature du Danemark",
+  "year": 1972,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9806,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PIBINS POUVOIRS Je soussigné, IVAR NØRGAARD, Ministre danois des Affaires de l'Economie extérieure, autorise par les présentes M. Poul Assam, chevalier de l'ordre du Dannebrog, chef de bureau au Fonds économique et conmercial du Danemark à signer, sous réserve de ratification, le protocole ouvert à la signature à Paris, le 30 novembre 1972, apportant des modifica- tions à la convention concernant les expositions int…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_40_s1.pdf",
+  "source_filename": "19720117_40_s1.pdf",
+  "source_sha256": "2825fbb9320acff430f53e4dba54205acfc143421d332789ef272e77af59edf5",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "255",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PIBINS POUVOIRS\n\nJe soussigné, IVAR NØRGAARD, Ministre danois des\n\nAffaires de l'Economie extérieure, autorise par les présentes M. Poul Assam, chevalier de l'ordre du\n\nDannebrog, chef de bureau au Fonds économique et conmercial du Danemark à signer, sous réserve de ratification, le protocole ouvert à la signature à\n\nParis, le 30 novembre 1972, apportant des modifica- tions à la convention concernant les expositions internationales, signée à Paris le 22 novembre 1928.\n\nCopenhague, le 22 novembre 1972.",
+      "quality_score": 0.9806,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_18_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.411668,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.40173,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.392552,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_21_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Belgique",
+      "score": 0.385447,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_56_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.383346,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_05_s1",
+      "title": "Extension de la validité de la convention au Land de Berlin",
+      "score": 0.383159,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_97_s1",
+      "title": "Pouvoirs de signature de la Suède",
+      "score": 0.376657,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_76_s1",
+      "title": "Note verbale d'accompagnement des pouvoirs de signature",
+      "score": 0.373729,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_51_s1",
+      "title": "Pouvoirs de signature hongrois",
+      "score": 0.372889,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_42_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.369017,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

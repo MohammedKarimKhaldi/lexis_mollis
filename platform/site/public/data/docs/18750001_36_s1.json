@@ -61,5 +61,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19200032_31_s1",
+      "title": "Instrument de ratification monégasque",
+      "score": 0.391882,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_31_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.388304,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_48_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.388095,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19520029_005_s1",
+      "title": "Instrument monégasque",
+      "score": 0.384844,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_35_s1",
+      "title": "Dépôt de l'instrument de ratification",
+      "score": 0.37829,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18250002_005_s1",
+      "title": "Instrument de ratification bavarois",
+      "score": 0.378215,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19040040_002_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.376402,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19150001_005_s1",
+      "title": "Lettres patentes portant ratification",
+      "score": 0.375916,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_731b_s1",
+      "title": "Instrument de ratification britannique de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.373103,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_436_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.3728,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

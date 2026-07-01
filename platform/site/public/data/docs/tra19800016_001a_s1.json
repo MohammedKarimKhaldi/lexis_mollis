@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19800016_001a_s1",
+  "title": "Accord (note verbale française)",
+  "year": 1980,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9955,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLIQUE FRANCAISE AMBASSADE DE FRANCE AUPRES DE LA REPUBLIQUE FEDERALE ET ISLAMIQUE DES COMORES MORONI, LE ler mars 1980 L'Ambassade de France présente ses compliments au Ministère des Affaires Etrangères et de la Coopération et a l'honneur de lui demander de bien vouloir étudier la possibilité d'étendre les dispositions de l'article II du protocole relatif au régime douanier applicable aux personnels d'assistanc…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19800016_001a_s1.pdf",
+  "source_filename": "tra19800016_001a_s1.pdf",
+  "source_sha256": "17e540a732c86a8cc73c97cbf7ca0eae689a39d750c3d5f19dfce752b1baf9c9",
+  "treaty_id": "TRA19800016",
+  "treaty_number": "001a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLIQUE FRANCAISE\n\nAMBASSADE DE FRANCE\n\nAUPRES DE LA REPUBLIQUE FEDERALE\n\nET ISLAMIQUE DES COMORES\n\nMORONI, LE\n\nler mars 1980\n\nL'Ambassade de France présente ses compliments\n\nau Ministère des Affaires Etrangères et de la Coopération et a l'honneur de lui demander de bien vouloir étudier la possibilité d'étendre les dispositions de l'article II du protocole relatif au régime douanier applicable aux personnels d'assistance technique - inclus dans les accords de coopération franco-comoriens du 10 novembre 1978 - a l'achat d'un congélateur.\n\nC'est à la demande des coopérants français en\n\nbutte à des problèmes d'approvisionnement et de stockage de denrées périssables, destinées en partie aux enfants (laitage, fromages), que cette reguête, qui parait fondée, est introduite.\n\ncette requête n'a pas été soumise plut tôt\n\naux autorités comoriennes, cette Ambassade ayant voulu préalablement apprécier les possibilités du marché local et de l'approvisionnement en denrées importées, notamment la fréquence et l'importance de ces importations.\n\nL'accord des instances gouvernenentales a\n\nl'acquisition en franchise de cet appareil peut aisément se concevoir comme une participation des autorités de la\n\nRépublique Fédérale Islamique des Comores à l'effort financier consenti par le gouvernement Français pour équiper les Iogements des coopérants.",
+      "quality_score": 0.999,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "-2-\n\nDans 1 'hypothèse où cette requête serait\n\nagréée, un échange de lettres entre les deux gouvernements concrétiserait cette nouvelle disposition.\n\nL'Ambassade de France saisit cette occasion\n\npour renouveler au Ministère des Affaires Etrangères et de la Coopération les assurances de sa très haute considération./.\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nET DE LA COOPERATION.\n\nCopie certifiée conforme à l'original a Moroni le 15 Juillet 1980./•\n\nPierre SAZARIN, - Ambassadeur de France à Moroni.",
+      "quality_score": 0.9921,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19800016_001b_s1",
+      "title": "Accord (note verbale comorienne)",
+      "score": 0.380531,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830019_001_s1",
+      "title": "Avenant à la convention relative au concours en personnel apporté par la République française au fonctionnement des services publics de la République fédérale islamique des Comores signée à Paris le 10 novembre 1978",
+      "score": 0.372208,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690014_010_s1",
+      "title": "Texte de la partie sud-africaine de l'échange de notes",
+      "score": 0.371084,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_103",
+      "title": "Echange de notes relatif à Guernesey",
+      "score": 0.368352,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740038_100",
+      "title": "Échange de lettres rectificatif: lettre française",
+      "score": 0.367795,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740038_101",
+      "title": "Échange de lettres rectificatif: lettre congolaise",
+      "score": 0.367795,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690014_001_s1",
+      "title": "Texte de la partie française de l'échange de notes",
+      "score": 0.367614,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_102",
+      "title": "Échange de notes relatif à Sercq",
+      "score": 0.363451,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_100",
+      "title": "Échange de notes sur l'accès",
+      "score": 0.363364,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_011_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.358626,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

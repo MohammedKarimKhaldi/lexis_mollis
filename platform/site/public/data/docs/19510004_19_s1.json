@@ -1,0 +1,116 @@
+{
+  "document_id": "19510004_19_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification",
+  "year": 1951,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9744,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES VERBAL DU DEPOT DE RATIFICATIONS SUR LA CONVENTION POUR L'ETABLISSEMENT DE L'ORGANISATION EUROPEENNE POUR LA PROTECTION DES PLANTES, SIGNEE A PARIS LE I8 AVRIL I95I ーパーハーバーバーバー：ー：ー Son Excellence Monsleur le Baron Jules GUILLAUME, Ambassadeur Extraordinalre et Plénipotentiaire de Belgique s'est présenté aujourd'hul au Ministère des Affalres Etran- gères pour procéder avec Monsiour Alexandro PARODI, Ambas- sad…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_19_s1.pdf",
+  "source_filename": "19510004_19_s1.pdf",
+  "source_sha256": "a90d575e55d4abdaee7ef20c9535c5e3c447e35a8ba114f27f19db253901aa07",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "BEL003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES VERBAL\n\nDU DEPOT DE RATIFICATIONS SUR LA CONVENTION POUR L'ETABLISSEMENT DE\n\nL'ORGANISATION EUROPEENNE POUR LA PROTECTION DES PLANTES, SIGNEE A\n\nPARIS LE I8 AVRIL I95I\n\nーパーハーバーバーバー：ー：ー\n\nSon Excellence Monsleur le Baron Jules GUILLAUME,\n\nAmbassadeur Extraordinalre et Plénipotentiaire de Belgique s'est présenté aujourd'hul au Ministère des Affalres Etran- gères pour procéder avec Monsiour Alexandro PARODI, Ambas- sadeur de France, Secrétaire Général du Ministèro des Affaires\n\nEtrangères, agissant au nom du Ministre des Affaires Etran- gères, au dépôt des Ratifications de la Belgiquo sur la\n\nConvention pour 1 'établissement de 1 'Orgenisation Européenne pour la protection des plantes, signéo à Paris 1o 18 avr11 1951.\n\nArchives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé lo présent\n\nProcès-Verbal, qu'11s ont revêtu de leurs cachets.\n\nFAII A PARIS, en doublo exemplaire, le MercredI 21\n\nOctobre 1953 à douze heures./.\n\na lacadi\n\n/",
+      "quality_score": 0.9744,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_38_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification irlandais",
+      "score": 0.728022,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_64_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification portugais",
+      "score": 0.666829,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_49_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification luxembourgeois",
+      "score": 0.63864,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_11_s1",
+      "title": "Dépôt de l'instrument d'adhésion de la Belgique",
+      "score": 0.604011,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_19_s1",
+      "title": "Procès-verbal du dépôt de ratification de la Finlande",
+      "score": 0.526344,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_12_s1",
+      "title": "Procès- verbal de dépôt de l'instrument de ratification ouest-allemand",
+      "score": 0.435787,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_30_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification grec",
+      "score": 0.421411,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.396535,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_74_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Turquie",
+      "score": 0.388925,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.379011,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

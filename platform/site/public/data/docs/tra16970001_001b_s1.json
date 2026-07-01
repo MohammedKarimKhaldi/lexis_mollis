@@ -1,0 +1,151 @@
+{
+  "document_id": "tra16970001_001b_s1",
+  "title": "Article séparé",
+  "year": 1697,
+  "doc_type": "Autre",
+  "languages": [
+    "es",
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.8638,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": ". Ministère des Affaires étrangères - Direction des Archives - Conservation des Traités Multilatéraux 16970001 ESPAGNE Traité de paix.- Ryswick, 20 septembre 1697. • Article séparé.- Ryswick, 20 septembre 1697. Original en espagnol.- Feuillet papier.- 2 cachets de cire rouge. artido separé ligne a O t Risnick bhoetoy\" articulo intelafinuckne separado, demas delo quese ha Conclubáo, vestibuta por el tratádo de lax he…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16970001_001b_s1.pdf",
+  "source_filename": "tra16970001_001b_s1.pdf",
+  "source_sha256": "a6735cc8d4db5e56b269d969c8a780692407ee47837c7af967d2263321fadce9",
+  "treaty_id": "TRA16970001",
+  "treaty_number": "001B",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ".\n\nMinistère des Affaires étrangères - Direction des Archives - Conservation des Traités\n\nMultilatéraux\n\n16970001\n\nESPAGNE\n\nTraité de paix.- Ryswick, 20 septembre 1697.\n\n• Article séparé.- Ryswick, 20 septembre 1697.\n\nOriginal en espagnol.- Feuillet papier.- 2 cachets de cire rouge.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "artido separé ligne a O t\n\nRisnick bhoetoy\" articulo intelafinuckne separado,\n\ndemas delo quese ha Conclubáo, vestibuta por el tratádo de lax hecho entré los ombasadores Extraordinarios a benigo tene carro del señor her Cabbotico, yácio de\n\nPenor Rey Christlanhuimo eldladeos\n\nPernta!\n\nde Septiembre de mil Sers cento.\n\n-noventa y Siete, Jera Convoenrão tame ben por el presente axticito Sèganado que tenôrá la mima Fuerza, y Oirtuo como\n\nSí estuurera insexto balatra pre baiabra al diono frataão que lu tragestao\n\nCharstianisima acordará como acuerda dor este axticulo al Emberadory alim pero Lasta primero,\n\nde nouemoxe proxa\n\nmo para aceptax las Condiciones de Far\n\ndebu dectaraçon de par mexo de esto mè de Perslembre, FiJu Magestao\n\nCessanea, pel Impero, no pudieren Cober",
+      "quality_score": 0.7832,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "enellas de ótro mo do con Su Jhagestao\n\nChaistlamilma, len Casso que endicho tiembo el Emperador, vel Imberso nó acepten las leferidas Conzéciones, o, no combengan en ellas de Otra Forma\n\nCon Su Inagestao Chassbanhulma, Fon.\n\nfratado de Lax Ju pleno, ven.\n\ntexo epecto, y Será Executado Pegun\n\nIn Formay Feno, in que refueda\n\nContratenia por el Senor Les catsori co con qual quíera pretexto que lea Direc.\n\nta, ni indirectamente; en feé deto do lo quat, los. referidos Ennbar ddoxer de feo\n\nThagestad Cathoticar los de SM. Charstiamilma én Vixtro de nuestro Pode xos lesfectuos, hemo firmado este anticillo jetaxado Con nuestras fixmas Oxdi naxías y Echo ponex los Sellos de nuestras\n\nExmas enll Castillo de Listick enla\n\nExoringa de Polanda à Deinte de jeptiembre de mal fersçento unoventa\n\nlepeuro",
+      "quality_score": 0.8083,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16970001_001c_s1",
+      "title": "Déclaration rectificative de l'article 7",
+      "score": 0.820647,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001d_s1",
+      "title": "Déclaration rectificative de l'article 25",
+      "score": 0.781868,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_003_s1",
+      "title": "pouvoirs",
+      "score": 0.711503,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970010_001b_s1",
+      "title": "Article séparé",
+      "score": 0.701372,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001b_s1",
+      "title": "Article séparé",
+      "score": 0.697745,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_005a_s1",
+      "title": "Lettres patentes portant ratification du traité",
+      "score": 0.664011,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001f_s1",
+      "title": "Déclaration relative à l'application de la cessation des hostilités sur mer",
+      "score": 0.662079,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001a_s1",
+      "title": "Traité",
+      "score": 0.475225,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001c_s1",
+      "title": "Déclaration relative à l'inclusion des États italiens et suisses",
+      "score": 0.45359,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001e_s1",
+      "title": "Acte extrait du protocole de médiation relatif aux titres des plénipotentiaires britanniques",
+      "score": 0.452266,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

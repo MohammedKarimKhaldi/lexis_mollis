@@ -1,0 +1,154 @@
+{
+  "document_id": "tra17130003_032_s1",
+  "title": "Déclaration de Victor-Amédée II, duc de Savoie, pour l'inclusion au traité des trois ligues des Grisons",
+  "year": 1713,
+  "doc_type": "Déclaration",
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "quality_score": 0.794,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "1713. 14 quin. Jarrye? Didaration sonnee parte? proctavoye Victor Amedelada Neuvre le 14. Jaun vs pouol'indasion des 3. diques greed ram le traiteide procusue delaparc rec ce francoaveeda frances./ celaration dri ue de fertize fur linclusieu dog liguer griser dam ictor Ame 2 par la grace de Dieu Duc de Croite d'areetn Cauoye, et de Monterrat, Prince de Siemont, Roy de Chypre do omie par l'Articlo 17. du Iraite de Pa…",
+  "tags": [
+    "century:c18",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra17130003_032_s1.pdf",
+  "source_filename": "tra17130003_032_s1.pdf",
+  "source_sha256": "33ad325fa76fbad48bd910b463280715da71a5f2582c82e12ca38e9805d0deeb",
+  "treaty_id": "TRA17130003",
+  "treaty_number": "032",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1713.\n\n14 quin.\n\nJarrye?\n\nDidaration sonnee parte?\n\nproctavoye Victor Amedelada\n\nNeuvre le 14. Jaun vs pouol'indasion des 3. diques greed ram le traiteide procusue delaparc rec ce francoaveeda frances./",
+      "quality_score": 0.7966,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "celaration dri ue de fertize fur linclusieu dog liguer griser dam\n\nictor Ame 2 par la grace de Dieu Duc de\n\nCroite d'areetn\n\nCauoye, et de Monterrat, Prince de Siemont, Roy de Chypre do omie par l'Articlo 17. du Iraite de Paix conclu à Precht Le 1 \"Auril derrier → par les Ambassadeurs extraodinaires, et plenipotentiaires de Jamfè treschrestierre, et les nostres, il a esté conuer que tous ceux, qui. seront nommes dais l'espace de dix mois pardad eUter par nous seront compris dans ledit Iraitte pourueú que ce soit d un commun consentement, nous auons declaré et declarons par les presentes signies de noste main à la Mitres Chrestienno, que Nous nommons les trois Ligues des Frisons pour estre comprises dans le susdit Traitè et jour par elles du benefice, qui en peut reuenir, aux corditions auantages, qui y vont specifies tant pour elles, que pour Leurs Jerres\n\nPays, et bats, comme si elles y cioient expresément nommies; en foy de quay nous auons signe les presentes coubles l'une pour estre? \" remise a Jad. Miè\n\n'et l'autze aux dites Liques des Frisons, jcelles\"\n\nfair contresignes pas le Marquis de S'Iomas noste Ministra, et premier Secretaire d'Estat, et y apposer nosse deel decret Dornces ala Verrerie le 14 Juin 1713.\n\nix signè a Vrecht les\"Auril dernier ente les Ambassadeurs exodoss et.\n\nnipotentiaires de Sa Intres Chresienno etceux delit Ropouréno remis à Sao M'et aux de 'liques des Prisons",
+      "quality_score": 0.8458,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Tauu laletredem le Chue?\" dedosi; su b. friller 2 713.\n\n! ș",
+      "quality_score": 0.7397,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16970001_001a_s1",
+      "title": "Traité",
+      "score": 0.368268,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_030_s1",
+      "title": "Traité de paix entre la France et la Savoie",
+      "score": 0.366632,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16590001_001a_s1",
+      "title": "Traité (ensemble texte des pouvoirs français et espagnols) (ensemble attestation de conformité à l'original délivrée par les archives nationales)",
+      "score": 0.359403,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17630001_001_s1",
+      "title": "Accord (ensemble un article séparé) (ensemble texte des pouvoirs français, britanniques et espagnols)",
+      "score": 0.35906,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_016_s1",
+      "title": "Déclaration relative à la neutralité du duché du Luxembourg",
+      "score": 0.358648,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16970010_005b_s1",
+      "title": "Lettres patentes portant ratification de l'article séparé",
+      "score": 0.357675,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16970009_005a_s1",
+      "title": "Promesse de ratification",
+      "score": 0.357471,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_40_s1",
+      "title": "Instrument de ratification du Royaume-Uni",
+      "score": 0.357413,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_033_s1",
+      "title": "Ratification du traité par Victor-Amédée II, duc de Savoie",
+      "score": 0.356509,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_730_s1",
+      "title": "Ratification du traité et protocole du 10 septembre 1919",
+      "score": 0.354691,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

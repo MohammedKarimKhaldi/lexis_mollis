@@ -61,5 +61,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190007_46_s1",
+      "title": "Pouvoirs (Rome, janvier, mai et juin 1919) et note des autorités italiennes relative au changement de plénipotentiaires (27 mai 1919)",
+      "score": 0.382734,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.374082,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19240003_36_s1",
+      "title": "Pouvoirs de négociation et de signature de l'Italie",
+      "score": 0.37252,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.372464,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_ita001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.367228,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_030_s1",
+      "title": "Traité de paix entre la France et la Savoie",
+      "score": 0.366391,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_51_s1",
+      "title": "Pouvoirs de négociation et de signature du Royaume-Uni",
+      "score": 0.36356,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19730055_09_s1",
+      "title": "Résolution des Etats-membres du CERS/ESRO sur l'adhésion des Pays-Bas (Document sans lieu ni date)",
+      "score": 0.362317,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630134_003",
+      "title": "Pouvoirs italiens",
+      "score": 0.359741,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_smr002_s1",
+      "title": "Pouvoirs à l'ambassadeur de Saint-Marin à Paris de dépôt de l'instrument d'adhésion",
+      "score": 0.358615,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

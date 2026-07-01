@@ -1,0 +1,102 @@
+{
+  "document_id": "19190007_23_s1",
+  "title": "Dossier relatif aux pouvoirs provisoires [janvier 1919]",
+  "year": 1919,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "en",
+    "es"
+  ],
+  "quality_score": 0.8271,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "complacs por len Alfredo. Baquerixo Morena. Tresidente Constitucional de la Republica: del Brurdor, A todos los que los passentes vieren, Dalud! Yo cuanto tengo cadera comfaman me des m paton esa o destración dal demor don Enrique Dorn y de Alsios; Brocada Batesordinares y Memestro Alempotenciario de la Reu público ante los Gobiernos de Grancia y la Eran bretana, he omido en conferate como en efecto de compero las p…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_23_s1.pdf",
+  "source_filename": "19190007_23_s1.pdf",
+  "source_sha256": "24a6d5522168e3f1e82fa8a7b575f09876af430a33f2e2140bf603167df8e5f1",
+  "treaty_id": "TRA19190007",
+  "treaty_number": "286",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "complacs por len\n\nAlfredo.\n\nBaquerixo Morena.\n\nTresidente Constitucional de la Republica: del Brurdor,\n\nA todos los que los passentes vieren, Dalud!\n\nYo cuanto tengo cadera comfaman me des m paton\n\nesa o destración dal demor don Enrique Dorn y de Alsios;\n\nBrocada Batesordinares y Memestro Alempotenciario de la Reu público ante los Gobiernos de Grancia y la Eran bretana, he omido en conferate como en efecto de compero las presentes\n\nHemos Poderes para que cocina como Delegado Promisional del Subiano sualorano a las Conformnias de Pos quie deben reunirse en Paris.\n\nDados en la basa de Cobierno, en Deuto, a diex\n\nyosto de Encio de mil manecinatos dena y macares\n\nRefrendados,\n\nEl Aimiatro de Redarennes Baterionco,\n\nTorany fam",
+      "quality_score": 0.7735,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Alfredo Baquerixo Moreno residente Constitucnal de da República del Paraidos,\n\nA todos las que los presantes viaron, Saled!\n\nLa conto toros entar contando en la competencias e ilustración del semor don Enriquel Dorn) a de Melaia,\n\npresentis allenas Oledmes para dad concarsi como\n\nDetepado del Gobiorno Acuntóiano a las Conferem cina del AnInx), ritualmente) reunidas enl Pares\n\nAndos en la Carsol da Subicano, en Quito, al 3 des\n\nAbril de 1919.\n\nRofrendados.\n\nEl Ministes de buray Marmes paparle\n\nLing loca",
+      "quality_score": 0.7808,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "GONZALO ZALDUMBIDE\n\nhomier toritane de la Fegatin de laquatour\n\nLEGACION DEL ECUADOR\n\nCOP IB.\n\nSSS QUITO 232 18 LIGIO.\n\nMINISTRE EQUATEUR\n\n8I AVENUE TAGRAM PARIS.\n\nTOUS\n\nBIBS\n\nDELEGUE\n\nEQUATEUR\n\nCOBFERENCE\n\nPAIX.\n\nPOUVEZ\n\nASSISTER ZROVISOIRE ENT.\n\nMINISTRO\n\nEXT&BIORE8，",
+      "quality_score": 0.9269,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra17630001_001_s1",
+      "title": "Accord (ensemble un article séparé) (ensemble texte des pouvoirs français, britanniques et espagnols)",
+      "score": 0.364856,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_021_s1",
+      "title": "Ratification de l'article relatif à la remise des Pays-Bas espagnols par les États généraux des Provinces Unies",
+      "score": 0.35925,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_46_s1",
+      "title": "Pouvoirs (Rome, janvier, mai et juin 1919) et note des autorités italiennes relative au changement de plénipotentiaires (27 mai 1919)",
+      "score": 0.358453,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

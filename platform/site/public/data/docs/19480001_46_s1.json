@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_46_s1",
+  "title": "accusé de réception de la note verbale d'adhésion polonaise",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9371,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PhT.LL ip DIRECTION DES AFFAIRES ABMINISTRATIVES & SOCIALES L avril 1960. Unions Internationales 283/UN Le Ministère des Affaires Etrangères présente sea compliments à l'Ambassade de Pologne, et a l'honreur d'acouser réception de sa note en date du lj avril 1960 reçue le méms jour, par laquelle l'Ambassade notifie l'adhésion du Gouvernement polonais à la Convention du 22 novembre 1928 concernant les expositions inte…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_46_s1.pdf",
+  "source_filename": "19480001_46_s1.pdf",
+  "source_sha256": "03fb30727a7b279b1cafad012d2ff5efcb816b3560b89612a29b835ec516183d",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "POL007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PhT.LL\n\nip\n\nDIRECTION DES AFFAIRES\n\nABMINISTRATIVES & SOCIALES L avril 1960.\n\nUnions Internationales\n\n283/UN\n\nLe Ministère des Affaires Etrangères présente\n\nsea compliments à l'Ambassade de Pologne, et a l'honreur d'acouser réception de sa note en date du lj avril 1960 reçue le méms jour, par laquelle l'Ambassade notifie l'adhésion du Gouvernement polonais à la Convention du 22 novembre 1928 concernant les expositions internationales, et au Protocole du 10 mai 1949 portant modification à certaines dispositions de cette Conventlon.\n\n11 iui acowe également réception de l'ins-\n\ntrument de ratification ds ostte adhésion, en date du ler avril 1960, Conformément à l'article 35 d e la Convention et à l'article 5 du Protocole précités, le Gouvernement français transmet au Gouvernement des pays signataires et adhórents, la copie certifiés conforme de cetts notification, en indiquant la date à laquelle ells a ótó reque./.\n\nLe Ministère daisit cette occasion pour re-\n\nnouveler à l'Ambassade de Pologne Les assurances de 8a haute considération,\n\nAMDASSADE DE POLOGNE\n\nfea pis",
+      "quality_score": 0.9371,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_61_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.422967,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.421092,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_164_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.420807,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_049_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.418644,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.417044,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_182_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.41617,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.414828,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.412945,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.411575,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mco003_s1",
+      "title": "Note accusant réception de la notification d'adhésion",
+      "score": 0.410483,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

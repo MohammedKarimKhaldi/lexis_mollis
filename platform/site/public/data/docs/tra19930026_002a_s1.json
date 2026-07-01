@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19930026_002a_s1",
+  "title": "Pouvoirs français (délivrés à CatherineTasca)",
+  "year": 1993,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.994,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AS République Française Nº35/93 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre d'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à Madame Catherine TASCA, Secrétaire d'Etat auprès du Ministre d'Etat, Ministre des Affaires Etrangères, chargée de la Francophonie et des Relations culturelles extérieures pour signer une Convention sur la Maison du Droit entre le Gouvernement…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19930026_002a_s1.pdf",
+  "source_filename": "tra19930026_002a_s1.pdf",
+  "source_sha256": "7df2d82020612d4ccbebaa0fe6b38b125b3141ebc4ab4d2c0214bfc6526be67e",
+  "treaty_id": "TRA19930026",
+  "treaty_number": "002a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AS\n\nRépublique Française\n\nNº35/93\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre\n\nd'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes\n\nà Madame Catherine TASCA, Secrétaire d'Etat auprès du\n\nMinistre d'Etat, Ministre des Affaires Etrangères, chargée de la\n\nFrancophonie et des Relations culturelles extérieures\n\npour signer une Convention sur la Maison du Droit entre\n\nle Gouvernement de la République française et le Gouvernement de la\n\nRépublique socialiste\n\ndu Vietnam ./.\n\nFait à Paris, le 8 février 1993\n\nLe Ministre\n\nd'Etat,\n\nMinistre\n\ndes\n\nAffaires Etrangères\n\nNal Drame",
+      "quality_score": 0.9972,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "pis\n\nRipublique Transaise\n\nNº35/93\n\nPOUVOIRS\n\nAul nom du Gouvernement de la République, NOUS, Ministre\n\nd'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS\n\npar ces\n\nprésentes à Madame Catherine TASCA, Secrétaire d'Etat auprès du\n\nMinistre d'Etat, Ministre des Affaires Etrangères, chargée de la\n\nFrancophonie et des Relations culturelles extérieures\n\npour signer une Convention sur la Maison du Droit entre\n\nle Gouvernement de la République française et le Gouvernement de la\n\nRépublique socialiste du Vietnam ./.\n\nFait à Paris, le 8 février 1993\n\nLe Ministre\n\nd'Etat,\n\nMinistre\n\ndes\n\nAffaires Etrangères\n\nRal Dans",
+      "quality_score": 0.9909,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930026_002b_s1",
+      "title": "Pouvoirs français (délivrés à Michel Vauzelle)",
+      "score": 0.750128,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880302_002",
+      "title": "Pouvoirs français",
+      "score": 0.588853,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890169_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.580815,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860069_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.565529,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810034_002",
+      "title": "Pouvoirs français",
+      "score": 0.516862,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_22_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.500524,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.416215,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890267_002",
+      "title": "Pouvoirs français",
+      "score": 0.413824,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070073_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.408518,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.404614,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

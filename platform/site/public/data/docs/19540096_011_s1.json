@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_011_s1",
+  "title": "Pouvoirs ouest-allemands",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DER BUNDESKANZLER UND BUNDESMINISTER DES AUSWARTIGEN Bonn, den 14. Juni 1954 VOLLMACHI Der Leiter der Diplomatischen Vertretung der Bundes- republik Deutschland in Paris, Herr Botschafter Dr. Wilhelm Hausenstein, wird hiermit bevollmächtigt, in Nanen der Regierung der Bundesrerublik Deutschland das von Exekutivaus- schuss des Internationalen Kalteinstituts auf seinen Tagungen in Paris am 16.Oktober 1952 und 24.Novem…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_011_s1.pdf",
+  "source_filename": "19540096_011_s1.pdf",
+  "source_sha256": "6d939c46b7ac255f217a021971f0e679fd7819683b1252080913516edc9291c4",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "DEU001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DER BUNDESKANZLER\n\nUND\n\nBUNDESMINISTER DES AUSWARTIGEN\n\nBonn, den 14. Juni 1954\n\nVOLLMACHI\n\nDer Leiter der Diplomatischen Vertretung der Bundes- republik Deutschland in Paris,\n\nHerr Botschafter Dr. Wilhelm Hausenstein, wird hiermit bevollmächtigt, in Nanen der Regierung der Bundesrerublik Deutschland das von Exekutivaus- schuss des Internationalen Kalteinstituts auf seinen\n\nTagungen in Paris am 16.Oktober 1952 und 24.November 1953 angenommene Abkommen über das Internationale\n\nKälteinstitut zu unterzeichnen.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_030_s1",
+      "title": "Pouvoirs allemands pour la ratification de la convention",
+      "score": 0.395481,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.390097,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.386302,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_04_s1",
+      "title": "Pouvoir de signature de la ratification",
+      "score": 0.382501,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600202_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.377289,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_005_s1",
+      "title": "Instrument allemand/copie conforme signée par le directeur des Affaires juridiques du ministère des Affaires étrangères allemand et Protocole d'échange des notifications entre le Chancelier Konrad Adenauer et le président de la République René Coty",
+      "score": 0.376028,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.369691,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_49_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.366093,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_071_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.36534,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19750012_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.363105,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

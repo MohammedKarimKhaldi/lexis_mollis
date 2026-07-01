@@ -1,0 +1,65 @@
+{
+  "document_id": "tra19200067_100_s1",
+  "title": "Deux fiches manuscrites d'explications sur le texte de l'accord, ses signataires et son versement aux archives",
+  "year": 1920,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8014,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "vese à la catamas sign à Copenha que a reconnaidlance de L'V.R.Ss bar la Fruce inte le 29oct obr 1$24., a qui elfolique l'accord spergil que j'ai 19 a mentionne Paris, Moscou, 1974.71 49. mais C'était avec 4013567411524 et nm à lacollecton des Traite Voi 2 fich L'accou est signi par Litrinco qui etait aloit à ta tété d'une deliga. En scrétique encagee 'occuper spécialement des rapatriements Ilfut signe pour la Franc…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200067_100_s1.pdf",
+  "source_filename": "tra19200067_100_s1.pdf",
+  "source_sha256": "210aa35db6447c55f6b7ee440ecacf111b99420434db49be9aa42e9b171ae38b",
+  "treaty_id": "TRA19200067",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "vese à la catamas sign à Copenha que\n\na reconnaidlance de L'V.R.Ss bar la Fruce inte le 29oct obr 1$24., a qui elfolique\n\nl'accord spergil que j'ai\n\n19 a mentionne\n\nParis, Moscou, 1974.71\n\n49. mais C'était avec 4013567411524\n\net nm à lacollecton des Traite Voi 2 fich",
+      "quality_score": 0.7827,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "L'accou est signi par\n\nLitrinco\n\nqui etait\n\naloit à ta tété d'une deliga.\n\nEn scrétique encagee 'occuper spécialement des rapatriements\n\nIlfut signe pour la France parduchesne, ancien ondul qui n'avait par de caractèr diptomatique.\n\nl'accord n'en det pas moni applique on secrinaistance des 192,4 l'antacutifia de oact\n\nIl me semble qu'il a ta place à la valle ses Tiaites",
+      "quality_score": 0.8202,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

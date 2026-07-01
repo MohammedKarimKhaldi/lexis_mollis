@@ -1,0 +1,147 @@
+{
+  "document_id": "tra19930199_005_s1",
+  "title": "Instrument ouzbèke",
+  "year": 1993,
+  "doc_type": "Autre",
+  "languages": [
+    "bg",
+    "mk"
+  ],
+  "quality_score": 0.8738,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "є 9 Узбекистон Республикасининг К Президенти маълум қиладики, Ўзбекистон Республикаси Олий Кенгаши 1993 йил 29 декабрдаги Қарори билан қуйидаги ҳужжатни ратификация қилди: Ўзбекистон Республикаси ва Франция Республикаси ўртасида дӱстлик ва ҳамкорлик тўғрисида ШАРТНОМА Ў 3беќистон Республиќасинина 91 редиденти баён этилган Шартномага оғишмай ва халол амал {илинишини билдиради. бутин тасдиғи ўлађоћ, 9 3беЌистон Феспуб…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19930199_005_s1.pdf",
+  "source_filename": "tra19930199_005_s1.pdf",
+  "source_sha256": "e2337a6b47c32f409c80ea1930edc7c2d8c6c9a6387702a926d5336b80085232",
+  "treaty_id": "TRA19930199",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "є 9\n\nУзбекистон\n\nРеспубликасининг К\n\nПрезиденти маълум қиладики,",
+      "quality_score": 0.8568,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "bg"
+      ],
+      "review_reasons": [
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Ўзбекистон Республикаси Олий Кенгаши 1993 йил 29 декабрдаги Қарори билан қуйидаги ҳужжатни\n\nратификация қилди:\n\nЎзбекистон Республикаси ва Франция Республикаси ўртасида дӱстлик ва ҳамкорлик тўғрисида\n\nШАРТНОМА",
+      "quality_score": 0.9706,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "bg"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Ў 3беќистон Республиќасинина 91 редиденти баён этилган Шартномага оғишмай ва халол амал {илинишини билдиради.\n\nбутин тасдиғи ўлађоћ, 9 3беЌистон Феспублиќасининг 77 реЗиденти ушду брлини имЗолади ва унга мудф восдн.\n\nТошкент\n\n« {5 » ОДЬ 1994 ЙИЛ\n\nЁ\n\n1\n\nЎзбекистон Республикас\n\nПрезиденти И. КАРИМОВ\n\nЎзбекистон Республикаси Стана\n\nТашқи ишлар вазири С. 4 ДҚОСИМОВ имзони тасдиқлади.",
+      "quality_score": 0.794,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "bg",
+        "mk"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20220081_001_s1",
+      "title": "Lettre d'intention",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240054_001_s1",
+      "title": "Accord (ensemble une annexe)",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20202797_001_s1",
+      "title": "Déclaration",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20192642_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19950165_001_s1",
+      "title": "Accord",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20080356_001_s1",
+      "title": "Protocole",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20220080_001_s1",
+      "title": "Déclaration",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20151600_001_s1",
+      "title": "Déclaration",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20192640_001_s1",
+      "title": "Déclaration",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240006_001_s1",
+      "title": "Déclaration",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    }
+  ]
+}

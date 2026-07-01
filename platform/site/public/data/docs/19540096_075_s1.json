@@ -1,0 +1,128 @@
+{
+  "document_id": "19540096_075_s1",
+  "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9958,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "WHEREAS the Government of New Zealand is a party to the International Agreement modifying the International Convention of 21 June 1920 for the Establishment of an International Institute of Refrigeration, signed on 31 May 1937 AND WHEREAS New Zealand 1s by virtue of the said Agreement a Member Country of the International Institute of Refrigeration AND WHEREAS it has been deemed necessary that a new international ag…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_075_s1.pdf",
+  "source_filename": "19540096_075_s1.pdf",
+  "source_sha256": "5ab3efd798898030e093e97e33336ce1fe0050c493b9cda8637b26db7915513c",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "655",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WHEREAS the Government of New Zealand is a party to the International Agreement modifying the International Convention of 21 June 1920 for the Establishment of an International Institute of Refrigeration, signed on 31 May 1937\n\nAND WHEREAS New Zealand 1s by virtue of the said Agreement a Member Country of the\n\nInternational Institute of Refrigeration\n\nAND WHEREAS it has been deemed necessary that a new international agreement should be established to replace the International Convention of 21 June 1920 and the International Agreement of 31 May 1937 in relations between the Member Countries\n\nAND WHEREAS the Executive Committee of the\n\nInternational Institute of Refrigeration has for that purpose drawn up and approved an Agreement concerning the International Institute of\n\nRefrigeration\n\nAND WHEREAS that Agreement is now open for signature on behalf of Member Countries\n\nAND WHEREAS It is expedient that a fit person should be invested with Full Powers to sign the\n\nAgreement, in accordance with its provisions, for the Government of New Zealand\n\nI, THOMAS LACHLAN MACDONALD, Minister of\n\nExternal Affairs of New Zealand, hereby certify that Miss JANE ROBERTSON MCKENZIE C.B.E., Charge d'Affaires of New Zealand in France, 1s by these presents named, constituted and appointed to sign the said Agreement on behalf of the Government of\n\nNew Zealand",
+      "quality_score": 0.9963,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "2.\n\nAnd I further certify that the Convention when signed will, subject to ratification by the Government of New sealand, be acknowledged by the Government of\n\nNew Zealand in the fullest manner.\n\nIn witness whereof I have signed these presents and have affixed hereto the seal of the Minister of\n\nExternal Affairs of New Zealand.\n\nsigned and sealed at Wellington this twelflh 1955.\n\nday of May\n\nMinister of External Affairó of New Zealand\n\na man",
+      "quality_score": 0.9954,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_03_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.41174,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.411574,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_005_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.411538,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_idn001_s1",
+      "title": "Instrument d'adhésion de l'Indonésie",
+      "score": 0.40456,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_31_s1",
+      "title": "Instrument de ratification de la Nouvelle-Zélande",
+      "score": 0.402503,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_074_s1",
+      "title": "Déclaration de la Nouvelle-Zélande",
+      "score": 0.400469,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_077_s1",
+      "title": "Instrument de ratification de la Nouvelle-Zélande",
+      "score": 0.399654,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_655_s1",
+      "title": "Pouvoirs indiens",
+      "score": 0.396962,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.389199,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_37_s1",
+      "title": "Instrument d'adhésion de la Nouvelle-Zélande",
+      "score": 0.388493,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

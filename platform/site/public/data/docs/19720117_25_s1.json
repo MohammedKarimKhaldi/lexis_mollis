@@ -1,0 +1,129 @@
+{
+  "document_id": "19720117_25_s1",
+  "title": "Instrument de ratification de la Bolivie",
+  "year": 1928,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "quality_score": 0.9854,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassade de Boivie en France MRI-54/82 L'Ambassade de Bolivie en France présente ses compliments au Ministère des Relations Extérieures - Service du Protocole - et a 1 'honneur de préciser que 1'Instrument ci-joint signifie bien la détermination du Gouvernement bolivien d'adhérer à la Convention signée à Paris le 22 Novembre 1928, modifiée par les Protocoles du 10 Mai 1948, du 16 Novembre 1966 et du 30 Novembre 197…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_25_s1.pdf",
+  "source_filename": "19720117_25_s1.pdf",
+  "source_sha256": "f3af1f6be939d433d27422bf7ad0cfb2330779eed902a7765046d28c4db52ac8",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "BOL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassade de Boivie en France\n\nMRI-54/82\n\nL'Ambassade de Bolivie en France présente ses compliments au\n\nMinistère des Relations Extérieures - Service du Protocole - et a 1 'honneur de préciser que 1'Instrument ci-joint signifie bien la détermination du Gouvernement bolivien d'adhérer à la Convention signée à Paris le 22 Novembre 1928, modifiée par les Protocoles du 10 Mai 1948, du 16 Novembre 1966 et du 30 Novembre 1972.\n\nL'Ambassade de Bolivie en France saisit cette occasion pour renouveler au Ministère des Relations Extérieures - Service du Pro- tocole - les assurancos de sa haute considfration./ . AT.\n\nParis le 7 Décembre 1982.\n\nAJADA\n\nEN FRANCI\n\nMINISTERE DES RELATIONS EXTERIEURES\n\n- Service du Protocole - PARIS.-",
+      "quality_score": 0.9794,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "EL MINTSTRO DE RELACIONES EXTERIORES Y CULTO\n\nEn nombre y representacion del Presidente Constitucional de la Nacion, expresa su deseo de adherirse al Convenio firmado en París el 22 de noviembre de 19%o, modificado por los Protocolos de 10 de mayo de 1948, 16 de noviembre 1906 y 30 de noviembre de 19/4, para que bolivia forme parte, en consecuencia, del Bureau International de Expositions (BIE).\n\nPara el mencionado efecto, el Gobierno de Bolivia se compromete a sus cribir, por ahora, una cuota de 1.830 francos, como contribución al presupuesto de la organızacion.\n\nLa Paz ; 26 de noviembre de 1982\n\nMario VELARDE-DORADO",
+      "quality_score": 0.9914,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_mys001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.488901,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_012_s1",
+      "title": "Note verbale d'acceptation de la Bolivie",
+      "score": 0.409611,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.408694,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mlt001_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.403988,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.402469,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_037_s1",
+      "title": "Note verbale d'acceptation du Pérou",
+      "score": 0.401709,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.400462,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.400228,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_005_s1",
+      "title": "Note verbale d'acceptation de l'Afrique du Sud",
+      "score": 0.398357,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.397801,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

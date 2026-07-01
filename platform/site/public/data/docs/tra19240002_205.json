@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_205",
+  "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion colombienne",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "da",
+    "en",
+    "sv"
+  ],
+  "quality_score": 0.8499,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Wi Eustal, med e4DS SEláde Sveriges, Bötes och Jendes Fonung, göre veterligt: an som y for goto och nötigt funnit aut trada i underhandling ma átskilliga frammande regeringar om avslutando av en internationall konvention for bekämpande ao smittosamma bussjurssjukdomar och 370200 for sádont andama befullmaktigado on bud avhandlat, slutit, underteck at out ned sima insigl fisidest an honvantion, lydande ad for oid soo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_205.pdf",
+  "source_filename": "tra19240002_205.pdf",
+  "source_sha256": "d6de61f49c6f7a8eea7145ee181398aa5ce3d4ce14895541acf0e5e313782497",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "COL006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Wi Eustal, med e4DS SEláde Sveriges,\n\nBötes och Jendes Fonung, göre veterligt: an som y for goto och nötigt funnit aut trada i underhandling ma átskilliga frammande regeringar om avslutando av en internationall konvention for bekämpande ao smittosamma bussjurssjukdomar och 370200 for sádont andama befullmaktigado on bud avhandlat, slutit, underteck at out ned sima insigl",
+      "quality_score": 0.8501,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "sv"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "fisidest an honvantion, lydande ad for oid soo folje:",
+      "quality_score": 0.7939,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "da",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Outsa foua YS Senna korvention néo alla dess artiklaw, punkter och klausular volat ratificera, ila och antago, sáison VI sensamma fáirmo och i kraft au detta på det allra eftayckligasko, som sko kan, antaga, gilla och nalificira, så att Wa vad forestiande konvention mad alla sess artiklar, punktar och klausuler, innohallos och formár, uppriktigt troligen en radligen vilja och skola bálla och unofylla. Ii yttermaa vitso skidde i Saro den 20 juli 1925.\n\nin An:\n\ntostu Nottin",
+      "quality_score": 0.9057,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "sv"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200032_46_s1",
+      "title": "Instrument de ratification suédois",
+      "score": 0.424154,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_48_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.3666,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_70_s1",
+      "title": "Instrument de ratification de la Suède",
+      "score": 0.360579,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_731a_s1",
+      "title": "Instrument de ratification britannique du Traité de Paix et de 9 actes signés à Lausanne",
+      "score": 0.352602,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.352457,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

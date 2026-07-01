@@ -55,5 +55,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_57_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de Singapour",
+      "score": 0.392321,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_63_s1",
+      "title": "Transmission de la note de la Roumanie sur l'adhésion de Taïwan",
+      "score": 0.39217,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.381993,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_054_s1",
+      "title": "Note verbale de transmission de la déclaration d'acceptation de la Finlande",
+      "score": 0.38009,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_081",
+      "title": "Note verbale des autorités grecques accusant réception de la notification du dépôt de l'instrument de Bahreïn",
+      "score": 0.378482,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_020_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'acceptation de Cuba",
+      "score": 0.378375,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.378237,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.377912,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_38_s1",
+      "title": "Note verbale de transmission de l'instrument d'adhésion de la Nouvelle-Zélande",
+      "score": 0.377459,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.377451,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

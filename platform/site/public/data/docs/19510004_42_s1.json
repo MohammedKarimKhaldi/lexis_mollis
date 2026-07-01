@@ -1,0 +1,157 @@
+{
+  "document_id": "19510004_42_s1",
+  "title": "Instrument d'adhésion du Kirghizistan",
+  "year": 1951,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en",
+    "fr",
+    "id",
+    "ru"
+  ],
+  "quality_score": 0.9293,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "КЫРГЫЗ РЕСПУБЛИКАСЫНЫН ШВЕЙЦАРИЯДАГЫ ЭЛЧИлИГИ 13310004 AMBASSADE DE LA REPUBLIQUE KIRGHIZE EN SUISSE ARRIVEE-BERNE 14. 0KT. 1999 CLASSEMENT L'Ambassade de la République Kirghize en Suisse présente ses compliments à l'Ambassade de la République Française en Suisse et a l'honneur de lui présenter sa demande de transmettre les instruments de l'accession de la République Kirghize à la Convention pour l'etablissement de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_42_s1.pdf",
+  "source_filename": "19510004_42_s1.pdf",
+  "source_sha256": "4489b03efb9b712d1bbe7af68cfdf51923d1cca9abece307f672c87e46384e99",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "465",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "КЫРГЫЗ РЕСПУБЛИКАСЫНЫН\n\nШВЕЙЦАРИЯДАГЫ\n\nЭЛЧИлИГИ\n\n13310004\n\nAMBASSADE\n\nDE LA REPUBLIQUE KIRGHIZE\n\nEN SUISSE\n\nARRIVEE-BERNE\n\n14. 0KT. 1999\n\nCLASSEMENT\n\nL'Ambassade de la République Kirghize en Suisse présente ses compliments à l'Ambassade de la République Française en Suisse et a l'honneur de lui présenter sa demande de transmettre les instruments de l'accession de la République Kirghize à la\n\nConvention pour l'etablissement de l'organisation européenne et méditerranéenne pour la protection des plantes au Gouvernement de la République Française - le dépositaire de la Convention.\n\nL'Ambassade de la République Kirghize remercie d'avance l'Ambassade de la\n\nRépublique Française pour sa coopération et saisit cette occasion pour lui renouveler l'assurance de sa très haute considération.\n\nGenève, le 12 octobre 1999\n\nAnnexe: Instruments de l'accession de la République Kirghize\n\nAMBASSADE\n\nDE LA REPUBLIQUE FRANÇAISE\n\n- Berne -",
+      "quality_score": 0.9837,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "KOWYJYY TYYPAJIYY T PAMOTÁ\n\nINSTRUMENT OF ACCESSION",
+      "quality_score": 0.7867,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "id"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "ФРАНЦИЯНЫН ӨКМӨТҮНӨ\n\nҚыргыз Республикасынын Президенти Қыргыз Республикасынын Өкмөтүнүн 1999- жылдын 12-апрелиндеги № 214 токтомуна ылайык Европанын жана Жер ортолук деңизинин уюмунун Өсүмдүктөрдү коргоо боюнча Конвенцияга Қыргыз Республикасынын кошул- гандыгын жарыялайт;\n\nжана жогоруда айтылгандардын бардыгы сөзсүз жана ак ниеттүүлүк менен аткарыла тургандыгын билдирет.\n\nКыргыз Республикасынын Президенти аны күбөлөндүрүү катарында кошулуу жөнүн- дөгү ушул Грамотага кол койду.",
+      "quality_score": 0.9467,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "TO THE FRENCH GOVERNMENT\n\nThe President of the Kyrgyz Republic declares, that the Kyrgyz Republic accedes to the\n\nConvention for the establishment of European and Mediterrean plant protection Organization in accordance with the Provision of the Government of the Kyrgyz Republic N° 214 of April 17, 1999;\n\nand declares that all the set out provisions will be implemented in good faith and com- pulsorily.\n\nIn witness whereof the President oi the Kyrgyz Republic has signed this instrument of accession.\n\nPresident of the Kyrgyz Republic\n\nMinister of Foreign Affairs of the\n\nKyrgyz Republic\n\nASKAR AKAEYV\n\nШмаками\n\nMURATBEK IMANALIE\n\nBishkek * I3, _ 08 1999",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_46_s1",
+      "title": "Lettre du Président de Lituanie au 1er ministre Lionel Jospin sur l'adhésion de la Lituanie à l'OEPP",
+      "score": 0.397353,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20010080_lux002_s1",
+      "title": "Instrument de ratification",
+      "score": 0.392404,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_18_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.389205,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_861_s1",
+      "title": "Note verbale d'accompagnement de l'instrument syrien",
+      "score": 0.387076,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_042_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion coréen",
+      "score": 0.381637,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_33_s1",
+      "title": "Note verbale transmettant la lettre d'adhésion du Kazakhstan au BIPM",
+      "score": 0.380555,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.376706,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_921_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.37666,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_64_s1",
+      "title": "Transmission de la note de la Bulgarie sur l'adhésion de Taïwan",
+      "score": 0.375638,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_091_s1",
+      "title": "Note verbale d'accompagnement de l'instrument tchèque",
+      "score": 0.375395,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

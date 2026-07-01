@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_071_s1",
+  "title": "Pouvoirs de signature de la Norvège",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9489,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NOUS HAAKON ROI DE NORVEGE faisons savoir: Que Nous autorisons par les présentes Monsieur Rolf ANDVORD, Notre Ambassadeur extraordinaire et plénipotentiaire à Paris, à signer une Convention internationale faite à Paris le 1° décembre 1954, se substituant à la Convention du 21 juin 1920, modifiée le 31l mai 1937, relative à l'Institut International du Froid. Fait au Palais Royal à Oslo, le 28 mai 1955.",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_071_s1.pdf",
+  "source_filename": "19540096_071_s1.pdf",
+  "source_sha256": "4072cc68cf39a78fa2c1d071abd1503b2280835dd51d099686a496f50546b567",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "NOR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NOUS HAAKON\n\nROI DE NORVEGE\n\nfaisons savoir:\n\nQue Nous autorisons par les présentes\n\nMonsieur Rolf ANDVORD, Notre Ambassadeur extraordinaire et plénipotentiaire à Paris, à signer une Convention internationale faite à Paris le 1° décembre 1954, se substituant à la Convention du 21 juin 1920, modifiée le 31l mai 1937, relative à l'Institut International du Froid.\n\nFait au Palais Royal à Oslo, le 28 mai 1955.",
+      "quality_score": 0.9489,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_072_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.393399,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_15_s1",
+      "title": "Pouvoirs de la Finlande",
+      "score": 0.388093,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_42_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.383961,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.370737,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.368775,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_073_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Norvège",
+      "score": 0.368352,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_28_s1",
+      "title": "Instrument de ratification norvégien",
+      "score": 0.367085,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_011_s1",
+      "title": "Pouvoirs ouest-allemands",
+      "score": 0.36534,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_45_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.362994,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_11_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.360505,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

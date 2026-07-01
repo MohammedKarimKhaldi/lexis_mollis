@@ -1,0 +1,134 @@
+{
+  "document_id": "tra19710031_005_s1",
+  "title": "Instrument de ratification",
+  "year": 1971,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "quality_score": 0.7724,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "bt od Er ce 2 LN SAS rR CE I TD KA NA SN a a Ri 7 生計 科 9 EN Américo Deus Rodrigurs Comás aste n dion nesn pelo wato na Baaa Fuço sabor aos que e presonte Cirila de Confirmação e Noalificaçio vitem que foi assinada em Puri, em catoise de funeir de mil norecentes e velonte e um, e Convençiu entre Portugal e a Funças para Quitri « Duple Triuteçio e Estulolecci Peegras de Sisistência Administrativa Recípica em Meutiri d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19710031_005_s1.pdf",
+  "source_filename": "tra19710031_005_s1.pdf",
+  "source_sha256": "8f6c441b37eb91e56a6ef22e9092982d78ac7a1c31797d5244ad20f10f681323",
+  "treaty_id": "TRA19710031",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "bt od\n\nEr ce 2\n\nLN\n\nSAS\n\nrR\n\nCE\n\nI TD\n\nKA\n\nNA SN\n\na a Ri 7 生計 科 9\n\nEN",
+      "quality_score": 0.6226,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Américo Deus Rodrigurs Comás aste n dion nesn pelo wato na Baaa\n\nFuço sabor aos que e presonte Cirila de Confirmação e Noalificaçio vitem que foi assinada em Puri, em catoise de funeir de mil norecentes e velonte e um, e\n\nConvençiu entre Portugal e a Funças para Quitri « Duple Triuteçio e Estulolecci Peegras de Sisistência Administrativa Recípica em Meutiri de Impostos\n\nsalire o Pendimento.\n\nVisto, examinadi e cinielerado tele quanto se contém na oferida Coonençio, apiorada pare utilicação pelo Decreto-Eri número cento e cinco / setenta e um, puebli.\n\ncada no «Diário de Coveina», premeira scie, número setentu e dias, de vinte e seis de Meaça, é pela presente Coastes a mesma Conençio confimada e ratificala, assem no dado como em cado um dis seus alijos, e deule por firmo e vilita faria pirodurie as\n\nseus efeitos e sei incialinelmente cumpride e alserrada.\n\nEm testemunho de que a presente Cardi vai pie mim assinado e selada com o selo\n\nde Respibline Pertuguese.\n\nDula nos Puças do Goreine da Depillica, cos\n\ndainit0\n\ndias da mês\n\nde\n\nOEt13£0\n\nde mil novecentos e setente e dois\n\n15-4-47..-\n\nRui Patrício",
+      "quality_score": 0.9222,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19190006_716_s1",
+      "title": "Instrument de ratification portugais de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.379769,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18250002_005_s1",
+      "title": "Instrument de ratification bavarois",
+      "score": 0.377418,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_63_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.377397,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_715_s1",
+      "title": "Ratification du traité, protocole et déclarations annexes",
+      "score": 0.373225,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_46_s1",
+      "title": "Instrument d'adhésion du Portugal",
+      "score": 0.367725,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200016_716_s1",
+      "title": "Instrument de ratification portugais du traité, du protocole et de la déclaration",
+      "score": 0.367518,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16590001_001a_s1",
+      "title": "Traité (ensemble texte des pouvoirs français et espagnols) (ensemble attestation de conformité à l'original délivrée par les archives nationales)",
+      "score": 0.363426,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_84_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.361586,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19340016_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.359536,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_21_s1",
+      "title": "Instrument de ratification de l'Espagne",
+      "score": 0.357243,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

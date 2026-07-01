@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_021_s1",
+  "title": "Procès verbal de dépôt de l'instrument d'acceptation de Cuba",
+  "year": 1982,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9715,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT D'ACCEPTATION DE LA REPUBLIQUE DE CUBA DE L'AMENDEMENT A LA CONVENTION CONCERNANT LES EXPOSITIONS INTERNATIONALES SIGNEE A PARIS LE 22 NOVEMBRE 1928 TELLE QUE MODIFIEE PAR LE PROTOCOLE DU 30 NOVEMBRE 1972 FAIT A PARIS LE 24 JUIN 1982 Monsieur Luis CASTILLO CAMPOS chargé d'affaires a.i de la extérieures au dépôt de l'Instrument d'acceptation de la République de Cuba, de 1'Amende…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_021_s1.pdf",
+  "source_filename": "19820018_021_s1.pdf",
+  "source_sha256": "de2136acefe3fc7dbe41912f1d35c23a5427ca2be3439ac2328a46fe3030d6df",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "252",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT D'ACCEPTATION\n\nDE LA REPUBLIQUE DE CUBA\n\nDE L'AMENDEMENT A LA CONVENTION CONCERNANT\n\nLES EXPOSITIONS INTERNATIONALES\n\nSIGNEE A PARIS LE 22 NOVEMBRE 1928\n\nTELLE QUE MODIFIEE PAR LE PROTOCOLE\n\nDU 30 NOVEMBRE 1972\n\nFAIT A PARIS LE 24 JUIN 1982\n\nMonsieur Luis CASTILLO CAMPOS chargé d'affaires a.i de la\n\nextérieures au dépôt de l'Instrument d'acceptation de la République de Cuba, de 1'Amendement à la Convention concernant les Expositions\n\nInternationales, signée à Paris le 22 novembre 1928, telle que modifiée par le protocole du 30 novembre 1972, fait à Paris le 24 juin 1982.\n\nL'Instrument ayant été, après examen, trouvé en bonne et due forme, à été déposé, pour y être conservé, dans les Archives de la République française.\n\nEN FOI DE QUOI, les Soussignés ont dressé le présent\n\nProcès-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PAFIS, e n\n\ndouble\n\nle quatroze juin mil neuf cent quatre vingt trois.\n\nexemolaire\n\nTuel",
+      "quality_score": 0.9715,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion chilien",
+      "score": 0.679331,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_63_s1",
+      "title": "Notification aux ambassadeurs auprès des pays membres de l'adhésion des États-Unis",
+      "score": 0.676471,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mex003_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Mexique",
+      "score": 0.676471,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_12_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de l'Argentine",
+      "score": 0.663652,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_38_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Cuba",
+      "score": 0.659838,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.659109,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv002_s1",
+      "title": "Procès-verbal du dépôt de l'instrument d'adhésion au protocole de 1972",
+      "score": 0.652884,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_55_s1",
+      "title": "Procès verbal de dépôt de ratification de l'instrument de ratification de l'Italie",
+      "score": 0.621695,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_28_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'acceptation du Japon",
+      "score": 0.608951,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_35_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Costa Rica",
+      "score": 0.428388,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

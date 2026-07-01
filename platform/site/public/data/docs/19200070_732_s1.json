@@ -1,0 +1,128 @@
+{
+  "document_id": "19200070_732_s1",
+  "title": "Procès-verbal de dépôt de l'instrument britannique",
+  "year": 1920,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9758,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCÈS-VERBAL DU DÉPÔT DE RATIFICATIONS PAR L'EMPIRE BRITANNIQUE SUR LE TRAITÉ SIGNE À SEVRES LE 10 AOÛT 1920 Entre les, frero Unis d'Amérique, l'Empire Britannique, la France, Italie et le Japon, d'une part, la Pologne, la Rommanie, l'État Serbe-Croaie- Slovène et l'Étar Tchéco-Slovaque, d'autre part. En exéculion des clauses finales du Traité signé à Sèvres le 10 août 1920, entre les Élats-Unis d'Amérique, l'Empir…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200070_732_s1.pdf",
+  "source_filename": "19200070_732_s1.pdf",
+  "source_sha256": "4dc810ea9bf00a55389bb437678fdef50ee07b7a9d3f980508242df6e280d541",
+  "treaty_id": "TRA19200070",
+  "treaty_number": "GBR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCÈS-VERBAL\n\nDU DÉPÔT DE RATIFICATIONS PAR L'EMPIRE BRITANNIQUE\n\nSUR LE TRAITÉ\n\nSIGNE À SEVRES LE 10 AOÛT 1920\n\nEntre les, frero Unis d'Amérique, l'Empire Britannique, la France, Italie et le Japon, d'une part, la Pologne, la Rommanie, l'État Serbe-Croaie- Slovène et l'Étar Tchéco-Slovaque, d'autre part.\n\nEn exéculion des clauses finales du Traité signé à Sèvres le 10 août 1920, entre les Élats-Unis d'Amérique, l'Empire britannique, la France,\n\nItalie et le Japon, d'une part, la Pologne, la Roumanie, l'Etat serbe croate-slovène et l'État tchéco-slovaque, d'autre part, le soussigné sest présenté aujourd'hui au Ministère des Affairos étrangères pour procéder au dépôt de l'instrument des Ratifications de Sa Majesté britannique sur ledit Traité el les remettre au Gouvernement de la République française.\n\nL'instrurent a été produit et ayant été, aprés examen, trouvé en bonne et due forme, a été confié au Gouvernement de la République française, pour rester déposé dans ses archives.\n\nvernet fantas diposa ans de la Prisendes prise, le cate présent dépôt.",
+      "quality_score": 0.9896,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "— 2 —\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procés-verbal et y ont apposé leurs cachets,\n\nFAIT a Paris, le vingt-six juillet 1921, à dix-huit heures.",
+      "quality_score": 0.9621,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200070_882_s1",
+      "title": "Procès-verbal de dépôt de l'instrument tchécoslovaque",
+      "score": 0.797524,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_798_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification serbe-croate-slovène",
+      "score": 0.793146,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_006_s1",
+      "title": "Procès-Verbal de dépôt des instruments de ratification de l'accord",
+      "score": 0.686501,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_882_s1",
+      "title": "Procès verbal de dépôt de l'instrument tchécoslovaque",
+      "score": 0.656614,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200069_882_s1",
+      "title": "Procès-verbal de dépôt de l'instrument techécoslovaque",
+      "score": 0.615587,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190038_02_s1",
+      "title": "Procès-verbal de dépôt des ratifications",
+      "score": 0.447629,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_352a_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.41185,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_002_s1",
+      "title": "Procès verbal de dépôt des ratifications britanniques, françaises, italiennes, japonaises, belges, roumaines, serbes-croates-slovènes, siamoises, tchécoslovaques et hongroises pour le Traité de paix, le Protocole et la Déclaration",
+      "score": 0.393304,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_631_s1",
+      "title": "Procès-verbal du dépôt de ratification du traité de paix du 10 septembre 1919",
+      "score": 0.390558,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_447_s1",
+      "title": "Procès-verbal de dépôt de l'instrument japonais",
+      "score": 0.389744,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

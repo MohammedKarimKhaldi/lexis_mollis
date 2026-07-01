@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19760092_001a_s1",
+  "title": "Lettre française",
+  "year": 1976,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9884,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Lomé, le 23 mars 1976 Monsieur le Ministre, Le paragraphe 3 do l'article III de 1'Accord de coopération dans le domaine maritime à la signature duquel nous venons de procéder stipule : \" La République togolaise accordera aux navires battant pavillon français, dans ses ports et eaux territoriales, le traitement de la nation la plus favorisée accordé aux navires des autres pays développés employés dans les transports…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760092_001a_s1.pdf",
+  "source_filename": "tra19760092_001a_s1.pdf",
+  "source_sha256": "f53a97710b3b975ec3c18fe3f152a4e328c98603648251ab9c51fa93e2b3a44a",
+  "treaty_id": "TRA19760092",
+  "treaty_number": "001a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Lomé, le 23\n\nmars 1976\n\nMonsieur le Ministre,\n\nLe paragraphe 3 do l'article III de 1'Accord\n\nde coopération dans le domaine maritime à la signature duquel nous venons de procéder stipule : \" La République togolaise accordera aux navires battant pavillon français, dans ses ports et eaux territoriales, le traitement de la nation la plus favorisée accordé aux navires des autres pays développés employés dans les transports internationnaux en ce qui concerne l'accès aux ports, la perception des droits\n\ntaxes portuaires, l'utilisation des ports\n\net toutes les commodités qu'elle accorde à la navigation et aux opérations commerciales qui en découlent pour les navires et leurs équipages, les passagers et les marchandises. Cette disposition vise notamment l'attribution des places à quai et les facilités de chargement et de déchar-\n\ngement \".\n\nJ'ai 1 'honneur de vous proposer que soient exclus\n\ndu bénéfice des dispositions de ce paragraphe les navires battant pavillon de complaisance tels que définis par la\n\nCommission des Transports Maritimes de la C.N.U.C.E.D.\n\n.../...\n\nSon Excellence,\n\nMonsieur Ayi Houenou HUNLEDE\n\nMinistre des Affaires Etrangères de la République togolaise",
+      "quality_score": 0.9907,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "- 2 -\n\nJe vous\n\nserais reconnaissant de bien vouloir\n\nme faire\n\nsavoir si ces propositions recueillent\n\nl'accord\n\nde votre gouvernement.\n\nVeuillez agréer, Monsieur\n\nle Ministre,\n\nles\n\nassurances de ma haute considération.\n\n\"Copie certifiée conforme à l'original\"\n\nà Lomé,\n\nle 23 mars 1976\n\nJean de LIPKOWSKI\n\nMinistre de la Coopération de la République française",
+      "quality_score": 0.9861,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760092_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.835264,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_006a_s1",
+      "title": "Lettre française sur une indemnité de 10 000 francs CFA aux VSN.",
+      "score": 0.434852,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_001_s1",
+      "title": "Accord",
+      "score": 0.401755,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_005_s1",
+      "title": "Ratification siamoise",
+      "score": 0.382678,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100145_s1",
+      "title": "Accord",
+      "score": 0.361066,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_001c_s1",
+      "title": "Lettre en réponse relative aux articles 3, 5 et 8",
+      "score": 0.359883,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760094_001a_s1",
+      "title": "Lettre française",
+      "score": 0.359003,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_001_s1",
+      "title": "Accord (ensemble un échange de lettres)",
+      "score": 0.358803,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_007a_s1",
+      "title": "Lettre en réponse togolaise sur l'indemnité de 10 000 francs CFA aux VSN",
+      "score": 0.358296,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910044_010",
+      "title": "Lettre suédoise",
+      "score": 0.357871,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

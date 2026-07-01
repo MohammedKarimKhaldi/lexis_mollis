@@ -1,0 +1,109 @@
+{
+  "document_id": "19200032_53_s1",
+  "title": "Pouvoirs de signature de la Tchécoslovaquie",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9072,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "em EEE APE ES LLL à PHAISTERSIVA VÉCÁ TR TE T4 1E JLE CrSKOSLOVEMSKÉ REPUBLIKY. 5.j. 16.293/20 pres. PLEIN - POUVOIR CO LE LL EE Le Gouvernement de la République Tchécoslovaque autorise par LA présente Monsieur V.C. VANfSEK, Consul Générai de la République Tchécos lovaque & Paris, & signer en son nom la Convention Internationale pour la Création, à Paris, d'un Institut International du Froid, qui doit être conclue d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_53_s1.pdf",
+  "source_filename": "19200032_53_s1.pdf",
+  "source_sha256": "344d78ea8f4c2df7b6be03d8b2709728528bb05caeb31081f44a721f2262a4f8",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "CZK001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "em EEE\n\nAPE ES LLL à\n\nPHAISTERSIVA VÉCÁ TR TE T4 1E JLE\n\nCrSKOSLOVEMSKÉ REPUBLIKY.\n\n5.j. 16.293/20 pres.\n\nPLEIN - POUVOIR\n\nCO LE LL EE\n\nLe Gouvernement de la République\n\nTchécoslovaque autorise par LA présente Monsieur\n\nV.C. VANfSEK, Consul Générai de la République\n\nTchécos lovaque & Paris, & signer en son nom la\n\nConvention Internationale pour la Création, à\n\nParis, d'un Institut International du Froid, qui doit être conclue dang la séance du 21 Juin 1920,\n\nFait à Prague, le 15 Juin 1920,\n\nPour le Gouvernement de 1a République Tohécoslovaqus\n\nMinistre dez Affaires\n\nEtrangères,",
+      "quality_score": 0.9072,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "18750001_66_s1",
+      "title": "Note de transmission de la ratification tchécoslovaque",
+      "score": 0.379748,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_082_s1",
+      "title": "Pouvoirs de signature de la Pologne",
+      "score": 0.374901,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_145",
+      "title": "Accusé de réception français de l'instrument d'adhésion du Bruneï",
+      "score": 0.371243,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_61_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.36264,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_975_s1",
+      "title": "Pouvoirs yougoslaves",
+      "score": 0.36,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_975_s1",
+      "title": "Instrument yougoslave",
+      "score": 0.355687,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_200",
+      "title": "Instrument d'adhésion",
+      "score": 0.354735,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_978_s1",
+      "title": "Procès-verbal de dépôt de l'instrument yougoslave",
+      "score": 0.352164,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_795_s1",
+      "title": "Pouvoirs Serbes-Croates-Slovènes",
+      "score": 0.352099,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

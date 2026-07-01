@@ -1,0 +1,116 @@
+{
+  "document_id": "19730055_03_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification",
+  "year": 1973,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT DE RATIFICATION DU ROYAUME DE BELGIQUE DE L'ARRANGEMENT ENTRE CERTAINS ETATS MEMBRES DE L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES ET L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES CONCERNANT L'EXECUTION D'UN PROGRAMME DE SATELLITE MARITIME FAIT A NEUILLY-SUR-SEINE LE 21 SEPTEMBRE 1973 Son Excellence, le Baron PATERNOTTE de LA VAILLEE Ambassadeur Extraordinaire et Plé…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19730055_03_s1.pdf",
+  "source_filename": "19730055_03_s1.pdf",
+  "source_sha256": "a6f9a6311ce363bb10e2957ab3cd685ccb32a0bfe710efda8e9498c79ed73aad",
+  "treaty_id": "TRA19730055",
+  "treaty_number": "BEL003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT DE RATIFICATION\n\nDU ROYAUME DE BELGIQUE\n\nDE L'ARRANGEMENT ENTRE CERTAINS ETATS MEMBRES\n\nDE L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES\n\nET L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES\n\nCONCERNANT L'EXECUTION D'UN PROGRAMME\n\nDE SATELLITE MARITIME\n\nFAIT A NEUILLY-SUR-SEINE LE 21 SEPTEMBRE 1973\n\nSon Excellence, le Baron PATERNOTTE de LA VAILLEE\n\nAmbassadeur Extraordinaire et Plénipotentiaire du Royaume de Belgique, s'esi présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec\n\nMonsieur Jean-Bernard MERIMEE, Chef du Protocole agissant au nom du Ministre des Affaires Etrangères, au dépôt de l'Instrument de Ratification du Royaume de\n\nBelgique, de l'Arrangement entre certains Etats membres de l'Organisation euro- péenne de Recherches Spatiales et l'Organisation européenne de Recherches Spatia- les concernant l'exécution d'un programme de satellite maritime fait à Neuilly-sur\n\nSeine le 21 septembre 1973.\n\nL'Instrument ayant été, après examen trouvé en bonne et due forme, a été déposé, pour y être conservé, dans les Archives da la République\n\nFrançaise.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent\n\nProcès-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, en double exemplaire le 19 novembre 1980 'entamé finie,",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19730055_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification des Pays-Bas",
+      "score": 0.82839,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_10_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.758528,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_18_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification suédois",
+      "score": 0.701709,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_352b_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de la convention entre la Bulgarie et la Grèce",
+      "score": 0.553157,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_07_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.396724,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_04_s1",
+      "title": "Instrument de ratification belge",
+      "score": 0.384431,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_01_s1",
+      "title": "Traité",
+      "score": 0.376417,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_05_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Espagne",
+      "score": 0.373414,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_11_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.370517,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_06_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.367712,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

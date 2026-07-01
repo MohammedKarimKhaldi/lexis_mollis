@@ -66,5 +66,34 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19280002_218_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.75131,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_58_s1",
+      "title": "Instrument de ratification de la Slovaquie",
+      "score": 0.465705,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_198_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.405568,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_092_s1",
+      "title": "Instrument d'adhésion de la République tchèque",
+      "score": 0.369758,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

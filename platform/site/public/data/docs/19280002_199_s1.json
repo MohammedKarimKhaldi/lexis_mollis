@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_199_s1",
+  "title": "Instrument d'adhésion de la Slovénie",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9716,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 199 INSTRUMENT D'ADHESION Le Gouvernement de la République de Slovénie déclare qu'il adhère à la Convention concernant les expositions internationales signée à Paris le 22 novembre 1928, telle que modifiée par le Protocole du 30 novembre 1972 et amendée le 24 juin 1982 ét le 31 Mai 1988, conformément aux dispositions de l'article 3 du Protocole, et qu'il s'acquittera de bonne foi de toutes les obligations q…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_199_s1.pdf",
+  "source_filename": "19280002_199_s1.pdf",
+  "source_sha256": "ac7051f64d170952b5ee6c7e389a2bddf50eca5d98c9777bf081f8d1b066608a",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SVN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 199",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "INSTRUMENT D'ADHESION\n\nLe Gouvernement de la République de Slovénie déclare qu'il adhère à la\n\nConvention concernant les expositions internationales signée à Paris le 22 novembre 1928, telle que modifiée par le Protocole du 30 novembre 1972 et amendée le 24 juin 1982 ét le 31 Mai 1988, conformément aux dispositions de l'article 3 du Protocole, et qu'il s'acquittera de bonne foi de toutes les obligations qui sont prévues dans la\n\nConvention et le Protocole.\n\nEN FOI DE QUOI, j'ai signé le présent instrument à Ljubljana ce 1 pie nour d'octobre 2004.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.832647,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_198_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.824071,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_160_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.805723,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.796577,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.792931,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lbr001_s1",
+      "title": "Instrument d'adhésion.",
+      "score": 0.790728,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.776474,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lao001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.772886,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.751323,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.744124,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

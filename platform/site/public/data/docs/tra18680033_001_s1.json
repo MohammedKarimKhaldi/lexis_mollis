@@ -1,0 +1,47 @@
+{
+  "document_id": "tra18680033_001_s1",
+  "title": "Arrangement",
+  "year": 1868,
+  "doc_type": "Arrangement",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9113,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "n'l notre les soussignés, delegués de la France et de l'Allemagne au ord aux conferences de Tienne, il a été arrêté ce qui suit, sous reserve de ratifications. L'Allemagne du toro ayant fixé à 2 franco 50 sa taxe de transit, la France réduit à titre de receprocité, sa taxe de transit au même taux. pourtoutes les correspondances en provenance ou à destination de l'Allemagne u dord. de présent arrangement Mania vigueu…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Arrangement",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18680033_001_s1.pdf",
+  "source_filename": "tra18680033_001_s1.pdf",
+  "source_sha256": "4cab70c4225cce292499caa62deb1038823bbdcbd45ac583f92e3b7744be01d2",
+  "treaty_id": "TRA18680033",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "n'l\n\nnotre les soussignés, delegués de la France et de l'Allemagne au ord aux conferences de\n\nTienne, il a été arrêté ce qui suit, sous reserve de ratifications.\n\nL'Allemagne du toro ayant fixé à 2 franco 50 sa taxe de transit, la France réduit à titre de receprocité, sa taxe de transit au même taux.\n\npourtoutes les correspondances en provenance ou à destination de l'Allemagne u dord.\n\nde présent arrangement\n\nMania vigueur 19 1\n\nFait à Vienne le",
+      "quality_score": 0.9113,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

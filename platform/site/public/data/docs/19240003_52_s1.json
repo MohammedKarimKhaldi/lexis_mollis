@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_52_s1",
+  "title": "Notification aux Etats participants de la demande d'adhésion du Pérou",
+  "year": 1924,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9619,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTERE AFFAIRES ETRANGERES REPUBLIQUE FRANCAISE Paris, le 21 juin 1994 MINISTRE D'ETA INISTRE DES AFFAIRES ETRANGERE PONSE A FAMRASSADEUK DE FRANCE un frice intera tonale de la Vigne et du interéation ( 14240003 communication suivante : \"Le Gouvernement péruvien a déposé le 2 juin 1994 auprès du Gouvernement français une demande d'adhésion du Pérou à l'Arrangement portant création de l'Office international de la…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_52_s1.pdf",
+  "source_filename": "19240003_52_s1.pdf",
+  "source_sha256": "38bd2f463023ceb8167d52b79b71c21974e6c42e688c4e9f0b56686cd33a439b",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "PER003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTERE\n\nAFFAIRES ETRANGERES\n\nREPUBLIQUE FRANCAISE\n\nParis, le 21 juin 1994\n\nMINISTRE D'ETA\n\nINISTRE DES AFFAIRES ETRANGERE\n\nPONSE A FAMRASSADEUK DE FRANCE\n\nun frice intera tonale de la Vigne et du interéation (\n\n14240003\n\ncommunication suivante :\n\n\"Le Gouvernement péruvien a déposé le 2 juin 1994 auprès du Gouvernement français une demande d'adhésion du Pérou à l'Arrangement portant création de l'Office international de la vigne et du vin, signé à Paris le 29 novembre 1924\".\n\nVous voudrez bien me faire connaître par le moyen du formulaire ci-joint la date à laquelle les autorités du pays de votre résidence auront accusé réception de cette communication.\n\nJe vous serais reconnaissant d'appeler l'attention de vos interlocuteurs sur la nécessité d'une réponse urgente, compte-tenu du fait que, conformément à l'article 6 de l'Arrangement du 29 novembre 1924, l'adhésion du Pérou sera définitive si la majorité des Etats membres de l'Office internatioanle de la vigne et du vin fait connaître son assentiment dans un délai de six mois à dater de l'introduction de la demande d'adhésion./.\n\nDidier LOPINOT",
+      "quality_score": 0.9619,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_15_s1",
+      "title": "Notification aux Etats membres de l'adhésion du Brésil",
+      "score": 0.728368,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_506",
+      "title": "Demande des autorités françaises d'une notification de dépôt de l'instrument d'adhésion",
+      "score": 0.496042,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_14_s1",
+      "title": "Rappel aux Etats qui n'ont pas répondu de la demande d'adhésion de la Bolivie",
+      "score": 0.429225,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_61_s1",
+      "title": "Notification aux Etats participants de la candidature de la Suède",
+      "score": 0.4085,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_43_s1",
+      "title": "Dépêche de notification aux ambassades auprès des Etats-parties de l'adhésion du Mexique",
+      "score": 0.402336,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_131",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.394247,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.393311,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_62_s1",
+      "title": "Notification à la Syrie de l'acceptation de sa candidature à l'adhésion",
+      "score": 0.390319,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_69_s1",
+      "title": "Notification de l'adhésion de la Slovénie",
+      "score": 0.389147,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_300",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.388289,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

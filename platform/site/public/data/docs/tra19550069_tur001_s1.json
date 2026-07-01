@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19550069_tur001_s1",
+  "title": "Instrument d'ahésion",
+  "year": 1955,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8725,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "177-2/Tmqm) Ambassade de Curquie デイター 42 LAmbassade de Turqule présente ses conplimente au Ministère des Affaires Etrangères et a 1 honneur de porter à Sa connaissance que le Conseil Turo den Ministres apté, au cours de sa réunion du 8 Décembre 19817 par 1 arrêté n° 6/15, 1 adhésion de le Turquie en quallté Stat-i Correspondant 1 Organisation Intorna- も上onel letroor! instituée par une Convention 81ghee Paris 42 ctob…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19550069_tur001_s1.pdf",
+  "source_filename": "tra19550069_tur001_s1.pdf",
+  "source_sha256": "ea1082cc1805048abc912b95de1c95851614bb7603e35c85325b89a5bf2b17ef",
+  "treaty_id": "TRA19550069",
+  "treaty_number": "TUR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "177-2/Tmqm)\n\nAmbassade de Curquie\n\nデイター\n\n42\n\nLAmbassade de\n\nTurqule présente ses conplimente\n\nau Ministère des Affaires Etrangères et a 1 honneur de porter à Sa\n\nconnaissance que\n\nle Conseil Turo den\n\nMinistres\n\napté, au cours\n\nde sa réunion du 8 Décembre\n\n19817 par 1 arrêté n° 6/15,\n\n1 adhésion de le\n\nTurquie en\n\nquallté\n\nStat-i\n\nCorrespondant\n\n1 Organisation\n\nIntorna-\n\nも上onel\n\nletroor!\n\ninstituée\n\npar une Convention\n\n81ghee\n\nParis 42\n\nctobre 1955.\n\nLAmbassade\n\nhonorab\n\ner e\n\nde Dion\n\nvouloir\n\n038g-\n\npar\n\n1,9\n\ndiplomatique,\n\ntous\n\ncette\n\nOCCES\n\nhante\n\nTe\n\nMA 日\n\n1962\n\nRES",
+      "quality_score": 0.8725,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_924_s1",
+      "title": "Note verbale de dénonciation de la Turquie",
+      "score": 0.387946,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19570067_921_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.386266,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.380897,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_61_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.375972,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_015_s1",
+      "title": "Note verbale d'acceptation de l'amendement de 1988",
+      "score": 0.374333,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19820018_049_s1",
+      "title": "Note verbale d'acceptation de la Tunisie",
+      "score": 0.373988,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19240002_386",
+      "title": "Accusé de réception de l'instrument haïtien",
+      "score": 0.369537,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_104_s1",
+      "title": "Instrument de ratification de la Tchécoslovaquie",
+      "score": 0.369444,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.368546,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19820018_016_s1",
+      "title": "Note verbale d'acceptation de l'amendement de 1982",
+      "score": 0.367846,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_85_s1",
+  "title": "Procès-verbal de dépôt de la ratification de la Grèce",
+  "year": 1928,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.971,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 85 GRELE PROCES VERBAL DE DEPOI DES RATIFICATIONS DE LA GRECE SUR LA CONVENTION CONCERNANT LES EXPOSITIONS INTERNATIONALES SIGNEE A PARIS LE 22 NOVEMBRE \"！\"'\" Conformément aux dispositions finales de la convention concernant les Ixpositions Internationales: signée à Paris le 22 Novembre 1928, le Ministre de GRECE s'est présenté aujourd'hui au Ministère des Affaires Itrangères de la République Française pour…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_85_s1.pdf",
+  "source_filename": "19280002_85_s1.pdf",
+  "source_sha256": "5d18d8664df6e6b27afa7aa614c55adbd80de9319695cd5fbdbb903dbd9aca62",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "GRC002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 85",
+      "quality_score": 0.9434,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "GRELE\n\nPROCES VERBAL DE DEPOI DES RATIFICATIONS\n\nDE LA GRECE\n\nSUR LA\n\nCONVENTION\n\nCONCERNANT\n\nLES EXPOSITIONS INTERNATIONALES SIGNEE\n\nA PARIS LE 22 NOVEMBRE\n\n\"！\"'\"\n\nConformément aux dispositions finales de la convention concernant les Ixpositions Internationales: signée à Paris le 22 Novembre 1928, le Ministre de GRECE s'est présenté aujourd'hui au Ministère des Affaires Itrangères de la\n\nRépublique Française pour procéder au dépôt des ratifications de S. Exc. le Président de la République Hellénique sur cette\n\nConvention et les remettre au Gouvernement de la République .\n\nLes instruments de ratifications ont été produits et ayant été, après examen, trouvés en bonne et due forme , sont confiés au Gouvernement de la République Française pour rester déposés dans ses archives .\n\nLe Gouvernement français donnera avis aux\n\nPuissances contractantes des dépôts des instruments de ratifica- tions ultérieurement effectués parles autres Itats signataires .\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procès - verbal\n\net y ont apposé leurs cachets.\n\nFait à paris le 21 Jaurien 1933.\n\nTolitig",
+      "quality_score": 0.9986,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.812415,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_166_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion des Pays-Bas",
+      "score": 0.778606,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.77676,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.7767,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_84_s1",
+      "title": "Instrument de ratification",
+      "score": 0.773614,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_88_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.75945,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_176_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.755791,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_87_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.75512,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.704897,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mar002_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Maroc",
+      "score": 0.695225,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

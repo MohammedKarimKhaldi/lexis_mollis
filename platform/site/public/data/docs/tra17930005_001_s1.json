@@ -1,0 +1,92 @@
+{
+  "document_id": "tra17930005_001_s1",
+  "title": "Texte de la lettre",
+  "year": 1793,
+  "doc_type": "Texte",
+  "languages": [
+    "ar"
+  ],
+  "quality_score": 0.7972,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "（ حالا بنون أنله الملك القادد مالك مالك أيمان ونودا خادم مرمين ذى شان والمدس والشام ومغرب وقروان سلطا: اان ان سلطا سيم فان إلى المسلطات ملفى خارن اني السلطان لعدما ن رائته مثه الى انفراض التوران يامن جبادها روجولان بنه تاتوان رجالا منقرق و جما ١٣م فزا:. غرب ما حى الظلم والطفيان صاحب الاحسان واللطف والامان دونماو فنايلو حسن بأشابين انته تعالى ما يريد ومايشا حضر نارينك طرقة عادت رديقل نون حالا فرائجه دوائى ممهودي، وند…",
+  "tags": [
+    "century:c18",
+    "corpus:traites",
+    "doc_type:Texte",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:revolutionary_napoleonic_1789_1815",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra17930005_001_s1.pdf",
+  "source_filename": "tra17930005_001_s1.pdf",
+  "source_sha256": "f12d67474be4eb5bd4f82e5f9089f3de75950d8cdebb7e52ca54db691e1c6fd7",
+  "treaty_id": "TRA17930005",
+  "treaty_number": "001A",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "（\n\nحالا بنون أنله الملك القادد مالك مالك أيمان ونودا خادم مرمين ذى شان والمدس والشام ومغرب وقروان سلطا: اان ان سلطا سيم فان إلى المسلطات ملفى خارن اني السلطان لعدما ن رائته مثه الى انفراض التوران يامن جبادها روجولان بنه تاتوان رجالا منقرق و جما ١٣م فزا:. غرب ما حى الظلم والطفيان صاحب الاحسان واللطف والامان دونماو فنايلو حسن بأشابين انته تعالى ما يريد ومايشا حضر نارينك طرقة عادت رديقل نون حالا فرائجه دوائى ممهودي، وندارى جل منه اولان نامة وادقيع موديشر ترجه وبياة وما هو المدام بان وعيات او لوز\n\nأمير امراه ملت عيستد وكير كماء ملتسيحته بالفعل مدير امود ماله فرائجه جمهودة وزيرى دتيلو منا لو ذع دون نادي حضور انيه.\n\nام م الا ا لاي كه بمدم لله اق حكم مكوات دونت تريه دن تو بتلات بعلام وذلي انين مهر مقوان. الوون وحالا طرفرقه أشخ سافن لأ منتقت اياة حفة أعطامالزيصان ه وا ماد أن يخصرا وطرقينه وجه فو باتمة ينته وضعته الاد كل وات توصياه اولزو توان وحيا غن ده منعقل ولاد شروط ويحرد اورده مدو يتأخرها فى ودد، أيقاد شروط وتيودين راهات أولمور والاسل و مر دمن بعد لارد ٨ واقه مرخ ايبا وماغاديات العوده نتيه إتله ميافرده واتح وكيت لوضان مهدو مناحل مغايرح ترن افتلاذا ولرفجاه دكونا فرة ذرّه ثاضه : اولور ، قواه وكادة ،\n\nدوام دى كي أي- برب الحياد حزياً فى ادائل شهر ماير من ميلاد عسى عليه استلاء انواموق الخاريج وكي a١٤ دو عصاير",
+      "quality_score": 0.7972,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20182433_001",
+      "title": "Déclaration",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20080356_001_s1",
+      "title": "Protocole",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_004_s1",
+      "title": "Protocole des conclusions de la commission de délimitation des zones démilitarisées des détroits",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200018_013_s1",
+      "title": "Instrument de ratification",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_005_s1",
+      "title": "Ratification japonaise",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_015_s1",
+      "title": "Traité et règlements commerciaux",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    }
+  ]
+}

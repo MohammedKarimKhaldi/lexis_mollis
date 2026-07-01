@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20151635_010",
+  "title": "Lettre de l'ITER",
+  "year": 2015,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.987,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": ". 10 Mars 2015 Reference: 2015/OUT/0029/R2N98Z. (5 90 015 1306/ \"dit Paul lez Durance Certex France Monsieur le Ministre de l'Intérieur Bernard CAZENEUVE Place Beauvau 75800 Paris Cedex 08 France www.iter.pry Sujet: Agrément sous forme d'échange de lettres- Protocole additionnel à l'Accord de siège ITER Monsieur le Ministre, J'ai bien reçu votre lettre du 26 janvier 2015 qui m'est parvenue le 11 févnes 2015 dats laq…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20151635_010.pdf",
+  "source_filename": "TRA20151635_010.pdf",
+  "source_sha256": "c9ad44bada9a3e0f9be22c67e7cf420f2693a10dc9c3a33ce92313a8c155b624",
+  "treaty_id": "TRA20151635",
+  "treaty_number": "001B",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ". 10 Mars 2015\n\nReference: 2015/OUT/0029/R2N98Z.\n\n(5 90 015 1306/ \"dit Paul lez Durance Certex France\n\nMonsieur le Ministre de l'Intérieur\n\nBernard CAZENEUVE\n\nPlace Beauvau 75800 Paris Cedex 08\n\nFrance\n\nwww.iter.pry\n\nSujet: Agrément sous forme d'échange de lettres- Protocole additionnel à l'Accord de siège ITER\n\nMonsieur le Ministre,\n\nJ'ai bien reçu votre lettre du 26 janvier 2015 qui m'est parvenue le 11 févnes 2015 dats laquelle vous me proposiez de conciure, sous forme d'échange de lettres, un protocole additionnel à l'Accord de siège entre le Gouvernement de la République française et l'Organisation internationale pour l'énergie de fusion en vue de la mise en œuvre du projet ITER, relatif aux rôles de Autorités françaises en matière d'intervention liée à la sécurité, dont les dispositions sont contenues dans l'annexe à cette lettre.\n\nEn réponse, j'ai l'honneur de vous faite savoir que, conformément aux pouvoirs qui me sont conférés par les dispositions du Traité international ITER et l'Accord de Siège signé avec le Gouvernement de la\n\nRépublique française et l'Organisation ITER, los dispositions de cette lettre et son annexe, dont les versions en langue française et en langue anglaise font également foi, recueillent l'agrément de l'Organisation internationale ITER pour l'énergie de fusion.\n\nL'échange de lettres et leur annexe constituent le protocole additionnel à l'Accord de siège entre le\n\nGouvemement de la République française et l'Organisacion internationale pour l'énergie de fusion en vue de la mise en neuvre du projet ITER, Iclatif aux rôles de Autorités françaises en matière d'inters ention liée à la sécurité, qui entrera en vigueur conformément à l'articie 8 de l'Annexe.\n\nJe vous prie de bien vouloir agréer, Monsieur le Ministre, l'expression de ma très haute considération.",
+      "quality_score": 0.987,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20151635_001",
+      "title": "Lettre française (ensemble 1 annexe)",
+      "score": 0.418104,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20080108_010_s1",
+      "title": "Protocole additionnel : lettre ITER (sans le protocole additionnel annexé)",
+      "score": 0.39918,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151635_006",
+      "title": "Accusé de réception français de l'instrument ITER",
+      "score": 0.39508,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151635_007",
+      "title": "Accusé de réception ITER de l'instrument français",
+      "score": 0.39505,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20080108_001_s1",
+      "title": "Protocole additionnel : lettre française (ensemble texte du protocole additionnel annexé)",
+      "score": 0.383432,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_510",
+      "title": "Accusé de réception de l'adhésion liechtensteinoise",
+      "score": 0.373036,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.372064,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090247_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.371291,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070193_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.365065,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850253_005",
+      "title": "Instrument de l'ASE",
+      "score": 0.356352,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

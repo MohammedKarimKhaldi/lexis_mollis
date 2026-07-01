@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19760092_001b_s1",
+  "title": "Lettre en réponse",
+  "year": 1976,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9739,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": ".：：.：.....；：：./.：.：：./：-：；.：.......：.： ........ Lomé, Le 23 Mars 1976 Monsieur le Ministre, Vous avez bien voulu, en date de ce jour, m'adresser la lettre dont la teneur suit : 'Le paragraphe 3 de l'article III de 1 'Accard de coopération dans le domaine maritime à la signature duquel nous venons de procéder stipule : \"La République togolaise accordera aux navires battant pavillon françeis, dans ses ports et eaux te…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760092_001b_s1.pdf",
+  "source_filename": "tra19760092_001b_s1.pdf",
+  "source_sha256": "be402a96c9b1caa271e0031dc265b03b46b6cf3fbe33af51fae6e47df562d231",
+  "treaty_id": "TRA19760092",
+  "treaty_number": "001b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ".：：.：.....；：：./.：.：：./：-：；.：.......：.：\n\n........\n\nLomé, Le 23 Mars 1976\n\nMonsieur le Ministre,\n\nVous avez bien voulu, en date de ce jour, m'adresser la lettre dont la teneur suit :\n\n'Le paragraphe 3 de l'article III de 1 'Accard de coopération dans le domaine maritime à la signature duquel nous venons de procéder stipule : \"La République togolaise accordera aux navires battant pavillon françeis, dans ses ports et eaux territoriales, le traitement de la nation la plus favorisée accordé aux navires des autres pays développés employés dans les transports internationaux en ce qui concerne l'accès aux ports, la perception des droits et taxes portuaires, l'utilisation des ports et toutes les commodités qu'elle accorde à la navigation et aux opérations commerciales qui en découlent pour les navires et leurs équipages, les passagers et les marchandises. Cette disposition vise notamment l'attribution des places à quai et les facilités de chargement et de déchargement\".\n\n。^：...\n\nJ'ai I'honneur de vous proposer que soient exclus du bénéfice des dispositions de ce paragraphe les navires battant pavil- Ion de complaisance tels que définis par la Commission des Transports Maritimes de la C.NoU.C.E.D.\n\nJe vous serais reconnaissant de bien vouloir me faire savoir si ces propositions recueillent l'accord de votre gouvernement\".\n\nJ'ai 1'honneur de vous faire savoir que les propositions ci-dessus recueillent 1'agrément du gouvernement togolais.\n\nVeuillez agréer, Monsieur le Ministre, les assurances de ma haute considération.\n\nSon Excellence Monsieur Jean de LIPKOWSKI\n\nMinistre de la Coopération de la\n\nRépublique française\n\n.. :.,\n\nAyi Houenou HUNLEDE\n\nMinistre des Affaires Etrangères de la République togolaise",
+      "quality_score": 0.9739,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760092_001a_s1",
+      "title": "Lettre française",
+      "score": 0.835264,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_001_s1",
+      "title": "Accord",
+      "score": 0.408637,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_005_s1",
+      "title": "Ratification siamoise",
+      "score": 0.379064,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_001c_s1",
+      "title": "Lettre en réponse relative aux articles 3, 5 et 8",
+      "score": 0.362528,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630223_001_s1",
+      "title": "Accord",
+      "score": 0.360183,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760094_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.359988,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560200_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.359295,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_103",
+      "title": "Echange de notes relatif à Guernesey",
+      "score": 0.356837,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640081_005",
+      "title": "Instrument de ratification iranien",
+      "score": 0.35667,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760094_001a_s1",
+      "title": "Lettre française",
+      "score": 0.35546,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

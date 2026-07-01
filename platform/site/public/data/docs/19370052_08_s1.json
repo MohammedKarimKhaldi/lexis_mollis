@@ -1,0 +1,116 @@
+{
+  "document_id": "19370052_08_s1",
+  "title": "Pouvoirs de la Belgique",
+  "year": 1937,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9822,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Now, Propoldl, Roi des Rilges, désirant arrêter de concert avec les Souverains et Chefs des Etats repré- sentés à la Conférence de Paris, une Convention additionnelle modifiant la Convention pour la création à Paris d'un Institut international du froid, signée à Paris, le 21 Juin 1920, à ces causes et Nous confiant entièrement en la capacitó, le zèle et le dévouement de M. le Comte A. de KERCHOVE de DENTERGHEM, Comm…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19370052_08_s1.pdf",
+  "source_filename": "19370052_08_s1.pdf",
+  "source_sha256": "62c8e40c6c7c26aee04ee26199ce77256d9fd6c746cfdba4fe7915c6cab9bba6",
+  "treaty_id": "TRA19370052",
+  "treaty_number": "BEL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Now, Propoldl, Roi des Rilges, désirant arrêter de concert avec les Souverains et Chefs des Etats repré- sentés à la Conférence de Paris, une Convention additionnelle modifiant la\n\nConvention pour la création à Paris d'un Institut international du froid, signée à Paris, le 21 Juin 1920, à ces causes et Nous confiant entièrement en la capacitó, le zèle et le dévouement de M. le Comte A. de KERCHOVE de\n\nDENTERGHEM, Commandeur de I4ordre de la Couronne, Officier de 1'ordre de\n\nLéopold, Conmandour de la Léglon d'Honneur, Notre Ambassadeur Extraordinal- re et Plénipotentiaire à Paris, l'avons normé, commis et député et, par ces présentes, le nommons, commettons et députons Notre Plénipotentiaire à l'effet de signer ladite convention additionnelle, Nous réservant d'approu- ver et de ratifier ce que Notre dit Plénipotentialre aura stipulé, promis et s1gné, en vertu des présenta pleins pouvoirs conformément aux instruc- tions dont 11 est muni.\n\nEn fo1 de quo1, Nous avons ordonné que les présentes fussent revêtues du sceau de l'Etat.\n\nDonné à Bruxelles, le quinzième jour du mois de fulllet de l'an de grâce mil neuf cent trente-six.\n\nHur le Roi:\n\nLe Ministe DonC ise Borangeres.",
+      "quality_score": 0.9822,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.657017,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_022_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.606943,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.435895,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_095",
+      "title": "Pouvoirs belges",
+      "score": 0.414191,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.409131,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.405568,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_19_s1",
+      "title": "Pouvoirs de signature de la Belgique",
+      "score": 0.404956,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.403614,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_095_s1",
+      "title": "Pouvoirs",
+      "score": 0.399853,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.399438,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "document_id": "tra19540017_004_s1",
+  "title": "Instrument français",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "hu"
+  ],
+  "quality_score": 0.9509,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "EENE E n A TE E I E n AE a a N, a I E a S N R DAA b Q Uk So Si j e CLA EAL EEA ARA AER LA A I E E AEEA AA A EA EE A EALA AA EAA ELA A A S EAA A EEL L - . Ratifications du Président de la République Française, Président de l'Union Française, sur l'Accord conclu entre le Gouvernement de la Poépublique Fédérale d'Allemagne et le Gousernement de la Joepublique Mançaise sur le statut de la Sarre, signé à aris le 23 octob…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19540017_004_s1.pdf",
+  "source_filename": "tra19540017_004_s1.pdf",
+  "source_sha256": "cc69be34344f3a26e51a35b8290dcb363506ffe8ead2ff00a1c961729a35f3d4",
+  "treaty_id": "TRA19540017",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "EENE E n A TE E I E n AE a a N, a I E a S N R\n\nDAA\n\nb\n\nQ\n\nUk\n\nSo Si j e\n\nCLA EAL EEA ARA AER LA A I E E AEEA AA A EA EE A EALA AA EAA ELA A A S EAA A EEL L\n\n- .",
+      "quality_score": 0.5942,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Ratifications\n\ndu Président de la République Française,\n\nPrésident de l'Union Française, sur l'Accord conclu entre le Gouvernement de la Poépublique Fédérale d'Allemagne et le\n\nGousernement de la Joepublique Mançaise sur le statut de la Sarre, signé à aris le 23 octobre 195h!",
+      "quality_score": 0.904,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "ACCORD CONCLU ENTRE LE\n\nGOUVERNEMENT DE LA REPUBLIQUE FEDERALE D'ALLEMAGNE\n\nET LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nSUR LE STATUT DE LA SARRE",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "Le Gouvernement de la République Fédérale d'Allemagne,\n\nLe Gouvernement de la République Française, après avoir\n\nconsulté le Gouvernement sarrois et recueilli son assentiment,\n\nsoucieux de donner\n\nà l'économie sarroise le plus large\n\ndéveloppement\n\npossible et de faire disparaître toutes occasions\n\nde litige entre eux, sont convenus des\n\nprincipes suivants qui\n\nformeront la base d'une solution de\n\nla question sarroise.\n\nI\n\nL'objet de la solution envisagée est de donner\n\nà la\n\nSarre un statut européen dans le cadre de l'Union de l'Europe Occidentale. Après approbation par referendum, ce statut ne pourra pas, jusqu'à l'intervention d'un traité de paix, être remis en cause.\n\nII\n\nUn Commissaire européen assurera la représentation des\n\nintérêts de la Sarre dans le domaine des affaires extérieures\n\net\n\nde la défense. Le Commissaire\n\nsera également chargé de veiller au\n\nrespect du statut. Le Commissaire sera nommé par le Conseil des\n\nMinistres de l'Union de l'Europe Occidentale. Il sera responsable devant ce Conseil.\n\nLe Commissaire ne devra être ni Français, ni Allemand,\n\nni Sarrois. La majorité qui assurera son élection devra comprendre nécessairement les voix de la France et de la République Fédérale d'Allemagne, l'assentiment de la Sarre sera également nécessaire.\n\nLe Commissaire soumettra annuellement un rapport sur\n\nses activités au Conseil des Ministres qui le transmettra",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "l'Assemblée de l'Union de l'Europe Occidentale.\n\nDans l'exercice de ses responsabilités à l'égard du\n\nstatut de la Sarre, le Conseil des Ministres\n\nprendra\n\nses déci-\n\nsions à la majorité.\n\nIII\n\nLes deux Gouvernements proposeront aux autres Gouver-\n\nnements européens intéressés que la représentation des intérêts de la Sarre auprès des organisations européennes soit assurée comme suit :\n\na) CONSEIL DE L'EUROPE :\n\n1 - Comité\n\ndes Ministres:\n\nLe Commissaire y siègera avec voix consultative, 2 - Assemblée Consultative :\n\nReprésentation sarroise sans changement.\n\nb) COMMUNAUTE EUROPEENNE DU CHARBON ET DE L'ACIER :\n\n1 - Conseil spécial des Ministres :\n\na) quand siègeront les Ministres des Affaires\n\nEtrangères, la Sarre sera représentée par le Commissaire ;\n\nb) quand siègeront d'autres Ministres, la\n\nSarre sera représentée avec voix délibérative par son Ministre compétent.\n\n2 - Assemblée commune :\n\nTrois délégués seront élus par le Parlement sarrois. La délégation de la France\n\nrestera\n\négale en nombre à celle de l'Italie et de la\n\nRépublique Fédérale d'Allemagne, comme prévu à l'article 21 du traité instituant la\n\nC.E.C.A.\n\nc) UNION\n\nDE L'EUROPE OCCIDENTALE",
+      "quality_score": 0.9855,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "1 - Conseil des Ministres :\n\nLe Commissaire y siègera avec voix consultative.\n\n2 - Contrôle parlementaire\n\nL'Assemblée de l'Union de l'Europe Occidentale comprendra les délégués sarrois à l'Assemblée consultative du Conseil de l'Europe.\n\nIV\n\nLes deux Gouvernements proposeront que la participa-\n\ntion de la Sarre à la défense européenne soit définie par un traité conclu dans le cadre de l'Union de l'Europe Occidentale et que, pour les questions concernant la Sarre, S.A.C.E.U.R.\n\nagisse toujours\n\nen stricte coopération avec le Commissaire.\n\nV\n\nLe Gouvernement et les autorités sarrois seront exclu-\n\nsivement compétents dans tous les domaines où le statut ne prévoit pas expressément la compétence du Commissaire.\n\nVI\n\nLes partis politiques, les associations, les journaux\n\net les réunions publiques ne\n\nseront pas sujets à autorisation.\n\nUne fois le statut approuvé par la voie du referendum, il ne pourra pas être remis en cause\n\njusqu'à l'intervention d'un trai-\n\nté de paix.\n\nToute immixtion venant de l'extérieur ayant pour objet\n\nd'agir sur l'opinion publique en Sarre, notamment sous forme d'aide ou de subvention\n\naux partis politiques, aux associations ou\n\nà la presse, sera interdite.",
+      "quality_score": 0.9943,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "VII\n\nL'acceptation par le peuple sarrois du présent statut\n\npar voie de referendum\n\nentraînera pour la Sarre les obligations\n\nsuivantes :\n\na) le Gouvernement sarrois devra\n\nse conformer aux dis-\n\npositions\n\ndu statut,\n\nb) toutes dispositions devront être prises pour que\n\nsoient apportés à la Constitution\n\nsarroise par les organes\n\nconstitutionnels sarrois les amendements rendus nécessaires par l'adoption du statut européen,\n\nc) le Gouvernement sarrois fera\n\nprocéder dans un dé-\n\nlai de trois mois après le referendum à l'élection d'une nouvelle Diète.\n\nVIII\n\nLes Gouvernements de la République Fédérale d'Allema-\n\ngne et de la France s'engageront à soutenir et à garantir le statut de la Sarre jusqu'à la conclusion d'un traité de paix.\n\nLes deux Gouvernements demanderont aux Gouvernements\n\ndu Royaume-Uni et des Etats-Unis d'AMérique de prendre un engagement similaire.\n\nIX\n\nLes dispositions qui pourront être prises en ce qui\n\nconcerne la Sarre dans un traité de paix seront soumises, par voie de referendum, à l'approbation de la popudation sarroise qui devra pouvoir se prononcer sans aucune restriction.",
+      "quality_score": 0.9967,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "X\n\nLe referendum prévu à l'article I aura lieu trois mois\n\naprès l'entrée en vigueur des dispositions prévues au premier alinéa du paragraphe VI ci-dessus.\n\nXI\n\nLes deux Gouvernementsferont en commun tous les efforts\n\nnécessaires pour donner à l'économie sarroise le plus large développement •\n\nXII\n\nA - Les principes sur lesquels se fonde actuellement\n\nl'Union franco-sarroise seront repris dans une convention de coopération économique conclue entre la France et la Sarre, qui tiendra compte des dispositions suivantes :\n\nB - En ce qui concerne les relations économiques en-\n\ntre la République Fédérale d'Allemagne et la Sarre, le but à atteindre est de créer des relations semblables à celles qui existent entre la France et la Sarre. Ce but devra être atteint progressivement dans les perspectives du développement de la coopération économique franco-allemande et européenne en expansion continue. Dans le domaine de la monnaie, le règlement actuel\n\nres-\n\ntera en vigueur jusqu'à la création d'une\n\nmonnaie de caractère\n\neu-\n\nropéen.\n\nL'élargissement progressif des relations économiques\n\nentre la République Fédérale d'Allemagne et la Sarre ne devra mettre en péril ni l'Union monétaire franco-sarroise, ni l'exécution de la convention franco-sarroise de coopération économique.",
+      "quality_score": 0.998,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "Il sera fait en sorte que l'établissement d'un cor-\n\ndon douanier entre la France et la Sarre ne\n\nsoit pas nécessai-\n\nre, et il sera tenu compte éventuellement\n\nde la nécessité de\n\nprotéger certaines branches de l'industrie sarroise.\n\nC - Dans l'immédiat, des dispositions seront\n\nprises\n\npour augmenter les échanges entre la République Fédérale d'Allemagne et la Sarre afin de tenir compte des besoins de chacun des deux pays en produits provenant de l'autre.\n\nD - Des accords seront conclus entre la France, la\n\nRépublique Fédérale d'Allemagne et la Sarre, en vue de mettre en oeuvre les principes visés aux paragraphes B et C.\n\nDans ces accords, il sera tenu compte de la nécessi-\n\nté de ne\n\npas affecter\n\ngravement la balance des\n\npaiements cou-\n\nrants entre la zone franc et la République Fédérale d'Allemagne, la situation des échanges entre ce dernier pays et la\n\nSarre étant cependant prise en considération.\n\nE - La Sarre assurera, la gestion de l'ensemble des\n\ngisements houillers sarrois et du Warndt, ainsi que des installations minières gérées par les Saarbergwerke.\n\nXIII\n\nLes deux Gouvernements\n\nrecommanderont aux autres Gou-\n\nvernements, membres de la Communauté Européenne du Charbon et de l'Acier, d'établir le siège de la Communauté à Sarrebruck.\n\nXIV\n\nLe présent accord sera porté à la connaissance du\n\nConseil des Ministres de l'Union de l'Europe Occidentale afin que celui-ci puisse en prendre acte.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "Les deux Gouvernements demanderont aux autres Gouver-\n\nnements, membres de l'Union de l'Europe Occidentale, d'approuver les dispositions du présent accord qui requièrent leur assentiment./.\n\nFait à Paris, le 23 Octobre 1954\n\nMENDES-FRANCE\n\nADENAUER.",
+      "quality_score": 0.9926,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "René Coty\n\nPrésident de la République Française,\n\nPrésident de l'Union Française,\n\nA tous ceux qui ces présentes Lettres verront,\n\nSalut :\n\nUn Accord conclu entre le Gouvernement de la Pépublique Fédérale d'Allemagne ct le\n\nGouvernement de la Sébublique francaise sur le statut de la Sarre avant de signe à Saris le 23\n\noctobre 1954, Accord dont la tencur suit:\n\nAccord...",
+      "quality_score": 0.9661,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "Avant vu et examiné le dit\n\net\n\napprouvons en toutes et chacune de ses parties, en vertu des dispositions qui y sont contenues et conformément à l'article 31 de la Constitution.\n\nDÉCLARONS qu'il est accepté ,\n\nratifie\n\net confirmé et PROMETTONS\n\nqu'il sera inviolablement observé\n\nEN FOI DE QUOI, Nous avons donné\n\nles présentes, revêtues du Sceau de la\n\nRépublique.\n\nA Paris, le 26 arril 1955\n\nRum\n\nLe Prési des N\n\ndu Conseil ristres\n\nPar le Président de la République,\n\nLe Ministre des Affaires\n\nÉtrangères\n\nThe / cor",
+      "quality_score": 0.9798,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19540017_005_s1",
+      "title": "Instrument allemand/copie conforme signée par le directeur des Affaires juridiques du ministère des Affaires étrangères allemand et Protocole d'échange des notifications entre le Chancelier Konrad Adenauer et le président de la République René Coty",
+      "score": 0.879576,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.789224,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_004",
+      "title": "Instrument français (ratification)",
+      "score": 0.77188,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_326",
+      "title": "Instrument de ratification française",
+      "score": 0.769586,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_326_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.767694,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600199_004_s1",
+      "title": "Instrument français",
+      "score": 0.765365,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_21_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.760571,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.759143,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530025_004",
+      "title": "Instrument français",
+      "score": 0.749689,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "fr-ratif_s1",
+      "title": "Ratification française",
+      "score": 0.7456,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

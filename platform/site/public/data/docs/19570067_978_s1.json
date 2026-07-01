@@ -1,0 +1,116 @@
+{
+  "document_id": "19570067_978_s1",
+  "title": "Procès-verbal de dépôt de l'instrument yougoslave",
+  "year": 1957,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.982,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOI DES INSTRUMENTS D'ADHESION DE IA JOUGOSIAVIE A IA CONVENTION INSTITUANT UNE COMISSION SERICICOLE INTERNATIONALE SIGNEE A PARIS IE 1er JUILLET 1957 Son Excellence Monsieur le Docteur Radivoj UVALIC, Ambassadeur Extraordinaire et Plénipotentiaire de Yougoslavie, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Iudovic CHANCEL, Ministre Plénipotentlaire,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_978_s1.pdf",
+  "source_filename": "19570067_978_s1.pdf",
+  "source_sha256": "7e5e5f909ebb2f3b5f415ca8270a82a540ca2eea07934e3971046afa1be2a951",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "977",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nDE DEPOI DES INSTRUMENTS D'ADHESION DE IA JOUGOSIAVIE\n\nA IA CONVENTION INSTITUANT UNE COMISSION SERICICOLE INTERNATIONALE\n\nSIGNEE A PARIS IE 1er JUILLET 1957\n\nSon Excellence Monsieur le Docteur Radivoj\n\nUVALIC, Ambassadeur Extraordinaire et Plénipotentiaire de Yougoslavie, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur\n\nIudovic CHANCEL, Ministre Plénipotentlaire, Chef du\n\nProtocole, agissant au nom du Ministre des Affaires\n\nEtrangères, au dépot des instruments d'adhésion de la\n\nYougoslavie à la Convention instituant une Commission\n\nSéricicole Internationale, signée à Pario le ler juillet 1957 en exécution de l'article 25, alinéa 2, de ladite Convention.\n\nIes instruments ayant été, après examen, trouvés en bonne et due forme, ont été déposés, pour y être conser- vés, dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent Procès-Verbal, qu'ils ont revêtu de leur sceau.\n\nFAIT A PARIS, en double exemplaire, le 24 décembre 1958.\n\nd. Chencel\n\nRading,\n\nLinalie",
+      "quality_score": 0.982,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_728_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion de la Roumanie",
+      "score": 0.797808,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_403_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Inde",
+      "score": 0.762194,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.718901,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.646926,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_024_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Belgique",
+      "score": 0.618779,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_698",
+      "title": "Procès-verbal de dépôt de l'instrument néerlandais",
+      "score": 0.408961,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.400972,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_080_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification néerlandais",
+      "score": 0.397344,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_143_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion du Brésil",
+      "score": 0.395806,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv002_s1",
+      "title": "Procès-verbal du dépôt de l'instrument d'adhésion au protocole de 1972",
+      "score": 0.392234,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

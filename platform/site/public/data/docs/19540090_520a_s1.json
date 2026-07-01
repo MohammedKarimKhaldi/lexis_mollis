@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_520a_s1",
+  "title": "Pouvoirs luxembourgeois",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9794,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Dans Charlotte, wat la grâce de Bien, Srande=Duciesse fe Lugeminutg, Дисфевве бе Шавван, ric., sic, sie. Sur le rapport de Notre Président du Gouverne- ment, Ministre des Affaires Etrangères, et après délibération du Gouvernement en Conseil; AVONS TROUVE BON ET ENTENDU de conférer à Monsieur Robert Als, Envoyé extraordinaire et Mi- nistre plénipotentiaire du Grand-Duché de Luxembourg à Paris, des pleins pouvoirs à l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_520a_s1.pdf",
+  "source_filename": "19540090_520a_s1.pdf",
+  "source_sha256": "8d6d7ea1d9db5515686d29a7ec7a1a9c0c0e34db31757cc3d6d89280e43ef421",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "520a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Dans Charlotte, wat la grâce de Bien,\n\nSrande=Duciesse fe Lugeminutg,\n\nДисфевве бе Шавван, ric., sic, sie.\n\nSur le rapport de Notre Président du Gouverne- ment, Ministre des Affaires Etrangères, et après délibération du\n\nGouvernement en Conseil;\n\nAVONS TROUVE BON ET ENTENDU\n\nde conférer à Monsieur Robert Als, Envoyé extraordinaire et Mi- nistre plénipotentiaire du Grand-Duché de Luxembourg à Paris, des pleins pouvoirs à l'effet de signer la Convention Internationale pour l'unification des méthodes d'analyse et d'appréciation des vins, issue de la 34ème Session plénière du Comité de l'Office international du vin, qui s'est tenue à Paris du 20 au 23 septembre 1954;\n\nNous réservant d'approuver et de ratifier ce que\n\nNotre plénipotentiaire aura signé en vertu des présents pleins pou- voirs.\n\nEn foi de quoi Nous avons signé les présentes et y avons fait apposer Notre sceau grand-ducal.\n\nChâteau de Fischbach, le 30 avril 1955.\n\nLe Président du Gouvernement\n\nMinistre des Affaires Etrangères, sen",
+      "quality_score": 0.9794,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560090_520",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.661821,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_40_s1",
+      "title": "Pouvoirs de signature du Luxembourg",
+      "score": 0.417303,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.390545,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_850_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.387391,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.385688,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_523",
+      "title": "Procès-verbal de dépôt de l'instrument luxembourgeois",
+      "score": 0.385573,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.377812,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.374532,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_66_s1",
+      "title": "Note de transmission de la ratification tchécoslovaque",
+      "score": 0.372443,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_20_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la Roumanie",
+      "score": 0.37124,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

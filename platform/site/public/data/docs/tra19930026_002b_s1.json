@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19930026_002b_s1",
+  "title": "Pouvoirs français (délivrés à Michel Vauzelle)",
+  "year": 1993,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9906,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AS Republique Française N° 36/93 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre d'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à Monsieur Michel VAUZELLE, Garde des Sceaux, Ministre de la Justice pour signer une Convention sur la Maison du Droit entre le Gouvernement de la République française et le Gouvernement de la République socialiste du Vietnam ./• Fait à Paris,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19930026_002b_s1.pdf",
+  "source_filename": "tra19930026_002b_s1.pdf",
+  "source_sha256": "d2a21b4e4da478ed3010f325a206243c53e5ecaed7107b86043a209beffddebb",
+  "treaty_id": "TRA19930026",
+  "treaty_number": "002b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AS\n\nRepublique Française\n\nN° 36/93\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre\n\nd'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à Monsieur Michel VAUZELLE, Garde des Sceaux, Ministre de la Justice\n\npour signer une Convention sur la Maison du Droit entre\n\nle Gouvernement de la République française et le Gouvernement de la\n\nRépublique socialiste du Vietnam ./•\n\nFait à Paris, le\n\n8 février 1993\n\nLe Ministre\n\nd'Etat,\n\nMinistre des\n\nAffaires Etrangères\n\nPold Damn",
+      "quality_score": 0.9906,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.750128,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070073_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.656886,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.576964,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990082_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.545359,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_325",
+      "title": "Instrument néerlandais",
+      "score": 0.539577,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.412029,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.411001,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.403602,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880302_002",
+      "title": "Pouvoirs français",
+      "score": 0.401938,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890267_002",
+      "title": "Pouvoirs français",
+      "score": 0.401194,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

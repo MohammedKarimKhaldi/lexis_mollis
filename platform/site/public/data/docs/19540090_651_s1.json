@@ -1,0 +1,95 @@
+{
+  "document_id": "19540090_651_s1",
+  "title": "Instrument d'adhésion norvégien",
+  "year": 1954,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9901,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NOUS HARALD ROI DE NORVEGE faisons savoir: Qu'ayant vu et examiné la Convention Internationale pour l'unification des méthodes d'analyse et d'appréciation des vins, adoptée à Paris le 13 octobre 1954, Nous avons résolu d'adhérer par la présente à ladie Convention, promettant de la faire observer selon sa forme et teneur. En foi de quoi Nous avons signé la présente lettre d'adhésion et y avons fait apposer le Sceau d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_651_s1.pdf",
+  "source_filename": "19540090_651_s1.pdf",
+  "source_sha256": "b4cba645a03ec7a7210b635e3737f2f84a8b670f34a1258dc6b8e1e7fe9cce00",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "NOR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NOUS HARALD\n\nROI DE NORVEGE\n\nfaisons savoir:\n\nQu'ayant vu et examiné la Convention Internationale pour l'unification des méthodes d'analyse et d'appréciation des vins, adoptée à Paris le 13 octobre 1954, Nous avons résolu d'adhérer par la présente à ladie Convention, promettant de la faire observer selon sa forme et teneur.\n\nEn foi de quoi Nous avons signé la présente lettre d'adhésion et y avons fait apposer le Sceau du Royaume.\n\nFait au Palais Royal à Oslo, le vingt-sept septembre, mille neuf cent quatre-vingt-seize\n\nHavald R\n\nJoindres",
+      "quality_score": 0.9901,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380056_11_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.543848,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_072_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.418977,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_56_s1",
+      "title": "Instrument d'adhésion de la Norvège",
+      "score": 0.384801,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_976_s1",
+      "title": "Instrument de ratification yougoslave",
+      "score": 0.35871,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_071_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.357476,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_652_s1",
+      "title": "Note de transmission de l'instrument norvégien",
+      "score": 0.350872,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_148_s1",
+      "title": "Lettres patentes d'adhésion",
+      "score": 0.350041,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

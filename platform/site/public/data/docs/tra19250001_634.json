@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19250001_634",
+  "title": "Accusé de réception par le Saint-Siège de la notification par la France du retrait des réserves formulées par le Portugal",
+  "year": 1925,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9843,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DIRECTION DES ARCHIVES ARRIVEE 21 MAI 2015 BEATURE NOSTOLOT EN FRANCE Prot. n° 4.989/2014 COTE 477320 PROTOCOLE 2.90EE. 2014 ARRIVÉE La Nonciature apostolique en France présente ses compliments au Ministère des Affaires étrangères et du développement international et a l'honneur d'accuser réception de la Note n° 2243/DT du 11 décembre 2014, relative au retrait des réserves de la République portugaise au Protocole de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19250001_634.pdf",
+  "source_filename": "tra19250001_634.pdf",
+  "source_sha256": "91ad68a2ae6b248fd76ad58d3c82dc5d0fd782cc6277a5a533f30418d565ee13",
+  "treaty_id": "TRA19250001",
+  "treaty_number": "PRT009",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DIRECTION DES ARCHIVES\n\nARRIVEE\n\n21 MAI 2015\n\nBEATURE NOSTOLOT\n\nEN FRANCE\n\nProt. n° 4.989/2014\n\nCOTE\n\n477320\n\nPROTOCOLE\n\n2.90EE. 2014\n\nARRIVÉE\n\nLa Nonciature apostolique en France présente ses compliments au\n\nMinistère des Affaires étrangères et du développement international et a l'honneur d'accuser réception de la Note n° 2243/DT du 11 décembre 2014, relative au retrait des réserves de la République portugaise au Protocole de\n\nGenève de 1925 concernant la prohibition d'emploi à la guerre de gaz asphyxiants, toxiques ou similaires et de moyens bactériologiques.\n\nLa Nonciature apostolique en France remercie de cette communication qu'elle n'a pas manqué de transmettre à la Secrétairerie d'Etat de la Cité du\n\nLa Nonciature apostolique en France saisit l'occasion pour renouveler au Ministère des Affaires étrangères et du développement international l'assurance de sa haute considération.\n\nParis, le 22 décembre 2014\n\nNONCIATU\n\nAP\n\nSTOLIQUE\n\nPARI\n\nMinistère des Affaires étrangères et du Développement international 37, quai d'Orsay 75700 PARIS 07 SP",
+      "quality_score": 0.9843,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.402193,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.39872,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20110656_007_s1",
+      "title": "Note accusant réception de la notification djiboutienne",
+      "score": 0.396541,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.392597,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.392184,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.390774,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_098",
+      "title": "Accusé de réception par le dépositaire de l'instrument wallon",
+      "score": 0.388092,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_blr001_s1",
+      "title": "Note informant de l'intention d'adhésion",
+      "score": 0.386703,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.386572,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.385053,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

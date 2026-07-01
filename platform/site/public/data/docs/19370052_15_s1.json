@@ -1,0 +1,116 @@
+{
+  "document_id": "19370052_15_s1",
+  "title": "Pouvoirs de la Finlande",
+  "year": 1937,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9599,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "——— —— ——— PEHR EVIND SVINHUFVU D, Président de la République de Finlande, fait savoir: La Conférence Générale de l'Institut international du Froid ayant adopté, dans sa séance du 25 novembre 1934, certaines modifications à la Convention Internationale pour la création de l'Institut, en date du 21 juin 1920, J'autorise, par les présentes, Monsieur Harri Holm a, Envoyé Extraordinaire et Ministre Plénipotentiaire de F…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19370052_15_s1.pdf",
+  "source_filename": "19370052_15_s1.pdf",
+  "source_sha256": "cebf61d735ca6cccc2a1d87179af556978b24f7aa511322332bf73aee8754c8f",
+  "treaty_id": "TRA19370052",
+  "treaty_number": "FIN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "——— —— ———\n\nPEHR EVIND SVINHUFVU D,\n\nPrésident de la République de Finlande, fait savoir:\n\nLa Conférence Générale de l'Institut international du Froid ayant adopté, dans sa séance du 25 novembre 1934, certaines modifications à la Convention Internationale pour la création de l'Institut, en date du 21 juin 1920,\n\nJ'autorise, par les présentes, Monsieur Harri Holm a,\n\nEnvoyé Extraordinaire et Ministre Plénipotentiaire de Finlande à Paris, à signer le texte complet revisé de la Convention.\n\nEn foi de quoi, J'ai signé ce plein-pouvoir de\n\nMa main et y ai fait apposer Mon sceau.\n\nFait à Helsinki, le 19 février 1937.",
+      "quality_score": 0.9599,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_17_s1",
+      "title": "Pouvoirs de notification de l'adhésion de la Finlande",
+      "score": 0.505735,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_45_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.407998,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_071_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.388093,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_053_s1",
+      "title": "Déclaration d'acceptation de la Finlande",
+      "score": 0.380099,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_19_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.372134,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_091_s1",
+      "title": "Pouvoirs finlandais",
+      "score": 0.371264,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.368519,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.366138,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_12_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.365133,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_21_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.363579,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

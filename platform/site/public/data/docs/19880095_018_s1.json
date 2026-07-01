@@ -1,0 +1,128 @@
+{
+  "document_id": "19880095_018_s1",
+  "title": "Note verbale d'acceptation de la Finlande",
+  "year": 1988,
+  "doc_type": "Note verbale",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "GEORGE BUSH President of the United states of America TO ALL IO WHOM THESE PRESENTS SHALL COME, GREETING: CONSIDERING THAT: Amendments to the Convention of November 22, 1928, concerning International Expositions, as Amended, were adopted at Paris May 31, 1988; and The Senate of the United States of America by its resolution of August 2, 1991, two-thirds of the senators present concurring therein, gave its advice and…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_018_s1.pdf",
+  "source_filename": "19880095_018_s1.pdf",
+  "source_sha256": "de9a69aa608e1a8b3f7ade84ec3109554a6c080855bc08cc67be9e0bb24155a4",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "FIN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GEORGE BUSH\n\nPresident of the United states of America\n\nTO ALL IO WHOM THESE PRESENTS SHALL COME, GREETING:\n\nCONSIDERING THAT:\n\nAmendments to the Convention of November 22, 1928, concerning International Expositions, as Amended, were adopted at Paris May 31, 1988; and\n\nThe Senate of the United States of America by its resolution of August 2, 1991, two-thirds of the senators present concurring therein, gave its advice and consent to ratification of the Amendments;",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "NOW, THEREFORE, I, George Bush, President of the United\n\nStates of America, ratify and confirm the said Amendments.\n\nIN TESTIMONY WHEREOF, I have signed this instrument of ratification and caused the seal of the United States of\n\nAmerica to be affixed.\n\nDONE at the city of washington this nineteenth day of\n\nJuly in the year of our Lord one thousand nine hundred ninety-two\n\nBy the President:\n\nGibul",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_025_s1",
+      "title": "Note verbale d'acceptation de la Finlande",
+      "score": 0.669549,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_68_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.569168,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_112_s1",
+      "title": "Instrument de ratification des Etats-Unis",
+      "score": 0.391843,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.370497,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_180_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.364328,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.36388,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.363402,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_48_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.362534,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_23_s1",
+      "title": "Instrument de ratification des Etats-Unis",
+      "score": 0.357922,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_306",
+      "title": "Instrument d'adhésion",
+      "score": 0.355404,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

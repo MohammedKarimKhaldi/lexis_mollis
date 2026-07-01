@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19190004_712_s1",
+  "title": "Procès-verbal de dépôt des ratifications sur le traité de paix, le protocole et la déclaration du 10 sept 1919",
+  "year": 1919,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9239,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROOXS-VERBAL de DEPOT des RATIFICATIONS par La POLOGNE sur le TRAITE de PAIX signé à 3T GERMAIN en LAYE le 10 SEPTEMBRE 1919 entre d'une part,les Etats-Unis d'Amérique, l'Em- pire Britanxgique, la Yranee l'Italie et le Japon, Principales Puissance alliées et associées, La Belgigus, ia Chine, Cuba, la Gréce, le Nicaragua, le Panama, la Pologne, le Portugal, le Siam et l'Etat Tahéco-Slovaque, constituant avec les Pri…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190004_712_s1.pdf",
+  "source_filename": "tra19190004_712_s1.pdf",
+  "source_sha256": "7c97eb0f45a738ca6278e8483685adb5f6eb73996545da4c2d6364b1e4244807",
+  "treaty_id": "TRA19190004",
+  "treaty_number": "712",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROOXS-VERBAL de DEPOT des RATIFICATIONS par La\n\nPOLOGNE sur le TRAITE de PAIX signé à 3T GERMAIN en LAYE le 10\n\nSEPTEMBRE 1919 entre d'une part,les Etats-Unis d'Amérique, l'Em- pire Britanxgique, la Yranee l'Italie et le Japon, Principales\n\nPuissance alliées et associées, La Belgigus, ia Chine, Cuba, la\n\nGréce, le Nicaragua, le Panama, la Pologne, le Portugal, le Siam et l'Etat Tahéco-Slovaque, constituant avec les Priacipales\n\nPuissances ei~dessus les Puissances alliées et associées st, d'autre part,l ‘AUTRICHE ,ainsi que sur les actes suivants qui le com.\n\npletent : lE PROTOCOLE et La DECLARATION, en date à St Germain en\n\nLays du même jour, actes guxquels ont aecódé l'Etat Serbe- Croate |\n\nSlovene et la Rouuanie, par déelarations en date das 5 et 9 Déeeribri\n\n2919. -\n\nEn exécution des clauses finales du Traité de Paix si\n\ngné à St Germain en Laye , le IO Septembre 1919, le Ministre de\n\nPologne à Paris s'est présenté aujourd'hui au Ministère dem Affaires\n\nEtrangères, & Paris, pour procéder au dépot des ratifications du Prp\n\ne sur ledit Traité , ls Protocole\n\nenent ds la République\n\nsident de la République de Pologn et la Déclaration et las remettre au Qouvern française:\n\nL'instrument des ratifications 8 été produit et ayan\n\nforme , a HÉ gonfié au\n\nété , apres examen, trouve en poume «t due\n\nja République française Pour rester déposé dans\n\nGouverne.1ent de",
+      "quality_score": 0.9265,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "ses Archives +\n\nGonformément aux dispositions des clausas finales\n\nprécitees,le Gouvernement français donnera avis de ce dépôt aux\n\nPulssances contractantes,\n\nEN FOI de QUOI, les soussignés dnt dressé le pró-\n\ngent proces -verbal et y ont apposé leurs cachete.\n\nFait à Paris ,le Lé Rec 1924 .",
+      "quality_score": 0.9213,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200016_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.74578,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_251_s1",
+      "title": "Procès-verbal du dépôt de ratifications sur le traité de paix, le protocole et la déclaration du 10 sept 1919,  actes auxquels ont accédé l'État Serbe-Croate-Slovène et la Roumanie par déclarations des 5 et 9 déc 1919",
+      "score": 0.738138,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_716_s1",
+      "title": "Procès-verbal de dépôt des ratifications sur le traité de paix, le protocole et la déclaration du 10 sept 1919",
+      "score": 0.73704,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_447_s1",
+      "title": "Procès-verbal de dépôt de l'instrument japonais",
+      "score": 0.723453,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_448_s1",
+      "title": "Procès verbal de dépôt de l'instrument japonais",
+      "score": 0.714957,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_798_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification serbe-croate-slovène",
+      "score": 0.714916,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_797_s1",
+      "title": "Procès verbal de dépôt de l'instrument du Royaume des Serbes, Croates, Slovènes",
+      "score": 0.706229,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_252_s1",
+      "title": "Procès-verbal de dépôt de l'instrument cubain",
+      "score": 0.69336,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_446_s1",
+      "title": "Procès-verbal du dépôt de ratifications du traité, protocole et déclaration du 10 septembre 1919, actes auxquels ont accédé l'État Serbe-Croate-Slovène et la Roumanie par déclarations des 5 et 9 décembre 1919",
+      "score": 0.671188,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_006_s1",
+      "title": "Procès-verbal de dépôt des instruments de ratification  de l'Empire britannique, la France, l'Italie, la Chine, la Grèce, l'État serbe-croate-slovène, le Siam, la Tchécoslovaquie et l'Autriche du traité de paix, protocole et déclaration du 10 sept 1919",
+      "score": 0.476216,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

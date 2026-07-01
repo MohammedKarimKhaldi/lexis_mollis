@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19290044_008_s1",
+  "title": "Procès-verbal d'échange des instruments",
+  "year": 1929,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9916,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES VERBAL D'ECHANGE Les soussignés s'étant réunis pour procéder à l'é- change des ratifications du Président de la République Française et de Sa Majesté le Roi des Belges sur la Convention entre la France et la Belgique ayant pour but d'éviter la double imposttion des revenus des entreprises de navigation maritime des deux Pays signée à Bruxelles le 7 Octobre 1929, les instruents ont été produits et ayant été, a…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19290044_008_s1.pdf",
+  "source_filename": "tra19290044_008_s1.pdf",
+  "source_sha256": "d44c127a5efa0bc64ee1b1b3b1d65c2fd3daeaaf05b9f5126aaade516103da7a",
+  "treaty_id": "TRA19290044",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES VERBAL D'ECHANGE\n\nLes soussignés s'étant réunis pour procéder à l'é-\n\nchange des ratifications du Président de la République Française et de Sa Majesté le Roi des Belges sur la Convention entre la\n\nFrance et la Belgique ayant pour but d'éviter la double imposttion des revenus des entreprises de navigation maritime des deux\n\nPays signée à Bruxelles le 7 Octobre 1929, les instruents ont été produits et ayant été, après ezacen, trouvés en bonne et que fore , l'échange en a été opéré •\n\nEN FOI DE QUOI , les soussignés, durent autorisés\n\ncet effet, ont dressé le présent procès verbal qu'ils ont re vêtu de leurs cachets .\n\nFait à Paris, le 13 Septendre 1930\n\ntius ha:",
+      "quality_score": 0.9916,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.655768,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290031_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.626368,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.465108,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.411872,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190039_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.404414,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19220022_006_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.397473,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190005_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.393577,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19710031_100_s1",
+      "title": "Procès-verbal de l'échange des instruments",
+      "score": 0.386375,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_005_s1",
+      "title": "Instrument belge",
+      "score": 0.380553,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19330035_008_s1",
+      "title": "Procès verbal d'échange des ratifications",
+      "score": 0.378854,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

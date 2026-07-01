@@ -1,0 +1,134 @@
+{
+  "document_id": "tra19190039_003_s1",
+  "title": "Pouvoirs polonais",
+  "year": 1919,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8791,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Aunom de la Républiquede Potogne foseph Fitsudsh Chef de l'Etat Polonais Desirant arrêter de concert Puisident de la République Fran- çaise, une Convention relative à l'emigra- lion et l'immigration, également avan tagers aux relations des dend Etats, fraz ces présentes nous avons nomme, commis Ladistas Shraynski Etrangeres, plénipotentiaire de la i pique pour négocier, établir et conce. re une convention propre à a…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190039_003_s1.pdf",
+  "source_filename": "tra19190039_003_s1.pdf",
+  "source_sha256": "36199e95451004facc56e4c681dc327dc89799902a22663764ae67f132fd392a",
+  "treaty_id": "TRA19190039",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Aunom de la Républiquede Potogne\n\nfoseph Fitsudsh\n\nChef de l'Etat Polonais\n\nDesirant arrêter de concert\n\nPuisident de la République Fran- çaise, une Convention relative à l'emigra- lion et l'immigration, également avan tagers aux relations des dend Etats, fraz ces présentes nous avons nomme, commis\n\nLadistas Shraynski\n\nEtrangeres, plénipotentiaire de la i\n\npique pour négocier, établir et conce.\n\nre une convention propre à atteindie le\n\nbut proposé.\n\nLui donnons plein et absolu pouvoir de négocier, arrêter et signer les dispositions",
+      "quality_score": 0.878,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "de ladite convention, promettant au nom de la République d'accomplir et dl'exé...\n\ncuter ponctuellement tout ce que ledit plénipotentiaire aura stipule, promis et signé en vertu des présents pleins pouvoird.\n\nEn foi de quai nous delivrass les présentes, munies du sceau de l' tat, signés et.contresignés\n\nE Varsovie, le 3 jour du mois de septembre mit neuf cent dix neuf?\n\nspitali\n\npour\n\nLe Ministre des Affaires étrangères\n\nastricti",
+      "quality_score": 0.8803,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19190006_151a_s1",
+      "title": "Instrument de ratification bulgare du Traité de Paix",
+      "score": 0.378602,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_151b_s1",
+      "title": "Instrument de ratification bulgare de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.376384,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.373914,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_055_s1",
+      "title": "Pouvoirs de signature grecs",
+      "score": 0.370412,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_151b_s1",
+      "title": "Instrument de ratification bulgare de la Convention concernant la liberté de passage dans les détroits",
+      "score": 0.365609,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_68_s1",
+      "title": "Pouvoirs",
+      "score": 0.362772,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_48_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.362119,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_hti001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.36114,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.360871,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_696",
+      "title": "Instrument de ratification néerlandais",
+      "score": 0.360679,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560201_001_s1",
+  "title": "Accord (lettre française)",
+  "year": 1956,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9898,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Paris, le 2 mars 1956 Monsieur le Président, J'ai l'honneur de vous proposer qu'une Commission comportant des représentants du Gouvernement marocain et du Gouvernement français se réunisse le 12 mars 1956, soit à Rabat, soit à Paris, afin d'assurer l'execution de l'article II du Protocole du 2. Mars 1956. Vevillez agréer, Monsieur le Président, l'assurance de ma très haute considération. A Son Excellence Embarek BEK…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560201_001_s1.pdf",
+  "source_filename": "tra19560201_001_s1.pdf",
+  "source_sha256": "ff0b281b8f16478b891341794d7b49e7668b0472be5f93ad22dccaec8eb64f6b",
+  "treaty_id": "TRA19560201",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Paris, le 2 mars 1956\n\nMonsieur le Président,\n\nJ'ai l'honneur de vous proposer qu'une Commission comportant des représentants du Gouvernement marocain et du Gouvernement français se réunisse le 12 mars 1956, soit à Rabat, soit à Paris, afin d'assurer\n\nl'execution\n\nde l'article II du Protocole du 2. Mars 1956.\n\nVevillez agréer, Monsieur le Président, l'assurance de ma très haute considération.\n\nA Son Excellence\n\nEmbarek BEKKAI\n\nPrésident du Gouvernement marocain\n\nPrésident de la Délégation marocaine\n\nCopie certifiée conforme.\n\nAFFAIRES\n\nASININ",
+      "quality_score": 0.9898,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560200_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.441037,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560200_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.431788,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.403311,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.395645,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560203_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.374841,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560203_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.374306,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640106_011_s1",
+      "title": "Publication de l'accord au Journal officiel du",
+      "score": 0.360352,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630118_001_s1",
+      "title": "Publication au Journal officiel de l'échange de lettres sans le procès-verbal",
+      "score": 0.359477,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.352258,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620053_004_s1",
+      "title": "Instrument français",
+      "score": 0.351351,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19680088_101_s1",
+  "title": "Certificat d'enregistrement",
+  "year": 1968,
+  "doc_type": "Certificat",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9772,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES No. 38694 CERTIFICATE of REGISTRATION The SECRETARY-GENERAL of the UNITED NATIONS hereby certifies that the following international agreement as been registered with the Secretariat, in accordance with Article 102 of the Charter of the United Nations: CERTIFICAT d'ENREGISTREMENT Le SECRETAIRE GENERAL de 1'ORGANISATION des NATIONS UNIES certifie par la présente que l'ac…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19680088_101_s1.pdf",
+  "source_filename": "tra19680088_101_s1.pdf",
+  "source_sha256": "81c5684604b6809997640242b6a4cde95fb7e8a0394f57ec3725bb7e13444e6a",
+  "treaty_id": "TRA19680088",
+  "treaty_number": "101",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES\n\nNo. 38694\n\nCERTIFICATE of REGISTRATION\n\nThe SECRETARY-GENERAL of the UNITED NATIONS hereby certifies that the following international agreement as been registered with the Secretariat,\n\nin accordance with\n\nArticle 102 of the Charter of the United Nations:\n\nCERTIFICAT d'ENREGISTREMENT\n\nLe SECRETAIRE GENERAL de 1'ORGANISATION des\n\nNATIONS\n\nUNIES\n\ncertifie par la présente que l'accord\n\ninternational\n\nci-après\n\nenregistré au Secrétariat\n\nconformément indi que\n\n'Article 102 de la Charte des\n\nNations unies\n\nNo. 29474. FRANCE AND TURKEY:\n\nAgreemange or letters)\n\nand scientific co-operation (witt letters).\n\nigned at Ankara on 29 October 196€\n\nRegistered by, France on 27 January 1993.\n\nNo 29474. FRANCE ET TURQUIE :\n\nscientifique\n\nCavec échange\n\nle 29 octobre 1968\n\nEnregistré par la France le 27 janyier 1993.\n\nDone at New York on 28 June 1994\n\nFor the SECRETARY-GENERAL\n\nUNITED NATIONS\n\nLe Conseiller juridique\n\nFait a New York le 28\n\njuin 1004\n\npour le SECRETAIRE GENERAL\n\nThe Legal Counsel",
+      "quality_score": 0.9772,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760090_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.648002,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19770068_101_s1",
+      "title": "Certificat d'enregistrement ONU (protocole et échange de lettres)",
+      "score": 0.617141,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_100_s1",
+      "title": "Certificat d'enregistrement de l'accord à l'ONU",
+      "score": 0.567484,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820004_990_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.564918,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19720042_100",
+      "title": "tra19720042_100",
+      "score": 0.452683,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.444202,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610286_100_s1",
+      "title": "Certificat ONU d'enregistrement du Traité",
+      "score": 0.444132,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.442572,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19860200_100_s1",
+      "title": "Certificat ONU d'enregistrement de l'accord",
+      "score": 0.440172,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.437669,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

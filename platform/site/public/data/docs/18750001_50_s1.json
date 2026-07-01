@@ -73,5 +73,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_51_s1",
+      "title": "Acceptation de l'accession de la Roumanie",
+      "score": 0.390207,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280028_100",
+      "title": "Recueil de trente pièces relatives à la préparation, à l'élaboration et à la conclusion du Traité",
+      "score": 0.38341,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_002_s1",
+      "title": "Copie non signée du Convention",
+      "score": 0.376457,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.370202,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19260075_001_s1",
+      "title": "Traité (paraphé)",
+      "score": 0.36899,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_48_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.368727,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760152_730_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.364577,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.364463,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_001_s1",
+      "title": "Convention",
+      "score": 0.363668,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_03_s1",
+      "title": "Épreuve avant tirage définitif (s. d.)",
+      "score": 0.362005,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

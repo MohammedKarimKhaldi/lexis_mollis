@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20213116_002_s1",
+  "title": "Pouvoirs",
+  "year": 2021,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Française Nº207/2021 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à : M. Jean-Baptiste DJEBBARI, ministre délégué auprès de la ministre de la Transition écologique, chargé des Transports en vue de signer l'Accord entre le Gouvernement de la République française et le Gouvernement du Royaume-Uni de Grande-Bretagn…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20213116_002_s1.pdf",
+  "source_filename": "TRA20213116_002_s1.pdf",
+  "source_sha256": "a91b36b02a33c51936af534eb038ce4bd49740a75b30976a2b3667a021b3d2a9",
+  "treaty_id": "TRA20213116",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République Française\n\nNº207/2021\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à :\n\nM. Jean-Baptiste DJEBBARI, ministre délégué auprès de la ministre de la Transition écologique, chargé des Transports\n\nen vue de signer l'Accord entre le Gouvernement de la République française et le\n\nGouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord relatif aux licences de conducteur de train en ce qui concerne les services de transport ferroviaire empruntant la liaison fixe trans-Manche./.\n\nFAIT À PARIS, LE 8 décembre 2021\n\nLe Ministre de l'Europe et des Affaires étrangères\n\nMM le Drian",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20213116",
+      "title": "Accord",
+      "score": 0.587377,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213018_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.586879,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182432_002",
+      "title": "Pouvoirs français",
+      "score": 0.57885,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_002",
+      "title": "Pouvoirs français",
+      "score": 0.554461,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220114_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.550903,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230011_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.531267,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.407394,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.393649,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182473_002",
+      "title": "Pouvoirs français",
+      "score": 0.392173,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.390299,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19760087_004_s1",
+  "title": "Instrument français",
+  "year": 1976,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9886,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Française Le Ministre des Fielations Extérieures Paris, le 22 juin 1981 Monsieur le Ministre, Me référant à l'article XII de l'Accord de coopération culturelle entre le Gouvernement de la République française et le Gouvernement de la République togolaise, ensemble un Protocole anexe relatif au personnel de l'enseignement mis à la disposition de la République togolaise, signé à Lomé le 23 mars 1976, J'ai l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760087_004_s1.pdf",
+  "source_filename": "tra19760087_004_s1.pdf",
+  "source_sha256": "e3d6aa5947abe76f5e5d03f014cc5f2c885b5593c676fad5730eeb9b68edf9af",
+  "treaty_id": "TRA19760087",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Française\n\nLe Ministre des Fielations Extérieures\n\nParis, le\n\n22 juin 1981\n\nMonsieur le Ministre,\n\nMe référant à l'article XII de l'Accord de coopération\n\nculturelle entre le Gouvernement de la République française et le Gouvernement de la République togolaise, ensemble un\n\nProtocole anexe relatif au personnel de l'enseignement mis à la disposition de la République togolaise, signé à Lomé le 23 mars 1976, J'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République pour l'entrée en vigueur dudit Accord ont été accomplies.\n\nL'nstrument de Ratification de la République togolaise\n\nm'Etant déjà parvenu, l'Accord entrera en vigueur conformément à son article XII, le premier jour du deuxième mois suivant la date à laquelle vous m'aurez accusé réception de la présente lettre.\n\nJe vous serai en conséquence reconnaissant de bien\n\nvouloir m'informer de cette date. /.\n\nJe vous prie de croire, iionsieur le Ministre, à\n\nl'assuraice de ma haute considération.\n\nPour copie certifiée conforme à l'original\n\nA Son Excellence\n\nA Paris, le... 28 juin 1981\n\nMonsieur Anoni Kuma AKAKPO-AHIANYO\n\nMinistre des Affaires Etrangères et de la\n\nCoopération\n\nLOME\n\n-",
+      "quality_score": 0.9886,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.812474,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.810051,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.784516,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.782164,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.771446,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.710241,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.608204,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_004b_s1",
+      "title": "Instrument français (notification du ministre des affaires étrangères français adressée à son homologue kenyan)",
+      "score": 0.548539,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_006",
+      "title": "tra19760084_006",
+      "score": 0.465233,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.449877,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "document_id": "tra19660081_004_s1",
+  "title": "Instrument français (notification)",
+  "year": 1966,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.85,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "AFFAIRES ÉTRANGÈRES LE MINISTRE Paris, le 23 juillet 1966 Monsieur le Ministre, Me référant à l'article 6 de l'Accord de Coopération Scientifique, Technique et Economique entre le Gouvernement de la République Française et le Gouvernement de l'Union des Républiques Socialistes Soviétiques, signé à Moscou le 30 juin 1966, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la Républ…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19660081_004_s1.pdf",
+  "source_filename": "tra19660081_004_s1.pdf",
+  "source_sha256": "a49a1cb829f890816567d51f6f9c94876c1d1a7463d47b6d473248acd1bdc473",
+  "treaty_id": "TRA19660081",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AFFAIRES ÉTRANGÈRES\n\nLE MINISTRE\n\nParis, le 23 juillet 1966\n\nMonsieur le Ministre,\n\nMe référant à l'article 6 de l'Accord de Coopération\n\nScientifique, Technique et Economique entre le Gouvernement de la République Française et le Gouvernement de l'Union des\n\nRépubliques Socialistes Soviétiques, signé à Moscou le 30 juin 1966, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République Française pour la mise en vigueur dudit Accord ont été accomplies.\n\nLa présente lettre constitue la notification prévue\n\npar la disposition précitée./.\n\nVeuillez agréer, Monsieur le Ministre, l'assurance\n\nde ma haute considération.\n\nSigné : Maurice COUVE de MURVILLE\n\nPour copie certifiée conforme à l'original\n\nParis, le 23 juillet 1966\n\nFAIRES\n\noma hmi'\n\nRE\n\nDES\n\nA Son Excellence\n\nMonsieur Andrei GROMYKO\n\nMinistre des Affaires Etrangères de l'Union des Républiques\n\nSocialistes Soviétiques\n\nMOSCOU\n\nStry 叉",
+      "quality_score": 0.9907,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "f 4",
+      "quality_score": 0.7094,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19660289_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.848856,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.712919,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.67088,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_004_s1",
+      "title": "Instrument français",
+      "score": 0.417247,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_005_et_007_s1",
+      "title": "Instrument russe ET accusé de réception russe de l'instrument français",
+      "score": 0.413817,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_001_s1",
+      "title": "Accord",
+      "score": 0.412925,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.409496,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_005_et_007_s1",
+      "title": "Accusé de réception russe de l'instrument français",
+      "score": 0.407746,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.404666,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.404602,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "document_id": "19190038_03_s1",
+  "title": "Traduction en français de l'instrument de ratification du Japon",
+  "year": 1919,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9824,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "POLOGNE 28 juin 1919 ( Traduit du Japonais ) Nout, Yoshibito, nanti de la Grace Divine, Empereur du Japon acoupant le trône de la Lignée impé- rale ininterrompue, révélons à la vuo de notre peuple ce document ; ayant lu et examiné le traité relatif à la Pologne signé et scellé engemble par les plénipotentiaires des Etats-Unis d'Amérique, de la Grande-Bre- tagne, de la Franoo, de l'Italie et de la Pologne ainsi que l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190038_03_s1.pdf",
+  "source_filename": "19190038_03_s1.pdf",
+  "source_sha256": "a165b6b0554f7243c0983fc86cb8a5c63bbbe4efc06b8bc69aa065de33e5d9a9",
+  "treaty_id": "TRA19190038",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "POLOGNE 28 juin 1919\n\n( Traduit du Japonais )\n\nNout,\n\nYoshibito, nanti de la Grace Divine, Empereur du Japon acoupant le trône de la Lignée impé- rale ininterrompue, révélons à la vuo de notre peuple ce document ;\n\nayant lu et examiné le traité relatif à la Pologne signé et scellé engemble par les plénipotentiaires des Etats-Unis d'Amérique, de la Grande-Bre- tagne, de la Franoo, de l'Italie et de la Pologne ainsi que les plénlpotentiaires de l'Empire, le 28 du Gème mois de la sème année de l'ère Tai- sho, versailles en France, le ratifions et approuvons, en la 2579ème année de l'ère qui court du couron- nement de Jimmu Tenno, e i du Lème mois de la sème année de l'èr\n\nTaisho, en notre Palais Impérial de Tokyo nous signons de notre propre nom et apposons notre sceau impérial.\n\n(1) = 28 juin\n\n1919\n\n(2) = 7 novembre 1919",
+      "quality_score": 0.9937,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "+\" y,\n\n( signé:)\n\nYOSHIHITO\n\nSCEAU DE\n\nL'EMPIRE DU\n\nJAPON\n\nLe Vicomte, Ministre des Affaires Etrangéres (signé:) UCEIDA ...",
+      "quality_score": 0.971,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19190007_50_s1",
+      "title": "Traduction en français  non datée de l'instrument de ratification",
+      "score": 0.901498,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_25_s1",
+      "title": "Instrument de ratification du Japon",
+      "score": 0.375698,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_064_s1",
+      "title": "Pouvoirs de signature japonais",
+      "score": 0.37014,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_445_s1",
+      "title": "Ratifications du traité, protocole et déclaration du 10 sept 1919 ; déclaration d'accession de l'État Serbe-Croate-Slovène du 5 déc 1919  et déclaration modificative du 8 déc 1919 ; déclaration d'accession de la Roumanie du 9 déc 1919 ; traité avec la Tchécoslovaquie du 10 sept 1919 ; traité avec l'État Serbe-Croate-Slovène du 10 set 1919 ; traité avec la Roumanie du 9 déc 1919  ; arrangement concernant l'italie du 19 sept 1919 et déclaration le modifiant du 8 déc 1919 ; arrangement concernant l'ancienne monarchie austro-hongroise du 10 sept 1919 et déclaration le modifiant du 8 déc 1919",
+      "score": 0.363729,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_716_s1",
+      "title": "Instrument de ratification portugais du traité, du protocole et de la déclaration",
+      "score": 0.356733,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.35193,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200048_351_s1",
+      "title": "Instrument de ratification grec",
+      "score": 0.350388,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_351_s1",
+      "title": "Instrument de ratification hongrois du traité, du protocole et de la déclaration",
+      "score": 0.350222,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_797_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919",
+      "score": 0.350155,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

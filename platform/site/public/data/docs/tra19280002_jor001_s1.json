@@ -1,0 +1,129 @@
+{
+  "document_id": "tra19280002_jor001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9895,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "INSTRUMENT FOR ACCESSION The Government of the Hashemite kingdom of Jordan declares to informity with Article 3 of the Protocol and ensures to fulfil all obligation eriving from the Convention and the Protocol in witness where of, I have signed this document and affixed here to, th eal of the Ministry of Foreign Affairs of the Hashemite Kingdom of Jordar which core ip on to it 2 dece by 20 the Shawal the year 1425 l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_jor001_s1.pdf",
+  "source_filename": "tra19280002_jor001_s1.pdf",
+  "source_sha256": "d0c03315245596a325f05844156f24484fdcd4e5b634fd9702314e031ad4c2d5",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "JOR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "INSTRUMENT FOR ACCESSION\n\nThe Government of the Hashemite kingdom of Jordan declares to\n\ninformity with Article 3 of the Protocol and ensures to fulfil all obligation eriving from the Convention and the Protocol in witness where of, I have signed this document and affixed here to, th eal of the Ministry of Foreign Affairs of the Hashemite Kingdom of Jordar which core ip on to it 2 dece by 20 the Shawal the year 1425 ltjia,\n\n9l-lull.\n\nMinister of Foreign Affairs",
+      "quality_score": 0.9872,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "INSTRUMENT D'ADHESION\n\nProtocole du 16 Novembre 1966, 30 Novembre 1972 et amendée le 24 juin 1982 et le 31 Mai 1988, conformement aux dispositions de l'article 3 du Protocole, et qu'il s'acquittera de bonne foi de touttes les obligations qui sont prévues dans la Convention et le\n\nProtovcole.\n\nEN FOI DE QUOI, j'ai signé le présent instrument a Amman en le 2, Decembre 2004.\n\nMinistre d'Affairs Étrangeres",
+      "quality_score": 0.9919,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.68575,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_199_s1",
+      "title": "Instrument d'adhésion de la Slovénie",
+      "score": 0.67457,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lbr001_s1",
+      "title": "Instrument d'adhésion.",
+      "score": 0.647635,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lao001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.636942,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.602702,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_30_s1",
+      "title": "Instrument de ratification du Japon",
+      "score": 0.564245,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.562307,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mli001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.558654,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.405552,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_026_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.3933,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

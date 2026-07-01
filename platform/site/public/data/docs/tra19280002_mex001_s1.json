@@ -1,0 +1,129 @@
+{
+  "document_id": "tra19280002_mex001_s1",
+  "title": "Lettre notifiant l'adhésion",
+  "year": 1928,
+  "doc_type": "Lettre",
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "quality_score": 0.9686,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "317667 Tlatelolco, D.F., a 3 de diciembre de 1982. Señor Ministro: Tengo el agrado de informar a Vuestra Excelencia que ha biéndose cumplido con los requisitos constitucionales corres- pondientes, el Gobierno de los Estados Unidos Mexicanos. se ad hiere a la Convención relativa a las Exposiciones Internaciona les, firmada en París, el 22 de noviembre de 1928 y al Protoco 10 que la enmienda, hecho en Paris, el 30 de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_mex001_s1.pdf",
+  "source_filename": "tra19280002_mex001_s1.pdf",
+  "source_sha256": "40231236d980435d195fb3fceef210fa35de3b8745043ae31ccec077e3d44e0c",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MEX001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "317667\n\nTlatelolco, D.F., a 3 de diciembre de 1982.\n\nSeñor Ministro:\n\nTengo el agrado de informar a Vuestra Excelencia que ha biéndose cumplido con los requisitos constitucionales corres- pondientes, el Gobierno de los Estados Unidos Mexicanos. se ad hiere a la Convención relativa a las Exposiciones Internaciona les, firmada en París, el 22 de noviembre de 1928 y al Protoco 10 que la enmienda, hecho en Paris, el 30 de noviembre de 1972, con la siguiente Declaración:\n\n\"Al adherirse a la Convención,\n\nfirmada en París,\n\nel 22 de noviembre de 1928, relativa a las Expo-\n\nal Protocolo que la en\n\nque alude el párrafo 2 del ArtIculo 25 de la con vención se entiende referida a la legislación nā cional aplicable\".\n\nAprovecho la oportunidad para renovar a Vuestra Excelen- cia el testimonio de mi más alta consideración.\n\nB. Sepahuda\n\nAl Excelentísimo señor\n\nClaude Cheysson,\n\nMinistro de Relaciones Exteriores,\n\nParís, Francia.",
+      "quality_score": 0.9758,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "EMBAJADA DE MEXICO\n\nPARIS\n\nTlatelolco, le 3 décembre 1982.\n\nMonsieur le Ministre,\n\nJ'ai l'honneur de faire savoir a Votre Excellence que le Gouvernement des Etats-Unis Mexicains, ayant dûment rem- pli les formalités constitutionnelles nécessaires, a décidé d'adhérer à la Convention relative aux Expositions Interna- tionales, signée à Paris le 28 novembre 1928 , ainsi qu'au\n\nProtocole, souscrit à Paris le 30 novembre 1972, en vue de modifier certaines des dispositions de la Convention précitée. Cette décision est assortie de la Déclaration suivante:\n\n\"En adhérant à la Convention relative aux Expositions internationales, signée à Paris le 22 novembre 1928\n\nJe saisis cette occasion pour renouveler à Votre\n\nExcellence les assurances de ma plus haute considération.\n\nBernardo Sepulveda (SIGNE)\n\nA Son Exc. M. Claude Cheysson\n\nMinistre des Relations Extérieures,\n\nParis, France.",
+      "quality_score": 0.9613,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_mex002_s1",
+      "title": "Pouvoir remis au chargé d'affaires à Paris pour déposer l'instrument d'adhésion",
+      "score": 0.700481,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_30_s1",
+      "title": "Lettre constituant instrument d'adhésion",
+      "score": 0.427083,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_13_s1",
+      "title": "Instrument de ratification de l'Argentine",
+      "score": 0.416967,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_050_s1",
+      "title": "Instrument d'acceptation des Etats-Unis",
+      "score": 0.416594,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_020_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'acceptation de Cuba",
+      "score": 0.404396,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_110_s1",
+      "title": "Note verbale d'accompagnement de l'instrument de ratification des Etats-Unis et de réserve sur l'alinéa 2 de l'article 10",
+      "score": 0.403926,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.403402,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.401721,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.399575,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_031_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.395041,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

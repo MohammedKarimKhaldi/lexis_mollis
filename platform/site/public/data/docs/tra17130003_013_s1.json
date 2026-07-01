@@ -1,0 +1,132 @@
+{
+  "document_id": "tra17130003_013_s1",
+  "title": "Article séparé relatif notamment aux avantages commerciaux accordés par le Roi Catholique",
+  "year": 1713,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "fr"
+  ],
+  "quality_score": 0.8412,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "1719 i avail. つ hollander C acade depare signer memetems. Dia maila have ela Contage, quele traite i san articless aure parlequel léble s'engage paro Sateo Cath! quiel fia da pain ave ectle hep. esquelle turacordera, la meres ananages da Commore porté parle tracte o Munster, Jigne entelafiance\"\" fur la paix a faire - entrelebro@.bsp.com ва верив!' rticle Separe es traitter de paux es de Commerce etans conclis ce jou…",
+  "tags": [
+    "century:c18",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra17130003_013_s1.pdf",
+  "source_filename": "tra17130003_013_s1.pdf",
+  "source_sha256": "f90bd5a03150b3feadc61d7862a73bdcc5f7eae775cd868828b6922b070711d7",
+  "treaty_id": "TRA17130003",
+  "treaty_number": "013",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1719 i avail.\n\nつ\n\nhollander C acade depare signer memetems.\n\nDia maila have ela Contage, quele traite i\n\nsan articless aure\n\nparlequel léble s'engage paro Sateo\n\nCath! quiel fia da pain ave ectle hep.\n\nesquelle turacordera, la meres ananages da Commore porté parle tracte o Munster,",
+      "quality_score": 0.8621,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "ca"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Jigne entelafiance\"\"\n\nfur la paix a faire - entrelebro@.bsp.com ва верив!'\n\nrticle Separe\n\nes traitter de paux es de Commerce etans conclis ce jourdhuy unzieme Aril mil Sept cent treize ente la Majesté Eres Chrestienne es\n\nLes Seigneurs Etats Gencraux des Provinces\n\nAnies, et La Majesté voulan contribuer de plico au retablissemens de la paix generale, particulie -rement aully de celle ente le Roy d lopagne, el les Seigneurs Etats Generaux promes es.\n\n1, Séngage pour et au nom de la Majesté fartolique que la paix de fera analy entre elle es lee\n\nSeigneurs Lats Generaux, es que par le traité (de cette paix, tous les avantages et utiliter de\n\nCommerce el de Navigation es aunes porter par.\n\nle Traité de Munster leuis Seront accorder es que\n\nL'atention S'en fera en forme de Traité austyloss que les ambassadeuro Pleniposentiaires du Roy ¿'Espagne Seront avriver dans cette ville 'Derecht.",
+      "quality_score": 0.8267,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Cet article Separe\" aura la mesme force que led.\n\nTraité de Paix, et comme Sil y estois inderé de mot en mot, et Sera ratifié dans le mesme temi que ce Eraité..\n\nEn foy de quay Mois ambassadeurs Exhaordinaires el Meripotentianes du Roy tres Chrestien et des\n\nSeigneurs Etais Generaux avons ligné le present.\n\narticle ed of avons fait apposer les cachers de nos armes, a Verecht L'onzieme avril mil jept cent treine,\n\nHurelly\n\nenduich\n\nslesuases\n\nWillem Buys\n\nBDIfer\n\nChel Nan\n\nKantreek\n\n3 Linde tade sekensonge si-goflinge\n\nYrnef var kmip hiers,",
+      "quality_score": 0.8348,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_730_s1",
+      "title": "Ratification du traité et protocole du 10 septembre 1919",
+      "score": 0.363445,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17630001_001_s1",
+      "title": "Accord (ensemble un article séparé) (ensemble texte des pouvoirs français, britanniques et espagnols)",
+      "score": 0.360575,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_731_s1",
+      "title": "Instrument de ratification britannique de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.358789,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_030_s1",
+      "title": "Traité de paix entre la France et la Savoie",
+      "score": 0.355712,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17680005_004",
+      "title": "Instrument français",
+      "score": 0.355104,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16970009_005a_s1",
+      "title": "Promesse de ratification",
+      "score": 0.353039,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_031_s1",
+      "title": "Article séparé",
+      "score": 0.351294,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

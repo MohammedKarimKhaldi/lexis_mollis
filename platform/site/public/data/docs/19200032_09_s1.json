@@ -1,0 +1,94 @@
+{
+  "document_id": "19200032_09_s1",
+  "title": "Traduction française de l'instrument danois",
+  "year": 1920,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7932,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Sraduelion Nois Cheisture Dis par la grâce de Dien Ronde Danemark et à Islande, des Vandaled ettoco Goths. Duc de Sheosig Holotein, Stormarn. des Dithmarses de Savenbourg et lu al'examiné la Convention detémationale amenant litatilisement à Paris D'min destitit dutinational du Froid, conclue à Paris le 21 juin 1920, et qui est conque mat à mot dans les termes suivants: Non: avons appronue, sanstianne l'ratifié ladit…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_09_s1.pdf",
+  "source_filename": "19200032_09_s1.pdf",
+  "source_sha256": "098b00a9b789adc34640d862af8b95784f183f77182a75259defafd6903faf3c",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "255a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Sraduelion\n\nNois Cheisture Dis par la grâce de Dien Ronde Danemark et à Islande, des Vandaled ettoco Goths.\n\nDuc de Sheosig Holotein, Stormarn.\n\ndes Dithmarses de Savenbourg et\n\nlu al'examiné la Convention detémationale amenant litatilisement à Paris D'min destitit dutinational du Froid, conclue à Paris le 21 juin 1920, et qui est conque mat à mot dans les termes suivants:",
+      "quality_score": 0.8063,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Non: avons appronue, sanstianne l'ratifié ladite\n\nConvention comme par les prisentes Daus l'approuvars, satines et al fiona de la unico la meilleure \"'la plie efficnce que faire ne paul\" pour Cens el\n\nDias Erecesens, promettant'en foral parole de Rai pire dans el'ene Daccomplir et l'observer a serpetensement lalité Convention dans lãno ses paitiel clauses.\n\nEn faire quai de nom rique de Ditio\n\nmain cal' adde de ratifications it\" y avons fait\n\nCopeanne, le 7 février mil muf cent vingt dens de D'étie Rigue le Dixième.\n\nsioni: Christian R\n\n(2.S)\n\ncontienioni, Banals Seavenis.\n\nRalification.",
+      "quality_score": 0.78,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.396931,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.385179,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_12_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.38472,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_14_s1",
+      "title": "Note d'accompagnement de l'instrument de ratification du Danemark",
+      "score": 0.357719,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

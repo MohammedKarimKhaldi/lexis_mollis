@@ -1,0 +1,67 @@
+{
+  "document_id": "19880315_650a_s1",
+  "title": "Note de transmission de l'instrument finlandais",
+  "year": 1988,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "I. the undersigned, Thorvald STOLTENBERG, Minister of Foreign Affairs of Norway, hereby authorize and empower Mr. Arne LANGELAND, Ambassador of Norway in Paris, to sign the Final Act Of the Conference of Plenipotentiaries for the establishment of a European Synchrotron Radiation Facility. Oslo, on this twelfth day of December, One Thousand Nine Hundred and Eighty-eight",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880315_650a_s1.pdf",
+  "source_filename": "19880315_650a_s1.pdf",
+  "source_sha256": "833f56074aa2c6c3cd4fb68d47c48fc208b0623c92a745211c59819c430531ea",
+  "treaty_id": "TRA19880315",
+  "treaty_number": "FIN003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "I.\n\nthe undersigned,\n\nThorvald\n\nSTOLTENBERG,\n\nMinister of Foreign Affairs of Norway, hereby authorize and empower Mr. Arne LANGELAND, Ambassador of Norway in\n\nParis, to sign the\n\nFinal Act Of the Conference of\n\nPlenipotentiaries for the establishment of a European\n\nSynchrotron Radiation Facility.\n\nOslo, on this twelfth day of December,\n\nOne Thousand Nine Hundred and Eighty-eight",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880315_650b_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.465889,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_255a_s1",
+      "title": "Pouvoirs danois pour la signature de la convention et de l'acte final",
+      "score": 0.383775,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910247_651",
+      "title": "Instrument de ratification",
+      "score": 0.360634,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

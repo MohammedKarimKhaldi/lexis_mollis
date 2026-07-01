@@ -1,0 +1,138 @@
+{
+  "document_id": "19280002_172_s1",
+  "title": "Dépôt de l'instrument d'adhésion de la Pologne",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9472,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 172 PROCES VERBAL DE DEPOI DES RATIFICATIONS DE IA POLOGNE SUR LA CONVENTION CONCERNANT LES EXPOSIIIONS INTERNATIONALES SIGNES A PARIS LE 22 NOVIMBRE 1928, Le XXKXOXKIZXET LE PROTOCOLE DE SIGNATURE PORTANT LA MEME DATE Conformément aux dispositions finales de la Convention concernant les expositions internationales signee à Paris le 22 Novembre 1928 , Le Ambascadeur i - de Pologne s'est présenté au Ministèr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_172_s1.pdf",
+  "source_filename": "19280002_172_s1.pdf",
+  "source_sha256": "ae735a96fad96f4a7f0c7fb2dd11af4e33efa05f20995ceb9b7441551c5c716e",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "POL002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 172",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "PROCES VERBAL DE DEPOI DES RATIFICATIONS DE\n\nIA POLOGNE SUR LA CONVENTION CONCERNANT LES\n\nEXPOSIIIONS INTERNATIONALES SIGNES A PARIS LE\n\n22 NOVIMBRE 1928, Le XXKXOXKIZXET LE PROTOCOLE\n\nDE SIGNATURE PORTANT LA MEME DATE\n\nConformément aux dispositions finales de la Convention concernant les expositions internationales signee à Paris le 22 Novembre 1928 , Le Ambascadeur i - de Pologne s'est présenté au\n\nMinistère des Affaires Etrangères pour procéder au dépôt des ratifications de S. Exc. Le Prébident de la République Polonaise\n\nBUI la Convention dant et le protocole de signature et les remettre au Gouvernement de la République .\n\nLes instruments de ratifications ont été poduits et ayant été après examen, trouvés en bonne et due forme, sont confiés au\n\nGouvernement de la République Française pour rester déposés dans ses archives.\n\nLe Gouvernement français donnera avis aux Puissances contractantes des dépôts des instruments de ratifications ultérieurement effectués par les autres Etats signataires .\n\n.....",
+      "quality_score": 0.9723,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "EN FOI DE QUOI\n\nles soussignés ont dressé le présent\n\nprocès verbal et y ont apposé leurs cachets • mas suis a 18 fillet 1132",
+      "quality_score": 0.926,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_177_s1",
+      "title": "Déclaration des autorités portugaises relative à Macao",
+      "score": 0.855674,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.85011,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_174_s1",
+      "title": "Pouvoirs pour déposer l'instrument de ratification",
+      "score": 0.839263,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_176_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.837283,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_171_s1",
+      "title": "Instrument de ratification",
+      "score": 0.83584,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_175_s1",
+      "title": "Instrument de ratification",
+      "score": 0.824764,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.824455,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_170_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.820083,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.797943,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_182_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.752499,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

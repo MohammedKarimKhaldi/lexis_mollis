@@ -1,0 +1,87 @@
+{
+  "document_id": "19230072_351a_s1",
+  "title": "Instrument de ratification grec du Traité de Paix et de 12 actes signés à Lausanne les 30 janvier et 24 juillet 1923",
+  "year": 1923,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "es",
+    "it",
+    "lt",
+    "pt"
+  ],
+  "quality_score": 0.7827,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Seisggios Bo! cavias Jajas Frajias, Basiogias Povuaşias nai rou uni iis douguias ág'iiigoo, brodins bionigns eg- teray aili io: Escos coroi iguardoidoro nai Sudónuns duarodoóias. eo Eppronão nai Sougumo apndoonçõo nai cogaro- nójpov. 6) Dujéozos voçoi aupnožrias Dube mgi Serajag s nfsucisy Spadi. S) Sogoronójlou csoi dagayisonoriós rvie do Jovo uia. 9) Variongppou coroi goofionoras roû Sygioo nai ins Joogiogayfias s…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_351a_s1.pdf",
+  "source_filename": "19230072_351a_s1.pdf",
+  "source_sha256": "4d3d93f773809d2ba6482d6bbcdaa7d6b2bfea3eb2b2b8a575556ac65dabe55f",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "GRE002a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Seisggios Bo!\n\ncavias Jajas Frajias, Basiogias Povuaşias nai rou uni iis douguias ág'iiigoo, brodins bionigns eg- teray aili io:\n\nEscos coroi iguardoidoro nai Sudónuns duarodoóias.",
+      "quality_score": 0.7994,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt",
+        "lt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "eo Eppronão nai Sougumo apndoonçõo nai cogaro- nójpov. 6) Dujéozos voçoi aupnožrias\n\nDube mgi Serajag s nfsucisy\n\nSpadi. S) Sogoronójlou csoi dagayisonoriós rvie do Jovo uia. 9) Variongppou coroi goofionoras roû Sygioo nai ins Joogiogayfias sis igróuzyas diazáfus îns ceoi Sión ano fuodruns, uai Dajésosioy são signuéços Dováuscos iy orien agós ins agooyógnoy zaviny. 10ySbgorouggoo cei Ragayóes nai riso Hinoos Juboor nai Sevédovi\n\n11) Marioniópor droi zos inogoaguooo is Séboano inn 10\n\nOligovoron 1920 boxdmos croi Opáums nai Hlonovoin\n\nEcoy. 12) Juporoviópor opermoo agãs zin isoggagny iis áxonions busdruns ião coû Koárovo iãy Séoboo, Koo arãoo vai Spobsycos.",
+      "quality_score": 0.7719,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt",
+        "es",
+        "lt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "'Coadepouda Eguzisoues uai Suspoiney cig budiunyzaizng, uazi roooroneso na troney avig ororios Blueio re uai oi\n\nTererepo stinooseno nai Diadopor uni sh in taoa.\n\nboney aveiy und iaregiyoues ziy aag iprag oiaydii ooze capataory airivo.\n\nsio dionoorn tan decoze ris coi Suzzigou Bacyeiau Sppagidos.",
+      "quality_score": 0.7767,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

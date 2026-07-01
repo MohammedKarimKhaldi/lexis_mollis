@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_148_s1",
+  "title": "Lettres patentes d'adhésion",
+  "year": 1928,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9564,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 148 Ha a k on, Roi de NoIrège, faisons savir: Que désirant user de la faculté d'adhésion réservée aux Etats non signataires de la Convention concernant les Ex- positions internationales, avee Protocole et Protocole de Signature, signés à Paris le 22 Novembre 1928; Nous avons résolu d'adhérer par les présentes à ladite Convention aveo Protocole et Protocole de Signature et promettons de concourir à son appli…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_148_s1.pdf",
+  "source_filename": "19280002_148_s1.pdf",
+  "source_sha256": "6af25ebe91126b04d01b4887268b69e22a2c60f3fa1a8e386be4e0f7c1cdd0ff",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "NOR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 148",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Ha a k on,\n\nRoi de NoIrège, faisons savir:\n\nQue désirant user de la faculté d'adhésion réservée aux Etats non signataires de la Convention concernant les Ex- positions internationales, avee Protocole et Protocole de Signature, signés à Paris le 22 Novembre 1928;\n\nNous avons résolu d'adhérer par les présentes à ladite Convention aveo Protocole et Protocole de Signature et promettons de concourir à son application.\n\nEN FOI DE QUOI Nous avons signé les présentes lettres d'adhésion et y avons fait apposer le sceau du Royaume.\n\nPalais Royal,\n\nOslo, le 6 Novembre 1936.\n\nPostant\n\nHalan Tote",
+      "quality_score": 0.9695,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_149_s1",
+      "title": "Acte d'adhésion",
+      "score": 0.856634,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_142_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.849568,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_144_s1",
+      "title": "Instrument d'adhésion du Niger",
+      "score": 0.849249,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_147_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.838753,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_138_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.78171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_158_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.774728,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.755953,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.753332,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_152_s1",
+      "title": "Notification aux Etats parties de la dénonciation de la Nouvelle-Zélande",
+      "score": 0.753235,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_155_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.740139,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

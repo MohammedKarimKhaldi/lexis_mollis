@@ -1,0 +1,48 @@
+{
+  "document_id": "19200032_32_s1",
+  "title": "Pouvoirs norvégiens",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8575,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "faisons savais que lors amois voulu pas las présente autorises Monsieur Christopher First Imith, Conseiller Commercial de la Légation de teniege à Tirer \" oran, à la Forfiren Internationale du Froid qui aura lieu à Paris le 21 juin 1920, une convention internationad portant création d'un Inalibut International da Froid. Donné au Filais Noyal de istiannia la lin De. Sentert? Talen",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_32_s1.pdf",
+  "source_filename": "19200032_32_s1.pdf",
+  "source_sha256": "7277cc8854e8951bbe16baeffb97c7095ffb8272b24bb90f3ec4517ed9f5911d",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "NOR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "faisons savais que lors amois voulu pas las présente autorises Monsieur Christopher First\n\nImith, Conseiller Commercial de la Légation de teniege à Tirer \" oran, à la Forfiren\n\nInternationale du Froid qui aura lieu à\n\nParis le 21 juin 1920, une convention internationad portant création d'un Inalibut International da Froid.\n\nDonné au Filais Noyal de istiannia la lin De.\n\nSentert?\n\nTalen",
+      "quality_score": 0.8575,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

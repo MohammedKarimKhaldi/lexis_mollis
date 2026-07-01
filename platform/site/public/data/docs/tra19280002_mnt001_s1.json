@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_mnt001_s1",
+  "title": "Transmission de l'instrument d'adhésion : note verbale des autorités monténégrines",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9879,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassade du Monténégro en France No: 2012-319/8-319 L'Ambassade du Monténégro en France présente ses compliments au Ministère des Affaires Etrangères de la République Française et à l'honneur de transmettre au Ministère, dans sa capacité de dépositaire de la Convention concernant les expositions internationales signée à Paris le 22 novembre 1928, l'Instrument d'adhésion du Monténégro à la dite Convention. L'Ambassa…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_mnt001_s1.pdf",
+  "source_filename": "tra19280002_mnt001_s1.pdf",
+  "source_sha256": "2ff445261cb8f55c3928fb4327d5ca6d2736aa3086c21f67457a33f160f7ca11",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MNT001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassade du Monténégro en France\n\nNo: 2012-319/8-319\n\nL'Ambassade du Monténégro en France présente ses compliments\n\nau Ministère des Affaires\n\nEtrangères de la République Française et à l'honneur de transmettre au Ministère, dans sa capacité de dépositaire de la Convention concernant les expositions internationales signée à Paris le 22 novembre 1928, l'Instrument d'adhésion du Monténégro à la dite Convention.\n\nL'Ambassade du Monténégro en France saisit cette occasion pour renouveler au Ministère des\n\nAffaires Etrangères de la République Française les assurances de sa haute considération.\n\nC\n\nDU MON,S\n\nENEGRO\n\nParis, le 16 juillet 2012\n\n6\n\nPARIS\n\nPARIZ\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nParis",
+      "quality_score": 0.9879,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.424419,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hnd001_s1",
+      "title": "Instrument d'adhésion du Honduras",
+      "score": 0.416322,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.410358,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_005_s1",
+      "title": "Ratification",
+      "score": 0.409886,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mus001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.404232,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_032_s1",
+      "title": "Notification au Bureau international des expositions de l'acceptation du Maroc",
+      "score": 0.403309,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_034_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.401703,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.399076,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.398859,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.398074,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

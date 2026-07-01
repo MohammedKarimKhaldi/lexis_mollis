@@ -1,0 +1,144 @@
+{
+  "document_id": "19510004_31_s1",
+  "title": "Instrument d'adhésion de la Hongrie",
+  "year": 1951,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr",
+    "hu"
+  ],
+  "quality_score": 0.7783,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "A Magyar Népköztársaság Elnöki Tanácsa ki- nyilvánitja a Magyar Nepköztarsaságnak az Európai és Föld- közitengermelléki Növényvédelmi Szervezet létesitése tárgyá- ban Párizsban, az 1951. évi április hó 18. napján létrejött és a Szervozet Tanácsa által az 1955. évi április hó 27. nap- ján módositott Egyezményhez történó csatlakozását- A Magyar Népkörtársaság Elnöki Tanáosa a fen- tiek hiteléül Elnökének és Titkárának…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_31_s1.pdf",
+  "source_filename": "19510004_31_s1.pdf",
+  "source_sha256": "59d805acceef6d4f6e4245ed3dbe740b2e18434e095f77954f66c0472a0edea8",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "HUN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "A Magyar Népköztársaság Elnöki Tanácsa ki- nyilvánitja a Magyar Nepköztarsaságnak az Európai és Föld- közitengermelléki Növényvédelmi Szervezet létesitése tárgyá- ban Párizsban, az 1951. évi április hó 18. napján létrejött és a Szervozet Tanácsa által az 1955. évi április hó 27. nap- ján módositott Egyezményhez történó csatlakozását- A Magyar Népkörtársaság Elnöki Tanáosa a fen- tiek hiteléül Elnökének és Titkárának aláirásával, valamint pecsétjével ellátva ezt az okiratot kiadja.\n\nBudapest, 1960. március 18.\n\na Népköztársaság Elnöki\n\nTanacsának elnoke\n\nTanácsának titkára",
+      "quality_score": 0.7758,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "TRADUCTION AUTHENTIQUE\n\nLe Conseil de Présidence de la République\n\nPopulaire Hongroise déclare l'adhésion de la Répub- lique Populaire Hongroise & la Convention relative à la création de l'Organisation Européenne et Médi- terranéenne pour la Protection des Plantes, conclue à Paris le 18 avril 1951 et modifiée par le Conseil de l'Organisation le 27 avril 1955.\n\nEn fol de quoi le Conseil de Présidence de la République Populaire Hongroise a délivré le présent instrument muni des signatures de son Pré- sident et de son Secrétaire ainsi que de son sceau.\n\nBudapest, le 18 mars 1960.\n\nstván DOBI m• p résident du Conseil de Présidenc de la République Populaire secrétaire\n\nIstván KRISTÓF m. p.\n\ndu Conseil de Présidence de la République Populaire\n\nPour l'authenticité de la traduction:\n\nHanna anna Jokov",
+      "quality_score": 0.9786,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "meee O- ra a a\n\n#7 i",
+      "quality_score": 0.5804,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_058_s1",
+      "title": "Pouvoirs français",
+      "score": 0.403091,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_25_s1",
+      "title": "Instrument de ratification de la Hongrie",
+      "score": 0.394068,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hun001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.391788,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_27_s1",
+      "title": "Instrument d'adhésion de la Finlande",
+      "score": 0.387019,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_396_s1",
+      "title": "Pouvoirs français",
+      "score": 0.38252,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_14_s1",
+      "title": "Pouvoirs de signature de l'Autriche",
+      "score": 0.373762,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_54_s1",
+      "title": "Instrument d'adhésion de la Moldavie",
+      "score": 0.373392,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_08_s1",
+      "title": "Instrument d'adhésion de l'Allemagne démocratique",
+      "score": 0.371636,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_10_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la RDA",
+      "score": 0.369514,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_61_s1",
+      "title": "Instrument d'adhésion de la Pologne",
+      "score": 0.367992,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

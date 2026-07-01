@@ -1,0 +1,60 @@
+{
+  "document_id": "tra19370087_008_s1",
+  "title": "Procès-verbal d'échange des instruments de ratification",
+  "year": 1937,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9537,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LÉGATION DE FRANCE RÉPUBLIQUE FRANÇAISE AU SIAM BANGKOK, LE été dument comparées et constatées conformes de part et d'autre, l'échange a pris place ce jour. En témoignage de quoi les Parties signataires ont signé le Présent Document et ont apposé leurs sceaux • TAIT à BANGKOK en frangais en double exemplaire le Vingt Septième jour du Dixième Mois de l'Année Deux Nil quatre cent quatre-vingts de l'Ere Bouddhiste, cor…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19370087_008_s1.pdf",
+  "source_filename": "tra19370087_008_s1.pdf",
+  "source_sha256": "3ce868d7dda23d167c80b6b2c6410b77616d3f23a68e8007c7b5c6a83d880362",
+  "treaty_id": "TRA19370087",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LÉGATION DE FRANCE RÉPUBLIQUE FRANÇAISE\n\nAU SIAM\n\nBANGKOK, LE",
+      "quality_score": 0.9506,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "été dument comparées et constatées conformes de part et d'autre, l'échange a pris place ce jour.\n\nEn témoignage de quoi les Parties signataires ont signé le Présent Document et ont apposé leurs sceaux •\n\nTAIT à BANGKOK en frangais en double exemplaire le Vingt Septième jour du Dixième Mois de l'Année\n\nDeux Nil quatre cent quatre-vingts de l'Ere Bouddhiste, correspondant au Vingt septième jour du Mois de Janvier de l'Année Mil neuf cent trente neuf de l'Ire Chrétienne •/.\n\naullénismis\n\nArcokarmathikes",
+      "quality_score": 0.9569,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

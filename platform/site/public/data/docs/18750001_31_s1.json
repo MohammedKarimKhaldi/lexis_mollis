@@ -373,5 +373,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_14_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.983239,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_0012_s1",
+      "title": "Accord",
+      "score": 0.94437,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_19_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.93615,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_05_s1",
+      "title": "Convention du mètre et son règlement annexe",
+      "score": 0.799561,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_46_s1",
+      "title": "Instrument d'adhésion du Portugal",
+      "score": 0.717031,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_26_s1",
+      "title": "Instrument de ratification de la Grèce",
+      "score": 0.593141,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_23_s1",
+      "title": "Instrument de ratification des Etats-Unis",
+      "score": 0.533706,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_436_s1",
+      "title": "Instrument de ratification italien de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.441765,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_436c_s1",
+      "title": "Instrument de ratification italien de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.440065,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200016_436_s1",
+      "title": "Pouvoirs (pour Mario Grassi)",
+      "score": 0.433552,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
 }

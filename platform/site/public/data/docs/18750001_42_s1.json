@@ -787,5 +787,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_23_s1",
+      "title": "Instrument de ratification des Etats-Unis",
+      "score": 0.43574,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_0012_s1",
+      "title": "Accord",
+      "score": 0.428787,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_31_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.423822,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_46_s1",
+      "title": "Instrument d'adhésion du Portugal",
+      "score": 0.422409,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_21_s1",
+      "title": "Instrument de ratification de l'Espagne",
+      "score": 0.421106,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_14_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.418961,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610266_005_s1",
+      "title": "Ratification mauritanienne",
+      "score": 0.417668,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20230094_001_s1",
+      "title": "Convention",
+      "score": 0.411017,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_007_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.411017,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20250001_001_s1",
+      "title": "Accord",
+      "score": 0.411017,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
 }

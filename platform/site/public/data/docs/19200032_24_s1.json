@@ -1,0 +1,118 @@
+{
+  "document_id": "19200032_24_s1",
+  "title": "Pouvoirs de dépôt de la ratification italienne",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "it"
+  ],
+  "quality_score": 0.957,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Vittorio Emanuele III PER GRAZIA DI DIO E PER VOLONTÀ DELLA NAZIONE RE D'ITALIA Al tutti coloro che le presenti vedranno, salute: Per le presenti da Noi firmato e munite del Mostio Neale sigillo, conferiamo al Conto Velio Amintongare. Penatore del Fogno, aPostro mbasciatore a Parigi, priono potere e mandato speciale per procedere al denosito delle ratificazioni della borensione internationato per to creazione a Pari…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_24_s1.pdf",
+  "source_filename": "19200032_24_s1.pdf",
+  "source_sha256": "a0e8ce8a973203827bafab14a46966c80576e5aceb625510b37c378d7d1de663",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Vittorio Emanuele III\n\nPER GRAZIA DI DIO E PER VOLONTÀ DELLA NAZIONE\n\nRE D'ITALIA\n\nAl tutti coloro che le presenti vedranno, salute:\n\nPer le presenti da Noi firmato e munite del Mostio\n\nNeale sigillo, conferiamo al Conto Velio Amintongare.\n\nPenatore del Fogno, aPostro mbasciatore a Parigi, priono potere e mandato speciale per procedere al denosito delle ratificazioni della borensione internationato per to creazione a Parigi di un Politito internazionale det freddo firmato a Farigi il 21 Giugno 1990.\n\nNoma, addi: 13 Gennaio 1991.\n\nPer parte di Sua Moresto il Poe\n\nIl sinistro dogli Affari Esteri",
+      "quality_score": 0.957,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_ita001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.407583,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19240003_36_s1",
+      "title": "Pouvoirs de négociation et de signature de l'Italie",
+      "score": 0.403539,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_435_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.394795,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19240002_116",
+      "title": "Notification aux Etats parties à l'OIE",
+      "score": 0.382215,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_46_s1",
+      "title": "Pouvoirs (Rome, janvier, mai et juin 1919) et note des autorités italiennes relative au changement de plénipotentiaires (27 mai 1919)",
+      "score": 0.380402,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_25_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.376926,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_061_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.375001,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_435",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.372659,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_54_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.369864,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_436_s1",
+      "title": "Instrument de ratification italien de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.368389,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

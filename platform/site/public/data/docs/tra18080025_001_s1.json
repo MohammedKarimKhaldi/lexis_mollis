@@ -1,0 +1,57 @@
+{
+  "document_id": "tra18080025_001_s1",
+  "title": "Texte de l'acte",
+  "year": 1808,
+  "doc_type": "Texte",
+  "languages": [
+    "ar"
+  ],
+  "quality_score": 0.7794,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "بلعث خرير قلم وموهب تطيراولدوكه لشبويلك كبوز بكعراوع لنهوماه ومعازيله وهمن بنى كف الم النا تفتول ومصوم ارتحار وابقا ايدوج هي للشابت اله ما يشاحضر ترى باكعار صدوات تجدكن طائفة فريجه بلرشاق لماليه قر الخايله اولال صلح وصلاحز متيه وشروه سابق اوذن دوستلغمز متحكم اولفبى شبومحله قبدا ولندى غربا فى وإضماه وما مام",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Texte",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:revolutionary_napoleonic_1789_1815",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18080025_001_s1.pdf",
+  "source_filename": "tra18080025_001_s1.pdf",
+  "source_sha256": "4ae69be5c26a0a1eb1935ebf530f08e138229f34bcccc7743be25c9e626e0dfe",
+  "treaty_id": "TRA18080025",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "بلعث خرير قلم وموهب تطيراولدوكه\n\nلشبويلك كبوز بكعراوع لنهوماه ومعازيله وهمن بنى كف الم النا تفتول ومصوم ارتحار وابقا ايدوج هي للشابت اله ما يشاحضر ترى باكعار صدوات تجدكن طائفة فريجه بلرشاق لماليه قر الخايله اولال صلح وصلاحز متيه وشروه سابق اوذن دوستلغمز متحكم اولفبى شبومحله قبدا ولندى\n\nغربا فى وإضماه وما مام",
+      "quality_score": 0.7794,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16940005_001",
+      "title": "Textes de divers traités (1694-1820)",
+      "score": 0.351612,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19660161_23_s1",
+  "title": "Pouvoirs de signature",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9761,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PLEINS_-_ POUYCIRS Nous, Théocharis C. Rendis, Sous-Secrétaire d'Etat aux Affaires Etrangères, autorisons par les Présentes Son Excellence Monsieur Jean D. Kalergis, Ambassadeur de Grèce à Paris, à signer le Protocole additionnel modifiant 1' article IV de la Convention du 22 novembre 1928, concernant les Expositions Internationales. Fait à Athènes ce six octobre mil neuf cent soixante six.",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_23_s1.pdf",
+  "source_filename": "19660161_23_s1.pdf",
+  "source_sha256": "18e638de417c1e9c8ae34a3daaf12f98f36f83f30b40590197116feca369a6ed",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "GRE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PLEINS_-_ POUYCIRS\n\nNous, Théocharis C. Rendis, Sous-Secrétaire d'Etat aux Affaires Etrangères, autorisons par les Présentes Son\n\nExcellence Monsieur Jean D. Kalergis, Ambassadeur de Grèce à Paris, à signer le Protocole additionnel modifiant 1' article IV de la Convention du 22 novembre 1928, concernant les Expositions Internationales.\n\nFait à Athènes ce six octobre mil neuf cent soixante six.",
+      "quality_score": 0.9761,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_22_s1",
+      "title": "Instrument de ratification de Haïti",
+      "score": 0.40406,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_30_s1",
+      "title": "Lettre constituant instrument d'adhésion",
+      "score": 0.381053,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.369378,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_050_s1",
+      "title": "Instrument d'acceptation des Etats-Unis",
+      "score": 0.363877,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_31_s1",
+      "title": "Pouvoirs de signature du Liban",
+      "score": 0.36369,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_47_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.36079,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_350_s1",
+      "title": "Instrument d'adhésion hongrois",
+      "score": 0.35892,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_13_s1",
+      "title": "Instrument de ratification de l'Argentine",
+      "score": 0.358752,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_mex001_s1",
+      "title": "Lettre notifiant l'adhésion",
+      "score": 0.355666,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_29_s1",
+      "title": "Pouvoirs de signature au Japon",
+      "score": 0.355003,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

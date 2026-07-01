@@ -1,0 +1,122 @@
+{
+  "document_id": "tra19200049_446_s1",
+  "title": "Instrument de ratification japonais",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr",
+    "ko"
+  ],
+  "quality_score": 0.6388,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "以 5 基 儿 全 闪 - 革 家 -和 玉 举 必 时 中洲 < 多 十 口 秆 志 出 镍 “» 一 忆 六 涉 宅 区 直 训 时 下 取 六 生 妇 并 只 I A 去 x:3 州 ~* 区 融 尺 著 如 区 惟 帝 区 SA 家 铬 上 呈 攻 寺 是 只 4W 呈 四 < 二 自 革 - 尺 计生 是 时 关 资 六 由 歇 党 人 代 C 一 B. [7 E. Lu ^ 4 E ru 1 À . E h 19200049 446 : Ratification du Traité entre les puissances alliées et la Grèce concernant les minorités ∞ Texte de ratification par le Japon du Traité concernant les minorités signé le 10 août 1920 en France…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200049_446_s1.pdf",
+  "source_filename": "tra19200049_446_s1.pdf",
+  "source_sha256": "13cd4733089f6d38f4f02527f98aa93cdcc59e26350bbb586435606a80b9c93b",
+  "treaty_id": "TRA19200049",
+  "treaty_number": "JPN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "以 5 基 儿 全 闪 - 革 家 -和 玉\n\n举 必 时 中洲 < 多 十 口 秆 志 出 镍 “» 一 忆 六 涉 宅 区 直 训 时 下 取 六 生 妇\n\n并 只 I A\n\n去 x:3 州 ~* 区 融 尺 著 如 区 惟 帝 区\n\nSA\n\n家 铬 上 呈 攻 寺 是 只 4W 呈 四 < 二 自 革 - 尺 计生 是 时",
+      "quality_score": 0.4974,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "ko"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "关 资 六 由 歇 党 人 代 C 一",
+      "quality_score": 0.4936,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "B.\n\n[7\n\nE.\n\nLu ^\n\n4\n\nE ru 1\n\nÀ\n\n. E\n\nh",
+      "quality_score": 0.5909,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "19200049 446 : Ratification du Traité entre les puissances alliées et la Grèce concernant les minorités\n\n∞ Texte de ratification par le Japon du Traité concernant les minorités signé le 10 août 1920 en France, à Sèvres, entre les puissances alliées et associées et la Grèce ∞ Ratification par Yoshihito (NdT : Empereur du Japon) et Hirohito (NdT : prince héritier)\n\n∞ A gauche de la signature et du sceau de l’empereur, signature du baron\n\nMATSUI (Keishirô? illisible), ministre des affaires étrangères",
+      "quality_score": 0.9733,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200048_446_s1",
+      "title": "Instrument de ratification japonais",
+      "score": 0.870763,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18580012_003_s1",
+      "title": "Texte du traité OU Texte du projet de traité",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_445_s1",
+      "title": "Ratifications du traité, protocole et déclaration du 10 sept 1919 ; déclaration d'accession de l'État Serbe-Croate-Slovène du 5 déc 1919  et déclaration modificative du 8 déc 1919 ; déclaration d'accession de la Roumanie du 9 déc 1919 ; traité avec la Tchécoslovaquie du 10 sept 1919 ; traité avec l'État Serbe-Croate-Slovène du 10 set 1919 ; traité avec la Roumanie du 9 déc 1919  ; arrangement concernant l'italie du 19 sept 1919 et déclaration le modifiant du 8 déc 1919 ; arrangement concernant l'ancienne monarchie austro-hongroise du 10 sept 1919 et déclaration le modifiant du 8 déc 1919",
+      "score": 0.401166,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_064_s1",
+      "title": "Pouvoirs de signature japonais",
+      "score": 0.35419,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_449_s1",
+      "title": "Note verbale du protocole à l'Ambassade du Japon (ensemble un état des ratifications des Traités de Paix par chaque puissance signataire, exception faite du Japon)",
+      "score": 0.352397,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

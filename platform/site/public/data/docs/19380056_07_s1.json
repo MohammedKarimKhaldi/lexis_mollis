@@ -1,0 +1,143 @@
+{
+  "document_id": "19380056_07_s1",
+  "title": "Pouvoirs de signature de la Grèce",
+  "year": 1938,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "ca",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9133,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "・. Ratifications ouIrésiden, de la République Française SUR L'ACTE INTERNATIONAL CONCERNANT LA COOPERAIION INTELLECTUELLE SIGNE A PARIS LE 3 DECELBRE I938 , 0777 tur quen MOE PME UN ACTE INTERNATIONAL CONCERNANT LA COOPERATION INTELLECTUELLE AYANT ETE SIGNE A PARIS LE 5 DECEMBRE 1938 ACTE INTERNATIONAL DONT LA TENEUR SUIT | ACTE INTERNATIONAL ......e eene Hyant sue examiné le dit Acte, Nous l'avons approuvé et appro…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380056_07_s1.pdf",
+  "source_filename": "19380056_07_s1.pdf",
+  "source_sha256": "af2cc16a495dc343ac290e5075ec26b23f1bf7a3fde50d04de712620c8c6f203",
+  "treaty_id": "TRA19380056",
+  "treaty_number": "GRE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "・.\n\nRatifications ouIrésiden, de la République Française\n\nSUR L'ACTE INTERNATIONAL CONCERNANT LA COOPERAIION INTELLECTUELLE\n\nSIGNE A PARIS LE 3 DECELBRE I938 ,",
+      "quality_score": 0.953,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "0777 tur quen MOE PME\n\nUN ACTE INTERNATIONAL CONCERNANT LA COOPERATION INTELLECTUELLE\n\nAYANT ETE SIGNE A PARIS LE 5 DECEMBRE 1938\n\nACTE INTERNATIONAL DONT LA TENEUR SUIT\n\n|\n\nACTE INTERNATIONAL ......e eene",
+      "quality_score": 0.8942,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "ca"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Hyant sue examiné le dit\n\nActe, Nous l'avons approuvé et approuvons en toute et chacune des dispositions qui y sont contenues;\n\nDéclarons qu'il est accepté, ratifié, et confirnie, et Tromettons qu'il sera inviolablement observé.\n\nEn foi de quoi, Nous avonsdonie les présentes, revêtues du Sceau dela\n\nKépublique.\n\nIt Mary a tant te 1t tout 939\n\nLe Ministre des Affaires Etrangères,\n\n1. Cumme",
+      "quality_score": 0.8926,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_23_s1",
+      "title": "Instrument de ratification de la Grèce",
+      "score": 0.652509,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_37_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.637336,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.622521,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_326",
+      "title": "Instrument de ratification française",
+      "score": 0.605463,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600199_004_s1",
+      "title": "Instrument français",
+      "score": 0.602361,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610137_003",
+      "title": "Instrument français",
+      "score": 0.587788,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_351_s1",
+      "title": "Instrument de ratification grec",
+      "score": 0.413892,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_23_s1",
+      "title": "Instrument de ratification de l'Egypte",
+      "score": 0.410645,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_004",
+      "title": "Instrument français",
+      "score": 0.409286,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_005",
+      "title": "Instrument dahoméen (ratification)",
+      "score": 0.40866,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

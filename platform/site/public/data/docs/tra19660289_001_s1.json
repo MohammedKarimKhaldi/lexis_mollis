@@ -1,0 +1,243 @@
+{
+  "document_id": "tra19660289_001_s1",
+  "title": "Accord",
+  "year": 1966,
+  "doc_type": "Accord",
+  "languages": [
+    "ca",
+    "de",
+    "en",
+    "fr",
+    "hu",
+    "ru",
+    "so"
+  ],
+  "quality_score": 0.7994,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "P A e E ie Siere a S AAAS A SeT Fe EE AE D 3 a AA Dok E LAPES S s ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEMENT DE L'UNION DES REPUBLIQUES SOCIALISTES SOVIETIQUES SUR UNE COOPERATION POUR L'ETUDE ET L'EXPLORATION DE L'ESPACE A DES FINS PACIFIQUES Le Gouvernement de la République Française et le Gouvernement de l'Union des Républiques Socialistes Soviétiques Reconnaissant l'importance de l'étude…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19660289_001_s1.pdf",
+  "source_filename": "tra19660289_001_s1.pdf",
+  "source_sha256": "6129cf0fb2850b76c9669492c12cd7c2c56598a64357f63463df2b3b28cdb7eb",
+  "treaty_id": "TRA19660289",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "P A e E ie Siere a\n\nS\n\nAAAS\n\nA SeT\n\nFe\n\nEE AE D 3 a AA Dok E LAPES\n\nS s",
+      "quality_score": 0.5639,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nET LE GOUVERNEMENT DE L'UNION DES REPUBLIQUES SOCIALISTES SOVIETIQUES\n\nSUR UNE COOPERATION POUR L'ETUDE ET L'EXPLORATION DE L'ESPACE\n\nA DES FINS PACIFIQUES",
+      "quality_score": 0.9643,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "ca"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Le Gouvernement de la République\n\nFrançaise et le Gouvernement de l'Union des Républiques\n\nSocialistes Soviétiques\n\nReconnaissant l'importance de l'étude\n\net de l'exploration de l'espace à des fins pacifiques,\n\nEstimant que la coopération entre la\n\nFrance et l'U.R.S.S. dans ce domaine permettra d'étendre ultérieurement la coopération entre les deux pays et qu'elle répond à l'esprit d'amitié traditionnelle entre le peuple français et le peuple soviétique,\n\nConsidérant que cette coopération dans\n\nle domaine spatial représenterait un pas important vers la mise en oeuvre d'une coopération seientifique et technique européenne,\n\nExprimant leur satisfaction pour les\n\ncontacts qui ont déjà eu lieu entre les organismes intéressés de France et d'U.R.S.S. dans ce domaine,\n\nSont convenus de ce qui suit :\n\nARTICLE I - Les deux Gouvernements ont\n\ndécidé de préparer et de mettre en oeuvre un programme de coopération seientifique et technique entre la France et 1'U.R.S.S. pour l'étude et l'exploration pacifique de l'espace. Dans ce but ils apporteront leur appui\n\net leur\n\naide aux organismes intéressés des deux pays.\n\nARTICLE II - Cette coopération s'effec-\n\ntuera :\n\n- Dans le domaine de l'étude de\n\nl'espace y compris, en principe, le lancement par l'Union\n\nSoviétique d'un satellite français ;\n\n- Dans le domaine de la météorologie\n\nspatiale avec utilisation des appareils scientifiques les plus récents ;\n\n1K\n\n.... Thu",
+      "quality_score": 0.9867,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "- Dans l'étude des télécommunications\n\npar l'intermédiaire des satellites artificiels de la terre, ainsi que par des\n\nprojets et des expériences en commun, en\n\nparticulier dans le domaine de la tólévision ;\n\n- Par l'échange d'informations seienti-\n\nfiques, de stagiaires, de délégations scientifiques et par l'organisation de\n\nconférences et de symposiums.\n\nLes informations scientifiques obtenues\n\nau cours des expériences effectuées en commun doivent être accessibles aux deux Parties contractantes et transmises dans des délais raisonnables. Ie droit de première publi- cation appartient\n\naux auteurs de l'expérience.\n\nARTICIE III - D'autres domaines de\n\ncoopération pourront être définis à l'avenir d'un commun accord.\n\nARTICLE IV - Le programme et les\n\nconditions de cette coopération dans les domaines prévus à l'Article II du présent Accord seront précisés par des protocoles de travail.\n\nARTICLE V - Des groupes de travail\n\nmixtes composés de représentants des organismes scienti- fiques et techniques des deux pays assureront l'élaboration et l'exécution des programmes de coopération.\n\nARTICIE VI - Chacune des Barties\n\ncontractantes notifiera à l'autre l'accomplissement des procédures légales requises pour la mise en vigueur du présent Accord. Celui-ci prendra effet à la dernière de ces notifications.\n\nIl est conclu pour dix ans. Il restera\n\nen vigueur sans limitation de durée au-delà de ce délai,\n\nsauf dénonciation avec préavis de deux ans.\n\nARTICLE VII - Les\n\nprésentes dispo-\n\nsitions pourront, à la demande de l'une des Parties contractantes, être amendées d'un commun accord.\n\nEN FOI DE QUOI, les Représentants des\n\ndeux Gouvernements ont signé le présent Accord et y ont apposé leur Sceau.\n\nFAIT à MOSCOU, le 30 Juin 1966\n\nen deux exemplaires, en langue française et en langue russe, les deux textes faisant également foi./.\n\nPour le Gouvernement de la République Française\n\nPour le Gouvernement\n\nde l'Union des\n\nRépubliques\n\nSocialistes\n\nSoviétiques\n\nА. Уроменк-\n\nThui",
+      "quality_score": 0.9973,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "СОГЛАШЕНИЕ\n\nСоциалистических\n\nРеспублик о сотрудничестве в области изучения и освоения космического пространства в мирных целях",
+      "quality_score": 0.8692,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "СОГЛАШЕНИЕ\n\nмежду Правительством Французской Республики\n\nПравительством Союза Советских Социалистических\n\nРеспублик о сотрудничестве в\n\nобласти изучения и\n\nосвоения космического пространства в мирных целях\n\nПравительство Французской Республики и Правительство\n\nСоюза Советских Социалистических Республик :\n\nпризнавая важность изучения и освоения в мирных целях космического пространства, считая, что сотрудничество между Францией и СССР в этой области будет способствовать дальнейшему расширению сотрудни чества между двумя странами и отвечает духу традиционной дружбы между французским и советским народами, полагая, что такое сотрудничество в области космоса явилось бы важным шагом в деле налаживания европейского научнотехнического сотрудничества, выражая удовлетворение уже имевшими место контактами между заинтересованными организациями Франции и СССР в данной области, согласились о нижеследующем :\n\nСтатья І\n\nОба Правительства договорились о подготовке и осуществлении программы научно-технического сотрудничества между Францией и СССР в области изучения и мирного освоения космического про странства. В этих целях они будут оказывать поддержку и помощь заинтересованным организациям обеих стран.\n\n1k",
+      "quality_score": 0.9477,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "2.\n\nСтатья 2\n\nЭто сотрудничество будет осуществляться :\n\n- в области изучения космического пространства, включая, в принципе, запуск Советским Союзом французского спутника;\n\n- в области космической метеоролотии с использованием но- вейшей научной аппаратуры;\n\n- в области изучения космической связи через искусствен- ные спутники Земли, а также совместными проектными и экспери - ментальными работами и, в частности, в области телевидения;\n\n- путем обмена научной информацией, стажерами, научными делегациями и организации конференций и симпозиумов.\n\nНаучные сведения, получаемые при проведении совместных экспериментов, должны быть доступны обеим. Договаривающимся сто- ронам и передаваться в приемлемые сроки. Право первой публика - ции будет принадлежать авторам эксперимента.\n\nСтатья 3\n\nВ дальнейшем по взаимной дотоворенности могут быть опреде- лены другие области сотрудничества.\n\nСтатья 4\n\nПрограмма и условия сотрудничества в областях, предусмот- ренных статьей 2 настоящего Соглашения, будут определяться рабо- чими протоколами.\n\nСтатья 5\n\nСмешанные рабочие группы из представителей научных и тех- нических организаций обеих стран обеспечат разработку и выпол - нение программ сотрудничества.\n\nСтатья 6\n\nКаждая из Договаривающихся сторон уведомит друпую сторону о выполнении законодательной процедуры, необходимой для\n\n3.\n\nвступления в силу настоящего Соглашения. Соглашение вступит в силу со дня последнето из этих уведомлений.\n\nНастоящее Соглашение заключается сроком на IO лет. Оно остается в силе до тех пор, пока не будет денонсировано одной из сторон. В этом случае оно прекращает действие через два года после уведомления о денонсации.\n\nСтатья ?\n\nВ настоящее Соглашение по просьбе одной из Договариваю щихся сторон и по взаимному согласию могут быть внесены уточ нения и дополнения.\n\nВ удостоверение чего Представители двух Правительств подписали настоящее Соглашение и приложили к нему свои печати.\n\nСовершено в городе Москве 30 июня 1966 года, в двух экземплярах на французском и русском языках, причем оба текста имеют одинаковую силу.\n\nПо уполномочию\n\nПравительства Французской\n\nРеспублики\n\nN/mmn tal\n\nПо уполномочию\n\nПравительства Союза Советских\n\nСоциалистических Республик\n\n4. Променя",
+      "quality_score": 0.9631,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "f 3",
+      "quality_score": 0.5258,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "PAINT INEEN ARTEO AASL E PEAASI ENEE EAA WRA I ETNON AI AER O EAA LAESA AE Sa LLEN AA ETEENI SO AAI EA\n\nR NRE AAIR\n\nMENPE V i VOOSE AENA:\n\naan eaen A AEE Dh A E n ao ae- - p armare ne me e e D a aT unmas tnna ae aree n aaraa aaaeeeaa ran\n\n“YJSuuuugy \"NUGGUY “SvYyuuuuuuyu uyyy yy i HI\n\nTAKUN GUUJUU\n\nHezsss ~“ vyug\n\npaanan naan\n\nS\n\nmarn AANA\n\nPOAR INE HAENEN A A AE\n\nNPPL AET AEA AENEID BARE AATE FE TARNEN EAA IO I DEO VEAN d O AAEEGNEIANT NA VARAR AAE A WEEE IANEV",
+      "quality_score": 0.6157,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "so",
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "AA S\n\n9\n\nK 7\n\nwE i;\n\nR",
+      "quality_score": 0.5605,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19800128_001_s1",
+      "title": "Accord",
+      "score": 0.422269,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_001_s1",
+      "title": "Accord",
+      "score": 0.418328,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910098_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.414702,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.412925,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19660081_100_s1",
+      "title": "Texte non signé de l'accord",
+      "score": 0.410919,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_001",
+      "title": "tra19720042_001",
+      "score": 0.410323,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240039_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.403724,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19650048_001_s1",
+      "title": "Accord",
+      "score": 0.401412,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192548_001_s1",
+      "title": "Accord-cadre",
+      "score": 0.396726,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202725_001_s1",
+      "title": "Accord",
+      "score": 0.396379,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

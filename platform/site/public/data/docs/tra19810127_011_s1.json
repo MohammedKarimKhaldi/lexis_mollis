@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19810127_011_s1",
+  "title": "Certificat d'enregistrement à l'ONU",
+  "year": 1981,
+  "doc_type": "Certificat",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9668,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Sulanka is apple more 19%7 UNITED NATIONS - ORGANISATION DES NATIONS UNIES No. 29879 CERTIFICATE OF REGISTRATION The SECRETARY-GENERAL of the UNITED NATIONS hereby certifles that the following international agreement. has been registered with the Article 102 of Secretariat, in accordance with the Charter of the United Nations: CERTIFICAT d'ENREGISTREMENT Le SECRETAIRE GENERAL de 1 'ORGANISATION des NATIONS UNIES cer…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810127_011_s1.pdf",
+  "source_filename": "tra19810127_011_s1.pdf",
+  "source_sha256": "57dbba6ef8df21612fdc9105ab313560f6cb4a07e5de35291d0ba1047cbe8201",
+  "treaty_id": "TRA19810127",
+  "treaty_number": "011",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Sulanka is apple more\n\n19%7\n\nUNITED NATIONS - ORGANISATION DES NATIONS UNIES\n\nNo. 29879\n\nCERTIFICATE OF REGISTRATION\n\nThe SECRETARY-GENERAL of the UNITED NATIONS hereby certifles that the following international agreement.\n\nhas been registered with the\n\nArticle 102 of\n\nSecretariat, in accordance with\n\nthe Charter of\n\nthe United Nations:\n\nCERTIFICAT d'ENREGISTREMENT\n\nLe SECRETAIRE GENERAL de 1 'ORGANISATION des NATIONS UNIES certifié par la présente que L'accord international Indiqué ci-après a été enregistré\n\nau secretariat\n\n'Article 102 de la Charte des Nations Unles :\n\nNo. 21845. FRANCE AND SRI LANKA:\n\nprevention\n\nfiscal evasion with\n\nSigned at Colombo on 17 September 1981\n\nRegistered by France on 12 April 1983.\n\nNo 21845. FRANCE ET SRI LANKA :\n\nEnregistrée pac 1a. France le 12 avril 1983.\n\nDone at New York on 11 November\n\n1986\n\nFor the SECRETARY-GENERAL\n\nUNITED\n\nNATIONS\n\nLe Conseiller juridique:\n\nEwe-nin Peiei9\n\nThe Legal Counsel\n\nRGANISATION\n\nFait à New York le 11 novembre 1986\n\nPour le SECRETAIRE GENERAL\n\nUNTES",
+      "quality_score": 0.9668,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.669937,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810111_100_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.609681,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19770068_101_s1",
+      "title": "Certificat d'enregistrement ONU (protocole et échange de lettres)",
+      "score": 0.601268,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820004_990_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.594781,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.45657,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.451148,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_100_s1",
+      "title": "Certificat ONU d'enregistrement de la convention",
+      "score": 0.449062,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.446777,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.440975,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_100_s1",
+      "title": "Certificat ONU d'enregistrement du Traité",
+      "score": 0.436554,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

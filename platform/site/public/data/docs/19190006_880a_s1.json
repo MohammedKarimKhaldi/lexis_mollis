@@ -53,5 +53,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190006_880b_s1",
+      "title": "Pouvoirs tchécoslovaques",
+      "score": 0.681859,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_68_s1",
+      "title": "Pouvoirs",
+      "score": 0.386951,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200069_881_s1",
+      "title": "Instrument de ratification tchécoslovaque",
+      "score": 0.375487,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_051_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.367887,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_037",
+      "title": "Notification par le gouvernement français de l'acte par lequel la RDA fait part de la réapplication de l'arrangement",
+      "score": 0.366282,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19550235_003",
+      "title": "Pouvoirs tunisiens",
+      "score": 0.362131,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_881_s1",
+      "title": "Instrument de ratification tchécoslovaque",
+      "score": 0.361262,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_151a_s1",
+      "title": "Instrument de ratification bulgare du Traité de Paix",
+      "score": 0.357142,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_17_s1",
+      "title": "Instrument de ratification",
+      "score": 0.355772,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.352692,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

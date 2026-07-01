@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_089_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification britannique",
+  "year": 1954,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9773,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL 'DE DEPÔT DE L'INSTRUMENT DE RATIFICATION DE LA GRANDE-BRETAGNE DE LA CONVENTION INTERNATIONALE DU ler DECEMBRE 1954 SE SUBSTITUANT A LA CONVENTION DU 2I JUIN 1920, MODIFIEE le 3I MAI 1937, RELATIVE A L'INSTITUT INTERNATIONAL DU FROID Son Excellence Sir Pierson DIXON, G. C. M.G. , C. B. , Ambassadeur Extraordinaire et Plénipotentiaire de Grande Bretagne, sest présenté aujourd'hui au Ministèr e des Affa…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_089_s1.pdf",
+  "source_filename": "19540096_089_s1.pdf",
+  "source_sha256": "bd90287e683635e3dc639dab8d20582cf3139fd219f07900931f4a56b21fc7e9",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "GBR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\n'DE DEPÔT DE L'INSTRUMENT DE RATIFICATION DE LA GRANDE-BRETAGNE\n\nDE LA CONVENTION INTERNATIONALE DU ler DECEMBRE 1954\n\nSE SUBSTITUANT A LA CONVENTION DU 2I JUIN 1920, MODIFIEE le 3I MAI 1937,\n\nRELATIVE A L'INSTITUT INTERNATIONAL DU FROID\n\nSon Excellence Sir Pierson DIXON,\n\nG. C. M.G. , C. B. , Ambassadeur Extraordinaire et Plénipotentiaire de Grande Bretagne, sest présenté aujourd'hui au Ministèr e des Affaires Etrangères, pour procéder avec Monsieur Pierre\n\nSIRAUD, Ministre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépot de l'instrument de ratification de la Grande Bretagne de la\n\nConvention Internationale du ler Décembre 1954 se substituant à la Convention du 21 Juin 1920, modifiée le 31 Mai 1937, relative à l'Institut International du Froid, en vertu de l'Article 34 de ladite Convention.\n\nL'instrument ayant été, après examen,\n\ntrouvé en bonne et due forme, a été déposé pour y\n\nEtr e\n\nconservé dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont\n\ndressé le présent Procès-Verbal qu'ils ont revêtu de leur\n\nSceau.\n\nFAII à PARIS, en double exem-\n\nplaire, le 17 Juillet 1962. /.\n\nP. litait\n\nPiessan Dika.",
+      "quality_score": 0.9773,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_034_s1",
+      "title": "Instrument de ratification du Canada",
+      "score": 0.845967,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_076_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Nouvelle-Zélande",
+      "score": 0.832099,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_019_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Australie",
+      "score": 0.772671,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_085_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.76059,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_024_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Belgique",
+      "score": 0.740722,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_047_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification danois",
+      "score": 0.722621,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_080_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification néerlandais",
+      "score": 0.70687,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_013_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification ouest-allemand",
+      "score": 0.704649,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_063_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Italie",
+      "score": 0.67519,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_58_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.626011,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

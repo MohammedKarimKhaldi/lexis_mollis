@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19740201_302_s1",
+  "title": "Note de transmission de l'instrument espagnol",
+  "year": 1974,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9558,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DIRECTION DES ARCHIVES ARRIVEE 20 SEP. 2017 COTE 3131793 Embajada de España PARAMAN L'Ambassade d'Espagne présente ses compliments au Ministère de l'Europe et des Affaires Etrangères -Mission des Accords et Traités- et à l'honneur de lui remettre l'Instrument d'Adhésion de l'Espagne au Protocole relatif aux privilèges e immunités de l'Organisation Européenne pour des recherches astronomiques dans l'Hémisphère Austra…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19740201_302_s1.pdf",
+  "source_filename": "tra19740201_302_s1.pdf",
+  "source_sha256": "69c2252033adc8b13c5bdfd324fd9d42cfed5e56a172635a608fe36c36629bfa",
+  "treaty_id": "TRA19740201",
+  "treaty_number": "302",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DIRECTION DES ARCHIVES\n\nARRIVEE\n\n20 SEP. 2017\n\nCOTE\n\n3131793\n\nEmbajada de España\n\nPARAMAN\n\nL'Ambassade d'Espagne présente ses compliments au Ministère de l'Europe et\n\ndes Affaires Etrangères -Mission des Accords et Traités- et à l'honneur de lui remettre l'Instrument d'Adhésion de l'Espagne au Protocole relatif aux privilèges e immunités de l'Organisation Européenne pour des recherches astronomiques dans l'Hémisphère Austral, fait à Paris le 12 juillet 1974.\n\nL'Ambassade d'Espagne saurait gré au Ministère de l'Europe et des Affaires\n\nÉtrangères de bien vouloir lui faire parvenir les documents suivants :\n\n- certificat de dépôt de l'instrument d'adhésion.\n\n- liste actualisée des États Partie de cet Accord comportant les dates et le texte des\n\nDéclarations et/ou réserves, s'il y en avait.\n\n- date d'entrée en vigueur de manière générale ainsi que pour l'Espagne\n\nL'Ambassade d'Espagne saisit cette occasion pour renouveler au Ministère de ¡ce et des tares taures Masion des Accords et Mates les asitares de se phe haute considérations\n\nPA\n\n• PARIS\n\nParis, le 6 septembre 2017\n\nMINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES\n\nDirection des Affaires Juridiques - Mission des Accords et Traités 57, Boulevard des Invalides 75700 PARIS",
+      "quality_score": 0.9558,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19920190_297_s1",
+      "title": "Instrument de ratification (et NV de transmission)",
+      "score": 0.41179,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040238_851",
+      "title": "Convention",
+      "score": 0.399815,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.397295,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_005",
+      "title": "tra19720042_005",
+      "score": 0.392805,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_296_s1",
+      "title": "Note verbale d'envoi de l'instrument espagnol",
+      "score": 0.392348,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20162165_006_s1",
+      "title": "Accusé de réception français de l'instrument allemand",
+      "score": 0.3915,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_861_s1",
+      "title": "Note verbale d'accompagnement de l'instrument syrien",
+      "score": 0.390665,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_296_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.38763,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_776",
+      "title": "Accusé de réception de l'instrument salvadorien",
+      "score": 0.385708,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.383601,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

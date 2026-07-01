@@ -1,0 +1,116 @@
+{
+  "document_id": "19510004_04_s1",
+  "title": "Lettre d'adhésion de l'Albanie à l'EPPO",
+  "year": 1951,
+  "doc_type": "Lettre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9921,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLIC OF ALBANIA MINISTRY OF FOREIGN AFFAIRS The Right Honourable Minister of Foreign Affairs of the Republic of France Ministry of Foreign Affairs of the Republic of France Head of Political Affairs United Nations and International Organizations Service 37 Quai d'Orsay 75700 PARIS FRANCE Sir, of the Convention. The Govemment of Republic of Albania has examined the EPPO Convention and Rules of Procedure and agree…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_04_s1.pdf",
+  "source_filename": "19510004_04_s1.pdf",
+  "source_sha256": "b27a09e2341a9748a1e7c3780a0816f05a0214470fca7c3d2ab57ccf33bc003a",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "020",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLIC OF ALBANIA\n\nMINISTRY OF FOREIGN AFFAIRS\n\nThe Right Honourable Minister of Foreign Affairs of the Republic of France\n\nMinistry of Foreign Affairs of the Republic of France\n\nHead of Political Affairs\n\nUnited Nations and International\n\nOrganizations Service 37 Quai d'Orsay 75700 PARIS\n\nFRANCE\n\nSir,\n\nof the Convention.\n\nThe Govemment of Republic of Albania has examined the EPPO\n\nConvention and Rules of Procedure and agrees to contribute to the working costs of the Organization under the conditions stated in Article XVIII of the Convention and also its Schedule I.\n\nThe Official delegate of Republic of Albania to EPPO will be Irfan\n\nTARELLI, Chief Inspector of Plant Protection Service.\n\nYours faithfully\n\nAlfred SERREQI wort\n\nMINISTER",
+      "quality_score": 0.9921,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_41_s1",
+      "title": "Lettre du Ministre de l'Agriculture de Jordanie de candidature à l'OEPP",
+      "score": 0.402848,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.395734,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_118_jamaique_adhesion_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.382857,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_281",
+      "title": "Retrait",
+      "score": 0.376012,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_380",
+      "title": "Instrument d'adhésion guyanais",
+      "score": 0.375777,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_43_s1",
+      "title": "Lettre d'adhésion du Ministre des Affaires étrangères letton. Tampon d'arrivée à NUOI en date du 21/09/1992. La date et le lieu de signature en sont pas spécifiés sur le document.",
+      "score": 0.375088,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_545",
+      "title": "Instrument d'adhésion",
+      "score": 0.370518,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840174_005_s1",
+      "title": "Instrument chypriote",
+      "score": 0.36267,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_23_s1",
+      "title": "Note verbale d'adhésion de la Croatie à l'OEPP",
+      "score": 0.360535,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_77_s1",
+      "title": "Lettre d'adhésion de l'Ukraine à l'OEPP",
+      "score": 0.360152,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

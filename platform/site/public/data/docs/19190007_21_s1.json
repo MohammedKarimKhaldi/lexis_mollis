@@ -1,0 +1,128 @@
+{
+  "document_id": "19190007_21_s1",
+  "title": "Procès-verbal de dépôt des ratifications",
+  "year": 1919,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8885,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "C) - 1\" | Conférence La Pix Ova Q' C tar ——————— Olvorétartat Général, AS ML ME soos S Février 2.79 80. Le Secrétariat Générel de la Conférence de la Paix a l'honneur de faire tenir ci-joint à Monsieur de POD = QUIZRES, copie d'une lettre £s is Délégation oub&ine, en date du 6 Février 1920, annongant que le Traité 4e Vorsailles et le Protocole annexe ont été ratifide par le Congrès de ls République cubaine le 4 Févr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_21_s1.pdf",
+  "source_filename": "19190007_21_s1.pdf",
+  "source_sha256": "7715e7086fade88eadaa284d8f8883279c54d09c868821bfb4a78ffeb3f8f2b0",
+  "treaty_id": "TRA19190007",
+  "treaty_number": "22",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "C) - 1\" |\n\nConférence La Pix Ova Q' C tar\n\n———————\n\nOlvorétartat Général,\n\nAS\n\nML ME soos S Février 2.79 80.\n\nLe Secrétariat Générel de la Conférence de la Paix a l'honneur de faire tenir ci-joint à Monsieur de POD =\n\nQUIZRES, copie d'une lettre £s is Délégation oub&ine, en date du 6 Février 1920, annongant que le Traité 4e\n\nVorsailles et le Protocole annexe ont été ratifide par le Congrès de ls République cubaine le 4 Février./.\n\nMonsieur de FOUQUIBRES . +",
+      "quality_score": 0.871,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "CON SRSNCIS DE Tà PAZ\n\nDelagacion de Cuba Paris le 6 lávrior 1920.\n\nLe Seorctariat de la Délégmtion cubains à la\n\nConférence de la Paix & l'honneur de faire connaftre au Secrétariat Général do la Conférence que le Congrès de la République de Cuba a ratifié le mercredi 4 oou- rent, à sept heures du Soir, le Traité do Paix Bigné à Versailles entre lee Puilesaneog /llises et Assooiées et l'2llemacne, le 28 Juin 1919, ainsi que le Protoco.- le du même jour; et Que, d'acaord avec los dispositions du dit Traité, cette ratification a été portée à Lg\n\nConnaissance du Gouvernement franceia par le Ddlégué et itinistre de Cuba à Faris, lequel trangmettra au\n\nGouvernement de la République l'instrument de retifive- tion sussitót que faire se pourra./.",
+      "quality_score": 0.9061,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200016_002_s1",
+      "title": "Procès verbal de dépôt des ratifications britanniques, françaises, italiennes, japonaises, belges, roumaines, serbes-croates-slovènes, siamoises, tchécoslovaques et hongroises pour le Traité de paix, le Protocole et la Déclaration",
+      "score": 0.379885,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_021_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'acceptation de Cuba",
+      "score": 0.378962,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_252_s1",
+      "title": "Procès-verbal de dépôt de l'instrument cubain",
+      "score": 0.378327,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_447_s1",
+      "title": "Procès-verbal de dépôt de l'instrument japonais",
+      "score": 0.376617,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_17_s1",
+      "title": "Note verbale d'adhésion de la Chine populaire",
+      "score": 0.371744,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_326_s1",
+      "title": "Instrument de ratification grec du traité, du protocole et de la déclaration",
+      "score": 0.369194,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_196_s1",
+      "title": "Procès-verbal de dépôt des ratifications des actes signés le 10 septembre 1919",
+      "score": 0.367777,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_448_s1",
+      "title": "Procès verbal de dépôt de l'instrument japonais",
+      "score": 0.365472,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_447_s1",
+      "title": "Note de transmission de l'instrument japonais",
+      "score": 0.365374,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_007_s1",
+      "title": "Procès-Verbal de dépôt des ratifications de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.364093,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

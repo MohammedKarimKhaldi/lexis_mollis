@@ -1,0 +1,116 @@
+{
+  "document_id": "19510004_38_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification irlandais",
+  "year": 1951,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9618,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "IRLANIE PROCES VERBAL DU DEPOT DE RATIFICATIONS SUR LA CONVENTION POUR L'ETABLISSEMENT DE L'ORGANISATION EUROPEENNE POUR LA PROTECTION DES PLANTES, SIGNEE A PARIS LE I8 AVRIL I95I. -:-:-:-:-;-: -:- Son Excellence Monsieur Cornellus Christopher CREMIN, Ambassadour Extraordinalre et Plénipotentialre d'Irlande, s'est présenté aujourd'hul au linistère des Affalres Etran- gères pour procéder avec Monsieur Alexandre PAROD…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_38_s1.pdf",
+  "source_filename": "19510004_38_s1.pdf",
+  "source_sha256": "075b7d19934fcb54bbbacb787e5af6d491d6a2b77972ef3ca3fd67e996a1c56d",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "IRL003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "IRLANIE\n\nPROCES VERBAL\n\nDU DEPOT DE RATIFICATIONS SUR LA CONVENTION POUR L'ETABLISSEMENT DE\n\nL'ORGANISATION EUROPEENNE POUR LA PROTECTION DES PLANTES, SIGNEE A\n\nPARIS LE I8 AVRIL I95I.\n\n-:-:-:-:-;-: -:-\n\nSon Excellence Monsieur Cornellus Christopher CREMIN,\n\nAmbassadour Extraordinalre et Plénipotentialre d'Irlande, s'est présenté aujourd'hul au linistère des Affalres Etran- gères pour procéder avec Monsieur Alexandre PARODI, Ambas- sadeur de France, Secrétaire Général du Ministère des Affaires\n\nEtrangères, agissant au nom du Ministre des Affalres Etran- gères, au dépôt des Ratifications de I'Irlande sur la Conven- tion pour l'établissement de I'Organisation Européonne pour\n\nArchives de la République Françalse.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent\n\nProcès-Verbal, qu'ils ont revêtu de leurs cachets.\n\nFAII A PARIS, en double exemplaire, le 15 Avril 1952./.\n\nD\n\n\"'lavodi\n\nC. C. Greami.",
+      "quality_score": 0.9618,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_19_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.728022,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_11_s1",
+      "title": "Dépôt de l'instrument d'adhésion de la Belgique",
+      "score": 0.558203,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_33_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de l'Italie",
+      "score": 0.506252,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_19_s1",
+      "title": "Procès-verbal du dépôt de ratification de la Finlande",
+      "score": 0.491397,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_49_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification luxembourgeois",
+      "score": 0.420466,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_64_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification portugais",
+      "score": 0.409999,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_74_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Turquie",
+      "score": 0.404641,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_30_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification grec",
+      "score": 0.392314,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_12_s1",
+      "title": "Procès- verbal de dépôt de l'instrument de ratification ouest-allemand",
+      "score": 0.390641,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.388142,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

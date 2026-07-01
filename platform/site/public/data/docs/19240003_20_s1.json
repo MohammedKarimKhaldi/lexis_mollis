@@ -1,0 +1,65 @@
+{
+  "document_id": "19240003_20_s1",
+  "title": "Pouvoirs de négociation et de signature espagnols",
+  "year": 1924,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.8149,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Dan Maurim por la praia de Las y la Constitución Bery de Epan or cuanto ha llegado el caso definan dl referendum el porvenio de creación de una (reinas Internacional del vino en la Conferencia que se ha de cele- brav en Faris y tiendo necesario que para ello autorice N debidamente a una perdona que marca li Peal ad circunstancias que a edle fin fueden apetecerte, tanto Hee venido e en elegeras; y nombraros como por…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_20_s1.pdf",
+  "source_filename": "19240003_20_s1.pdf",
+  "source_sha256": "4f4727c3db6e0d3d3848b74a559bc4d92fdf9b8063600b27c870beaf3157ddee",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "ESP001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Dan Maurim por la praia de Las y la Constitución\n\nBery de Epan\n\nor cuanto ha llegado el caso definan dl referendum el porvenio de creación de una (reinas\n\nInternacional del vino en la Conferencia que se ha de cele- brav en Faris y tiendo necesario que para ello autorice\n\nN debidamente a una perdona que marca li Peal ad circunstancias que a edle fin fueden apetecerte,\n\ntanto Hee venido e en elegeras;\n\ny nombraros como por la pretente\n\nos elijo y nombro para\n\nque revestido del carácter de Delegado aña en clicha Conferencia fermeis lo mas oportuno y",
+      "quality_score": 0.8497,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "on el Palacio de Madril a le de Julio Joe 1921. '\n\nOl Tuidente del Diretrio Militar higuas mi",
+      "quality_score": 0.78,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

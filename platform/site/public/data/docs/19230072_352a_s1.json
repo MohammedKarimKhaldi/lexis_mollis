@@ -1,0 +1,133 @@
+{
+  "document_id": "19230072_352a_s1",
+  "title": "Procès-verbal de dépôt de l'instrument grec relatif à 12 actes signés à Lausanne",
+  "year": 1923,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9203,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "conformément aux dispositions de l'article 143 du Traité de Paix signé à Lausanne le 24 Juillet 1923, le Minis- tre de Grèce à Paris s'est présenté au Ministère des Affaires Etrangères de la République française et a déposé les Ratifica- tions de sa Majesté le Roi des Hellènes sur ledit Traité et sur les Actes annexes suivants, savoir : e Lasenne eo Th 2 pu , 2o r66ame den Detroite yeagnle à Laul coe le 24 Junte 19t…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_352a_s1.pdf",
+  "source_filename": "19230072_352a_s1.pdf",
+  "source_sha256": "28b3382224a4d554b5930e5abd018747a410091efec3828988329372a1d67687",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "GRE003a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "conformément aux dispositions de l'article 143 du Traité de Paix signé à Lausanne le 24 Juillet 1923, le Minis- tre de Grèce à Paris s'est présenté au Ministère des Affaires\n\nEtrangères de la République française et a déposé les Ratifica- tions de sa Majesté le Roi des Hellènes sur ledit Traité et\n\nsur les Actes annexes suivants, savoir :\n\ne Lasenne eo Th 2 pu , 2o r66ame den Detroite yeagnle à Laul coe le 24 Junte 19t, la frontière de Thraco, 318n6e usarne le 24 Juillet 192 2223\") Sortent on coramerelane stenée à Leusanne de 24 Juilist\n\ndes\n\nLausanne 6°) Déclaration relative à l'amnistie et PROTOCOLE , signés\n\nà Lausanne\n\nle 24 Juillet 1923,\n\nstentel 『tagraton aataninet Biggirettp mavananea on orice\n\net DECLARATION\n\nLausanne 24 Julllet 1923, 9°) Protocole relatif à l'Accession de la\n\nBelgique\n\nPortugal à certaines dispositions\n\nd'actes signés à\n\nLausa et du\n\net DECLARATIONS de ces deux Puissances\n\nconcernant ladite acces-\n\nsion, signés à Lausanne le 24 Juillet 1923.\n\n.....",
+      "quality_score": 0.8917,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "10) Protocole relatif au territoire de Karagaten\n\nqu'aux par l'Empire\n\n¡les de Sombros et de Tenedos, signe\n\nJapon, la Grèce et\n\nJuillet 1923\n\nProtocole relatif au traité conclu à sèvres\n\nPrincipales Puissances alllees et la\n\nle 24 Juillet 1923.\n\nLausarne le 24 Juillet\n\nFait à Pario le 11 Jévrier 1924 @ aponais!",
+      "quality_score": 0.9489,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230072_352c_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative à la Thrace",
+      "score": 0.63268,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_922_s1",
+      "title": "Procès-verbal de dépôt des instruments de ratification turcs",
+      "score": 0.438194,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_003_s1",
+      "title": "Procès-verbal de dépôt des instruments britanniques, italiens et japonais de certains actes signés à Lausanne le 24 juillet 1923 et le 23 novembre 1923, et à Sèvres le 10 août 1920",
+      "score": 0.428001,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_352b_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative aux modalités du remboursement par le gouvernement hellénique des dettes résultantes des actes des autorités helléniques en Turquie",
+      "score": 0.417654,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.411166,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_732e_s1",
+      "title": "Procès-verbal de dépôt de déclarations britanniques et franco-britanniques",
+      "score": 0.403183,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_727_s1",
+      "title": "Note verbale roumaine demandant au dépositaire de rectifier la date du procès-verbal de dépôt des ratifications roumaines ainsi que le nombre d'actes conclus à Lausanne ratifiés par la Roumanie",
+      "score": 0.394552,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_733_s1",
+      "title": "Note de transmission britannique de plusieurs instruments et d'une déclaration britannique concernant les actes signés à Lausanne les 24 juillet et 23 novembre 1923 et certains actes signés à Sèvres le 10 août 1923",
+      "score": 0.384008,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19470121_001_s1",
+      "title": "Accord de paiement entre la France et la Hongrie (ensemble une annexe, protocole n° 1 confidentiel, protocole n° 2, protocole n° 3 confidentiel)",
+      "score": 0.37443,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200048_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.373411,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

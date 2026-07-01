@@ -1,0 +1,155 @@
+{
+  "document_id": "19200016_326_s1",
+  "title": "Instrument de ratification grec du traité, du protocole et de la déclaration",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8909,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Ratificatious au Présidens de la République Française sur le Traité de paix concle à Trianon, le 4 Juin 1920, entre la France, les Etals Unin d'Amé. rique, l'Empire Britannique, l'Italie et le Japon, principales Suissanceo allico et asocaces, la belgique, la Chine, Cuba, la Grèce, le Nicaragua, le Panama, la Pologne, le Portugal, la Roumanie, l'Etat Serbe Croate Slovène, le Siam et l'Etat Tchéco-Slovaque. d'une park…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200016_326_s1.pdf",
+  "source_filename": "19200016_326_s1.pdf",
+  "source_sha256": "9f89cf3eb7ff4fcffd186113a2fd7636bae64b074b43bb6ab907d5c1a33b54e3",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "GRE002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ratificatious au Présidens de la République Française sur le Traité de paix concle à Trianon, le 4\n\nJuin 1920, entre la France, les Etals Unin d'Amé.\n\nrique, l'Empire Britannique, l'Italie et le Japon, principales Suissanceo allico et asocaces, la belgique, la Chine, Cuba, la Grèce, le Nicaragua, le Panama, la Pologne, le Portugal, la Roumanie, l'Etat Serbe Croate Slovène, le Siam et l'Etat\n\nTchéco-Slovaque. d'une park, et la Bongrie, d'autre pait airdi que sur les Octer qui le complètent.\n\nsavoir: le protocole et la déclaration en Date du\n\nméme.jour.",
+      "quality_score": 0.9227,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Voir texte\n\n19200016 01\n\nSur bobine\n\nB256",
+      "quality_score": 0.9254,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "ellexandre lillerand\n\nPrésident de la République Française\n\nAtous ceux qui ces présentes elles verront.\n\nSalut:\n\nUn Craité de paix, anjant ite conclu à\n\nGrianon, le 4 Juin 1920, entie, la France; les Etats- Unis d'Amérique l'Empire Britannique, l'Italier et le Capen, le Nicaraqua, Le Panama la Loloone le Postigal, la Revumanie d'Etat Serbe: Crvale Plovines, le\n\nLiam et l'Étal (chéco-Coraque, d' une part, et la Hongrie, d'autre part ainsi que les\n\nIctes\n\nqui le completent, savoie: le prétocole et la o déclaration en date du méme jirur..\n\nOctes Dont la tencur suit",
+      "quality_score": 0.8555,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Ayant ou et staminé les.\n\ndils Tiaite et Cetes qui le complètent\n\nSous les avono approuvés et approusons en vertu des dispositions de la Loi votée par le Sénak el par la Chambre des\n\nDéputés, Déclarona qu'ile sont acceptér, ratifier et confirmer ch\n\nDromettons qu'ils seront inviola- blement observés.\n\nEn foi de quoi, Nous avons\n\ndonné les piedente, resètues du cean.\n\nde la Republique.\n\nA Paris, le 24 Juillet 1921.\n\nAthilleras\n\nPar le Frésident dela hépublique:\n\nLe Président du Conseil\n\nMinistre des Affavres\n\nElrangeies\n\nMitriar",
+      "quality_score": 0.8601,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200016_351_s1",
+      "title": "Instrument de ratification hongrois du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_731_s1",
+      "title": "Instrument de ratification britannique du traité, du protocole et de la déclaration",
+      "score": 0.993529,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_886_s1",
+      "title": "Instrument de ratification siamois du traité, du protocole et de la déclaration",
+      "score": 0.993529,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_726_s1",
+      "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_251_s1",
+      "title": "Instrument de ratification cubain du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_436_s1",
+      "title": "Pouvoirs (pour Mario Grassi)",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_396_s1",
+      "title": "Instrument de ratification français du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_196_s1",
+      "title": "Instrument de ratification chinois du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_096_s1",
+      "title": "Instrument de ratification belge du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_42_s1",
+      "title": "Instrument de ratification de la Thaïlande",
+      "score": 0.729515,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

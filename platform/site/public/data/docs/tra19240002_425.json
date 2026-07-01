@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_425",
+  "title": "Instrument d'adhésion",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "20 January 1995 Excellency, I have the honour to advise you that Iceland has decided to become a member of the Office internationale des épizooties. The Goverment of Iceland has examined the provisos of the International Agreement and of the Internal Statutes of 25 January 1924 and agrees to participate in the working costs of the Office under the conditions stated, especially with regard to Article 3 of the Interna…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_425.pdf",
+  "source_filename": "tra19240002_425.pdf",
+  "source_sha256": "f3f0f0f07b08c5680b007262760d3b4a1ef53f1c8f09cf2431e31a6028a7daaf",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "ISL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "20 January 1995\n\nExcellency,\n\nI have the honour to advise you that Iceland has decided to become a member of the\n\nOffice internationale des épizooties.\n\nThe Goverment of Iceland has examined the provisos of the International Agreement and of the Internal Statutes of 25 January 1924 and agrees to participate in the working costs of the Office under the conditions stated, especially with regard to Article 3 of the\n\nInternational Agreement and Article 11 of the Internal Statutes.\n\nThe 6th contribution category has been selected by my Government.\n\nThe official Delegate of Iceland to the OLE will be Dr. Brynjólfur Sandholt, Director of Veterinary Services.\n\nAccept, Excellency, the assurances of my highest consideration.\n\nón Baldvin Hannibalsto\n\nY Minister for Foreign Affairs\n\nHis Excellency,\n\nMr. Alain Juppé\n\nMinister of Foreign Affairs of the Republic of France 37, quai d'Orsay\n\nF_75700 PARIS\n\nCopy to: Director General, ODE",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_545",
+      "title": "Instrument d'adhésion",
+      "score": 0.678381,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_230",
+      "title": "Instrument d'adhésion",
+      "score": 0.643307,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_118_jamaique_adhesion_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.596745,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_380",
+      "title": "Instrument d'adhésion guyanais",
+      "score": 0.42766,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_090",
+      "title": "Instrument d'adhésion",
+      "score": 0.418094,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.402551,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_705",
+      "title": "Instrument d'adhésion",
+      "score": 0.396269,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_500",
+      "title": "Instrument d'adhésion",
+      "score": 0.393331,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_510",
+      "title": "Accusé de réception de l'adhésion liechtensteinoise",
+      "score": 0.387414,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_375",
+      "title": "Notification française à l'OIE",
+      "score": 0.387332,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

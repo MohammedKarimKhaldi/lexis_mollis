@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_mys001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9593,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "...... #: +1 1928-19280002 1641966 - 19660161 Tet. 1972-19720912 246-1982-319820018 AI 32/95 L'Ambassade de Malaisie présente ses compliments au Ministère des Affaires Etrangères et a I'honneur de Lui faire savoir que le Gouvernement Malaisien a décidé d'adhérer à la Convention concernant les Expositions Internationales du 22 novembre 1928 ainsi qu'au protocole du 16 novembre 1966, à celui du 30 novembre 1972 et à l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_mys001_s1.pdf",
+  "source_filename": "tra19280002_mys001_s1.pdf",
+  "source_sha256": "d65a5bdf3fefe03cc9f21449489c1550b98a11b347c1ec16f9004855d031501d",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MYS001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "......\n\n#: +1 1928-19280002 1641966 - 19660161\n\nTet. 1972-19720912 246-1982-319820018\n\nAI 32/95\n\nL'Ambassade de Malaisie présente ses compliments au Ministère des\n\nAffaires Etrangères et a I'honneur de Lui faire savoir que le\n\nGouvernement Malaisien a décidé d'adhérer à la Convention concernant les Expositions Internationales du 22 novembre 1928 ainsi qu'au protocole du 16 novembre 1966, à celui du 30 novembre 1972 et à l'Amendement du 24 juin 1982.\n\nMinistère des Affaires Etrangères considération.\n\nCacaurances de\n\nParis, le 18 avril 1995\n\nPARIS",
+      "quality_score": 0.9593,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_25_s1",
+      "title": "Instrument de ratification de la Bolivie",
+      "score": 0.488901,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_028_s1",
+      "title": "Note verbale d'acceptation de la Malaisie",
+      "score": 0.446329,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_irn002_s1",
+      "title": "Notification au Bureau international des expositions de l'adhésion de l'Iran",
+      "score": 0.419759,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mlt001_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.417018,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_isr001_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.416717,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.414529,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_040_s1",
+      "title": "Note verbale de transmission de l'instrument d'acceptation de la Roumanie",
+      "score": 0.410307,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.407773,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_005_s1",
+      "title": "Note verbale d'acceptation de l'Afrique du Sud",
+      "score": 0.40756,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.406527,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

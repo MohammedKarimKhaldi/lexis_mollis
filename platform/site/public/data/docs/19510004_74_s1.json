@@ -1,0 +1,116 @@
+{
+  "document_id": "19510004_74_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification de la Turquie",
+  "year": 1951,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.984,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT D'ADHESION DE LA REPUBLIQUE DE TURQUIE A LA CONVENTION SIGNEE A PARIS LE 18 AVRIL 1951 POUR L'ETABLISSEMENT DE L'ORGANISATION EUROPENNE ET MEDITERRANENNE POUR LA POUR LA PROTECTION DES PLANTES Monsieur CelaI CALISIAR, Conseiller de 1'Ambas- sade de Turquie s'est présentée aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Christian GIRARD, Sous-directe…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_74_s1.pdf",
+  "source_filename": "19510004_74_s1.pdf",
+  "source_sha256": "23b2d389aba49106df21cf9a5d851b47e6077b571728ae59ff404af9b922863d",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "TUR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT D'ADHESION DE LA REPUBLIQUE DE TURQUIE\n\nA LA CONVENTION SIGNEE A PARIS LE 18 AVRIL 1951\n\nPOUR L'ETABLISSEMENT DE\n\nL'ORGANISATION EUROPENNE ET MEDITERRANENNE POUR LA\n\nPOUR LA PROTECTION DES PLANTES\n\nMonsieur CelaI CALISIAR, Conseiller de 1'Ambas- sade de Turquie s'est présentée aujourd'hui au Ministère des\n\nAffaires Etrangères pour procéder avec Monsieur Christian GIRARD,\n\nSous-directeur des Unions Internationales, au dépôt de l'ins- trument d'adhésion de la République de Turquie à la Convention signée à Paris le 18 avril 1951 pour l'établissement de l'organisation européenne et méditerranéenne pour la protection\n\nI'instrument ayant été, après examen, trouvé en bonne et due forme, a été déposé, pour y être conservé, dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent Procès-verbal.\n\nFAIT A PARIS, en double exemplaire, le 10 août IX\n\nce suiter\n\nISIN 10",
+      "quality_score": 0.984,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_64_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification portugais",
+      "score": 0.418204,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_49_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification luxembourgeois",
+      "score": 0.416204,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_30_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification grec",
+      "score": 0.415172,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_36_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.406299,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_59_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification suisse",
+      "score": 0.405019,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_38_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification irlandais",
+      "score": 0.404641,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.400116,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_27_s1",
+      "title": "Dépôt de l'instrument de ratification de Haïti",
+      "score": 0.399608,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_922_s1",
+      "title": "Procès-verbal de dépôt de l'instrument turc",
+      "score": 0.392096,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_11_s1",
+      "title": "Dépôt de l'instrument d'adhésion de la Belgique",
+      "score": 0.390509,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

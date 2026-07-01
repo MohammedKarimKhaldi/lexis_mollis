@@ -1,0 +1,145 @@
+{
+  "document_id": "19280002_65_s1",
+  "title": "Pouvoirs pour la ratification de la convention",
+  "year": 1928,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.8858,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "19280002_65 Don Monso xxiI por la guaria de Dicsy la Constitución Rey de España de 1928, y siendo precito que para ello uitoria Yo debidamente ap una personas que merecia e las cualidades que a estefin pueden apetecerde, concurren en vos, y de Francisco Martin, Mai Embajador y Distinguida Orden de Carlos III, Caballero de la Real de G'rabel las Católicas condecorado con la Cruz de prinera clado del Mirito Militar, c…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_65_s1.pdf",
+  "source_filename": "19280002_65_s1.pdf",
+  "source_sha256": "27843779e6e4ea763bfee572100e3e01c32f6133240230064fd02b150e8ee0a4",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "ESP001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002_65",
+      "quality_score": 0.9434,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Don Monso xxiI por la guaria de Dicsy la Constitución\n\nRey de España\n\nde 1928, y siendo precito que para ello uitoria Yo debidamente ap\n\nuna personas que merecia e\n\nlas cualidades que a estefin pueden apetecerde, concurren en vos, y de Francisco Martin, Mai Embajador y Distinguida Orden de Carlos III, Caballero de la Real de G'rabel las\n\nCatólicas condecorado con la Cruz de prinera clado del Mirito Militar, con- Mi Medalla de Oro y con la de la Regencia, Caballero Gran Cruz de la\n\nLegión de borror, de Francia, Mi Gentihombre de Cámara con ejercicio, ete, de Por tanto, o venido an clegias y nombraras, cono por",
+      "quality_score": 0.9189,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "la presente os elijo y nombio, para que, restido del caridor dej\n\nMi Plenipotenciario procedies a depositar Mi ratificacións para lo-cual os otorgo Mi plono poder en lamas amplia forma pque en\n\nParecho de requiere y on testimonio des ello hago capador la pardente ques firmada de Mai mano y debidamente delladas, oprendas le Ministro de attado. Duda en'\n\nPalacio a deis de Dicembre de mil novecientos\n\ntreinta:\n\nEl Ministio de Estado\n\nSantap Stant y Filé",
+      "quality_score": 0.7952,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_66_s1",
+      "title": "Instrument de ratification",
+      "score": 0.783979,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.781281,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_69_s1",
+      "title": "Lettre portant dénonciation",
+      "score": 0.773179,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_68_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.770903,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.703612,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_147_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.697336,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.691722,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_76_s1",
+      "title": "Instrument d'adhésion de la Gambie",
+      "score": 0.688516,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_85_s1",
+      "title": "Procès-verbal de dépôt de la ratification de la Grèce",
+      "score": 0.67348,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_159_s1",
+      "title": "Notification du bureau international des expositions de l'adhésion de Palaos",
+      "score": 0.673196,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "document_id": "TRA20162463",
+  "title": "Texte de l'avenant",
+  "year": 2016,
+  "doc_type": "Texte",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.4548,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Avenant portant modification de l'accord du 13 septembre 2011 instituant le consortium des centres internationaux de recherche agricole en qualité d'organisation internationale, signé à Paris le 20 octobre 2016 Cote du traité TRA 00002463 Date d'entrée en vigueur 21/11/2016 En vertu de son article 11, \"le présent avenant à l'Accord entrera en vigueur pour les Parties l'ayant adopté dès le dépôt des instruments de ra…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Texte",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20162463.pdf",
+  "source_filename": "TRA20162463.pdf",
+  "source_sha256": "1b0317e26fa987feb6b084cfca2f97ea6f4a7b3692bb7317fc483f898e8b1410",
+  "treaty_id": "TRA20162463",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Avenant portant modification de l'accord du 13 septembre 2011 instituant le consortium des centres internationaux de recherche agricole en qualité\n\nd'organisation internationale, signé à Paris le 20 octobre 2016\n\nCote du traité TRA 00002463\n\nDate d'entrée en vigueur 21/11/2016\n\nEn vertu de son article 11, \"le présent avenant à l'Accord entrera en vigueur pour les Parties l'ayant adopté dès le dépôt des instruments de ratification,\n\nConditions d'entrée en vigueur d'acceptation ou d'approbation du présent avenant par les deux tiers des Parties à l'Accord. Pour les Parties à l'Accord ratificant, acceptant ou approuvant ultérieurement le présent avenant, il entrera en vigueur à la date de dépôt de leur instrument de ratification, d'acceptation ou d'approbation. \"\n\nRatification / Adhésion (A) / Succession (S)\n\nEntrée en vigueur (ou Réserve (R) ou Déclaration territoriale Déclaration de continuité\n\nParties au traité Signature (date de réception ou à date d'effet) Déclaration (D) (T) ou Objection (O) (C)\n\ndéfaut, date de la notification)\n\nDanemark 20/10/2016 sans objet 21/11/2016\n\nFrance 20/10/2016 21/11/2016 21/11/2016\n\nHongrie 28/03/2018 27/03/2019 27/03/2019\n\nNombre de parties 3",
+      "quality_score": 0.9096,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20060230_fra004_s1",
+      "title": "Notification de la ratification française",
+      "score": 0.374351,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20080356_001_s1",
+      "title": "Protocole",
+      "score": 0.366268,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_001_s1",
+      "title": "Accord de sécurité",
+      "score": 0.360559,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_326_s1",
+      "title": "Instrument de ratification",
+      "score": 0.358633,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20010080_lux002_s1",
+      "title": "Instrument de ratification",
+      "score": 0.357796,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172211_001_s1",
+      "title": "Accord",
+      "score": 0.357242,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090289_001a_s1",
+      "title": "Convention du Conseil de l'Europe sur l'accès aux documents publics",
+      "score": 0.356728,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20110345",
+      "title": "Accord",
+      "score": 0.356484,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19510004_001h_s1",
+      "title": "Convention avec les amendements adoptés le 15 septembre 1999",
+      "score": 0.355797,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220036_100_s1",
+      "title": "Publication au Journal officiel du",
+      "score": 0.355673,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

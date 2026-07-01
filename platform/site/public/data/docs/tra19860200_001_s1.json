@@ -1,0 +1,351 @@
+{
+  "document_id": "tra19860200_001_s1",
+  "title": "Accord (ensemble 1 annexe)",
+  "year": 1986,
+  "doc_type": "Accord",
+  "languages": [
+    "ca",
+    "de",
+    "en",
+    "fr",
+    "id",
+    "pt",
+    "so"
+  ],
+  "quality_score": 0.9439,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "TEL . SOES Taraia Epik m Brt apel e 1\" Tana n ACCORD DE COOFERATION DANS LE DOMAINE EU TOURISME ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEVENI DE LA REPUBLIQUE DE CHYPRE mortarre is triniema dera e enternamort is iting re stirre ferrmigies, os Ferties iciliert partim, lèremert a renterrement et à l'ear- disponart res relatiome touristiches ertre gion, normaisgarre réniprogue Ae ia norgératior dé…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19860200_001_s1.pdf",
+  "source_filename": "tra19860200_001_s1.pdf",
+  "source_sha256": "cfe91a17671cd2f92f44f6a337beb86f83943f8eb951faafa43f005f9b4f6840",
+  "treaty_id": "TRA19860200",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TEL . SOES\n\nTaraia Epik m Brt apel e 1\" Tana n",
+      "quality_score": 0.6199,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "id",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD DE COOFERATION\n\nDANS LE DOMAINE EU TOURISME\n\nENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nET LE GOUVERNEVENI DE LA REPUBLIQUE DE CHYPRE",
+      "quality_score": 0.9805,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de",
+        "so"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "mortarre\n\nis triniema dera e enternamort is iting re stirre ferrmigies,\n\nos Ferties iciliert partim, lèremert a renterrement et à l'ear-\n\ndisponart res\n\nrelatiome touristiches ertre gion,\n\nnormaisgarre réniprogue Ae\n\nia norgératior définic iane in frécert enourg d'offentie iare la\n\nnaire de lo\n\n1：，™：\n\nTians is aire a lan deemeterim.…...g.\n\n.：...，.，\n\n.....\n\n#:::::\n\n..：：・・・・.：..-*\n\n.. •:::\n\n....:..\n\n？：！....！",
+      "quality_score": 0.7982,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "- 3 -\n\nARTICLE 5 :\n\nLes Parties favorisent la diffusion de l'information touristique,\n\nen vue de\n\nrenforcer les échanges\n\nde touristes, notamment au moyen de la\n\npromotion, de l'information et de la publicité, des échanges de documentation, de films et d'expositions. de. torre»\n\nARTICLEd :\n\nIes Parties favorisent l'adoption de mesures visant à offrir une\n\nassistance dans le domaine de la formation du personnel du secteur hôtelier et à encourager la conclusion d'accoras et de conventions entre les organismes, publics et privés, concernés par l'étude et la réalisation de projets de développement touristique.\n\nARTICLE 7 :\n\nIes Parties s'efforcent d'accroître encore la coopération entre leurs autorités administratives compétentes dans le cadre des organisations internationales chargées du tourisne et procèdent à un échange d'information sur les résultats obtenus dans ce domaine.\n\nARTICLE 8 :\n\nIes Parties veillent particulièrement à ce que les autorités administratives et organismes compétents des deux pays échangent dans le cadre de leurs législations respectives, des informations, des expériences, des données et autres documentations concernant le tourisme.\n\nARTICEB 9:\n\nL'annexe au présent Accord, qui en fait partie intégrante, précise les moyens d'application du présent Accord, en ce qui concerne notarment la mise en oeuvre de la coopération prévue aux articles 4, 5 et 6.\n\n.../...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "- 4-\n\nARTICLE 10 :\n\nChacune des parties notifiera à l'autre l'accomplissement des\n\nprocédures requises, en ce qui la concerne, pour l'entrée en vigueur\n\ndu\n\nprésent Accord qui interviendra à la date de la dernière notification.\n\nL'Accord entrera alors en vigueur pour une durée de cinq ans. Sauf\n\ndénonciation avec un préavis de six mois, il est renouvelé par tacite recon- duction. Dans ce dernier cas, il peut être dénoncé à tout moment avec un préavis de six mois.\n\nFait à Paris, le 28 janvier 1986, en deux exemplaires, chacun en langues française et anglaise, les deux textes faisant également foi.\n\nPour le gouvernement de la République française\n\nLe Ministre du Commerce,\n\nT'Artisanat et du Tourisme\n\nPour le gouvernement\n\nde la République de Chypre\n\nLe Ministre du Commerce et de 1'Industrie\n\nAntoin\n\nMichel CREPEAU\n\nMichae",
+      "quality_score": 0.9918,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "ANNEXE\n\n1) - Conformément aux dispositions de l'article 5 de l'Accord\n\nde coopération dans le domaine du tourisme, les Parties favorisent la coopération entre les autorités administratives et organisnes concernés par la promotion et l'information touristiques. En particulier, les Parties ont décidé d'échanger toutes sortes de matériel de promotion et d'information touristiques (dépliants, brochures, statistiques, études sur des aspects du développement touristique...).\n\nElles ont aussi décidé de participer :\n\na) aux salons du tourisme organisés dans chacun des deux\n\npays.\n\nb) à l'organisation de \"semaines touristiques\" et réunions\n\nvisant à promouvoir le tourisme vers leur destination respective.\n\n2) - En ce qui concerne l'article 6 de l'Accord de coopéra-\n\ntion dans le domaine du tourisme et dans le cadre plus large de l'Accord de coopération scientifique et technique entre les deux pays, les deux Parties sont convenues de coopérer dans le domaine de la formation professionnelle.\n\nDes propositions concrètes seront présentées par les deux Parties à la Com- mission mixte, prévue par l'Accord de coopération scientifique et technique, notamment la prise en charge par la partie française des frais de scolarité et de séjour des ressortissants chypriotes en formation spécialisée, dans le domaine de la gestion d'hôtels et de restaurants, de la gestion et des étia- des de marché touristiques, de la planification et du développement touris- tiques en général, aussi bien que dans les secteurs connexes qui pourront être définis d'un commun accord par les Parties.\n\n3) - En ce qui concerne l'article 6 de l'Accora de coopéra-\n\ntion dans le domaine du tourisme, le gouvernement de la République française encouragera les entreprises françaises à fournir à la Cyprus Tourism Organi- sation l'assistance technique nécessaire à l'élaboration de plans de\n\ndéve-\n\nloppement pour les zones de Limassol et de troodos et un plan directeur pour la construction de ports de plaisance à Chypre.\n\n.../...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "- II -\n\nIes objectifs principaux des plans de développements sont :\n\na) Zone de Limasso1 :\n\n1 - trouver les voies et moyens de surmonter les problèmes immédiats se posant au tourisme\n\ndans la région de Linassol et particulièrement les\n\nproblènes liés à l'environnement physique du lieu.\n\n2 - déterminer les limites et les objectifs souhaitables du développement touristique et définir les axes que ce développement devrait suivre à l'avenir, ainsi que son impact économique, social et sur l'environnement.\n\n3 - préparer des stratégies et des programmes de développement et des schémas détaillés pour des zones prioritaires sélectionnées dans la région de Limassol.\n\n4 - identifier et préparer des projets prioritaires à faire mettre en oeuvre par les autorités concernées et tout projet d'investissement, ouvert au financement publie et privé, qui induira le développement global dans la zone et anéliorera la qualité du produit touristique. Identifier et définir des mesures destinées à diriger et contrôler le développement, particulièrement en ce qui concerne les densités. Proposer la mise en oeuvre d'infrastructures aussi bien que de méthodes destinées à améliorer la qualité de l'environnement et du produit touristique, afin de se conformer à la politique touristique du gouvernement chypriote.\n\nb) Zone de Troodos :\n\n1 - déterminer les possibilités de marché pour la zone de Troodos\n\net les\n\nstations avoisinantes.\n\n2 - trouver les voies et moyens d'accroître les taux d'occupation hôtelière dans cette région et d'y étendre la saison touristique.\n\n3 - préparer un plan de développement qui comprenne les projets prioritaires pour la zone et vise à la présentation d'un produit touristique complet et intégré.\n\n.../...",
+      "quality_score": 0.9955,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "- III -\n\nc) Ports de plaisance et équipements nautiques :\n\n1 - déterminer la demande d'équipements nautiques.\n\n2- préparer des reconmandations sur la capacité possible de postes à quai et mouillages (plein temps et escales) à Chypre, en tenant compte des équipements existants.\n\n3 - donner des conseils sur le type adéquat de nouveaux équipements nauti- ques et sur de nouveaux ports de plaisance.\n\n4 - préparer un plan directeur indiquant les implantations géographiques possibles pour de tels équipements.\n\nd) Coopération entre entreprises :\n\nsi les études menées par les experts français aboutissent à\n\ndes réalisations, notamment dans les zones de Limassol et de Iroodos et dans le domaine de la construction et de l'aménagement de ports de plaisance, ces réalisations devront, en priorité, être confiées par la partie chypriote à des sociétés françaises de haut niveau, spécialisées dans ces domaines a'ac- tivité.\n\nIa Partie française encouragera les entreprises françaises à\n\nréaliser leurs contrats en étroite collaboration avec des sociétés locales spécialisées dans ces domaines d'activité.\n\nIa Partie chypriote donnera de même priorité aux entreprises\n\nfrançaises susceptibles de fournir les équipements et natérielo dans des conditions comparables.\n\n4) - Ies dépenses afférentes à la venue à Chypre\n\nd'experts\n\nfrançais feront l'objet d'arrangements entre les Parties.\n\nIa Partie française assurera le paiement du salaire des\n\nperts pendant la durée de leur mission à Chypre ; elle prendra à sa charge les frais de transport des experts entre la France et Chypre.\n\n.../....",
+      "quality_score": 0.9962,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "- IV -\n\nLa Partie chypriote prendra à sa charge les frais de séjour\n\ndes experts et leurs frais de transport à l'intérieur de Chypre. Elle assistera les experts pour le bon déroulement des formalités administratives obligatoires à Chypre (permis de résidence, permis de travail, règlement des impôts et taxes). La Partie chypriote désignera un responsable qualifié chargé de la coordination des actions conmunes.\n\nLes Parties veilleront à ce que les travaux réalisés par les\n\nexperts demeurent confidentiels.\n\n5) - Pour la mise en oeuvre des paragraphes 2 et 3 de l'an-\n\nnexe, un comité mixte du tourisme sera mis en place. Il\n\ncomprendra\n\nreprésentants de chage partie. de mains \"«",
+      "quality_score": 0.9903,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "AGREEMENT\n\nFOR\n\nCOOPERATION IN THE FIELD OF TOURISM\n\nBETWEEN THE\n\nGOVERNMENT OF THE REPUBLIC OF FRANCE\n\nAND THE\n\nGOVERNMENT OF THE REPUBLIC OF CYPRUS",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "The Government of the Republic of France and the\n\nGovernment of\n\nthe Republic\n\nof Cyprus, desirous to broaden\n\nfurther the friendly relations between the two countries on the basis of equality and\n\nfor their mutual benefit, and\n\nrecognising the importance of Tourism for the development of their economic relations, have agreed:\n\nArticle 1\n\nThe Parties particularly wish to reinforce and broaden the tourist relations between the two countries, for the purpose of improving the mutual knowledge of life, history and culture of their people as well as for the purpose of increasing their bilateral exchanges in\n\nthe economic\n\nfield.\n\nThe definite co-operation under the present agreement is subject to the framework of the respective legislation of the parties and namely within the limits of the avail- able budgets.\n\nArticle 2\n\nThe Parties shall, subject to their laws\n\nand regula-\n\ntions in force:\n\nsimplify travelling formalities for the\n\npurpose of reinforcing the tourisn|\n\ntraffic between the\n\ntwo countries.\n\n.../=",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "- 2 - Article 3\n\nThe parties\n\nshall give special attention to the\n\nreinforcement\n\n凸十 tourism between\n\ntheir respective\n\ncountries, namely organized and not organized tourism, thematic specialised travel groups\n\nsuch as congresses,\n\nsymposia, exhibitions, sport activities, music and theatre festivals.\n\nArticle 4\n\nThe parties are in favour of a closer cooperation between their administrative authorities and tourism organizations as well as between other organizations participating in the development of tourism.\n\nArticle 5\n\nThe Parties consider with favour the diffusion of tourist\n\ninformation, in order to reinforce the tourist\n\ntraffic, namely by means of publicity, information and advertising, exchange of printed material, films and expositions.\n\nArticle 6\n\nThe Parties shall favourably consider the adoption of measures envisaging\n\nthe provision\n\nassistance in the\n\nfield of training of personnel in the hotel\n\nand tourist\n\nsectors and the encouragement of the conclusion of agree- ments and conventions between the organizations, public and private, concerned with the preparation and the implementation of tourist development studies and projects.\n\n.../.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "- 3-\n\nArticle ?\n\nThe Parties shall\n\nmake efforts to develop further\n\nthe co-operation between their appropriate Administrative\n\nAuthorities in the international organizations for tourism and shall exchange information concerning their achievements in this field.\n\narticle_&\n\nThe Parties shall give special attention so that the appropriate administrative authorities and organi- zations in the tourist sector of both countries would realize the exchange of information, experience, data and other documentation, concerning tourism, in the field of their respective competence.\n\nArticle 9.\n\nThe Annex of the present agreement, which consti- tutes an integral part of the agreement, will define the forms of implementation of the present Agreement as regards the carrying out of the aspects of co-opera- tion referred to in the Articles 4, 5 and 6.\n\nArticle 10\n\nThe present Agreement will enter into force upon the completion of\n\nthe necessary procedures laid down\n\nin the legislation of\n\neach contracting party, the\n\noperative date being the one which coincides with the date signifying completion of the procedures by the last party.\n\n.../.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "-4-\n\nThe Agreement will then come into operation for a period of 5 years. The Agreement will be renewed by tacit acquiescence unless denounced by one of the parties by an advance notice of 6 months.\n\nDone at Paris on the 28th Day\n\nof January, One Thousand\n\nNine Hundred\n\nEighty Six, in two original copies, one\n\nin French\n\nand one in English, both texts been equally\n\nauthen-\n\ntic.\n\nFOR THE GOVERNMENT\n\nOF THE REPUBLIC OF FRANCE\n\nFOR THE GOVERNMENI\n\nOF THE REPUBLIC OF CYPRUS\n\nMatte",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "ANNEX\n\n1• According to the provisions of article 5 of the\n\nTourist Agreement, the two parties\n\nfavour the cooperation\n\nbetween the administrative authorities and organizations concerned with tourist promotion and information. Speci- fically the two parties\n\nagreed to exchange all types of\n\npromotion material and tourist information\n\n¡leaflets,\n\nstatistics, brochures, studies on tourism development aspects).\n\nThey have\n\nalso decided to participate:\n\n(a) in tourist fairs organized in either country;\n\n(b)\n\nin the organization of \"tourist weeks\" and other functions designed to promote tourism to\n\ntheir\n\nrespective countries etc.\n\n2. Concerning the provisions of article 6 of the Tourism\n\nAgreement and in the greater field of the scientific and technical cooperation the two parties agree to co-operate in the field of staff training. Concrete propositions will be presented by the two parties\n\nat the Mixed Committee\n\nfor Scientific and Technical Co-operation. Namely the\n\nFrench party undertakes to provide scholarships and other related facilities for the training of graduate Cypriots in specialised training in the field of Hotel\n\nand\n\nCatering Management, Tourism Management, Tourism Marketing,\n\nTourism Planning and development in\n\ngeneral as well as in\n\nother related\n\nsubjects to be mutually agreed between the\n\ntwo parties.\n\n.../.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "-2-\n\n3. Concerning the provision of article 6 of the Tourist\n\nAgreement the French\n\nGovernment will encourage the French\n\nEnterprises to provide to the Cyprus Tourism Organization the necessary technical assistance for the tourist development plans of Limassol\n\nand Iroodos and for a Master plan\n\nfor the building of Marinas in Cyprus.\n\nThe main objectives of the development plans are:\n\n(a)\n\nLimassol study （1） to find ways and means to overcome immediate problems relating to tourism in the Limassol region and particularly solutions to the problems relating to the local\n\nphysical environment.\n\n(ii) To assess the desirable limits and targets tourist development and define the form\n\nand\n\npattern this development should take in the future and its ecoromic, social and environmental impact, (iii) Io prepare development strategies and programmes and detailed plans for selected priority\n\nareas\n\nwithin the Limassol region.\n\n(iv)\n\nIo identify and prepare priority projects for implementation by the relevant authorities and any investment projects suitable for public and private financing which will enhance overall development in\n\nthe area and improve the quality\n\nof the tourist product.\n\nIdentify and define\n\nmeasures for directing\n\nand controlling development,\n\nparticularly\n\nwith respect to densities;\n\nsuggest\n\nimplementation of infrastructure as well as methods of improving the quality of the environment and the tourist product so as to conform with the tourist policy of the Government of\n\nCyprus.\n\n.../.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "- 3-\n\n(b) Iroodos Study (i) Io determine the market possibilities for the area of Iroodos and the neighbouring resorts.\n\n(ii)\n\nIo find ways and means to increase occupancy rates in hotel establishments in this region and extend the season in the area.\n\n(iii)\n\nTo prepare a development plan including priority projects for the area aiming at the presentation\n\nOf a complete and integrated tourist product.\n\n(c) Marine and nautical equipment_study (i) To determine the demand for nautical equipment.\n\n(ii)\n\nTo prepare recommendations on the possible capacity of berthing places in continuous and stop-over shelters in Cyprus takina into account existing facilities.\n\n(iii)\n\nIo advise on the appropriate type of new nautical equipment and new types of Marinas.\n\n(iv)\n\nTo prepare a Master Plan indicating possible locations for such facilities.\n\n(d) Cooperation between enterprises\n\nIf, after the studies carried out by the French experts, namely for the areas of Limassol, Troodos and the Marinas certain construction-projects will be recommended, under comparable conditions, priority will be given to French companies of high level, specialised in this field of activities.\n\nThe French party will encourage the French Companies to realise their contracts in close cooperation with local companies specialised in this field of activities.\n\nThe Cypriot party under comparable conditions will give priority to french companies able to supply the equipment and material required.\n\n.../.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 18,
+      "text": "-4-\n\n4. The expenses relatino to the arrival of the French experts in Cyprus will be subject to an arrandement between the two parties.\n\nThe French party will ensure the payment of the salary of the experts durine their stay in Cyprus; the\n\nFrench party will also cover the transport-costs of the experts between France and Cyprus and back.\n\nThe Cypriot narty will take care of the exnenses of the experts for their stay in Cyprus and for their transport expenses within Crorus.\n\nThe Cypriot party will offer all nossible assistance to the experts as to simplify their entry and residence in Cyprus throuch the necessary administrative formalities.\n\n(Residence work permits, Revulations on duties and taxes) .\n\nThe Cypriot party will assion a qualified resnonsible person to be in charce of the co-ordination of common activities.\n\nBoth Parties will ensure that the work and studies by the experts will remain confidential.\n\n5.\n\nFor the implementation of naras 2 and 3 of the Annex a Mixed Committee on Tourism will be convened. The\n\nCommittee will consist of at least two Representatives from each\n\nParty.\n\nAin",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 19,
+      "text": "EAR a mT a rT e T\n\nE EE a E a E eee TES On DTe LAT EO e e T\n\nR E i TUAR A EE EAA r ra AT a a a A, AE oA E a a TL p Ta - -= -oa en r =\n\nRAE E S A EEN e anae AAA r E a a a a N a e E N aT ae e a Te m e aa ao D e TL e T lea e a IT L -T e l o a T a e a Ta\n\nMET ei T a wae a l w Tn JITODA nT ANNT E am TELD ee a eae ta i men r a Te -i7 aa n a LTO h\n\nMETUT PEI OTe r m loh e otam e D ADe aa a ge a a T TE e T ea aT Da ID AT ea D. NTA TIDENS TAn E JIL e R LTAB teea e LA. g ` DO aiT mia Po Pians ma D A D ea n ea T w ael e t a T T M E AT e Ta e aT a T e ar a L -L ona e e S aT i a p A TaT e = a a ia TAD ST T a eL eec DTS taau De A D e ee e T TA T a A e a Te a Tn e T D r Ee T E N T ae aT e a T a a a aa E a a E a a a E a E a E a a a a a N E E o a a E a a a a a a a a Ja aln Hi e Ta e A E E m a a a a A T gei g Dee et e iLe teene Te L Ae Te e ET ae a E a a a R a E a a a a a a a a a a a a a aa A A Te Ba A eD on rA ee, aT\n\nDo -o =h i mw te DATA Tan l en RI A eL Ua I Tan Dam i e, T Be Wa a a L RD e e e T, a a a TL Ae g a a T Tea ea T Aa n a Te D T Daa E\n\nTeTiD e t D bae L DR TAT A N N a e e a a e e T I e e T a D a T DT D a ae r ee E M a A a aT E a Ta a a D t at T em a AV Aj aa a Te T eL aaan mT L NA a a N at a DA ALT ate a aA AY R A E L N e a e O n e e e AAD IA R A e e A t e a a U eu ae e.\n\n>. LARU TAATAI AA AT AT eia a AA Dern T aee n A m t r T GaG DeL a Ae TE a T e e ara T a A ea e e L T H S T ` e a a ea L A aTa T n Ta Jy len at. S a DEAN mee e T aa L D a a ET a A T n eT e Tema p ~ Doea Tm z - ~ a a ~; Ea LT TaT Da t aat a LT a S L a n, AT miha e, MI ES mje n Ie ea E TA ajae a T oante et iae Cima e E t r a a a E a a a a R a a a aaa e a a a a a a a a a E a E S arte aTa T Bia N RT a aaa A a L w a m a e a A T TL T -i as UAT D A M e aTa T L a U aE e LE men aa AT a -2e, Tat age SeT ron, ao\n\nMUDAT O abe Delop Tje- a T DAN aL m m A T -A Te SI- OTLA A a AT e a Haa a a AT LI AH eie LTD LOY a atp aT 2wa G ata R ae RoTa e aa T I e WT s Teh Tna a N a E U Aa r T. te LD aT e a a T T A N e e T e D a A Ae a e a Te T a a Lae UL A T a D n L ~ Sa a E S a a i T a a a a e a a a E a a a a a a a a a a -oOo i A Te en m Teta l ep Aa Tar aT =~ a -T i-L. ITA I- e ae T o a a a a E R a a Boa e LUO ADTA r naa n T= man aTr zo\n\nATTN RaT wT a A aaa e I E ae n at Ae Ta elana CAO DDS n TeTri t t De a aa o T T er l a tea a T A Ae DOLLIN eD h aea n a ea `\n\nAOaI ATT B aTe aS a a A aD L R o e e t e a a IL A wag tele eTR o T a tI. n LT Ji mea oea er enZ Oe Lh er T e e T STe DP egan o T Teet\n\nAa TOLON P E \"i i Deae ata OJ Ta T mD Te ~ waha aa. Ma aa eta m a E a T De eL aa - eea o eean .\n\nMONT Data Ln daa a Do eNA L TNA Te a T e T Maa e l a l e a W a aT aT i e e LT e Dagali DaT] tereta Teo Ltn LAA e Lee\n\nLienpat at LTAT NY: 7 LA MOTA D-DA M aT ie VIe ea N are e DT a L E n TAA m eae at a T DIS de aL Lel T n ALa T dA ca TI Plte e a DET o (ETT -7 T a MA n l s LN wa T E T baLT re a e a DT a T LE Z= T e T Om a a, Tea a a T TM == 2o, U e A Bia =o 0r =l an T\n\nL a e a L e TA a a MM aht m o, Oo a S e a a S aUl Jan D tare ma Ena e Ta aTa n A e T a TA T D aT L T aT ID nD a a TE e o -Se etare aE m Tea te a m L Aa a a h me a E Ta a a a E a S s e mam p aa O a paa L Ta e -c . tanti Pana i T.y -5 ea De e oeT ate C RA DSD T AA A DA TN ILI n letest Dael penp lI a- e T ATTAT MTT AT e Ta AD nEn A BI Me A N pa D T eeT L De ea a e a E A a L T7\n\nJauda a aTe a e ta a AT T D hea O A Aa D a i Malae n a Aa N T a m T a Derg a D A A E LLI an eD a a T eo e NT A e n T aT Dee a D mT e soU naaa aT Jolo Tets 1r ALt eD A LA a T T e D L r ee L Te T IS e a e A a n T Dew T Lr A T eT P e D loaa ro Tua\n\nTaa yo o. Ao m n ei Lame i a ha na aT Ae a e atela pae Ta D I e aT e A D e eD Lm Tt] ee eT ah m i A t ap a T =LA L A Aet a\n\nDe a e Ta AS D DAN e o Dia e T an e D R n e TaT E O AT IT T aA LSTA D T e at E A A Da A T e T e a aaa DTA. ALAE e i e el a a E A a ATA D er T aeS = T aM A D hwa aL a n ate Col ala Tin e T a mi Toe OT Die E Te Tg T T rta - =T ~..\n\nSaa U a TRT T aTa e SI tes n aa aom iar a e a a TET: a a anter E a < C oTr S AD atean CD AAI L aTe e h a e, a Oa e a e ea Te o DD Dete I o ATL -T A e T e e A C er ATT T ana Tn t Te\n\nTS DALT b et A An a A T a Ta ATR a a aD A a L a e a e a p A E e T a a De aaa aa D AL DLT Daaa I eL TL e e n T Tra tl Dern Ta =aUo aLL ae Ta LE aI n S De oT TT e a aT e TAT ei n T AL a L C L Ten aa Tae Patt l.s wi e STan I p DIDATE TALS UO ata LLAT aT a a a a a OE O a a a R R a a a E a R Teor At n -- Tae o a Tr ` ~ Dal ~ e a a sI en O ATD Tr e a a. Dale en D eet n D aa e aD tee C a A aa T T an Te, Te - T eoa e Et a a a e nTa p o a i M aea ala i y C matari a e Lt e T Tt e a r a LT oaae ep a aa Le LaL T’\n\nPEES u AnI eal TUDU Da a Ta a t T a maJ a. a Tar n TT etno A aLe T Te a T en apee alerjen aa ep ael a0 Te -7 a T -o\n\nBi eale MOa aw a AT L T ASL ETAT saD na a a TA e e a ea e UAT a a a T ea A T a T L T a a a T a aI. moeloo Tao Tala Ta D s ate e e e\n\nMai Lo MIA aD. a Te owgpe Mu T e LES e a ete n e a a T a T e L P E E E oaut Ile tao geet Ere fnat aSa er as -oat T C E e O a a S a a a O a a aT, tollera a t TeL Dm ua TeS = aO a tar ae ata TRL a S D a aa ata eI a T TA A a a t Dla a u a T t L reh ar t tal Deg.\" ln ce Tee L75 e ahri i e DET. Toe y ta -I DOT To an ea t l n E ne a a mett a A T a a a T a A a T a e i DOT R A ce me t m O Ta lA ma ea Peg n T L ept T aT AD DTD dTa DaD ena A a oo ILI Laeta TU D A TLT Ma Lie L-AI TaT ALT Ta te DeL n e I T n g e TT a a T SALT oea PD ATD Ll e LLL s TDL oT .\n\nOO OIADOW Va w a he aanl a e eD ee T a a Te A a LTT Aaa T geL t a e aT AA e t a aT T aL Dei taai teet Ta Dh an Dee ell T a Aea aT jota Toe Tte lo\n\nJa hT aa T ea ha e t D Dote Tos TIS awe, ato I D a TAL Se L ee Te et T A T e a TI L lL D h, a T Tre TI mT Lti e Teg PeT R eyi e Lr D l a DoD- etor mo Do onl ta DIa FT om ehe m De aTa wT a= e a a a E r a a'a m e a D L Taa L R catt OUT -m TA e To -5r - eTo .\n\nZ- > '. ` n E a a a a a a a a a a N A Loe Sm aD a D D te o t a D Dae T L oa Det a T LT oaa\n\nNooa T a a O I LD aolattn o Mes T. m- tt TT Te TITRA mA T o Da e D A a a LIA NET. -te am oD o L T en aL T eyo e a TITTA a aa T aT a WLT DDD ew Ttr te LT a a a a T m a A a Ta L a e a M a i D ea at a L a aa I T e Aa L Dee cal Tes oa eo T’ toe T oe DSi maa Teew L Z o- . g\n\nA a a 1I taleas T aah AC e o e e L a e a a a a De S ea e a L a A aaa at e a LT a aL DT RE N Le a ea AT u eT T E m D T an L e LAAD e L atoa CLII TOODI eLA anre n Je DAML T t n Ta m Del TA a a T D a Te T e e n\n\nJIi NTO DI Jog mee, Sae Jonet aT AMD ODL NIN W POIT e -o etA R T A ALA LT eTe LNOT HeT A w Lah At eet a Tet mg at DTe taD eala a TA a wan - ea eD. Dawel Tolli Tea LTS Tea R BAD TA -re te al OTIS e aao DA IAT AD D te a e I e l ATAT mat A, Ta o re tn en aL T en e Taa an A Va o tel Ln DT nl t e a nA n t euT a enen T D a Dete n a a leaa t eA A Na l eaat n L AT a I T p a Ta n Te h ati Ies Te odat ohte T A oa Tu -5 g tlehe a~ aeta N a T LTT T.T a aT LTE a te Te eS Ta Lnn e DN e DO Le AA L Aaa L T T e T e g a Tesa elTet anD TA e a a a aL Ta B eloa DaD Ta n LAIT a e a a A A T n e aa La TT a e a aa -ITT i e oa D eatea e L a. JA A a a T Daole eas er o T e a Te a m l l a D-2 o e Iag Tad aT o a oea a\n\n- ae T e We NTT e a Dea a IDA Ae en L Ta e SDa e T te Dea t ll eDreams OD A O S e eta le Sag g T Tre Dres ie aTe t S T D ae eT aoa who ET Me Cea LT oN a e -LT A Age Tei oT 1d loD Te e LT te e e T Me L VD Ta aT e MIRT e at Dee Ia e ele T a oe Ua eloa Ja a t Ta an.\n\nSonipat w IDEADO GIUS E Sea e D T oT Tae te] ia De e nTa I A TAD D eTo e e T L o ep Di E ari I Dee NLA LT e Sa taa e Ta T e eea OTA T T T .\n\nS E a a a E E a a a a a O a a a a E a alt T-n. Ta ` etaa aa Teta l, Da Jamet Ya LTA, Oe Me h u aa T tTa Delete D] teter Toe Telt Sel elima l e e Doan moante ta Te T g e em Ta e Dle a O O a a a S a Cara aa‘ R II-te e oa ale eLa e ta. o oeae o oae a, p Ta p oa toat D enaa lee m Aa ala DTTA Ta Ea LT e a e DTe D Teea AT Lm ea T L T De m o eae l Deleu t a e eee De- Iel Ga Loa wlewa a foa eL LI o eTe Ue A a gaa Toa T ooe e a a Sres m aTa a e aT C CDe L aT Teo ela wo aa DeL- tT or Ne CI ee m Ta Pay os e Ta\n\n- CTAA em Tot te aT TOLD ea DODN a anama aA a AA olata re t Teelt at c ia Lene oa TL DS a A e a Taa T eT T e o eL IOA tete w ater Loe TL e oa T aa a aTa LO DAJe L Tam, m t wA T e a eote Dl oc s aL Dr -5e e deoa tae oo Tee Daet aL eL -0T eT eT PE TKE ra e a a Jobo Dag t Ties t a 2e anol le moat cli e Tegl- Un e -tla hL- tat dea ta nT a E a a ae taa T A D\n\nL7 - . oSI Khm t oa a gD L Deh sd AL ITU nal io A a Paer GaN en TOA Lles aug Ir laee O aa PUE Te o e e meils MeTL L NE T e a a L UL N J IT A a sT rn Ta fesh g T Te T Eol CAEL T S DTU T Tea ao Domates mu T o- : eTa TE DT o c lte IDe ed Te nD ODT A a w aT wam at Do wte a Tn ET T a aTa e L a T Ie tege STL A e l l De Diae oTa e e T ea a L AD\n\nCTE e T O A T Ta Ta e a eT o n wD aT a L a L eo Trta D a Ue . eea tD O B Jea OI a aT e D e e T ota Togou Ten 7 Daol a ao .\n\n. Lo wa a l aola oc OCM © la Tla “ca nl e -= eT Jaarn TT =- ILLT NUn aT Q SAD T lo A a a i -7\n\nDaa LT a e -5 - Mo TI- s en yo tromi - -a enc D50 T a tA e= o- t Tla a aT OD. D- ala T oam ro aB a Tte w, aO o =- : -o\n\n` : z aoo ta eoe Laa T T w e a Da a T 7- aTa ET DSa eeel a a D DA e OTa DA oL ITLS D a e le D ea a ta Tee T e ‘a T w aT T er Dose MT- o pea a r aD E aTe L trl Tae aLL AT L ir = Aa T sa T D n A tT e a T Ta e D n e rT A Wet er ae TATO A L5 Te ALT L a ea\n\nTon LT JASO VOT o Tean. eIt Dlean Loa a a a S aa a a a ae n eah L L a L DT at is. SIA Te g IT UDe 0 eT e eLa erag T T t Tie RI eJ T ADVA e d a e e T a l eTa A WA b e L VUD nL\n\nEES . oaa Ta at B Tem a e e o sed e a n a p E aTe T DaT e e Ss. Te T aT L ATAD T U e DA adn e in e aoa - . w. P E Pcl. ra D eea aoao an D an 15L D owa UNID i M, aTa a L eae aT E D TaN L T b Do -7\n\nGi eLan t Tue eo sa TLT e Ta Da aT TIl tlaou HTI. e a a R a a a i Lio Too’ 2- S a a R a a aon -o tasoa ea e T’ TT TaT -7 JO LSL ie Te egtte c Togale 7 oTa e a booe IL iA S e D e eaea a D e a E a A T a g e G e L a na e’ . Z ` a p aaa -oo aa a eD ret Ta a a Tite e e De an OLT eA ale T eg e o a a a Le eL T le La\n\nTaa . -. ` Do - g atoa . ComM aT a e T n aL eTa a e Te T eD t aT T a TLT L e EI oTt e aH a dl ar le T a T T ea a a a a 7 TA TE T a gT ee LT aD- epea, T eg a L TOn n t D at rec al Te eD aT T TT e n a E e D a ena e D -e e T e ag a e a Das li TiS tele L U e a L a eA\n\nT = TA Joa ad a a L T T al B ba Ta. SDO olta, t mT € eTa TA a TR a T T tea nele T e TR RADI T a p a e S e e e T e a T AA a a a on a Tra OUT U iedig Loe siate mo T p IRI EU y E TL e ALS A noL ITa DMA DTA e I OTUA a e AD e e ia e n TI\n\nJna Bo a ea e a h e T a mA a a ies Te T lle Lre a L a aa gla a ORT h I ea T e D L tea I D a D i e a g e ea aea T o e ooa D d a T Te a TA T S a Te seega mT T OE. aTa o- a ta m U e e a a a T T a D Teels e ant T e ana WI h e L Teip Lon aa h a TI Det a m\n\nDoe mt a Lea Da T S a ae TTo TTE S Tela e e e DILL Ree L DA a e T teln DTe Ch eT peeh IS ASD aT e A a T a n a T Ta e a T a a . .- T Ata aT e T N a pD iee a LT L e eT. JAL ei a Te Dr neta T eI te e, ple i n era DD gT tT tr e DND D T ee Dento egee OD RIA N A J O e LAR e 0o Tost o Th iea JOT Rotel DET pI te a e TT egea TI T Aer en T ia et E ppe er Tal aw a JA ale LIT e DDT Aee TA aD Ua Tte M Deote ALTA n T AA Ui o n ` g Liw a t JCD S la L Pale TaT o Uie e eta A aTe T Dt he Tar a TA e me Ded ea e e ee nL Te e Da UN D OO iee Iae a Ma M a LAI T T . T I=L oa aT tla Jea. J- l E a r a a E a a a S S E E a JELI . =- 7. B eo Baa TaT T TE OLLO cel T eoa a a lo T e n ea a T pan D Lore- ete Tn TL a e a a ow BI e e SLTA a ae L BES i a TTT OS eT tT - Je D Oe te teca ST e ro a a e Tat aer e eni DLT Tahy t Zene -IA e T I e t Le a L Tee Te T a T a O e Baa Ta a t T : Do bia atles Lol a. eSa o a f ee e Te eT ae L T Le Meba ee depoi ten T UTT es U Taa itn e L U wL et a TA Da eT r a T Tee 20O a2 . maL L LS 7 - a- OE A Lae DA Ta D- DT edia e LL Tol nt i anga Ate Ta Le e e . Cele O : r Tece ote LT eT a fae lale e o t aAa L et T Dgr T-T T L meaa a moD Te L n e n I age a A e -TT e T-a wi ar ` aLL bO Te L g g eoa paa ST T eI eT I remm l p ei e T e e e m L Detian Se n Teet M eel oe aT N UD a TAAT P UR R VD R e a L S aT eT amwa a E a D E Tati aa L EE a la, aaa an a METE: T= e Ve Co Tage T T te Teat alsa TaD OTe, Eem D O eet ALe n nren Ta Doet n O DU yi hato\n\nPEPEES at a T I T i E aA L e aE E D m o a aa T La a l aT a i E a LE T a a a z eTe e aa 2 T Ta BEREE Toge Sgt ata Dloth o Dolen =LI La. sa to\n\ni a t in a a e te r T. S Eagach e e e- i maa iE L L a e C O a r .\n\nu i2- icta- Aa amain imi se L Aa T e aea i",
+      "quality_score": 0.5613,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "pt",
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20162318_001_s1",
+      "title": "Accord",
+      "score": 0.639259,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_001_s1",
+      "title": "Accord",
+      "score": 0.629937,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "20080090_001_s1",
+      "title": "Accord français",
+      "score": 0.588688,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220078_001_s1",
+      "title": "Déclaration",
+      "score": 0.586178,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192664_001_s1",
+      "title": "Texte de la feuille de route",
+      "score": 0.568906,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_001_s1",
+      "title": "Accord",
+      "score": 0.532633,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182435_001_s1",
+      "title": "Accord (ensemble 4 annexes)",
+      "score": 0.512078,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870226_001_s1",
+      "title": "Accord",
+      "score": 0.468265,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19790195_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.463894,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19890163_001_s1",
+      "title": "Accord",
+      "score": 0.462781,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19840174_005_s1",
+  "title": "Instrument chypriote",
+  "year": 1984,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "OF CYPRUS MINISTRY OF FOREIGN AFFAIRS Chy pre limies 425 3068. No. 485/74 NOTE VERBALE The Ministry of Foreign Affairs of the Republic of Cyprus presents its compliments to the Embassy of France and with reference to the Financial Protocol between the two countries signed in Paris on 29 November 1984, has the honour to inform the Embassy that the constitutional requirements for its entry into force have been fulfill…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19840174_005_s1.pdf",
+  "source_filename": "tra19840174_005_s1.pdf",
+  "source_sha256": "899a0b6a125bbfcb70f6850bd34fd676468ee410ebe5209e7be03f1c6914d04a",
+  "treaty_id": "TRA19840174",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "OF CYPRUS\n\nMINISTRY OF FOREIGN AFFAIRS\n\nChy pre\n\nlimies 425 3068.\n\nNo. 485/74\n\nNOTE VERBALE\n\nThe Ministry of Foreign Affairs of the Republic of\n\nCyprus presents its compliments to the Embassy of France and with reference to the Financial Protocol between the two countries signed in Paris on 29 November 1984, has the honour to inform the Embassy that the constitutional requirements for its entry into force have been fulfilled in accordance with Article 7 of the said Protocol.\n\nThe Ministry of Foreign Affairs of the Republic of\n\nCyprus aválls itsell of this opportunity to renew to the\n\nEmbassy of France the assurances of its highest consideration.\n\nNicosie, 16 January 1985\n\nTo the Embassy of France\n\nNicosia\n\nAMRASSADE DE FRANCE\n\nA CHYPRE\n\nARRIVE\n\n12117 IN 11\n\ncl",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19800233_004_s1",
+      "title": "Instrument chypriote AVEC tampon arrivé le 30 oct 19980 de l'ambassade de France",
+      "score": 0.464226,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_005_s1",
+      "title": "Instrument chypriote (avec tampon arrivée le 16 août 1982 à l'ambassade de France)",
+      "score": 0.448508,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français",
+      "score": 0.424301,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français : note verbale et lettre (avec, sur la note verbale, tampon arrivée le 4 février 1983 à l'ambassade de France)",
+      "score": 0.420565,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_51_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Macédoine du Nord",
+      "score": 0.413979,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.408712,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_006_s1",
+      "title": "Note accusant réception de l'approbation française et transmettant l'instrument maltais",
+      "score": 0.408479,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.407047,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_576_s1",
+      "title": "Note verbale de retrait de Maurice",
+      "score": 0.398513,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.39788,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

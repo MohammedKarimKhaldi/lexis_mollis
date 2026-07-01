@@ -1,0 +1,67 @@
+{
+  "document_id": "19510075_675_s1",
+  "title": "Pouvoirs pakistanais",
+  "year": 1951,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9946,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "FULL POWER, WHEREAS Muhammad Nawaz Khan who was constituted and appointed as Plenipotentiary and Representative having Full Power and Authority to sign the Commonwealta - French War Graves Agreement on behall of Pakistan left Paria before the Agreement was signed, the sald Full Powers in favour of Muhammad Nawaz Khan were transferred to S.K. Dahlavi. IN WITNESS whereof I have signed these Fresents and affixed hereto…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510075_675_s1.pdf",
+  "source_filename": "19510075_675_s1.pdf",
+  "source_sha256": "6e206b831beeb70662ce119c63f1435019c96707ac090e8f9071ccb8a3672cc6",
+  "treaty_id": "TRA19510075",
+  "treaty_number": "PAK002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "FULL POWER,\n\nWHEREAS Muhammad Nawaz Khan who was constituted and appointed as Plenipotentiary and Representative having Full Power and Authority to sign the Commonwealta - French War Graves Agreement on behall of Pakistan left\n\nParia before the Agreement was signed, the sald Full\n\nPowers in favour of Muhammad Nawaz Khan were transferred to S.K. Dahlavi.\n\nIN WITNESS whereof I have signed these Fresents and affixed hereto my seal.\n\nDone at Karacht this 30!\n\nday of November\n\nIn the year one thousand, nine hundred and fiftyone.\n\nSolo hashaned\n\nGovernor-General of the Dominion\n\nof Pakistan.",
+      "quality_score": 0.9946,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510075_400_s1",
+      "title": "Pouvoirs français",
+      "score": 0.364872,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.356456,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_003_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.350295,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

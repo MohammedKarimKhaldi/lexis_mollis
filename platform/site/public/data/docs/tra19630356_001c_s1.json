@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19630356_001c_s1",
+  "title": "Lettre française sur la rémunération des agents de coopération technique",
+  "year": 1963,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.997,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PARIS, le 10 Juillet 1963• Monsieur le Président, Conformément aux dispositions de l'article 8, ler alinéa, de l'accord général de coopération technique entre la République Française et la République Togolaise an date de ce jour, j'ai l'honneur de vous proposer de fixer à 40.000 francs CFA l'élément unique de rémunération que le Gouvernement de la République togolaise versera mensuellement à chaque agent de coopérat…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19630356_001c_s1.pdf",
+  "source_filename": "tra19630356_001c_s1.pdf",
+  "source_sha256": "6e7b1f8a88aab5323e498705bbf5e85bb05efc8022c2347f6d869c1d2cffbebc",
+  "treaty_id": "TRA19630356",
+  "treaty_number": "001c",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PARIS, le 10 Juillet 1963•\n\nMonsieur\n\nle\n\nPrésident,\n\nConformément aux dispositions de l'article 8, ler alinéa, de\n\nl'accord général de coopération technique entre la République Française et la République Togolaise an date de ce jour, j'ai l'honneur de vous proposer de fixer à\n\n40.000 francs CFA l'élément unique de rémunération que le\n\nGouvernement de la République togolaise versera mensuellement à chaque agent de coopération technique mis à sa disposition en application de l'accord général de coopération technique pour le fonctionnement de ses services et établissements publics.\n\ntaux sera valable pour une période d'une année à compter\n\ndu premier\n\njour du mois suivant la date de ratification de l'accord général.\n\nJ'ai l'honneur de vous demander de bien vouloir me confirmer\n\nvotre accord\n\nsur cette proposition.\n\nVeuillez agréer, Monsieur le Président, les assurances de ma\n\nhaute considération.\n\nSigné : Raymond TRIBOULET\n\nSon Excellence Monsieur APEDO AMAH\n\nPrésident\n\nde la Délégation Togolaise.\n\nCopie certifiée conforme à l'original.\n\nPARIS, le\n\n7 Avril 1964.\n\nTa\n\nE\n\ncoopéra 077 ひ",
+      "quality_score": 0.997,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630356_001d_s1",
+      "title": "Lettre en réponse sur la rémunération des agents de coopération",
+      "score": 0.689596,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001e_s1",
+      "title": "Lettre française sur la subordination des personnels de coopération",
+      "score": 0.41976,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_001e_s1",
+      "title": "Lettre en réponse sur l'article 15",
+      "score": 0.387625,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.379762,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.374895,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_004_s1",
+      "title": "Instrument français",
+      "score": 0.373889,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001f_s1",
+      "title": "Lettre en réponse sur la subordination des personnels de coopération",
+      "score": 0.373789,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.373773,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.37202,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940256_004",
+      "title": "Instrument d'approbation français",
+      "score": 0.371262,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

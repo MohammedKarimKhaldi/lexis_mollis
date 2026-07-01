@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_32_s1",
+  "title": "Notification aux ambassadeurs auprès des pays membres de l'adhésion du Costa Rica",
+  "year": 1928,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9737,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AVB/cl MINISTÈRE DES Ar FAIRES INRANOIES RELATIONS EXTERIEURES DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES N° 34/ Responsable du dossier FiNe VIDALiDE LA BLÄCHÉ'- 30 4. 72 RÉPUBLIQUE FRANÇAISE PARIS LE - 3 DEC. 1982 LE MINISTRE DES RELATIONS EXTERIEURES MONSIEUR L'AMBASSADEUR DE FRANCE (destinataires in fine) Le Gouvernement de votre pays de résidence étant partie à la Convention de 1928 et éven…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_32_s1.pdf",
+  "source_filename": "19720117_32_s1.pdf",
+  "source_sha256": "9e23e1bf66b9a49263f2f2adba080c28b557bfb8581765a08fbd7473fc429a26",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "CRI005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AVB/cl\n\nMINISTÈRE\n\nDES\n\nAr FAIRES INRANOIES\n\nRELATIONS EXTERIEURES\n\nDIRECTION DES\n\nNATIONS\n\nUNIES\n\nET DES ORGANISATIONS\n\nINTERNATIONALES\n\nN° 34/\n\nResponsable du dossier\n\nFiNe VIDALiDE LA BLÄCHÉ'-\n\n30 4. 72\n\nRÉPUBLIQUE FRANÇAISE\n\nPARIS LE\n\n- 3 DEC. 1982\n\nLE MINISTRE DES RELATIONS EXTERIEURES\n\nMONSIEUR L'AMBASSADEUR DE FRANCE\n\n(destinataires in fine)\n\nLe Gouvernement de votre pays de résidence étant partie à la Convention de 1928 et éventuellement au Protocole de 1972 la modifiant (*) sur les expositions internationales je vous serais reconnaissant de bien vouloir lui faire connaitre les adhésions à la convention et au protocole des\n\nEtats suivants :\n\nCuba costa Rica\n\nVous préciserez que les instruments d'adhésion de ces Etats ont été dé posés auprès du Gouvernement français le 17 novembre 1982 pour cuba et le 23 novembre 1982 pour le Costa Rica et le Venezuela.\n\nde vous serais obligé de bien vouloir me faire connaître au moyen des formulaires ci-joints, la date à laquelle le Gouvernement du pays de votre résidence vous aura accusé réception de cette notification./.\n\nFOURLE STE CFA D-\n\npeut ......\n\nparties à la Convention de 1928 mais n'ayant pas adhéré au protocole",
+      "quality_score": 0.9737,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.861894,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.820681,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_98_s1",
+      "title": "Notification aux Etats membres de l'adhésion de la Suède",
+      "score": 0.444896,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.443883,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.424865,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_42_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.421605,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_65_s1",
+      "title": "Instrument de ratification de Monaco",
+      "score": 0.418998,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_287",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument d'adhésion équatorien",
+      "score": 0.414962,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_56_s1",
+      "title": "Instrument de ratification de l'Italie",
+      "score": 0.414502,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_141_s1",
+      "title": "Instrument d'adhésion du Brésil",
+      "score": 0.414361,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

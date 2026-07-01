@@ -1,0 +1,207 @@
+{
+  "document_id": "tra20230114_001_s1",
+  "title": "Accord",
+  "year": 2023,
+  "doc_type": "Accord",
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "uk"
+  ],
+  "quality_score": 0.8059,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "ACCORD PORTANT AMENDEMENT À L'ACCORD ENTRE LE GOUVERNEMENT D'UKRAINE ET LE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE RELATIF AU DON DE LA FRANCE EN MATIÈRE DE DÉFENSE ET DE SÉCURITÉ CEEESE Le Gouvernement d'Ukraine, ci-après dénommé « la Partie ukrainienne » et Le Gouvernement de la République française, ci-après dénommé « la Partie française », Ci-après conjointement dénommés « les Parties », Considérant l'accord ent…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20230114_001_s1.pdf",
+  "source_filename": "tra20230114_001_s1.pdf",
+  "source_sha256": "f99c7affce24283919e1d80e047340bf46b2d645ca8d04fb27016ffefcf45e90",
+  "treaty_id": "TRA20230114",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ACCORD PORTANT AMENDEMENT\n\nÀ\n\nL'ACCORD\n\nENTRE\n\nLE GOUVERNEMENT D'UKRAINE\n\nET\n\nLE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE\n\nRELATIF AU DON DE LA FRANCE\n\nEN MATIÈRE DE DÉFENSE ET DE SÉCURITÉ",
+      "quality_score": 0.997,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "CEEESE",
+      "quality_score": 0.557,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Le Gouvernement d'Ukraine, ci-après dénommé « la Partie ukrainienne »\n\net\n\nLe Gouvernement de la République française, ci-après dénommé « la Partie française »,\n\nCi-après conjointement dénommés « les Parties »,\n\nConsidérant l'accord entre le Gouvernement d'Ukraine et le Gouvernement de la République française relatif au don de la France en matière de défense et de sécurité, signé à Bruxelles le 13 octobre 2022, ci-après désigné « l'Accord »,\n\nRéaffirmant leur volonté de coopérer pour la consolidation des capacités militaires de l'Ukraine afin d'œuvrer au rétablissement de la paix, de la sécurité et de la stabilité en Europe,\n\nDésireux pour cela de modifier l'Accord afin d'augmenter le montant maximum du don consenti par la France,\n\nSont convenus de ce qui suit :\n\nArticle 1er\n\nLe point 2.1 de l'article 2 de l'Accord est remplacé par les stipulations suivantes :\n\n« 2.1 Le montant maximum du don consenti par la Partie française à la Partie ukrainienne s'élève à 170 millions d'euros.\n\nPar exception à l'article 6 paragraphe 3 du présent accord, la Partie française peut augmenter ce montant par notification unilatérale écrite adressée à la Partie ukrainienne par les canaux diplomatiques. ».\n\nArticle 2\n\nLe présent accord entre en vigueur à la date de sa signature.\n\n2",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "En foi de quoi, les représentants des deux gouvernements, dûment autorisés à cet effet, ont signé le présent accord.\n\nFait à\n\nVilnius\n\nle 11/07/2023,\n\nEn deux exemplaires originaux, en langues ukrainienne et française, les deux versions faisant également foi.\n\nPour le Gouvernement d'Ukraine\n\nPour le Gouvernement de la\n\nRépublique française\n\nReZNi tor\n\nSébastien LECORNU\n\nMinistre des armées\n\nMinistre de la défense",
+      "quality_score": 0.9909,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "УГОДА ПРО ВНЕСЕННЯ ЗМІН\n\nДО УГОДИ\n\nМІЖ\n\nУРЯДОМ ФРАНЦУЗЬКОЇ РЕСПУБЛІКИ\n\nТА\n\nУРЯДОМ УКРАЇНИ\n\nЩОДО ГРАНТУ ФРАНЦІЇ\n\nУ СФЕРІ ОБОРОНИ ТА БЕЗПЕКИ",
+      "quality_score": 0.9873,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Уряд Французької Республіки, далі – «Французька сторона», та\n\nУряд України, далі – «Українська сторона», що далі разом іменуються «Сторони»,\n\nЗважаючи на Угоду між Урядом Французької Республіки та Урядом України щодо гранту Франції у сфері оборони та безпеки, підписану в Брюсселі 13 жовтня 2022 р., далі\n\n– «Угода»,\n\nПідтверджуючи свою готовність співпрацювати у зміцненні військового потенціалу\n\nУкраїни з метою сприяння відновленню миру, безпеки і стабільності в Європі,\n\nБажаючи для цього внести зміни до Угоди з метою збільшення максимальної суми гранту від Франції, домовились про наступне:\n\nСтаття 1\n\nПункт 2.1 статті 2 Угоди замінити на такий:\n\n«2.1 Максимальна сума гранту, який Французька сторона надає Українській стороні, становить 170 мільйонів євро.\n\nЯк виняток до пункту 3 статті 6 цієї Угоди, Французька сторона може збільшити цю суму шляхом одностороннього письмового повідомлення Української Сторони дипломатичними каналами. ».\n\nСтаття 2\n\nЦя угода набирає чинності з дати її підписання.",
+      "quality_score": 0.9701,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "На підтвердження цього представники обох Урядів, маючи на те належні повноваження, підписали цю угоду.\n\nУчинено в 2 Фрс. 7 [02] 202 5 року\n\nЦю угоду укладено у двох оригінальних примірниках, французькою та українською мовами, при цьому обидва тексти є автентичними.\n\nВід імені Уряду Від імені Уряду\n\nФранцузької Республіки України\n\nМіпіѕіге фйеѕ агтеёеѕ",
+      "quality_score": 0.945,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20240072_001_s1",
+      "title": "Accord",
+      "score": 0.562833,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192737_001_s1",
+      "title": "Protocole",
+      "score": 0.555656,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20220141_s1",
+      "title": "Accord",
+      "score": 0.547969,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141292_001_s1",
+      "title": "Accord",
+      "score": 0.530822,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202804_001_s1",
+      "title": "Convention (ensemble 2 annexes)",
+      "score": 0.506407,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192695_001_s1",
+      "title": "Accord-cadre",
+      "score": 0.457684,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20250003_001_s1",
+      "title": "Accord",
+      "score": 0.420389,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240056_001_s1",
+      "title": "Accord",
+      "score": 0.419594,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240005_001_s1",
+      "title": "Accord",
+      "score": 0.413355,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240064_001_s1",
+      "title": "Accord",
+      "score": 0.406398,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_450",
+  "title": "Courrier jordanien",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.988,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "THE HASHEMITE KINGDOM OF JORDAN Ministry of Agriculture (Veterinary Department) No. 11/2/27/1/2878 Date 8.10.1961 وزارة الزراعة ( مديرية البيطرة ) ay • الارونة ا : 14001: الرقم التاريخ. ! 6°C. Dear Dr. Vittoz In reference to your letter No. I. 1458 dated 27th. March 1961, I am pleased to inform you that His Excellency The Jordan Minister of Foreign Affairs had sent you an official letter No. 3/16/977 dated 26.7.1961…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_450.pdf",
+  "source_filename": "tra19240002_450.pdf",
+  "source_sha256": "2bd7f852d191e911868eb2da52cc701eeb16fca92f97f7887f1675ce31996235",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "JOR004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "THE HASHEMITE KINGDOM\n\nOF JORDAN\n\nMinistry of Agriculture (Veterinary Department)\n\nNo. 11/2/27/1/2878\n\nDate 8.10.1961\n\nوزارة الزراعة ( مديرية البيطرة )\n\nay\n\n• الارونة ا\n\n: 14001:\n\nالرقم التاريخ.\n\n!\n\n6°C.\n\nDear Dr. Vittoz\n\nIn reference to your letter No. I. 1458 dated 27th.\n\nMarch 1961, I am pleased to inform you that His Excellency\n\nThe Jordan Minister of Foreign Affairs had sent you an official letter No. 3/16/977 dated 26.7.1961, in the (Arabic language, ) informing the Director General of the Office\n\nInternational De Epizooties, Paris, that the Government of the H.X. of Jordan has decided to participate in the Organisation but unfortunately, the letter in Question has not yet been answered. A reminder was sent to you by the said Ministry under No. 3/16/1300 dated 4.10.1961 but no reply was received.\n\nI shall be much grateful to be favoured with an early answer so as to enable me arrange remittance of the subscription.\n\nWith kindest regards,\n\nYours truly\n\nKastlaher\n\nKamal - El- Taher\n\nDirector General\n\nVeterinary Department\n\nAmman - Jordan\n\nDr. R. Vittoz\n\nDirector, O.I.E.\n\nOffice International De\n\nEpizooties, 12, Rue De Prony\n\nPARIS XVII",
+      "quality_score": 0.988,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_66_s1",
+      "title": "Lettre du Ministère des Douanes et des Monopoles confirmant le retrait de la Turquie",
+      "score": 0.377987,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_41_s1",
+      "title": "Lettre du Ministre de l'Agriculture de Jordanie de candidature à l'OEPP",
+      "score": 0.369986,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_345",
+      "title": "Demande d'information sur les modalités d'adhésion",
+      "score": 0.364339,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_475",
+      "title": "Instrument d'adhésion",
+      "score": 0.364334,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_13_s1",
+      "title": "Notification d'adhésion de la Belgique",
+      "score": 0.363488,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_12_s1",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.362005,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_118_jamaique_adhesion_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.360449,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_315",
+      "title": "Notification de l'OIE",
+      "score": 0.355411,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.35078,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19550069_pak001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.350509,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "document_id": "tra19240002_041",
+  "title": "Accusé de réception français de l'instrument d'adhésion andorran",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9224,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Nous Boris II, par la grâce de Dien et la polonté de la Tation, Roi des Bulgares. jani au et examine lArrangement Interna. tional pour la création d'un Office international des épizooties, conche à Paris le 25 Janvier 1924, % Tous approuvons, confirmon et ratifions lierrargement qui précède, promettant de le faire exécuter et observer selon ses forme et teneur. En foi de quoi, dons arena signe les présentes dettes d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_041.pdf",
+  "source_filename": "tra19240002_041.pdf",
+  "source_sha256": "77a184ec91404ef67d1065fc3d78d0488ff44fe355b1592d39572375c2d85d7d",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "AND002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nous Boris II,\n\npar la grâce de Dien et la polonté de la Tation,\n\nRoi des Bulgares.\n\njani au et examine lArrangement Interna.\n\ntional pour la création d'un Office international des épizooties, conche à Paris le 25 Janvier 1924,\n\n%",
+      "quality_score": 0.9383,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Tous approuvons, confirmon et ratifions lierrargement qui précède, promettant de le faire exécuter et observer selon ses forme et teneur.\n\nEn foi de quoi, dons arena signe les présentes dettes de ratifications e! 4 arno fait apposer le sceau de l'Etat..\n\nDonné à Sophia, le vingtième jovr du mois de\n\nSeptembre de l'an de grâce mil neuf cent vingt-six, de\n\nNotre reque le huitière.\n\nPar le Roi,\n\nMinistre des Affaires étrangères et des luttes\n\nAiseurel",
+      "quality_score": 0.9065,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230072_151b_s1",
+      "title": "Instrument de ratification bulgare de la Convention concernant la liberté de passage dans les détroits",
+      "score": 0.685688,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_151a_s1",
+      "title": "Instrument de ratification bulgare du Traité de Paix",
+      "score": 0.41339,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_151b_s1",
+      "title": "Instrument de ratification bulgare de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.411833,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_005_s1",
+      "title": "Instrument belge",
+      "score": 0.395612,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620059_005_s1",
+      "title": "Instrument belge",
+      "score": 0.394782,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_05_s1",
+      "title": "Instrument de ratification de l'Egypte",
+      "score": 0.393746,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_09_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.391435,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_726_s1",
+      "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+      "score": 0.390255,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_096_s1",
+      "title": "Instrument de ratification.",
+      "score": 0.390238,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19150001_005_s1",
+      "title": "Lettres patentes portant ratification",
+      "score": 0.389742,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

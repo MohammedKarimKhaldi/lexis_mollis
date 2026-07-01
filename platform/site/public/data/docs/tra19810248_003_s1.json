@@ -1,0 +1,95 @@
+{
+  "document_id": "tra19810248_003_s1",
+  "title": "Pouvoirs chypriotes",
+  "year": 1981,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9947,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLIC OF GYPRUS FULL POWERS I, Nicos A. Rolandis, Minister of Foreign Affairs of the Republic of Cyprus, do hereby authorize Mr. Petros Michaelides, Ambassador Of the Republic of Cyprus in Paris, to sign on behalf of the Government of the Republic of cyprus, the Financial Protocol between the Government of the Republic of Cyprus and the Government of the Republic of France. In witness whereof, I have signed and s…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810248_003_s1.pdf",
+  "source_filename": "tra19810248_003_s1.pdf",
+  "source_sha256": "821800ef4f43f9aa9d65d3a032fbe480144ef45b61731f2de47eabc828b83a28",
+  "treaty_id": "TRA19810248",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLIC OF GYPRUS\n\nFULL POWERS\n\nI, Nicos A. Rolandis, Minister of Foreign Affairs of the Republic of Cyprus, do hereby authorize Mr. Petros\n\nMichaelides, Ambassador Of the Republic of Cyprus in\n\nParis, to sign on behalf of the Government of the Republic of cyprus, the Financial Protocol between the Government of the Republic of Cyprus and the Government of the\n\nRepublic of France.\n\nIn witness whereof, I have signed and sealed these\n\nPresents at Nicosia, Cyprus, this 31st Day of October, One\n\nThousand Nine Hundred and Eighty One.\n\nN.A.Rol (NICOS A. ROLANDIS)\n\nMinister of Foreign Affairs",
+      "quality_score": 0.9947,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19800233_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.452487,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.401711,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840174_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.38664,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.36233,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.359245,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_22_s1",
+      "title": "Instrument de ratification de Haïti",
+      "score": 0.35391,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_23_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.3521,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

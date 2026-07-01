@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_97_s1",
+  "title": "Pouvoirs de signature de la Suède",
+  "year": 1972,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9834,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Je, Krister Wickman, Ministre des Affaires Etrangères, certifie par les présentes que M. D. Winter, Conseiller de Presse à l'Ambassade de Suède à Paris, est autorisé par Décret Royal à signer, sous réserve de ratification avec l'assentiment du Riksdag, Protocole portant modification de la Convention signée à Paris le 22 novembre 1928 concernant les Expositions Internationales• EN FOI DE QUOI, lesprésentes lui ont ét…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_97_s1.pdf",
+  "source_filename": "19720117_97_s1.pdf",
+  "source_sha256": "c0adbe5c2f9e22948cfc7a160b4866022fc1eb65eb434bf3a9a35390582e61ca",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "SWE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Je, Krister Wickman, Ministre des Affaires Etrangères, certifie par les présentes que M. D. Winter, Conseiller de\n\nPresse à l'Ambassade de Suède à Paris, est autorisé par Décret\n\nRoyal à signer, sous réserve de ratification avec l'assentiment du Riksdag, Protocole portant modification de la Convention signée à Paris le 22 novembre 1928 concernant les Expositions\n\nInternationales•\n\nEN FOI DE QUOI, lesprésentes lui ont été délivrées pour valoir ce que de droit.\n\nFait à Stockholm, le 24 novembre 1972",
+      "quality_score": 0.9834,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_56_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.840961,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.399596,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.386864,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_18_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.384459,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_40_s1",
+      "title": "Pouvoirs de signature du Danemark",
+      "score": 0.376657,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_98_s1",
+      "title": "Notification aux Etats membres de l'adhésion de la Suède",
+      "score": 0.374752,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_100_s1",
+      "title": "Pouvoirs de signature de la Suisse",
+      "score": 0.36835,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_05_s1",
+      "title": "Extension de la validité de la convention au Land de Berlin",
+      "score": 0.364511,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_42_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.362986,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_045_s1",
+      "title": "Note verbale d'acceptation de l'amendement de la Suède",
+      "score": 0.358469,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

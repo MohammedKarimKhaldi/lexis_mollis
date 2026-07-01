@@ -1,0 +1,128 @@
+{
+  "document_id": "19380055_18_s1",
+  "title": "Pouvoirs de signature du Danemark",
+  "year": 1938,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9834,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Noro Chaistian Dix 3 Duc de Sleosig. Holstein Stormarn. des Dithmarses de Savenbourg et d'Oldenbourg SAVOIR FAISONS: qu'ayant résolu de signer la Convention conclue, à Paris, le 31 Octobre 1938, et portant modification de la Convention Sanitalre Internationale du 21 Juin 1926, Nous avons cho1s1, nommé et autorisé comme par les présentes Nous choisissons, nommons et autorisons Notre Envoyé extraordinalre et Ministre…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380055_18_s1.pdf",
+  "source_filename": "19380055_18_s1.pdf",
+  "source_sha256": "c6f381a9d1f8f1b232d66c53a4d0cf2ac716726db6804703826029189dbcf9f1",
+  "treaty_id": "TRA19380055",
+  "treaty_number": "255",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Noro\n\nChaistian\n\nDix 3\n\nDuc de Sleosig. Holstein Stormarn.\n\ndes Dithmarses\n\nde Savenbourg et\n\nd'Oldenbourg\n\nSAVOIR FAISONS: qu'ayant résolu de signer la Convention conclue, à\n\nParis, le 31 Octobre 1938, et portant modification de la Convention\n\nSanitalre Internationale du 21 Juin 1926, Nous avons cho1s1, nommé et autorisé comme par les présentes Nous choisissons, nommons et autorisons Notre Envoyé extraordinalre et Ministre plénipotentialre à Paris, Monsieur Markus Andreas Oldenburg, Commandeur de première classe de Notre Ordre du Danebrog et décoré de la Cro1x d'Honneur du même Ordre, Grand-Crolx de Notre Ordre du Faucon d'Islando, pour signer, sauf Notre ratification, ladite Convention du 31 Octobre 1938 portant modification de la Convention Sanitaire Internationale du 21 Juin 1926, promettant en fol et parole de Roi d'avoir pour",
+      "quality_score": 0.9739,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "agréable tout ce que Notre dit Plénipotentiaire aura conclu et signé en vertu des présents Pleins-Pouvoirs.\n\nEn 101 de quoi Nous avons signé ces Pleins- Pouvoirs de Notre propre main et y avons fait apposer\n\nNotre sceau Royal,\n\nDonnés à Amallenborg le 21 janvier\n\nM11\n\nNeuf Cent Trente Neuf, de Notre règne le ving-sept- Lème.\n\nPLEINS-POUVOIRS.",
+      "quality_score": 0.9929,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.572032,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_24_s1",
+      "title": "Pouvoirs danois",
+      "score": 0.441799,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.39773,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_14_s1",
+      "title": "Note d'accompagnement de l'instrument de ratification du Danemark",
+      "score": 0.389804,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_079_s1",
+      "title": "Pouvoirs de signature des Pays-Bas",
+      "score": 0.387508,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.380858,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.374111,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.369306,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.357029,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_28_s1",
+      "title": "Instrument de ratification norvégien",
+      "score": 0.356619,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

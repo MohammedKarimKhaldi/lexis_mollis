@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_12_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification de l'Argentine",
+  "year": 1972,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9749,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES - VERBAL DE DEPOT DE L'INSTRUMENT D'ADHESION DE LA REPUBLIQUE D'ARGENTINE AU PROTOCOLE DU 30 NOVEMBRE 1972 PORTANT MODIFICATION DE LA CONVENTION SIGNEE A PARIS LE 22 NOVEMBRE 1928 CONCERNANT LES EXPOSITIONS INTERNATIONALES Son Excellence Monsieur Gérardo SCHAMIS, Ambassadeur Extraordinaire expositions internationales. L'Instrument ayant été, après examen, trouvé en bonne et due forme, a été déposé, pour y êtr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_12_s1.pdf",
+  "source_filename": "19720117_12_s1.pdf",
+  "source_sha256": "8bc37ff045bc07e357c2aacef41c46176959f4f72a230c731941a439a93b6ddd",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "ARG003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES - VERBAL DE DEPOT\n\nDE L'INSTRUMENT D'ADHESION\n\nDE LA REPUBLIQUE D'ARGENTINE\n\nAU PROTOCOLE DU 30 NOVEMBRE 1972\n\nPORTANT MODIFICATION DE LA CONVENTION\n\nSIGNEE A PARIS LE 22 NOVEMBRE 1928\n\nCONCERNANT LES EXPOSITIONS INTERNATIONALES\n\nSon Excellence Monsieur Gérardo SCHAMIS, Ambassadeur Extraordinaire\n\nexpositions internationales.\n\nL'Instrument ayant été, après examen, trouvé en bonne et due forme, a été déposé, pour y être conservé, dans les Archives de la République française.\n\nEN FOI DE QUOI, les Soussignés ont dressé le présent Procès-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, endaub\n\nLe 7 décembre 1982\n\nplaire",
+      "quality_score": 0.9749,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion chilien",
+      "score": 0.760939,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.724497,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_74_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de Panama",
+      "score": 0.724225,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.719396,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_68_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion du Nicaragua",
+      "score": 0.710884,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv002_s1",
+      "title": "Procès-verbal du dépôt de l'instrument d'adhésion au protocole de 1972",
+      "score": 0.70952,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.699943,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_55_s1",
+      "title": "Procès verbal de dépôt de ratification de l'instrument de ratification de l'Italie",
+      "score": 0.691759,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_67_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Monaco",
+      "score": 0.688047,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_41_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Danemark",
+      "score": 0.68685,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

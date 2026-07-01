@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_45_s1",
+  "title": "Pouvoirs de signature de la Finlande",
+  "year": 1972,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9854,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Moi URHO KALEVA KEKKONEN Président de la République de Finlande Je fais savoir: Par la présente, Je donne et accorde à Monsieur Olle HEROLD, Directeur de la F'oire de Finlande, plein-pouvoir de signer pour le Gouvernement de la République de Finlande, sous réserve de ratification, le Protocole, approuvé à Paris le 25 mai 1972 par le Conseil d'Administration du Bureau International des Expositions portant modificatio…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_45_s1.pdf",
+  "source_filename": "19720117_45_s1.pdf",
+  "source_sha256": "bef8345ecda0b6e1820dad40b3dd13a2f6b9e51eeffdc722c71e8c77d790a775",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "FIN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Moi\n\nURHO KALEVA KEKKONEN\n\nPrésident de la République de Finlande\n\nJe fais savoir:\n\nPar la présente, Je donne et accorde à Monsieur Olle\n\nHEROLD, Directeur de la F'oire de Finlande, plein-pouvoir de signer pour le Gouvernement de la République de Finlande, sous réserve de ratification, le Protocole, approuvé à Paris le 25 mai 1972 par le Conseil d'Administration du Bureau\n\nInternational des Expositions portant modification de la Conven- tion, signée à Paris le 22 novembre 1928 concernant les\n\nExpositions Internationales.\n\nEn foi de quoi J'ai signé ce plein-pouvoir de Ma main et y ai fait apposer Mon sceau.\n\nFait à Helsinki, le 17 novembre 1972.\n\nUras Verton\n\ntl Karting",
+      "quality_score": 0.9854,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_19_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.424465,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.416764,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_15_s1",
+      "title": "Pouvoirs de la Finlande",
+      "score": 0.407998,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_21_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.404907,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_17_s1",
+      "title": "Pouvoirs de notification de l'adhésion de la Finlande",
+      "score": 0.398587,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_091_s1",
+      "title": "Pouvoirs finlandais",
+      "score": 0.395822,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_100_s1",
+      "title": "Pouvoirs de signature de la Suisse",
+      "score": 0.38597,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_56_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.37158,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.370013,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_29_s1",
+      "title": "Pouvoirs de signature du Canada",
+      "score": 0.364321,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

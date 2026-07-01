@@ -1,0 +1,197 @@
+{
+  "document_id": "19200016_196_s1",
+  "title": "Instrument de ratification chinois du traité, du protocole et de la déclaration",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "ca",
+    "en",
+    "fr",
+    "ko",
+    "no",
+    "zh-cn"
+  ],
+  "quality_score": 0.6956,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "总 兴 忧 迄 站 盎 长 镶 首 企 守 烷 刀 疯 迪 眉 六 [RE 十 坦 玉民 自 f 妇 区 允 国 革 概 所 由 家 网 涂 以 徐 急 以 蕉 航 抱 画 委 嫩 区 守 村 攻 征 迁 加 尖 注 以 条 办 定 折 钵 长 景 人 广 2 : 驾 现 | 名 孝 VA 力 o 信 有 天 守 蛙 : > \\ ] 批 XE wo~ a er 3 . “pp 区 中 十 人 州 全 i - | 3 i A 2 ' 记 1 ‘ Yd 芒 起 oe Lo 9 + 各， ， i [ or a 中 用 : 上 ¥ 人 - Re i 培 ， 以 术 洲 和 人 | satificationi Nous Chef Ericutif de la Roepublique Chinoise ayant vu el examine le texte du Craité de Paix entre les Puissances A…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200016_196_s1.pdf",
+  "source_filename": "19200016_196_s1.pdf",
+  "source_sha256": "eb67d490329f98796372a5b9c8add0b5463c884d3ad911ba7d0184a960f8a607",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "CHN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "总 兴 忧 迄\n\n站 盎 长 镶 首 企 守 烷 刀 疯 迪 眉 六\n\n[RE 十 坦 玉民 自 f 妇 区\n\n允 国 革 概 所 由 家 网 涂 以 徐 急 以\n\n蕉 航 抱 画 委 嫩 区 守 村 攻 征 迁 加\n\n尖 注 以 条 办 定 折 钵 长 景 人 广",
+      "quality_score": 0.4928,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "ko",
+        "zh-cn"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "2\n\n: 驾 现\n\n| 名 孝\n\nVA 力 o\n\n信 有 天 守 蛙\n\n: >\n\n\\ ]\n\n批",
+      "quality_score": 0.54,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "ko"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "XE\n\nwo~\n\na er 3\n\n.\n\n“pp\n\n区 中 十 人 州 全 i - | 3 i A 2 ' 记 1 ‘\n\nYd 芒 起 oe\n\nLo 9 + 各， ， i [ or a 中 用 : 上 ¥ 人 - Re i 培 ，\n\n以 术 洲 和 人 |",
+      "quality_score": 0.4645,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "no",
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "satificationi\n\nNous Chef Ericutif de la Roepublique\n\nChinoise ayant vu el examine le texte du Craité de Paix entre les Puissances\n\nAollices et Associces Sune parh et la Hongrie Sautre part signé à Frianon le le Juin 1020 parles représentants plénipotentiaires désignes parnotre puvernement. diclarons ratifier ledit Traite. Irotocole et\n\nDéclarations dont la teneur suit :",
+      "quality_score": 0.8616,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "En foi de quai res anons donne les présentes revêtues de notre signature et du decau de la Prépublique.\n\nAl Pekin. le 23 Janvier de l'an XV de la République Chinoise.\n\n(digné)\n\nUnian Ofji Juti\n\nMbiniter des Affaires Etrangères",
+      "quality_score": 0.892,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Voir texte\n\n19200016 OI\n\nsur bobine\n\nB256",
+      "quality_score": 0.9224,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200016_726_s1",
+      "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_251_s1",
+      "title": "Instrument de ratification cubain du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_436_s1",
+      "title": "Pouvoirs (pour Mario Grassi)",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_396_s1",
+      "title": "Instrument de ratification français du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_096_s1",
+      "title": "Instrument de ratification belge du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_731_s1",
+      "title": "Instrument de ratification britannique du traité, du protocole et de la déclaration",
+      "score": 0.820171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_886_s1",
+      "title": "Instrument de ratification siamois du traité, du protocole et de la déclaration",
+      "score": 0.820171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_351_s1",
+      "title": "Instrument de ratification hongrois du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_326_s1",
+      "title": "Instrument de ratification grec du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_796_s1",
+      "title": "Instrument de ratification du Royaume des Serbes, Croates, Slovènes de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.42292,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

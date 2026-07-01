@@ -1,0 +1,310 @@
+{
+  "document_id": "tra19810111_001_s1",
+  "title": "Accord",
+  "year": 1981,
+  "doc_type": "Accord",
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9406,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "3 s i ; ACCORD ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEMENT DE LA REPUBLIQUE FEDERALE D'ALLEMAGNE AU SUJET DU RECOUVREMENT OU DU RECOUVREMENT FORCE DE COTISATIONS DE SECURITE SOCIALE D 101|v3 - 2- Le Gouvernement de la République française et le Gouvernement de la République fédérale d'Allemagne, désireux de permettre le recouvrement ou le recouvrement forcé de cotisations de sécurité sociale…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810111_001_s1.pdf",
+  "source_filename": "tra19810111_001_s1.pdf",
+  "source_sha256": "9091ec583ec50fa9f08314a7d3e367a64a9318943cdadf6dcbc6b5f277833ea9",
+  "treaty_id": "TRA19810111",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "3 s i ;",
+      "quality_score": 0.5546,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD\n\nENTRE\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nET\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FEDERALE D'ALLEMAGNE\n\nAU SUJET DU RECOUVREMENT OU DU RECOUVREMENT FORCE DE\n\nCOTISATIONS DE SECURITE SOCIALE\n\nD 101|v3",
+      "quality_score": 0.9659,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "- 2- Le Gouvernement de la République française\n\net\n\nle Gouvernement de la République fédérale d'Allemagne, désireux de permettre le recouvrement ou le recouvrement forcé de cotisations de sécurité sociale aux institutions compétentes de chacune des deux Parties contractantes sur le territoire de l'autre\n\nPartie contractante,\n\nsoucieux de fixer les modalités d'application de l'article 92 du\n\nRèglement (CEE) n° 1408/71 du Conseil du 14 juin 1971 relatif à l'application des régimes de sécurité sociale aux travailleurs salariés et à leur famille qui se déplacent à l'intérieur de la Com-\n\nmunauté,\n\nsont convenus de ce qui suit :\n\nARTICLE IER\n\nLe présent Accord règle le recouvrement ou le recouvrement forcé de toutes les cotisations qui, dans le cadre des régimes de sécurité sociale visés à l'article 4 du Règlement. (CEE) N° 1408/71, sont dues à l'une des deux Parties contractantes par des personnes physiques ou morales ou par des sociétés qui se trouvent sur le territoire de l'autre Partie contractante, qui y ont leur siège social ou qui y possèdent\n\ndes biens.\n\nARTICLE 2\n\nAu sens du présent Accord\n\na) \"autorité compétente\" désigne\n\nl'autorité visée à l'article ler lettre\n\ndu Règiement (CEE) n° 1408/71 ;\n\nb) \"institution compétente\" désigne\n\n- en ce qui concerne la République française :\n\n- les Unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales ou les organismes en\n\ntenant Lieu,\n\nRD 101 |",
+      "quality_score": 0.9534,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "- 3 -\n\n- les Caisses générales de sécurité sociale des dé-\n\npartements d'Outre-Mer,\n\n- les Caisses de mutualité sociale agricole,\n\n- les institutions des régimes spéciaux visés à l'annexe 2 du Règlement (CEE) n° 574/72 du Conseil du\n\n21 mars 1972 ;\n\n- en ce qui concerne la République fédérale d'Allemagne :\n\nl'institution d'assurance allemande à laquelle les cotisations sont dues ; une institution est considérée également com- me compétente pour les cotisations qu'elle est tenue de recouvrer ou de recouvrer de façon contraignante pour le compte des institutions\n\nd'autres régimes d'assurances ;\n\nc) \"'institution requise\" désigne\n\n- en ce qui concerne la République française, pour toutes les cotisations qui sont dues à une institution allemande :\n\nles Unions de recouvrement des cotisations de sécuri- té sociale et d'allocations familiales ou les organismes en tenant\n\nLieu, dans le ressort desquelsla personne physique ou morale ou la société débitrice de la cotisation se trouve, a son siège ou possè-\n\nde des biens ;\n\n- en ce qui concerne la République fédérale d'Allemagne, pour toutes les cotisations qui sont dues à une institution fran-\n\nçaise :\n\nla Caisse générale locale de maladie (Allgemeine\n\nOrtskrankenkasse) dans le ressort de laquelle la personne physique ou morale ou la société débitrice de la cotisation se trouve, a son\n\nsiège ou possède des biens ;\n\nd) \"organisme de liaison\" désigne pour la République française :\n\nle Centre de sécurité sociale des travailleurs migrants,\n\nParis ;\n\npour la République fédérale d'Allemagne :\n\nla Confédération des Caisses locales de maladie\n\n(Bundesverband der Ortskrankenkassen), Bonn ;\n\nD 101",
+      "quality_score": 0.9618,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "- 4-\n\ne) \"cotisations\" désigne les cotisations ainsi que les majorations de retard,\n\nles astreintes administratives, les amendes, les intérêts et les frais de recouvrement.\n\nARTICLE 3\n\n1) Les cotisations fixées par l'institution compé-\n\ntente ou par une autorité judiciaire ou administrative d'une Partie contractante par une décision qui n'est plus susceptible de recours peuvent être recouvrées ou recouvrées de façon contraignante sur le territoire de l'autre Partie contractante.\n\n2) La créance, devant faire l'objet d'un recouvrement\n\nou d'un recouvrement forcé, est protégée par les mêmes garanties et pri- vilèges qu'une créance de même nature d'une institution située sur le territoire de la Partie contractante sur lequel le recouvrement ou le recouvrement forcé s'opère.\n\n3) Le paragraphe 1 ne s'applique que si les créances\n\ndépassent la somme de 300 FF en France et de 150 DM en République fé- dérale d'Allemagne.\n\n4) Pour la conversion des cotisations donnant lieu\n\nà recouvrement ou à recouvrement forcé, le cours de change à appli- quer est celui valable au jour de la réception de la demande par l'institution requise, conformément à l'article 107 du Règlement (CEE) N° 574/72.\n\nARTICLE 4\n\n1) L'institution requise prêtera assistance à l'ins-\n\ntitution compétente pour assurer le recouvrement ou le recouvrement forcé des créances.\n\n2) L'assistance comprend notamment la communication\n\nde toutes informations utiles sur la situation du débiteur, le re- couvrement à l'amiable, le recouvrement forcé et les mesures conser- vatoires.\n\nARTICLE S\n\n1) L'institution compétente présente la demande d'assis-\n\ntance à l'institution requise par l'intermédiaire des organismes de liai- son.",
+      "quality_score": 0.9994,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "5-\n\n2) L'institution compétente communique à l'institu-\n\ntion requise, en même\n\ntemps que la demande, une copie de la décision administrative ou judiciaire portant fixation des cotisations. L'or- gane qui est compétent conformément à la législation applicable sur le territoire où la décision a été prise est tenu de certifier con-\n\nforme\n\ncette copie et d'y porter la mention que\n\nla créance peut faire\n\nl'objet d'un recouvrement ou d'un recouvrement forcé.\n\n3) La décision visée au paragraphe 2 est rendue exé-\n\ncutoire\n\n- en France par le Président de la Commission de Pre- mière instance du contentieux de la sécurité sociale dans le ressort de laquelle est situé le domicile du débiteur de la cotisation ou le\n\nsiège de l'institution requise ;\n\n- en République fédérale d'Allemagne par l'organe compétent en matière de recouvrement ou de recouvrement forcé de cré- ances contributives dans la mesure où la législation le requiert.\n\n4) L'institution requise peut refuser la demande d'assistance si l'institution compétente n'a pas épuisé sur son propre territoire toutes les possibilités de recouvrement ou de recouvre-\n\nment forcé contre le débiteur principal.\n\n5) Si l'institution requise entend refuser la demande!\n\nd'assistance conformément au paragraphe 4 ci-dessus, elle prend les mesures conservatoires nécessaires au recouvrement ou au recouvrement\n\nforcé des cotisations.\n\n6) Si la décision portant fixation des cotisations est encore susceptible de recours, l'institution requise est tenue uniquement de prendre les mesures conservatoires nécessaires pour ga-\n\nrantir leur recouvrement ou recouvrement forcé.\n\nARTICLE 6_\n\n1) L'institution requise accorde l'assistance visée\n\nà l'article 4 pour le\n\nrecouvrement ou le recouvrement forcé des cotisa- tions comme s'il s'agissait du recouvrement ou du recouvrement forcé\n\nde ses propres créances de cotisations.\n\n2) La procédure et les modalités du recouvrement et du recouvrement forcé des créances ainsi que les mesures conservatoi- res nécessaires sont celles prévues par la législation de la Partie contractante sur le territoire de laquelle l'institution requise a\n\nson siège.\n\n'D 101",
+      "quality_score": 0.9722,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "- 6\n\n3) L'institution requise est tenue de transférer\n\nles cotisations perçues à l'institution compétente et d'en infor- mer les organismes de liaison.\n\nARTICLE 1\n\nLes actes et autres documents qui, dans le cadre\n\ndu présent Accord, sont communiqués à l'institution requise ne peuvent servir qu'aux administrations et\n\nautorités chargées du\n\nrecouvrement de cotisations et\n\naux seules fins de recouvrement\n\nou de recouvrement forcé. Il ne peut en être donné connaissan- ce ni à une autre administration ni à des tiers.\n\nARTICLE 8\n\nL'assistance administrative et judiciaire est en\n\nprincipe gratuite ; toutefois, les frais de recouvrement seront remboursés. Les autorités compétentes peuvent convenir de rembour- ser d'autres dépenses ou de renoncer à tout remboursement.\n\nARTICLE 9\n\nLes autorités compétentes ou les institutions ou\n\norganismes qu'elles auront désignés à cet effet régleront, en tant que de besoin, les questions relatives à l'application du présent\n\nAccord.\n\nARTICLE 10\n\nLe présent Accord s'appliquera également au Land de\n\nBerlin, sauf déclaration contraire faite par le Gouvernement de la\n\nRépublique fédérale d'Allemagne au Gouvernement de la République française dans les trois mois qui suivront l'entrée en vigueur du présent Accord.\n\nARTICLE 11\n\nChacune des Parties contractantes notifiera à l'autre\n\nl'accomplissement des formalités constitutionnelles requises pour l'entrée en vigueur du présent Accord. Cette entrée en vigueur aura lieu à la date de la réception de la seconde des notifications.\n\nARTICLE 12\n\nLe présent Accord est conclu pour la durée d'une an-\n\nnée à partir de son entrée en vigueur. Il sera renouvelé tacitement\n\nD 101|\\",
+      "quality_score": 0.9968,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "-7-\n\nd'année en année, sauf dénonciation par l'une des Parties contrac- tantes qui devra être notifiée par écrit trois mois avant l'expi- ration du terme.\n\nFait à\n\nParis\n\n• le 26 Mai 198,\n\nen double exemplaire original en langues française et allemande, les deux textes faisant également foi.\n\nPour le Gouvernement de la\n\nRépublique française :\n\nPour le Gouvernement de la\n\nRépublique fédérale d'Allemagne\n\nJean MEADMORE\n\nDirecteur de\n\nla Direction\n\ndes açais à l'Etranger\n\nAxel HERBST\n\nAmbassadeur de la République\n\nFédérale d'Allemagne\n\nD101/03",
+      "quality_score": 0.9696,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "Abkommen\n\nzwischen der Regierung der Französischen Republik und der\n\nRegierung der Bundesrepublik Deutschland\n\nüber die Einziehung\n\noder Beitreibung von Beiträgen der Sozialen Sicherheit\n\nDie Regierung der Französischen Republik und die Regierung der Bundesrepublik Deutschland - IN DEM WUNSCH, den zuständigen Trägern beider Vertragsparteien die Einziehung oder Beitreibung von Beiträgen der Sozialen\n\nSicherheit im Hoheitsgebiet der anderen Vertragspartei zu er- möglichen,\n\nIN DEM BESTRESEN, die Anwendung des Artikels 92 der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der\n\nSysteme der Sozialen Sicherheit auf Arbeitnehmer und deren Fa- milien, die innerhalb der Gemeinschaft zu- und abwandern, zu regeln - SIND wie folgt ÜBEREINGEKOMMEN:\n\nArtikel 1\n\nDieses Abkomnen regelt die Einziehung und Beitreibung aller Bei- träge, die im Rahmen der in Artikel 4 der Verordnung (ENG)\n\nNr. 1408/71 bezeichneten Systeme der Sozialen Sicherheit einer der beiden Vertragsparteien von natürlichen oder juristischen\n\nPersonen oder von Gesellschaften geschuldet werden, die sich im\n\nHoheitsgebiet der anderen Vertragspartei aufhalten, dort ihren\n\nSitz haben oder Vermögenswerte besitzen.\n\nArtikel 2\n\nIm Sinne dieses Abkomnens bedeutet\n\na) \"zuständige Behörde\" die in Artikel 1 Buchstabe 1 der Verordnung (EWG) Nr. 1408/71 bezeichnete Behörde;\n\nv3",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "b) \"zuständiger Träger\"\n\n- in bezug auf die Französische Republik:\n\n- die Zentralstellen für die Einziehung von Beiträgen der\n\nSozialen Sicherheit und für Familienleistungen (Unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales) ođer die sie vertretenden\n\nStellen, die allgemeinen Sozialversicherungskassen für die Übersee- Departements (Caisses générales de sécurité sociale des départements d'Outre-Mer), die Gegenseitigkeitskassen der Sozialversicherung in der\n\nLandwirtschaft (Caisses de mutualité sociale agricole), die Träger der in Anhang 2 der Verordnung (EWG) Nr. 574/72 des Rates vom 21., März 1972 bezeichneten Sonđersysteme;\n\nin bezug auf die Bundesrepublik Deutschland:\n\nden deutschen Versicherungsträger, an den đie Beiträge zu zahlen sind; ein Träger gilt auch für die Beiträge als zu- ständig, ie er für die Träger anderer Versicherungszweige einzuziehen oder beizutreiben hat;\n\nc) \"ersuchter Träger\" m~ in bezug auf die Französische Republik für alle Beiträge, aie einem deutschen Träger geschuldet werden:\n\ndie Zentralstellen für die Einziehung von Beiträgen der\n\nSozialen Sicherheit und für Familienleistungen (Unions đe recouvrement des cotisations de sécurité sociale et d'allo- cations familiales) oder die sie vertretenden Stellen, in deren Bezirk die natürliche oder juristische Person oder die\n\nCesellschaft, die den Beitrag schuldet, sich aufhält, ihren sitz hat oder Vermögenswerte besitzt;\n\nin bezug auf die Bundesrepublik Deutschland für alle Beiträge die einem französischen Träger geschuldet werden:\n\ndie Allgemeine Ortskrankenkasse, in ĉeren Bezirk die natür- liche oder juristische Person oder die Gesellschaft, qie den\n\nBeitrag schuldet, sich aufhält, ihren Sitz hat oder Ver- mögenswerte besitzt;",
+      "quality_score": 0.9728,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "- 3-\n\nd) \"Verbindungsstelle\" für die Französische Republik:\n\ndie Zentralstelle für die Soziale Sicherheit der Wanderarbeit- nehmer (Centre de sécurité sociale des travailleurs migrants),\n\nParis;\n\nfür die Bundesrepublik Deutschland:\n\nden Bundesverband der Ortskrankenkassen,\n\nBonn;\n\ne) \"Beiträge\"\n\nBeiträge sowie Säunniszuschläge, Zwangsgelder, Geldbußen,\n\nZinsen und Einziehungskosten.\n\nArtikel 3\n\n(1) Die vom zuständigen Träger, von einem Gericht oder einer Ver- waltungsbehörde einer Vertragspartei rechtsverbindlich festge- setzten Beiträge können im Hoheitsgebiet der anderen Vertrags- partei eingezogen oder beigetrieben werden.\n\n(2) Die Forderung, die eingezogen oder beigetrieben werden soll, hat die gleichen Sicherungen und Vorrechte wie eine Forderung gleicher Art eines Trägers im Hoheitsgebiet der Vertragspartei, in dem die Einziehung oder Beitreibung erfolgt.\n\n(3) Absatz 1 gilt nur für Forderungen, die in Frankreich 300 FF und in der Bundesrepublik Deutschland 150 DM übersteigen.\n\n(4) Massgebend für die Umrechnung der einzuziehenden oder beizu- treibenden Beiträge ist der Wechselkurs, der am\n\nTag des Eingangs\n\ndes Antrags beim ersuchten Träger nach Artikel 107 der Verordnung (EWG) Nr. 574/72 anzuwenden ist.\n\nD 107|v3",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "- 4- Artikel 4\n\n(1) Der ersuchte Träger leistet dem zuständigen Träger bei der Ein- ziehung oder Beitreibung der ausstehenden Beträge Amtshilfe.\n\n(2) Die Amtshilfe umfasst insbesondere die Übermittlung aller in\n\nBetracht kommenden Angaben über die Verhältnisse des Schuldners, die Einziehung auf gütlichem Wege, die Beitreibung und die\n\nSicherungsmaßnahmen.\n\nArtikel 5\n\n(1) Der zuständige Träger stellt den Antrag auf Amtshilfe über die Verbindungsstellen an den ersuchten Träger.\n\n(2) Der zuständige Träger übersendet dem ersuchten Träger zugleich mit dem Antrag eine Ausfertigung der Entscheidung der Verwaltungs- behörde oder des Gerichts über die Festsetzung der Beiträge. Die\n\nStelle, die in dem Hoheitsgebiet, in dem die Entscheidung getroffer wurde, nach den dort geltenden Rechtsvorschriften dafür zuständig ist, muss diese Ausfertigung beglaubigen und auf ihr vermerken, dass die Forderung einziehbar oder beitreibbar ist.\n\n(3) Die in Absatz 2 genannte Entscheidung wird für vollstreckbar erklärt\n\n- in Frankreich:\n\nvon dem Vorsitzenden der Kommission Erster Instanz für Streit- fälle der Sozialen Sicherheit (Commission de Première Instance du contentieux de la sécurité sociale), in deren Bezirk der\n\nSchuldner der beiträge seinen Wohnsitz hat oder der ersuchte\n\nTräger seinen Sitz hat;\n\n- in der Bundesrepublik Deutschland:\n\nvon der für die Einziehung oder Beitreibung der Beitragsforderun- gen zuständigen Stelle, sofern die Rechtsvorschriften dies er- fordern;\n\nID 101|v3",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "- 5-\n\n(4) Der ersuchte Träger kann den Antrag auf Amtshilfe ablehnen, wenn der zuständige Träger im eigenen Hoheitsgebiet nicht alle\n\nEinziehungs- oder Beitreibungsmöglichkeiten gegen den Haupt- schuldner erschöpft hat.\n\n(5) Will der ersuchte Träger gemäss Absatz 4 den Antrag auf Amts- hilfe ablehnen, so hat er die zur Einziehung oder Beitreibung der Beiträge erforderlichen Sicherungsnassnahmen zu ergreifen.\n\n(6) Sind die Beiträge noch nicht rechtsverbindlich festgesetzt, so hat der ersuchte Träger nur die zu ihrer Einziehung oder Bei- treibung erforderlichen Sicherungsmassnahmen zu treffen.\n\nArtikel 6\n\n(1) Der ersuchte Träger gewährt die Amtshilfe gemäss Artikel 4 bei der Einziehung oder Beitreibung der Beiträge so, als ob es sich um die Einziehung oder Beitreibung eigener Beitragsforde- rungen handelte.\n\n(2) Das Verfahren, die Art und Weise der Einziehung oder Beitrei- bung der Forderungen sowie die erforderlichen Sicherungsmassnahmen richten sich nach den Rechtsvorschriften der Vertragspartei, in deren Hoheitsgebiet der ersuchte Träger seinen Sitz hat.\n\n(3) Der ersuchte Träger hat die eingezogenen Beiträge dem zustän- digen Träger zu überweisen und die Verbindungsstellen davon zu unterrichten.\n\nArtikel 7\n\nUrkunden und sonstige Unterlagen, die im Rahmen dieses Abkommens denn ersuchten Träger übermitielt werden, dürfen nur den mit der\n\nEinziehung von Beiträgen befassten Verwaltungsstellen und Behörden ausschliesslich zu Einziehungs- oder Beitreibungszwecken zugäng- lich gemacht werden. Der Inhalt darf anderen Verwaltungsstellen oder Dritten nicht mitgeteilt werden.\n\nD 107| v3",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "•\n\nD\n\n- 6- Artikel 8\n\nDie Amts- und Rechtshilfe ist grundsätzlich kostenfrei; die Aus- lagen sind jedoch zu erstatten. Die zuständigen Behörden können die Erstattung weiterer Kosten oder den Verzicht auf die Er- stattung vereinbaren.\n\nArtikel 9\n\nDie mit der Durchführung dieses Abkommens zusammenhängenden\n\nFragen werden gegebenenfalls von den zuständigen Behörden oder den von ihnen hiermit betrauten Trägern oder Stellen ge- regelt.\n\nArtikel 10\n\nDieses Abkommen gilt auch für das land Berlin, sofern nicht die\n\nRegierung der Bundesrepublik Deutschland gegenüber der Regierung der Französischen Republik innerhalb von drei Monaten nach In- krafttreten des Abkommens eine gegenteilige Erklärung abgibt.\n\nArtikel 11\n\nJede Vertragspartei notifiziert der anderen Vertragspartei, dass die verfassungsrechtlichen Voraussetzungen für das Inkrafttreten dieses Abiommens erfüllt sind. Das Abkommen tritt am Tag des\n\nEingangs der zweiten Notifikation in Kraft.\n\nArtikel 12\n\nDieses Abkommen wird für die Dauer eines Jahres vom Tag des In- krafttretens an geschlossen. Es gilt als stillschweigend von Jahr zu Jahr verlängert, sofern es nicht von einer Vertragspartei spätestens drei Monate vor Ablauf der Jahresfrist schriftlich gekündigt wird.\n\nD 101",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "- 7-\n\nGESCHEHEN zu\n\nParis\n\nam\n\n26. Mai 19f1\n\nin zwei Urschriften, jede in französischer und deutscher Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.\n\nFür die Regierung der\n\nFranzösischen Republik\n\n석\n\nDer Leiter der Abteilung\n\nFranzosen im Ausland\n\nFür die Regierung der\n\nBundesrepublik Deutschland\n\nDer Botschafter der\n\nBundesrepublik Deutschland\n\nD 101|v3",
+      "quality_score": 0.9731,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "D 107|v3",
+      "quality_score": 0.7297,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20213015_001_s1",
+      "title": "Accord",
+      "score": 0.668323,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "20050057_001_s1",
+      "title": "Accord",
+      "score": 0.646664,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182474_001",
+      "title": "Accord",
+      "score": 0.417643,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240065_001_s1",
+      "title": "Mémorandum",
+      "score": 0.414419,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182516_001",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.408811,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182558_s1",
+      "title": "Accord",
+      "score": 0.404657,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090227_001_s1",
+      "title": "Lettre française",
+      "score": 0.403356,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100327_001_s1",
+      "title": "lettre française",
+      "score": 0.403172,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151444_001_s1",
+      "title": "Texte de l'avenant",
+      "score": 0.403005,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172459_001",
+      "title": "Accord",
+      "score": 0.401755,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

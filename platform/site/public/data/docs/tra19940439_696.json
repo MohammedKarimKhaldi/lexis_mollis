@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940439_696",
+  "title": "Pouvoirs néerlandais",
+  "year": 1994,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.983,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassade Royale des Pays-Bas No. 41.129 [DIRECTION ECONOMIDUE! SRIFI - 3. AVR. 1996 ARRIVEE L'Ambassade Royale des Pays-Bas présente ses compliments au Ministère des Affaires Etrangères et, en se référant à l'article 9, paragraphe 1 des Accords concernant la protection de la Meuse et de l'Escaut (Charleville-Mézières, le 26 avril 1994), a l'honneur de porter à Sa connaissance que les procédures internes requises po…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940439_696.pdf",
+  "source_filename": "tra19940439_696.pdf",
+  "source_sha256": "11cf33b5a9bdd885693c46187f1f83ffb9e757743218d2e094aa1f8976daadeb",
+  "treaty_id": "TRA19940439",
+  "treaty_number": "NLD001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassade Royale des Pays-Bas\n\nNo. 41.129\n\n[DIRECTION ECONOMIDUE!\n\nSRIFI\n\n- 3. AVR. 1996\n\nARRIVEE\n\nL'Ambassade Royale des Pays-Bas présente ses compliments au Ministère des Affaires\n\nEtrangères et, en se référant à l'article 9, paragraphe 1 des Accords concernant la protection de la Meuse et de l'Escaut (Charleville-Mézières, le 26 avril 1994), a l'honneur de porter à Sa connaissance que les procédures internes requises pour l'entrée en vigueur desdits accords ont été exécutées pour le Royaume des Pays-Bas en Europe.\n\nL'Ambassade Royale des Pays-Bas saisit cette occasion pour renouveler au Ministère des\n\nAffaires Etrangères les assurances de sa haute considération.\n\nParis, le 2 avril 1996\n\nMinistère des Affaires Etrangères\n\nDirection des Affaires Economiques et Financières\n\nPARIS\n\n107",
+      "quality_score": 0.983,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940440_099",
+      "title": "Notifications du dépositaire aux Parties relatives au dépôt de l'instrument wallon",
+      "score": 0.437557,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_698",
+      "title": "Accord",
+      "score": 0.423725,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_697",
+      "title": "Instrument néerlandais",
+      "score": 0.422632,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_097",
+      "title": "Pouvoirs wallons",
+      "score": 0.421462,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_101",
+      "title": "Instrument de la Région Bruxelles-Capitale",
+      "score": 0.417453,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_100",
+      "title": "Note relative à la transmission des pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.41666,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_101",
+      "title": "Instrument de la Région Bruxelles-Capitale : notification de l'assentiment de l'Accord par ordonnance du 15 mai 1997",
+      "score": 0.416314,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_100",
+      "title": "Note relative aux pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.415069,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_098",
+      "title": "Accusé de réception par le dépositaire de l'instrument wallon",
+      "score": 0.413926,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_096",
+      "title": "Instrument flamand",
+      "score": 0.400759,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

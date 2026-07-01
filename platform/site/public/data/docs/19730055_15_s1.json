@@ -1,0 +1,86 @@
+{
+  "document_id": "19730055_15_s1",
+  "title": "Pouvoirs français",
+  "year": 1973,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9202,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ESRO/PB-MAR/IV/Rés. 3 JLE.： RESOLUTION all sujet de L'adhésion du Gouvernement des Peys-Bas Bu prorremm de satellite maritime les représentants des Gouvernements partien certains Etats à l'Arrangement entra l'erécution d'un membres du CERS/ESRO et le CERS/ESRO concernant programme satellite maritime. SISTELIP 14 15 ostuitte ouvert a la 1973, 1973 et entre en vigueur le 27 novembre AYANI PRIS NOTE de la volonté d'ath…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19730055_15_s1.pdf",
+  "source_filename": "19730055_15_s1.pdf",
+  "source_sha256": "645cad179221810312a6b789b50f611e7ed63f572725c712b13d28b2a25ca9f5",
+  "treaty_id": "TRA19730055",
+  "treaty_number": "FRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ESRO/PB-MAR/IV/Rés. 3\n\nJLE.：\n\nRESOLUTION\n\nall sujet de L'adhésion du Gouvernement des Peys-Bas\n\nBu prorremm de satellite maritime\n\nles représentants des Gouvernements partien certains Etats\n\nà l'Arrangement entra\n\nl'erécution d'un membres du CERS/ESRO et le CERS/ESRO concernant programme satellite maritime.\n\nSISTELIP 14 15 ostuitte\n\nouvert a la\n\n1973,\n\n1973 et entre en vigueur le 27 novembre\n\nAYANI PRIS NOTE de la\n\nvolonté\n\nd'athérer à l'Arrangement précité, exprimée du\n\nGouvernement des Pays-Bas\n\nV!! les dispositions de l'Article 12, paragraphe 5, de l'Arrangement,\n\nVil les dispositions de l'Article 5, paragraphe 4, de l'Arrangement,\n\n-I-\n\nARQUENT Leur accord unanime à ce que le Gouvernement des Pays-Ba:\n\nevienne partie à l'Arrangement.\n\n- II -\n\nCCEPTANT à l'unanimité que le Gouvernement des Pays-Ras contribu \" proframme avec le taux de 4,70 %",
+      "quality_score": 0.9254,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": ", 1\n\nESRO/PR-MAR/IV/Rés. 3 page 2\n\nEtats\n\nBarème des\n\nCOntFlOut20ns\n\nRépublique Fédérale d'Allemagne\n\nBelgique\n\nEspagne\n\nFrance\n\nItalie\n\nPays-Bas\n\nRoyaume-Uri\n\nSuède\n\nTOTAL\n\n19,37 0,97 0,97 12,10 2,23 4,70 56,66 3,00 100,00\n\nDace du gue de 1 nau amendé cadesion du fera rement der\n\nci-dessus entrera en vigueur à 1a\n\nPays-Bas.",
+      "quality_score": 0.9149,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19730055_16_s1",
+      "title": "Résolution des Etats-membres de l'ESRO  sur l'adhésion de la Suède",
+      "score": 0.417784,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_41_s1",
+      "title": "Notification aux Etats-membres de l'adhésion du Pakistan",
+      "score": 0.360281,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141308_001_s1",
+      "title": "Protocole",
+      "score": 0.356628,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_12_s1",
+      "title": "Lettre de l'ambassade de Norvège accusant réception de la réponse du Directeur général de l'Organisation européenne de Recherches spatiales",
+      "score": 0.355884,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

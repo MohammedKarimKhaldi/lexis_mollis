@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_033_s1",
+  "title": "Pièces dans 19280002",
+  "year": 1982,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9997,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "RE RY Parigi - 4502 L'Ambassade d'Italie présente ses compliments au Ministère des Relations Extérieures et a l'honneur de lui communiquer, en Sa qualité de dépositaire de la Convention sur les expositions internationa- les, que l'Italie a accepté l'amendement au Protocole de 1972 adopté le 24 juin 1982 par 1'Assemblée Générale du Bureau International des L'Ambassade saurait gré au Département s'il voulait accuser r…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_033_s1.pdf",
+  "source_filename": "19820018_033_s1.pdf",
+  "source_sha256": "0897516c23c52159248f8b41f96c077f8fec97b32db86adec65acac132f1a140",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "450",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RE\n\nRY\n\nParigi\n\n- 4502\n\nL'Ambassade d'Italie présente ses compliments au Ministère des Relations Extérieures et a l'honneur de lui communiquer, en Sa qualité de dépositaire de la Convention sur les expositions internationa- les, que l'Italie a accepté l'amendement au Protocole de 1972 adopté le 24 juin 1982 par 1'Assemblée Générale du Bureau International des\n\nL'Ambassade saurait gré au Département s'il voulait accuser réception de la présente Note.\n\nL'Ambassade d'Italie remercie dès à présent le Ministère des Relations Extérieures et saisit l'occasion pour lui renouveler les assurances de sa parfaite considération /\n\nParis, le 3 juin 1983\n\nMINISTERE DES RELATIONS EXTERIEURES\n\nDirection des Affaires Economiques et Financières 37, Quai d'Orsay 75007 PARIS",
+      "quality_score": 0.9997,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_049_s1",
+      "title": "Note verbale d'acceptation de la Tunisie",
+      "score": 0.56062,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_740",
+      "title": "Accusé de réception de l'instrument rwandais",
+      "score": 0.460901,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.420503,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_037_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.407092,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_016_s1",
+      "title": "Note verbale d'acceptation de l'amendement de 1982",
+      "score": 0.406179,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_025_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.404241,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_98_s1",
+      "title": "Notification aux Etats membres de l'adhésion de la Suède",
+      "score": 0.403276,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_034_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.402884,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_043_s1",
+      "title": "Note verbale confirmant l'adhésion du Pérou à l'amendement de 1982",
+      "score": 0.402595,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.402243,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

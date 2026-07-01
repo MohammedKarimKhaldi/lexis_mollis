@@ -1,0 +1,382 @@
+{
+  "document_id": "tra20240057_001_s1",
+  "title": "Accord",
+  "year": 2024,
+  "doc_type": "Accord",
+  "languages": [
+    "ca",
+    "de",
+    "en",
+    "fr",
+    "ru",
+    "uk"
+  ],
+  "quality_score": 0.8737,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "ACCORD ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE ET LE GOUVERNEMENT DE UKRAINE RELATIF À L'ÉTABLISSEMENT DE LA REPRÉSENTATION DU GROUPE AFD EN UKRAINE ET AUX ACTIVITÉS DE L'AGENCE FRANÇAISE DE DÉVELOPPEMENT, DE PROPARCO ET D'EXPERTISE FRANCE EN UKRAINE Fitti | LE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE ET LE GOUVERNEMENT DE L'UKRAINE, Ci-après dénommées aux fins du présent Accord « les Parties », 2 - 3- Rappe…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20240057_001_s1.pdf",
+  "source_filename": "tra20240057_001_s1.pdf",
+  "source_sha256": "905d1abc4fe5c15746cd51ab6601f69d4c55e4117e186d19ab5fc55e5aa5e1b9",
+  "treaty_id": "TRA20240057",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ACCORD\n\nENTRE\n\nLE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE\n\nET\n\nLE GOUVERNEMENT DE UKRAINE\n\nRELATIF À L'ÉTABLISSEMENT DE LA REPRÉSENTATION DU\n\nGROUPE AFD EN UKRAINE ET AUX ACTIVITÉS\n\nDE L'AGENCE FRANÇAISE DE DÉVELOPPEMENT, DE PROPARCO\n\nET D'EXPERTISE FRANCE\n\nEN UKRAINE",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "en",
+        "ca"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Fitti\n\n|",
+      "quality_score": 0.5707,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "LE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE\n\nET\n\nLE GOUVERNEMENT DE L'UKRAINE,\n\nCi-après dénommées aux fins du présent Accord « les Parties »,\n\n2",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "- 3-\n\nRappelant que la France et l'Ukraine sont animées par le désir de renforcer leurs liens d'amitié et de coopération ;\n\nSe réjouissant de leur volonté commune d'intensifier et d'élargir la coopération économique et financière entre les deux pays ;\n\nReconnaissant que l'Agence française de développement (ci-après dénommée « l'AFD ») et sa filiale spécialisée dans le financement du développement du secteur privé, la Société de promotion et de participation pour la coopération économique (ci-après dénommée «PROPARCO») ainsi qu'Expertise France, spécialisée dans la promotion de l'assistance technique et de l'expertise internationale publique françaises à l'étranger (ci-après dénommée « EXPERTISE FRANCE »), formant le groupe AFD (ci-après dénommé le « Groupe AFD »), développent leurs activités sur le territoire de l'Ukraine ;\n\nRappelant que le Groupe AFD est au cœur du dispositif français de l'aide publique au développement en faveur des pays en développement et qu'il exerce ses activités dans plus de 150 pays, grâce à son réseau de 80 représentations locales ;\n\nRappelant que le Groupe APD est spécialisé dans le financement de projets de développement et dans l'apport d'expertise technique et mène ses activités sur le territoire de l'Ukraine ;\n\nRappelant qu'il est dans l'intérêt commun des Parties de conclure le présent Accord pour permettre au Groupe AFD d'apporter son assistance financière et technique comme aide publique au développement (APD) en Ukraine, conformément aux objectifs de développement économique et social de l'Ukraine, les priorités d'investissement en Ukraine ;\n\nRappelant que le gouvernement de l'Ukraine souhaite définir le cadre d'activités du Groupe\n\nAFD sur le territoire de l'Ukraine et accorder certains privilèges et exemptions au Groupe AFD afin de permettre et faciliter l'accomplissement de ses missions dans le cadre de la politique de financement du développement de l'Ukraine ;\n\nÉtant donné que les activités du Groupe AFD sont principalement des activités à but non lucratif;\n\nEn conséquence, sur le fondement du respect des principes d'indépendance, d'égalité souveraine et de non-ingérence dans les affaires intérieures, le Gouvernement de la République française et le Gouvernement de l'Ukraine sont convenus de ce qui suit :\n\nARTICLE 1ER - OBJET DE L'ACCORD\n\nLe Groupe AFD est autorisé à apporter une assistance financière et technique en Ukraine conformément au présent Accord.\n\nLe présent Accord a pour objet de préciser les règles applicables à l'établissement de la représentation du Groupe AFD telle que visée à l'Article 7.1 et aux activités du Groupe AFD en Ukraine, telles que décrites à l'Article 3.1. Il définit, notamment, les règles juridiques, fiscales et financières applicables au statut de la représentation du Groupe AFD et aux activités du Groupe AFD dans le pays.\n\n3",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "ARTICLE 2 - STATUT JURIDIQUE DU GROUPE AFD\n\n2.1 Le Groupe AFD jouit de la personnalité juridique nécessaire à l'exercice de ses activités en\n\nUkraine et peut, à ce titre, contracter, acquérir, et céder des biens mobiliers et immobiliers, et se présenter devant les tribunaux.\n\n2.2 Le Groupe AFD peut :\n\na) Exercer toute activité nécessaire à l'accomplissement de ses missions, telle que décrites dans le présent Accord ;\n\nb) Négocier et conclure tout type de contrat ou d'accord ;\n\nc) Accepter tout type de garantie ou de sûreté ;\n\nd) Employer du personnel de nationalité ukrainienne, française ou autre nationalité, en tenant compte des restrictions établies par la législation nationale.\n\nARTICLE 3 - ACTIVITÉS AUTORISÉES DU GROUPE AFD EN UKRAINE\n\n3.1 Le Groupe AFD peut, en application des dispositions du présent Accord :\n\na) accorder un concours financier, sous forme notamment de prêts, de dons ou de garanties en euros, en dollars des Etats-Unis ou toute autre devise, et toute forme d'assistance technique à l'État ukrainien et à toutes entités publiques, aux entreprises publiques ou privées et aux établissements financiers et bancaires publics et privés, ainsi qu'aux associations ou organisations publiques ou privées, nationales, étrangères ou internationales, ou à toute personne morale située en Ukraine ;\n\nacquérir toute participation au capital de toute société (quelle qu'en soit la forme) auprès de tout vendeur, investir dans des fonds d'investissement, et transférer ou céder sa participation ou ses parts à toute personne de nationalité ukrainienne ou de toute autre nationalité ;\n\nc) réaliser des prestations de conseil, d'assistance technique, de formation, et des études pour des entités publiques ou privées.\n\n3.2 Les parties qui identifient les projets travaillent en étroite collaboration.\n\n3.3 Chacune des activités susmentionnées fait l'objet d'un contrat spécifique définissant les obligations et engagements des parties concernées par l'activité ou l'opération en question.\n\nChaque Partie s'engage à faire tout ce qui est en son pouvoir pour faciliter la réalisation des éventuelles formalités requises pour assurer la validité ou l'entrée en vigueur dudit contrat.\n\n3.4 Le Groupe AFD ne nécessite aucun permis ou licence pour ses activités en Ukraine.\n\nEn cas de changement de législation et/ou d'évolution des activités du Groupe AFD en\n\nUkraine, qui nécessiterait l'obtention de permis ou de licences supplémentaires prévus par la législation ukrainienne pour des activités ou des opérations, le Groupe AFD prendra, à la demande de l'Ukraine, toutes\n\nles mesures\n\nnécessaires à l'obtention de ces\n\npermis/licences.\n\n4",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "-5-\n\nARTICLE 4 - NON APPLICATION DE LA RÉGLEMENTATION BANCAIRE\n\nLOCALE\n\n4.1 Les activités et opérations de l'AFD et PROPARCO sont considérées comme étant des opérations transfrontalières réalisées depuis leur siège situé en France.\n\n4.2 Les entités du Groupe AFD et leur(s) Représentation(s)(telle(s) que définie(s) à l'Article 7 du présent Accord), n'ont pas le statut de banque ou de toute autre institution financière en\n\nUkraine. Elles ne sont donc pas soumises à la réglementation bancaire applicable aux banques et aux institutions financières installées ou opérant sur le territoire de l'Ukraine.\n\nARTICLE 5 - CONVERTIBILITÉ ET TRANSFERTS\n\n5.1 Régime en temps de guerre 5.1.1\n\nLes opérations d'achat et de transfert de devises étrangères à l'extérieur de l'Ukraine effectuées par :\n\n- les entités du Groupe AFD ;\n\n- ou le bénéficiaire du financement du Groupe AFD ;\n\nou le garant de ce financement ;\n\ndécoulant des activités des entités du Groupe AFD en Ukraine prévues dans le présent Accord ne seront pas traitées de manière moins favorable que celle prévue par la législation de l'Ukraine pour les transactions dans le cadre de projets, contrats, accords mis en œuvre avec la participation de tout autre agence de crédit à l'exportation étrangère/État étranger par l'intermédiaire de leurs personnes autorisées/personnes étrangères, dont les membres (actionnaires) comprennent un Etat étranger ou une banque étrangère à condition que l'État étranger soit membre (actionnaire) de cette banque.\n\nLes achats de devises étrangères par le Groupe AFD ou tout bénéficiaire de financement du\n\nGroupe AFD ou tout garant de ce financement sont effectués au taux de change du marché convenu entre la Banque Nationale d'Ukraine (NBU) et le détenteur des fonds.\n\n5.1.2 Le Groupe AFD est également autorisé :\n\n(i) à détenir des comptes bancaires en Ukraine dans toute devise ;\n\n(ii) à acheter des devises étrangères et à transférer hors d'Ukraine les sommes qui lui sont dues dans le cadre de l'exécution ou de la cessation des activités du Groupe AFD en\n\nUkraine, sous réserve de l'Article 5.1.1 des présentes.\n\n5.1.3\n\nLes entités du Groupe AFD peuvent effectuer, lors de la mise en œuvre de prêts ou de toute autre opération financière, des paiements directs aux fournisseurs\n\nou\n\ncocontractants de l'emprunteur ou du bénéficiaire concerné, non établis sur le territoire de l'Ukraine.\n\n5.1.4\n\nLes banques dûment autorisées à opérer en Ukraine peuvent, sous réserve de l'Article 5.1.1:\n\n(i) acheter des devises étrangères pour le compte des bénéficiaires du Groupe AFD au taux de change du marché ;\n\n(ii) transférer ces devises étrangères sur les comptes bancaires du Groupe AFD en France ou sur d'autres comptes du Groupe AFD hors d'Ukraine.\n\n5",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "Dans le cas où la conversion de hryvnias (UAH) en devise étrangère ou le transfert de devises étrangères hors de l'Ukraine ne sont pas effectuées par les banques ukrainiennes, le Gouvernement de l'Ukraine fera tout son possible pour que ces transferts soient effectués au profit des activités du Groupe AFD.\n\n5.2\n\nRégime d'après-guerre 5.2.1 Les banques dûment autorisées à opérer en Ukraine peuvent, sous réserve des dispositions de l'Article 5.2.6, pour le compte de tout bénéficiaire d'un financement du\n\nGroupe AFD ou de tout garant de ce financement, convertir des UAH en devises étrangères au taux de change du marché à la date de conversion et transférer librement hors du territoire de l'Ukraine tous les montants dus au Groupe AFD, y compris les montants correspondant au remboursement du financement, en principal et en intérêts, les intérêts de retard, les paiements additionnels et tous les autres montants découlant de l'exécution ou de la cessation des activités du Groupe AFD en Ukraine.\n\n5.2.2\n\nLe Groupe AFD est aussi autorisé:\n\n(i)\n\n(ii)\n\nà détenir des comptes bancaires en Ukraine dans toute devise ;\n\nà convertir des hryvnias en devises étrangères, au taux de change du marché, à la date de la conversion, pour toute somme qui lui est due au titre de ses activités en Ukraine, telles que listées à l'Article 3.1 du présent Accord ; et (iii)\n\nà transférer librement en dehors du territoire de l'Ukraine les sommes en devises.\n\n5.2.3\n\nLe Groupe AFD peut effectuer, en exécution de prêts ou de toute opération financière, des versements directs aux fournisseurs ou cocontractants de l'emprunteur ou du bénéficiaire concerné, non établis sur le territoire de l'Ukraine.\n\n5.2.4\n\nLes banques dûment habilitées à opérer en Ukraine sont, sous réserve des dispositions de l'Article 5.2.6, autorisées :\n\n(1)\n\nà convertir les hryvnias (UAH) reçus des bénéficiaires du Groupe AFD en toute devise étrangère, au taux de change du marché à la date de la conversion, et (ii)\n\nà transférer ces devises étrangères vers les comptes bancaires du Groupe AFD en République française ou hors d'Ukraine.\n\nDans l'hypothèse où la conversion de hryvnias (UAH) en devises étrangères ou le transfert de devises étrangères à l'extérieur de l'Ukraine n'est pas effectué par des banques ukrainiennes, le Gouvernement de l'Ukraine fera tout son possible pour s'assurer que les transferts soient effectués.\n\n5.2.6\n\nLe régime prévu par l'Accord après la cessation de la loi martiale est appliqué dans son intégralité, sauf dans le cas où la NBU applique les mesures nécessaires à la mise en œuvre des politiques monétaire et de change, ainsi que les mesures spécifiées dans les lois ukrainiennes afin d'assurer le fonctionnement du système financier en cas de circonstances émergentes menaçant la stabilité du système bancaire et/ou financier (les « Mesures de la NBU »).\n\nEn cas de mise en œuvre des Mesures de la NBU, le Groupe AFD sera soumis à un régime d'exécution des opérations d'achat et de transfert de devises étrangères depuis l'Ukraine qui n'est pas moins favorable que le régime accordé à d'autres institutions et organisations similaires.\n\n6",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "- 7-\n\nSans préjudice des autres dispositions du présent Article, le Gouvernement de l'Ukraine s'engage en outre, en cas de mise en œuvre des Mesures de la NBU, à engager des discussions avec le Groupe AFD afin d'évaluer l'impact des Mesures de la NBU sur les opérations et les activités du Groupe AFD en Ukraine et de minimiser l'impact des\n\nMesures de la NBU sur les opérations et les activités du Groupe AFD en Ukraine, ainsi que sur tout bénéficiaire d'un financement du Groupe AFD ou tout garant d'un tel financement.\n\nARTICLE 6 - STATUT FISCAL\n\n6.1 Le Groupe AFD, ses actifs et les revenus provenant des activités décrites à l'Article 3.1 a)\n\net c) du present Accord sont exonérés d'impôts directs en Ukraine. Le présent Article ne s'applique pas aux activités mentionnées en 3.1 b).\n\nARTICLE 7 - REPRÉSENTATION LOCALE DU GROUPE AFD - STATUT DES\n\nEMPLOYES\n\n7.1 Représentation(s) du Groupe AFD en Ukraine\n\na) Le Groupe AFD est autorisé, sans être soumis à aucune formalité, à ouvrir une ou plusieurs représentation(s) (ci-après dénommée(s) « la (les) Représentation(s) ») à Kiev ou en tout autre lieu en Ukraine afin d'exercer les activités décrites dans le présent Accord.\n\nb) Le Gouvernement de l'Ukraine facilite l'ouverture et le fonctionnement de toute\n\nReprésentation conformément au présent Accord.\n\nc) La (les) Représentation(s) du Groupe AFD en Ukraine est(sont) chargée(s) d'identifier les projets que le Groupe AFD pourrait mettre en œuvre en Ukraine, de la préparation et de la négociation des documents liés à ces projets, ainsi que du suivi et de leur exécution.\n\nConformément à l'Article 4 (Non application de la réglementation bancaire) du présent\n\nAccord, les activités de toute Représentation ne seront pas soumises aux lois ou règlements applicables aux banques opérant en Ukraine.\n\nToute Représentation bénéficie des facilités suivantes :\n\n• exonération des droits de douane et des taxes, y compris la taxe sur la valeur ajoutée (ou son équivalent), sur la fourniture et l'importation/l'achat de biens/services sur le territoire douanier de l'Ukraine destinés à soutenir les activités de la Représentation;\n\n• les dettes, créances ou autres obligations résultant de conventions de crédit, de subventions ou de garanties approuvées ou gérées par le Groupe AFD bénéficient d'une protection absolue contre toute forme de confiscation, saisie ou mesure d'exécution forcée de quelque nature que ce soit exercée à l'encontre du Groupe\n\nAPD ou de sa Représentation.\n\nd) Le Gouvernement de l'Ukraine s'engage à ne pas nationaliser ou exproprier les actifs ou les fonds du Groupe AFD ou de sa (ses) Représentation(s), et à ne prendre aucune mesure empêchant la jouissance des actifs ou fonds, leur nationalisation ou leur expropriation.\n\nSi une mesure de cette nature est adoptée pour des raisons d'intérêt général caractérisé, une indemnisation appropriée sera octroyée au Groupe AFD, sans délai et dans une devise librement convertible. L'indemnisation sera fixée d'un commun accord, au prix du marché déterminé indépendamment, et acceptée par les Parties.\n\n7",
+      "quality_score": 0.9999,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "7.2 Personnel expatrié du Groupe AFD\n\na) Le Groupe AFD détermine le nombre et les qualifications des membres de son personnel ne possédant pas la nationalité de l'Ukraine et n'étant pas titulaires d'un visa de résident en\n\nUkraine (ci-après dénommés les « Employés Expatriés ») qu'il estime nécessaires au bon fonctionnement de sa (ses) Représentation(s).\n\nLe Groupe AFD met directement en place pour les Employés Expatriés un dispositif de protection sociale d'entreprise assurant un niveau de couverture au moins équivalent à celui du régime général de la sécurité sociale française au titre des risques maladie, maternité, paternité, invalidité, accidents du travail, maladies professionnelles et vieillesse.\n\nLes Employés Expatriés ne sont pas soumis à la législation sociale ukrainienne; en particulier, ils sont exemptés d'affiliation au régime de sécurité sociale ukrainien et du paiement des cotisations sociales supportées par l'employé.\n\nLe Groupe AFD est exonéré du paiement des cotisations normalement supportées par l'employeur dans le cadre des régimes sociaux ukrainiens.\n\nb) Le Gouvernement de l'Ukraine facilite l'entrée, le séjour, la résidence, la liberté de circulation et les formalités de sortie des Employés Expatriés et de leur conjoint, et de tout membre de leur famille à leur charge.\n\nc) Le Gouvernement de l'Ukraine octroie aux Employés Expatriés et à leur conjoint, et à tout membre de leur famille à leur charge, les facilités suivantes :\n\n• délivrance d'un permis d'entrée et de visas à entrées multiples et délivrance de titres de séjour sur le territoire de l'Ukraine conformément à la procédure établie par la législation ukrainienne ;\n\n• droit d'importer en franchise leur mobilier et leurs effets personnels lors de leur première prise de fonction en Ukraine ;\n\n• délivrance de toute autorisation nécessaire au libre transfert des effets personnels a destination et en provenance de l'Ukraine ;\n\n• délivrance au conjoint de l'Employé Expatrié d'un permis de travail valide pour la même période que le visa ou le permis d'entrée de l'Employé Expatrié concerné, permettant au conjoint de travailler en Ukraine.\n\nd) Le Gouvernement de l'Ukraine octroie aux Employés Expatriés les privilèges et immunités suivants :\n\n• l'immunité de juridiction pour les actes accomplis dans l'exercice officiel de leurs fonctions. Cette immunité ne saurait les exempter de la juridiction de la Partie française.\n\n7.3 Personnel du Groupe AFD de nationalité ukrainienne ou résidant en Ukraine\n\nDans le cadre de ses activités en Ukraine, le Groupe AFD peut employer des salariés de nationalité ukrainienne ou résidant en\n\nUkraine, conformément aux lois et à la\n\nréglementation en Ukraine en matière de droit du travail et de sécurité sociale.\n\nCes employés ne jouissent de l'immunité de juridiction que pour les actes accomplis dans l'exercice officiel de leurs fonctions.\n\n8",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "L'imposition des revenus sous forme de salaires, de rémunérations et de rémunérations accumulées par le groupe AFD en faveur des salariés ayant la nationalité ukrainienne ou résidant en Ukraine s'effectue conformément à la législation en vigueur en Ukraine.\n\n7.4 Missions temporaires en Ukraine\n\nAfin de mener à bien ses activités en Ukraine, le Groupe AFD peut envoyer des missions temporaires en Ukraine ou mandater des consultants dans le cadre de ses activités.\n\nLe Gouvernement de l'Ukraine prendra les mesures nécessaires pour que les membres des missions temporaires obtiennent dans des délais réduits les autorisations nécessaires à leur entrée, à leur séjour et à leur sortie du territoire de l'Ukraine.\n\nLe Gouvernement de l'Ukraine octroie aux membres des missions temporaires l'immunité de juridiction pour les actes accomplis dans l'exercice officiel de leurs fonctions. Cette immunité ne saurait les exempter de la juridiction de la Partie française.\n\nARTICLE 8 - MISE EN ŒUVRE DE L'ACCORD\n\n8.1. Afin de faciliter les démarches du Groupe AFD pour la mise en œuvre de ses activités, le\n\nGouvernement de l'Ukraine transmet toutes les informations nécessaires à ses institutions et prend toutes les mesures internes nécessaires afin de permettre la pleine exécution du présent Accord dans les meilleurs délais.\n\n8.2. À compter de l'entrée en vigueur du présent Accord, le Groupe AFD est autorisé à produire le présent Accord, soit par référence, soit au moyen d'une copie, devant toute autorité, tout fonctionnaire et plus généralement, devant toute administration publique de l'Ukraine.\n\nPour permettre aux bénéficiaires de financements octroyés par toute entité du Groupe AFD ou aux co-contractants de toute entité du Groupe AFD de demander l'application des droits énoncés dans le présent Accord, le Groupe AFD est autorisé à communiquer une copie du present Accord auxdits bénéficiaires ou cocontractants, afin qu'ils puissent la présenter aux autorités concernées.\n\nAucune disposition legislative, réglementaire ou autre disposition prenant effet après l'entrée en vigueur du présent Accord ne peut porter atteinte aux droits et privilèges du\n\nGroupe AFD prévus par le présent Accord.\n\nARTICLE 9 - ENTRÉE EN VIGUEUR, DURÉE, DÉNONCIATION ET\n\nMODIFICATION\n\n9.1 Entrée en vigueur\n\nChacune des Parties notifie à l'autre l'accomplissement des procédures internes requises en ce qui la concerne pour l'entrée en vigueur du présent Accord, qui prend effet le premier jour du deuxième mois suivant le jour de réception de la seconde notification.\n\nImmédiatement après l'entrée en vigueur du présent Accord, le Gouvernement de l'Ukraine, conformément à l'Article 102 de la Charte des Nations Unies, procède à l'enregistrement du présent Accord auprès du Secrétariat des Nations Unies. Le\n\nGouvernement de la République française sera informé dudit enregistrement par la transmission du numéro d'enregistrement des Nations Unies, dès réception de la confirmation de la part du Secrétariat des Nations Unies.\n\n9",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "-10-\n\nLe présent Accord s'applique aux contrats en cours conclus par toute entité du Groupe\n\nAFD en Ukraine, à compter de l'entrée en vigueur du présent Accord.\n\n9.2 Amendements au présent Accord\n\nLes Parties peuvent, à tout moment et d'un accord commun, amender par écrit le présent\n\nAccord. Tout amendement prend effet après l'accomplissement par chacune des Parties des procédures internes requises en ce qui la concerne et fait partie intégrante du présent\n\nAccord.\n\n9.3 Règlement des différends\n\nTout différend entre les Parties découlant de l'interprétation ou de l'application du présent\n\nAccord, de ses éventuels accords complémentaires ou de toute question relative au Groupe\n\nAFD, aux Représentations ou aux relations entre le Gouvernement de la République française et le Gouvernement de l'Ukraine, en lien avec le présent Accord, est réglé à l'amiable par négociation directe entre les Parties par la voie diplomatique.\n\n9.4 Durée et dénonciation\n\nLe présent Accord est conclu pour une durée indéterminée. Il peut être dénoncé à tout moment par chacune des Parties, moyennant un préavis écrit de six (6) mois notifié par la voie diplomatique à l'autre Partie. Dans ce cas, l'Accord cesse d'être valable dans un délai de six (6) mois après la date de réception de la notification. La dénonciation du présent\n\nAccord n'affecte pas les contrats en cours conclus pendant la période de validité de celuici.\n\nFait à Paris, le 7 juin 2024, en deux (2) exemplaires originaux, en langues française et ukrainienne, les deux textes faisant également foi.\n\nPOUR LE GOUVERNEMENT DE\n\nLA RÉPUBLIQUE FRANÇAISE\n\nPOUR LE GOUVERNEMENT DE\n\nL'UKRAINE\n\nStéphane SÉJOURNÉ\n\nMinistre de l'Europe et des Affaires\n\nétrangères\n\nIoulia SVYRYDENKO\n\nPremière Vice-Première ministre\n\nMinistre de l'Economie\n\n10",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "УГОДА\n\nМІЖ\n\nУРЯДОМ ФРАНЦУЗЬКОЇ РЕСПУБЛІКИ\n\nТА\n\nУРЯДОМ УКРАЇНИ\n\nПРО СТВОРЕННЯ ПРЕДСТАВНИЦТВА ГРУПИ АЕР\n\nВ УКРАЇНІ ТА ДІЯЛЬНІСТЬ ФРАНЦУЗЬКОГО АГЕНТСТВА\n\nРОЗВИТКУ, РАОРАКСО\n\nТА ЕХРЕВТІЅЕ ЕВАМ№СЕ В УКРАЇНІ",
+      "quality_score": 0.935,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk",
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "УРЯД ФРАНЦУЗЬКОЇ РЕСПУБЛІКИ ТА УРЯД УКРАЇНИ (далі - Сторони),\n\nНагадуючи, що Франція та Україна мотивовані бажанням зміцнювати зв'язки дружби та співпраці;\n\nвраховуючи, спільне бажання поглиблювати партнерські зв'язки між їхніми народам шляхом розширення економічного та фінансового співробітництва між двома країнами;\n\nвраховуючи, що Французьке агентство розвитку (далі - АЕЮ) та його дочірня компанія, щ спеціалізується на фінансуванні розвитку приватного сектору, Товариство сприяння та участі в економічному співробітництві (далі - РКОРАКСО), а тако організація Ехрегіѕе Етапсе, що спеціалізується на просуванні технічної допомоги та французького досвіду за кордоном (далі - Ехрегёіѕе Егапсе), як утворюють Групу АЕР (далі - Група АЕР), розвивають свою діяльність на територі\n\nУкраїни;\n\nвраховуючи, що Група АЕР займає центральне місце у наданні офіційної допомог\n\nФранцузької Республіки країнам, що розвиваються, і що вона працює у більш ніж 15( країнах світу завдяки своїй мережі з близько 80 місцевих представництв;\n\nнагадуючи, що Група АЕЮ спеціалізується на фінансуванні проектів розвитку та впровадженні технічної експертизи та здійснює свою діяльність на території України;\n\nвраховуючи, що укладення цієї Угоди відповідає спільним інтересам Сторін, щоб дозволити Групі АЕР” надавати свою фінансову та технічну допомогу як офіційну допомо розвитку (ОДР) в Україні відповідно до цілей економічного та соціального розвит\n\nУкраїни; інвестиційних пріоритетів в Україні;\n\nвраховуючи, що Уряд України бажає визначити рамки діяльності Групи АЕР” на територі\n\nУкраїни та надати Групі АЕР” певні привілеї та пільги з метою сприяння виконанню її місі в рамках політики фінансування розвитку України;\n\nвраховуючи, що діяльність Групи АЕР” є переважно некомерційною.\n\nТаким чином, виходячи з поваги до принципів незалежності, суверенної рівності та невтручання у внутрішні справи, Уряд Французької Республіки та Уряд Україн домовилися про наступне:\n\nСТАТТЯ 1 - МЕТА УГОДИ\n\nГрупа АЕР уповноважена надавати свою фінансову та технічну допомогу в Україні, яқ визначено в цій Угоді.\n\nМетою цієї Угоди є визначення правил, що застосовуються до створення Представництва\n\nГрупи АЕР, як зазначено в Статті 7.1, та до діяльності Групи АЕР” в Україні, як описано\n\nСтатті 3.1. Вона визначає, серед іншого, правові, податкові та фінансові умови, що застосовуються до статусу Представництва Групи АЕР та діяльності Групи АЕ” в ці країні.\n\nСТАТТЯ 2 - ПРАВОВИЙ СТАТУС ГРУПИ АЕР",
+      "quality_score": 0.968,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "2.1 Група АЕР” має правосуб'єктність, необхідну для здійснення своєї діяльності в Україні, може в цій якості укладати контракти, набувати та відчужувати рухоме та нерухоме майно а також звертатися до суду.\n\n2.2 Група АЕР” може:\n\nа) здійснювати будь-яку діяльність, необхідну для виконання своїх місій, як описано в ці\n\nУгоді;\n\nвести переговори та укладати будь-які види контрактів або угод;\n\nприймати будь-які види гарантій або забезпечення;\n\nнаймати персонал, який має українське, французьке або інше громадянство, урахуванням обмежень, встановлених національним законодавством.\n\nСТАТТЯ 3 – УПОВНОВАЖЕНА ДІЯЛЬНІСТЬ ГРУПИ АЕР В УКРАЇНІ\n\n3.1 Група АЕР” може, відповідно до положень цієї Угоди:\n\nа) надавати фінансову підтримку у вигляді кредитів, грантів або гарантій в євро, долар\n\nСША або в будь-якій іншій валюті, а також будь-яку форму фінансової або технічної допомоги державі Україна та будь-якій державній установі, державним або приватни підприємствам, державним і приватним фінансово-банківським установам, а також національним, іноземним або міжнародним державним або приватним об'єднанням ч організаціям, або будь-якій юридичній особі з місцезнаходженням в Україні;\n\nБ) набувати будь-які частки в капіталі всіх компаній (незалежно від форми власності)\n\nбудь-якого продавця, вкладати в інвестиційні фонди, а також передавати або вільно розпоряджатися своїми частками або своїми акціями будь-якій особі з українським або будь-яким іншим громадянством з урахуванням обмежень, встановлених національни законодавством для громадян/резидентів держави, яка здійснює збройну агресію прот\n\nУкраїни;\n\nс) надавати консультації, технічну допомогу, послуги з підготовки кадрів та навчання державним або приватним організаціям.\n\n3.2 Сторони визначають проекти у тісній співпраці одна з одною.\n\n3.3 Кожен з вищезазначених видів діяльності має бути предметом окремого контракту, що визначає обов'язки та зобов'язання сторін, пов'язані з відповідною діяльністю або операцією. Кожна Сторона зобов'язується докладати всіх можливих зусиль для сприяння виконанню будь-яких формальностей, необхідних для забезпечення дійсності або набуття чинності такого контракту.\n\n3.4 Група АЕР” не потребує жодних дозволів чи ліцензій для здійснення своєї діяльності\n\nУкраїні.\n\nУ разі внесення змін до законодавства, та/або зміни діяльності Групи АЕР” в Україні, що\n\nУкраїни для діяльності або операцій, що фінансуються та здійснюються Групою АЕР\n\nУкраїні, Група АЕО, за запитом України, здійснить всі необхідні дії задля отримання такого дозволу / ліцензії.",
+      "quality_score": 0.9614,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "СТАТТЯ 4 - НЕЗАСТОСУВАННЯ БАНКІВСЬКОГО РЕГУЛЮВАННЯ\n\n4.1 Діяльність та операції АЕ” та РКОРАКСО розглядаються як транскордонні операції що здійснюються з головного офісу, розташованого у Франції.\n\n4.2 Підприємства Групи АЕР та їхні Представництва (як визначено у Статті 7 цієї Угоди не мають статусу банку або будь-якої іншої фінансової установи в Україні. Тому на них нє поширюються положення банківського законодавства, що застосовуються до банків та фінансових установ, присутніх або діючих на території України.\n\nСТАТТЯ 5 - КОНВЕРТОВАНІСТЬ І ПЕРЕКАЗИ\n\n5.1 Режим воєнного стану 5.1.1 Операції з купівлі іноземної валюти та переказу іноземної валюти за межі України, як здійснюються:\n\n- підприємствами Групи АЕР;\n\n- або бенефіціаром фінансування від Групи АЕР;\n\n- або гарантом такого фінансування, що випливають з діяльності підприємств Групи АЕР в Україні, передбаченої цією Угодою надається не менш сприятливий режим, ніж той, що передбачений законодавством Україн для операцій за проектами, контрактами, угодами, що реалізуються за участю будь-яких інших іноземних експортно-кредитних агентств/іноземних держав через їх уповноважених осіб/іноземних осіб, учасниками (акціонерами) яких є іноземна держава або іноземний банк (за умови, що іноземна держава є учасником (акціонером) цього банку).\n\nКупівля іноземної валюти Групою АЕР або будь-яким бенефіціаром фінансування віл\n\nГрупи АЕР” чи будь-яким гарантом такого фінансування здійснюється за ринковим курсом погодженим між Національним банком України та власником коштів.\n\n5.1.2 Група АЕР” також має право:\n\n(1) мати банківські рахунки в Україні в будь-якій валюті,\n\n(11) купувати іноземну валюту та переказувати за межі України суми, належні їй у зв'язку виконанням або припиненням діяльності Групи АЕР” в Україні, з урахуванням положень статті 5.1.1 цієї Угоди.\n\n5.1.3 Підприємства Групи АЕ” можуть здійснювати при здійсненні кредитів або будь-якиҳ інших фінансових операцій прямі платежі постачальникам або співпідрядника відповідного позичальника або бенефіціара, які не зареєстровані на території України.\n\n5.1.4 Банки, належним чином уповноважені діяти в Україні можуть, з урахування положень статті 5.1.1:\n\n(1) купувати іноземну валюту за дорученням бенефіціарів Групи АЕР за ринкови обмінним курсом;",
+      "quality_score": 0.9692,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 18,
+      "text": "(1) переказувати такі іноземні валюти на банківські рахунки Групи АЕР” у Франції або на інші рахунки Групи АЕР за межами України.\n\n5.1.5 У випадку, якщо конвертація гривень в іноземну валюту або переказ іноземної валюти з України не здійснюється українськими банками, Уряд України докладе всіх можливих зусиль для забезпечення того, щоб такі перекази були здійснені на користь діяльності\n\nГрупи АЕР.\n\n5.2 Режим після скасування воєнного стану 5.2.1 Банки, належним чином уповноважені діяти в Україні, можуть, з урахуванням положень пункту 5.2.6 за дорученням будь-якого бенефіціара фінансування від Групи АЕР або будь-якого гаранта такого фінансування конвертувати гривні в іноземну валюту за ринковим обмінним курсом на дату конвертації та вільно переказувати за межі територі!\n\nУкраїни будь-які суми, належні Групі АЕР, включаючи суми, що відповідають відшкодуванню фінансування, як основної суми, так і відсотків, відсотків за прострочення платежу, додаткових платежів та всіх інших сум, що виникають у зв'язку із здійсненням або завершенням діяльності Групи АЕР в Україні.\n\n5.2.2 Група АЕР також має право:\n\n(1) мати банківські рахунки в Україні в будь-якій валюті,\n\n(1) конвертувати гривні в іноземну валюту за ринковим обмінним курсом на да конвертації будь-які суми, належні їй у зв'язку з ї діяльністю в Україні, як зазначено\n\nСтатті 3.1 цієї Угоди, та\n\n(11) вільно переказувати за межі території України будь-які суми в іноземній валюті.\n\n5.2.3 Група АЕЮ може здійснювати в рамках реалізації кредитів або будь-яких інших фінансових операцій, прямі платежі постачальникам або співпідрядникам відповідного позичальника або бенефіціара, які не зареєстровані на території України.\n\n5.2.4 Банки, належним чином уповноважені здійснювати діяльність в Україні, можуть урахуванням положень пункту 5.2.6:\n\n(1) конвертувати гривні, отримані від боржників Групи АЕР, у будь-яку іноземну валюту за ринковим обмінним курсом на дату конвертації, та\n\n(1) переказувати ці іноземні валюти на банківські рахунки Групи АЕР у Франції або за межами України.\n\n5.2.5. У випадку, якщо конвертація гривні в іноземну валюту або переказ іноземної валюти за межі України не здійснюється українськими банками, Уряд України докладе всіх зусиль для забезпечення завершення переказів.\n\n5.2.6. Режим, передбачений в Угоді після скасування воєнного стану застосовується у повному обсязі, крім випадку, коли Національним банком України вживаються заходи, необхідні для реалізації монетарної, валютної політики, а також заходи захисту передбачені українським законодавством, які вживаються з метою забезпечення функціонування фінансової системи в умовах виникнення обставин, що загрожують стабільності банківської та (або) фінансової системи (далі – «Заходи НБУ»).",
+      "quality_score": 0.9668,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 19,
+      "text": "У випадку запровадження Заходів НБУ Групі АЕР” надається режим проведення операцій купівлі іноземної валюти та переказу іноземної валюти за межі України не мен сприятливий, ніж той, що передбачений для інших аналогічних установ та організацій.\n\nБез шкоди іншим положенням цієї статті, Уряд України надалі зобов'язується, у випадк запровадження Заходів НБУ, провести перемовини з Групою АЕР для оцінки вплив\n\nЗаходів НБУ на операції та діяльність Групи АЕР в Україні та мінімізації впливу Заходін\n\nНБУ на операції та діяльність Групи АЕР в Україні, а також будь-яких бенефіціарів фінансування від Групи АЕР” або будь-яких гарантів такого фінансування.\n\nСТАТТЯ 6 - ПОДАТКОВИЙ СТАТУС\n\n6.1 Група АЕР, її активи та доходи від діяльності, описаної в Статті 3.1 а) та с) цієї Угоди звільняються від прямих податків в Україні.\n\nЦя стаття не застосовується до діяльності, описаної в статті 3.1 Б).\n\nСТАТТЯ __7 __-__МІСЦЕВЕ ПРЕДСТАВНИЦТВО __ ГРУПИ _АЕЮр - СТАТУС\n\nПРАЦІВНИКІВ\n\n7.1 Представництво Групи АЕР в Україні а) Група АЕЮ може, без дотримання будь-яких формальностей, відкрити одне абд декілька представництв у Києві (далі - «Представництво(-а) або в будь-якому іншом місці в Україні з метою здійснення діяльності, описаної в цій Угоді.\n\nУряд України сприятиме відкриттю та функціонуванню будь-якого Представництвг відповідно до цієї Угоди.\n\nПредставництво(-а) Групи АЕР в Україні відповідає(-ють) за визначення проектів, як\n\nГрупа АЕР може реалізовувати в Україні, за підготовку та узгодження документів пов'язаних з цими проектами, а також за моніторинг їхньої реалізації.\n\nВідповідно до статті 4 (Незастосування банківського регулювання) цієї угоди, діяльністн будь-якого Представництва не підпадає під дію законів або правил, що застосовуються дд банків, які діють в Україні.\n\nБудь-яке Представництво користується наступними пільгами:\n\n+ звільнення від сплати митних платежів та податків, у тому числі податку на додан вартість (або його еквівалента), при постачанні та ввезенні/придбанні на митн територію України товарів/послуг для забезпечення діяльності Представництва;\n\nборги, вимоги або інші зобов?язання, що випливають з кредитних угод, субсидій аба гарантій, схвалених або керованих Групою АЕР, користуються абсолютни захистом від будь-якої форми конфіскації, арешту або заходів примусовога виконання будь-якого характеру, що здійснюються проти Групи АЕР або ї\n\nПредставництва.\n\nа) Уряд України зобов'язується не націоналізувати та не експропріювати будь-яке майно, активи чи кошти Групи АЕР або її Представництва (Представництв), а також нё вживати жодних заходів, що можуть призвести до неможливості користування ци майном, активами чи коштами, його націоналізації або експропріації.",
+      "quality_score": 0.9512,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 20,
+      "text": "Якщо з причин обгрунтованого загального інтересу такі заходи або дії будуть вжиті, то\n\nГрупа АЕР” отримає адекватну компенсацію без затримки у вільно конвертованій валюті\n\nФінансова компенсація буде узгоджена на взаємній основі, за незалежно визначеною ринковою ціною, і прийнята Сторонами.\n\n7.2 Іноземний персонал Групи АЕР а) Група АЕР визначає кількість та кваліфікацію членів свого персоналу, які не мають громадянства України та не мають посвідки на тимчасове проживання в Україні (далі «Іноземні працівники»), які вона вважає необхідними для належного функціонування свого Представництва (Представництв).\n\nГрупа АЕО безпосередньо надає Іноземним працівникам корпоративну систем соціального забезпечення, яка забезпечує рівень покриття, щонайменше еквівалентни рівню покриття загальної французької системи соціального забезпечення на випадок хвороби, материнства, батьківства, інвалідності, нещасних випадків на виробництві професійних захворювань та старості.\n\nІноземні працівники не підпадають під дію українського соціального законодавства зокрема, вони звільняються від належності до української системи соціального забезпечення та від сплати внесків на соціальне страхування, які несе працівник.\n\nГрупа АЕР звільняється від сплати внесків, які зазвичай сплачує роботодавець за українськими програмами соціального забезпечення.\n\nЫ) Уряд України сприяє в”їзду, перебуванню, проживанню, свободі пересування та виконанню формальностей щодо виїзду Іноземних працівників та їхніх дружин/чоловіків, і будь-яких членів їхніх сімей, які перебувають на їхньом утриманні.\n\nс) Уряд України надає такі пільги Іноземним працівникам, їхнім дружинам/чоловікам, та членам їхніх сімей, які перебувають на їхньому утриманні:\n\nоформлення дозволу на в'їзд та багаторазових віз, а також видача посвідок на проживання на території України в порядку, встановленому українськи законодавством;\n\nправо на безмитне ввезення своїх меблів та особистих речей під час першого вступу на посаду в Україні;\n\nвидачу будь-яких дозволів, необхідних для вільного пересилання особистих речей в Україну або з України;\n\nвидачу дружині або чоловіку іноземного працівника дозволу на працевлаштування, дійсного на той самий період, що й віза або дозвіл на в”їзд відповідного іноземного працівника, що дозволяє йому працювати в Україні.\n\nа) Уряд України надає іноземним працівникам такі привілеї та імунітети:\n\n\" імунітет від юрисдикції за дії, вчинені під час виконання службових обов” язків\n\nЦей імунітет не звільняє їх від юрисдикції Французької Сторони.\n\n7.3 Персонал Групи АЕР, який має українське громадянство або є резиденто\n\nУкраїни",
+      "quality_score": 0.9692,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 21,
+      "text": "В рамках своєї діяльності в Україні Група АЕЮ може наймати працівників, які є громадянами або резидентами України, відповідно до законодавства та нормативно правових актів України, що стосуються трудового права та соціального забезпечення.\n\nЦі працівники користуються імунітетом від юрисдикції лише за дії, вчинені ними у свої офіційній якості.\n\nОподаткування доходів у виглядів заробітної плати, винагород, компенсацій, нараховани\n\nГрупою АЕР на користь працівників, які мають українське громадянство або є резидентам\n\nУкраїни, здійснюється відповідно до чинного законодавства України.\n\n7.4 Тимчасові місії в Україні\n\nЗ метою здійснення своєї діяльності в Україні Група АЕР може направляти в Україн тимчасові місії або призначати консультантів у рамках своєї діяльності.\n\nУряд України вживає заходів, необхідних для того, щоб члени тимчасових місі отримували у скорочені строки дозволи, необхідні для в”їзду на територію України перебування на ній та виїзду з неї.\n\nУряд України надає членам тимчасових місій імунітет від юрисдикції за дії, вчинені зв'язку з виконанням ними своїх службових обов'язків. Ці імунітети не звільняють їх від юрисдикції Французької Сторони.\n\nСТАТТЯ 8 - ІМПЛЕМЕНТАЦІЯ УГОДИ\n\n8.1 З метою сприяння процедурам Групи АЕР у здійсненні її діяльності, Уряд Україн передаватиме всю необхідну інформацію органам влади з тим, щоб уможливит оперативне виконання цієї Угоди в повному обсязі, та вживатиме будь-яких внутрішні заходів, необхідних для цього.\n\n8.2 Починаючи з дати набрання чинності цією Угодою, Група АЕР” може пред'являти цю угоду, як належним чином завіреної копії перед будь-яким органом, посадовою особою та в цілому, перед будь-яким органом державного управління України для того, щоб бенефіціари фінансування від будь-якої компанії групи АЕР або її співпідрядників могл вимагати здійснення прав, що містяться в цій угоді, група АЕР” може передати копію ціє угоди таким бенефіціарам або співпідрядникам для того, щоб вони могли пред'явити ї відповідним органам влади.\n\nЖодне законодавче, нормативне або інше положення, що набирає чинності після набрання чинності цією Угодою, не може завдавати шкоди правам та привілеям групи АЕП передбаченим цією угодою.\n\nСТАТТЯ 9 - НАБРАННЯ ЧИННОСТІ, СТРОК ДП, ПРИПИНЕННЯ ТА ВНЕСЕННЯ\n\nЗМІН\n\n9.1 Набрання чинності\n\nКожна Сторона повідомить іншу Сторону про виконання внутрішньодержавних процедур необхідних для набрання чинності цією Угодою, яка набирає чинності в перший денн другого місяця, що настає за датою отримання другого повідомлення.",
+      "quality_score": 0.9649,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 22,
+      "text": "Негайно після набрання чинності цією Угодою Уряд України відповідно до статті 102\n\nСтатуту Організації Об'єднаних Націй розпочне процедуру реєстрації цієї Угоди\n\nСекретаріаті Організації Об°єднаних Націй. Уряд Французької Республіки буде поінформований про цю реєстрацію шляхом передачі реєстраційного номера Організації\n\nОб?єднаних Націй, як тільки буде отримано підтвердження від Секретаріату Організації\n\nОб?єднаних Націй.\n\nЦя Угода застосовується до поточних контрактів, укладених будь-яким підприємство\n\nГрупи АЕР в Україні, але не раніше набрання цією Угодою чинності.\n\n9.2 Внесення змін до цієї Угоди\n\nСторони можуть вносити зміни до цієї Угоди в будь-який час у письмовій формі за взаємною згодою. Будь-яка зміна набирає чинності після виконання кожною Стороною необхідних для цього внутрішньодержавних процедур і є невід'ємною частиною ціє!\n\nУгоди.\n\n9.3 Вирішення спорів\n\nБудь-який спір між Сторонами, що виникає у зв'язку з тлумаченням або виконанням ціє!\n\nУгоди, потенційних додаткових угод до неї або будь-якого питання, що стосується Груп\n\nАЕР, Представництва (Представництв) або відносин між Урядом Французької Республік та Урядом України у зв'язку з цією Угодою, вирішується мирним шляхом прямиҳ переговорів між Сторонами через дипломатичні канали.\n\n9.4 Строк дії та припинення дії\n\nЦя Угода укладається на невизначений термін. Її дія може бути припинена в будь-який час кожною Стороною шляхом надання письмового повідомлення за шість (6) місяців надісланого дипломатичними каналами іншій Стороні. У такому випадку Угода втрачає чинність через шість (6) місяців з дати отримання повідомлення. Припинення дії цієї Угод не впливає на поточні контракти або угоди, укладені під час дії цієї Угоди.\n\nВчинено у м. Париж 7 червня 2024 року, у двох примірниках, кожний з яких є оригіналом українською та французькою мовами, при цьому обидва тексти мають однакову силу.\n\nЗА УРЯД ФРАНЦУЗЬКОЇ РЕСПУБЛІКИ ЗА УРЯД УКРАЇНИ\n\nСтефан Сежурне, Юлія Свириденко,\n\nМіністр Європи та закор ар Міністр Європи та закордонних справ\n\n(5 ==",
+      "quality_score": 0.9642,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20202726_001_s1",
+      "title": "Accord",
+      "score": 0.798718,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240047_001_s1",
+      "title": "Accord",
+      "score": 0.717599,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212866_001_s1",
+      "title": "Accord",
+      "score": 0.715992,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212842_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.669023,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182474_001",
+      "title": "Accord",
+      "score": 0.446294,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240080_001_s1",
+      "title": "Accord (ensemble une annexe)",
+      "score": 0.446074,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20132503_001_s1",
+      "title": "Arrangement",
+      "score": 0.444159,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182472_001",
+      "title": "Accord",
+      "score": 0.442057,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202696_001_s1",
+      "title": "Accord",
+      "score": 0.440153,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182500_001_s1",
+      "title": "Accord-cadre (ensemble 1 annexe)",
+      "score": 0.437191,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

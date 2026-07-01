@@ -1,0 +1,121 @@
+{
+  "document_id": "19510075_175_s1",
+  "title": "Pouvoirs canadiens",
+  "year": 1951,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.985,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "J I, BROOKE CLAXTON, Acting Secretary of State for External Affairs In the Gorernment of canada, do hereby certify that MAJOR GENERAL GEORGE PHILIAS VANIER, D.S.O., M.C., Canadian Ambassador to France, 1s rested with FUll Pores and Authority to sign the Agreement on behalf of Canada between the Government of the French Republic and the Gorernments of the United Kingdom of Great Britain and Northern Ireland, Canada,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510075_175_s1.pdf",
+  "source_filename": "19510075_175_s1.pdf",
+  "source_sha256": "9489c49f10ac7b2efe75bc1a573e6045208a241fcc5a948943b4f5b49af63404",
+  "treaty_id": "TRA19510075",
+  "treaty_number": "CAN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "J\n\nI, BROOKE CLAXTON, Acting\n\nSecretary of State for External Affairs\n\nIn the Gorernment of canada, do hereby certify that MAJOR GENERAL GEORGE PHILIAS\n\nVANIER, D.S.O., M.C., Canadian Ambassador to France, 1s rested with FUll Pores and\n\nAuthority to sign the Agreement on behalf of Canada between the Government of the\n\nFrench Republic and the Gorernments of the United Kingdom of Great Britain and\n\nNorthern Ireland, Canada, Australla, New\n\nZealand, the Union of South Africa, India and Pakistan regarding British Commonwealth war graves in French territory.",
+      "quality_score": 0.9838,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "IN FITNESS WHERBOF I have signed\n\nand sealed these presents at the Department of External Assairs, Ottara, this 1*s day of september, 1951.\n\nActing Secrotary of State for External Affairs",
+      "quality_score": 0.9862,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510075_065_s1",
+      "title": "Pouvoirs australiens",
+      "score": 0.391299,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.389396,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_032_s1",
+      "title": "Pouvoirs du Canada",
+      "score": 0.379223,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20030221_730",
+      "title": "Texte de la lettre d'intention",
+      "score": 0.360434,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_035_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Canada",
+      "score": 0.357289,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_001_s1",
+      "title": "Convention",
+      "score": 0.357075,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.355994,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.355847,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_857_s1",
+      "title": "Dénonciation swazie",
+      "score": 0.352691,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

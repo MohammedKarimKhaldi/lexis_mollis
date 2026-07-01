@@ -1,0 +1,116 @@
+{
+  "document_id": "19230006_002_s1",
+  "title": "Déclaration d'accession",
+  "year": 1923,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE SOUSSIGNÉ, après avoir exhibé aux Représentants des Puissances signataires du Traité de Paix en date de ce jour ses pleins pouvoirs trouvés en bonne et due forme, déclare par les présentes accéder au nom de la Belgique aux dispositions de la Section I de la Partie II (Clauses financières) et aux dispositions de la Partie III (Clauses écono- miques) dudit Traité de Paix, ainsi qu'aux dispositions du Protocole en d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230006_002_s1.pdf",
+  "source_filename": "19230006_002_s1.pdf",
+  "source_sha256": "0ddddb0af4f2a6d1a0ba25119950fc12a9af6fa95098426b1c4d5bbc558a644e",
+  "treaty_id": "TRA19230006",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE SOUSSIGNÉ, après avoir exhibé aux Représentants des Puissances signataires du Traité de Paix en date de ce jour ses pleins pouvoirs trouvés en bonne et due forme, déclare par les présentes accéder au nom de la Belgique aux dispositions de la Section I de la Partie II (Clauses financières) et aux dispositions de la Partie III (Clauses écono- miques) dudit Traité de Paix, ainsi qu'aux dispositions du Protocole en date de ce jour, relatif à certaines concessions accordées dans l'Empire ottoman.\n\nCette accession, qui rétablira les relations oflicielles, prendra effet au moment, dans les termes et dans les conditions prévus dans le\n\nProtocole en date de ce jour par lequel les Puissances signataires dudit Traité de Paix ont admis la Belgique à procéder à la présente accession.\n\nFAIT à Lausanne, le 24 juillet 1923.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230006_003_s1",
+      "title": "Déclaration d'accession",
+      "score": 0.854891,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19230006_001_s1",
+      "title": "Protocole",
+      "score": 0.434872,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230012_001_s1",
+      "title": "Protocole",
+      "score": 0.37943,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_436c_s1",
+      "title": "Instrument de ratification italien de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.365133,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.363268,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_12_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.362306,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230007_001_s1",
+      "title": "Protocole (ensemble une déclaration turque)",
+      "score": 0.361476,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230017_001_s1",
+      "title": "Protocole (ensemble une déclaration turque)",
+      "score": 0.36079,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_001_s1",
+      "title": "Accord",
+      "score": 0.358061,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.357722,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

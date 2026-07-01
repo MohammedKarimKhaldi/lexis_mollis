@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_561_s1",
+  "title": "Instrument d'adhésion marocain",
+  "year": 1954,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9793,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "GB/O ROYAUME DU MAROC MINISTÈRE DES AFFAIRES ÉTRANGÈRES SECTION ECONOMIQUE N 37702 /EC Ie Ministère des Affaires Etrangères du Royaume du Maroc présente ses compliments au Ministère des Affai- res Etrangères de la République Française et a 1 'honneur de lui faire connaître que par les présentes, le Royaume du Maroc fait acte d'adhésion à la Convention Internatio- nale pour l'unification des méthodes d'analyse et d'a…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_561_s1.pdf",
+  "source_filename": "19540090_561_s1.pdf",
+  "source_sha256": "abdf42077b77aae395a888f6fa5386804347c042434fb2b322eac0dd3f508517",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "MAR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GB/O\n\nROYAUME DU MAROC\n\nMINISTÈRE\n\nDES\n\nAFFAIRES ÉTRANGÈRES\n\nSECTION ECONOMIQUE\n\nN 37702 /EC\n\nIe Ministère des Affaires Etrangères du Royaume du Maroc présente ses compliments au Ministère des Affai- res Etrangères de la République Française et a 1 'honneur de lui faire connaître que par les présentes, le Royaume du Maroc fait acte d'adhésion à la Convention Internatio- nale pour l'unification des méthodes d'analyse et d'ap- préciation des vins signée à Paris le 13 Octobre 1954.\n\nLe Ministère des Affaires Etrangères du Royaume du Maroc prie le Ministère des Affaires Etrangères de la\n\nRépublique Française de bien vouloir, conformément à l'article 8 de ladite Convention, notifier la présente adhésion du Maroc à chacun des autres Etats signataires ou adhérents, ainsi qu'à l'Office International du Vin.\n\nIe Ministère des Affaires Etrangères du Royaume\n\ndu Maroc saisit cette occasion pour renouveler au Minis- tère des Affaires Etrangères de la République Française l'assuranco de sa haute consid ration. AB\n\nRABAT, Ie 8 NOVEMBRE I957.\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nDE LA REPUBLIQUE FRANCAISE\n\n_ PARIS-\n\nROYAIME DU",
+      "quality_score": 0.9793,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_562_s1",
+      "title": "Note de transmission de l'instrument marocain",
+      "score": 0.424082,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_016_s1",
+      "title": "Instrument d'adhésion sud-africain",
+      "score": 0.417879,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_06_s1",
+      "title": "Note verbale d'adhésion de l'Afrique du Sud",
+      "score": 0.413878,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_030_s1",
+      "title": "Note verbale d'acceptation du Maroc",
+      "score": 0.408712,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.404726,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_50_s1",
+      "title": "Note verbale de demande de transmission de la candidature des Pays-Bas aux autres Etats participants",
+      "score": 0.40294,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.400421,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.398624,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.397784,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800016_001b_s1",
+      "title": "Accord (note verbale comorienne)",
+      "score": 0.397159,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_870",
+  "title": "Courrier français",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9748,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LINET A2A MINISTÈRE DES AFFAIRES ÉTRANGÈRES DIRECTION DES CONYENTIONS ADMINISTRATIVES ET DES AFFAIRES CONSULAIRES 23, ruo La Pérouse - PARIS XVI KLE. : 52.00 Unions Internationales LIBERTÉ - ÉGALITÉ - FRATERNITÉ RÉPUBLIQUE FRANÇAISE -DIV1968-00100E PARIS, LE / I. 29 0a 4 (4)/ 72 Per Monsieur le Directeur, Une récente publication de l'Office Interna- tional des Epizooties mentionne la Tanzanie en qualité de membre de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_870.pdf",
+  "source_filename": "tra19240002_870.pdf",
+  "source_sha256": "c8eb3f07effda303f9ace9651fbeaa6962e7f93089aefb5695ec93ed8169b26e",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "870",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LINET A2A\n\nMINISTÈRE\n\nDES\n\nAFFAIRES ÉTRANGÈRES\n\nDIRECTION DES CONYENTIONS\n\nADMINISTRATIVES\n\nET DES AFFAIRES CONSULAIRES\n\n23, ruo La Pérouse - PARIS XVI\n\nKLE. : 52.00\n\nUnions Internationales\n\nLIBERTÉ - ÉGALITÉ - FRATERNITÉ\n\nRÉPUBLIQUE FRANÇAISE\n\n-DIV1968-00100E\n\nPARIS, LE\n\n/ I. 29 0a 4 (4)/ 72 Per\n\nMonsieur le Directeur,\n\nUne récente publication de l'Office Interna-\n\ntional des Epizooties mentionne la Tanzanie en qualité de membre de cette organisation internationale depuis mai 1967.\n\nLes autorités de Dar-es-Salam n'ayant adressé\n\nau Ministère des Affaires Etrangères aucune communication relative à l'Arrangement du 25 janvier 1924 dont le gouvernement français est dépositaire, je vous serais très reconnaissant de vouloir bien m'indiquer sur quelles bases la Tanzanie a pu faire l'objet de la mention dont il s'agit./.\n\nVeuillez agréer, Monsieur le Directeur,\n\nl'assurance de ma considération très distinguée.\n\n..：/！！；い\n\nLa va zaid\n\nMonsieur VINTOZ\n\nDirecteur de l'Office\n\nInternational\n\ndes Epizooties 12, rue de Prony, 12\n\nPARIS 17ème",
+      "quality_score": 0.9748,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_081",
+      "title": "Note verbale des autorités grecques accusant réception de la notification du dépôt de l'instrument de Bahreïn",
+      "score": 0.406784,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "suriname-yemen-2_s1",
+      "title": "Notification au BIE de l'adhésion du Suriname",
+      "score": 0.405251,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.401757,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_067_s1",
+      "title": "Notification de l'adhésion de la Jordanie aux Etats-membres",
+      "score": 0.398891,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_485",
+      "title": "Accusé de réception de l'instrument du Lesotho",
+      "score": 0.397355,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.397213,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_310",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.396841,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_136",
+      "title": "Accusé de réception français de l'adhésion camerounaise",
+      "score": 0.396564,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_887_s1",
+      "title": "Note verbale d'accompagnement de l'instrument thaïlandais",
+      "score": 0.39589,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_506",
+      "title": "Demande des autorités françaises d'une notification de dépôt de l'instrument d'adhésion",
+      "score": 0.395303,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

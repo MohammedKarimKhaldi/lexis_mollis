@@ -1,0 +1,142 @@
+{
+  "document_id": "19240003_05_s1",
+  "title": "Instrument de succession",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9584,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "AMBASSADE ~ 69/AMB/ 01001 سفارة الجمهودية الجزائرية الديمو قرالمة والشمة T29094(4)/2lis I40a5(4)/2% 12008 (4) 264 f1o4 L'Ambassade de la République Algérienne Démocra- tique et Populaire présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de porter à sa connaissance que le Gouvernement de la République Algérienne Démocratique et Populaire se considère lié à compter du 5 Juillet 1962 par les…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_05_s1.pdf",
+  "source_filename": "19240003_05_s1.pdf",
+  "source_sha256": "8a1ea79799db18b010b2444e9b52383fbb7ed32e451595a801c8998966756506",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "DZA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE\n\n~\n\n69/AMB/ 01001\n\nسفارة الجمهودية الجزائرية الديمو قرالمة والشمة\n\nT29094(4)/2lis\n\nI40a5(4)/2% 12008 (4) 264\n\nf1o4\n\nL'Ambassade de la République Algérienne Démocra- tique et Populaire présente ses compliments au Ministère des\n\nAffaires Etrangères et a l'honneur de porter à sa connaissance que le Gouvernement de la République Algérienne Démocratique et Populaire se considère lié à compter du 5 Juillet 1962 par les arrangements mentionnés ci-dessous et dont l'application avait été étendue à l'Algérie avant son accession à l'Indépendance.\n\nArrangement international pour la création, à Paris, d'un Officiel international des Epizooties, signé le 25 Janvier 1924\n\nArrangement portant création à Paris d'un Office \\ international du Vin, signé à Paris, le 29 Noyembre 1924 ;\n\nMINISTERE DES AFFAIRES ETRANGERES\n\n37, Quai d'Orsay\n\nPARIS VII\n\n..l..",
+      "quality_score": 0.9481,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "-2-\n\nConvention pour l'établissement de l'Organisation européenne et méditerranéenne pour la protection des pantes, signée à Paris, le I8 Avril 1951.\n\nL'Ambassade de la République Algérienne Démocra- tique et Populaire saisit l'occasion de cette déclaration de continuité pour renouveler au Ministère des Affaires Etrangères l'assurance de sa haute considération. f\n\nPARIS, le 13 Février 1969\n\nPARIS",
+      "quality_score": 0.9917,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "PCD/iP\n\nMINISTERE\n\nAPPAIRES SERINGERES\n\nDIRECTION DES CONVENTIONS\n\nADMINISIRATIVES\n\nET DES AFFAIRES CONSULAIRES\n\nUnions InternatIonales\n\nARCHIVE TO\n\n142 245-0\n\nA/s. Déclaration de l'Algérie signé à\n\n4 2 - 1\n\nREPUBLIQUE FRANCAISE\n\nParis, 1e 6 Mars 1969 - 1152 / I. 29 Oa 5 (4)/ 2 Bis\n\nIE MINISTRE DES AFFAIRES ETRANGERES\n\nMONSIEUR L'AMBASSADEUR DE FRANCE\n\nTaire savoir au gouvernement auprès auquel\n\nccrédité que le 13 février ce qui suit:\n\nFopulaire se considère\n\nInternational\n\nVous voudrez bien me faire connaitre par le\n\nPour le Ministre des Affaires Etrangères et des Affaires Consulaires\n\nLe Sous-Directeur\n\ndes Unions Internationales\n\nGIRARD.",
+      "quality_score": 0.9353,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_06_s1",
+      "title": "Instrument de succession",
+      "score": 0.927361,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_07_s1",
+      "title": "Note d'information aux Etats-membres de la succession de l'Algérie",
+      "score": 0.437991,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_21_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.432497,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19240002_026",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.427951,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.425037,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_12_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.41269,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19240002_12_s1",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.411434,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19240003_62_s1",
+      "title": "Notification à la Syrie de l'acceptation de sa candidature à l'adhésion",
+      "score": 0.408985,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19240002_506",
+      "title": "Demande des autorités françaises d'une notification de dépôt de l'instrument d'adhésion",
+      "score": 0.406917,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.401762,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

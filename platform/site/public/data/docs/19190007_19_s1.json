@@ -1,0 +1,343 @@
+{
+  "document_id": "19190007_19_s1",
+  "title": "Pouvoirs de signature des délégués chinois : Lù Zhengxiáng (Lou Tseng Tsiang) ; Gù Wéijun (Wellington Koo Vi Kyun) ; Wei Chenzu (Wei Suntchou) ;  Shi Zhàoji (Sze Sao-Ke) ; Wang Zhengting -  Décrets présidentiels du 30 novembre de l'an VII, signatures : Xu Shichang (à droite), Qian Nengxun (à gauche) et traduction",
+  "year": 1919,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr",
+    "ko",
+    "zh-cn"
+  ],
+  "quality_score": 0.6892,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "E a. p i j 蜗 i 特 大 | | ， ,人 邻 委 经 | - : . A 2 “、 下 法 2 i . Zr . 和 . 18 可 大 中 華： 訓 昌 Traduction du Décret Présidentiel en date du 30 Novembre An VII de la République de Chines wee ire eee ee Mr. Lou Tseng-Tsiang est nommé Délégué Plénipotentiairs au Congrès da la PAX » / » (Signé) Shu-Chi-Tcnang Président de la République de China, (Contresigné) Tsien-Nan-Shum Président du Conseil, Traduction certifióe conforme, à Pa…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_19_s1.pdf",
+  "source_filename": "19190007_19_s1.pdf",
+  "source_sha256": "dae4a2ea5091c68cab2f0ab0c8a4352a138eb26ce62911c84490971df2cb7523",
+  "treaty_id": "TRA19190007",
+  "treaty_number": "19",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "E a.\n\np i j",
+      "quality_score": 0.5298,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "蜗\n\ni 特 大 |\n\n| ， ,人 邻 委 经\n\n| - : . A\n\n2 “、 下 法\n\n2 i . Zr .\n\n和\n\n. 18\n\n可 大",
+      "quality_score": 0.4259,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "zh-cn",
+        "ko"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "中 華：\n\n訓\n\n昌",
+      "quality_score": 0.6055,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Traduction du Décret Présidentiel en date du 30 Novembre An VII de la République de\n\nChines wee ire eee ee\n\nMr. Lou Tseng-Tsiang est nommé Délégué\n\nPlénipotentiairs au Congrès da la PAX » / »\n\n(Signé) Shu-Chi-Tcnang\n\nPrésident de la République de\n\nChina,\n\n(Contresigné) Tsien-Nan-Shum\n\nPrésident du Conseil,\n\nTraduction certifióe conforme,\n\nà Paris.",
+      "quality_score": 0.9455,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "-\n\nK\n\na\n\nEA\n\n44 Jo",
+      "quality_score": 0.6316,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": ".!' 全 雪 组\n\n“和 辣 雪\n\n“|\n\nz 大 i 全",
+      "quality_score": 0.4232,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "中 華\n\n能 訓\n\n昌",
+      "quality_score": 0.7044,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Traduction du Déóoret PÆésidantiel en date du 30 Novembre An VII de la République de\n\nChines,\n\nMr. Sao=KewAlfred Sze ast nommé Délégué\n\nPlénipotentiaire au Congrès de la Paixe/.\n\n(Signé) Shu-Chi-Tchang\n\nPrésident de la République de\n\nChines\n\n(Contresigné) Tsien=Nan-Shum\n\nPrésident du Jonseil,\n\n+\n\n‘Traduction certifiés conforme.\n\nConsei de gation de Chine\n\n& Paris.",
+      "quality_score": 0.913,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "48.\n\nVJ Nin\n\nSu\n\nAE\n\n-—. hr -——\n\nPE",
+      "quality_score": 0.7744,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "传 这 站 全 me\n\nPet",
+      "quality_score": 0.6016,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "d",
+      "quality_score": 0.7172,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Traduction du Décret Présidentiel en date du 30 Novembre An VII de la Répu- blique de Chine,\n\n. Mr. Vikyuin Wellington Koo est nomré\n\nDélégué Plénipotentiaire au Congrès de la Paix\n\n(Signé) Shu-Chi-Tchang\n\nPrésident de la République\n\nde Chinese\n\n(Contresigné) Tsien-Nan-Shum\n\nPrésident du Conseil,\n\nTraduction certifiée conforme,",
+      "quality_score": 0.9629,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "K",
+      "quality_score": 0.7136,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page"
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "..",
+      "quality_score": 0.6378,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "能\n\n華\n\n欧岡\n\n月",
+      "quality_score": 0.565,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Traduction du Décret Présidantiel en date du 30 NovAmbre An VII de la République de\n\nChine.\n\n-------\n\nIi, Suntchou Viel est nommé Délégué .\n\nPlénipotentialre au congrès de la Palr./•\n\n( 91gné) Shu-Chi-Ichang\n\nPrésident de la République de\n\nchine.\n\n(Contresigné) Tafen-Nan-Shum.\n\nPréstdent du Conseil,\n\nTraduction certifién conforme,\n\nZolarge\n\nConee1ll\n\nde la Légation de Chine\n\nà Paria.\n\nVOT\n\nSHARIE",
+      "quality_score": 0.9106,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "| 大 | 办 | 民 | 国 |\n\n| i- 使 统 国务 \\\n\n| AE 倒 |\n\n/ EAE\n\n/ 位 | 正 | 且 | 有 z 国 全 天 | 示 委 间 和 A 日 | 纺 / | 宕 | 个 | 条 长 | i 能 人参 | 位 / 惠氏 ，| 币 z | 二 | 会 | 志 |\n\n和 利信 /",
+      "quality_score": 0.428,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "ko",
+        "zh-cn"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "CCFORt. L\n\nEcRiT reiropiri 121 JANY 1919\n\nSérie_ Car.or. Petr\n\nTraduction d'une dépêche du Président du conoril adressén à son Excellence Mr.\n\nIou Irong-Islang, Miniatre des Affaires\n\nEtrangères à la date du 27 Décembre An VII de La République de Chine,\n\nPar Décret Présidentiel, ar Changt ing\n\nThomas Wang est nommé Délégué Plénipotent 1- atra au Congrès de la Paix. Ie Décret dûment siené est envoyé par poste./.\n\nIsien-Nan-Shum\n\nPréaldent du Conseil.\n\nTraduction certifiés conforma.\n\nconseiller de la Légation de China\n\nà Paria.\n\nPARIS",
+      "quality_score": 0.916,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760034_001b_s1",
+      "title": "Texte sud-africain",
+      "score": 0.430878,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16630006_001_s1",
+      "title": "Texte du traité (ensemble texte des pouvoirs danois et des pouvoirs français)",
+      "score": 0.404446,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200048_446_s1",
+      "title": "Instrument de ratification japonais",
+      "score": 0.40387,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19740101_001",
+      "title": "Convention (ensemble 1 protocole d'application et 4 annexes)",
+      "score": 0.403238,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760093_001_s1",
+      "title": "Accord",
+      "score": 0.391311,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18250002_005_s1",
+      "title": "Instrument de ratification bavarois",
+      "score": 0.365239,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19400002_001_s1",
+      "title": "Convention concernant le transfert à l'État français de la propriété de l'emplacement du monument commémoratif de la guerre 1914-1918 du Bois Delville",
+      "score": 0.365239,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_436",
+      "title": "Instrument de ratification italien",
+      "score": 0.364821,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20250004_001_s1",
+      "title": "Mémorandum d'entente",
+      "score": 0.354125,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20220085_001_s1",
+      "title": "Protocole",
+      "score": 0.35377,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "document_id": "tra19980155_436_s1",
+  "title": "Document-cadre",
+  "year": 1998,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "en",
+    "it",
+    "pt"
+  ],
+  "quality_score": 0.94,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "SATIL ر أ . ۴ VIDS 5 E 2 ٠‏ 5 ر 7 ت 2 5 2 0 ر ha E al CO LE EC E CN ET COE TALE 0. te 2 SxS an Î‏ TR BTINEEE o OIE eS N Lusitente delle Republica Une Convenzione tra il Governo della Repubblica italiana, il Governo della Repubohca franceso. il Governo della Repubblica federale di Germania e il Governo del Regno Unito di Gran Bretagna e Irlanda del Nord, sull'istituzione dell'Organizzazione congianta per la cooperazi…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19980155_436_s1.pdf",
+  "source_filename": "tra19980155_436_s1.pdf",
+  "source_sha256": "43d0b9209c69b0a499201d41da846039134fd4f1a21bb242c2a5b9ee524a44f1",
+  "treaty_id": "TRA19980162",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SATIL\n\nر أ . ۴ VIDS 5 E 2 ٠‏ 5 ر 7 ت 2 5 2 0 ر\n\nha E al CO LE EC E CN ET COE TALE 0. te 2 SxS an Î‏\n\nTR BTINEEE\n\no OIE eS",
+      "quality_score": 0.6,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Arabic:psm3",
+      "language": [
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "N Lusitente delle Republica\n\nUne Convenzione tra il Governo della Repubblica italiana, il Governo della Repubohca franceso. il\n\nGoverno della Repubblica federale di Germania e il Governo del Regno Unito di Gran Bretagna e\n\nIrlanda del Nord, sull'istituzione dell'Organizzazione congianta per la cooperazione in materia di annament (OCCAR) con allegat, essendo stata firmata a Famborough il 9 settembro 1908, der seglienle lenere",
+      "quality_score": 0.9807,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "01| v3\n\nMINISTERI\n\nCONVENZIONE\n\nTRA\n\nIL GOVERNO DELLA REPUBBLICA ITALIANA,\n\nIL GOVERNO DELLA REPUBBLICA FRANCESE,\n\nIL GOVERNO DELLA REPUBBLICA FEDERALE DI GERMANIA E,\n\nIL GOVERYO DEL REGNO UNTTO DI GRAN BRETAGNA E IRLANDA DEL\n\nNORD,\n\n\"SULL'ISTITUZIONE DELL'ORGANIZZAZIONE\n\nCONGIUNTA PER LA COOPERAZIONE IN MATERIA DI ARMANIENTI\n\n(ORGANISATION CONJOLTE DE COOPERATION EN MATIERE\n\nD'ARVIMENT)\n\nOCCAR",
+      "quality_score": 0.9777,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "iti!\n\nCAPITOLO I:\n\nCAPITOLO D:\n\nCAPITOLO III:\n\nCAPITOLO IV:\n\nCAPITOLO V:\n\nCAPITOLO VI:\n\nCAPITOLO VII:\n\nCAPITOLO VI:\n\nCAPITOLO IX:\n\nCAPITOLO X:\n\nCAPITOLO XI:\n\nCAPITOLO XI:\n\nCAPITOLO XII:\n\nCAPITOLO XIV:\n\nCAPITOLO XV:\n\nALLEGATO I:\n\nALLEGATO I:\n\nALLEGATO DO:\n\nALLEGATO IV:\n\nINDICE\n\nDISPOSIZIONI GENERALI\n\nOBIETTIVI DELLA COOPERAZIONE E\n\nRUOLO\n\nDELL'OCCAR\n\nORGANIZZAZIONE GENERALE\n\nCONSIGLIO DI SORVEGLIANZA\n\nAMMINISTRAZIONE ESECUTIVA\n\nPRINCIPI DI ACQUISIZIONE\n\nPROGRANINI\n\nPROPRIETÀ E CESSIONE DEI BENI\n\nGESTIONE FINANZIARIA\n\nCOOPERAZIONE CON STATI NON MEMBRI\n\nED\n\nORGANIZZAZIONI INTERNAZIONALI\n\nSTATUS GIURIDICO, PRIV ILEGI E IMMUNITÀ\n\nSICUREZZA\n\nRELAZIONI E VERIFICHE\n\nCOMPOSIZIONE DELLE CONTROVERSIE\n\nDISPOSIZIONI FINALI\n\nPRIVILEGI E IMMUNITÀ\n\nARBITRATO\n\nDISPOSIZIONI TRANSITORIE\n\nPROCESSO DECISIONALE",
+      "quality_score": 0.9641,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "direndentennel cal\n\niii!\n\nIl Govemo della Repubblica Italiana,\n\nI Governo della Repubblica Francese,\n\nII Governo della Repubblica Federale di Germania e,\n\nI Governo del Regno Unito di Gran Bretagna e Irlanda del Nord,\n\nAuspicare e cuneo dutta loro cooperazione in materia di armamenti al fine di \"onsiderando che il conseguimento di un miglior rapporto possibile tra costo (inteso com osto del ciclo vita) ed efficienza nei programmi di cooperazione attrali e futuri è un cessità assoluta e che, a tal fine, devono essere elaborate e sviluppate nuo todologie di gestione dei programmi; che le procedure per l'assespazione dei contra devono essere più efficaci, e che deve essere incoraggiata la creazione di capocommesse transnazionali pienamente integrate,\n\nDesiderando realizzare un coordinamento delle rispettive necessità a lungo termine, ogni investimenti perosa, fo desto su piai dosi come a a di e rotine di bilanciamento,\n\nRitenendo necessario, nei programmi di cooperazione, al fine di migliorare la competitività della base induciniala e tecnologici della difesa in Europa, beneficiare dei rispettivi poli industriali di eccellenza e promuovere i contatti tra le imprese, nell'intento di organizzare la concorrenza secondo le norme comuni adottate conformemente alle disposizioni della presente Convenzione,\n\nConvinti che un rafforzamenio della cooperazione tra i rispettivi Paesi in materia di sistemi militari contribuisca alla formazione di un'identità europea nel campo della difesa e della sicurezza e che cio' costituisca un passo concreto verso la costituzione di un'Agenzia\n\nEuropea per gli Armamenti,\n\nAuspicando l'adesione di altri stati europei che accettino ogni norma della presente\n\nConvenzione, hanno concordato quanto segue:",
+      "quality_score": 0.9749,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "！i\n\nCAPITOLO I:\n\nDISPOSIZIONI GENERALI\n\n• .\n\nArticolo 1\n\nCon la presente Convenzione è istituita un'organizzazione europea,\n\nl' \"Organizzazione\n\n'ongiunta per la Cooperazione in materia di Armamenti\" (Organisation Conjolate d 'opération en matière d'Armement (OCCAR\n\nArticolo 2\n\nI membri dell'OCCAR, da questo momento in poi chiamati \"Stati Membri\", sono gli Stati divenuti parti contraenti della presente Convenzione in virtù delle disposizioni del Capitolo\n\nArticolo 3\n\nLa sede generale dell'OCCAR è a Bonn, nella Repubblica Federale di Germania.\n\nArticolo 4\n\nLe lingue ufficiali dell'OCCAR sono Inglese, Francese, Tedesco e Italiano.\n\nCAPITOLO II: OBIETTIVI DELLA COOPERAZIONE E RUOLO DELL'OCCAR\n\nArticolo 5\n\nPer permettere un aumento della comperitività della tecnologia della difesa in Europa e della sua base industriale, gli Stati Membri rinunciano, nella loro cooperazione, al calcolo analitico e lamente generale basa su il propone su pi ai a space la sces di da relazioni annuali sull'andamento di ogni singolo programma. Nel periodo iniziale, si applicano le disposizioni transitorie previste nell'Allegato III.\n\nTale cooperazione permeterà di aumentare la formazione, tra gli Stati Membri, di una reale complementarietà industriale e tecnologica nei settori pertinenti, cosi da garantire assistenza alle rispettive Forze Armate in qualsiasi circostanza, sia a breve che a medio termine",
+      "quality_score": 0.973,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "L'OCCAR coordina, controlia e realizza i programmi relativi agli armamenti che vengono ad assa assegnati dagli Stati Membri e coordina e promuove attività congiunte da realizzare i ituro, migliorando in tal modo l'efficienza della gestione dei progetti in collaborazione, i\n\nArticolo 8\n\nL'OCCAR svolge i seguenti compiti e le altre funzioni che gli Stati Membri porrebbero assegnarle:\n\n(a) gestione dei programmi di cooperazione attuali e futuri, i quali possono includere i controllo di configurazione, il supporto logistico in servizio, e le attività di ricerca;\n\n(b) gestione di programmi nazionali degli Siati Membri che le siano stati assegnati;\n\n(c) elaborazione di specifiche tecniche comuni per lo sviluppo e l'acquisizione di sistem lefiniti congiuntamente\n\n(e) (vorainamento delle scelte nazionali relative alla base industriale ed alle recrologie commini;\n\n(1) coordinamento sia degli investimenti di capitale sia dell'uso\n\ndei centri di\n\nsperimentazione.\n\nCAPITOLO II:\n\nORGANIZZAZIONE GENERALE\n\nArticolo 9\n\nL'OCCAR è composta dal Consiglio di Sorveglianza (CdS), e dall'Amministrazione\n\nEsecutiva (AE).\n\nCAPITOLO IV: IL CONSIGLIO DI SORVEGLIANZA\n\nIl CdS è l'organo decisionale più elevato all'interno dell'OCCAR.",
+      "quality_score": 0.9625,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "EdS esercita la direzione ed il controllo dell'AE e di tutti i Comitati.\n\nCdS decide su tutte le questioni che riguardano l'attuazione della presente Convenzione e ) proposte per l'ammissione di nuovi Stati Membri;\n\n1) assegnazione all'OCCAR di un programma;\n\ncostituzione o scioglimento dei Comitati di cui all'Articolo 17;\n\n1) predisposizione di compiti e programmi futuri, nel caso in cui tale attività pon possa essere svolta dai Comitati;\n\n:)\n\nprocedure e norme per l'assegnazione di contratti, le clausole di rito e le condizioni contrattuali. Il CdS è responsabile delle decisioni riguardanti l'assegnazione di contratti e li approva rel cascar cui tali decisioni non siano state dclegate al Comitato competeste istituito a tale scopo;\n\ng) procedure di sicurezza;\n\nprincipi e norme riguardanti il funzionamento dell'OCCAR, che comprendono i regolamenti finanziari e quelli in materia di personale dell'AE;\n\n1)\n\ncontrollo dell'applicazione dei regolamenti OCCAR, che comprendono i regolamenti delle gare e il rispetto del principio di reciprocità di cui all'Articolo 24 (3); e ()\n\nnomina dei revisori di cui all'Articolo 36.\n\nArticolo13\n\nI Regolamenti adottati dal CaS sono in conformità con le disposizioni della presente\n\nConvenzione in quanto necessari per adempiere alle proprie responsabilità.\n\nArticolo 14\n\nIl CdS si riunisce due volte l'anno e qualora richiesto su istanza di uno o più Stati\n\nMenıbn.\n\n!! CdS elegge tra i suoi membri un Presidente, il cui mandato, valido per un anno, è rinnovabile soltanto una volta. Il CdS opera\n\nconformemente al proprio\n\nregolamento intero.",
+      "quality_score": 0.9711,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "2. Le funzioni di segretariato per il CdS sono svolte dall'AE.\n\n1. Ogni Stato Membro ha un rappresentante nel CdS con diritto di voto. I rappresentanti degli Stati Membri sono i Ministri della Difesa o i loro delegati, che hanno la facoltà di essere accompagnati dai propri collaboratori tra i quali sono compresi rappresentanti dei rispettivi Stati Maggiori. E' data inoltre facoltà al Direttore dell'AE ed al Vicedirettore dell'AE di partecipare alle riunioni del CdS, senza diritto di voto. II CdS può, se lo ritiene, invitare esperti provenienti dagli Stati Membri, dall'AE o da altre organizzazion ché si occupano di cooperazione multilaterale nel settore della difesa, alle quali partecipano gli Stati Membri.\n\n2.\n\nSe il CdS deve deliberare su di un programma a cui non partecipano tutti gli Stat\n\nMembri dell'OCCAR, le deliberazioni sono prese dai rappresentanti di quegli Stat\n\nMembri che prendono parte al suddetto programma.\n\nArticolo 16\n\nIl CaS nomina il Direttore e il Vicedirettore e le altre cariche direttive dell'AE. II CdS approva l'organico dell'AE. Il Direttore rimane in carica per un periodo di tre anni, rinnovabile soltanto una volta fino a un massimo di tre anni.\n\nArticolo 17\n\nII CdS può delegare le sue attribuzioni a Contati competenti, fatte salve quelle di cui all'Aricolo 12 (a), (b), (c) e (i). Tra i Comitati sono previsti, in particolare, un Comitato per i prograruni futun e Comitati di programma. Turtavia, le decisiori riguardanti la reatizzazione di ogni singolo programma sono prese solo dai rappresentanti di quegli\n\nStati Membri che partecipano al programma stesso.\n\n2. I Convitati di programma controllano, a nome degli Stati Membri partecipanti a un programma, l'andamento di uno o più programmi.\n\nArticolo 18\n\nFatto salvo il paragrafo 2 sotto riportato, tutte le decisioni di cui alla prese nvenzione sono prese dagli Stati Membri all'unanimità, comprese quelle relative materie per le quali non è stata, o non può essere concordata, lina procedura deasionale.\n\n2. Si applicano le disposizioni specifiche di cui all'Allegato IV.",
+      "quality_score": 0.9781,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "Iti!\n\nCAPITOLO V: L'AMMINISTRAZIONE ESECUTIVA\n\nL'AE è l'organismo esecutivo permanente, responsabile dell'attuazione delle decisioni del\n\nIdS. Tale organismo è presieduto da un Direttore nominato dal CdS.\n\nArticolo 20\n\n'AE è composta da:\n\n1) L'Ufficio Centrale, situato nella sede dell'OCCAR, che si compone di :\n\n• l'Ufficio del Direttore, che comprende il Direttore, il Vicedirettore e il necessario personale di supporto;\n\n- le divisioni responsabili di:\n\n• programmi,\n\n• acquisizioni, contratti e finanze,\n\n• amnunistrazione.\n\nLe divisioni di programma, a ognuna delle quali verrà assegnato uno o più programmi.\n\nLe divisioni di programma, nelle quali non deve esserci una duplicazione di funzioni nel personale, hanno i poteri necessari per la quotidiana gestione dei compiti loro assegnati con la massima autonomia possibile; la priorità assoluta è attribuita alle prestazioni ed alla gestione dei rischi, alla ottimizzazione e al contenimento dei costi, in conformità con 1 regolamenti adorati dal Cas.\n\nPer agevolare il funzionamento delle divisioni di programma che non abbiano sede nell'Ufficio Centrale, parte del personale dell'Ufficio Centrale stesso può essere distaccaio presso tali divisioni\n\nArticolo 21\n\n¡rettore dell'AE è direttamente responsabile di fronte al CdS del funzionamento dell'AE ue responsabilità sono specificate in dettaglio in un documento approvato dal CdS.\n\nArticolo 22\n\nAl personale dell'OCCAR sono concessi i privilegi e le immunità di cui all'Allegato I della presente Convenzione. Il CdS si fa garante che il numero di posti stabiliti sia linutato i queili le cui attribuzioni richiedano conseguenti privilegi e immunità. Del personale d 1= 12二",
+      "quality_score": 0.9803,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "cui sopra non fa parte il personale distaccato non a contratto con l'OCCAR che, ai fini dell'Allegato I, gode dello status di esperto.\n\n2. Il regolamento interno del\n\npersonale, , le remunerazioni e il regime pensionistico\n\ndell'OCCAR sono basati sulle norme degli Organismi Coordinati similari (ad esempio\n\nNATO, UEO).\n\n3.. I posti in organico all'AE devono essere ricoperti da personale che abbia le competenze necessarie per permettere all'organizzazione di adempiere alle sue funzioni nel modo più efficienie possibile, tenendo in debito conto la partecipazione degli Stati Membri ai programmi attuali o futuri.\n\n4. Nessun membro dell'AE può svolgere un incarico pubblico retribuito o altre attività incompatibili con il suo status di dipendente dell'OCCAR.\n\n5. Ogni membro del personale dell'AE deve confermare con una dichiarazione scritta il suo impegno ad adempiere in piena coscienza ai compiti derivanti dal suo incarico e di non volere ncercare ne accettare disposizioni, attinenti alle sue funzioni, da alcun govemo, né da altra autorita al di fuori dell'OCCAR, e di astenersi da qualsiasi atto che sia incompatibile con la sua condizione di dipendente dell'OCCAR. I Direttore e il\n\nVicedirettore dell'AE renderanno tale dichiarazione davanti al CdS.\n\n6. Ogni Stato Membro s'impegna a rispettare il carattere esclusivamente intemazionale delle funzioni del Direttore e del personale dell'AE.\n\nCAPITOLO VI: PRINCIPI DI ACQUISIZIONE\n\nArticolo 23\n\n1. Le norme e le procedure deragliate dell'OCCAR per l'acquisizione sono soggette al regolamento adorato dal CdS sulla base delle proposte presentate dal Direttore dell'AE o dagli Stati Membri. Esse si applicano a tutti i contratti stipulati dall'OCCAR.\n\n2.\n\nIn quanto alla conduzione di programmi gestiti dall'OCCAR, e in particolare in relazione alle artività attinenti agli armamenti (ricerca, sviluppo, industrializzazione, produzione, introduzione in servizio) e supporto logistico durante il servizio, le nonne contrattuali e le procedure devono essere conformi ai principi di acquisizione di cui agli Articoli da 24 a\n\nArticolo 24\n\n1. Fate salve le disposizioni del presente anicolo, contratti e sub contratti sono generalmente aggiudicati tramite gara.\n\nLa gara si svolgerà in conformità con gli obiettivi e i principi stabiliti nel Capitolo Il della presente Convenzione.",
+      "quality_score": 0.9812,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "3. Previo accordo unanime dei partecipanti a un programma, la gara può essere estesa ai che non fanno parte del Gruppo dell'Europa Occidentale per l'Armamento (WEAG), sempre che questi Paesi rispettino il principio di reciprocità.\n\n4. Per rispettare i requisiti in materia di difesa e di sicurezza, o per migliorare la competitività della base tecaologica e industriale nel settore della\n\ndifesa, la gara e\n\nl'aggiudicazione dei contratti, ed in particolare i contratti per le attività di ricerca attinente agli armamenti ed alla tecologia, possono essere limitati ad imprese, istituti, agenzie o istituzioni inerenti, soggette alla giunsdizione di uno Stato Membro che partecipa al programma in questione.\n\n• L'OCCAR si adopererà per adottare le procedure più idonee in materia di acquisizione e opererà con gli Stati Membri al fine di effettuare una valutazione comparativa delle procedure in materia di acquisizione secondo gli standard più elevati\n\n6. Il CdS controlla l'applicazione dei regolamenti in materia di gare, e decide se il principio di reciprocità viene opportunamente rispettato dagli stati che non sono membri della\n\nWEAG\n\nArticolo 25\n\nQuando i contratti sono aggiudicati tramite gara, la loro assegnazione in generale, avvien ¡ulla base della convenienza delle offerte ricevute piuttosto che del contriburo finanziario de partecipanti al programma stesso. Tuttavia, nella fase iniziale, si applicano le disposizioni\n\nArticolo 26\n\nQualsiasi corniessa che possa essere aggiudicaca sulla base di una gara viene resa pubblica, attraverso i canali specifici.\n\nArticolo 27\n\nI criteri per la qualificazione e la selezione dei partecipanti alla gara e per la valurazione delle offerte sono definiti in termini precisi prima dell'inizio e della pubblicazione della procedura che regola la presentazione delle offerte.\n\nArticolo 28\n\nLaddove possibile viene data preferenza a prezzi definiti o fissi.\n\nArticolo 29\n\nQualora necessario, l'OCCAR può richiedere alle competenti autorità degli Stati Meribri di\n\ncontratti da essa\n\nassegnati nell'esercizio delle sue funzioni, in particolare, il possibile per armonizzare i metodi di definizione dei prezzi",
+      "quality_score": 0.9838,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "Le imprese che non siano state invitate a partecipare alle gare, e le imprese la cui offerta nos sia stata presa in considerazione possono, su loro richiesta,\n\nottenere le motivazioni della\n\nesclusione dalla gara o della mancata accettazione della loro offerta.\n\nCAPITOLO VII: PROGRAMMI\n\nArticolo 31\n\nLaddove ritenuto opportuno nell'OCCAR vengono integrati programmi di collaborazione in atto tra gli Stati Membri. I dettagli di tale integrazione, incluse le disposizioni transitorie, sono soggetti ad accordo tra gli Stati Membri interessati e OCCAR, e l'atto d'integrazione è soggetto all'approvazione del CdS.\n\nCAPITOLO VIII: PROPRIETÀ E CESSIONE DEI BENI\n\nArticolo 32\n\n1. Tirei i boni acquisia daMOCCAR ilizzando fondi disponibili sui propri capitoli di bilancio o previa approvazione speciale del CaS, da uno Stato Membro a nome dell'OCCAR o utilizzando finanziamenti comuni, sono di proprietà dell'OCCAR\n\n2. La riparuzione ó ogni profitto ricavato dalla utilizzazione o dalla vendita di beni acquisiti dall'OCCAR tramite fondi tratti dal bilancio amministrativo dell'Organizzazione, viene decisa dal CdS. Nel caso di scioglimento dell'OCCAR, la differenza tra gli utili derivati dalla cessione di tali beni e le spese in cui è incorsa l'OCCAR, sarà ripartita o sostenuta dagli Stati Nembri, secondo una formula che verrà previamente stabilita dal CdS.\n\nArticolo 33\n\n1. Nel caso in cui beni vengano acquisiti per conto di uno o più Stati Membri facendo ricorso al bilancio operativo, i predetti Stati Membri concorderanno opportune intese finanziarie;\n\ntali intese specificheranno le modalità di finanziamento, di gestione, vendita e cessione di tali beni.\n\n2. Beni acquisiti (beni materiali) o realizzati (modelli, proiotipi, atrezzature, equipaggiameni per collaudi) a carico del bilancio operativo dell'OCCAR rimangono proprietà degli Stati che li hanno co-finanziati, ma vengono destinati ad un utilizzo comune.\n\nbtl .: 1",
+      "quality_score": 0.9799,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "Iti!\n\nCAPITOLO IX: GESTIONE FINANZIARIA\n\nIl CdS adotta norme finanziarie dettagliate oggetto di regolamenti specifici, conformi alle seguenti disposizioni:\n\n(a) I costi delle attività dell'OCCAR, riguardanzi sia le sue funzioni amministrative sia quelle operative, sono sostenuti dagli Stati Membri.\n\n(b) Tutti gli stanziamenti OCCAR, ossia:\n\nquelli derivanti dai contributi ordinari degli Stati Membri;\n\n- quelli generati dalle attività autorizzate dell'OCCAR; e\n\n- altri stanziamenti disponibili per l'OCCAR, o quelli amministrati da essa per conto degli Stati Membri sono registrati, per voce, nel bilancio amministrativo o operativo dell'OCCAR.\n\n(c) Le autorità competenti dell'OCCAR operano nei limiti del mandato stabilito annualmente dal CdS.\n\n(d)Modalità, frequenza e stanziamente dai contributi degli Stati Membri sono definiti secondo normi e accordi relativi.\n\nArticolo 35 •\n\n1. Gli stanziamenti necessari per programmi e i piani operativi dell'OCCAR saranno oggetto di un bilancio annuale, preparato in Euro e che comprende:\n\n• una sezione amministrativa, comprensiva di tutte le spese riguardanti il funzionamento interno dell'OCCAR;\n\nuna sezione operativa, comprensiva dei piani finanziari in materia di programmi e di - iniziative condotte dall'OCCAR per il perseguimento dei suoi obiettivi.\n\n2. Il bilancio deve specificare, per ogni sezione, le previsioni di spesa e le fonti di finanziamento.\n\n3. Il bilancio preventivo annuale viene preparato dall'AE e presentato al CdS per.\n\napprovazione in conformità con le norme e i regolamenti finanziari dell'OCCAR.",
+      "quality_score": 0.9846,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "1l\n\nI rendiconti annuali sono presentati ai vaglio delle autorità preposte alla revisione contabile, nominate dal CdS. La relazione\n\nrevisione, accompagnata\n\nda rendiconti finanziari\n\nparticolareggiati, in cui e utilizzata la nomenclatura definita nei regolamenti contabili e finanziari, è presentata dal Direttore, per approvazione dal CdS, al più tardi sei mesi dopo la\n\n• chiusura dell'esercizio finanziario.\n\nCAPITOLO X:\n\nCOOPERAZIONE CON STATI NON MEMBRI ED\n\nORGANIZZAZIONI INTERNAZIONALI\n\nArticolo 37\n\nL'OCCAR può cooperare con altre organizzazioni e istituzioni intemazionali, e con goversi organizzazioni e istituzioni di Stati non Membri, con i quali può concludere accordi.\n\nArticolo 38\n\nCAPITOLO XI: STATUS GIURIDICO, PRIVILEGI E DINTUNITÀ\n\nArticolo 39\n\nL'OCCAR ha piena personalità giundica e, in particolare, autorità di:\n\n(a)\n\nsupulare contratti;\n\n(b)\n\nacquisire e cedere beni mobili e immobili; e (c)\n\narziare procedimenti legali.\n\n: Articolo 40\n\n1. L'OCCAR, il proprio personale e i propri esperti, così come i rappresentanti degli Stati\n\nNenibri, godono dei privilegi e delle immunità di cui all'Allegato I.\n\n2.\n\nGli accordi riguardanti la Sede dell'OCCAR, le divisioni di programma e le sue strutture, supulati in conformita con le disposizioni della presente Convenzione, sono conclusi tra",
+      "quality_score": 0.9531,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "amarcha!\n\nl'OCCAR e gli Stati Membri sul cui territorio sono situati la Sede, le divisioni di programma e le sue strutture.\n\nArticolo 41\n\ni. I poteri definiti negli Articoli 39 e 40 sono esercitati dal CdS, il quale può delegarli al\n\nDirettore. Nel caso in cui il CdS non abbia delegato specifica autorità al Direttore, ciò non impedisce al CaS di autorizzare il Direttore, o un membro del personale debitamente designato dal CdS, a firmare un contratto, o ad approvare o firmare un accordo\n\n2. I contratti per i programmi sono negoziati e stipulati dall'OCCAR secondo deragliate procedure e regolamenti contrattuali di cui agli Articoli 23 e 24 della presente\n\nConvenzione. La normativa applicabile al contratto è determinata dalle parti\n\nCAPITOLO XII: SICUREZZA\n\nArticolo 42\n\nIl CdS adotterà i regolamenti in materia di sicurezza dell' OCCAR. Tali iegolamenti eviteranno restrizioni non necessarie al movimento del personale, di iriformazioni e ci materiali, ed in particolare per quanto riguarda la divulzazione di informazioni a terzi e quanto di comperenza delle autorità preposte alla sicurezza relativaniente alle procedure nguardanti le visice.\n\nCAPITOLO XIII: RELAZIONI E VERIFICHE\n\nArticolo 43\n\nOgri anno, il Direttore presenta\n\nal CdS una relazione sulle attività realizzate nell'anno\n\ntrascorso e una previsione per le attività da svoigersi nell'anno successivo.\n\nArticolo 44\n\ner permettere ai revisoni nazionali di assolvere ai propri compiti di verifica per conto dell ispettive amministrazioni nazionali e di relazionare i rispettivi parlamenti in conformità con l proprie norme,\n\nessi possono\n\nottenere tutte le informazioni ed esaminare tutta la\n\ndocumentazione in possesso dell'AE, che riguarda i programmi a cui i loro Stati Membri partecipano, e attinente al funzionamento dell'Ufficio Centrale.\n\nI revisori nazionali, salvo circostanze eccezionali, si consultano tra loro e con il Direttore dell'OCCAR prima di esercitare il loro diritto di accesso all'AE, al fine di evitare inutili",
+      "quality_score": 0.973,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "1i !iiLiIL\n\nsorbante dologamende\n\ninterruzioni delle attività dell'OCCAR e di tutelare le informazioni riguardanti gli altri Stati\n\nMembri.\n\nArticolo 46\n\nGli Stati Membri coordinano le rispettive azioni voite a tutelare gli interessi finanziari dell'OCCAR contro la frode. A tale scopo, con l'aiuto dell'AE, essi organizzano una collaborazione regolare tra gli orgánismi competenti delle loro amministrazioni.\n\nArticolo 47\n\nCAPITOLO XIV: COMPOSIZIONE DELLE CONTROVERSIE\n\nArticolo 48\n\n1. Qualsiasi controversia tra Stat membri in materia d'interpretazione o di applicazione della presente Convenzione, se possibile, sarà risolta mediante consultazione ? Se una controversia non può essere risolta mediante consuliazione, su richiesta di una delle parti interessate alla controversia, essa viene sonoposta aù arbitrato, conformemente alle condizioni contemplate nell' Allegato I.\n\nArticolo 49\n\n1. Qualsiasi controversia insorga relativamente ai contratti stipulati dall'OCCAR per realizzare programmi che le sono stati assegnati, puó essere presentata, previo accordo, a un Comitato di conciliazione all'intemo del CdS, che deve stabilire le procedure appropnate\n\n2. Qualsiasi contratto concluso dall'OCCAR per la realizzazione di programmi che le sono stati assegnati, che non sia un contratto di lavoro, conterrà una procedura di conciliazione e includerá una clausola arbitrale.\n\n3. Qualsiasi controversia tra l'OCCAR e un proprio dipendente relativamente al contratto di impiego o alle condizioni di lavoro sarà risolta secondo la normativa legale riguardante il personale.\n\nArticolo 50\n\nQualora terzi richiedano riparazioni per danni causati dall'OCCAR, dai suoi dipendenti o dai propn esperti, e l'OCCAR non rinunci all'immunità, il CaS adotta le misure più idonee per valutare il danno e, se esso si dimostra fondato, per ripararlo.",
+      "quality_score": 0.983,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 18,
+      "text": "5\n\nNembri e al Direttore. Il ritiro ha effetto sei mesi dopo la data di ricevimento della notifica da parte del depositario.\n\n2. Lo Staio Membro uscente deve adempiere a tuti i suoi impegni fino alla data effertiva del ritiro. Tali impegni sono valutati dagli Stati Nembri.\n\n3. I diritti e le responsabilità dello Stato Membro uscente in materia di sicurezza, di liquidazione dei danni, di composizione delle controversie o di altri impegni rimasti in sospeso restano in vigore anche dopo il suo ritiro.\n\nArticolo 57\n\nQualsiasi Stato Membro che non osservi i suoi oblighi ai sensi della presente Convenzione cessa di essere membro dell'OCCAR su decisione unanime del CdS. Lo Stato Membro in questione non potrà partecipare alla votazione.\n\nÁrticolo 58\n\nLa presenie Convenzione sara depositata negli archivi del Governo della Repubblica Francese.\n\nche provedera a rimettere copia certificata a ciascuno dei Governi degli Stati firmatan o\n\nIn fede. i Rappresentanti sonoscriti, debitamente aurorizzati, hanno firmato la presente\n\nCorrenziona\n\natto il 9 Settembre 1998 a Famboroueh in originale unico, in versione italiana, francese nglese e ledesca, i testi in ciascuna di queste lingue facenti ugualmente fede",
+      "quality_score": 0.9814,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 19,
+      "text": "й\n\nÇAPITOLO XV: DISPOSIZIONI FINALI\n\nAllegati. Lo Stato Membro che desideri proporre un emendamento, lo deve notificare al\n\nDirettore dell'AE. Il Direttore informa gli Stati Membri di tutte le eventuali proposte di emendamento cosi notificate, almeno tre mesi prima della loro discussione nel CaS.\n\n. Qualsiasi emendamento proposto dal CdS entra in vigore trenta giorni dopo che lepositario ha ricevuto notifica di accettazione da parte di tutti gli Stati Membri. i depositario notifica a tutti gli Stati Membri la data di entrata in vigore di tutti gli emendamenti in questione.\n\nArticolo 52\n\nLa presente Convenzione, inclusi gli Allegati che ne sono parte integrante, è soggera a ratifica o approvazione da parte dei quattro Paesi fondatori ed entrerà in vigore trenta giorni dopo che il quarto strumento di ratifica o approvazione sia stato depositato.\n\nArticolo 53\n\nUna volta entrata in vigore la presente Convenzione, uno Stato europeo che desideri diventare\n\nStato iMembro, può essere invitaio dal CaS ad aderire ad essa. Per il nuovo Stato Membro, la\n\nConvenzione entrerà in vigore 30 giómi dopo il deposito del suo strumento di adesione.\n\nArticolo 54\n\nLa presente Convenzione è depositata presso il Governo della Repubblica Francese.\n\nArticolo 55\n\n1. Nel caso in cui gli Stati Membri decidano di sciogliere l'OCCAR, devono discutere con congue e delo scomerdare e ganizia pre, parie in eme der guaio center de terzi è partner contrattuali dell'OCCAR. L'accordo deve anche regolare, ove necessario, le condizioni alle quali i diriti e le attribuzioni dell'OCCAR vengono trasferiti agli Stati\n\nMembri à seguito dello scioglimento dell'organizzazione.\n\n2, Lo scioglimento dell'OCCAR è effetivo una volta entrati in vigore gli accordi presi tra\n\nStati Membri, di cui al paragrafo (1) del presente articolo.\n\nArticolo 56\n\n1. Se uno degli Stati Membri desidera ritirarsi dalla Convenzione, le conseguenze di tale atto saranno esaminate in consultazione con gli altri Stati Membri. Qualora, al termine di tali onsultazioni, lo Stato Membro in questione persista nel volersi ritirare, dovrà notificare lo nitiro per iscritto al depositario che provvederà ad inoltrare tale notifica poli altri Stat",
+      "quality_score": 0.9926,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 20,
+      "text": "弘\n\n١:١ ١٠ ١١٠:\n\nALLEGATO!\n\nPRIVILEGI E MUNITÀ\n\nArticolo 1\n\nFatti salvi gli anticoli 3 e 4 del presente Allegato, gli edifici e i locali dell'OCCAR sono inviolabili.\n\nArticolo 2\n\nGli archivi deil'OCC.AR sono inviolabili.\n\n1.\n\nArticolo 3\n\nL'OCCAR gode dell'immunita di giurisdizione e di esecuzione, salvo:\n\na) nel caso in cui, per decisione del CdS, abbia esprossamente nunciato a ta umunita in casi particolari: il CdS ha il dovere di rinunciare a tale immunità atta casi in cui il ricorso ad essa possa ostacolare il corso della giustizia e in c\n\n2.\n\nio) nel caso di unazione civile intentata da un terzo per danni originati da un incidente causato da un veicolo a motore appaneneme all'OCC.AR, o utilizzato a\n\nVer d ei cas di nfozoni ai codice del serada in cui e inpiesto tole\n\n12) nel caso dell'applicazione di un lodo arbitrale emesso ai sensi di qualunque contratto stipulato dall'OCCAR:\n\n10) nel caso di sequestro consenativo, previa decisione delle autontà giudiziarie. di stipendi ed emolumenti dovuti dall'OCCAR a un membro del personale.\n\nLe proprietà e i beni dell'OCCAR, orunque essi siano situati, sono esenti da qualsiasi forma di requisizione, confisca, espropriazione o sequestro. inoltre non possono essere oggeno di\n\nprovvediniento\n\ndi coercizione. gindiziaria\n\nammurustrativa, salvo per il periodo necessario per prevenire o indagare incidenti in cui sono implicati veicoli a motore appartenenti all'OCCAR, o itilizzati a suo nome.\n\nNell'arbuo delle sue atavia ufficiali, OCCAR, le sue proprietà e le sue entrare sono esenti da qualsiasi imposta direnta",
+      "quality_score": 0.9708,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 21,
+      "text": "tati Membri adorano, ogni qualvolta sia loro possibile, le opportune disposizioni per uono o il rimborso dell'importo dei\n\ndiritti indiretti e delle tasse sulla\n\n›resi nei prezzi di beni o servizi, quando l'OCCAR, effettui acquisti considerevoli di o di servizi da essa utilizzati, strettamente necessari per l'esercizio delle attività iali dell'Organizzazione.\n\nArticolo 5\n\nпропа o esportati dall'OCCAR o per suo conto, e che sono strettamente necessari\n\nIgimento deile sue antività ufficiali, saranno esenti da ogni dazio doganale, diviero o ine all'importazione o all'esportazione.\n\nArticolo 6\n\nini degli Auricoli 4 e 5 del presente Ulegato, le anivicá ufficiali dell'OCCAR includono itività anuninistrative dell'organizzazione, inclusi gli atti relativi al Regime d idenza Sociale disposizioni degli Aricoli d e s non si applicano ai diritti e alle tasse che non sono altro contribuli per i senzi di pubblica utilita.\n\nArticolo 7\n\nconcessa alcuna esenzione al censi degi Arricui d e à per beni acquisiti o importan. o enazi ionats. a usa prisato des membri del personale dell'OCCAR.\n\nArticolo S\n\ndeni acquisiti ai sensi dell'Articolo 4 o imporaii ai sensi dell'Aricolo 5 non possono sere ceduri a titolo oneroso o gratuito salvo che ciò non astenga a condizioni stabilite igli Stati Nembri che hanno concesso tali esenzioni.\n\ntrasferimento di beni e servizi tra la Sede e altri edifici dell'OCCAR, o tra le sue varie visioni o, ai fini della realizzazione di un programuna dell'OCCAR, tra esse d'istituzione nazionale di uno Stato Membro, sono esenti da oneri o restrizioni di ¡ualsiasi genere: se necessario, gli Stati Membri adottano tutte le misure necessarie per garantire l'abbuono di tali oneri o il loro rimborse, o per eliminare tali restrizioni.\n\nArticolo 9\n\ndiffusione di pubblicazioni e altro materiale informatiso inviato dall'OCCAR, o da essa :tuto, non può esseré limitata in alcun modo.\n\nArticolo 10\n\nXCC.AR puó ricevere e detenere qualsiasi tipo di stanziamenti, valute, liquidi o titoli: può porre di essi liberamente per qualsiasi fine stabilito nella presente Convenzione e detenere nu in qualsiasi valuta fino al limite necessario per adempiere ai suoi obblighi.",
+      "quality_score": 0.9558,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 22,
+      "text": "1：：51122\n\n1. L'OCCAR beneficia, per le sue comunicazioni ufficiali e la trasmissione di tutti i suoi documenti, di un trattamento non meno favorevole di quello concesso da ognuno degli Stati\n\nMenibri ad altre organizzazioni intemazionali.\n\n2: Le comunicazioni ufficiali dell'OCCAR non possono essere censurate da qualsivoglia mezzo di comunicazione.\n\nArticolo 12\n\nGli Stati Membri adorano tutte le misure appropriate per facilitare l'entrata, il soggiorno e la parenza del personale dell OCC.AR dai nspettivi ternion.\n\nArticolo 13\n\n1. 1 Rappresentanti degli Stati Membri beneficiano, durante l'esercizio delle loro funzioni e nel corso dei loro spostamenti da e verso il luogo di riunione, dei seguenti privilegi e immurto (alesenzione da ogni proredimento di arresto e detenzione, e dal sequestro del bagaglio personale.\n\n(bummonità di giurisdizione, anche dopo la conclusione della loro missione, per gi atti, comprese le loro parole e i loro scrimi. da loro compiuti nell'esercizio delle\n\n(c) inviolabilità di turti i documenti e le carte ufficiali:\n\nididiritto di ualizzare codici e di ricevere documentazione o cornispondenza tramite cornen speciali o in sacchi sigillati:\n\n(e) esenzione per se stessi, i coniugi e i figli a carico da tutte le disposizioni che linútano l'immigrazione e dalle formalità di registrazione degli stranieri;\n\n(f) le stesse agevolazioni in materia valutaria e di cambio che sono concesse ai rappresentanti dei governi stranieri temporaneamente in missione ufficiale;\n\n(3)le stesse agevolazioni doganali in materia di bagaglio personale che sono concesse al corpo diplomatico.\n\n: 1 privilegi e le immunità sono concessi ai rappresentanti degli Stati Membri, non per vantaggio personale, ma per garantire la loro totale indipendenza nell'esarcizio delle loro funzioni in arabito OCC.AR. Ne deriva che uno Staro lenbro ha il dovere di ritirare l'immunita a un rappresentante ogni qualvolta ritenga che tale immunità possa ostacolare il corso della giustizia. e senza che tale fitiro possa porre a repentaglio gli scopi per i quali",
+      "quality_score": 0.9711,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 23,
+      "text": "Ireatede lege\n\nOltre ai privilegi e alle immunità di cui all'Aricolo 15, il Direttore dell'OCCAR e, quando il posto è vacante, la persona nominata ad agire in sua vece, gode dei privilegi e delle immunit a cui ha diritto il personale diplomatico di pari rango\n\nArticolo 15\n\n1 membri dei personale dell'OCCAR:\n\n(a) mantengono, anche dopo aver lasciato il servizio dell'OCCAR, l'immunità di giurisdizione per gli atti, comprese le loro parole e i loro scritti, da loro compiuri nell'esercizio delle loro funzioni; tale immunità, tuttavia, non si applica nel caso di infrazioni\n\ncodice della strada\n\nla un membro del persona\n\nell'OCCAR, né nel caso di danni causati da un veicolo a motore di sua proprie o da lui guidato;\n\n(b)sono esonerati da ogni obbligo in materia di servizio militare:\n\n(c) godono dell inviolabilità per tutti i docunienti e le carte ufficiali:\n\npersonale di organizzazioni internazionali:\n\n(el godono degli stessi privilegi per quanto niguarda la disciplina in materia di cambio.\n\nche sono concessi al membri del personale di orgunizzazioni intemazionali.\n\n(ê) godono. i: penodi di crisi intemazionale. insieme ai familiari facenti parte de proprio nucleo familiare, delle stesse agevolazioni del corpo diplomatico in mareria di nmpatro:\n\n(algodono de dinto dimportare in franchigia la propria imobilia e i propri efferti\n\nNenibro sul cui territorio viene esercitato tale diritto.\n\nArticolo 16\n\nGli esperti non facenti parte del personale di cui all'Articolo 15, nell'esercizio delle loro funzioni in ambito OCCAR, o nello svolgimento di missioni a nome dellOCCA, godono dei seguenti privilegi e immunità, nella misura in cui siano necessari per l'esercizio delle loro funzioni, compresi gli spostamenti effentuati nell'esercizio delle loro funzioni e nei corso di tali\n\nt.",
+      "quality_score": 0.9561,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 24,
+      "text": "v3\n\nfreudoleneeeee\n\n(a) inumunità di giurisdizione, per gli atti, comprese le loro parole e i loro scritti, da loro compiuti nell'esercizio delle loro funzioni; tale immunità, turavia, non si applica nel caso di infrazioni al codice della strada commesse da un esperto, o nel caso di danni causati da un veicolo a motore di sua proprietà o da lui guidaro; gli esperti continueranno a godere di tale immunità dopo la cessazione del loro sapporto di lavoro con l'OCCAR;\n\n(blinviolabilita per tutti i documenti e le carte ufficiali;\n\nic)le stesse agevolazioni, in materia di disciplina valutaria e sul cambio e in materia di bagaglio personale, che sono concesse ai funzionari dei govemi stranieri temporaneamente in missione ufficiale.\n\nArticolo 17\n\n1. Fatte salve le condizioni e in conformità con le procedure stabilite dal CdS, il Direttore e i membri del personale dell'OCCAR sono soggetti a un'imposta, a beneficio dell'OCCAR su stipendi ed emolumenti da essa versati. Tali stipendi ed emolumenti del Direttore e de memori del personale dell'OCC.AR sono esenti da imposte nazionali sul reddito: nia 2\n\nStati Nenibri mantensono il diritto di considerare tali stipendi ed emolumenti al fine o valutare i imposta da applicare al reddito proveniente da altre fonti.\n\n? Le disposizioni del paragrafo 1 non si applicano alle rendite e alle pensioni versare dall'OCCAR ai suoi Direttoni e ai membri del personale alla cessazione delle loro funzioni.\n\nArticolo 18\n\nGli Amicoli là e 17 del presente Allegato si applicano a tutte le categorie del personale a cui si applica lo Staturo del Personale dell'OCCAR. Faro salvo l'Ar. 22 (I) della Convenzione.\n\nil CdS determina le categorie di esperti a cui si applica l'Articolo 16. I nomi, le qualifiche e gli indinizzi der membn del personale e degli esperi di cui al presente Articolo, sono comunicati periodicamente agli Stati Nembri.\n\nArticolo 19\n\nNel caso in cui costituisca un suo proprio regime pensionistico, l'OCCAR. il Direttore e i membri del personale dell'OCCAR sono esenti dai contributi obbligatori agli enti nazionali di previdenza sociale, fatti salvi gli accordi conclusi con gli Stati Membri ai sensi dell'Aricolo\n\nArticolo 20\n\n1. I privilegi e le immunità stabiliti nel presente Allegato non sono concessi al Direttore, ai membri del personale e agli esperti dell'OCCAR per loro vantaggio personale. Essi sono concessi solo per garantire. in ogni circostanza, un funzionamento senza impedimenti dell'OCCAR e una totale indipendenza di tutti coloro a cui tali privilezi e inunità sono concessi.\n\n2. Il Direttore ha il dovere di ritirare qualsiasi immunità specifica in tutti i casi e ogni qualvolta ritenga ch'essa possa impedire il corso della giustizia e possa essere nurata",
+      "quality_score": 0.9757,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 25,
+      "text": "natilenin!\n\nsenza pregiudicare gli interessi dell'OCCAR. Il CdS è l'organo competente per decidere il ritiro di tale immunità nel caso del Direttore dell'OCCAR-AE.\n\nArticolo 21\n\n• 1. L'OCCAR coopera sempre con le autorità competenti degli Stati Membri per agevolare una corretta aniministrazione della giustizia, per garantire l'osservanza dei regolamenti di polizia e della disciplina in materia di manipolazione di materiale esplosivo e infiammabile, di sanità pubblica, di ispezione del lavoro, e di altre legislazioni nazionali simili, e di prevenire quaisiasi abuso dei privilegi, delle immunità e delle agevolazioni di cui ai presente Allegato.\n\n2. La procedura in materia di cooperazione di cui al paragrafo 1 può essere stabilità negli accordi complementari, di cui al successivo Articolo 24.\n\nArticolo 22\n\nOgni Stato Menibro conserva il diritto di adorare ogni misura precauzionale negli interessi della propria sicurezza.\n\n{\n\nArticolo 23\n\nNessuno Siaio Membro è obbligato a concedere i privilegi e le immunita di cui agli turicoli\n\n13. 1t. 15 (b). (e). 12). e ló (c). ai propri cinadini o a coluro che, nel momento in cui as: uminio lo proprie tancioni nello Stato Membro in questione sono residenti permanenti di tale Stato Menbro\n\nArticolo 24\n\nL'OCCAR può, previa decisione del CdS. concludere con uno o più Stati I lembri accordi complementari per attuare le disposizioni del presente Wiezato nei confronti di tale o tali Stati\n\nMembri. e altri accordi per garancire il buon funzionamento dell'OCCAR e la tutela dei suoi,\n\nArácolo 25\n\nL'OCCAR avrà una copertura assicurativa in materia di responsabilità civile per i veicoli di sua proprietá o da essa utilizzati, in conformità con l'ordinamento dello Stato Membro in cui il veicolo è utilizzato. L'OCCAR deve richiedere conie condizione per l'assunzione, che il personale abbia una copertura assicurativa in materia di responsabilita civile per i veicoli di\n\nJoro proprietà o da foro utilizzati, in confomità con l'ordinamento dello Stato Membro in cui • il veicolo é utilizzato",
+      "quality_score": 0.9542,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 26,
+      "text": "ALLEGATO !I\n\nARBITRATO\n\nArticolo I\n\nLa richiesta di arbitrato è presentata al depositario, dichiarando la natura della controversia. Il depositario comunica tali informazioni a tutti gli Stati Membri.\n\nArticolo 2\n\nIl collegio arbitrale è composto da tre membri:\n\n(a) un arbitro nominato da ognuna delle due Parti in giudizio:\n\n(b)\n\nun terzo arbitro, nominato previo accordo reciproco dai primi due, che agisce cone presidente del Collegio;\n\n(c)\n\nse il presidente del Collegio non è nonnato entro trenta giomi dalla data di designazione del secondo arbitro. una Parte in giudizio puó chiedere al Presidente de la Corie Intemazionale di Giustizia di scegliere al più presto il presicente. Egli non puó scegliere un presidente che abbia avuto o abbia antuaimente la stessa razionalita di una delle due Pari in giudizio. a meno che la Controparte non vi consenta\n\nSe. entro sessanta giorni dalla data di ricezione da parte del depositario della richiesta di arbitrato, una delle Parti in giudizio non ha nominaro un arbitro. la Controparte può richiedere al Presidente della Corte Intemazionale di Giustizia di scegliere quell'arbitro al più presto.\n\n3. In caso di decesso, incapacità o abbandono di un arbitro, la Parte in giudizio che lo aveva nominato designera il suo sostituto entro trenta giomi dalla data del decesso.\n\ndell'incapacitá o dell'abbandono. In caso di decesso, incapacità o abbandono del presidente, il suo sostituto è designato secondo le condizioni di cui al paragrafo 1 (c)\n\nentro novanta giomi dalla data del decesso, dell'incapacità o dell'abbandono\n\nArticolo 3\n\nIl Collegio puó indagare e decidere in merito alle repliche direntamente collegate all'oggetto della controversia\n\nIl Coliezio puó, su richiesta di una delle Pari in giudizio, raccomandare misure precauzionali.",
+      "quality_score": 0.9889,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 27,
+      "text": "lfi!\n\n..doen il marmonrilia Atte a annrovandalo in noni e singola stia narte lo dabramo\n\nOgni Pare in giudizio è responsabile dei costi procurati dalla definizione del suo caso. Il costo delle retribuzioni dei membri del Collegio arbitrale saranno ripartite in misura uguale tra le\n\nPari in giudizio. Il Collegio registrerà tutte le spese e presenterà un conto finale alle Parti.\n\nArticolo 6\n\nOgni Parte i cui interessi possono essere influenzati dalla decisione, puo, previa potifica scrita alle Parti in giudizio, intervenire nella procedura di arbitrato, previo accordo del\n\nCollegio e a proprie spese. In tal caso, la Parte in questione può intervenire per presentare prove o documentazione, o fare dichiarazione verbale sulle motivazioni che hanno suscitato tale intervento, conformemente alle procedure stabilite ai sensi dell'Articolo 7 del presente\n\nAllegato, ma non ha diritto in materia di composizione del Collegio.\n\nArticolo 7\n\nU Collegio stabilisce il proprio regolamento interno.\n\nArticolo 8\n\n1.\n\nLe delibere del Coilegio, sia in materia di regolamento interno sia in materia di sede dei dibartimenti, e il suo lodo arbitrale sono decisi a maggioranza dei suoi membri.\n\n: Le Pan in gudizio devono faciiitare l'opera del Collego: a tale scopo, le Parti:\n\n(a)\n\nfomiscono al Collegio tuti i documenti e le infonmazioni pertinenti: e (b)\n\nautorizzano il Collegjo a recarsi sul loro territorio, a interrogare testimoni o esperti e a recarsi in luoghi per indagare tale controversia in situ 3.\n\nIl fatto che una Parte in giudizio non osseni le disposizioni del paragrafo 3 o non difenda il sun caso, non osta all'emissione di un giudizio o di un lodu arbitraie da parte del Collegio.\n\nArticolo 9\n\nI Collezio emette il suo giudizio entro sei mesi dalla data della sua composizione, a meno che non consider necessario prorogare tale termine per un nuovo periodo che non sia superiore a cinque mesi. Il lodo arbitrale del Collegio deve essere motivato. Esso é definitivo e senza appello e viene comunicato al depositario che ne informa le Parti. Le Parti in giudizio devono.\n\nconformarsi ad esso senza indugio.",
+      "quality_score": 0.9784,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 28,
+      "text": "Ani suantes variato il entraccritto Atto ed anprovandolo in ogni e singola sua parte, lo :00:2mno\n\nALLEGATO MI\n\nDISPOSIZIONI TRANSITORIE\n\n1. Gli appalti sono, in linea di principio, assegnati più in base alla competitività che per i contributi finanziari versati da ogni Stato Membro.\n\nTuttavia, in conformità con l'Articolo 5 della presente Convenzione, se, durante il triennio •che segue l'entrata in vigore della presente Convenzione:\n\n• l'industria di uno Stato Membro ba ricevuto un volume di commesse inferiore al anticipatamente in componenti),\n\n- viene individuato uno squilibrio globale superiore al 4% in relazione all'insieme der programmi, il CdS interverrà in modo appropriato per ricostituire uri equilibrio.\n\n= L'efficacia di tale procedura, e, segnatamente. delle percentuali sopra citate, è riesaminata, per la prima solta, lin arino dopo l'entrata in vigore, e successivamente a intervalli regolaii.\n\n3. Dopo il periodo di tre anni. è necessario verificare se tale procedura può essere revocata . 4. il CdS adora nonne demagliare per attuare le disposizioni di cui sopra.",
+      "quality_score": 0.9876,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 29,
+      "text": "Nni avendo veduto il sovrascritto Atto ed approvandolo in ogni e singola sua parte, lo ebbano\n\nALLEGATO IV\n\nPROCESSO DECISIONALE\n\nLe seguenti decisioni prese da tutti gli Stati Membri saranno adottate (a) a maggioranza qualificata rinforzata\n\n- ammissione di nuovi Stati Membri;\n\n• norme e regolamenti dell'OCCAR;\n\n• organizzazione dell'OCCAR-AE;\n\nnomina del Direttore.\n\nUna maggioranza qualificata rinforzata significa che una decisione non può essere presa sé vi sono 10 diritti di voto contrari (0)\n\na maggioranza degli aventi diritto di voto\n\n- istituzione o scioglimento dei Comitati\n\nLi processo decisionale nell'ambito di un programma è stabilito in uno specifico accordo ad esso riferito, con i dovuti riferimenti alle direttive fissate dal CaS.\n\nLa ponderazione dei voti per le decisioni elencate nel paragrafo 1 e la seguente:\n\n(a)\n\nil numero iniziaie dei diritti di voto per ogni Stato Membro fondatore è pari a iO, (b) \" ogni nuovo Stato Membro che aderisce all'OCCAR avrà un numero di diritti di voto adeguato, secondo quanto verrà deciso dagli Stati Membri già esistenti.\n\nQuando la presente Convenzione non stabilisce alcuna disposizione su come una decisione debba essere presa, o nel caso vi sia una controversia sull'esistenza di tale disposizione, o sui suo campo di applicazione, la decisione sarà presa all'unanimita.\n\nDopo un periodo iniziale di tre anni, l'iter decisionale può essere riesaminato alla luce di turi gli elementi rilevanti.\n\nIl presente Allegato puó essere rivisto previa decisione unanime del CdS a livello ministeriale.",
+      "quality_score": 0.9854,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 30,
+      "text": "باأرر الينسند\n\nLeed andries\n\nNoi avendo veduto il sovrascritlo Atto ed approvandolo in ogni e singula sua parte, lo ebbene accettato, ratificato e confernato come per le Presenti lo accettiamo, ratifichiane e confermiani.\n\nponetendo di ossertarlo e di farlo inviolabilmente osservare.\n\nIn fede di che Noi abbiamo di Nostra mano firmato le Presenti e vi abbiamo fatto apporre il Nostro sigillo\n\nCane C.ti\n\nParidis fois...\n\nviis\n\niwil lafhmeheiss.\n\nDate a Romia il\n\n20\n\ndell'anno\n\n260\n\ndel mese di 12",
+      "quality_score": 0.9303,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 31,
+      "text": "1/ v3",
+      "quality_score": 0.6256,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 32,
+      "text": "7/ v3",
+      "quality_score": 0.6256,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940103_001_s1",
+      "title": "Traité",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19980155_001_s1",
+      "title": "Accord",
+      "score": 0.970991,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_096_s1",
+      "title": "Instrument d'adhésion belge",
+      "score": 0.480832,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_031_s1",
+      "title": "Instrument de ratification allemand",
+      "score": 0.458021,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630134_005",
+      "title": "Instrument italien",
+      "score": 0.452062,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530025_005",
+      "title": "Instrument italien",
+      "score": 0.443476,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_062_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.43854,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_11_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.437704,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930244_001_s1",
+      "title": "Accord, des deux protocoles et de la déclaration de la Belgique",
+      "score": 0.436711,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_56_s1",
+      "title": "Instrument de ratification de l'Italie",
+      "score": 0.436044,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

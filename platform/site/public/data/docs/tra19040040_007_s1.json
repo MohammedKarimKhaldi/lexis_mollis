@@ -1,0 +1,130 @@
+{
+  "document_id": "tra19040040_007_s1",
+  "title": "Procès-verbal d'échange des instruments",
+  "year": 1904,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9219,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Les soussignés s'étant réunio The Underargaed havng dans le but d'échanger les met together for the puspose of Ratifications d'une bonvention exchanging the lacifications ofa entre le Président de la Republique bonvention between the President of Française, et la Majecté lo Roi the trench Republie, and the du Royaume Uni de la Grande Majesty the King of the United bretagne et d'talande et des Kingdom of freat Britai…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19040040_007_s1.pdf",
+  "source_filename": "tra19040040_007_s1.pdf",
+  "source_sha256": "4900d215d45b5d1d56b80445cac7038a391420d2962ddb025a7eb0f8a4dd77d0",
+  "treaty_id": "TRA19040040",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Les soussignés s'étant réunio\n\nThe Underargaed havng\n\ndans le but d'échanger les\n\nmet together for the puspose of\n\nRatifications d'une bonvention\n\nexchanging the lacifications ofa\n\nentre le Président de la Republique\n\nbonvention between the President of\n\nFrançaise, et la Majecté lo Roi\n\nthe trench Republie, and the\n\ndu Royaume Uni de la Grande\n\nMajesty the King of the United\n\nbretagne et d'talande et des\n\nKingdom of freat Britain and trelan\n\nFersitaires Britanniques au delà and of the British Dominions begond des Mens, Empereur des Indes,\n\nthe leas, Imperos of India,\n\nugréé à Londres le 8 avril\n\nconcluded and aigned at fondon\n\n1904 ; et les Ratifications\n\non the 8th day of apaub, 1904; and\n\nrespectives de la dite bonvention the respective hatifications of the said, ayant été sagement collationnes bonvention having been carefally compared.",
+      "quality_score": 0.8724,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "et trouvees conformes, le dit échange and found to he exactly conformable.\n\n'est effectue aujourd'hus dans to eah other, the said exchange la forme usitéé.\n\nlook place this day in the vanal form.\n\nEn foi de quoi ils ont signé\n\nIn witness whereaf they have\n\nle présent bercificat, et yont signed the present bentificate afterchange, appose le cachet de leuns armes and have affixed thereto the seal of their ass\n\nFait à fondres, le 8\n\nDone at london, the Pth\n\nDécembre 1904.\n\nday of December 1904.\n\nSaut fambou\n\nLandorne",
+      "quality_score": 0.9714,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.398542,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19510061_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.396257,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19040040_002_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.388112,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19040040_001_s1",
+      "title": "Accord",
+      "score": 0.376157,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19330035_008_s1",
+      "title": "Procès verbal d'échange des ratifications",
+      "score": 0.365065,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.361698,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19340016_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.356457,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19510061_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.354793,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_19_s1",
+      "title": "Instrument de ratification du Royaume-Uni",
+      "score": 0.35474,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19380028_04_s1",
+  "title": "Pouvoirs de signature du Portugal",
+  "year": 1938,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "pt"
+  ],
+  "quality_score": 0.9791,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ANTONIO OSCAR DE FRAGOSO CARMONA Prosidente da Republica Portuguêsa Fazemos saber aos que as presentes tetras virem que o Governo da Republica ha por bem nomear, como por es- tas nomela, por seu Plenipotenciário o Senhor Comandante Armando Humberto de Gama Ochôa, Ministro de Portugal em Pa- ris, para assinar o Protocolo adiolonal à Convenção Interna- cional relativo ao salvamento de torpedos automoveis, ass1- nado e…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380028_04_s1.pdf",
+  "source_filename": "19380028_04_s1.pdf",
+  "source_sha256": "bc141bdd650fabf4a791a95eb8d9e0d9e18a5f15606443ce2598dc1a0ff395a9",
+  "treaty_id": "TRA19380028",
+  "treaty_number": "715",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ANTONIO OSCAR DE FRAGOSO CARMONA\n\nProsidente da Republica Portuguêsa\n\nFazemos saber aos que as presentes tetras virem que o Governo da Republica ha por bem nomear, como por es- tas nomela, por seu Plenipotenciário o Senhor Comandante\n\nArmando Humberto de Gama Ochôa, Ministro de Portugal em Pa- ris, para assinar o Protocolo adiolonal à Convenção Interna- cional relativo ao salvamento de torpedos automoveis, ass1- nado em Paris, em doze de vunho de mIl novecentos e trinta o quatro.\n\nEm testemunho do que as presentes Letras vão por nós assinadas e seladas com o sêlo branco da Republica Por- tuguêsa.\n\nPaços do Governo da Republica, aos vinte e oito de\n\nJunho de mil novecentos e trinta e gete.\n\nAcon Triun",
+      "quality_score": 0.9791,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_174_s1",
+      "title": "Pouvoirs pour déposer l'instrument de ratification",
+      "score": 0.461239,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_47_s1",
+      "title": "Pouvoirs de vote et de signature du Portugal",
+      "score": 0.4185,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_084_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.396161,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_715_s1",
+      "title": "Pouvoirs portugais",
+      "score": 0.395031,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_53_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.370869,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.368951,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.359148,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_003",
+      "title": "Pouvoirs italiens",
+      "score": 0.358459,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.357716,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_18_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.3565,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

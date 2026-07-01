@@ -1,0 +1,131 @@
+{
+  "document_id": "tra19770068_101_s1",
+  "title": "Certificat d'enregistrement ONU (protocole et échange de lettres)",
+  "year": 1977,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.8517,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES No. 28625 CERTIFICATE of REGISTRATION The SECRETARY-GENERAL of the UNITED NATIONS hereby certifies that the following international agreement has been registered with the Secretarlat, In accordance with irticle 102 of the Charter of the United NatIons: CERTIFICAT d'ENREGISTREMENT Le SECRETAIRE GENERAL de 1 'ORGANISATION des NATIONS UNIES certifle par la présente que l'…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19770068_101_s1.pdf",
+  "source_filename": "tra19770068_101_s1.pdf",
+  "source_sha256": "c004b8795efe925da5d62b284f606fe288c9da1bf8fe74fd52f59a4338804bbd",
+  "treaty_id": "TRA19770068",
+  "treaty_number": "101",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES\n\nNo. 28625\n\nCERTIFICATE of REGISTRATION\n\nThe SECRETARY-GENERAL of the UNITED NATIONS hereby certifies that the following international agreement has been registered\n\nwith the Secretarlat, In accordance with\n\nirticle 102 of the Charter of the United NatIons:\n\nCERTIFICAT d'ENREGISTREMENT\n\nLe SECRETAIRE GENERAL de 1 'ORGANISATION des NATIONS UNIES certifle par la présente que\n\nl'accord international indiqué\n\nci-après a été enregistré\n\nau Secrétariat,\n\nl'Article 102 de la Charte des Nations Unies :\n\nconformément à\n\nNo.\n\n20763.\n\nRepublic\n\nConvention between the Government of the French and the Government\n\nof the Republic of Mali on the\n\nmovement of persons. Signed at Bamako on 11 February 1977\n\nemployment and residence (with exchange of letters). Signed at Bamako on 11 February 1977\n\nRegistered by France on 25 February 1982.\n\nNo: 20763.\n\nfrançalse et le re il fevrier i9rqulatton des personnes.\n\nSignée à Bamako\n\nrotocole à la Convention susmentionnée, relatif à l'emplol\n\ntravailleurs salartés et de leurs familles\n\n(avec échange de lettres).\n\nSigné à Bamako le 11 février\n\nEnregistré par la France le 25 février 1982.\n\nDone at New York on 20 January 1986\n\nFor the SECRETARY-GENERAL\n\nFait à New York le 20 janvier 1986\n\nPour le SECRETAIRE GENERAL\n\nUNITED NATIONS\n\nLe Conseiller juridique:\n\nUNIES",
+      "quality_score": 0.9212,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "•\n\n- • •\n\n;.:\n\n• • •\n\n•' • •\n\n:\n\n•|•\n\n• ••\n\n•",
+      "quality_score": 0.7822,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19680088_101_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.617141,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810127_011_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.601268,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.432914,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19720042_100",
+      "title": "tra19720042_100",
+      "score": 0.430503,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820004_990_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.429645,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_100_s1",
+      "title": "Certificat ONU d'enregistrement de la convention",
+      "score": 0.426048,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.425594,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.419227,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.416522,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610286_100_s1",
+      "title": "Certificat ONU d'enregistrement du Traité",
+      "score": 0.416521,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

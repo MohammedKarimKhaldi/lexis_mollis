@@ -1,0 +1,116 @@
+{
+  "document_id": "tra18750001_076_s1",
+  "title": "Note d'adhésion",
+  "year": 1875,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9885,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE TUNISIE A PARIS 106 DIRECTION DES AFFAIRES JURIDIQUES ARRIVÉE - 1 FEV. 2012 COTE Paris, le 30 janvier 2011 L'Ambassade de la République Tunisienne présente ses compliments au Ministère des Affaires Etrangères et Européennes et a l'honneur de Lui notifier l'accomplissement, par la République Tunisienne, des procédures de ratification de son Adhésion à la Convention du Mètre, signée à Paris, le 20 mai 187…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18750001_076_s1.pdf",
+  "source_filename": "tra18750001_076_s1.pdf",
+  "source_sha256": "7163f518519063b6f3714330a9438e1b152d458add7802f0badbcace6bf147fa",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "910",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DE TUNISIE\n\nA PARIS\n\n106\n\nDIRECTION DES AFFAIRES JURIDIQUES\n\nARRIVÉE\n\n- 1 FEV. 2012\n\nCOTE\n\nParis, le 30 janvier 2011\n\nL'Ambassade de la République Tunisienne présente ses\n\ncompliments au Ministère des Affaires Etrangères et Européennes et a l'honneur de Lui notifier l'accomplissement, par la République\n\nTunisienne, des procédures de ratification de son Adhésion à la\n\nConvention du Mètre, signée à Paris, le 20 mai 1875 et modifiée par la Convention signée à Sèvre, le 06 octobre 1921 et ce, en vertu du décret-loi nº2011-73 du 03/08/2011 et du décret nº2011-2422 du 21/09/2011.\n\nL'Ambassade prie le Ministère des Affaires Etrangères et\n\nEuropéennes de bien vouloir accuser réception de cette notification conformément à l'article III de la Convention susmentionnée.\n\nL'Ambassade remercie le Ministère des Affaires Etrangeres\n\net Européennes pour toute communication à ce sujet et saisit cette occasion pour Lui renouveler l'assurance de sa haute considération. 2\n\n.t. ..\n\ni-..:.\n\n...:\n\n...i\n\nMinistère des Affaires Etrangères et Européennes\n\nDirection des Affaires Juridiques\n\nSous-direction des accords et traités 37, Quai d'Orsay - 75007 Paris\n\nتونس",
+      "quality_score": 0.9885,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.418851,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_05_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.416961,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.414215,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.404421,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.403006,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_214_s1",
+      "title": "Note verbale de dénonciation",
+      "score": 0.401293,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.401056,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.397134,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.397111,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.395298,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

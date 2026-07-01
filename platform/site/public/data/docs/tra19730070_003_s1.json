@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19730070_003_s1",
+  "title": "Pouvoirs suisses",
+  "year": 1973,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9906,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE CONSEIL FÉDÉRAL SUISSE FAIT SAVOIR PAR LES PRÉSENTES qu'il a autorisé Monsieur 1'Ambassadeur Emanuel Di e z , Chef de la Direction du droit international public du Département politique fédéral, à signer un Accord entre le Conseil fédéral, agissant au nom de la République et canton de Genève, et le Gouvernement de la République française sur la compensation financière relative aux frontaliers travaillant à Genève…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19730070_003_s1.pdf",
+  "source_filename": "tra19730070_003_s1.pdf",
+  "source_sha256": "a747a4521c0ace98d63256c499c152597682304daf3bb76a89f546eca14cc5a7",
+  "treaty_id": "TRA19730070",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE CONSEIL FÉDÉRAL SUISSE\n\nFAIT SAVOIR PAR LES PRÉSENTES\n\nqu'il a autorisé\n\nMonsieur 1'Ambassadeur Emanuel Di e z ,\n\nChef de la Direction du droit international public\n\ndu Département politique fédéral,\n\nà signer un Accord entre le Conseil fédéral, agissant au nom de la République et canton de Genève, et le Gouvernement de la République française sur la compensation financière relative aux frontaliers travaillant à Genève.\n\nEn foi de quoi, les présentes ont été signées par le\n\nPrésident et le Chancelier de la Confédération Suisse et munies du sceau\n\ndu Conseil fédéral.\n\nBerne, le 11 décembre 1972\n\nAU NOM DU CONSEIL FEDERAL SUISSE :\n\nLe Président de la Confédération ,\n\nLe Chancelier de La Confédération ,\n\n23848/2",
+      "quality_score": 0.9906,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19680230_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.41178,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.40438,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.399492,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.399035,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_850_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.389956,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_850a_s1",
+      "title": "Pouvoirs belges",
+      "score": 0.387485,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530019_008",
+      "title": "Pouvoirs suisses pour l'échange des ratifications",
+      "score": 0.381993,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_001_s1",
+      "title": "Accord (ensemble l'accord par échange de lettres)",
+      "score": 0.380056,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19920387_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.378436,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_100_s1",
+      "title": "Pouvoirs de signature de la Suisse",
+      "score": 0.378379,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

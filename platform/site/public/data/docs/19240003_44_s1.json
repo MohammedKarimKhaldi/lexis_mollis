@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_44_s1",
+  "title": "Note verbale de dénonciation du Mexique",
+  "year": 1924,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9601,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "| re 003815 EMBAJADA DE MEXICO PARIS Paris le 13 novembre 1986. Monsieur le Ministre, J'ai l'honneur de m'adresser à Votre Excellence au nom du Gouvernement des Etats Unis Mexicains, en référence à l'Arrangement de Paris portant création d'un Bureau International de la Vigne et du Vin (BIVV), conclu le 29 novembre 1924, pour porter à la connaissance de Votre Ex- cellence que mon gouvernement a décidé de dénoncer l'A…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_44_s1.pdf",
+  "source_filename": "19240003_44_s1.pdf",
+  "source_sha256": "b664f37688ea014a3b92bd4c61fe3d1ee831e22b4e2dfd67c1bf25435f3c6126",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "583",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "| re 003815\n\nEMBAJADA DE MEXICO\n\nPARIS\n\nParis le 13 novembre 1986.\n\nMonsieur le Ministre,\n\nJ'ai l'honneur de m'adresser à Votre\n\nExcellence au nom du Gouvernement des Etats Unis Mexicains, en référence à l'Arrangement de Paris portant création d'un\n\nBureau International de la Vigne et du Vin (BIVV), conclu le 29 novembre 1924, pour porter à la connaissance de Votre Ex- cellence que mon gouvernement a décidé de dénoncer l'Arrange ment sus-mentionné,conformément aux dispositions de l'arti- cle 8 dudit Arrangement.\n\nEn conséquence, la présente dénonciation\n\nprendra effet six mois à partir de la date de cette Note.\n\nCette Note constitue la notificacion de\n\nla dénonciation mentionée dans l'article 8 de l'Arrangement sus-cité.\n\nJe saisit cette occasion pour vous re -\n\nnouveler, Monsieur le Ministre, les assurances de ma consi- dération la plus haute et distinguée.\n\nJor r du Mexique.\n\nMonsieur Jean Bernard RAIMOND,\n\nMinistre des Affaires Etrangére de la République Frangaise.\n\nParis.",
+      "quality_score": 0.9601,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.395217,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_43_s1",
+      "title": "Dépêche de notification aux ambassades auprès des Etats-parties de l'adhésion du Mexique",
+      "score": 0.395019,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "notification_denonciation_bie_guatemala_s1",
+      "title": "Dénonciation de la convention sur les expositions internationales",
+      "score": 0.393728,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.386779,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_016_s1",
+      "title": "Réserves de l'Argentine sur les îles Malouines, Georges du Sud, Sandwich",
+      "score": 0.384614,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19930240_004_s1",
+      "title": "Instrument français",
+      "score": 0.383491,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_004_s1",
+      "title": "Instrument français",
+      "score": 0.383387,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_13_s1",
+      "title": "Notification d'adhésion de la Belgique",
+      "score": 0.382912,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_050_s1",
+      "title": "Instrument d'acceptation des Etats-Unis",
+      "score": 0.382796,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.382378,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

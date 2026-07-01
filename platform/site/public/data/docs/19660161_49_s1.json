@@ -1,0 +1,116 @@
+{
+  "document_id": "19660161_49_s1",
+  "title": "Pouvoirs de signature de la Roumanie",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9365,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE MINISTRE DES AFFAIRES ETRAMUERES DE LA REPUBLIQLI SOCIALISTE DE ROUMANIE Certifie par les présentes que le Gouvernement de la République Socialiste de Roumanie a donné pleins POUVOirS À M. IBODOR MAT:A, conseiller à 1'Ambassade de la République Socialiste de Roumanie à Paris, pour signer le Protocole portant modification de l'article IV de la Convention concernant les expositions interna- tionales, signée à Faris…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_49_s1.pdf",
+  "source_filename": "19660161_49_s1.pdf",
+  "source_sha256": "5182cd3094837f44599dca1640b158385d6f0fbd9dc7400b965d7d1cb22742a4",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "ROU001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE MINISTRE DES AFFAIRES ETRAMUERES\n\nDE LA\n\nREPUBLIQLI SOCIALISTE DE ROUMANIE\n\nCertifie par les présentes que le Gouvernement de la République Socialiste de Roumanie a donné pleins\n\nPOUVOirS À M. IBODOR MAT:A, conseiller à 1'Ambassade de la République Socialiste de Roumanie à Paris, pour signer le Protocole portant modification de l'article\n\nIV de la Convention concernant les expositions interna- tionales, signée à Faris, le 22 novembre 1928.\n\nBucarest, le 27 octobre 1966\n\ngmarones\n\nNo. 80",
+      "quality_score": 0.9365,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_16_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.40376,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.393573,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_88_s1",
+      "title": "Pouvoirs de signature de la Roumanie",
+      "score": 0.393022,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_182_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.392562,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.391379,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_56_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.389906,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_63_s1",
+      "title": "Pouvoirs de signature de signature soviétique",
+      "score": 0.388883,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.385873,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_27_s1",
+      "title": "Pouvoirs de signature du Protocole",
+      "score": 0.380517,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.38034,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

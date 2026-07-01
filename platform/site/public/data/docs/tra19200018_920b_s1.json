@@ -1,0 +1,113 @@
+{
+  "document_id": "tra19200018_920b_s1",
+  "title": "Lettres patentes d'adhésion",
+  "year": 1920,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr",
+    "tr"
+  ],
+  "quality_score": 0.9874,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "C* TÜRKİYE CUMHURIYETÍ CUMHURBAŞKANI RECEPTAYYÍP ERDOĞAN dan Bu belgeyi göreceklerin tümüne selam \"Spitsbergen ile İlgili Olarak 9 Șubat 1920 Tarihinde Paris'te Imzalanan Antlașma\"nın metni ilişiktedir. Bahsekonu Antlaşma'yı görüp inceledikten sonra, 29 Aralık 2023 tarihli ve 8027 sayılı Cumhurbaşkanı Kararı gereğince, metnini uygun bulduk. Anılan Antlașma'ya katılımın onanmış, onaylanmış ve dogrulanmış olduğunu bil…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200018_920b_s1.pdf",
+  "source_filename": "tra19200018_920b_s1.pdf",
+  "source_sha256": "7da22dc2d81292b674b6033048167c0993ffa80bb4fac3c430e54f1cc5f45307",
+  "treaty_id": "TRA19200018",
+  "treaty_number": "920B",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "C*\n\nTÜRKİYE CUMHURIYETÍ CUMHURBAŞKANI\n\nRECEPTAYYÍP ERDOĞAN dan\n\nBu belgeyi göreceklerin tümüne selam\n\n\"Spitsbergen ile İlgili Olarak 9 Șubat 1920 Tarihinde Paris'te\n\nImzalanan Antlașma\"nın metni ilişiktedir.\n\nBahsekonu Antlaşma'yı görüp inceledikten sonra, 29 Aralık 2023 tarihli ve 8027 sayılı Cumhurbaşkanı Kararı gereğince, metnini uygun bulduk.\n\nAnılan\n\nAntlașma'ya\n\nkatılımın\n\nonanmış,\n\nonaylanmış\n\nve\n\ndogrulanmış olduğunu bildirir ve bunun eksiksiz uygulanacağına söz veririz.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Yukarıdaki hususları doğrulamak için, imzamızı ve\n\nCumhurbaşkanlığı mührünü taşıyan bu belgeyi verdik.\n\nAnkara’da ikibinyirmidört yılı Şubat ayının onüçüncü günü düzenlenmiştir.",
+      "quality_score": 0.9692,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Traduction Non-Officielle\n\n[L'emblème de la Présidencel\n\nRECEP TAYYİP ERDOĞAN\n\nPRESIDENT DE LA REPUBLIQUE DE TÜRKİYE\n\nSalutations à tous ceux qui verront Cette Lettre\n\nLe texte du « Traité de Spitsbergen signé le 9 février 1920 à Paris » est ci-joint.\n\nAyant vu et étudié ledit texte, notre adhésion au Traité est ratifiée en vertu du\n\nDécret Présidentiel No. 8027 délivré le 29 décembre 2023.\n\nNotre adhésion audit Traité à été acceptée, ratifiée et confirmée et nous promettons qu'il sera implémenté de manière inviolable.\n\nEn foi de quoi, nous avons délivré la présente lettre signée par nous-même et scellé par le sceau de la Présidence de la République.\n\nFait à Ankara, le treizième jour du mois du février, à l'année deux mille vingtquatre.\n\nSigné : Recep Tayyip ERDOĞAN\n\nPrésident de la République",
+      "quality_score": 0.9929,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_73_s1",
+      "title": "Instrument de ratification de la Turquie",
+      "score": 0.674332,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_726_s1",
+      "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+      "score": 0.373108,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990204_101_s1",
+      "title": "Traduction non officielle en français de la ratification libanaise",
+      "score": 0.371754,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19320073_005_s1",
+      "title": "Instrument turc",
+      "score": 0.361922,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.353635,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_26_s1",
+      "title": "Instrument de ratification de la Grèce",
+      "score": 0.352901,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

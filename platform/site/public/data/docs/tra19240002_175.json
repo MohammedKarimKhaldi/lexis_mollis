@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_175",
+  "title": "Accusé de réception français de l'instrument d'adhésion canadien",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9825,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "COPIE MINISTERE DES AFFAIRES ETRANGERSS - Protocole - Paris, le Ie Ministère des Affaires Itrangères présente ses compliments à l'Ambassade du Canada et a l'honneur de lui accuser réception des instruments d'adhésion du Gouvernement canadien à l'Accord International concernant la création d'un Office International des Epizooties, signé à Paris le 25 janvier 1924. Ces instruments ont été déposés au Service du Protoco…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_175.pdf",
+  "source_filename": "tra19240002_175.pdf",
+  "source_sha256": "a06927c625247ed09c13df8d0c718b5bd462d16ff92e0b7e033b80f9536a1e70",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "CAN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "COPIE\n\nMINISTERE DES AFFAIRES\n\nETRANGERSS\n\n- Protocole -\n\nParis, le\n\nIe Ministère des Affaires Itrangères\n\nprésente ses compliments à l'Ambassade du Canada et a l'honneur de lui accuser réception des instruments d'adhésion du Gouvernement canadien à l'Accord International concernant la création d'un Office International des Epizooties, signé à Paris le 25 janvier 1924.\n\nCes instruments ont été déposés au Service\n\ndu Protocole le mardi 14 avril 1959.\n\nLe Ministère des Affaires Etrangères saisit\n\ncette occasion pour renouveler à l'Ambassade du Canada les as urances de sa très haute considération./.\n\nCopie certifiée conforme à\n\nParis, 1e 16 naz\n\navril 1959\n\nChili\n\nAMBASSADE DU CANADA\n\nPARIS",
+      "quality_score": 0.9825,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_700",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.407795,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_386",
+      "title": "Accusé de réception de l'instrument haïtien",
+      "score": 0.3995,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.399276,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_05_s1",
+      "title": "Instrument de succession",
+      "score": 0.397796,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_026",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.394809,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "colombie_docs_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.394782,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_235",
+      "title": "Instrument d'adhésion",
+      "score": 0.39034,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_12_s1",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.388516,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.388283,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_005",
+      "title": "tra19720042_005",
+      "score": 0.387833,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

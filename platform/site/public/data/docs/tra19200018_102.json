@@ -1,0 +1,133 @@
+{
+  "document_id": "tra19200018_102",
+  "title": "Instrument d'adhésion",
+  "year": 1920,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "quality_score": 0.9022,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "가 입 통 보 문 1920년 2월 9일 빠리에서 쓰발바르조약(스피쯔베르겐 군도에 관한 조약)이 체결된것과 관련하여 나는 조선민주주의 인민공화국 정부가 상기 조약을 검토하고 조약에 가입하며 조약에 규제된 모든 조항들을 성실히 리행할것이라는것을 선언한다. 이에 대한 증빙으로서 나는 2016년 1월 20일 평양에서 이 가입통보문에 서명하였다. 조선민주주의 안만 공화국 외무상 리민 평 양 (Translation) INSTRUMENT OF ACCESSION WHEREAS the Svalbard Treaty (Treaty on the Spitsbergen Archipelago) was concluded in Paris on 9 February 1920, NOW THEREFORE the Government of the Democratic People's…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200018_102.pdf",
+  "source_filename": "tra19200018_102.pdf",
+  "source_sha256": "47272f41045d113f384bfa10ddf217b178150a91af751fee033621de00e23f6b",
+  "treaty_id": "TRA19200018",
+  "treaty_number": "PRK001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "가 입 통 보 문\n\n1920년 2월 9일 빠리에서 쓰발바르조약(스피쯔베르겐 군도에 관한 조약)이 체결된것과 관련하여 나는 조선민주주의 인민공화국 정부가 상기 조약을 검토하고 조약에 가입하며 조약에 규제된 모든 조항들을 성실히 리행할것이라는것을 선언한다.\n\n이에 대한 증빙으로서 나는 2016년 1월 20일 평양에서 이 가입통보문에 서명하였다.\n\n조선민주주의 안만\n\n공화국 외무상\n\n리민\n\n평 양",
+      "quality_score": 0.8043,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ko"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "(Translation)\n\nINSTRUMENT OF ACCESSION\n\nWHEREAS the Svalbard Treaty (Treaty on the Spitsbergen Archipelago)\n\nwas concluded in Paris on 9 February 1920,\n\nNOW THEREFORE the Government of the Democratic People's\n\nRepublic of Korea declares that the Government of the Democratic People's\n\nRepublic of Korea, having considered the aforementioned Treaty, accedes to the\n\nSvalbard Treaty and undertakes faithfully to perform and carry out all the stipulations contained therein.\n\nIN WITNESS WHEREOF, I, Ri Su Yong, Minister of Foreign Affairs of the Democratic People's Republic of Korea have signed this instrument of accession at Pyongyang on 20, January 2016.\n\nRi Su Yong\n\n(Signed)\n\nMinister of Foreign Affairs\n\nDemocratic People's Republic of Korea\n\nJanuary 20, Juche105(2016)\n\nPyongyang",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_041_s1",
+      "title": "Instrument de la Corée du Sud",
+      "score": 0.387378,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.377251,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200018_491",
+      "title": "Instrument d'adhésion",
+      "score": 0.37664,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.37286,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_ken001_s1",
+      "title": "Instrument d'adhésion du Kenya",
+      "score": 0.372287,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_brn001_s1",
+      "title": "Instrument  d'adhésion",
+      "score": 0.371276,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200018_104",
+      "title": "Accusé de réception de l'instrument d'adhésion",
+      "score": 0.368535,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_220_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.365933,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910247_846",
+      "title": "Instrument de ratification",
+      "score": 0.36098,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600149_490_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.359808,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

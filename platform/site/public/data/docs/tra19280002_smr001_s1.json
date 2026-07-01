@@ -1,0 +1,141 @@
+{
+  "document_id": "tra19280002_smr001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "quality_score": 0.969,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "O Capitan Reggenti della Serenissima Repubblicade Ten Mearina el tutti coloro che le Presenti vedranno, Salute Convenzione sulle esposizioni internazionali, fatta a Parigi il 22 novembre 1928, modificata e completata dai protocolli del 10 maggio 1948, 16 novembre 1966 e del 30 novembre 1972 e dagli emendamenti del 24 giugno 1982 e del 31 maggio 1988. Il Consiglio Grande e Generale della Repubblica di San Marino, con…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_smr001_s1.pdf",
+  "source_filename": "tra19280002_smr001_s1.pdf",
+  "source_sha256": "bb40d563c12430fe20e0c71506fc05bd77e363bfdbf44442a7fad5d54d306627",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SMR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "O Capitan Reggenti della Serenissima\n\nRepubblicade Ten Mearina el tutti coloro che le Presenti vedranno, Salute\n\nConvenzione sulle esposizioni internazionali, fatta a Parigi il 22 novembre 1928, modificata e completata dai protocolli del 10 maggio 1948, 16 novembre 1966 e del 30 novembre 1972 e dagli emendamenti del 24 giugno 1982 e del 31 maggio 1988.",
+      "quality_score": 0.9516,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Il Consiglio Grande e Generale della Repubblica di San Marino, convocato il giorno 30 giugno 2004, presa in esame la Convenzione sulle esposizioni internazionali, fatta a Parigi il 22 novembre 1928, modificata e completata dai protocolli del 10 maggio 1948, 16 novembre 1966 e del 30 novembre 1972 e dagli emendamenti del 24 giugno 1982 e del 31 maggio 1988, trovati i principi informatori e gli scopi conformi al suo intendimento, ha deliberato di accettarla in ogni sua parte, nella sostanza e nella forma, con l'impegno di osservarla e farla fedelmente osservare, mandando a Noi di segnare le presenti Lettere di\n\nAdesione e di apporvi il Sigillo dello Stato.\n\nmillesettecentotre dalla Fondazione della Repubblica.\n\nI CAPITANI REGGENTI\n\nPaolo Bollini - Mario Riccardi)\n\nI. Bottini //ato quesol.\n\nIL SEGRETARIO DI STATO\n\nPER GLI AFFARI ESTERI",
+      "quality_score": 0.9694,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "AMBASSADE\n\nRÉPUBLIQUE DE SAINT MARIN\n\nEN FRANCE\n\nParis, le 8 septembre 2004/1704 d.F.R.\n\n4, Rue de Cerisoles -75008 - Tél./Fax : 01.47.23.04.75\n\nP/04/109/RSD/mm\n\nL'Ambassade de la République de Saint-Marin en France présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui faire savoir que le Gouvernement de la République de Saint-Marin adhère à la Convention concernant les expositions internationales signée à Paris le 22 novembre 1928, telle que modifiée par le\n\nProtocole du 16 novembre 1966, 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988.\n\nL'Ambassade de la République de Saint-Marin en France saisit cette occasion pour renouveler au Ministère des Affaires Etrangères les assurances de sa plus haute considération.\n\nP/La Chancellerie\n\nMinistère des Affaires Etrangères\n\nProtocole 57, Boulevard des Invalides 75007 Paris",
+      "quality_score": 0.9861,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.721643,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hnd001_s1",
+      "title": "Instrument d'adhésion du Honduras",
+      "score": 0.708797,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.670236,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.637556,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "seychelles_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion des Seychelles",
+      "score": 0.618449,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.585334,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.433915,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mus001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.432785,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.428367,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.427607,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19800128_004_s1",
+  "title": "Instrument français",
+  "year": 1980,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9773,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ripublique Française Le Ministre des Affaires Etrangères Paris, le 16 Septembre 1980 Monsieur le Ministre, Me référant à l'article XVI de l'Accord de Coopération entre le Gouvernement de la République française et le Gouvernement de la Republique démocratique socialiste de Sri Lanka pour l'utilisation de l'Energie mucléaire à des fins pacifiques signé à Colombo le 10 avril 1980, J'ai l'honneur de vous faire savoir q…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19800128_004_s1.pdf",
+  "source_filename": "tra19800128_004_s1.pdf",
+  "source_sha256": "8ba241aecf1c504780ab3f7a661929a5c9ba6788065ea2cdc7210f526f861dcb",
+  "treaty_id": "TRA19800128",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ripublique Française\n\nLe Ministre des Affaires Etrangères\n\nParis, le\n\n16 Septembre 1980\n\nMonsieur le Ministre,\n\nMe référant à l'article XVI de l'Accord de Coopération\n\nentre le Gouvernement de la République française et le Gouvernement de la Republique démocratique socialiste de Sri Lanka pour l'utilisation de l'Energie mucléaire à des fins pacifiques signé à\n\nColombo le 10 avril 1980, J'ai l'honneur de vous faire savoir que les procedures requises par la Constitution de la République pour la mise en vigueur dudit Accord ont été accomplies.\n\nLa présente lettre constitue la notification prévue\n\npar la disposition précitée.\n\nJe vous serais reconaissant de bien vouloir\n\nmilinformer de la date à laquelle celle-ci vous sera parvenue./.\n\nJe vous prie de croire, Monsieur le Ministre, à\n\nl'assurance de ma haute considération.\n\nPour copie certifiée conforme à l'original\n\nA Paris, le. I Septemore 1980\n\nA Son Excellence\n\nMonsieur A. C.S. HAMEED\n\nMinistre des Affaires Etrangères\n\nCOLOMBO\n\n: Atte For",
+      "quality_score": 0.9773,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.655353,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.645804,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_004_s1",
+      "title": "Instrument français",
+      "score": 0.587512,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.415266,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810127_004_s1",
+      "title": "Instrument français",
+      "score": 0.414683,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940256_004",
+      "title": "Instrument d'approbation français",
+      "score": 0.413785,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.412209,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.405929,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.404252,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.403752,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

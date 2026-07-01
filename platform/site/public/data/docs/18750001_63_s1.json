@@ -53,5 +53,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_64_s1",
+      "title": "Transmission de la note de la Bulgarie sur l'adhésion de Taïwan",
+      "score": 0.777835,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_57_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de Singapour",
+      "score": 0.410778,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_081",
+      "title": "Note verbale des autorités grecques accusant réception de la notification du dépôt de l'instrument de Bahreïn",
+      "score": 0.40881,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_62_s1",
+      "title": "Notification d'adhésion de Taïwan aux Etats-membres (consignes aux ambassadeurs sur la position française vis-à-vis de la Chine",
+      "score": 0.40754,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_571_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'ïle Maurice",
+      "score": 0.404166,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.401853,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_290",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.398835,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_031_s1",
+      "title": "Notification aux Etats-membres de l'adhésion du Cameroun",
+      "score": 0.398216,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19240002_12_s1",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.397296,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_46_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.396354,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

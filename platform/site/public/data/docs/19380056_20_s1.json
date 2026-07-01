@@ -1,0 +1,116 @@
+{
+  "document_id": "19380056_20_s1",
+  "title": "Pouvoirs de dépôt de l'instrument de ratification de la Roumanie",
+  "year": 1938,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NOUS, CAROL II, ROI DE ROUMANIE, NOUS confiant pleinement dans la capacité, le zele et le dévouement de Son Excellence Monsieur Gh.Tatarescu, Ambassadeur extraordinaire et plénipotentiaire à Paris, lui donnons pleins pouvoirs de procéder au dépôt de l'instrument de ratification de l'Acte International concernant la co- opération intellectuelle, signé à Paris le 3 décembre 1938, déstiné aux archives du Gouvernement d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380056_20_s1.pdf",
+  "source_filename": "19380056_20_s1.pdf",
+  "source_sha256": "29b98e8344f1e1faf2beea05f6fed1a055b089f153eceb2fa46671159917a09b",
+  "treaty_id": "TRA19380056",
+  "treaty_number": "ROU001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NOUS, CAROL II, ROI DE ROUMANIE, NOUS confiant pleinement dans la capacité, le zele et le dévouement de Son Excellence Monsieur Gh.Tatarescu, Ambassadeur extraordinaire et plénipotentiaire à Paris, lui donnons pleins pouvoirs de procéder au dépôt de l'instrument de ratification de l'Acte International concernant la co- opération intellectuelle, signé à Paris le 3 décembre 1938, déstiné aux archives du Gouvernement de la Répu- blique française.\n\nEn foi de quoi, NOUS lui avons délivré les présentes, signées par NOUS et munies de NOTRE Sceau\n\nRoyal.\n\nFait à Bucarest, le 12 juillet 1939.-\n\nMinistre des Affaires Etrangères\n\nRetenir",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.384601,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.384577,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_ita001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.377722,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_31_s1",
+      "title": "Pouvoirs de signature du Liban",
+      "score": 0.377651,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.373738,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.37218,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_520a_s1",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.37124,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_11_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.370156,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_17_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Pologne",
+      "score": 0.369816,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_19_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.369723,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

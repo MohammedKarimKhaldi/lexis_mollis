@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19790372_001_s1",
+  "title": "Convention d'aide budgétaire",
+  "year": 1979,
+  "doc_type": "Convention",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9673,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "CONVENTION d'AIDE BUDGETAIRE conclue entre le Gouvernement de la République Française et le Gouvernement de la République Fédérale Islamique des Comores CONVENTION D'AIDE BUDGETAIRE Le Gouvernement de la République Françatse représenté par Monsieur Robert GALLEY, Ministre de la Coopération d'une part, Le Gouvernement de la République Fédérale Islamique des Comores représenté par Monsieur Saftd KAFE, Ministre des Fin…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Convention",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19790372_001_s1.pdf",
+  "source_filename": "tra19790372_001_s1.pdf",
+  "source_sha256": "24a9adc77ba6c98d207c908b3247f86fe425265a364316d57723d8cfaa1e7fc0",
+  "treaty_id": "TRA19790372",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CONVENTION d'AIDE BUDGETAIRE conclue entre\n\nle Gouvernement de la République Française\n\net\n\nle Gouvernement de la République Fédérale\n\nIslamique des Comores",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "CONVENTION D'AIDE BUDGETAIRE\n\nLe Gouvernement de la République Françatse représenté par Monsieur Robert GALLEY,\n\nMinistre de la Coopération\n\nd'une part,\n\nLe Gouvernement de la République Fédérale Islamique des Comores représenté par\n\nMonsieur Saftd KAFE, Ministre des Finances, de l'Economie et du Plan\n\nd'autre part,\n\nsont convenus de ce qui. suit :\n\nARTICLE I\n\nLe Gouvernement de la République Française apporte, en I979, à la\n\nRépublique Fédérale Islamique des Comores, à la demande de cette dernière, une aide budgétaire sous la fotme d'une subvention d'un montant de IO millions de francs français,\n\nARTICLE II\n\nCette subvention est destinée à permettre au Gouvernement fomorien de\n\nfaire face à ses dépenses prioritaires,\n\nARTICLE LLL\n\nLe montant de la subvention visée à l'article I ci-dẹssus sera mis à\n\nla disposition du Trésor comorien par 1'intermédiaire de l'Institut d'Emission des Comores.\n\nARTICLE IV\n\nToute difficulté dans l'application de la présente Convention sera\n\nsoumise à l'examen du Ministre des Finances, de l'Economie et du Plan de la\n\nRépublique Fédérale Islamique des Comores et du Ministre de la Coopération de la République Française,\n\nFait à Paris le Â Fine, 41443 :\n\nen double original\n\nPour le Gouvernement de la République Four. le Gouvernement de la République `\n\nFédérale Islamique des Comores Française\n\nLe Ministre des Finances, de l'Economie Pour le Ministre de la Coopération et du Plan\n\nLe Directeur de Cabinet\n\nMonsieur Satd KAFE Monsiėtr Jean SRIBER",
+      "quality_score": 0.9346,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19790373_001_s1",
+      "title": "Convention",
+      "score": 0.951386,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA19831903_001_s1",
+      "title": "Convention",
+      "score": 0.912564,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800442_001_s1",
+      "title": "Convention d'assistance budgétaire",
+      "score": 0.845068,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20010237_001_s1",
+      "title": "Convention (ensemble 2 annexes)",
+      "score": 0.698827,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800443_001_s1",
+      "title": "Convention d'aide budgétaire",
+      "score": 0.690148,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880131_001_s1",
+      "title": "Accord",
+      "score": 0.675679,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850033_001_s1",
+      "title": "Accord relatif à l'octroi d'une aide alimentaire",
+      "score": 0.673682,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910276_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.65608,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19950119_001_s1",
+      "title": "Accord",
+      "score": 0.653269,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930022_001_s1",
+      "title": "Accord",
+      "score": 0.653269,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

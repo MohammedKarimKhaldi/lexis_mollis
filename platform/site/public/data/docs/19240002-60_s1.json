@@ -1,0 +1,119 @@
+{
+  "document_id": "19240002-60_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.8186,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Tradict 1 HE PRESIDEN F THE REPUBLIC OF ARMENIA DECLARE that by the decision of November 18, 1997, the National Assembly of the Republic of Armenia has adopted a resolution to accede to the International Agreement of 25 January 1924, creating the Office International des Epizooties (OLE). In confirmation of the aforementioned the President of the Republic of Armenia signs this declaration. Yerevan 29 November 1997 l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240002-60_s1.pdf",
+  "source_filename": "19240002-60_s1.pdf",
+  "source_sha256": "8cdb389367dbe448a78f3e08ca36a9db2d45af5e480472bf8250ffd4af740d0f",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "ARM001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Tradict 1\n\nHE PRESIDEN\n\nF THE REPUBLIC OF ARMENIA DECLARE\n\nthat by the decision of November 18, 1997, the National Assembly of the Republic of Armenia has adopted a resolution to accede to the\n\nInternational Agreement of 25 January 1924, creating the Office International des Epizooties (OLE).\n\nIn confirmation of the aforementioned the President of the Republic of Armenia signs this declaration.\n\nYerevan 29 November 1997\n\nle Preside 'the Renublic of Armer\n\nL. Ter-Petrossian",
+      "quality_score": 0.9971,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "ROM: DUXTAD iS VEREVAN\n\nPHONE NO.\n\n: +78852 151933 sWyr 11:52\n\nШИНИРИРЛЕДЗАНЬ\n\n32-02360 2722\n\nMINISTRY\n\nOF AGRICULTURE\n\nOF THE REPUBLIC OF ARMENIA\n\nalbandian mi 48 Yerevan, 375010\n\n1. 524-641, Telex: 243369 TRANS SU, Fax $23-70\n\nOffice International des Epizooties\n\nA l'Attention de: Jean Blancou\n\nDirecteur Général fax: 33-(0) 1 42670987\n\nDe la part:\n\nVladimir Movsissyan\n\nMinistre d'Agriculture de la Republique d'Arménio\n\nRue Nalbandyan 48\n\nErevan, Arménie 375010 tel: 52 46 41 fax: /3742/523793\n\nAt & t /3742151 583\n\nErovan, le 22 decembre 1997\n\nCher Monsieur,\n\nNous Vous informons par la presante, complementerement pour l' adheration de\n\nRepublique d'Armenie à l'Ofice International des Epizooties est souhaitable être au 6-em cathegorie de cette organisation et nous Vous presentons notre representant permanent monsieur Aradjanyan Anouchavan, chef du departement veterinaire auprès du Ministere d'Agriculture de la Republique d'Arménie.\n\nNous Vous prions d'agréer mes salutations distinguéés.\n\nLeQuelon\n\nVladimir Movsissyan\n\n• ' o pa iin",
+      "quality_score": 0.9567,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "ปบ → ภนบงทงทรอทา",
+      "quality_score": 0.7158,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "NUSUUSUUP NULSCUNGSNFRSUL UOQQeuanu NNNAL 1997 (3-1U- uuUuh LOAS8GULGPP 18-PU ACNGAFU E CUANFUEL 1924 (AUQU Uh\n\nNürFUdunn 25-PU ŒUCRQNEU USNCUSCHUG «DUPnP9nrU UPQSU2- QUS3PU UUuUULUNUUUuAutnuuuagnu (EnP9nnspPu) PSI III USGVOG- INF UHUPU» NUUU2USUUQPPU URULUINE UUUDPL:",
+      "quality_score": 0.7293,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "h éUAUUSNRUU UUUUUR, AUSUUSUUR 2USPUnbsfh3us\n\nLVURUUQURC USOPUGAPühU Ek VRUUULNR UUURU UNRBU 4U3SU- CUPUSPPG BOUL &UTUnhU, 19927 . qUuU obere ctn d 2982;\n\nfoo Phor\n\neUS3UUSU'Uuh ZU nU EPS SU UL 'UUTUUS UA L. SEC-QESPNRUSUY",
+      "quality_score": 0.6941,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_375",
+      "title": "Notification française à l'OIE",
+      "score": 0.354477,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_345",
+      "title": "Demande d'information sur les modalités d'adhésion",
+      "score": 0.351103,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

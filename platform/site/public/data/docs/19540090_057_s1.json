@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_057_s1",
+  "title": "Procès-verbal de dépôt de l'instrument argentin",
+  "year": 1954,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9776,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT D'ADHESION DE LA REPUBLIQUE ARGENTINE A LA CONVENTION INTERNATIONALE POUR L'UNIFICATION DES METHODES D'ANALYSE ET D'APPRECIATION DES VINS OUVERTE A LA SIGNATURE A PARIS DU 13 OCTOBRE 1954 AU IER MAI 1955 Son Excellence Monsieur H. AGUIRRE LECARRETA Ambassadeur Extraordinaire et Plénipotentiaire de la République Argentine s'est présenté aujourd'hui au Ministère des Affaires Etra…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_057_s1.pdf",
+  "source_filename": "19540090_057_s1.pdf",
+  "source_sha256": "79a4767699c9ea4d27457f1ec169a7ec74a3555ec63d19a805174ee198a3a6a7",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "ARG003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT D'ADHESION\n\nDE LA REPUBLIQUE ARGENTINE A LA CONVENTION INTERNATIONALE\n\nPOUR L'UNIFICATION DES METHODES D'ANALYSE ET D'APPRECIATION DES VINS\n\nOUVERTE A LA SIGNATURE A PARIS\n\nDU 13 OCTOBRE 1954 AU IER MAI 1955\n\nSon Excellence Monsieur H. AGUIRRE LECARRETA\n\nAmbassadeur Extraordinaire et Plénipotentiaire de la République Argentine s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Bernard DURAND, Ministre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépot de l'instrument d'adhésion de la République Argentine à la\n\nConvention Internationale pour l'unification des méthodes d'analyse et d'appréciation des vins ouverte à la signature à Paris du 13 octobre 1954 au ler mai 1955.\n\nde la République Française.\n\nprésent Procés-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT A PARIS, en double\n\nle 24 janvier 1968.%.",
+      "quality_score": 0.9776,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.420957,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.418053,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_153_s1",
+      "title": "Procès-verbal de dépôt de l'instrument bulgare",
+      "score": 0.417619,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.416106,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_437_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.414688,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.414287,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_297_s1",
+      "title": "Procès-verbal de dépôt de l'instrument espagnol",
+      "score": 0.413419,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.41272,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_058_s1",
+      "title": "Note verbale type du service traitant relative au dépôt de l'adhésion argentine à destination des chefs de Postes",
+      "score": 0.403377,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_922_s1",
+      "title": "Procès-verbal de dépôt de l'instrument turc",
+      "score": 0.403348,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -41,5 +41,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19240003_34_s1",
+      "title": "Instrument d'adhésion d'Israël",
+      "score": 0.430363,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_39_s1",
+      "title": "Instrument d'adhésion d'Israël",
+      "score": 0.419505,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_018_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.404691,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_37_s1",
+      "title": "Instrument d'adhésion de la Nouvelle-Zélande",
+      "score": 0.402979,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_230_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.398772,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_009_s1",
+      "title": "Instrument d'acceptation de l'Australie",
+      "score": 0.39874,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mdv001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.395506,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.394806,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.394628,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_222_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.387812,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

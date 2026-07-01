@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940439_325",
+  "title": "Instrument néerlandais",
+  "year": 1994,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9801,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Khipublique Française × NO 88/94 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à Monsieur Michel BARNIER, Ministre de l'Environnement, pour signer un Accord concernant la protection de la Meuse./. FAIT à PARIS, le AVRIL 1994 Le Ministre des Affaires Etrangères Mani fugi",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940439_325.pdf",
+  "source_filename": "tra19940439_325.pdf",
+  "source_sha256": "bed1858e0cdca3c92f99b3884e34423970345c8d3b77ac137eb7c12286b041b9",
+  "treaty_id": "TRA19940439",
+  "treaty_number": "NLD002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Khipublique Française\n\n×\n\nNO\n\n88/94\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre\n\ndes Affaires Etrangères, donnons POUVOIRS par ces présentes à\n\nMonsieur Michel BARNIER, Ministre de l'Environnement,\n\npour signer un Accord concernant la protection de la Meuse./.\n\nFAIT à PARIS, le\n\nAVRIL 1994\n\nLe Ministre des Affaires Etrangères\n\nMani fugi",
+      "quality_score": 0.9801,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940440_325",
+      "title": "Accusé de réception par le dépositaire de l'instrument néerlandais : ratification reçue le 3 avril 1996",
+      "score": 0.866057,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002b_s1",
+      "title": "Pouvoirs français (délivrés à Michel Vauzelle)",
+      "score": 0.539577,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960259_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.388811,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_326",
+      "title": "Accusé de réception par le dépositaire de l'instrument néerlandais",
+      "score": 0.382431,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_325_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.368101,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880302_002",
+      "title": "Pouvoirs français",
+      "score": 0.366845,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.366327,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.364642,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.363994,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860069_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.359953,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

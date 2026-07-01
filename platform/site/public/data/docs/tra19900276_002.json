@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19900276_002",
+  "title": "Pouvoirs français",
+  "year": 1990,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9464,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "¡DAT bordereau n° 1776 du 281\" 190 Accas signé 617/12/90 (confidertie) N° 291/90 Taty ote do-meils POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre d'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes a M. Roger DUZER, Ambassadeur extraordinaire et plénipotentiaire en Australie, pour signer un Accord entre le Gouvernement de la République française et le Gouvernement d'Austral…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19900276_002.pdf",
+  "source_filename": "tra19900276_002.pdf",
+  "source_sha256": "126e0cf41ac5ed28321021afef85977de1ad85d353aa83f4b6132b9eb1d8a103",
+  "treaty_id": "TRA19900276",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "¡DAT bordereau n° 1776 du 281\"\n\n190\n\nAccas signé 617/12/90 (confidertie)\n\nN°\n\n291/90\n\nTaty ote do-meils\n\nPOUVOIRS\n\nAu nom\n\ndu Gouvernement de la République,\n\nNOUS,\n\nMinistre d'Etat,\n\nMinistre des Affaires Etrangères, donnons\n\nPOUVOIRS par ces présentes a M. Roger DUZER, Ambassadeur extraordinaire et plénipotentiaire en Australie,\n\npour signer un Accord entre le Gouvernement de la\n\nRépublique française et le Gouvernement d'Australle relatif à la coopération en matière de recherche et de technologie de défense./.\n\nFAIT à PARIS, le\n\n4/12190\n\nLe Ministre d'Etat,\n\nMinistre des Affaires Etrangères\n\nR.Duna,",
+      "quality_score": 0.9464,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19980109_002_s1",
+      "title": "Pouvoir français",
+      "score": 0.589627,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.542744,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_002",
+      "title": "Pouvoirs",
+      "score": 0.400327,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.398135,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890267_002",
+      "title": "Pouvoirs français",
+      "score": 0.395238,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002b_s1",
+      "title": "Pouvoirs français (délivrés à Michel Vauzelle)",
+      "score": 0.389419,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880302_002",
+      "title": "Pouvoirs français",
+      "score": 0.386977,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.386736,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182469_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.386189,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990082_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.383191,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

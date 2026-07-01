@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20130965_007_s1",
+  "title": "Note de l'ambassade accusant réception de la notification canadienne",
+  "year": 2013,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Liborté • Égalté • Fraternitd RÉPUBLIQUE FRANÇAISE AMBASSADE DE FRANCE AU CANADA N° 2017-271544 L'Ambassade de France au Canada présente ses compliments au Ministère des Affaires étrangères, du Commerce et du Développement et se réfère à sa note verbale n°JLI- 0065, en date du 11 avril 2017, l'informant de l'accomplissement des procédures internes du Canada requises pour l'entrée en vigueur de l'Accord entre le gouv…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20130965_007_s1.pdf",
+  "source_filename": "TRA20130965_007_s1.pdf",
+  "source_sha256": "2d3307cb0e3cfa69e1c56e198c69da5467c3e5572eb2d5c94821578cb39b3b71",
+  "treaty_id": "TRA20130965",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Liborté • Égalté • Fraternitd\n\nRÉPUBLIQUE FRANÇAISE\n\nAMBASSADE DE FRANCE AU CANADA\n\nN° 2017-271544\n\nL'Ambassade de France au Canada présente ses compliments au Ministère des\n\nAffaires étrangères, du Commerce et du Développement et se réfère à sa note verbale n°JLI- 0065, en date du 11 avril 2017, l'informant de l'accomplissement des procédures internes du\n\nCanada requises pour l'entrée en vigueur de l'Accord entre le gouvernement de la République française et le gouvernement du Canada sur la sécurité sociale, signé à Ottawa le 14 mars 2013, ainsi que de son accord d'application.\n\nL'Ambassade de France au Canada a l'honneur d'accuser réception de cette note verbale et confirme, par la présente, qu'en vertu des dispositions de l'article 34, 2.\n\n(« [l'Accord] entre en vigueur le premier jour du quatrième mois suivant la date de reception de la dernière notification »), les deux accords précités entreront donc en vigueur le 1° août 2017./.\n\nL'Ambassade de France saisit cette occasion pour renouveler au Ministère des Affaires étrangères, du Commerce et du Développement les assurances de sa haute considération.\n\nOttawa, le 17 avril 2017\n\nPOUSSYENN\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nDU COMMERCE ET DU DEVELOPPEMENT\n\n→ Bureau du Protocole",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20141211_006_s1",
+      "title": "Accusé de réception de l'instrument français.",
+      "score": 0.423916,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141375_006_s1",
+      "title": "Accusé de réception de l'instrument français.",
+      "score": 0.413857,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100261_007",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.402877,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172185_006",
+      "title": "Accusé de réception français de l'instrument andorran",
+      "score": 0.398969,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_098_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument belge",
+      "score": 0.396995,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_733_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument britannique",
+      "score": 0.393184,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20131050_006_s1",
+      "title": "Accusé de réception croate de l'instrument français",
+      "score": 0.389557,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20110656_007_s1",
+      "title": "Note accusant réception de la notification djiboutienne",
+      "score": 0.388528,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_006",
+      "title": "Accusé de réception qatari de l'instrument français",
+      "score": 0.388238,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151895_006_s1",
+      "title": "Note accusant réception de la notification d'approbation française",
+      "score": 0.387279,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

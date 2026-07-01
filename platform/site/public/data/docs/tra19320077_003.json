@@ -1,0 +1,95 @@
+{
+  "document_id": "tra19320077_003",
+  "title": "Pouvoirs soviétiques",
+  "year": 1932,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.93,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "TRADUGTIORN, LE COMITE CENTRAL EXECUTIF DE L'UNION DES REPURLIQUES SOVIETISTES SOCIALISTES DECLARE avoir chargé et charge par oes présents le citoren DOVGALEVSKY Valérien Savéliévitoh, de néfocier et de signer la Convention relative à 1a Procédure de Conciliation entre l'Union |. des Républiques Soriétistes Socialistes et la Républicue Francaise. Les Actes qui seront signés en vertu des présents Pleinse \"Pouvoirs. s…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19320077_003.pdf",
+  "source_filename": "tra19320077_003.pdf",
+  "source_sha256": "abbcceefd15981b85f496c208c6c8594c3c5c16b4e2c3260c10610076d47d00e",
+  "treaty_id": "TRA19320077",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TRADUGTIORN,\n\nLE COMITE CENTRAL EXECUTIF DE L'UNION DES REPURLIQUES\n\nSOVIETISTES SOCIALISTES\n\nDECLARE avoir chargé et charge par oes présents le citoren\n\nDOVGALEVSKY Valérien Savéliévitoh, de néfocier et de signer la\n\nConvention relative à 1a Procédure de Conciliation entre l'Union |. des Républiques Soriétistes Socialistes et la Républicue Francaise.\n\nLes Actes qui seront signés en vertu des présents Pleinse \"Pouvoirs. seront soumis à la ratification en conformité aux lois ‘ae l'Union des Républiques Soviétistes Socialistes.\n\nMoscou, le 21 Novembre 1355,\n\nLe Président du Comité Central Exécutif | de l'Union des R,.8.8. (signé)M. KALININE.\n\nte Secrétaire du Comité Central Exécutif!\n\nde l'Union des R.8.8,. (siené)A. ENOUEIDZE,\n\n‘Le Commissaire du Peuple aux {Affaires\n\nEtrangères de l'Union des R.3.5,\n\n'. (Signé) LITVINOFF.",
+      "quality_score": 0.93,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.39478,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19660198_003a_s1",
+      "title": "Pouvoirs soviétiques (pour l'accord)",
+      "score": 0.381611,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19320077_100",
+      "title": "Copie de la convention non signée, manuscrite, et accompagnée d'annotations",
+      "score": 0.366217,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19320077_005",
+      "title": "Instrument de ratification soviétique",
+      "score": 0.362223,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19360013_005",
+      "title": "Instrument soviétique",
+      "score": 0.354019,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890163_001_s1",
+      "title": "Accord",
+      "score": 0.352567,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930186_003_s1",
+      "title": "Pouvoirs russe",
+      "score": 0.352235,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

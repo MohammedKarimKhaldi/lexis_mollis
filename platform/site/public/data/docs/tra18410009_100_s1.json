@@ -1,0 +1,50 @@
+{
+  "document_id": "tra18410009_100_s1",
+  "title": "Ancienne fiche AR de récolement",
+  "year": 1841,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "fr"
+  ],
+  "quality_score": 0.8137,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Madagascar Titre: fuin 1841 Traité de cesion par Trimiaron, i de payo d'Ankara (Madagascan), des terra de Madagancar de des ils fai l'en torrent. Annexes: Iieu de signature: S.l. 1. ni date Ratifications françaises: Ratifications: P.V. d'échange : Cotes: Original en france? 2 copie, I lexte arabe . Modifications: Carton afrique",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18410009_100_s1.pdf",
+  "source_filename": "tra18410009_100_s1.pdf",
+  "source_sha256": "b9a9cffc28535adaa111c7ba3abffba73c087549abd3c25081cbc8ef262e13fb",
+  "treaty_id": "TRA18410009",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Madagascar\n\nTitre:\n\nfuin 1841\n\nTraité de cesion par Trimiaron, i\n\nde payo d'Ankara (Madagascan), des terra de\n\nMadagancar de des ils fai l'en torrent.\n\nAnnexes:\n\nIieu de signature: S.l.\n\n1. ni date\n\nRatifications françaises:\n\nRatifications:\n\nP.V. d'échange :\n\nCotes:\n\nOriginal en france?\n\n2 copie,\n\nI lexte arabe .\n\nModifications:\n\nCarton afrique",
+      "quality_score": 0.8137,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

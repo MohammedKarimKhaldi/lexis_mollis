@@ -1,0 +1,60 @@
+{
+  "document_id": "TRA20213017_325_s1",
+  "title": "Pleins pouvoirs",
+  "year": 2021,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9767,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Le Président de la République française, Vu Particle 52 de la Constitution, Autorise M. Philippe BERTOUX, directeur des Affaires stratégiques, de Sécurité et du Désarmement à signer l'Accord relatif au contrôle des exportations en matière de défense entre La République française, la République fédérale d'Allemagne et le Royaume d'Espagne Fait à Paris, e. 1o septembre 2021. Emmanuel MACRON, Président de la République…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20213017_325_s1.pdf",
+  "source_filename": "TRA20213017_325_s1.pdf",
+  "source_sha256": "a710b6ed9e6669045606d5eab4151fcfbe2074431a3fd88b65fc8fd0124c388b",
+  "treaty_id": "TRA20213017",
+  "treaty_number": "FRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Le Président de la République française,\n\nVu Particle 52 de la Constitution,\n\nAutorise\n\nM. Philippe BERTOUX, directeur des Affaires stratégiques, de Sécurité et\n\ndu Désarmement\n\nà signer l'Accord relatif au contrôle des exportations en matière de défense entre\n\nLa République française, la République fédérale d'Allemagne et le Royaume\n\nd'Espagne\n\nFait à Paris, e. 1o septembre 2021.\n\nEmmanuel MACRON,\n\nPrésident de la République française\n\nLe Premier Ministre\n\nCe Ministre de l'Europe et des Affaires\n\nM le Drian",
+      "quality_score": 0.9767,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20230143_002_s1",
+      "title": "Lettre en réponse",
+      "score": 0.371604,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990144_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.352934,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

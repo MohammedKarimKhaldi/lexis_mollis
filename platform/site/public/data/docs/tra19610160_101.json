@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19610160_101",
+  "title": "Publication au Journal officiel (extrait de recueil)",
+  "year": 1961,
+  "doc_type": "Autre",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9659,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LEG. 5 (9.63) CERTIFICATE of REGISTRATION No. 17337 CERTIFICAT d'ENREGISTREMENT The SECRETARY-GENERAL of the UNITED NATIONS Hereby certifies that the Government of the French Republic has registered with the Secretariat in accordance with Article 102 of the, Charter of the United Nations the Treaty on Co-operation between France and Dahomey, signed at Paris on 24 April 1961. Le SECRETAIRE GENERAL des NATIONS UNIES C…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19610160_101.pdf",
+  "source_filename": "tra19610160_101.pdf",
+  "source_sha256": "999b4a06ba00eed452049069b87b0e2b3020636a4946c00ad23deb7a0af639ef",
+  "treaty_id": "TRA19610160",
+  "treaty_number": "101",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LEG. 5\n\n(9.63)\n\nCERTIFICATE of REGISTRATION\n\nNo. 17337\n\nCERTIFICAT d'ENREGISTREMENT\n\nThe SECRETARY-GENERAL of the UNITED NATIONS\n\nHereby certifies that the Government of the French Republic\n\nhas registered with the Secretariat in accordance with Article 102 of the, Charter of the United Nations the Treaty on Co-operation between France and Dahomey, signed at Paris on 24 April 1961.\n\nLe SECRETAIRE GENERAL des NATIONS UNIES\n\nCertifie par la présente que le Gouvernement de la République française\n\na enregistré au Secrétariat conformément aux termes de l'Article 102 de la Charte des Nations Unies e Traité de coopération entre la Franc t le Dahomey, signé à Paris le 24 avri\n\n1961.\n\nThe registration took place on under No. 11543\n\nDone at New York, on\n\nIo the Government of the\n\nFrench Republic\n\n2 February 1972 4 August 1972\n\nL'enregistrement a eu lieu le sous le n° 11543\n\nFait à New York, le\n\nFor the SECRETARY - GENERAL\n\nPour le SECRETAIRE GENERAL\n\nCotttaros\n\n2 février 1972\n\n4 août 1972\n\nAu Gouvernement de la\n\nRépublique française",
+      "quality_score": 0.9659,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630223_010_s1",
+      "title": "Certificat de l'enregistrement no 10365",
+      "score": 0.721331,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.696886,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_100_s1",
+      "title": "Certificat d'enregistrement de l'accord à l'ONU",
+      "score": 0.689594,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.687988,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630108_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.655241,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_004_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.653757,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630359_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.448334,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_001_s1",
+      "title": "Convention",
+      "score": 0.446506,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.444684,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630358_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.442703,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

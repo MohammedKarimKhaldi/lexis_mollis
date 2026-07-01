@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19600149_491_s1",
+  "title": "note verbale de transmission de l'instrument à la France",
+  "year": 1960,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9951,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": ". Imbassade de Sellonie Paris NV 4.7-715 L'Ambassade de Lettonie en France présente ses compliments au Ministère des Affaires étrangères et du Développement international - Direction des entreprises, de l'économie internationale et de la promotion du tourisme - et a l'honneur de lui transmettre l'Instrument d'adhésion à l'Organisation de coopération et de développement économiques ratifié par la République de Letton…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19600149_491_s1.pdf",
+  "source_filename": "tra19600149_491_s1.pdf",
+  "source_sha256": "9635268c9c3417a02420b28a66193377e43cee5918b3e267262cfe85caba26ae",
+  "treaty_id": "TRA19600149",
+  "treaty_number": "491",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ". Imbassade de Sellonie\n\nParis\n\nNV 4.7-715\n\nL'Ambassade de Lettonie en France présente ses compliments au Ministère des Affaires étrangères et du Développement international - Direction des entreprises, de l'économie internationale et de la promotion du tourisme - et a l'honneur de lui transmettre l'Instrument d'adhésion à l'Organisation de coopération et de développement économiques ratifié par la\n\nRépublique de Lettonie.\n\nL'Ambassade de Lettonie en France saisit cette occasion pour renouveler au Ministère des\n\nAffaires étrangères et du Développement international - Direction des entreprises, de l'économie internationale et de la promotion du tourisme - les assurances de sa haute considération.\n\nParis, le 1 juillet 2016\n\nCatias Vistnaca\n\nMinistère des Affaires étrangères et du Développement international\n\nDirection des entreprises, de l'économie internationale et de la promotion du tourisme 27 rue de la Convention 75732 Paris Cedex 15",
+      "quality_score": 0.9951,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200018_492",
+      "title": "Lettre de transmission de l'instrument",
+      "score": 0.438209,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.400609,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_46_s1",
+      "title": "Lettre du Président de Lituanie au 1er ministre Lionel Jospin sur l'adhésion de la Lituanie à l'OEPP",
+      "score": 0.400538,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_ltu001_s1",
+      "title": "Accusé réception de la notification par la France de l'adhésion de la Lituanie",
+      "score": 0.392665,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070032_006_s1",
+      "title": "Accusé de réception chinois de l'instrument de ratification français",
+      "score": 0.392425,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_18_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.386516,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.382283,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_33_s1",
+      "title": "Note verbale transmettant la lettre d'adhésion du Kazakhstan au BIPM",
+      "score": 0.381684,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_214_s1",
+      "title": "Note verbale de dénonciation",
+      "score": 0.381296,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20050255_100",
+      "title": "Résolution 5/2015 modifiant les annexes de la convention adoptée par l'Assemblée Générale réunie à Strasbourg le 16 septembre 2015",
+      "score": 0.380534,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

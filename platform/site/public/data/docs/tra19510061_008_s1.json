@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19510061_008_s1",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1951,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "En vue d'échanger les Ratifi- cations d'une Convention Consulaire entre le Président de la République française d'une part, et feu Sa Majesté le Roi de Grande-Bretagne, d'Irlande et des Territoires britanniques au-delà des Mers, pour le Royaume-Uni dé Grande-Bretagne et a'Irlande du Nord, de l'autre, laquelie Convention a été signée à Paris le 31 décembre 1951, les Soussignés se sont rencontrés et, les Ratifications…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19510061_008_s1.pdf",
+  "source_filename": "tra19510061_008_s1.pdf",
+  "source_sha256": "99d9a7954fd8e7d9805d90ff236ea725b9c8ca3c137cacd015f81f04904db072",
+  "treaty_id": "TRA19510061",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "En vue d'échanger les Ratifi- cations d'une Convention Consulaire entre le Président de la République française d'une part, et feu Sa\n\nMajesté le Roi de Grande-Bretagne, d'Irlande\n\net des\n\nTerritoires\n\nbritanniques au-delà des Mers, pour le Royaume-Uni dé Grande-Bretagne et a'Irlande du Nord, de l'autre, laquelie Convention a été signée à\n\nParis le 31 décembre 1951, les\n\nSoussignés se sont rencontrés et, les Ratifications yant ete\n\ntrouvées\n\nen bonne et due forme, ont procédé ce jour au dit échange.\n\nEn foi de quoi les Soussignés ont apposé leur signature sur le présent certificat.\n\nFait en double exemplaire, à\n\nLondres, le 15 décembre 1953.\n\nThe Undersigned having\n\nmet\n\ntogether for the purpose of exchanging the Ratifications\n\nof a Consular\n\nConvention between His late Majesty the King of Great Britain, Ireland and the British Dominions beyond the Seas, in respect of the United Kingdom of\n\nGreat Britain and Northern Ireland, and the President of the French\n\nRepublic, which was signed at Paris on the 31st day of December, 1951;\n\nand the respective Ratifications of the said Convention having been found in good and due\n\nform,\n\nthe said\n\nexchange took place this day.\n\nIn witness whereof the Undersigned have signed the present\n\nCertificate.\n\nDone in duplicate at London the 15th day of December, 1953.\n\nاللسا ٢٠ ٩٠",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19510061_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.410943,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19330035_008_s1",
+      "title": "Procès verbal d'échange des ratifications",
+      "score": 0.399811,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.397946,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19040040_007_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.396257,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19040040_002_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.388389,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19040040_001_s1",
+      "title": "Accord",
+      "score": 0.385238,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19340016_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.383048,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_40_s1",
+      "title": "Instrument de ratification du Royaume-Uni",
+      "score": 0.373998,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.369638,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.369202,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

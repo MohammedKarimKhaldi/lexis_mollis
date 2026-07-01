@@ -1,0 +1,153 @@
+{
+  "document_id": "19540096_064_s1",
+  "title": "Pouvoirs de signature japonais",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr",
+    "ja",
+    "ko",
+    "ro",
+    "so",
+    "tl"
+  ],
+  "quality_score": 0.6799,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "加入 還 選 副 代 せり 8S 近 Ne 計 避 打 か 思社 圧 決 生還 由 息 最 紛 導 必要 か Re 剛 衣 邊 宮 四 人 1 生地 革 骨 直人 1 責 選 層 由 0 きき 選 生還 引 式 加代 年 1 加 8 潤二 選 9 議 雪 ) 避 了 誤 四 生 か 居 避 NN DAK 虹 貞 林 紅 和 超 還 門 紅 紅 選 下り 8S 普 幸 き 紅く & 半 皿 信 皿 営 坪 忌 際 下 RR リリ 2 還 黄 大 培 夫 きき 宮井 超人 ブリ 語 障 加計 属 や コワ 打 コ ンー Nw つつ -- ii F o BEN Yy ` H lS n SS 4A K 7 =o K } T. N SHIR DAR Iraduction. HIROHIIO, Empereur du Japon, A tous ceux qui ces présentes lettres verront, Salut!…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_064_s1.pdf",
+  "source_filename": "19540096_064_s1.pdf",
+  "source_sha256": "8f4f9ef13a65e7db30248ec9431f751679a67348c1df1e779f8e568ba4482a6c",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "JPN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "加入 還 選 副 代 せり 8S 近 Ne 計 避 打 か 思社 圧 決 生還 由 息 最 紛 導 必要 か Re 剛 衣 邊 宮 四 人 1 生地 革 骨 直人 1 責 選 層 由 0 きき 選 生還 引 式 加代 年 1 加 8 潤二 選 9 議 雪 ) 避 了 誤 四 生 か 居 避\n\nNN DAK 虹 貞 林 紅 和 超 還 門 紅 紅 選 下り 8S 普 幸 き 紅く & 半 皿 信 皿\n\n営 坪 忌 際 下 RR\n\nリリ 2 還 黄 大 培 夫 きき 宮井 超人 ブリ 語 障 加計 属 や コワ 打 コ ンー\n\nNw つつ",
+      "quality_score": 0.5108,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "ko",
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "-- ii\n\nF\n\no BEN\n\nYy ` H\n\nlS\n\nn SS 4A\n\nK 7 =o\n\nK }\n\nT.\n\nN\n\nSHIR DAR",
+      "quality_score": 0.5658,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "tl",
+        "ro",
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Iraduction.\n\nHIROHIIO,\n\nEmpereur du Japon,\n\nA tous ceux qui ces présentes lettres verront, Salut!\n\nLe Gouvernement du Japon a donné à M. Kumao Nishimura,\n\nAmbassadeur Extraordinaire et Plénipotentiaire du Japon en France, pleine pouvoirs à l'effet de signer la Convention Internationale se substituant à la Convention du 21 Juin 1920 modifiée le 31 mal 1937, relative à l'Institut International du Froid, qui sera présentée au Gouvernement japonais pour être ratifiée.\n\nNous l'attestons en conformité des dispositions de la\n\nConstitution du Japon; et en fol de quo1, Nous avons signé los présentes de Notre main et J avons falt apposer le Sceau do 1 'Empereur.\n\nDonné à Matsushima, 1e sixièmo jour du quatrième mois de la trentième année de Shova (10 6 avr 11 1955).\n\nSceau de 1 'Empereur\n\nSignature autographe: HIROHIT O.\n\nSigné: Ichiro Hatoyama\n\nPrésident du Conseil des Ministres.\n\nSigné: Memoru Shigemitsu linistre des Affaire strangères.\n\nSceau\n\nSceau",
+      "quality_score": 0.963,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_25_s1",
+      "title": "Instrument de ratification du Japon",
+      "score": 0.449705,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830281_010_s1",
+      "title": "Lettre japonaise",
+      "score": 0.393014,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_jpn001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.391363,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19910098_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.386344,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_50_s1",
+      "title": "Traduction en français  non datée de l'instrument de ratification",
+      "score": 0.38182,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_29_s1",
+      "title": "Pouvoirs de signature au Japon",
+      "score": 0.377285,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.373146,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_445_s1",
+      "title": "Ratifications du traité, protocole et déclaration du 10 sept 1919 ; déclaration d'accession de l'État Serbe-Croate-Slovène du 5 déc 1919  et déclaration modificative du 8 déc 1919 ; déclaration d'accession de la Roumanie du 9 déc 1919 ; traité avec la Tchécoslovaquie du 10 sept 1919 ; traité avec l'État Serbe-Croate-Slovène du 10 set 1919 ; traité avec la Roumanie du 9 déc 1919  ; arrangement concernant l'italie du 19 sept 1919 et déclaration le modifiant du 8 déc 1919 ; arrangement concernant l'ancienne monarchie austro-hongroise du 10 sept 1919 et déclaration le modifiant du 8 déc 1919",
+      "score": 0.371879,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190038_03_s1",
+      "title": "Traduction en français de l'instrument de ratification du Japon",
+      "score": 0.37014,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910242_001",
+      "title": "Lettre française",
+      "score": 0.369314,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

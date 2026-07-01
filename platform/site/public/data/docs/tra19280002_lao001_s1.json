@@ -1,0 +1,133 @@
+{
+  "document_id": "tra19280002_lao001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr",
+    "th"
+  ],
+  "quality_score": 0.8487,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "REPUBLIQUE DEMOCRATIQUE POPULAIRE LAO Paix, Indépendance, Démocratie, Unité, Prospérité Ministère des Affaires Etrangères Le Ministre INSTRUMENT D'ADHESION Le Gouvernement de la République Démocratique Populaire Lao déclare qu’il adhère à la Convention concernant les Expositions Internationales signée à Paris le 22 Novembre 1928, telle que modifiée par le Protocole du 30 Novembre 1972 et amendée le 24 Juin 1982 et l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_lao001_s1.pdf",
+  "source_filename": "tra19280002_lao001_s1.pdf",
+  "source_sha256": "49a1664246b3ef5184b3cdd5798c6b2111b55de21e41d25fa7fb1d9b295b46fa",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "LAO001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLIQUE DEMOCRATIQUE POPULAIRE LAO\n\nPaix, Indépendance, Démocratie, Unité, Prospérité\n\nMinistère des Affaires Etrangères\n\nLe Ministre\n\nINSTRUMENT D'ADHESION\n\nLe Gouvernement de la République Démocratique Populaire\n\nLao déclare qu’il adhère à la Convention concernant les\n\nExpositions Internationales signée à Paris le 22 Novembre 1928, telle que modifiée par le Protocole du 30 Novembre 1972 et amendée le 24 Juin 1982 et le 31 Mai 1988, conformément aux dispositions de l'article 3 du Protocole, et qu'il s'acquittera de bonne foi de toutes les obligations qui sont prévues dans la\n\nConvention et le Protocole.\n\nEN FOI DE QUOI, j'ai signé le présent instrument d'adhésion.\n\nVientiane, le 9 Mai 1997\n\nSomsavat LENGSAVAD",
+      "quality_score": 0.9801,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "สาหาละบะลัด อะองห์ฮะไตยะลุดอุบลาว สับติพาย เอกาะลาก บะถุงยิบะโต เอราะพาย อักษะบะสุดอะม วัดทะเบิบตีจังภาพระดุงๆราบต่างชะเรา\n\nสามเร้าร่วม\n\nลัดกะบาม แย่ๆ สาขาละบะลัด ปะลุดท้ยะไตปะสุดสิมลาว ปะราาด เล้าร่วมสิบขิสัมยาภู่เอรับามวางสะแดงบาๆากยิงได้รับรามลิงบาม ที่ปารี ใบจับข้า 22 พะจิก 1928, ใบบั๊บ ได้แภ้ไขเพ็มเติม โดยระบุสัมยฯ สะขับ วับท้ 30 พะจิภ 1972 และ สะบับถัดแก้ วัมที 24 มิทุมฯ 1982 และ 31 พิดสะนา 1988, โดยสอดต่องกับ ยั้งทำมิด มาถตา 3 ลองอะบุรับยา ถั่งว่าง, และ จะปะติบัดด้วยความรู้สัด ขับบาะทุราย่าง ที่ได้ละยุไว้ใบ สิบยาสับยา และ ระบุสัมยา, เมื่อเป็นหลักถาม, ผ้ายะเจิง จึงลิงบาม ใบราบเร้าร่อม สะบับบี.\n\nอางจับ, อัมข้ 9 พิดสะพา 1997\n\nสิมสะพราด เลั่งมะขลัด",
+      "quality_score": 0.7173,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "th"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_199_s1",
+      "title": "Instrument d'adhésion de la Slovénie",
+      "score": 0.772886,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.766621,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_160_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.746384,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.743385,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lbr001_s1",
+      "title": "Instrument d'adhésion.",
+      "score": 0.738811,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.737245,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_74_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.719952,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.707066,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.678364,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mli001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.655616,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

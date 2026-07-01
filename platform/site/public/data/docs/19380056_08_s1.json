@@ -1,0 +1,128 @@
+{
+  "document_id": "19380056_08_s1",
+  "title": "Pouvoirs de signature de la Lettonie",
+  "year": 1938,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9454,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "POUVOI AU NOM DU GOUVERNENINT DE LA REPUBLIQUE DE LETTOLIE LE VICE-PRESIDINT DU CO'SEIL DES MILISTRES fait savoir que Monsieur le Dr. Olgerd GIOS V& ld, Envoyé Extraordinaire et Ministre Plénipoten- tiaire de Lettonie en France, est autorisé à signer l'Acte International concernant la Coopé- ration Intellectuelle, fait & Paris le 3 décembre 1938. Riga, le 24 avril 1939. A.P./17. - gen vit Halisa P QU VOIR. AU NOM DU…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380056_08_s1.pdf",
+  "source_filename": "19380056_08_s1.pdf",
+  "source_sha256": "ad394f424e19a3b953178a775ed9fe952575ae6d35f03921fc11b75e63925d09",
+  "treaty_id": "TRA19380056",
+  "treaty_number": "490",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "POUVOI\n\nAU NOM DU GOUVERNENINT DE LA REPUBLIQUE DE LETTOLIE\n\nLE VICE-PRESIDINT DU CO'SEIL DES MILISTRES\n\nfait savoir que\n\nMonsieur le Dr. Olgerd\n\nGIOS V& ld, Envoyé Extraordinaire\n\net Ministre Plénipoten- tiaire de Lettonie en\n\nFrance,\n\nest autorisé à signer l'Acte International concernant la Coopé- ration Intellectuelle, fait & Paris le 3 décembre 1938.\n\nRiga, le 24 avril 1939.\n\nA.P./17.\n\n- gen vit Halisa",
+      "quality_score": 0.9324,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "P QU VOIR.\n\nAU NOM DU GOUVERNEMENT DE LA REPUBLIQUE DE LETTONIE\n\nLE VICE-PRESIDENT DU CONSEIL DES MINISTRES\n\nfait savoir que\n\nMonsieur le Dr.Qlgerd GROSVALD, Envoyé Extraordinaire\n\net Ministre Plénipoten- tiaire de Lettonie en\n\nFrance,\n\nest chargé de déposer l'instrument de ratification de Son\n\nExcellence le Président de la République de Lettonie sur \"l'Acte International concernant la Coopération Intellectu- elle\", signé à Paris Le 5 décembre 1938.\n\nRiga, le / septembre 1959.\n\nA.P./88.\n\ngr WES\n\nA",
+      "quality_score": 0.9583,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380056_20_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la Roumanie",
+      "score": 0.363759,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_87_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Roumanie",
+      "score": 0.363019,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_12_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.360706,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_125",
+      "title": "Instrument d'adhésion",
+      "score": 0.360169,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.360025,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_975_s1",
+      "title": "Instrument yougoslave",
+      "score": 0.359653,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_66_s1",
+      "title": "Note de transmission de la ratification tchécoslovaque",
+      "score": 0.359087,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.358782,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_10_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Lettonie",
+      "score": 0.358581,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_520a_s1",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.356099,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20110656_007_s1",
+  "title": "Note accusant réception de la notification djiboutienne",
+  "year": 2011,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9599,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Irbrt . fu.,ltt. nI'rr'd'It . 2lfruflrqJrnrrçrrs3GI AMBASSADE DE F.RANCE EN REPUBLIQUE DE DJIBOUTI No 74 Djibouti, le 11 mars 2014 L'Ambassade de France en République de Djibouti présente ses compliments au Ministère des Affaires étrangères et de la Coopération internationale et a I'honneur de confirmer la réception de la note verbale no 68512014 relative aux procédures de ratification (requises en République de Dji…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20110656_007_s1.pdf",
+  "source_filename": "TRA20110656_007_s1.pdf",
+  "source_sha256": "875974587f6fca4c00b65a3ec195bbbd34ac8bb376c40b2cc83c872c7d3241e4",
+  "treaty_id": "TRA20110656",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Irbrt . fu.,ltt. nI'rr'd'It . 2lfruflrqJrnrrçrrs3GI\n\nAMBASSADE DE F.RANCE\n\nEN REPUBLIQUE DE DJIBOUTI\n\nNo 74 Djibouti, le 11 mars 2014\n\nL'Ambassade de France en République de Djibouti présente ses compliments au Ministère des Affaires étrangères et de la Coopération internationale et a I'honneur de confirmer la réception de la note verbale no 68512014 relative aux procédures de ratification (requises en République de Djibouti) du Traité de coopération en matière de défense .\n\nLes deux parties ayant complété les procédures nationales, le Traité entrera donc en vigueur le l\" mai 2014, conformément à son article 23.\n\nL'Ambassade de France saisit cette occasion pour renouveler au Ministère et de la Coopération internationale I'assurance de sa haute\n\nMinistère des Affaires étrangères et de la Coopération internationnale\n\nProtocole d'Etat",
+      "quality_score": 0.9599,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.413133,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_blr001_s1",
+      "title": "Note informant de l'intention d'adhésion",
+      "score": 0.399184,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20131050_006_s1",
+      "title": "Accusé de réception croate de l'instrument français",
+      "score": 0.398856,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19250001_634",
+      "title": "Accusé de réception par le Saint-Siège de la notification par la France du retrait des réserves formulées par le Portugal",
+      "score": 0.396541,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.393878,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.391547,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_05_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.391517,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.391147,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20020160_004",
+      "title": "Accusé de réception par le dépositaire de l'instrument français",
+      "score": 0.389877,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_029_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Bulgarie",
+      "score": 0.389365,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

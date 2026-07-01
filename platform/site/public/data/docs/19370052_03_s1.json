@@ -1,0 +1,128 @@
+{
+  "document_id": "19370052_03_s1",
+  "title": "Pouvoirs sud-africains",
+  "year": 1937,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "31 mai 1937 WHEREAS Ior the purpose of confirming the Modifications to the International Convention for the Creation of an Institute of Refrigeration, signed at Paris on June 21st, 1920, recommended by the General conference of the International Institute of Refrigera- tion et their meeting on the 23rd November, 1934, a new convention has been prepared to that end, and lies open Ior signature in the Archives of the…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19370052_03_s1.pdf",
+  "source_filename": "19370052_03_s1.pdf",
+  "source_sha256": "5ac7a1b8d17cfa54212fd102bc761dd58ad2da3e892edf3df40028f387f745e3",
+  "treaty_id": "TRA19370052",
+  "treaty_number": "015",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "31 mai 1937\n\nWHEREAS Ior the purpose of confirming\n\nthe Modifications to the International Convention for the\n\nCreation of an Institute of Refrigeration, signed at\n\nParis on June 21st, 1920, recommended by the General conference of the International Institute of Refrigera- tion et their meeting on the 23rd November, 1934, a new convention has been prepared to that end, and lies open\n\nIor signature in the Archives of the French Government unt11 May 31st, 1937;\n\nAND WHEREAS It 18 expedient that a fIt\n\nand proper person be invested mith full power to sign the\n\nBald Convention on behall of the Government of the Union of south Africa;\n\nNOW THEREFORE, I, Jen Christiean smuts,\n\nActing Prime Minister end Acting Minister for Ezternal\n\nAffairs of the Union of South Africa, do hereby declare and make known that the Government of the Union of south\n\nAfrica have authorsed and appointed and do by these presents appoint\n\nMIR. ERIC HENDRIK LOUW\n\nEnvor Extraordinary and Minister Plenipotentlary for the",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Union of south Africa in Frence, to be their plenipotentlary wIth full power and authority to sign the sald Conrention on behall of the Union of South Africa.\n\nIN WITNESS WHEREOF I have signed these\n\npresents at capetori on thiä the fifth day of May in the\n\nJeaI of Our Lord One Thousand Nine Hundred and Ihirty-seren.\n\nUsmus-",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_005_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.435005,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_03_s1",
+      "title": "Pouvoirs de signature de l'Afrique du Sud",
+      "score": 0.413571,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_075_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.41174,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_077_s1",
+      "title": "Instrument de ratification de la Nouvelle-Zélande",
+      "score": 0.396946,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_017_s1",
+      "title": "Pouvoirs de signature de l'Australie",
+      "score": 0.391537,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_655_s1",
+      "title": "Pouvoirs indiens",
+      "score": 0.387416,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.382982,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.381501,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_28_s1",
+      "title": "Instrument d'adhésion israélien",
+      "score": 0.380306,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.37866,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

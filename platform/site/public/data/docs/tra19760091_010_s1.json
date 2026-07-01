@@ -1,0 +1,120 @@
+{
+  "document_id": "tra19760091_010_s1",
+  "title": "Certificat d'enregistrement à l'ONU",
+  "year": 1976,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9289,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES No. 29868 CERTIFICATE of REGISTRATION The SECRETARY-GENERAL of the UNITED NATIONS has been registered ARt ete 10206 ne Charter or ene united nat ingordancement accordance with CERTIFICAT d'ENREGISTREMENT Le SECRETAIRE GENERAL de l'ORGANISATION des NATIONS UNIES No. 21834. FRANCE AND TOGO: Asigned alLone on on barch 19% field of information. Registered pv. France on 12…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760091_010_s1.pdf",
+  "source_filename": "tra19760091_010_s1.pdf",
+  "source_sha256": "7164079706beb521bac5f67bf40a11fa7cc897a49b5ad8bc99031e25fbabf3ae",
+  "treaty_id": "TRA19760091",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES\n\nNo. 29868\n\nCERTIFICATE of REGISTRATION\n\nThe SECRETARY-GENERAL of the UNITED NATIONS has been registered\n\nARt ete 10206 ne Charter or ene united nat ingordancement\n\naccordance with\n\nCERTIFICAT d'ENREGISTREMENT\n\nLe SECRETAIRE GENERAL de l'ORGANISATION des NATIONS UNIES\n\nNo. 21834. FRANCE AND TOGO:\n\nAsigned alLone on on barch 19%\n\nfield of information.\n\nRegistered pv. France on 12 April 1983.\n\nNo 21834. FRANCE ET TOGO :\n\nAcCe 23 mars fération en matière d'information. Signé à Lomé\n\nEnregistré par la France le 12 avril 1993.\n\nUNITED NATIONS\n\nLe Conseiller juridique:\n\nDone at\n\nNew York on 11 November\n\n1986\n\nFor the SECRETARY-GENERAL\n\nThe Legal Counse!\n\nORGCNISATON DES\n\nFait à New York le 11 novembre 1986\n\nPour le SECRETAIRE GENERAL",
+      "quality_score": 0.9289,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760088_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.472046,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.461263,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.455286,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19820085_008_s1",
+      "title": "Certificat de l'enregistrement no 24657",
+      "score": 0.442949,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810111_100_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.438468,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760090_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.43711,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810127_011_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.430889,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19860200_100_s1",
+      "title": "Certificat ONU d'enregistrement de l'accord",
+      "score": 0.430098,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610286_100_s1",
+      "title": "Certificat ONU d'enregistrement du Traité",
+      "score": 0.428702,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_100_s1",
+      "title": "Certificat ONU d'enregistrement de la convention",
+      "score": 0.425225,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

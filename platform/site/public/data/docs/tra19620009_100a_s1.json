@@ -1,0 +1,70 @@
+{
+  "document_id": "tra19620009_100a_s1",
+  "title": "Carte annexe à l'accord",
+  "year": 1962,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "de",
+    "en",
+    "et",
+    "pt"
+  ],
+  "quality_score": 0.7996,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "ЗТЯЗІв ЯЗОЛА ЗИІТИ АТЕНОЗ 3 3 Я ae munenei Corrido a du سد السيا •ТАВАЯ LJBAZAD หวรมิคสA SW6BI2E2 DER тизиАмязЯ JOACU 30 LECKRIONE? TANGER RABATS FES O CASABLANCA MARRAKECH S A LEGENDE - EMPRISES DES USAGE PERMANENT INSTALLATIONS - STATIONS LOCALISATION TECHNIQUES DE • Tabelbala ORAN • Colomb. Béchar Hammaguir • Béni Abbàs H A Reggane ALGER E R G R Bu In-Eker • Tim. Missao Silet • Timdjaouine CONSTANTINE BIZERTE TUN…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19620009_100a_s1.pdf",
+  "source_filename": "tra19620009_100a_s1.pdf",
+  "source_sha256": "722d9be5c946c671ee152ed1ce8b2dd3c6f4c2ae177412194a3da64efb42337a",
+  "treaty_id": "TRA19620009",
+  "treaty_number": "100 A",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ЗТЯЗІв\n\nЯЗОЛА\n\nЗИІТИ АТЕНОЗ\n\n3 3\n\nЯ\n\nae munenei\n\nCorrido a du\n\nسد السيا •ТАВАЯ\n\nLJBAZAD\n\nหวรมิคสA\n\nSW6BI2E2 DER\n\nтизиАмязЯ\n\nJOACU\n\n30\n\nLECKRIONE?",
+      "quality_score": 0.7464,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "et",
+        "pt",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "TANGER\n\nRABATS\n\nFES O\n\nCASABLANCA\n\nMARRAKECH\n\nS\n\nA\n\nLEGENDE\n\n- EMPRISES\n\nDES\n\nUSAGE\n\nPERMANENT\n\nINSTALLATIONS\n\n- STATIONS\n\nLOCALISATION\n\nTECHNIQUES\n\nDE\n\n• Tabelbala\n\nORAN\n\n• Colomb. Béchar\n\nHammaguir\n\n• Béni Abbàs\n\nH\n\nA\n\nReggane\n\nALGER\n\nE\n\nR\n\nG\n\nR\n\nBu In-Eker\n\n• Tim. Missao\n\nSilet\n\n• Timdjaouine\n\nCONSTANTINE\n\nBIZERTE\n\nTUNIS\n\nE\n\nQUARGLA\n\nA\n\nE.M.G.D.N. Dessin Sign Repr. N°",
+      "quality_score": 0.8528,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_42_s1",
+  "title": "Pouvoirs de signature de la Norvège",
+  "year": 1948,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9297,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassade de Norvège Bureau International des Expoattiona, t Je soussigné, Rolf ANDVORD, Ambassadeur de Norvège à Paris, déclare par la présente que 1e Gouvernement norvégien a donné plein pouvoir à l'Attaché de Presse de l'Ambassade, Monsieur E, BUGGE MAHRT, de signer eu nom de la Norvége le Protocole modifisnt la Convention du 22 Novembre 1928, dont le contenu a été arrêté et approuvé per les Parties Contractantes…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_42_s1.pdf",
+  "source_filename": "19480001_42_s1.pdf",
+  "source_sha256": "d075572ad3b8105a0bfc809797f68bafbfdaaa9bc89fcd4648285b745e7ea6e8",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "NOR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassade de Norvège\n\nBureau International des Expoattiona,\n\nt\n\nJe soussigné, Rolf ANDVORD, Ambassadeur de\n\nNorvège à Paris, déclare par la présente que 1e\n\nGouvernement norvégien a donné plein pouvoir à l'Attaché de Presse de l'Ambassade, Monsieur E, BUGGE MAHRT, de signer eu nom de la Norvége le Protocole modifisnt la\n\nConvention du 22 Novembre 1928, dont le contenu a été arrêté et approuvé per les Parties Contractantes au cours de l'année 1946,\n\nParis, le 18 Juin 1948,\n\nMuy Bet à",
+      "quality_score": 0.9297,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.409349,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_43_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.402683,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_071_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.383961,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_56_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.374634,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_40_s1",
+      "title": "Pouvoirs de signature du Danemark",
+      "score": 0.369017,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_06_s1",
+      "title": "Instrument d'adhésion au protocole de 1948 de l'Allemagne fédérale",
+      "score": 0.36882,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_08_s1",
+      "title": "Note verbale d'adhésion au protocole de 1948 de l'Autriche",
+      "score": 0.368498,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_18_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.367863,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_29_s1",
+      "title": "Pouvoirs de signature au Japon",
+      "score": 0.366428,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.365051,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,1152 @@
+{
+  "document_id": "tra18580012_004_s1",
+  "title": "Annexe du traité (accords commerciaux)",
+  "year": 1858,
+  "doc_type": "Autre",
+  "languages": [
+    "af",
+    "ca",
+    "cs",
+    "de",
+    "en",
+    "et",
+    "hu",
+    "id",
+    "ja",
+    "ko",
+    "nl",
+    "no",
+    "pl",
+    "pt",
+    "ro",
+    "sl",
+    "so",
+    "tl",
+    "vi"
+  ],
+  "quality_score": 0.6466,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "P rmm Dee FA 2 . yO 和 和 4 吕 Ro Pe (A ‘eno? > dés COE . * _ Fagot RS ei hg を Ra ee eg SE RS Re i VS ea mW i sesanesntea ~~ re ee ;六 cM 和 罗 人 兴 国 癌 \"8 总 昌 这 No Die : / ER Re ma RE < SYN DD Rd te FV きき る ンス 科 生井 i SE ee a ome NNE TRE 培 。 3 Slain = ¢ EEE ee ee 4 牧 一 时 4 网 一 ae A A | / een ao SA 4 NS PO Ee ENS SS Ane 一 RDAY RR I / SR 4 me z SLs dts (~— OAR WA 4 Mri ER SRC | D SN ROSS OR ES Mh En ny ” eo ee 各 a gE eets er…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18580012_004_s1.pdf",
+  "source_filename": "tra18580012_004_s1.pdf",
+  "source_sha256": "299fd47fa167a98837966bb68aba4c1df0891e6b71fb58f4e7e8600d95b37f7d",
+  "treaty_id": "TRA18580012",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "P\n\nrmm\n\nDee\n\nFA",
+      "quality_score": 0.6881,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "2\n\n. yO 和 和 4 吕 Ro\n\nPe (A ‘eno?",
+      "quality_score": 0.5026,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": ">\n\ndés COE . *",
+      "quality_score": 0.7595,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "_ Fagot RS ei hg\n\nを Ra ee\n\neg SE RS Re\n\ni VS ea\n\nmW i sesanesntea ~~",
+      "quality_score": 0.5735,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "no",
+        "ro"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "re ee ;六 cM 和 罗 人 兴 国 癌 \"8 总 昌 这\n\nNo Die :\n\n/ ER\n\nRe ma\n\nRE < SYN DD",
+      "quality_score": 0.565,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "af",
+        "ro"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Rd te FV\n\nきき る ンス 科 生井\n\ni SE ee a ome NNE TRE\n\n培 。 3 Slain = ¢",
+      "quality_score": 0.5633,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en",
+        "et"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "EEE ee ee\n\n4 牧 一 时 4 网 一 ae\n\nA A | /\n\neen ao SA\n\n4 NS PO Ee\n\nENS SS Ane 一 RDAY RR I",
+      "quality_score": 0.5563,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "/ SR 4 me z\n\nSLs dts (~—\n\nOAR WA 4 Mri\n\nER SRC\n\n| D SN\n\nROSS OR ES Mh En",
+      "quality_score": 0.5984,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "ny ” eo ee 各 a\n\ngE eets ern\n\nagree tte eo\n\nsa",
+      "quality_score": 0.639,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "/ | Sa (——\n\neo ee\n\n2 oS Ns z\n\nTS re\n\nRR z\n\nse 六 Ww 难 汪 从 a >",
+      "quality_score": 0.4963,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en",
+        "pl",
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Re A RR OE\n\ni REI 4\n\nBR TRATES SRL\n\nlaa rd Et\n\na RE NER",
+      "quality_score": 0.6648,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "ca",
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "2 \"NS RR Se -EAOAM\n\nRS 入 但 NE\n\nA sen EE\n\nNN bY) 十 AG 一 一 / z :\n\nEp\n\nTt eT Te i 2 De 2 rt er rm\"",
+      "quality_score": 0.5753,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "彼む（～",
+      "quality_score": 0.6712,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "ER I HEA DN\n\nA Pd EC a LS\n\nRONAR OT Tne eR un\n\nRR a ge\n\nSL\n\nーー に うさ 3 こら エー ご と に > も ーーー マル ーー アッ ーー ーー",
+      "quality_score": 0.6086,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Er 2 ne (hes\n\nSD 、 tm A ee A A\n\nth",
+      "quality_score": 0.5954,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "a Rt) octeacer EN ke LS\n\nA ES Tee RA O\n\nKe RAR SN RE\n\nRAR RN",
+      "quality_score": 0.6524,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Rep\n\nee Re en 6 dA\n\nSS\n\nee\n\nRd\n\nP ” A\n\nで -\n\n人 軍 = お , SS\n\nea 、 )\n\nSore te\n\nnes\n\nwe\n\nA NE\n\n“ ein 0\n\nRe",
+      "quality_score": 0.571,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "af",
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "如 Re , 痕 4( 一 各 /\n\ni. A ER\n\nNS RR RS ( 世 册 YoSEY\n\n下 (一 加 洁 SR SR :\n\n| PS AR AR KE\n\nECT 4 SC A Cs\n\nA eT nD A",
+      "quality_score": 0.5319,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en",
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "きく くき es wt\n\nKAR\n\nくい eb gi aced\n\nEA eR et\n\nseL eon\n\nに よさ A Se\n\nRY\n\nRN ) ペ\n\nree a ERS a ~~\n\nEA i",
+      "quality_score": 0.5836,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en",
+        "ca",
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "DOSS S20 —\n\n从 NA— A Ng SAR\n\nm4N 芝 XE /NAH 一 鞍 SH 守 SB 六 馆 扩\n\nLe SH (NY (—\n\nEAN 并 久 SQ RN",
+      "quality_score": 0.5421,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "vi",
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "WA Re NXE\n\n(一\n\nA\n\nWE( AASRS 及 SP 妇 姑 L443 一 庙\n\nCT EER\n\n逆 CE",
+      "quality_score": 0.575,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "半 er tk A ey A 尖 宅\n\nAEN NE LN NA\n\nER\n\nA\n\nRT ST A\n\n7A fc NA",
+      "quality_score": 0.5701,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "过 oe i\n\nEEE RA SA 人 尽 例 民 “eA\n\n\\Q “SV . s :\n\na / NR EN A NASA\n\nX 研 eh te\n\nek",
+      "quality_score": 0.5315,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en",
+        "et",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "Xe\n\nNS\n\nSTE NR\n\nRC RE\n\n” oe",
+      "quality_score": 0.7173,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "RL EI ENGIULME KAN\n\nEE ES RS\n\n] RA < >\n\nER SR ]",
+      "quality_score": 0.7238,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 26,
+      "text": "人 xX eg 人 NNR 个 人 兴 宇 党 大 和\n\nA 人 NNING 人 ME z\n\nDi A 必 安 S\n\nee 沪 才 人 sae > (—",
+      "quality_score": 0.5596,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "hu",
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 27,
+      "text": "村 坟 < 玉 区 罗 SEA 和 站- 造 和 叶\n\nOS A RS\n\n和 SK A",
+      "quality_score": 0.526,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "ko",
+        "vi",
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 28,
+      "text": "小 开 /\n\n- vv NS RE a /\n\n/ ,AL 中 CR XK Fe\n\nWELDS 江 0 z\n\n| RE",
+      "quality_score": 0.479,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "sl",
+        "ro",
+        "cs"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 29,
+      "text": "SRA",
+      "quality_score": 0.5948,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 30,
+      "text": "加 -ie 达\n\nA (A :\n\n: a XS 潮 ke Si\n\n4 所 二 <S 员 - 好 S(- 一 -",
+      "quality_score": 0.5001,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 31,
+      "text": "和 ns Krad\n\nTe oe z\n\nSe 信人 se",
+      "quality_score": 0.6058,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 32,
+      "text": "和 5 We A ER\n\n< 次 时 S E42 CRE CI\n\n在 一 六 翅 入 4 (—\n\n王 i ENS FUE a /",
+      "quality_score": 0.5564,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 33,
+      "text": "— re i\n\na\n\n| ay 汪 慨 全 (— -\n\nRR Sd Fe A\n\nWN SS Se\n\nEi",
+      "quality_score": 0.4813,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 34,
+      "text": "E\n\nSAS",
+      "quality_score": 0.682,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 35,
+      "text": "i A A\n\nee bs > /\n\ngad",
+      "quality_score": 0.5415,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 36,
+      "text": "ax»\n\n4\n\n‘ s\n\nE\n\n| . \"\n\n4\n\nH\n\n1 vx\n\n. i\n\n'\n\n*\n\n^\n\n3\n\nH\n\ns\n\n\" I\n\nà ^\n\nN",
+      "quality_score": 0.5763,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 37,
+      "text": "13 or",
+      "quality_score": 0.7734,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 38,
+      "text": ". ——————— \" MISERE Xa NN CEE QT tont eI reet rA AUT n Mu j a —* 7 :\n\n7: ‘ .\n\n. . 2 x E & M \"\n\np\n\nxe\n\n*",
+      "quality_score": 0.6063,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "ca",
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 39,
+      "text": "U U",
+      "quality_score": 0.632,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 40,
+      "text": "z iakon Ren ET a= ROSENN +\n\nMW A EDN\n\nKRAKAR aR daua AIr Ppa saaa nD >\n\nMAHDI naj Ruaa Pa PADS Ua An ANAN\n\nYANNAN PAIAS IRA RA ANASN anem harm ARKADA in\n\nRaba WADA RaT ASDAL ET NDAN DAY ENN apb? PÁ na\n\nDA ANa siwara oane? REDSD PAAR SANS PA",
+      "quality_score": 0.7034,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "tl",
+        "id"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 41,
+      "text": "* 5 - 4 :\n\nÀ\n\n4 tl > ,\n\n» ^ * .\n\n» | .\n\nà i f 1 .\n\n# [4\n\n* ^ ^ í . #\n\n. \"\n\n\" ) ] * : i\n\n\"\n\n+ , . .\n\nE . :\n\n; 4 a ‘ . * \"\n\nni A\n\n; * T . La [ a\n\n. . .\n\na : +\n\n1 a , \"\n\nhd 7 4 H . i E ! A °\n\n- E € t # $ V^ & 1 KA ‘ € ^\n\nS H\n\nÀ E , + \"\n\nNutt\n\nHo Es i\n\nOUT AE\n\ndr - uu #\n\nem . * duet\n\nAv | prn D 3 4 $9 .\n\nTY . à , .\n\n- » . ^ z ;\n\nà .\n\n; |, .\n\n15 .\n\nae ;\n\nr\n\nq ke 4 E : E 1\n\n3 à \"\n\n1 »\n\ne",
+      "quality_score": 0.5976,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 42,
+      "text": "ニッポン/ジフ\n\nノチニアラタメカフルコトアルカ マタハ ソートキニオクレテ コクショニオイ\n\nサシダシイタスニツキテハハナ\\フランクノ、チンギンフハラフベシ\n\nコクショノウチニノセザル スベテノシナコレヲヲカニアグルトキハ ニデュウ",
+      "quality_score": 0.7409,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 43,
+      "text": "RK RVR va BEAR PAE MARNE, emot\n\nDAR YPN =A WRC IN REAL MS RARE PRES\n\nvitre\n\nRDA | sun vat wre TA AF AN MUR NOT]\n\nSET fe nie EAN AN Dah PTS ESA SL À AN ^M\n\nTwo ANN PNDIN AAA ARETE DI RARE m 1\n\nadm O REA ME ES ADRS na mS\n\n(OQ RUN PAL\n\nOMS ORAS ANSA T DARPA CORN Sm",
+      "quality_score": 0.7234,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 44,
+      "text": "テイゾルマディアヒダハニッポンノ“ヤクニンヨリ・コレニインジャウソー\n\nナシニヒラキマタハインジャウソノホカーフウジモノヲヤブリ マタハ\n\nトリノゾクヒトアラバ カラノゴトラオカシタルビトビトオカンタルゴト オカンタルゴト\n\n=三百二十四フランクククワレウラバラフベン",
+      "quality_score": 0.7608,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 45,
+      "text": "ニチゴトニ 三百二十四フランクノ クワレウヲ・ハラフベシ\n\nニッポンヤクショハソノミナトウチノフチゴトニ「イクサフチナチノッキ」 ウンジ\n\nヤウヤクニンヲ サンラクコトタウゼンナリ•スイテウンジャウヤクニンラティ\n\n子イニトリアリカとソノファナニテナルベキサウオウノ ヨウジヲタッスペシー\n\n0ヒノイリテイゾルマデノ・アヒダハウンジャウヤクシヨノヤクニンヨリベツ\n\nダンクュルンアルホわハフマヨリシナモノラオロスベカラスマタディリジチ",
+      "quality_score": 0.7073,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 46,
+      "text": "ハラフバシ\n\nシュフクラ\n\nグベシカクノゴトクヲカニアゲタルスベテクシナハニッポン/ヤクニンアッカリ\n\nスコトナルベンシカンスベテ・ホカノフ子へ.ウツスコトハニッポン/ヤクニンへ",
+      "quality_score": 0.7137,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 47,
+      "text": "シナジャム\n\nオコブベン\n\nニッポンヤクンヨノ・シュナフヲサマタゲンシュイニア モクロクガキノ ウチミ/セ\n\nサルトコロノアタヒアル・シナジナヲツ・ミニンナノウチニカクシアラバン/ツンミン\n\nナハトリアグベシ\n\nモシフランスノフチ”ニッポンノビラカザルミナトニテシナモノヲカクン アキナビ\n\nヨニトリアグベシナラビニソノフ子 オカシタルゴトニ 五千四百フランクノ",
+      "quality_score": 0.7113,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 48,
+      "text": "第三ノキリク\n\nゴェー\n\nシュダカハソノサンダンガキノスユニシルスベン・サンダンガキニハイチイチ",
+      "quality_score": 0.7635,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 49,
+      "text": "ケンブンニテウンジャウヤクショノヤクニンニソノシゴト/タバンキコト/シラベジフ\n\n・ブンニトバイテーチソノヤクニンヨリワタスユルシガキヲモツテイタスベン\n\nアヘンラ モチワタルコトハ+\n\nアインノメカタ 三ギショリオホクフチウチニモチラルトキハソ/ヨブンハニツ\n\nホンノヤクニントリアグベン\n\nヒトビトハカクノゴトクカクシアキナヒマタハカクン アキナハント コーロミタル\n\nタイン ーキンゴトニツキハナーフランク クワレウラハラフベシ",
+      "quality_score": 0.7271,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 50,
+      "text": "ニッポンハガクリン、カクスコーク「サンダンライダンタルツミー=ミマタハン コトゴトラシラブバシ0ソノタタコレラウンジャウヤクショ（オクルベンシャ\n\nシソフトリシラベハシナモノラモチワタリタルヒトノツイエナクマタシナ\n\nユノトリシラベハフサウオウノテマトリナク・イタスバン\n\nモーチハコブトチウニティ、ソンジヲミダストキハウンジャウヤクショノヤクニ",
+      "quality_score": 0.7458,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 51,
+      "text": "#tn M +4413 RHAnilh AtIRR'",
+      "quality_score": 0.6517,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 52,
+      "text": "ベカラス\n\nウンジャウラハテビテクチモチヌシュルンガキラ・ウケトルベンシナモノ、ワタシ\n\nグワイコクニモチダスニーキハマリタルズバテス シナハ フチニオクルイゼン\n\nナラビニタタビラシルスベシ0．サンダンガキハソノウチニノセタル！スバラクシナへ.\n\nコレニナラシル",
+      "quality_score": 0.7341,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 53,
+      "text": "ンソノソンジヲシラセソンジタルシナモノラ・ソク・シヨクブシニシテタバシキと\n\n=トリシラベテノチツミゴトクソンジタカラブワリミンル（ソクシルシジ\n\nナラシルスベシマタ\n\nメシトホリニシナモノ、チダンヲックルニツキテウンジャウシヨ/ヤクニン（サマタグ",
+      "quality_score": 0.7389,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 54,
+      "text": "ヤクショー ツゲミラスベシ\n\nテカズニツキ ダウリアリシカシソクミナトライゾルテカズヲイナムトキハ\n\nウンジャウヤクショノヤクニショリカビタインマタハソノフ子ノサシムケサ\n\nキノヒト、スグニミナトライゾルテカズライナムワケラノベマタコノコトラ\n\nヤウヤラニンマタハマハリカタノヤクニン キタラザルイシ",
+      "quality_score": 0.7588,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 55,
+      "text": "スペッ\n\nウンジャウヤクショへサンダンヲイダスイゼンニグワイコク（ モチダスタメ\n\nフ子=オクリタルシナモノナラビニスペテキンゼイノ。シナシナヨ・イレタル\n\nツーミハニツボンノヤクショニトリアグベシ",
+      "quality_score": 0.7121,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 56,
+      "text": "フ子トイフ\n\nペルラ ペルライフト スバン",
+      "quality_score": 0.7519,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 57,
+      "text": "フランスノタヨリラオクルジョウキブ子ハ・オナジヒニミナトイリオランニ）\n\nサラビニーシナモノリツイテノホカハコクショライダスニオヨバザルベルシカ シコノジョウキブ子ハ ソノタビゴトニウンジャヴ、ヤクショニミナトイリサラビニ\n\nミナトライゾルテカズハ イタスペシ\n\nコクショライダスニオヨバズシカシソノフ子. カウエキラ子ガフトキハ\n\n第一ノキックニ・サダコントホリノコクショラアックベン",
+      "quality_score": 0.7136,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 58,
+      "text": "スベテ\n\nクガキー・トホリニッポンヤクショへハラフベンシ\n\n・スベテ：コノルキノウチニシルシタルシナジナハウンジャウラ\n\n・キンギンゼミニツクリタルモマタハツクラザルモ-\n\nカザイナラビニーハンポンコレハウルタタト サダメザルモノ",
+      "quality_score": 0.7811,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 59,
+      "text": "ニッポン シカシッギノ チンギンハニッポンウンジャウショノヤクニンへハラフベシ\n\n三十七フランクハナサンチーム\n\nハフランクナサンチーム",
+      "quality_score": 0.7385,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 60,
+      "text": "パンナラビニパンノモト\n\nイキタルトリケモノノ スベテノル丼",
+      "quality_score": 0.7302,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 61,
+      "text": "ツギノ・シナジナニハ五ブ/ウンジャウラハラフベン",
+      "quality_score": 0.7018,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 62,
+      "text": "スバテ・マイノル井ノウチニシルササルシナモノニハニワリノ.ワン\n\nジャウラハラフベシ\n\nツウヨウキンギンナラビニアカガチノホカスベテニッポンニ\n\nデキルシナラツミニモツトシテ モチィダストキハブー",
+      "quality_score": 0.7058,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 63,
+      "text": "WX» rm\n\nW da",
+      "quality_score": 0.7328,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 64,
+      "text": "的與充為",
+      "quality_score": 0.6596,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 65,
+      "text": "、リヨカクノタメニソノジフブン/ダクハイタアタフベン\n\nフランスノフ子ニテ ニッポンへとラキタルミナトニ・モチワタリタル\n\nグワイコク/コクモッハ モシリノーワケヲヲカ（アデザルトキハ\n\nミツポンヤクショョリオホヤケノイレフダニテ．ウリハライベン\n\nカナガハラとライテノチ五子ンニフランス・マタハニツポンセイフコレョンズム",
+      "quality_score": 0.7417,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 66,
+      "text": "ge € 1 te > = ~~ -- » ei\n\nYR\n\nENT = d 9 * &, Kw\n\n* Be ^ - - m . Lo\n\n- . . . . x\n\n- ^ E\n\n= | .\n\n\" à \" .\n\n>\n\nA S\n\n\"ds\n\n- \" + =\n\ne e » -\n\nA. - etm € H\n\nP\n\nE + LS\n\n\"\n\neg - z 4 pe -\n\na a ^ ) » x .\n\nt ë . -\n\n»\n\nPA\n\n. . . . E se\n\nDEN SE.\n\nNC\n\n- Ne 7\n\nE\n\nix ame 7 ^ + » ;\n\n- H Ld + 4 M »- B\n\nT * Le -\n\n. -",
+      "quality_score": 0.6003,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "ca",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 67,
+      "text": "再為 porters",
+      "quality_score": 0.7477,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 68,
+      "text": "EN\n\n-\n\nde\n\nE\n\nà\n\n»\n\nEr",
+      "quality_score": 0.7026,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18580012_015_s1",
+      "title": "Traité et règlements commerciaux",
+      "score": 0.8666,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_005_s1",
+      "title": "Ratification japonaise",
+      "score": 0.742232,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16940005_001",
+      "title": "Textes de divers traités (1694-1820)",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19730140_005",
+      "title": "Instrument iranien",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16630006_001_s1",
+      "title": "Texte du traité (ensemble texte des pouvoirs danois et des pouvoirs français)",
+      "score": 0.429746,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17630001_001_s1",
+      "title": "Accord (ensemble un article séparé) (ensemble texte des pouvoirs français, britanniques et espagnols)",
+      "score": 0.413763,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_003_s1",
+      "title": "Protocole des conclusions de la commission de délimitation des zones démilitarisées des détroits",
+      "score": 0.412548,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_004_s1",
+      "title": "Protocole des conclusions de la commission de délimitation des zones démilitarisées des détroits",
+      "score": 0.409648,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_030_s1",
+      "title": "Traité de paix entre la France et la Savoie",
+      "score": 0.407678,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_003_s1",
+      "title": "Texte du traité OU Texte du projet de traité",
+      "score": 0.406177,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

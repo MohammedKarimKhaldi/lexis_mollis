@@ -1,0 +1,353 @@
+{
+  "document_id": "20220216_np_can_mlsa_veng_s1",
+  "title": "Accord",
+  "year": 2022,
+  "doc_type": "Accord",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.8932,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "AGREEMENT BETWEEN THE GOVERNMENT OF THE FRENCH REPUBLIC AND THE GOVERNMENT OF CANADA CONCERNING THE PROVISION OF MUTUAL LOGISTIC SUPPORT BETWEEN THE FRENCH ARMED FORCES AND THE CANADIAN ARMED FORCES THE GOVERNMENT OF THE FRENCH REPUBLIC AND THE GOVERNMENT OF CANADA (hereinafter the \"Parties\"): CONSIDERING their long-standing friendly relations; DESIRING to strengthen the rationalization, interoperability, readiness…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/20220216_np_can_mlsa_veng_s1.pdf",
+  "source_filename": "20220216_np_can_mlsa_veng_s1.pdf",
+  "source_sha256": "ba1c29143e60ecef5d929716027a48105f2d56f4ca0c4b434beb40525bf4d72b",
+  "treaty_id": "TRA20220132",
+  "treaty_number": "001b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AGREEMENT\n\nBETWEEN\n\nTHE GOVERNMENT OF THE FRENCH REPUBLIC\n\nAND\n\nTHE GOVERNMENT OF CANADA\n\nCONCERNING THE PROVISION OF MUTUAL LOGISTIC SUPPORT\n\nBETWEEN THE FRENCH ARMED FORCES\n\nAND THE CANADIAN ARMED FORCES",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "THE GOVERNMENT OF THE FRENCH REPUBLIC AND THE GOVERNMENT OF\n\nCANADA (hereinafter the \"Parties\"):\n\nCONSIDERING their long-standing friendly relations;\n\nDESIRING to strengthen the rationalization, interoperability, readiness and effectiveness of their respective armed forces through greater co-operation;\n\nDESIRING to define the terms and conditions for providing mutual logistic support, supplies and services, and to ensure fairness in reciprocal arrangements;\n\nCONSIDERING the Agreement between the Parties to the North Atlantic Treaty regarding the\n\nStatus of their Forces, signed in London on 19 June 1951 (hereinafter referred to as the \"NATO\n\nSOFA\");\n\nCONSIDERING the General Security Agreement Between the Government of the French\n\nRepublic and the Government of Canada Concerning the Exchange of Classified Information of Defence Interest, signed in Hull on 18 February 1988 (hereinafter referred to as the \"Security\n\nAgreement\"); and\n\nBEARING IN MIND the letter dated 26 August 2015 and signed by the French and Canadian co-chairs of the Franco-Canadian Military Cooperation Committee (FCMCC),\n\nHAVE AGREED as follows:\n\nARTICLE 1\n\nPurpose and Scope\n\n1.\n\nThis Agreement is for the provision of Logistic Support, Supplies and Services to the armed forces of one Party, including their civilian component, by those of the other Party. This\n\nAgreement applies between the French Armed Forces and the Canadian Armed Forces, wherever in the world they may be, in the course of joint exercises, training, instruction, operations, joint deployments or other cooperation initiatives.\n\n2.\n\nThe annexes form an integral part of this Agreement and set out the general ordering procedures to be implemented and the specific procedures that apply to particular types of support, as well the Points of Contact for each Party.\n\n2",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "ARTICLE 2\n\nDefinitions\n\nFor the purposes of this Agreement and any Implementing Arrangement for specific procedures, the following definitions apply:\n\n\"Implementing Arrangement\" means an arrangement setting out the additional details concerning the provisions applicable in the case of routine mutual support or where the scope or complexity of the Logistic Support, Supplies and Services, or the nature of the activities, requires specific procedures other than those already set out in this Agreement;\n\nb)\n\n\"Logistic Support, Supplies and Services Request, Receipt or Invoice Form\" ('LSSS\n\nForm\") means a printout matching the form appearing in Annex A to this Agreement;\n\nc)\n\n\"Order\" means a written request for the provision of Logistic Support, Supplies and\n\nServices, signed by a POC pursuant to an LSSS Form or an Implementing Arrangement;\n\nd)\n\n\"Contractor\" means any person or entity other than a Party that is hired by one Party on a commercial basis to provide supplies or services to the other Party;\n\ne) \"Exchange for Equal Value\" means the payment of a Transfer made under this\n\nAgreement and by which the Requesting Party replaces the Logistic Support, Supplies and\n\nServices that it receives with Logistic Support, Supplies and Services of equivalent monetary value;\n\nf)\n\n\"Invoice\" means a document submitted by the Supplying Party, requesting reimbursement or payment of Logistic Support, Supplies or Services;\n\ng)\n\n\"Classified Information\" means any information, document and material of any type, bearing, as assigned by one of the Parties, one of the levels of classification or protection set forth in the Security Agreement and in accordance with the Parties' national laws and regulations, regardless of whether that information, document and material is transmitted in writing, orally or visually;\n\nh)\n\nServices;\n\n\"Supplying Party\" means the Party that provides the Logistic Support, Supplies and \"Requesting Party\" means the Party that requests and receives the Logistic Support,\n\nSupplies and Services;\n\n\"Point of Contact\" (POC) means an entity designated in Annex C to this Agreement or in an Implementing Arrangement as being authorized by a Party to sign an Order requesting the provision of Logistic Support, Supplies and Services under this Agreement, or to agree to\n\n3",
+      "quality_score": 0.9986,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "provide Logistic Support, Supplies and Services, or to receive or make payments for the\n\nLogistic Support, Supplies and Services provided or received;\n\nk)\n\n\"Unit Price\" means the price paid at the time the Requesting Party acquired Logistic\n\nSupport, Supplies or Services for one unit of these supplies and services, not including any additional general expenses such as administrative overheads or handling charges;\n\n1)\n\n\"Replacement in Kind\" means the payment of a Transfer made under this Agreement for which the Requesting Party undertakes to replace the Logistic Support, Supplies and\n\nServices it receives with identical or substantially identical Logistic Support, Supplies and\n\nServices, in accordance with the conditions mutually agreed on by the Parties' competent authorities;\n\nm)\n\n\"Logistic Support, Supplies and Services\" means food, water, billeting, transportation (including airlift), petroleum, oils, lubricants, clothing, communications services, medical services, ammunition, base operations support (and construction incident to base operations support), storage services, use of facilities, training services, spare parts and components, repair and maintenance services, calibration services, port and airport services, and military capacities as well as the temporary use of general purpose vehicles and other non-lethal items of military equipment, where such use is permitted under the national laws and regulations of the Parties;\n\nn)\n\n\"Transfer\" means the sale (in the form of a Reimbursable Transaction, a Replacement in Kind or an Exchange for Equal Value), lease, loan or any other form of temporary provision of Logistic Support, Supplies and Services in accordance with this Agreement; and 0)\n\n\"Reimbursable Transaction\" means a transaction by which the Requesting Party reimburses the Supplying Party through a payment in cash.\n\nARTICLE 3\n\nGeneral Provisions\n\n1.\n\nEach Party shall do everything in its power, in accordance with its national priorities, to fulfill requests for Logistic Support, Supplies and Services from the other Party, but is not required to provide Logistic Support, Supplies and Services that would impair the support of its own needs or other commitments.\n\n2.\n\nA request for Logistic Support, Supplies and Services between the Parties shall be made by means of an Order. An Order can only be placed, issued and accepted by the POCs identified in Annex C to this Agreement or pursuant to an Implementing Arrangement. The procedures for ordering Logistic Support, Supplies and Services, and the documents and information to be provided are defined in Annex A to this Agreement.\n\n4",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "3.\n\nOwing to the administrative and payment procedures specific to the French armed forces, any Order for fuel, oil or lubricant must be placed separately from other Orders for\n\nLogistic Support, Supplies and Services.\n\n4.\n\nThe Requesting Party shall have access, on a reciprocal basis, to the military medical services on the bases of the Supplying Party, subject to the same conditions as those applicable to the personnel of the armed forces of the Supplying Party. Where the military medical services cannot meet the needs of the staff of the armed forces of the Requesting Party using existing resources, the Supplying Party shall do everything in its power to facilitate access to its civilian medical services, at the Requesting Party's expense.\n\n5.\n\nThe following items shall not be supplied under this Agreement and are expressly excluded from its application:\n\na) weapons or weapons systems;\n\nb)\n\nmajor end items, except for the lease or loan of general purpose vehicles and other non-lethal military equipment;\n\nmissiles and guided munitions; and\n\nd) any item whose Transfer is prohibited by the national laws and regulations in force within the territory of each Party.\n\n6.\n\nThe Requesting Party acknowledges that in all transactions involving the Transfer of\n\nLogistic Support, Supplies or Services this Logistic Support, these Supplies or these Services are not to be retransferred, be it temporarily or permanently, in any manner whatsoever, to a recipient other than the armed forces of the Requesting Party, unless the Supplying Party has first consented in writing to such a retransfer.\n\nEach Party shall take all the measures available to it to ensure that sensitive commercial information provided or produced pursuant to this Agreement is protected from any disclosure to third parties, unless the other Party consents to it.\n\nThe provision of Logistic Support, Supplies and Services between the Parties shall be done in compliance with the national laws and regulations in force within the territory of each\n\nParty, and in accordance with international law.\n\nARTICLE 4\n\nFinancial Provisions\n\n1.\n\nThe Unit Price of Logistic Support, Supplies and Services supplied to the Requesting\n\nParty is set by the Supplying Party, and this price must not be less favourable than the price applicable to the armed forces of the Supplying Party for identical Logistic Support, Supplies and Services. The Unit Price includes the costs provided for by the national laws and regulations in force within the territory of the Supplying Party, including the applicable law and procedures regarding taxation. Information regarding the cost of the requested Logistic Support, Supplies\n\n5",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "and Services shall be obtained through consultations between the Parties. Payments shall be made in the currency of the Supplying Party.\n\n2.\n\nThe Parties shall determine together whether payment of the Logistic Support, Supplies and Services shall be made in cash (Reimbursable Transaction), by payment in kind (Replacement in Kind transaction) or through an exchange for equal value (Exchange for Equal\n\nValue transaction). The Requesting Party shall pay the Supplying Party in accordance with the terms and conditions set out in paragraphs 3, 4 or 5, as applicable, and in accordance with the mutual pricing principles set out in Annex B to this Agreement. Each Party shall keep records of all transactions. The Parties shall decide on the method of payment together, using the LSSS\n\nForm, before the Logistic Support, Supplies and Services are provided. If the method of payment is not decided before the Logistic Support, Supplies and Services are provided, and if the Parties cannot agree on the method of payment after the Logistic Support, Supplies and\n\nServices have been provided, payment shall be made in cash in accordance with paragraph 3.\n\n3.\n\nReimbursable transaction. The Supplying Party shall submit an LSSS Form to the\n\nRequesting Party as supporting documentation for an Invoice, as applicable, after having provided the Logistic Support, Supplies and Services. The Requesting Party shall endeavour to settle the amount owed within sixty (60) days from the date of receipt of the Invoice and the\n\nLSSS Form. If no payment is made within sixty (60) days from the date of receipt of the Invoice and the LSSS Form, the Supplying Party may invoice, as applicable, the Requesting Party for a penalty, to be calculated in accordance with the national laws and regulations of the Supplying\n\nParty. The Parties acknowledge that the following principles shall apply in determining the amount of a Reimbursable Transaction:\n\na) in the case of a specific acquisition of Logistic Support, Supplies and Services for the\n\nRequesting Party by the Supplying Party from its Contractors, the Unit Price shall be no less favourable than the price invoiced by the Contractor to the armed forces of the Supplying Party for identical Logistic Support, Supplies and Services, less any amounts excluded under Article 5 of this Agreement. The amount invoiced may take into account any differences owing to delivery schedules, points of delivery, or any other similar considerations. The Supplying Party shall not make a specific acquisition of Logistic Support, Supplies and Services from its Contractors for the\n\nRequesting Party, except upon consent in writing from the Requesting Party; and\n\nb) if Logistic Support, Supplies and Services are provided from the Supplying Party's own resources, the Parties shall by mutual written consent agree on a price before the\n\nLogistic Support, Supplies and Services are provided.\n\n4.\n\nReplacement in Kind transaction. The Requesting Party shall make a payment in kind by providing the Supplying Party with Logistic Support, Supplies and Services that are identical or substantially identical to those provided to it by the Supplying Party, as long as they are acceptable to the Supplying Party. If the Requesting Party does not make this exchange in accordance with a timetable established by mutual consent or one that is in force at the time of\n\n6",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "the initial transaction and within no more than sixty (60) days from the date of the initial transaction, the transaction shall be deemed to be a reimbursable transaction and is therefore governed by paragraph 3. In this case, the Unit Price shall be determined on the basis of the actual or estimated prices in effect on the date the Replacement in Kind should have taken place, and an Invoice shall be submitted within sixty (60) days from the date of the transaction deemed to be a Reimbursable Transaction.\n\n5.\n\nExchange for Equal Value transaction. This transaction applies to Logistic Support,\n\nSupplies and Services defined in monetary terms on the basis of actual or estimated prices in effect at the time the transaction was approved. An Invoice shall be submitted within sixty\n\n(60) days of the date of the transaction.\n\n6.\n\nIf the final Unit Price of the requested Logistic Support, Supplies and Services has not been set in advance by mutual written consent, a maximum amount enforceable against the\n\nRequesting Party, including, as applicable, goods and services tax or value added tax, shall be specified in the LSSS Form pending the setting of a final Unit Price. Thereafter, the Parties shall promptly enter into negotiations to set a final Unit Price.\n\n7.\n\nThe Parties shall grant each other access to sufficient documentation and information in order to be able to ensure, as applicable, that the pricing principles pursuant to this Agreement have been followed and that the amounts do not include exempted or excluded costs. This exchange of information shall be made through the POCs.\n\n8.\n\nNothing in this Agreement permits the application of a higher Unit Price to Logistic\n\nSupport, Supplies and Services that, pursuant to another agreement or arrangement, could be supplied free of charge or at a lower cost.\n\n9.\n\nLoan of equipment. Equipment loans are governed by terms and conditions established by mutual written consent and may result in leasing fees being invoiced. The Supplying Party may also recover incidental costs for additional expenditures incurred as a result of the loan.\n\nThese incidental costs may include transportation, packaging, loss, damage beyond normal wear and tear, repairs, laundering and any preparatory work necessary for adapting any materiel to the borrower's requirements and for restoring it to its original condition after its return.\n\n10.\n\nFor short-term co-operation activities, the Parties may provide each other with limited\n\nLogistic Support, Supplies and Services (in particular, food, water, billeting, communications services and use of facilities) free of charge.\n\n11. The Requesting Party shall pick up and disseminate the Orders.\n\n7",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "ARTICLE 5\n\nTaxes and Customs Duties\n\n1.\n\nThe Parties shall assist each other in all administrative and technical procedures required in order to comply with customs and tax procedures.\n\n2. The Parties shall ensure that customs duties, import and export taxes, and similar charges are administered in accordance with the national laws and regulations in force within the Parties' respective territories, and that, to the extent permitted by national laws and regulations, such readily identifiable customs duties, import and export taxes, and similar charges, as well as any quantitative or other restrictions on imports and exports, are not applied to the Logistics Support, Supplies and Services provided under this Agreement.\n\n3.\n\nEach Party shall do everything in its power to ensure that customs duties, import and export taxes, and similar charges are administered in a manner favourable to the efficient and economical provision of Logistic Support, Supplies and Services under this Agreement or an\n\nImplementing Arrangement.\n\nARTICLE 6\n\nClaims and Liabilities\n\nClaims for loss or damage sustained by the Parties' personnel or property shall be settled in accordance with the provisions of Article VIII of the NATO SOFA.\n\nARTICLE 7\n\nProtection of Classified Information\n\nClassified Information provided or produced under this Agreement or an Implementing\n\nArrangement shall be used, stored, handled, transmitted and safeguarded in accordance with the\n\nSecurity Agreement.\n\nARTICLE 8\n\nDispute Settlement\n\nAny dispute between the Parties regarding the interpretation or application of this Agreement or any Implementing Arrangement or transaction made hereunder shall be settled through consultations and shall not be submitted to any national or international tribunal or any third party for settlement.\n\nARTICLE 9\n\nFinal Provisions\n\n1.\n\nThis Agreement shall come into force on the first day of the second month following the date of receipt of the last of the written notices by which the Parties shall inform each other\n\n8",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "of the completion of their domestic procedures necessary for the entry into force of the\n\nAgreement.\n\n2.\n\nThe Parties may terminate this Agreement by mutual consent in writing. Either Party may also terminate this Agreement by providing ninety (90) days' written notice to the other\n\nParty of its intent to terminate. The Parties shall continue to co-operate up to the effective date of termination of this Agreement. The termination of this Agreement shall, by operation of law, terminate any Implementing Arrangement made hereunder.\n\n3.\n\nNotwithstanding paragraphs 1 and 2, matters relating to financial provisions (Article 4), the protection of Classified Information (Article 7), and dispute settlement (Article 8) shall remain in force until they have been settled to the Parties' mutual satisfaction.\n\n4. The Parties may at any time amend this Agreement by mutual written consent.\n\nAmendments shall come into force in accordance with the same procedure as the one described in paragraph 1.\n\nIN WITNESS WHEREOF, the undersigned, duly authorized by their respective government, have signed this Agreement.\n\nDone in duplicate at\n\nDrussels\n\nthis 16'\" day of Febwany 2022, in the\n\nFrench and English languages, each version being equally authentic.\n\nFor the Government of the\n\nFrench Republic\n\nFor the Government of Canada\n\nFlorence PARLY\n\nMinister for the armed forces\n\ndo emand\n\nAnita ANAND\n\nMinister of national defense\n\n9",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "Annex A\n\nOrdering Procedures\n\nThe POC of the Requesting Party, as identified in Annex C, shall submit a request for\n\nLogistic Support, Supplies and Services directly to the Supplying Party or to any organization or agency authorized by the Supplying Party.\n\n2.\n\nThe Requesting Party shall contact the Supplying Party to determine the availability, price and desired terms and conditions for the reimbursement of the requested Logistic Support,\n\nSupplies and Services before placing an Order or drawing up an Implementing Arrangement.\n\nThe Supplying Party shall inform the Requesting Party of the availability, Unit Price, and desired terms and conditions for the reimbursement of the requested Logistic Support, Supplies and Services, and of any other relevant data, by electronic mail or fax, or in any other written form.\n\n3.\n\nDepending on the type of Logistic Support, Supplies and Services requested, Orders shall be placed or accepted by means of one of the following two methods, whichever is more appropriate:\n\na) by using the LSSS Form template in Appendix 1 to this Annex. This is the preferred option if the provision of Logistic Support, Supplies and Services is simple and does not require any procedures in addition to those already contained in this Agreement.\n\nThe Requesting Party shall complete the LSSS Form in triplicate, keep two copies for internal control and send one copy to the Supplying Party. The Parties shall develop their own internal procedures for using the LSSS Form. Instructions for completing the LSSS Form appear in Appendix 2 to this Annex;\n\nb) by entering into an Implementing Arrangement: This option is used if the scope or complexity of the Logistic Support, Supplies and Services, or the activity concerned, requires detailed provisions and specific procedures other than those already contained in this Agreement.\n\nTo facilitate the provision of Logistic Support, Supplies and Services within the agreed timeframes, the POC may consent to Orders being placed or accepted in the form of a signed document that has been scanned or sent by fax. In this case, the signed document that has been scanned or sent by fax is considered to be legally binding by both Parties.\n\n4. The Requesting Party is in charge of the following:\n\na) arranging the pickup and subsequent transportation of the supplies acquired under this\n\nAgreement. This does not preclude the Supplying Party from assisting with loading the supplies acquired under this Agreement onto the mode of transportation. The\n\n10",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "Supplying Party shall notify the Requesting Party when and where the supplies shall be available for pickup; and\n\nb) obtaining the applicable customs clearance as required by national customs regulations.\n\n5.\n\nThe individual or unit picking up the supplies or receiving the services on behalf of the\n\nRequesting Party shall sign the LSSS Form to certify receipt. If the LSSS Form is not available at the Supplying Party's point of supply, the individual or unit picking up the supplies shall sign the release, shipping or receipt documents provided by the Supplying Party's point of delivery as a substitute. The Supplying Party's point of delivery shall transfer the signed receipt documents to the organization authorized to accept Orders under this Agreement so that the signed receipt documents can be attached to the LSSS Form received from the Requesting Party.\n\nAPPENDICES:\n\n1. NATO Standard Form for Request, Receipt and Return, or Invoice\n\n2. Instructions for Completing the Form for Request, Receipt and Return, or Invoice\n\n11",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "Appendix 1 to Annex A\n\nNATO STANDARD FORM FOR REQUEST, RECEIPT AND RETURN, OR INVOICE\n\nDistribution / Liste de diffusion\n\n1. Requisition number / N° de la demande\n\nREQUEST / DEMANDE -\n\n4. From / De (requesting party / demandeur)\n\nRETURN / RESTITUTION\n\n5. Nation / Pays\n\n6. To / A (supplying party / fournisseur)\n\n7. Nation(s) / Pays\n\n2. Support agreement / Accord sur le quel repose la demande\n\n8. Time and place of delivery requested / Lieu et date de livraison demandés\n\n9. Recelving party / Destinataire\n\n3. Heans of transport /Aireraft/Vehicle/Ship\n\nMoyens de transport aéronef/véhicule/bâtiment\n\n10. Name / Nom. rank / grade. signature\n\nDate\n\nNATO Stock No\"/\n\nNo° de nomenclature OTAN*\n\nDescription\n\nMeasure unit /\n\nUnité de mesure\n\nQuantity requested /\n\nQuantité demandée\n\n42 45\n\n16. Other costa / Autres frais\n\n17. Method of compensation /\n\nMode de compensation\n\nCash/ Paiement comptant\n\nReplacement in kind /\n\nRemboursement en nature\n\n1B. Authorization by official of issuing partyl At\n\nName / Nom, rank / grade, signature\n\n49. Agreed dete of rcturn +\n\nDate de redistribution convenue\n\nB ACKNOWLEDGEMENT OF RECEIPT / ACCUSÉ DE RÉCEPTION\n\n20. Receipt, accepted /\n\nName / Nom, Rank / Grade. signature\n\nReçu en bonne et due ferme\n\nPlace and date / Lieu et date\n\n21. Transportation / Transport\n\nFree of Charge TA Titre gratuit\n\nWith charge / A Titre onereux\n\n*or NATO Ammunition Demand/ Reporting Code (NARC) / ou code OTAN de compte rendu / demande de munitions (NARC)\n\nINVOICE / FACTURE\n\n22. Invoicing authority / Service de facturation\n\n23. Invoice number / N° de la facture / Date 2s. Tracement de dans ont ol\n\nQuantity delivered /\n\nQuantité livrée\n\nUnit price /\n\nPrix unitaire\n\nTotal\n\n31. Total amount claimed / Total de la facture\n\n33. Payable to / Payable à\n\nAccount No / N° de compte\n\nFor / En règlement de\n\n24. Transaction code / Code de la transaction\n\n26. Account No / N° de compte\n\nAttachment and vouchers /\n\nPièces jointes et pièces justific atives\n\n32. Currency / Devise\n\nhes ten gratted det provisio excusive of all ment an hiche envoie\n\nLe certite l'exactitude de la présente facture; son montant rinclut aucune des taxes dont l'exemption est accordée en vertu d'accords en vigueur\n\n24. Name / Nom rank lorade sianature\n\n12",
+      "quality_score": 0.9125,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "Appendix 2 to Annex A\n\nInstructions For Completing Appendix 1 To Annex A\n\nRequest, Receipt, Return Or Invoice Form\n\n(The numbers in the left margin correspond to the numbering of the boxes in the NATO standard form in Appendix 1 to Annex A.)\n\n1.\n\nEnter the document number or national control number.\n\n2.\n\nSpecify the agreement on which the request is based or the arrangement cited as authority for making the request (i.e. the agreement reference,\n\nFrance-Canada Agreement - Agreement Concerning the Provision of\n\nMutual Logistic Support).\n\n3.\n\nIndicate the type of aircraft/vehicle/ship, its registration or hull number, and its home base.\n\n9.\n\nComplete only if not the same as the Requesting Party indicated in Box 4.\n\n16.\n\nProvide the incidental costs (transportation, packaging, fees, customs duties, etc.).\n\n17.\n\nIf the Replacement in Kind (or Exchange for Equal Value) is not provided to the support unit during the period established by mutual written consent.\n\nthe invoicing authority must provide the actual amount in boxes 16, 28 and 29, and a copy must be sent to the accounting authority for payment in cash.\n\n20.\n\nSigning this box certifies the number of items received; it is not a waiver of any right to bring an action in warranty.\n\n21.\n\nIf the \"With charge\" box is ticked, indicate the actual amount in Box 16.\n\n22.,23. and 25.\n\nTo be completed by the invoicing authority.\n\n24. and 26.\n\nNot applicable under this Agreement.\n\n32.\n\nAmounts are usually given in the currency of the Supplying Party.\n\n33., 34. and 35.\n\nTo be completed by the invoicing authority.\n\n13",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "Annex B\n\nPricing\n\nThe purpose of this paragraph is to clarify the mutual principles for setting the Unit Price in cases where Logistic Support, Supplies and Services cannot be provided in return.\n\na) The Unit Price for supplies in stock is the Supplying Party's stock list price and includes all costs incurred for packing, crating, handling and transportation.\n\nb) The Unit Price for a new purchase is the same as the price the Supplying Party paid to the\n\nContractor or the supplier.\n\nc) The Unit Price of a shop repair or of technical assistance services is the Supplying Party's regular price or, if a regular price cannot be established, the direct costs associated with providing the services.\n\nd) The costs associated with services rendered by armed forces personnel or by public servants on temporary secondment are recovered within a reasonable time on the basis of a cost estimate made by the Supplying Party.\n\n2.\n\nBoth Parties shall keep records of all transactions, in accordance with their respective national laws and regulations.\n\n14",
+      "quality_score": 0.9963,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "Annex C\n\nPoints of contact\n\nFor The French Republic:\n\n1. L'État-major des armées 1.1. The État-major des armées agency responsible for placing and accepting Orders under this\n\nAgreement is the following:\n\na) Unit: EMA/PERF/BPSO\n\nb) Telephone number: +33(0)9 88 68 43 85\n\nc) E-mail address: ema-scperf.secretaire.fct@intradef.gouv.fr\n\nd) Mailing address:\n\nÉtat-major des armées / Division Soutien de l'Activité\n\nBureau Politique de Soutien aux opérations 60 Boulevard du Général Martial Valin 75509 Paris Cedex 15\n\n1.2. The État-major des armées agency responsible for making and collecting payments for\n\nLogistic Support, Supplies and Services under this Agreement is the following:\n\na) Unit: EMA/PPE/B3/BOP EOI\n\nb) Telephone number: 09 88 68 42 11 - 09 88 68 42 12\n\nc) E-mail address: ema-ppe.cmi.fct@intradef.gouv.fr\n\nd) Mailing address:\n\nÉtat-major des armées - Divisions Plans/programmation/évaluation\n\nBureau Gestion du P178 - section BOP Environnement Opérationnel\n\nInterarmées 60 Boulevard du Général Martial Valin 75509 Paris Cedex 15\n\n2. L'État-major de l'armée de Terre 2.1. The État-major de l'armée de Terre agency responsible for placing and accepting Orders under this Agreement is the following:\n\na) Unit: État-Major de l'armée de Terre, Division Plans Programme, Bureau Soutien Logistique\n\nb) Telephone number: +33(0)9 88 68 35 70\n\n15",
+      "quality_score": 0.9674,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "c) E-mail address: emat-bsout-fd.secretaire.fct@intradef.gouv.fr\n\nd) Mailing address:\n\nÉtat-major de l'armée de Terre\n\nDivision Plans Programme, Bureau Soutien Logistique 60 Boulevard du Général Martial Valin 75509 Paris Cedex 15\n\n2.2. The État-major de l'armée de Terre agency responsible for making and collecting payments for Logistic Support, Supplies and Services under this Agreement is the following:\n\na) Unit: État-Major de l'armée de Terre, Division Performance Synthèse, Bureau Programmation\n\nFinances Budget\n\nb) Telephone number: +33(0)9 88 68 34 30\n\nc) E-mail address: emat-bpfb.off-em.fct@intradef.gouv.fr\n\nd) Mailing address:\n\nÉtat-major de l'armée de Terre\n\nDivision Performance Synthèse, Bureau Programmation Finances Budget 60 Boulevard du Général Martial Valin 75509 Paris Cedex 15\n\n3. L'État-major de la Marine 3.1. The État-major de la Marine agency responsible for placing and accepting Orders under this\n\nAgreement is the following:\n\na) Unit: État-Major de la Marine, État-Major des Opérations, Cellule logistique (N4)\n\nb) Telephone number: +33(0)9 88 68 30 25\n\nc) E-mail address: emo-m-logistique.trait.fct@intradef.gouv.fr\n\nd) Mailing address:\n\nÉtat-major de la Marine\n\nÉtat-major des Opérations, Cellule Logistique (N4)\n\n60 Boulevard du Général Martial Valin 75509 Paris Cedex 15\n\n3.2. The État-major de la Marine agency responsible for making and collecting payments for\n\nLogistic Support, Supplies and Services under this Agreement is the following:\n\na) Unit: État-Major de la Marine, Sous-Chef Soutien Finances, Bureau Finances\n\nb) Telephone number: +33(0)9 88 68 34 74\n\nc) E-mail address: emm-fin.adj-chef-bureau.fct@intradef.gouv.fr\n\n16",
+      "quality_score": 0.9967,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 18,
+      "text": "d) Mailing address: État-major de la Marine\n\nSous-Chef Soutien Finances, Bureau Finances 60 Boulevard du Général Martial Valin 75509 Paris Cedex 15\n\n4. L'État-major de l'armée de l'Air et de l'Espace 4.1. The État-major de l'armée de l' Air et de l'Espace agency responsible for placing and accepting\n\nOrders under this Agreement is the following:\n\na) Unit: Commandement de la Défense Aérienne et des Opérations Aériennes (CDAOA) / Étatmajor Operationnel Air (EMO-Air) / Bureau Appui Logistique (A4)\n\nb) Telephone number: +33(0) 9 88 68 29 50\n\nc) E-mail address: emo-air-a4.chef-div.fct@intradef.gouv.fr\n\nemo-air-bal.chef-bureau.fct@intradef.gouv.fr\n\nd) Mailing address: Commandement de la Défense Aérienne et des Opérations Aériennes\n\nEtat-major Opérationnel Air\n\nBureau Appui Logistique 60 Boulevard du Général Martial Valin 75509 Paris Cedex 15\n\n4.2. The Etat-major de l'armée de l'Air et de l'Espace agency responsible for making and collecting payments for Logistic Support, Supplies and Services under this Agreement is the following:\n\na) Unit: État-major de l'armée de l'Air et de l'Espace, Bureau Finances\n\nb) Telephone number: +33(0)9 88 68 14 66\n\nc) E-mail adress: emaa-ogs-sgmi.secre.fct@intradef.gouv.fr\n\nd) Mailing address:\n\nÉtat-major de l'armée de l'Air et de l'Espace\n\nBureau Finances 60 Boulevard du Général Martial Valin 75509 Paris Cedex 15\n\n(It is NOT MANDATORY to include other paragraphs. It is possible to add paragraphs to identify additional Points of Contact, as applicable, e.g., for specific units, to address questions of international law related to Mutual Logistic Support Agreements, etc.)\n\n17",
+      "quality_score": 0.9952,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 19,
+      "text": "For Canada:\n\n1. The entity of the Department of National Defence of Canada responsible for placing and accepting Orders under this Agreement is the following:\n\na) Unit: Strategic Joint Staff / Director General Support — Strategic J4 / Director Support\n\nCoordination Operations - Materiel.\n\nb) Telephone number: +1-613-996-8700\n\n+1-613-992-7015\n\nc) E-mail address:\n\nd) Mailing address:\n\nDirector General Support - Strategic J4 (Attn: DSOC-Mat)\n\n101 Colonel By Drive\n\nOttawa, Ontario, Canada, KIA OK2\n\n2. The entity of the Department of National Defence of Canada responsible for making and collecting payments for Logistic Support, Supplies and Services under this Agreement depends on which entity has requested or provided Logistic Support. This POC is identified in the NATO\n\nStandard Request, Receipt and Return, or Invoice Form.\n\n18",
+      "quality_score": 0.9973,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 20,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20182468_001",
+      "title": "Accord",
+      "score": 0.759387,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "aig_fourniture_de_soutien_logistique_mutuel_16-02-2022_s1",
+      "title": "Accord",
+      "score": 0.759183,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182644_001_s1",
+      "title": "Accord",
+      "score": 0.547338,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182469_100_s1",
+      "title": "Publication au JO (Décret n° 2020-1344 du 04/11/2020 - Date entrée en vigueur 01/11/2020) du",
+      "score": 0.45286,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182469_001_s1",
+      "title": "Accord (ensemble 3 annexes)",
+      "score": 0.442381,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182431_001_s1",
+      "title": "Accord",
+      "score": 0.4318,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192672_001_s1",
+      "title": "Accord (ensemble une annexe)",
+      "score": 0.418183,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220148_001_s1",
+      "title": "Accord",
+      "score": 0.416614,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220147_001a_s1",
+      "title": "Accord",
+      "score": 0.416614,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192548_001_s1",
+      "title": "Accord-cadre",
+      "score": 0.415494,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

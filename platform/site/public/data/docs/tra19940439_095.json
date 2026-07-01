@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940439_095",
+  "title": "Pouvoirs flamands",
+  "year": 1994,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "nl"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DE MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER BEVOEGD VOOR EXTERNE BETREKKINGEN. Overwegende dat het wenselijk is dat het Verdrag inzake de be- scherming van de Maas wordt gesloten tussen het Vlaams Gewest. de Franse Republiek, het Koninkrijk der Nederlanden, het Waals het Brussels Hoofdstedelijk Gewest wordt gesloten, BESLUIT : te benoemen als gevolmachtigde van de Vlaamse Regering de heer Norbert…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940439_095.pdf",
+  "source_filename": "tra19940439_095.pdf",
+  "source_sha256": "5660fc49c3fa6d8b59b3a0ab28f9cc1e1ab990b5f0cd0596319439e3d8eeac20",
+  "treaty_id": "TRA19940439",
+  "treaty_number": "BEL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DE MINISTER-PRESIDENT VAN DE VLAAMSE REGERING,\n\nVLAAMS MINISTER BEVOEGD VOOR EXTERNE BETREKKINGEN.\n\nOverwegende dat het wenselijk is dat het Verdrag\n\ninzake de be-\n\nscherming van de Maas wordt gesloten tussen het Vlaams Gewest.\n\nde Franse Republiek,\n\nhet Koninkrijk\n\nder Nederlanden, het Waals\n\nhet Brussels Hoofdstedelijk Gewest wordt gesloten,\n\nBESLUIT\n\n:\n\nte benoemen als gevolmachtigde van de Vlaamse Regering\n\nde heer\n\nNorbert DE BATSELIER, Vlaams minister\n\nvan Leefmilieu\n\nvesting, teneinde het genoemde Verdrag mee te\n\nondertekenen.\n\nOndertekend\n\nen gezegeld\n\nte Brussel, op 16 januari 1995.\n\nill\n\nLuc VAN DEN BRANDE.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940440_095",
+      "title": "Procès-verbal",
+      "score": 0.881159,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_096",
+      "title": "Instrument flamand",
+      "score": 0.402072,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_096",
+      "title": "Instrument flamand",
+      "score": 0.397009,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_521",
+      "title": "Instrument de ratification luxembourgeois",
+      "score": 0.374694,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19150001_005_s1",
+      "title": "Lettres patentes portant ratification",
+      "score": 0.372051,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_696",
+      "title": "Instrument de ratification néerlandais",
+      "score": 0.370472,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19150001_101_s1",
+      "title": "Publication hors Journal Officiel de la convention",
+      "score": 0.37037,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_436",
+      "title": "Instrument de ratification italien",
+      "score": 0.370028,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_096",
+      "title": "Instrument de ratification belge",
+      "score": 0.369927,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19680230_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.369336,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

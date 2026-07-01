@@ -1,0 +1,184 @@
+{
+  "document_id": "tra19760085_001_s1",
+  "title": "Accord",
+  "year": 1976,
+  "doc_type": "Accord",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.7341,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "AIHE O o Tane ERGEEGAE ERA TAi eR ACCORD GENER COOPERATION EN MA SCIENTIFIQU E LE GOUYERNEMENT DE LE GOUYERNEMENT DE AL RELATIF A LA TIERE DE RECHERCHE E ET TECHNIQUE yTHE LA REPUBLIQUE FRANCAISE E T LA HEPUBLIQUE TOGOLA ISE - 1 - Le gouvernement de la République française, d'une part, Le gouvernement de la République togolaise, d'autre part, Considérant l'importance de la recherche scientifique et technique dans le…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760085_001_s1.pdf",
+  "source_filename": "tra19760085_001_s1.pdf",
+  "source_sha256": "8b0b7160fda6a28652303a598ca68da2615a3fdbe66eb0512bc4dc3d9dbc7365",
+  "treaty_id": "TRA19760085",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AIHE O o Tane ERGEEGAE ERA TAi eR",
+      "quality_score": 0.5676,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD GENER\n\nCOOPERATION EN MA\n\nSCIENTIFIQU\n\nE\n\nLE GOUYERNEMENT DE\n\nLE GOUYERNEMENT DE\n\nAL RELATIF A LA\n\nTIERE DE RECHERCHE\n\nE ET TECHNIQUE\n\nyTHE\n\nLA REPUBLIQUE FRANCAISE\n\nE T\n\nLA HEPUBLIQUE TOGOLA ISE",
+      "quality_score": 0.8452,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "- 1 -\n\nLe gouvernement de la République française, d'une part,\n\nLe gouvernement de la République togolaise, d'autre part,\n\nConsidérant l'importance de la recherche scientifique et technique dans le développement économique et social,\n\nDésireux d'instaurer une coopération plus efficace entre les deux pays dans le domaine de la recherche,\n\nSont convenus des dispositions ci-après :\n\n.../...\n\n- 2 - ARTICLE PREMIER\n\nEntre le gouvernement de la République française et le gouvernement de la République togolaise, la coopération en matière de recherche scientifique et technique s'effectue, pour chaque pays, dans le cadre de ses institutions nationales compétentes.\n\nARTICLE II\n\nCette coopération se réalise sur la base de programmes généralement pluriannuels répartis en trois catégories :\n\n1 - les programmes propres aux institutions togolaises pour la réalisation desquels un concours français peut être demandé :\n\n2 - les programmes propres aux institutions françaises ;\n\n3 - les programmes conjoints, dont le choix et la définition font l'objet d'une concertation réciproque.\n\nARTICLE III\n\nA la demande du gouvernement togolais, un concours à la réalisation de tout ou partie des programmes de recherche propres aux institutions togolatses peut atre apporté par le gouvernement français, dans la mesure de ses moyens, sous forme d'experts, d'appui technique ou de participation financière.\n\nLa nature et les modalités de ce concours sont définis dans chaque cas d'espèce.\n\nARTICLE IV\n\nLes programmes propres aux institutions françaises de recherche sont élaborés par les autorités françaises compétentes et soumis à l'accord préalable des autorités togolaises. Ils sont entièrement financés par le gouvernement français.\n\n./...",
+      "quality_score": 0.9923,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "- 3 -\n\nCes programmes sont exécutés avec l'accord du gouvernement togolais par des équipes françaises conformé- ment à la législation en vigueur en République togolaise.\n\nDes chercheurs togolais pris en charge par leur gouvernement sont dans toute la mesure du possible associés aux équipes françaises.\n\nDes protocoles particuliers fixent les conditions de réalisation desdits programmes.\n\nARTICLE V\n\nLes programmes conjoints sont élaborés et proposés à l'initiative de l'un ou l'autre Etat et retenus d'accord parties. Ils comportent une participation financière des deux góuvernements et sont exécutés par des équipes togolaises et françaises, dans le cadre et sous la responsabilité de leurs institutions nationales et sous la coordination et le contrôle des institutions togolaises compétentes.\n\nUn avenant au présent accord fixe chaque année la contribution financière de chacune des Parties à la réalisation le ces programmes conjoints. Il en détermine les modalités de financement et désigne les organismes chargés de leur exécution.\n\nLes conventions d'application passées entre lesdits organismes déterminent les conditions de cette exécution.\n\nARTICLE VI\n\nA l'occasion de l'importation temporaire ou définitive de tout matériel, document ou produit destinés aux actions conduites dans le cadre du présent Accord, des franchises doua- nières, fiscales ou parafiscales sont accordées, conformément aux accords et conventions existant entre les deux pays.\n\nARTICLE VII\n\nLes personnels expatriés à la charge du gouvernement ou des institutions françaises et employés auxdites actions, bénéficient des dispositions générales prévues dans l'accord général de coopération technique.\n\n./...\n\n- 4 -\n\nLes personnels travaillant dans les institutions togolaises et françaises sont tenus de respecter le règlement intérieur de celles-ci. Ils sont soumis à l'autorité administrative du directeur de l'institution et à l'autorité scientifique du directeur de l'unité de recherche dont ils dépendent.\n\nARTICLE VIII\n\nLe gouvernement de la République française peut mettre à la disposition du gouvernement de la République togolaise, à la demande de ce dernier, d'autres moyens en vue d'aider à l'organisation et au fonctionnement de ses insti-\n\nARTICLE IX\n\nLes deux gouvernements reconnaissent qu'un efforti particulier doit être accompli pour la formation des person-i nels de recherche.\n\nA cet effet, le gouvernement de la République :\n\nfrançaise s'engage à assurer ou à faciliter dans la mesure de ses moyens la formation et le perfectionnement des chercheurs.\n\net techniciens de la République togolaise.\n\nARTICLE X\n\nOutre les investissements liés aux programmes de recherche et financés dans le cadre de ces derniers, des constructions et équipements destinés à renforcer dans ce domaine le potentiel de la République togolaise peuvent être financés par la République française.\n\nARTICLE XI\n\nEn vue d'intensifier les relations entre leurs institutions scientifiques et techniques, leurs sociétés savantes et leurs chercheurs, les deux gouvernements s'engagent à encourager les jumelages et les associations et à faciliter l'information réciproque, les échanges ou prêts de documents at de collections scientifiques.\n\n.../...",
+      "quality_score": 0.9996,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "- 5 - ARTICLE XII\n\nConformément aux accords internationaux relatifs à la déflusion des connaissances, les deux gouvernements s'engagent à ne pas entraver la circulation réciproque des documents d'infor- mation de caractère scientifique et technique.\n\nQuant aux applications de la recherche dans le domaine économique et sauf stipulations particulières prévues dans les contrats ou protocoles de recherche :\n\n- les résultats obtenus dans le cadre des programmes conjoints peuvent être librement utilisés par chacune des deux Parties sur son territoire national ; elles se concertent pour toute utilisation dans les pays tiers ;\n\n- les résultats obtenus dans le cadre des programmes propres aux institutions togolaises de recherche ne peuvent être utilisés par les institutions françaises qu'avec l'autorisation expresse du gouvernement de la République togolaise ;\n\n- l'utilisation et l'exploitation des inventions et brevets font l'objet cas par cas d'un accord préalable entre les deux gouvernements ;\n\n- dans tous les cas; les publications scientifiques consécutives aux activités de recherche conduites au Togo sont diffusées de manière prioritaire dans les revues togolaises.\n\nARTICLE XIII\n\nUne commission mixte paritaire suit l'application du présent Accord. Elle se réunit en tant que de besoín pour exami- ner les: conditions de sa mise en oeuvre, ses résultats et ses perspectives, y compris dans le domaine de la formation des chercheurs et des techniciens.\n\nARTICLE XIV\n\nLe présent accord général est conclu pour une période de cinq ans. Il est renouvelable par tacite reconduction.\n\n.../...\n\n- 6-\n\nChaque gouvernement peut à tout moment saisir son co-contractant de son intention de le réviser ou de le dénoncer.\n\nDans le premier cas, un préavis de six mois francs sera observé avant la date de révision envisagée. Dans le second cas, les effets de l'accord cesseront de plein droit un an après la notification de la dénonciation.\n\nARTICLE XV\n\nCet accord, qui remplace et abroge la Convention générale relative à la recherche scientifique entre le gouvernement de la République française et le gouvernement de la République togolaise signée à Lomé le 3 février 1969, entrera en vigueur le premier jour du deuxième mois suivant l'échange des instruments constatant l'accomplissement des procédures requises à cet effet dans chacun des deux Etats.\n\nCet échange aura lieu à Paris aussitôt que faire se pourra.\n\nFait à Lomé, le 23 Mars 1976 en deux exemplaires originaux\n\nPour le gouvernement de la République française コン\n\nPour le gouvernement\n\nde la République togolaise\n\nJean de LIPKOWSKI\n\nMinistre de la Coopération\n\nAyi Houenou HUNLEDE\n\nMinistre des Affaires Etrangères",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760094_001_s1",
+      "title": "Convention",
+      "score": 0.621107,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_001_s1",
+      "title": "Accord",
+      "score": 0.57269,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.419023,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_005_s1",
+      "title": "Instrument nigérien (ensemble texte du Traité et de 10 Accords signés le même jour)",
+      "score": 0.417409,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182692_001_s1",
+      "title": "Accord",
+      "score": 0.407563,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20250002_001_s1",
+      "title": "Accord",
+      "score": 0.405377,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19660081_100_s1",
+      "title": "Texte non signé de l'accord",
+      "score": 0.40095,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_001_s1",
+      "title": "Accord",
+      "score": 0.399136,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_001_s1",
+      "title": "Accord",
+      "score": 0.397935,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_001",
+      "title": "tra19720042_001",
+      "score": 0.397325,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20151635_006",
+  "title": "Accusé de réception français de l'instrument ITER",
+  "year": 2015,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9901,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "bert - Esaill - Prateratel RÉPUBLIQUE FRANÇAISE DIRECTION DES ENTREPRISES ET DE L'ECONOMIE INTERNATIONALE Mission du Soutien aux Secteurs Stratégiques N° /DEEISTRAT Le Ministère des Affaires étrangères et du Développement international de la République française présente ses compliments à l'Organisation internationale ITER et accuse réception le 28 août 2015 de l'instrument d'approbation de l'Organisation du Protoco…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20151635_006.pdf",
+  "source_filename": "TRA20151635_006.pdf",
+  "source_sha256": "76aee043d7b59016f08ceb8fc310e735aa060421404ebd7140f31fb694b483d6",
+  "treaty_id": "TRA20151635",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "bert - Esaill - Prateratel\n\nRÉPUBLIQUE FRANÇAISE\n\nDIRECTION DES ENTREPRISES ET\n\nDE L'ECONOMIE INTERNATIONALE\n\nMission du Soutien aux Secteurs Stratégiques\n\nN°\n\n/DEEISTRAT\n\nLe Ministère des Affaires étrangères et du Développement international de la\n\nRépublique française présente ses compliments à l'Organisation internationale ITER et accuse réception le 28 août 2015 de l'instrument d'approbation de l'Organisation du Protocole additionnel, sous forme d'échange de lettres, à l'Accord de siège du 7 novembre 2007 entre le\n\nGouvernement de la République française et l'Organisation pour l'énergie de fusion en vue de la mise en œuvre conjointe du projet ITER relatif au rôle des autorités françaises en matière d'intervention liée à la sécurité sur le site de l'Organisation (ensemble une annexe), signé à\n\nParis le 26 janvier 2015 et à Saint Paul Lez Durance le 10 mars 2015.\n\nEn application de son article 8, ce Protocole est entré en vigueur le 27 septembre 2015.1 5M\n\nLe Ministère des Affaires étrangères et du Développement international saisit cette occasion pour renouveler à l'Organisation ITER les assurances de sa haute considération.\n\nParis, le 21 octobre 2015\n\nITER Organisation\n\nRoute de Vineon-sur-Verdon - CS 90046 13067\n\nSaint-Paul-lez-Durance Cedex - France",
+      "quality_score": 0.9901,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20151635_010",
+      "title": "Lettre de l'ITER",
+      "score": 0.39508,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151635_001",
+      "title": "Lettre française (ensemble 1 annexe)",
+      "score": 0.394155,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_510",
+      "title": "Accusé de réception de l'adhésion liechtensteinoise",
+      "score": 0.380084,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600149_491_s1",
+      "title": "note verbale de transmission de l'instrument à la France",
+      "score": 0.374797,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151635_007",
+      "title": "Accusé de réception ITER de l'instrument français",
+      "score": 0.373093,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20110656_007_s1",
+      "title": "Note accusant réception de la notification djiboutienne",
+      "score": 0.37281,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_ltu001_s1",
+      "title": "Accusé réception de la notification par la France de l'adhésion de la Lituanie",
+      "score": 0.370756,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070193_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.367275,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040238_851",
+      "title": "Convention",
+      "score": 0.363537,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20080108_010_s1",
+      "title": "Protocole additionnel : lettre ITER (sans le protocole additionnel annexé)",
+      "score": 0.363532,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19690202_001_s1",
+  "title": "Texte de l'accord (note verbale française)",
+  "year": 1969,
+  "doc_type": "Texte",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE FRANCE EN GRÈCE N° 122 ATHENES, LE NOTE VERBALE I'Ambassade de France présente ses compliments au Ministère Royal des Affaires Etrangères et a 1 honneur de se référer à sa note verbale n° 50 du 27 avril 1966 ainsi qu'aux différents échanges de vues intervenus depuis lors, concernant l'exercice en Grèce par les consuls de France et par les agents diplomatiques investis d'attributions consulaires des pouv…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Texte",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19690202_001_s1.pdf",
+  "source_filename": "tra19690202_001_s1.pdf",
+  "source_sha256": "0944c75ddbc693b742472c1b06cf07c2f909d3ccb5f6d81f2b241d4d2d4caf62",
+  "treaty_id": "TRA19690202",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DE FRANCE\n\nEN GRÈCE\n\nN° 122\n\nATHENES, LE\n\nNOTE VERBALE\n\nI'Ambassade de France présente ses compliments au\n\nMinistère Royal des Affaires Etrangères et a 1 honneur de se référer à sa note verbale n° 50 du 27 avril 1966 ainsi qu'aux différents échanges de vues intervenus depuis lors, concernant l'exercice en Grèce par les consuls de France et par les agents diplomatiques investis d'attributions consulaires des pouvoirs d'officier de l'état civil, notamment en matière de célébration de mariage.\n\nSe fondant, en l'absence de dispositions conventionnelles particulières, sur le droit international coutumier reconnu par la majorité des pays, cette Ambassade estime pour sa part que rien ne devrait s'opposer à ce que les diplomates et consuls français puissent célébrer en Grèce des mariages entre leurs ressortissants, une telle pratique n'étant pas en contradiction avec une disposition formelle du droit hellénique interne.\n\nL'Ambassade souhaiterait que le Département Royal voulût bien de son câté confirmer qu'il partage cette manière de voir et qu'il n'a en conséquence pas d'objection à ce que les diplomates et consuls français continuent à célébrer en Grèce des mariages exclusivement entre ressortissants français étant entendu que les autorités diplomatiques et consulaires helléniques en France bénéficient le cas échéant de la réciprocité en la matière.\n\nL'Ambassade de France saisit cette occasion pour renouveler au Ministère Royal des Affaires Etrangères les assurances de sa très haute considération./.\n\nAthènes,\n\nle 14 octobre 1969.\n\nPour copie certifiée conforme à l'original.\n\nAthènes, le 29 Juin 1970\n\nL'Ambassadeur de France:\n\nNewad dern",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19690202_010_s1",
+      "title": "Texte de l'accord (note verbale grecque)",
+      "score": 0.402164,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890169_001_s1",
+      "title": "Accord (ensemble 1 annexe) (ensemble 1 échange de lettres)",
+      "score": 0.369762,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français : note verbale et lettre (avec, sur la note verbale, tampon arrivée le 4 février 1983 à l'ambassade de France)",
+      "score": 0.366249,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_005b",
+      "title": "Second instrument qatari",
+      "score": 0.363965,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.363889,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680135_011_s1",
+      "title": "Publication au Journal officiel du",
+      "score": 0.363187,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_103",
+      "title": "Echange de notes relatif à Guernesey",
+      "score": 0.362459,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.362432,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_005_s1",
+      "title": "Instrument chypriote (avec tampon arrivée le 16 août 1982 à l'ambassade de France)",
+      "score": 0.362275,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_037_s1",
+      "title": "Note verbale d'acceptation du Pérou",
+      "score": 0.360143,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

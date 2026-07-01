@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20230084_001a_s1",
+  "title": "Lettre",
+  "year": 2023,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9973,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE FRANCE AU CONGO Frastraité N° 2023-0406302/CHAN Brazzaville, le 20 septembre 2023 Monsieur le Ministre, Afin de conforter les relations bilatérales entre nos deux pays, en favorisant la circulation de nos ressortissants titulaires de passeports diplomatiques, l'Accord du 25 octobre 2007 relatif à la gestion concertée des flux migratoires et au co-développement dispense de visas de court séjour les resso…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20230084_001a_s1.pdf",
+  "source_filename": "tra20230084_001a_s1.pdf",
+  "source_sha256": "05d902086a6df0cd5499990f13a4b491a6c91b3fce3e080ad3f2ba05e00b03e4",
+  "treaty_id": "TRA20230084",
+  "treaty_number": "001A",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE\n\nDE FRANCE\n\nAU CONGO\n\nFrastraité\n\nN° 2023-0406302/CHAN\n\nBrazzaville, le 20 septembre 2023\n\nMonsieur le Ministre,\n\nAfin de conforter les relations bilatérales entre nos deux pays, en favorisant la circulation de nos ressortissants titulaires de passeports diplomatiques, l'Accord du 25 octobre 2007 relatif à la gestion concertée des flux migratoires et au co-développement dispense de visas de court séjour les ressortissants congolais et français titulaires de passeports diplomatiques sécurisés.\n\nL'article 1e de cet accord prévoit que cette dispense produira ses effets durant deux ans à compter de son entrée en vigueur, et qu'elle pourra être reconduite par échange de lettres. Elle a été reconduite à plusieurs reprises, la dernière reconduction ayant pris effet le 1° octobre 2022 et arrivant à échéance le 30 septembre 2023.\n\nAussi, j'ai l'honneur de vous proposer, au nom de mon Gouvernement, de proroger une nouvelle fois cette dispense, pour une durée d'un (1) an à compter du 1° octobre 2023, étant entendu que sa mise en œuvre fera l'objet d'une évaluation conjointe.\n\nJe vous serais obligée de me faire savoir si cette proposition recueille l'agrément de votre Gouvernement. Dans l'affirmative, la présente lettre ainsi que votre réponse constitueront un accord entre nos deux Gouvernements, prorogeant la dispense, accord qui entrera en vigueur le 1°r octobre 2023, ou à la date de votre réponse si elle était postérieure à cette date.\n\nJe vous prie d'agréer, Monsieur le ministre, l'expression de ma haute considération.\n\nClaire BODONYI\n\nAmbassadrice de France en République du Congo\n\nMonsieur Jean-Claude GAKOSSO\n\nMinistre des Affaires Etrangères, de la Francophonie et des Congolais de l'Etranger",
+      "quality_score": 0.9973,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20230084_001b_s1",
+      "title": "Lettre",
+      "score": 0.749347,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240053_001a_s1",
+      "title": "Lettre",
+      "score": 0.381697,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192687_001_s1",
+      "title": "Texte de l'accord (lettre française)",
+      "score": 0.377247,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240053_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.372769,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192687_010_s1",
+      "title": "Texte de l'accord (lettre gabonaise)",
+      "score": 0.372531,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230081_006_s1",
+      "title": "Lettre accusant réception de la notification d'approbation française",
+      "score": 0.367422,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230149_001a_s1",
+      "title": "Lettre",
+      "score": 0.364893,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_012_s1",
+      "title": "Dénonciation siamoise du traité",
+      "score": 0.363467,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19320073_005_s1",
+      "title": "Instrument turc",
+      "score": 0.362529,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230149_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.362077,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

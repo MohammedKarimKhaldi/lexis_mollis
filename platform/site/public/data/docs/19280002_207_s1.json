@@ -1,0 +1,129 @@
+{
+  "document_id": "19280002_207_s1",
+  "title": "Réserve sur l'exposition internationale des arts populaires",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9466,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "19280002 207 En procédant au dépot des ratifications du Conseil Fédéral de la Confédération Suisse sur la Convention concernant les Expositions Internationales signée à Paris le 22 Novembre 1928, le Ministre de Suisse déclare que le Gou- vernement Suisse considère que l'exposition Internationale des arts populaires mentionnée dans la résolution de l'As- semblée de la Société des Nations du 22 Décembre I9I7 et qui es…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_207_s1.pdf",
+  "source_filename": "19280002_207_s1.pdf",
+  "source_sha256": "f952a91138bf49f8dc587523fbf9275395efe675b8c4303d4185ec68eee38a99",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "CHE002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 207",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "En procédant au dépot des ratifications du\n\nConseil Fédéral de la Confédération Suisse sur la Convention concernant les Expositions Internationales signée à Paris le 22 Novembre 1928, le Ministre de Suisse déclare que le Gou- vernement Suisse considère que l'exposition Internationale des arts populaires mentionnée dans la résolution de l'As- semblée de la Société des Nations du 22 Décembre I9I7 et qui est projetée à Berne en I934, ne tombe pas sous le coup de la Convention dont 1l s'agit mais que le Gourernement\n\nFédéral veillera, lors de l'organisation de ladite exposi- tion à ce que les principes de la Convention soient observés\n\ndans la mesure du possible\n\nParis le I7 Décembre I930\n\nJuman.",
+      "quality_score": 0.9499,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_208_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.840916,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_206_s1",
+      "title": "Instrument de ratification",
+      "score": 0.831073,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_204_s1",
+      "title": "Instrument de ratification",
+      "score": 0.828556,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.822939,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_202_s1",
+      "title": "Instrument d'adhésion du Sri Lanka",
+      "score": 0.800801,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.724898,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.716834,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_218_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.713828,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_212_s1",
+      "title": "Instrument d'adhésion de la Tanzanie",
+      "score": 0.710946,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_216_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.708409,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19880095_034_s1",
+  "title": "Note verbale d'adhésion",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.976,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MALLON UNITE 128. FEV. 1997| EMBASSY OF THE FEDERAL REPUBLIC OF NIGERIA NOTE N° 13/91 L'Ambassade de la République Fédérale du Nigéria à Paris présente ses compliments au Ministère des Affaires Etrangères de la République Française et a l'honneur de lui faire savoir que le Gouvernement de la République Fédérale du Nigéria adhère par la présente à la Convention concernant les expositions internationales signée à Pari…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_034_s1.pdf",
+  "source_filename": "19880095_034_s1.pdf",
+  "source_sha256": "d0d1920eccfbd1dadc852434fac7f0da83650d799263c80d02f01c895aaeeb68",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "NGA003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MALLON UNITE\n\n128. FEV. 1997|\n\nEMBASSY OF THE FEDERAL\n\nREPUBLIC OF NIGERIA\n\nNOTE N° 13/91\n\nL'Ambassade de la République Fédérale du Nigéria à Paris présente ses compliments au Ministère des Affaires Etrangères de la République Française et a l'honneur de lui faire savoir que le Gouvernement de la République Fédérale du\n\nNigéria adhère par la présente à la Convention concernant les expositions internationales signée à Paris le 22 novenabro 1928, telle que modifiée par le\n\nProtocole du 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988. \"\n\nL'Ambassade de la République Fédérale du Nigéria saisit cette occasion pour renouveler au Ministère des Affaires Etrangères de la République Française les assurances de sa très haute considération I\n\nFait à Paris, le 27 février 1997.\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nDIRECTION DES NATIONS UNIES\n\nET ORGANISATIONS INTERNATIONALES\n\n37, QUAL D'ORSAY\n\n75007 - PARIS",
+      "quality_score": 0.976,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.437967,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.432843,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.428316,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.426748,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mus001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.426451,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.422909,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.420231,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.419751,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_211_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.418882,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.416865,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

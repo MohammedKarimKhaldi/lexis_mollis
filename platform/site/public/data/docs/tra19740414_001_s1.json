@@ -1,0 +1,141 @@
+{
+  "document_id": "tra19740414_001_s1",
+  "title": "Accord",
+  "year": 1974,
+  "doc_type": "Accord",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9974,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "SECREI ACCORD SPECIAL DE DEFENSE ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEMENT DE LA REPUBLIQUE UNIE - : - DU CAMEROUN 1 LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEMENT DE LA REPUBLIQUE UNIE DU CAMEROUN - conscients des responsabilités qui leur incombent en ce qui concerne le maintien de la paix, conformément aux principes de la charte des Nations Unies, - convaincus que le mainti…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19740414_001_s1.pdf",
+  "source_filename": "tra19740414_001_s1.pdf",
+  "source_sha256": "6444cda0468f782b0824da2c31869e2151ef92b9b4f6e03df2b5f795bd22a5ff",
+  "treaty_id": "TRA19740414",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SECREI\n\nACCORD\n\nSPECIAL DE\n\nDEFENSE\n\nENTRE\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nET\n\nLE GOUVERNEMENT DE LA REPUBLIQUE UNIE\n\n- : -\n\nDU\n\nCAMEROUN",
+      "quality_score": 0.9975,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "1\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nET\n\nLE GOUVERNEMENT DE LA REPUBLIQUE UNIE DU CAMEROUN\n\n- conscients des responsabilités qui leur incombent en ce qui concerne le maintien de la paix, conformément aux principes de la charte des Nations Unies,\n\n- convaincus que le maintien de la paix est indissociable de la sécurité de chaque Etat,\n\n- désireux de coopérer dans ce domaine dans un esprit d'amitié et de confiance mutuelle,\n\nSont convenus\n\nde ce qui suit :\n\n•/..\n\n1I4",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "2\n\nARTICLE PREMIER - La République française s'engage à apporter, à des\n\nconditions spéciales, son\n\nsoutien logis-\n\ntique et l'assistance de ses forces armées à la République\n\nUnie du\n\nCameroun, sur la demande de celle-ci, en\n\ncas de\n\ncrise grave ou d'agression contre le Cameroun.\n\nARTICLE 2 - Les\n\nParties contractantes\n\nse consulteront\n\nchaque fois que nécessaire sur les modalités de ce soutien et de cette assistance.\n\nARTICLE 3 - Le présent accord prendra effet dès sa signature.\n\nFAIT A\n\nYAOUNDÉ le 21 février 1974.\n\nPour le gouvernement\n\nde la\n\nRépublique française\n\nPour le gouvernement de la\n\nRépublique Unie du Cameroun\n\n/eau fo Renian\n\nJean- François DENIAU\n\nVincent ELFON",
+      "quality_score": 0.9946,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20172268_001_s1",
+      "title": "Accord",
+      "score": 0.643085,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850080_001_s1",
+      "title": "Accord",
+      "score": 0.586211,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182508_001_s1",
+      "title": "Accord",
+      "score": 0.58443,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610266_005_s1",
+      "title": "Ratification mauritanienne",
+      "score": 0.390149,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.386079,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940103_001_s1",
+      "title": "Traité",
+      "score": 0.383662,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100274_001_s1",
+      "title": "Traité",
+      "score": 0.382142,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_001_s1",
+      "title": "Accord",
+      "score": 0.381931,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192695_001_s1",
+      "title": "Accord-cadre",
+      "score": 0.378738,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20050030_001_s1",
+      "title": "Accord",
+      "score": 0.378178,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

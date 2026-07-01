@@ -53,5 +53,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.646437,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_41_s1",
+      "title": "Notification aux Etats-membres de l'adhésion du Pakistan",
+      "score": 0.438378,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_27_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'adhésion de l'Iran",
+      "score": 0.421496,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070032_006_s1",
+      "title": "Accusé de réception chinois de l'instrument de ratification français",
+      "score": 0.417322,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_12_s1",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.41174,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_57_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de Singapour",
+      "score": 0.411591,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_53_s1",
+      "title": "Notification aux Etats-membres de l'adhésion du Maroc",
+      "score": 0.40961,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "seychelles_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion des Seychelles",
+      "score": 0.408278,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_571_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'ïle Maurice",
+      "score": 0.408113,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_067_s1",
+      "title": "Notification de l'adhésion de la Jordanie aux Etats-membres",
+      "score": 0.407571,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
 }

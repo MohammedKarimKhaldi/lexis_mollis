@@ -1,0 +1,116 @@
+{
+  "document_id": "tra18750001_blr001_s1",
+  "title": "Note informant de l'intention d'adhésion",
+  "year": 1875,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9917,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "iC - 2 FEV. 2015 ARRIVEE AMBASSADE DE LA REPUBLIQUE DU BELARUS EN FRANCE Nº 02-32/132 L'Ambassade de la République du Bélarus en France présente ses compliments au Ministère des Affaires étrangères et du Développement international de la République Française et a l'honneur d'informer que la République du Bélarus a l'intention d'adhérer à la Convention du Mètre. Pour finaliser la préparation des actes législatifs con…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18750001_blr001_s1.pdf",
+  "source_filename": "tra18750001_blr001_s1.pdf",
+  "source_sha256": "f7e77b9a15daf46a8c3ff0e1fb50136924399340cfd47bc32867faf36556330a",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "BLR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "iC\n\n- 2 FEV. 2015\n\nARRIVEE\n\nAMBASSADE\n\nDE LA REPUBLIQUE DU BELARUS\n\nEN FRANCE\n\nNº 02-32/132\n\nL'Ambassade de la République du Bélarus en France présente ses compliments au Ministère des Affaires étrangères et du Développement international de la République Française et a l'honneur d'informer que la\n\nRépublique du Bélarus a l'intention d'adhérer à la Convention du Mètre.\n\nPour finaliser la préparation des actes législatifs concernant l'adhésion à la Convention le Bélarus a besoin du texte officiel certifié de la Convention modifiée de 1907 et aussi de tous les textes officiels certifiés des modifications de la Convention si elles avaient été adoptées. Etant donné que la France est le dépositaire de la Convention, l'Ambassade prie le Ministère des Affaires étrangères et du Développement international de la République\n\nFrançaise de bien vouloir lui faire parvenir les textes officiels certifiés susmentionnés.\n\nL'Ambassade de la République du Bélarus en France saisit cette occasion pour renouveler au Ministère des Affaires étrangères et du\n\nDéveloppement international de la République Française les assurances de sa haute considération. M.\n\nбеларусь у\n\nФранцуз 18ี 2015\n\n1907\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nET DU DEVELOPPEMENT INTERNATIONAL\n\nDE LA REPUBLIQUE FRANÇAISE\n\nParis",
+      "quality_score": 0.9917,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19510004_116_s1",
+      "title": "Accusé réception par la France de l'instrument d'adhésion de la Biélorussie",
+      "score": 0.412343,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.409408,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.408261,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_05_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.400668,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_col002_s1",
+      "title": "Accusé réception de l'instrument d'adhésion",
+      "score": 0.399197,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20110656_007_s1",
+      "title": "Note accusant réception de la notification djiboutienne",
+      "score": 0.399184,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20020160_004",
+      "title": "Accusé de réception par le dépositaire de l'instrument français",
+      "score": 0.398645,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_05_s1",
+      "title": "Extension de la validité de la convention au Land de Berlin",
+      "score": 0.398226,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20192552_005b_s1",
+      "title": "Note verbale d'accompagnement de l'instrument de ratification algérien",
+      "score": 0.397723,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.396744,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_slv003_s1",
+  "title": "Note verbale de dénonciation du protocole de 1972",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9808,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "... EMBAJADA DE EL SALVADOR EN FRANCIA A. 860.7 D.90 DIRECTION JURIDIQUE 12.1: 1967) ARRIVÉE L'Ambassade d'El saivador presente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui communiquer que le Gouvernement d'El Salvador a décidé de laisser sans effet son adhésion au Protocole du 30 Novembre 1972, portant modification de la Convention, signee a Paris le 2o novembre 1928, concernant les Ex…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_slv003_s1.pdf",
+  "source_filename": "tra19280002_slv003_s1.pdf",
+  "source_sha256": "18addd77001af282de2b2faf82ee928c6ed44ed93d75ea032add8af66f8b9c2d",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SLV003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "...\n\nEMBAJADA DE EL SALVADOR\n\nEN FRANCIA\n\nA. 860.7 D.90\n\nDIRECTION JURIDIQUE\n\n12.1: 1967)\n\nARRIVÉE\n\nL'Ambassade d'El saivador presente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui communiquer que le Gouvernement d'El Salvador a décidé de laisser sans effet son adhésion au Protocole du 30 Novembre 1972, portant modification de la Convention, signee a Paris le 2o novembre 1928, concernant les\n\nExpositions Internationales.\n\nL'Ambassade d'El Salvador serait reconnaissant au\n\n|| Ministère des Affaires Etrangères de bien vouloir falre le nécessaire, en tant que dépositaire de ce Protocole , pour que l'adhésion d'El\n\nSalvador soit sans effet à partir de ce jour .\n\nL'Ambassade d'El Salvador remercie à l'avance le\n\nMinistère des Affaires Etrangères pour son aimable intervention et saisit cette occásion pour lui renouveler l'assurance de sa haute considération Of paris, le 5 octobre 1987 .\n\nMinistère des Affaires Etrangères 37 Quai d'Orsay 75007 PARIS .",
+      "quality_score": 0.9808,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_slv006_s1",
+      "title": "Instrument d'adhésion du Salvador",
+      "score": 0.440957,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_776",
+      "title": "Accusé de réception de l'instrument salvadorien",
+      "score": 0.437814,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_046_s1",
+      "title": "Note verbale d'adhésion du Salvador",
+      "score": 0.436653,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.42129,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.420303,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.418595,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.417726,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_98_s1",
+      "title": "Notification aux Etats membres de l'adhésion de la Suède",
+      "score": 0.417224,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.412044,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "seychelles_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion des Seychelles",
+      "score": 0.409567,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_100_s1",
+  "title": "Pouvoirs de signature de la Suisse",
+  "year": 1972,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9738,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE CONSEIL FÉDÉRAL SUISSE qu'il a autorisé Monsieur Max Troendle, ancien Ambassadeur, Délégué de la Suisse au Bureau international des expositions, a signer, sous réserve de ratification, le Protocole portant modi- fication à la Convention du 22 novembre 1928 concernant les Expo- sitions internationales. En foi de quoi, les présentes ont été signées par le Président et le Chancelier de la Confédération Suisse et mun…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_100_s1.pdf",
+  "source_filename": "19720117_100_s1.pdf",
+  "source_sha256": "5ac28bde547716efd3c45e3a9cb288c4cebc0d23ccdf4b20df9ebcc220dfcccf",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "CHE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE CONSEIL FÉDÉRAL SUISSE\n\nqu'il a autorisé\n\nMonsieur Max Troendle, ancien Ambassadeur,\n\nDélégué de la Suisse au Bureau international des expositions, a signer, sous réserve de ratification, le Protocole portant modi- fication à la Convention du 22 novembre 1928 concernant les Expo- sitions internationales.\n\nEn foi de quoi, les présentes ont été signées par le Président et le Chancelier de la Confédération Suisse et munies du sceau du\n\nConseil fédéral.\n\nBerne, le 18 octobre 1972\n\nAU NOM DU CONSEIL FEDERAL SUISSE :\n\nLe Président de la C\n\nnfédération,\n\nho chanel Milerain.\n\n''!.\n\n23848/2",
+      "quality_score": 0.9738,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.642783,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.6198,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.427034,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.386873,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_45_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.38597,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.383642,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_15_s1",
+      "title": "Pouvoirs de signature de l'Autriche",
+      "score": 0.380087,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19530019_008",
+      "title": "Pouvoirs suisses pour l'échange des ratifications",
+      "score": 0.378885,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_003_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.378379,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_05_s1",
+      "title": "Extension de la validité de la convention au Land de Berlin",
+      "score": 0.376018,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

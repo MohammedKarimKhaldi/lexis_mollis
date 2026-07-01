@@ -1,0 +1,67 @@
+{
+  "document_id": "19880095_041_s1",
+  "title": "Pièces dans 19280002",
+  "year": 1988,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9709,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19880095 he Secretary of State avails himself of this opportunit • express to the French Embassy the assurance of ni highest consideration. LONDON Foreign and Commonwealth Office 26 October 1988",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_041_s1.pdf",
+  "source_filename": "19880095_041_s1.pdf",
+  "source_sha256": "421003abdf4420a9f4d166f08a7045f078513bf2013d628a0888f299a7e65b3e",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "GBN",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19880095\n\nhe Secretary of State avails himself of this opportunit\n\n• express to the French Embassy the assurance of ni highest consideration.\n\nLONDON\n\nForeign and Commonwealth Office 26 October 1988",
+      "quality_score": 0.9709,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20000079_101",
+      "title": "Échange de notes relatifs aux sanctions",
+      "score": 0.362119,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_100",
+      "title": "Échange de notes sur l'accès",
+      "score": 0.358366,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_016_s1",
+      "title": "Note verbale d'acceptation du Danemark",
+      "score": 0.355876,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

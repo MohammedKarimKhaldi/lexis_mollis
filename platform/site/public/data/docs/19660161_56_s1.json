@@ -1,0 +1,128 @@
+{
+  "document_id": "19660161_56_s1",
+  "title": "Pouvoirs de signature suédois",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9701,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Je, Rune Hermansson, Ministre des Affaires Etrangères a.i., certifie par les présentes que M. D. Winter, Attaché de Presse à l'Ambassade de Suède à Paris, est autorisé par Décret Royal à signer, sous réserve de ratification avec l'assentiment du Riksdag, Protocole portant modification de l'article IV de la Convention signée à Paris le 22 novembre 1928 concernant les Expositions Internationales. EN FOI DE QUOI, les p…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_56_s1.pdf",
+  "source_filename": "19660161_56_s1.pdf",
+  "source_sha256": "251078fcd84758819d1e8e6f5946c078fedf4e017a287b51da6d8a5bde16534f",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "SWE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Je, Rune Hermansson, Ministre des Affaires Etrangères a.i., certifie par les présentes que M. D. Winter, Attaché de\n\nPresse à l'Ambassade de Suède à Paris, est autorisé par Décret\n\nRoyal à signer, sous réserve de ratification avec l'assentiment du Riksdag, Protocole portant modification de l'article IV de la Convention signée à Paris le 22 novembre 1928 concernant les\n\nExpositions Internationales.\n\nEN FOI DE QUOI, les présentes lui ont été délivrées pour valoir ce que de droit.\n\nFait à Stockholm, le Il novembre 1966.",
+      "quality_score": 0.9798,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Je, Rune Fermansson, Ministre des Affaires\n\nEtrangères a.1., certifle par les présentes que M. D. Winter,\n\nAttaché de Presse a 1'Ambasaado de sudde à Paris, est auto- risé par Décret Royal & signer Protocole portant modifica- tlon de l'article IV de la Convention aignée à Parla le 22 novembre 1928 concernant les Expositions Internationales.\n\nEN FOI DE QUOI, les présentes lul ont été délivrées pour raloir ce que de droit.\n\nFait à Stockholm, le 11 novembre 1966.",
+      "quality_score": 0.9603,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_97_s1",
+      "title": "Pouvoirs de signature de la Suède",
+      "score": 0.840961,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_18_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.418872,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.402819,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_29_s1",
+      "title": "Pouvoirs de signature au Japon",
+      "score": 0.394184,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.393928,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.39354,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_49_s1",
+      "title": "Pouvoirs de signature de la Roumanie",
+      "score": 0.389906,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_40_s1",
+      "title": "Pouvoirs de signature du Danemark",
+      "score": 0.383346,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_17_s1",
+      "title": "Pouvoirs de notification de l'adhésion de la Finlande",
+      "score": 0.382867,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.381045,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

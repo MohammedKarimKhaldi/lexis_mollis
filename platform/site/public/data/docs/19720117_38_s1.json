@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_38_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification de Cuba",
+  "year": 1972,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT D'ADHESION DE LA REPUBLIQUE DE CUBA AU PROTOCOLE DU 30 NOVEMBRE 1972 PORTANT MODIFICATION DE LA CONVENTION SIGNEE A PARIS, LE 22 NOVEMBRE 1928 CONCERNANT LES EXPOSITIONS INTERNATIONALES Son Excellence, Monsieur Gregorio ORTEGA SUAREZ, Ambassadeur Extraordinaire et Plénipotentiaire de la République de Cuba s'est présenté aujourd'hui au Ministère des Relations Extérieures pour pr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_38_s1.pdf",
+  "source_filename": "19720117_38_s1.pdf",
+  "source_sha256": "a5109a860ee8419cad85c5525eab8e6f7e8875c46e97257513f8158a14701544",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "CUB00",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT D'ADHESION\n\nDE LA REPUBLIQUE DE CUBA\n\nAU PROTOCOLE DU 30 NOVEMBRE 1972\n\nPORTANT MODIFICATION DE LA CONVENTION\n\nSIGNEE A PARIS, LE 22 NOVEMBRE 1928\n\nCONCERNANT LES EXPOSITIONS INTERNATIONALES\n\nSon Excellence, Monsieur Gregorio ORTEGA SUAREZ, Ambassadeur\n\nExtraordinaire et Plénipotentiaire de la République de Cuba s'est présenté aujourd'hui au Ministère des Relations Extérieures pour procéder avec Monsieur\n\nMichel ROUGAGNOU, Chef du Protocole agissant au nom du Ministre des Relations\n\nExtérieures au dépôt de l'Instrument d'adhésion de la République de Cuba, au\n\nProtocole du 30 novembre 1972 portant modification de la Convention signée à\n\nParis, le 28 novembre 1928 concernant les Expositions Internationales.\n\nL'Instrument ayant été, après examen, trouvé en bonne et due forme, a été déposé, pour y être conservé, dans les Archives de la République française.\n\nConformément aux dispositions de l'article 35 de la Convention modifiée, le Protocole du 30 novembre 1972 prend effet à la date du dépôt de l'Instrument d'Adhésion.\n\nEN FOI DE QUOI, les Soussignés ont dressé le présent\n\nProcès-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, en double exemplaire\n\nLe 17 Novembre 1982.\n\nmAHA\n\nogoi\n\nPega",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.831155,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion chilien",
+      "score": 0.781737,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_74_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de Panama",
+      "score": 0.774269,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_68_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion du Nicaragua",
+      "score": 0.772976,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv002_s1",
+      "title": "Procès-verbal du dépôt de l'instrument d'adhésion au protocole de 1972",
+      "score": 0.756075,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.751616,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_108_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de l'Uruguay au protocole de 1972",
+      "score": 0.739094,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_63_s1",
+      "title": "Notification aux ambassadeurs auprès des pays membres de l'adhésion des États-Unis",
+      "score": 0.729806,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mex003_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Mexique",
+      "score": 0.729806,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_35_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Costa Rica",
+      "score": 0.726502,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

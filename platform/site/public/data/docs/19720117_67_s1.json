@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_67_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification de Monaco",
+  "year": 1972,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9981,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT DE RATIFICATION DE LA PRINCIPAUTE DE MONACO DU PROTOCOLE DU 30 NOVEMBRE 1972 PORTANT MODIFICATION DE LA CONVENTION SIGNEE A PARIS LE 22 NOVEMBRE 1928 CONCERNANT LES EXPOSITIONS INTERNATIONALES Monsieur René BOCCA, Ministre Conseiller de la Légation de Monaco s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Jean-Paul ANGLES, Ministre Pl…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_67_s1.pdf",
+  "source_filename": "19720117_67_s1.pdf",
+  "source_sha256": "4dc8211dcab9f5a967d52f98eeca7be8d4db83a1d52903998725d5040c80958a",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "MCO003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT DE RATIFICATION\n\nDE LA PRINCIPAUTE DE MONACO\n\nDU PROTOCOLE DU 30 NOVEMBRE 1972\n\nPORTANT MODIFICATION DE LA CONVENTION\n\nSIGNEE A PARIS LE 22 NOVEMBRE 1928\n\nCONCERNANT LES EXPOSITIONS INTERNATIONALES\n\nMonsieur René BOCCA, Ministre Conseiller de la Légation de\n\nMonaco s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Jean-Paul ANGLES, Ministre Plénipotentiaire\n\nChef du Protocole agissant au nom du Ministre des Affaires Etrangères, au dépot de l'Instrument de Ratification de la Principauté de Monaco, du Proto- cole du 30 novembre 1928 concernant les Expositions Internationales.\n\nL'Instrument ayant été, après examen, trouvé en bonne et due forme, a été déposé, pour y être conservé, dans les Archives de la Répu- blique française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent Procés- Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, en double\n\nle 18 fevaier 1976\n\nexemplaire,\n\nmange\n\nherisocia",
+      "quality_score": 0.9981,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_41_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Danemark",
+      "score": 0.839701,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.812925,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.783266,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_55_s1",
+      "title": "Procès verbal de dépôt de ratification de l'instrument de ratification de l'Italie",
+      "score": 0.773684,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.765423,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion chilien",
+      "score": 0.748854,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_58_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.743837,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_74_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de Panama",
+      "score": 0.740068,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_68_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion du Nicaragua",
+      "score": 0.73782,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_36_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.735494,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "document_id": "19540096_009_s1",
+  "title": "Instrument de ratification de l'Allemagne démocratique",
+  "year": 1954,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "ca",
+    "de",
+    "ro",
+    "tl"
+  ],
+  "quality_score": 0.7754,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "LEP . US! DER DEUTSCHEN DEMOKRATISCHEN REPUBLIK Nach Kenntnisnahme und Prüfung des Wortlautes der Internationalen Konvention über das Internationale Kälteinstitut vom 1. Dezember 1954, geändert am 2. September 1967 und am 28. August 1971, erklärt der Staatsrat der Deutschen Demokratischen Republik den Beitritt der Deutschen Demokratischen Republik zur obengenannten Konvention und versichert, daß die darin enthaltene…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_009_s1.pdf",
+  "source_filename": "19540096_009_s1.pdf",
+  "source_sha256": "2c2c04643441f178bcb4b88a392e3b8080d9b48fe79af4df2f4d1be3e9bb5ccc",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "DDR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LEP\n\n.\n\nUS!\n\nDER DEUTSCHEN DEMOKRATISCHEN REPUBLIK\n\nNach Kenntnisnahme und Prüfung des Wortlautes der\n\nInternationalen Konvention über das\n\nInternationale Kälteinstitut vom 1. Dezember 1954, geändert am 2. September 1967 und am 28. August 1971,\n\nerklärt der Staatsrat der Deutschen Demokratischen Republik den Beitritt der Deutschen Demokratischen Republik zur obengenannten Konvention und versichert, daß die darin enthaltenen Bestimmungen gewissenhaft erfüllt werden.\n\nZu Urkund dessen habe ich diese Urkunde unterzeichnet und mit dem Siegel versehen.\n\nBerlin, den\n\n27. Februar 1975",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "7A t pi l ii f\n\nGH i e 4 sa\n\nh. G\n\nHi f ay .\n\nHH\n\nH\n\nnA ea\n\nE ;\n\nuE ¢ a ni TÈ ha,\n\nas\n\nKi $ hiri\n\npha\n\nA -\n\nDAT\n\nJAA o\n\nEAF]\n\ntit ma let ki pie p\n\nTeat\n\nEF\n\nSA T\n\nnri:\n\nwar +\n\nJal A\n\naef g D \"P L ai e pih PTa a e EE S A'E, p Pai i ` a E TO KEN B F ki yi tA r kR, i: Lle pnn RT ` myrte . jga -eii a M E T uih pa TE\n\nHIERE E o3 ARS -o a e o a EAT in A\n\nL! pH i\n\nE:\n\nPr MRE hi\n\nF\n\nA i\n\nPATA >\n\nGATE\n\nARIA\n\nartani\n\nHUY $\n\natana pE ` PONEO . OSTEA EPPP E P AEE L ASE Da AEEA CAITE OE BET E",
+      "quality_score": 0.5509,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "ca",
+        "ro",
+        "tl"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_010_s1",
+      "title": "accusé de réception de l'adhésion de l'Allemagne démocratique",
+      "score": 0.456626,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900276_001",
+      "title": "Accord",
+      "score": 0.410077,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19730055_11_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.405145,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19770374_001_s1",
+      "title": "Texte de l'avenant (ensemble 4 annexes)",
+      "score": 0.401811,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19930030_001",
+      "title": "Traité",
+      "score": 0.400462,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19920078_001",
+      "title": "Traité",
+      "score": 0.397651,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_03_s1",
+      "title": "Épreuve avant tirage définitif (s. d.)",
+      "score": 0.391366,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19790195_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.391022,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630106_001a_s1",
+      "title": "Convention",
+      "score": 0.390549,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19740101_001",
+      "title": "Convention (ensemble 1 protocole d'application et 4 annexes)",
+      "score": 0.388927,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

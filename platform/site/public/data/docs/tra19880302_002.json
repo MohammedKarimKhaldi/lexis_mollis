@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19880302_002",
+  "title": "Pouvoirs français",
+  "year": 1988,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9704,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "hipealtique Française 1=÷. Nº291/88 H!/ POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre d'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à M. Marcel CAUSSE, Ambassadeur de France en Guinée Equatoriale pour signer un échange de lettres rectificatif à l'Accord de coopération militaire entre le Gouvernement de la République française et le Gouvernement de Guinée Equatoriale…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19880302_002.pdf",
+  "source_filename": "tra19880302_002.pdf",
+  "source_sha256": "e1532aacc4184b19365e1c39d320c59123182caaa4ef3da9f0ef807b1a7773ce",
+  "treaty_id": "TRA19880302",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "hipealtique Française\n\n1=÷.\n\nNº291/88\n\nH!/\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS,\n\nMinistre d'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à M. Marcel\n\nCAUSSE, Ambassadeur de France en Guinée Equatoriale pour signer un échange de lettres rectificatif à l'Accord\n\nde coopération militaire entre le\n\nGouvernement de la République française et le\n\nGouvernement de Guinée Equatoriale signé le 9 mars 1985./.\n\nFAIT à PARIS, le 9 décembre 1988\n\nLe Ministre d'Etat,\n\nMinistre des Affaires Etrangères\n\nPolit ..u..:",
+      "quality_score": 0.9704,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.588853,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860069_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.570944,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890169_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.563041,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810034_002",
+      "title": "Pouvoirs français",
+      "score": 0.542952,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870205_002",
+      "title": "Pouvoirs français",
+      "score": 0.540605,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850253_002",
+      "title": "Pouvoirs français",
+      "score": 0.507924,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910242_002",
+      "title": "Pouvoirs français",
+      "score": 0.408819,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.404512,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002b_s1",
+      "title": "Pouvoirs français (délivrés à Michel Vauzelle)",
+      "score": 0.401938,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.399095,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

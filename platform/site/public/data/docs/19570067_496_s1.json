@@ -1,0 +1,60 @@
+{
+  "document_id": "19570067_496_s1",
+  "title": "Instrument d'adhésion du Liban",
+  "year": 1957,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9636,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LIBAX. SLEIMAN FRANGIÉ Pridend de la Répubique Libanai Vi A tous ceux qui ces présentes lettres verront salut La République Libanaise adhère à la Convention instituant une Commission Séricicole Internationale. Le Gouvernement de la République Libanaise déclare que les dispositions de la Convention ci-dessus indiquée seront accomplies. En foi de quoi le présent acte d'Adhésion a été signé par nous et revêtu du Sceau…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_496_s1.pdf",
+  "source_filename": "19570067_496_s1.pdf",
+  "source_sha256": "29ba15a71584c121d441e27907a5894d3cd87b7d7c421c32258baa557501ff2a",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "LBN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LIBAX.\n\nSLEIMAN FRANGIÉ\n\nPridend de la Répubique Libanai Vi\n\nA tous ceux qui ces présentes lettres verront salut\n\nLa République Libanaise adhère à la Convention instituant une\n\nCommission Séricicole Internationale.\n\nLe Gouvernement de la République Libanaise déclare que les dispositions de la Convention ci-dessus indiquée seront accomplies.\n\nEn foi de quoi le présent acte d'Adhésion a été signé par nous et revêtu du Sceau de la République.\n\nFait à Baabda le 15 Avril 1972.",
+      "quality_score": 0.9636,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_496b_s1",
+      "title": "Pouvoirs libanais",
+      "score": 0.38171,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_186_s1",
+      "title": "Instrument d'adhésion du Centrafrique",
+      "score": 0.368206,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

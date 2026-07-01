@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19890183_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1989,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9346,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Archiver. Servia traitant = DFAE. Auverds de sévipecile. 14390183 N° 197/88 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre d'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à M. Hubert COLIN de VERDIERE, Ambassadeur extraordinaire et plénipotentiaire aux Emirats Arabes Unis, pour signer la Convention entre le Gouvernement de la République française et le Gouvernement des…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19890183_002_s1.pdf",
+  "source_filename": "tra19890183_002_s1.pdf",
+  "source_sha256": "8ecbdbeffa05832706f7fd60316a5589eb0e2a7c8fcbc94b602fbb7cc4ec7d2c",
+  "treaty_id": "TRA19890183",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Archiver. Servia traitant = DFAE. Auverds de sévipecile.\n\n14390183\n\nN° 197/88\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS,\n\nMinistre d'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à M. Hubert COLIN de VERDIERE, Ambassadeur extraordinaire et plénipotentiaire aux Emirats Arabes Unis, pour signer la Convention entre le\n\nGouvernement de la République française et le\n\nGouvernement des Emirats Arabes Unis en vue d'éviter les doubles impositions en matière d'impôts sur le revenu et d'Impôts sur les successions.\n\nFAIT & PARIS, le 5-.8.1l\n\nLe Ministre d'Etat,\n\nMinistre des Affaires Etrangères\n\nR. Dumas",
+      "quality_score": 0.9346,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19900250_002",
+      "title": "Pouvoirs",
+      "score": 0.66485,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.425499,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910044_002",
+      "title": "Pouvoirs français",
+      "score": 0.416032,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.412565,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_003_s1",
+      "title": "Pouvoirs émiratis",
+      "score": 0.409,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19930240_003_s1",
+      "title": "Pouvoirs émiratis",
+      "score": 0.404405,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.399186,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.398841,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_005_s1",
+      "title": "Instrument émirati",
+      "score": 0.394408,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_006a_s1",
+      "title": "Lettre du Sous-Secrétaire d'État aux Affaires étrangères émirati M. Al Nahyan accusant réception de l'instrument français et transmettant l'instrument émirati",
+      "score": 0.394222,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

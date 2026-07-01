@@ -125,5 +125,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190007_45_s1",
+      "title": "Pouvoirs",
+      "score": 0.935215,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_75_s1",
+      "title": "Pouvoirs délivés à Alfred Viscount Milner",
+      "score": 0.912732,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19510061_003_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.774017,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_18_s1",
+      "title": "Pouvoirs du Royaume-Uni",
+      "score": 0.64963,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19040040_002_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.456973,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.443835,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.441429,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19510061_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.440983,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_10_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.436319,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19330035_003_s1",
+      "title": "Pleins pouvoirs britanniques",
+      "score": 0.429266,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
 }

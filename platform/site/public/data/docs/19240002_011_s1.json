@@ -1,0 +1,152 @@
+{
+  "document_id": "19240002_011_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.908,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "1.11 d'Afghanistan Paris 25 JUIL. 1960 Paris, le 21 Juillet 1960 Met. Monsieur le Directeur, J'ai l'honneur de vous faire savoir que mon G uvernement souhaite adh rer offici llement à l'Office Internati nal des Epizooties et me c arge de vous notifier cette ad esion dans la sixieme categorie. Je vous serais reconnaissant de bien voul ir e faire savuir la suite donnee a cette lettre et sursis cette occasion, onsieur…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240002_011_s1.pdf",
+  "source_filename": "19240002_011_s1.pdf",
+  "source_sha256": "c4c7ff5b7588a2d4d4f0d054c034ab04077c9c7319d31dcc3e1d2987ff991c86",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "AFG001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1.11\n\nd'Afghanistan\n\nParis\n\n25 JUIL. 1960\n\nParis, le 21 Juillet 1960\n\nMet.\n\nMonsieur le Directeur,\n\nJ'ai l'honneur de vous faire savoir que mon\n\nG uvernement souhaite adh rer offici llement à l'Office Internati nal des Epizooties et me c arge de vous notifier cette ad esion dans la sixieme categorie.\n\nJe vous serais reconnaissant de bien voul ir e faire savuir la suite donnee a cette lettre et sursis cette occasion, onsieur le Durecteur, pour vous ren uvel r les assurances de ma meilleure considerati i.\n\nAu assadeur d'afgianistan\n\nconsi ur le Directeur de I' 12 rue de rony",
+      "quality_score": 0.9457,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "A. (d\n\nwt\n\nL'Ambassade Royale d'Afghanistan pr s nte ses c l ents a Mni t reds Affaires Etrang res et a l'honneur de ui faire parvenir ci-jo nt la lettre signifiant l'adhesion du Gouverne nt\n\nAfghan a l'OFFICE INTERNAT AL DES EPTZOOTIES.\n\nL'Ambassade serait reconnaissa: te au Himst re des Affaires\n\nEtrang res de bien voul ir transmettre cette let re & Monsieir e\n\nDi ecteur ae l'Q.I.E. ainsi ju de bi n voul r faire le necessaire a ce sujet, Elle l'en remercie à l'avance et saisit cette occasion p ur lui renouveler les assurante' de sa haute co ideratio .\n\nParis, le 21 Juillet 1960\n\nMinist re des Affaires “trang res\n\nDirection des Afaires Adm ustratives et Sociales - Unions Internationales 23 rue IA perouse\n\nPARIS 16°",
+      "quality_score": 0.9227,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "F*/HL\n\nDIRECTION DES AFPAIRES\n\nADMINISTRATIVES & SOCIALFS EB NT 1960\n\nUnions Internatíonales\n\nH? 74 UN\n\nFer ote en date du 21 juillet reque le 25 juill t 1960 1'Ambassade d'Afghanistan a bien vaulu informer le 1 istére des Affaires Etrang res de la déeision de son Gouver ement dtadhérer à l'Office Ine ternational dea Epízooties e de cholsir la sixième catégorie pour sa partioipation aux dépenses de cot organisme,\n\nConformément aux dispositi ns de l'a tiele 6 des statuts cette ad Ssion sera inc ssamment notifiée à to s les tats membres de 1'O fice par l'intermédiaire\n\nShu ee\n\nAKBASSADE ROYALE D'APGHANISTAN\n\nà\n\nPARIS",
+      "quality_score": 0.8984,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "des missions diplomatiques frangsíses à l'étranger, /,\n\nLe Ministère des Affaires Etrangères saisit cette occasion pour renou eler l'An bassede Royale d'Afghanistan les assurances Ce sa haute considération,",
+      "quality_score": 0.8652,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_28_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Finlande",
+      "score": 0.601039,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.573706,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_06_s1",
+      "title": "Note verbale d'adhésion de l'Afrique du Sud",
+      "score": 0.398744,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.398038,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.396942,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_006b_s1",
+      "title": "Note de transmission de la lettre de M. Al Nahyan et de l'instrument émirati",
+      "score": 0.390679,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_003_s1",
+      "title": "Pouvoirs kenyans",
+      "score": 0.390487,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19680088_007_s1",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.389795,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.389755,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_005_s1",
+      "title": "Instrument émirati",
+      "score": 0.389618,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

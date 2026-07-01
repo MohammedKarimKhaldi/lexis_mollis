@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_033_s1",
+  "title": "Note verbale du dépositaire à l'Ambassade d'Allemagne fédérale à Paris relative à la déclaration allemande du 17 décembre 1959",
+  "year": 1954,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9611,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JM/HL DIRECTION DES AFFAIRES ADMINISTRATIVES & SOCIALES Unions Internationales NO 11/UN Pares 7 Jauzer 1960 Par note en date du 17 décembro 1959 l'Ambassade do la Républiquo Fédéralo d'Allomagno 2 bien voulu Indiquer au Ministère des Affaires Etrangères que la ratification par son Gouvernemønt do la Convention Internationalo pour 1'Unification dos métbodos d'analyse et d'appréciation dos Vins du 13 octobro 1954 sora…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_033_s1.pdf",
+  "source_filename": "19540090_033_s1.pdf",
+  "source_sha256": "44f49e6d96b83aaded1ad2de3c657983adad1f951dd0d04011e1a53f20590434",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "DEU006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JM/HL\n\nDIRECTION DES AFFAIRES\n\nADMINISTRATIVES & SOCIALES\n\nUnions Internationales\n\nNO 11/UN\n\nPares 7 Jauzer 1960\n\nPar note en date du 17 décembro 1959 l'Ambassade do la Républiquo Fédéralo d'Allomagno 2 bien voulu Indiquer au Ministère des Affaires\n\nEtrangères que la ratification par son Gouvernemønt do la Convention Internationalo pour 1'Unification dos métbodos d'analyse et d'appréciation dos Vins du 13 octobro 1954 soralt égalomont valable pour 10 \"'Land Berlin\"' avoo offot lo 24 janvior 1960, dato à laquolle entrera en vigueur ladito convontion en co qui concerno la République Fédérale d'Allemagne.\n\nLe Ministèro a I'honnour de faire savoir à l'Ambassado que cotto notification sera Incessamment portéo à la connaissanco des autros états signatalres ou adhérents ainsi qu'à l'Offico Intornational du Vin, par les soins du Ministèro./.\n\nLo Ministère salsit cotto occasion pour ro- nouveler à l'Ambassado los assurances do sa hauto con- sidération./\n\nAMBASSADE DE LA REPUBLIQUE\n\nFEDERALE D'ALLEMAGNE\n\nPARIS",
+      "quality_score": 0.9611,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.408749,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_021_s1",
+      "title": "accusé de réception de l'adhésion de l'Autriche",
+      "score": 0.408726,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_054_s1",
+      "title": "Note verbale de transmission de la déclaration d'acceptation de la Finlande",
+      "score": 0.406079,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_439b",
+      "title": "Échange de notes entre l'Ambassade d'Italie en France et le ministère français des Affaires étrangères relatif à la date d'entrée en vigueur de l'accord: lettre française",
+      "score": 0.39583,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_07_s1",
+      "title": "accusé de réception de la note d'adhésion de l'Allemagne",
+      "score": 0.390676,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_031c_s1",
+      "title": "Déclaration",
+      "score": 0.389213,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_25_s1",
+      "title": "Note verbale de demande d'adoption d'un statut d'Etat observateur pour la Finlande",
+      "score": 0.385404,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_016_s1",
+      "title": "Instrument d'adhésion sud-africain",
+      "score": 0.381651,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.380221,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_060_s1",
+      "title": "accusé de réception par l'Institut international du Froid de l'adhésion d'Israël",
+      "score": 0.377497,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

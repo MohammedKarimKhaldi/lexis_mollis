@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19930240_100_s1",
+  "title": "Certificat d'enregistrement à l'ONU",
+  "year": 1993,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.993,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "11330240 No. 46258 Certificate of registration The Secretary-General of the United Nations hereby certifies that the following international agreement has been registered with the Secretariat, in accordance with Article 102 of the Charter of the United Nations: No. 31650. France and United Arab Emirates Amendment to the Convention between the Government of the French Republic and the Government of the United Arab Em…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19930240_100_s1.pdf",
+  "source_filename": "tra19930240_100_s1.pdf",
+  "source_sha256": "9ca00cc3f6e7a5801ee9cd179e6ff837158ae1fa77af8f7a19df6ec8a93040d2",
+  "treaty_id": "TRA19930240",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "11330240\n\nNo. 46258\n\nCertificate of registration\n\nThe Secretary-General of the United Nations hereby certifies that the following international agreement has been registered with the Secretariat, in accordance with Article 102 of the Charter of the United Nations:\n\nNo. 31650. France and United Arab Emirates\n\nAmendment to the Convention between the Government of the French Republic and the Government of the United\n\nArab Emirates for the avoidance of double taxation, signed on 19 July 1989. Abu Dhabi, 6 December 1993.\n\nRegistration with the Secretariat of the United Nations:\n\nFrance, 8 October 1999\n\nDone at New York on 25 October 1999\n\nFor the Secretary-General\n\nCertificat d'enregistrement\n\nLe Secrétaire Général de l'Organisation des Nations Unies certifie par la présente que l'accord international indiqué ci-après a été enregistré au Secrétariat, conformément à l'Article 102 de la Charte des Nations Unies :\n\nNo 31650. France et Émirats arabes unis\n\nAvenant à la Convention entre le Gouvernement de la\n\nRépublique française et le Gouvernement des Emirats arabes unis en vue d'éviter les doubles impositions, signée le 19 juillet 1989. Abou Dhabi, 6 décembre 1993.\n\nEnregistrement auprès du Secrétariat des Nations Unies :\n\nFrance, 8 octobre 1999\n\nFait à New York le 25 octobre 1999\n\nPour le Secrétaire Général\n\nONITED NATIONS\n\nLe Conseitler juridique\n\nThe Legel Counsol",
+      "quality_score": 0.993,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20030221_002_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.643285,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_008_s1",
+      "title": "Certificat de l'enregistrement n° 55965",
+      "score": 0.427242,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810127_011_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.426772,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20162270_008_s1",
+      "title": "Certificat de l'enregistrement n° 55964",
+      "score": 0.424416,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.416478,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760090_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.413079,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_101_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.41234,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.411603,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.410266,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_100_s1",
+      "title": "Certificat ONU d'enregistrement de la convention",
+      "score": 0.409524,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

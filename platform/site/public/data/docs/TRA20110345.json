@@ -1,0 +1,74 @@
+{
+  "document_id": "TRA20110345",
+  "title": "Accord",
+  "year": 2011,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9036,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Direction des Affaires juridiques Ministère de l'Europe et des Affaire étrangères septembre 2017 Direction des Archives Dernière mise à jour 04/08/2017 Validation DJ 14/09/2017 Accord relatif à la création, à la construction et à l'exploitation aux Etats-Unis d'Amérique d'installations d'enrichissement de l'uranium ayant recours à la technologie de la centrifugation gazeuse, signé à Paris le 24 février 2011. Cote TR…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20110345.pdf",
+  "source_filename": "TRA20110345.pdf",
+  "source_sha256": "9c39ef2ec671e37f7a0ca29baab9c08a126d1113cad5aa654360b1fd0468de5e",
+  "treaty_id": "TRA20110345",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Direction des Affaires juridiques Ministère de l'Europe et des Affaire étrangères septembre 2017\n\nDirection des Archives\n\nDernière mise à jour 04/08/2017\n\nValidation DJ 14/09/2017\n\nAccord relatif à la création, à la construction et à l'exploitation aux Etats-Unis d'Amérique d'installations d'enrichissement de l'uranium ayant recours à la technologie de la centrifugation gazeuse, signé à Paris le 24 février 2011.\n\nCote TRA00000345\n\nEntrée en vigueur 31/01/2012\n\nArticle XIV de l'accord : << Le présent Accord entre en vigueur à la date de la reception de la dernière des notes adressées au dépositaire par les Parties au présent Accord et attestant l'accomplissement de\n\nConditions d'entrée en vigueur toutes les procédures requises pour son entrée en vigueur. [...] >>\n\nRetrait /\n\nRatification/Adhésion/Succession (date de\n\nEtats Signature Entrée en vigueur (ou date d'effet) Dénonciation réception, ou à défaut, date de la notification)\n\nAllemagne 24/02/2011 11/07/2011 31/01/2012 1\n\nEtats-Unis d'Amérique 24/02/2011 12/10/2011 31/01/2012 2\n\nFrance 24/02/2011 19/05/2011 31/01/2012 3\n\nPays-Bas 24/02/2011 23/12/2011 31/01/2012 4\n\nRoyaume-Uni de Grande-Bretagne 24/02/2011 31/01/2012 31/01/2012 5 et d'Irlande du Nord\n\nNombre total de ratifications et d'adhésions 5",
+      "quality_score": 0.9036,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20162463",
+      "title": "Texte de l'avenant",
+      "score": 0.356484,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220120_100_s1",
+      "title": "Publication de l'accord au Journal officiel du",
+      "score": 0.352161,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240055_001_s1",
+      "title": "Convention",
+      "score": 0.350834,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090263_001_s1",
+      "title": "Accord",
+      "score": 0.350197,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

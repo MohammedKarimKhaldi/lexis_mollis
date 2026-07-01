@@ -1,0 +1,82 @@
+{
+  "document_id": "tra18050015_002",
+  "title": "tra18050015_002",
+  "year": 1805,
+  "doc_type": "Inconnu",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8076,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "gne Divirions Pilationis Midladis. les fas. commerciales. 1º 219. Priplicatas - 1805° plires Monseigneus, des traités par Ahanot Pichai fée la formules. tous les traites ancens linouveaux, e touscrite de la Vigilan du firme: Car les rais estimées dam ma tello di 99. fruction j'áifait substituer au mot Kral celui de Madischah jen'ai point j'interprote tire, dleskhojas desco payed dont di ignoran, qu il ice peune ento…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Inconnu",
+    "instrument_type:unknown",
+    "legal_force:unknown",
+    "period:revolutionary_napoleonic_1789_1815",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18050015_002.pdf",
+  "source_filename": "tra18050015_002.pdf",
+  "source_sha256": "8d6888b31acb5e12bb777245055a016c465349c6a4b2889ac6d70dc0d10f0ce2",
+  "treaty_id": "TRA18050015",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "gne Divirions\n\nPilationis\n\nMidladis.\n\nles fas.\n\ncommerciales.\n\n1º 219.\n\nPriplicatas\n\n- 1805° plires\n\nMonseigneus,\n\ndes traités par Ahanot Pichai fée la formules.\n\ntous les traites ancens linouveaux, e touscrite de la Vigilan du firme: Car les rais estimées dam ma tello di 99. fruction j'áifait substituer au mot Kral celui de Madischah jen'ai point j'interprote tire, dleskhojas desco payed dont di ignoran, qu il ice peune entone rantre qu imparfaite ce qu'il érivent;, 'ai fais copies matériellement in\n\nTum. l'acte de renouvelement que j joins ici.\n\nDaigny agris, Manignan, l'hommages de mes sentimeis tre-respectieux.\n\nSechang fois de . A Compris Mis,\n\nDuboisziainillef",
+      "quality_score": 0.7826,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "1805= Sérente.\n\nPensurellement de traité.",
+      "quality_score": 0.7996,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "باعث كير فلم وموجد حتيطر لولدركم\n\n-locale\n\nMalia die paron, sent an ergei suit!\n\nat son eimielen fauscá a l'etermité dano ul ather dalénner 1920 Jun Alterse.\n\nlui ayanis succadé laven la dignitó de Bee pantalligame entraitors- la Trunerise\n\nوصلا فز متين وشروط رابق لفته دوسنافز منخلم اولمفين لاينو حله فيدا ولندى كيماً دودئه شرعا.\n\nPenna les poronnis no juro do ejimargies athen do lemmée 1990\n\nMato in Trad. cott pisco ordi Malécrita.\n\ndo plusbas ton Scene.\n\nDour copie cataito dous no your des eginaus.\n\ndes traits paran khojjo juré.\n\nYu chargin air de d. N. Euponen do theis same\n\nDubois-chaviney",
+      "quality_score": 0.8407,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

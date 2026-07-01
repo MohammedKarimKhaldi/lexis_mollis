@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_053_s1",
+  "title": "Déclaration d'acceptation de la Finlande",
+  "year": 1954,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.967,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DECLARATION D'ACCEPTATION Le Gouvernement de la République de Finlande VU la Convention internationale se substituant a la Convention du 21 juin 1920 modifiée le 31 mai 1937, relative a l'Institut international du froid, faite à Paris, le jer decembre 1954, AYANT examiné et approuvé ladite Convention DECLARE formellement par la présente accepter ladite Convention. EN FOI DE QUOI, Moi V.J. Sukselainen, President du C…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_053_s1.pdf",
+  "source_filename": "19540096_053_s1.pdf",
+  "source_sha256": "0f0d32af732f11519b31d014d0a61833b0c33bbd78418b3068c0005e48b7472f",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "FIN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DECLARATION D'ACCEPTATION\n\nLe Gouvernement de la République de Finlande\n\nVU la Convention internationale se substituant a la\n\nConvention du 21 juin 1920 modifiée le 31 mai 1937, relative a l'Institut international du froid, faite à Paris, le jer decembre 1954,\n\nAYANT examiné et approuvé ladite Convention\n\nDECLARE formellement par la présente accepter ladite\n\nConvention.\n\nEN FOI DE QUOI, Moi V.J. Sukselainen, President du\n\nConseil et Ministre des Affaires Etrangères a. i., J'ai signe la présente declaration d'acceptation.\n\nFait à Helsinki, au Ministére des Affaires Etrangérés, le 30 Octobre 1959.",
+      "quality_score": 0.967,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_056_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.517504,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_012_s1",
+      "title": "Instrument de ratification de l'Allemagne fédérale",
+      "score": 0.399034,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_059_s1",
+      "title": "Instrument d'accession de l'Irlande",
+      "score": 0.394634,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_080_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification néerlandais",
+      "score": 0.390568,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_013_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification ouest-allemand",
+      "score": 0.390212,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_092_s1",
+      "title": "Instrument d'adhésion de la République tchèque",
+      "score": 0.387105,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_28_s1",
+      "title": "Instrument de ratification norvégien",
+      "score": 0.386437,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_074_s1",
+      "title": "Déclaration de la Nouvelle-Zélande",
+      "score": 0.384991,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_090_s1",
+      "title": "Instrument de ratification du Royaume-Uni",
+      "score": 0.381085,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_15_s1",
+      "title": "Pouvoirs de la Finlande",
+      "score": 0.380099,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

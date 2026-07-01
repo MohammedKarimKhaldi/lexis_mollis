@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_036_s1",
+  "title": "Pouvoirs de signature du Chili",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9854,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLICA DE CHILE MINISTERIO DE RELACIONES EXIERIORES SALVADOR ALLENDE GOSSENS Presidente de la República de Chile A TODOS LOS QUE LAS PRESENTES VIEREN, SALUD, Confiero por las Presentes Plenos y Ab- solutos Poderes al señor Pablo Neruda, Embajador Extraor- dinario y Plenipotenciario de la República ante el Gobier- no de la República Francesa para que, a nombre de mi Go- bierno, proceda a depositar el Instrumento d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_036_s1.pdf",
+  "source_filename": "19540096_036_s1.pdf",
+  "source_sha256": "e6f1cca1f6b2e07c658ba8fcc31eb9c140da285295a260573d1428016f2806e8",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "CHL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLICA DE CHILE\n\nMINISTERIO DE RELACIONES EXIERIORES\n\nSALVADOR ALLENDE GOSSENS\n\nPresidente de la República de Chile\n\nA TODOS LOS QUE LAS PRESENTES VIEREN,\n\nSALUD,\n\nConfiero por las Presentes Plenos y Ab-\n\nsolutos Poderes al señor Pablo Neruda, Embajador Extraor- dinario y Plenipotenciario de la República ante el Gobier- no de la República Francesa para que, a nombre de mi Go- bierno, proceda a depositar el Instrumento de Adhesión de\n\nChile a la Convención Internacional del Frío, suscrita en\n\nParis el primero de diciembre de mil novecientos cincuenta y cuatro y modificada el dos de septiembre de mil novecien- tos sesenta y siete.\n\nEN FE DE LO CUAL,\n\nle he hecho extender estos Plenos Poderes, firmados de mi mano, sellados con las Armas de la República y refrendados por el Ministro de Estado en el Departamento de Relaciones\n\nExteriores.\n\nDados en Santiago a los diez días del\n\nmes de mayo de mil novecientos setenta y uno.",
+      "quality_score": 0.9854,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_037_s1",
+      "title": "Instrument du Chili",
+      "score": 0.437391,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_038_s1",
+      "title": "Note verbale d'accompagnement de l'instrument chilien",
+      "score": 0.421581,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.416807,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_003",
+      "title": "tra19720042_003",
+      "score": 0.407359,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_73_s1",
+      "title": "Pouvoirs de dépôt d'instrument d'adhésion",
+      "score": 0.404951,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.404834,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.404353,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.403301,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.402932,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_75_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.393857,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

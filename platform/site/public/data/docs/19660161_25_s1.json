@@ -1,0 +1,164 @@
+{
+  "document_id": "19660161_25_s1",
+  "title": "Instrument de ratification de la Hongrie",
+  "year": 1966,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "ca",
+    "et",
+    "fr",
+    "hu",
+    "ro"
+  ],
+  "quality_score": 0.706,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Wi W AT | S 3 BN a Népközlársasio „lz A Magyar Népköztársaság Elnöki Tanáçsa megerðsiti a nemzet- Közi kiállításokról Párizsban, 1928. novomber 22-én aláirt nemzetközi egyezmény 4. Cikkének móaositása tárgyában 1965. november 5-én kelt Jegyzőkönyvet, A Magyar Népköztársaság Llnöki Tanácsa a fentiek hitelćúl Łlnökének és Titxarának aláirásával, valamint pecséttel ellátva ezt a megerősitő okiratot a msi napon kiadja.…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_25_s1.pdf",
+  "source_filename": "19660161_25_s1.pdf",
+  "source_sha256": "94c7fcf4c611d2ea1cd2ccbb35a2ee4eb08ea5935047c54dd2d0db8869ea7584",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "HUN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Wi W\n\nAT |\n\nS",
+      "quality_score": 0.5341,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "3\n\nBN a Népközlársasio „lz\n\nA Magyar Népköztársaság Elnöki Tanáçsa megerðsiti a nemzet- Közi kiállításokról Párizsban, 1928. novomber 22-én aláirt nemzetközi egyezmény 4. Cikkének móaositása tárgyában 1965.\n\nnovember 5-én kelt Jegyzőkönyvet,\n\nA Magyar Népköztársaság Llnöki Tanácsa a fentiek hitelćúl\n\nŁlnökének és Titxarának aláirásával, valamint pecséttel ellátva ezt a megerősitő okiratot a msi napon kiadja.\n\nKelt Budapesten, az 1967.\n\ngo . f vi gp®ruar hó Tê. napjén.\n\na kéêpköztársaság ulnöki\n\nTanácsának elnöke\n\nCas llo\n\nAN Tanácsának Litkára",
+      "quality_score": 0.8319,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Le Conseil de Présidence de la République Populatre\n\nHongroise ratifie le Protocole du 5 novembre 1965 por- tant modification de l'article IV de la Convention\n\nInternationale signée à Paris le 22 novembre 1928 concer- nant les expositions internationales.\n\nEn lol de quoi, le Conseil de Présidence de la Répub- lique Populaire Hongroise établit le présent instrument de ratification revêtu des signatures de son Président et de son secrétaire, et scellé de son sceau.\n\nFait à Budapest, le 26 Janvier 1967.\n\n(Signé) Istrán DOBI\n\nPrésident du Conseil de Présidence de la République Populaire (S1gnó) KároLy BISS\n\nSortent du Cones op Presanc\n\n15 férien.\n\n-196.7- Entre\n\net du Dates etrangères de la Répubique Populair A\n\nHor groise.",
+      "quality_score": 0.9482,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "r a A ea\n\nPa eae i TE, rrean\n\nE mE a rea aa rA Tre araa wrar, e mra e pa a nat es = e\n\nH E aa aii a eim\n\naa e E: = r r\n\nT E e E ra R,\n\nTaki H | aiir ppa m. a\n\nE\n\nrlt annn a eiiam. nas ai mi\n\nH\n\n} f !\n\nf\n\nF\n\n| f !\n\n|\n\ni !\n\ni\n\n;\n\ni i\n\nP E E a",
+      "quality_score": 0.5098,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "ca",
+        "et",
+        "ro"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_31_s1",
+      "title": "Instrument d'adhésion de la Hongrie",
+      "score": 0.394068,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_21_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.38071,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.380448,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_058_s1",
+      "title": "Pouvoirs français",
+      "score": 0.379997,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_17_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de l'Autriche",
+      "score": 0.375866,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_46_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.3753,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hun001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.373899,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_59_s1",
+      "title": "Instrument de ratification de la Suisse",
+      "score": 0.371601,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_049_s1",
+      "title": "Note verbale d'acceptation de la Tunisie",
+      "score": 0.371133,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.369192,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

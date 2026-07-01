@@ -1,0 +1,49 @@
+{
+  "document_id": "tra18620006_100_s1",
+  "title": "Ancienne fiche de récolement",
+  "year": 1862,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8351,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Suisse 8 dícembra 1862 Titre: Iraité portant casion à la France d'une parte de la vallé des Dapte. annexes: Protocole Hank Ilea de signature: Derne Ratifications françaises: Ratifications: Awise: Berne 2 fürnier 1863 a'échangex Berne, 20 février 1 8763 Carton ratifications 1 miss Boîte nº2 Modifications: R6TFleu série rd 1tomes ne 61 PUBLICATION: Bullatn oleine du Munitie de la Guerre N° 110-3, 1955, p. 17 (extraita…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18620006_100_s1.pdf",
+  "source_filename": "tra18620006_100_s1.pdf",
+  "source_sha256": "20a53f678efb14c4cae30ec491c6d65857b51501d98091def05130b4d1804082",
+  "treaty_id": "TRA18620006",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Suisse\n\n8 dícembra 1862\n\nTitre:\n\nIraité portant casion à la France d'une parte de la vallé des Dapte.\n\nannexes: Protocole\n\nHank\n\nIlea de signature: Derne\n\nRatifications françaises:\n\nRatifications: Awise: Berne 2 fürnier 1863 a'échangex Berne, 20 février 1 8763\n\nCarton\n\nratifications 1 miss\n\nBoîte nº2\n\nModifications:\n\nR6TFleu série rd 1tomes ne 61\n\nPUBLICATION: Bullatn oleine du\n\nMunitie de la Guerre N° 110-3, 1955,\n\np. 17 (extraita)\n\nBandevant, t III, p. 399 (Traite el brsticle)\n\nBulletin des dois 1863 n° 1098, p. 282",
+      "quality_score": 0.8351,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

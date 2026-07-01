@@ -117,9 +117,10 @@ Mollis sont distribuées sous CC-BY-4.0 avec attribution :
 Les textes officiels sous-jacents peuvent relever de statuts distincts ; le champ
 `rights_status` est conservé pour éviter toute inférence abusive.
 
-Les publications publiques prévues sont :
+Les publications publiques sont :
 
-- Hugging Face Datasets : `lexis-mollis/soft-law-corpus`
+- Hugging Face Datasets : https://huggingface.co/datasets/lexis-mollis/soft-law-corpus
+- Site public : https://lexis-mollis.mk-74a.workers.dev
 - Zenodo : DOI à créer lors de la première release
 - Internet Archive ou équivalent : conservation des PDF sources lorsque les droits
   le permettent

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20240058_001a_s1",
+  "title": "Lettre",
+  "year": 2024,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Française A Paris, le 7 juin 2024 Madame la première Vice-première ministre, La France et l'Ukraine placent l'énergie nucléaire au cour de leur stratégie visant à assurer la sécurité et l'indépendance énergétiques de leurs pays, et considèrent cette énergie comme indispensable à la lutte contre le changement climatique et l'atteinte de la neutralité carbone. Le potentiel de coopération entre la France et…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20240058_001a_s1.pdf",
+  "source_filename": "tra20240058_001a_s1.pdf",
+  "source_sha256": "ae41165296e5646ca5f831649a87112d32850db8cf954f250bbee80eddd59b57",
+  "treaty_id": "TRA20240058",
+  "treaty_number": "001A",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République Française\n\nA Paris, le 7 juin 2024\n\nMadame la première Vice-première ministre,\n\nLa France et l'Ukraine placent l'énergie nucléaire au cour de leur stratégie visant à assurer la sécurité et l'indépendance énergétiques de leurs pays, et considèrent cette énergie comme indispensable à la lutte contre le changement climatique et l'atteinte de la neutralité carbone. Le potentiel de coopération entre la France et l'Ukraine dans le domaine de l'énergie nucléaire apparaît en conséquence important, tant au niveau institutionnel que scientifique et industriel, compte tenu notamment de l'ambition de l'Ukraine de construire des réacteurs de nouvelle génération afin de renouveler son parc électronucléaire.\n\nDans ce contexte, j'ai l'honneur, au nom du gouvernement de la République française, de vous proposer de conclure un accord entre le gouvernement de la République française et le Cabinet des ministres de l'Ukraine (Gouvernement de l'Ukraine) visant à reprendre la coopération entre le Gouvernement de la République française et le Gouvernement de l'Ukraine pour le développement des utilisations pacifiques de l'énergie nucléaire, en appliquant l'ensemble des dispositions de l'Accord de coopération entre le Gouvernement de la République française et le Gouvernement de l'Ukraine pour le développement des utilisations pacifiques de l'énergie nucléaire, signé à Kiev le 3 septembre 1998 (ci-après « l'Accord »), qui entreront à nouveau en vigueur à compter de l'entrée en vigueur du présent accord par échange de lettres, constitué de la présente lettre et de votre réponse.\n\nJe vous saurais gré de bien vouloir me faire savoir si cette proposition recueille l'agrément de votre Gouvernement. Dans l'affirmative, chaque Partie notifie à l'autre Partie l'accomplissement des procédures internes requises pour l'entrée en vigueur du présent\n\nAccord, qui prend effet le premier jour du deuxième mois suivant la date de réception de la dernière notification.\n\nVeuillez agréer, Madame la première Vice-Première ministre, l'assurance de ma très haute considération.\n\nStéphane SÉJOURNÉ\n\nMinistre de l'Europe et des Affaires étrangères",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20240058_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.92816,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20080174_001_s1",
+      "title": "Traité",
+      "score": 0.363629,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240011_001_s1",
+      "title": "Déclaration",
+      "score": 0.36188,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750189_001_s1",
+      "title": "Accord",
+      "score": 0.361411,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240069_001_s1",
+      "title": "Partenariat",
+      "score": 0.360349,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182526_001_s1",
+      "title": "Déclaration",
+      "score": 0.356212,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202762_001_s1",
+      "title": "Texte du partenariat",
+      "score": 0.355347,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240042_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.355317,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202795_001_s1",
+      "title": "Texte de la feuille de route",
+      "score": 0.351584,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20220141_s1",
+      "title": "Accord",
+      "score": 0.350009,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

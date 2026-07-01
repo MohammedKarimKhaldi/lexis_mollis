@@ -1,0 +1,79 @@
+{
+  "document_id": "tra19420001_001_s1",
+  "title": "Accord - version française",
+  "year": 1941,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8993,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JE/R 56. T.4a3. 02. | | Londres, le 13 août 19h2, Per lettre du if de ce mois, vous aves vien voulu me faire savoir que le Üovvernement de i'Union Sud-Afrieaine reconnaît 16 Comité National Frangain sous ia présidenoe du Général de Gaulle comme l'aucorité \"de facto\" dans les territoires frangais et les terrlioires sous mandet français qui sont actuellement contrôlée par ie Comité National, et qu'il reconnaît le Colo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19420001_001_s1.pdf",
+  "source_filename": "tra19420001_001_s1.pdf",
+  "source_sha256": "bed03b4a73070d2b91ebcc49d10696132283dc77bbabcc49879936de3f3f6bcb",
+  "treaty_id": "TRA19411615",
+  "treaty_number": "001a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JE/R\n\n56. T.4a3. 02. | |\n\nLondres, le 13 août 19h2,\n\nPer lettre du if de ce mois, vous aves vien voulu me faire savoir que le Üovvernement de i'Union Sud-Afrieaine reconnaît 16 Comité\n\nNational Frangain sous ia présidenoe du Général de Gaulle comme l'aucorité \"de facto\" dans les territoires frangais et les terrlioires sous mandet français qui sont actuellement contrôlée par ie Comité National, et qu'il reconnaît le\n\nColonel rechkoif comme Déiésué du Comité Nat lonal dans L'Union Syd-Africeine et come représentant tous ies français cui, dans i'Union Jud-Africaine, e*tdentifient avec le nouvcsipont de jo AGE\n\n: | Combatiante.\n\nvrhore\n\nBon Excellenee Monsieur 5,7, Taoterson,\n\nHaut-Conmiscaire pour l'Union Sud-Africaing,",
+      "quality_score": 0.8714,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "2e\n\nJ'ai l'honneur dtaccuaer réception et de vous Teudercier de cette obligeante communiention.\n\nLe Comité National Français apprécie à sa haute valeur ia décision prise por ie Gouvernement de l'Union. Ii esl convaincu qu'elle aura pour effet fe rendre pius étroites encore ies heureuse relations existant entre 1: ¥ronce Combattante et l'Union Sud-Afriozine,",
+      "quality_score": 0.9272,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19420001_010_s1",
+      "title": "Accord (lettre sud-africaine)",
+      "score": 0.417581,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18390006_016",
+      "title": "Échange de lettres relatives à un projet de révision des traités du 19 avril 1839 entre la Belgique et les Pays Bas",
+      "score": 0.361092,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630043_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.358314,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

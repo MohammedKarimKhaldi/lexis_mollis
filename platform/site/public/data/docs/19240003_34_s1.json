@@ -1,0 +1,118 @@
+{
+  "document_id": "19240003_34_s1",
+  "title": "Instrument d'adhésion d'Israël",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.954,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "GOLDA MEIR MINISTER FOR FOREIGN AFFAIRS TO ALL TO WHOM THESE PRESENTS SHALL COME BE IT KNOWN WHEREAS on the Twenty-Ninth day of November, One Thousand Nine Hundred and Twenty-Four, there was done at Paris an Agreement for the Creation in Paris of an International Vine end Wine Office; AND WHEREAS by Article 6 of the Agreement it is provided that any country not a party to the Agreement mey accede thereto; AND WHEREA…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_34_s1.pdf",
+  "source_filename": "19240003_34_s1.pdf",
+  "source_sha256": "5b995f03a4458745e1e08c18c4fd456e66c3ebb9dd65bf0a8356178662137610",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "ISR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GOLDA MEIR\n\nMINISTER FOR FOREIGN AFFAIRS\n\nTO ALL TO WHOM THESE PRESENTS SHALL COME BE IT KNOWN\n\nWHEREAS on the Twenty-Ninth day of November, One Thousand\n\nNine Hundred and Twenty-Four, there was done at Paris an Agreement for the Creation in Paris of an International Vine end Wine Office;\n\nAND WHEREAS by Article 6 of the Agreement it is provided that any country not a party to the Agreement mey accede thereto;\n\nAND WHEREAS on the Thirteenth day of September, One\n\nThousand Nine Hundred and Fifty-Nine, the Government of Israel, in accordance with the powers vested in it by law, decided to accede to the said Agreement;\n\nNOW THEREFORE, by these Presents, it is declared that the\n\nGovernment of Israel accedes to the Agreement for the Creation in\n\nParis of an International Vine and Wine Office, done at Peris on 29 November 1924.\n\nIN WITNESS WHEREOF I, Golda Meir, Minister for Foreign\n\nAffairs, have hereunto caused the Seal of the Ministry for Foreign\n\nAffairs to be affixed, and have subscribed my signature at Jerusalem ihis Twenty-Third day of Tishri, Five Thousand Seven Hundred and\n\nTwenty, which corresponds to the Twenty-Fifth day of October, One\n\nThousand Nine Hundred and Fifty-Nine.\n\nHLda Mer",
+      "quality_score": 0.954,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_39_s1",
+      "title": "Instrument d'adhésion d'Israël",
+      "score": 0.610887,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_28_s1",
+      "title": "Instrument d'adhésion israélien",
+      "score": 0.430363,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_018_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.410946,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_mdv001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.405634,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_041_s1",
+      "title": "Instrument de la Corée du Sud",
+      "score": 0.397269,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.386472,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19240002_733_colonies_britanniques_s1",
+      "title": "Note de l'ambassade britannique relative à l'adhésion à l'accord des territoires sous domination britannique : Chypre, Malte, Côte de l'Or, Somalie britannique, Palestine, Maurice, Etats malais fédérés, Trinidad, Malouines",
+      "score": 0.386134,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_230_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.385586,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_79_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.385414,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_142_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.383456,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

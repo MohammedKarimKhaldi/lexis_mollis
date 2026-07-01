@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19860200_100_s1",
+  "title": "Certificat ONU d'enregistrement de l'accord",
+  "year": 1986,
+  "doc_type": "Certificat",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9226,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES No. 34037 CERTIFICATE of REGISTRATION The SECRETARY-GENERAL of the UNITED NATIONS has been registered with the Secretarlat, accordance with Article 102 of the Charter of the United Nations: CERTIFICAT d'ENREGISTREMENT Le SECRETAIRE GENERAL de M'ORGANISATION des NATIONS UNIES ce apres aete enregiste Secretartancontormement que ci-après a été enregistre au secrétariat l'…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19860200_100_s1.pdf",
+  "source_filename": "tra19860200_100_s1.pdf",
+  "source_sha256": "af913bf0336c653bf1201aa6bfd1267f9d0adf8fd8bf633a6d956453e916282d",
+  "treaty_id": "TRA19860200",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES\n\nNo. 34037\n\nCERTIFICATE of REGISTRATION\n\nThe SECRETARY-GENERAL of the UNITED NATIONS has been registered with the Secretarlat,\n\naccordance with\n\nArticle 102 of\n\nthe Charter of the United Nations:\n\nCERTIFICAT d'ENREGISTREMENT\n\nLe SECRETAIRE GENERAL de M'ORGANISATION des NATIONS UNIES ce apres aete enregiste Secretartancontormement que ci-après a été enregistre\n\nau secrétariat\n\nl'Article 102 de la Charte des Nations Unies :\n\nNo. 25452. FRANCE AND CYPRUS :\n\ngreement for cooperation in the fteld\n\nof tourism (with\n\nannex).\n\nSigned at Paris on 28 January 198€\n\nRegistered Dy France on 6 November..1987.\n\nNo 25452. FRANCE ET CHYPRE\n\nEncegistré par la France le 6 novembre 1987.\n\nDone at New York on 10 January 1990\n\nFor the SECRETARY-GENERAL\n\nFait à New York le\n\n10 Janvier 1990\n\nPour le SECRETAIRE\n\nGENERAL\n\nLe Conseiller juridique:\n\nThe Lege Coursel",
+      "quality_score": 0.9226,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19720042_100",
+      "title": "tra19720042_100",
+      "score": 0.600854,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.444593,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_008_s1",
+      "title": "Certificat de l'enregistrement no 24657",
+      "score": 0.444516,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19820004_990_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.440472,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19680088_101_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.440172,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.438084,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.436928,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.436482,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760090_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.436047,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_100_s1",
+      "title": "Certificat ONU d'enregistrement de la convention",
+      "score": 0.435098,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

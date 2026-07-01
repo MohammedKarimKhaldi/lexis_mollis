@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_056_s1",
+  "title": "Instrument d'adhésion argentin",
+  "year": 1954,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9829,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JUAN CARLOS ONGANIA PRESIDENTE DE LA NACION ARGENTINA POR CUANTO: La Adhesión a la \"Convención Internacional para la Unificación de los Métodos de Análisis y de Apreciación de los Vi- nos\", ha sido aprobada por Ley N\" 17.437 - M. 35 del 1I de setiem- bre de 1967 y promulgada por el Poder Ejecutivo Nacional. POR TANTO: Adhiero en nombre y representación del Gobierno Argentino a la Convención citada precedentemente. E…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_056_s1.pdf",
+  "source_filename": "19540090_056_s1.pdf",
+  "source_sha256": "36949b74df43cdc7135435ab7913a0d140fd575becb35916fdb41c49eee02cc3",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "ARG002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JUAN CARLOS ONGANIA\n\nPRESIDENTE DE LA NACION ARGENTINA\n\nPOR CUANTO:\n\nLa Adhesión a la \"Convención Internacional para la\n\nUnificación de los Métodos de Análisis y de Apreciación de los Vi- nos\", ha sido aprobada por Ley N\" 17.437 - M. 35 del 1I de setiem- bre de 1967 y promulgada por el Poder Ejecutivo Nacional.\n\nPOR TANTO:\n\nAdhiero en nombre y representación del Gobierno\n\nArgentino a la Convención citada precedentemente.\n\nEn fe de lo cual firmo el presente Instrumento do\n\nAdhesión autorizado con el sello de la República y refrendado por el Ministro de Relaciones Exteriores y Culto, Doctor NICANOR\n\nCOSTA MENDEZ.\n\nDado en la ciudad de Buenos Aires, Capital de la\n\nRepública Argentina, a los siete dias del mes de noviembre del año mil novecientos sesenta y siete.\n\nfuegen,",
+      "quality_score": 0.9829,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.526207,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_055_s1",
+      "title": "Pouvoirs argentins pour le dépôt de l'instrument d'adhésion",
+      "score": 0.40071,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.383419,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_037_s1",
+      "title": "Instrument du Chili",
+      "score": 0.380462,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_015_s1",
+      "title": "Pouvoirs argentin",
+      "score": 0.380285,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.377422,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.377023,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.376926,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.375308,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.371385,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

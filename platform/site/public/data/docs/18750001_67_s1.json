@@ -63,5 +63,27 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra18580012_004_s1",
+      "title": "Annexe du traité (accords commerciaux)",
+      "score": 0.360637,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17630001_001_s1",
+      "title": "Accord (ensemble un article séparé) (ensemble texte des pouvoirs français, britanniques et espagnols)",
+      "score": 0.356827,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16630006_001_s1",
+      "title": "Texte du traité (ensemble texte des pouvoirs danois et des pouvoirs français)",
+      "score": 0.352204,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

@@ -45,5 +45,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_53_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Russie",
+      "score": 0.597815,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_15_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.4565,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_22_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.444406,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_43_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Pérou",
+      "score": 0.440428,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_35_s1",
+      "title": "Dépôt de l'instrument de ratification",
+      "score": 0.432845,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_20_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.430675,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_10_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.427683,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_69_s1",
+      "title": "Procès verbal d'échange des ratifications",
+      "score": 0.427011,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_47_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion portugais",
+      "score": 0.415453,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_73_s1",
+      "title": "Procès verbal d'échange des instruments de ratification du Venezuela",
+      "score": 0.399757,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

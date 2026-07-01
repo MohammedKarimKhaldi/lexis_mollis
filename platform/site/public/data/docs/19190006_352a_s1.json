@@ -53,5 +53,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190006_797_s1",
+      "title": "Procès verbal de dépôt de l'instrument du Royaume des Serbes, Croates, Slovènes",
+      "score": 0.696614,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190038_02_s1",
+      "title": "Procès-verbal de dépôt des ratifications",
+      "score": 0.662547,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200069_882_s1",
+      "title": "Procès-verbal de dépôt de l'instrument techécoslovaque",
+      "score": 0.636983,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_882_s1",
+      "title": "Procès verbal de dépôt de l'instrument tchécoslovaque",
+      "score": 0.627398,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_798_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification serbe-croate-slovène",
+      "score": 0.559171,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200070_882_s1",
+      "title": "Procès-verbal de dépôt de l'instrument tchécoslovaque",
+      "score": 0.548324,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_006_s1",
+      "title": "Procès-Verbal de dépôt des instruments de ratification de l'accord",
+      "score": 0.460817,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_448_s1",
+      "title": "Procès verbal de dépôt de l'instrument japonais",
+      "score": 0.45479,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_006_s1",
+      "title": "Procès-verbal de dépôt des instruments de ratification  de l'Empire britannique, la France, l'Italie, la Chine, la Grèce, l'État serbe-croate-slovène, le Siam, la Tchécoslovaquie et l'Autriche du traité de paix, protocole et déclaration du 10 sept 1919",
+      "score": 0.449406,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_717_s1",
+      "title": "Procès verbal de dépôt de l'instrument portugais",
+      "score": 0.443266,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
 }

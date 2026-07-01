@@ -1,0 +1,55 @@
+{
+  "document_id": "19380028_03_s1",
+  "title": "Pouvoirs de signature italiens",
+  "year": 1938,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "it"
+  ],
+  "quality_score": 0.9525,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "VITTORIO EMANVELE III PER GRAZIA DI DIO E PER VOLONTA DELLA NAZIONE RE DITALIA IMPERATORE D'ETIOPIA A TVTTI COLORO CHE LE PRESENTI VEDRANNO SALVTE Je Diabile Cigliere Do. Renato Premas I \"minato isto Senipotonsinio per lo firma da paste Del 31, Pia di un Biotocollo nediaromale alla Compenzione concermente Ce regale per il ricupero dei siluri del 12 giugno 1934. O tale sisbo conferiamo al babile Renato brunas, biemo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380028_03_s1.pdf",
+  "source_filename": "19380028_03_s1.pdf",
+  "source_sha256": "1569be50d620eb21af2139bd9c388daeea46c60eef53738c5f117471ce7989c6",
+  "treaty_id": "TRA19380028",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "VITTORIO EMANVELE III\n\nPER GRAZIA DI DIO E PER VOLONTA DELLA NAZIONE\n\nRE DITALIA\n\nIMPERATORE D'ETIOPIA\n\nA TVTTI COLORO CHE LE PRESENTI VEDRANNO SALVTE\n\nJe Diabile Cigliere Do. Renato Premas I \"minato isto Senipotonsinio per lo firma da paste Del 31,\n\nPia di un Biotocollo nediaromale alla Compenzione concermente\n\nCe regale per il ricupero dei siluri del 12 giugno 1934.\n\nO tale sisbo conferiamo al babile Renato brunas, biemo potere e equi norafaria antoniti.\n\nI. fare si che Fini alfiono frinento le Resenti e gi cia.\n\nmafatto apparse il Mostro Reale Sigillo.\n\nDate a Roma addi, 13 Dicensbre 1937-XV1\n\nFittonofanet\n\nmon",
+      "quality_score": 0.9525,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_ita001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.365196,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

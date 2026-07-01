@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_120",
+  "title": "Notification par le gouvernement français du dépôt de l'instrument",
+  "year": 1924,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9351,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassade Impériale du Tapon INRIS, le 27 Jarvier I930.- Consieur le rinistre, Coniorituent aux instructions reques de mon Gouvernement, j'ai l'honneur d'adresser à Votre Excellence la notification suivante ; En vertu des dispositions de l'article 6 de 1 'arrangement international pour la création, à Paris, d'un Office International des Spizooties, signé à Paris le 25 janvier I924, 1e Gouvernement In_érial du Jaron…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_120.pdf",
+  "source_filename": "tra19240002_120.pdf",
+  "source_sha256": "262999c989d0deccae0c69514b9898feb0ff346ffcdb5a2d1adc1303abf573c1",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "MMR",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassade Impériale\n\ndu Tapon\n\nINRIS, le 27 Jarvier I930.-\n\nConsieur le rinistre,\n\nConiorituent aux instructions reques de mon\n\nGouvernement, j'ai l'honneur d'adresser à Votre\n\nExcellence la notification suivante ;\n\nEn vertu des dispositions de l'article 6 de\n\n1 'arrangement international pour la création, à Paris, d'un Office International des Spizooties, signé à\n\nParis le 25 janvier I924, 1e Gouvernement In_érial du Jaron de ande à être aâmis à adhérer à cet Arrangement. En ce qui concerne la contribution aux dépenses nécessaires au fonctionnement de l'Office, visée à l'article II des Statuts organiques annezés audit\n\nArrange ent, le Gouvernemunt Japonais, vu les dispositions du demier iiinéa de cet urticle, déclare qu'il désire être inscrit dans la première catégorie.\n\nJe serais très obligé à votre\n\nExcellence ie\n\nvouloir bien prenare acte de cette notification et y úonner la suite nécessaire.\n\nVeuilles agréer, Monsieur le linisüe, les\n\nassurances de ma très haute considération.\n\nAjouter\n\nSon Excellence monsieur iristide BRIAD ministre ies\n\nAffaires Strangères\n\nQuai a 'Orsay\n\nPARIS",
+      "quality_score": 0.9351,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380055_13_s1",
+      "title": "Notification d'adhésion de la Belgique",
+      "score": 0.404199,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.396058,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_136",
+      "title": "Accusé de réception français de l'adhésion camerounaise",
+      "score": 0.39272,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_145",
+      "title": "Accusé de réception français de l'instrument d'adhésion du Bruneï",
+      "score": 0.389202,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_485",
+      "title": "Accusé de réception de l'instrument du Lesotho",
+      "score": 0.38908,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_150_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.386291,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_060_s1",
+      "title": "accusé de réception par l'Institut international du Froid de l'adhésion d'Israël",
+      "score": 0.384315,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_35_s1",
+      "title": "Pouvoirs de négociation et de signature de Monaco",
+      "score": 0.380723,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_37_s1",
+      "title": "Pouvoirs de signature du Nigeria",
+      "score": 0.380723,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr008_s1",
+      "title": "Extension de l'adhésion aux Bahamas",
+      "score": 0.379969,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

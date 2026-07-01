@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19960061_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1996,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9989,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Képublique Française N° 98/96 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à Monsieur Yves GALLAND, Ministre délégué aux Finances et au Commerce extérieur, pour signer entre le Gouvernement de la République française et le Gouvernement de la République d'Ouzbékistan une Convention en vue d'éviter les doubles impositions et de prévenir l'…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19960061_002_s1.pdf",
+  "source_filename": "tra19960061_002_s1.pdf",
+  "source_sha256": "eb6747f5b11a083ae7106692f33d4900affabee412b9b66a7e2ad327b374ab50",
+  "treaty_id": "TRA19960061",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Képublique Française\n\nN° 98/96\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre\n\ndes Affaires Etrangères, donnons POUVOIRS par ces présentes à\n\nMonsieur Yves GALLAND, Ministre délégué aux Finances et\n\nau Commerce extérieur, pour signer entre le Gouvernement de la République française et le\n\nGouvernement de la République d'Ouzbékistan une Convention en vue d'éviter les doubles impositions et de prévenir l'évasion et la fraude fiscales en matière d'impôts sur le revenu et sur la fortune./.\n\nFAIT à PARIS, le 22 avril 1996\n\nLe Ministre des Affaires Etrangères",
+      "quality_score": 0.9989,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19910044_002",
+      "title": "Pouvoirs français",
+      "score": 0.433078,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_002",
+      "title": "Pouvoirs",
+      "score": 0.428609,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.412565,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_004_s1",
+      "title": "Instrument français",
+      "score": 0.409981,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.395664,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.393578,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.393346,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870226_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.392033,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002b_s1",
+      "title": "Pouvoirs français (délivrés à Michel Vauzelle)",
+      "score": 0.388738,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19920387_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.38831,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

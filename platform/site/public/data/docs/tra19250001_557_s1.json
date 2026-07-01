@@ -1,0 +1,53 @@
+{
+  "document_id": "tra19250001_557_s1",
+  "title": "Note de transmission de l'instrument palestinien",
+  "year": 1925,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9961,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "سطين قلمد State of Palestine Ministry of Foreign Affairs and Expatriates The Minister Le 26 Décembre 2017 Monsieur le Ministre Jean-Yves Le Drian, Membres distingués du Gouvernement de la République Française, J'ai l'honneur de vous communiquer l'instrument d'adhésion de l'Etat de Palestine au Protocole concernant la prohibition d'emploi à la guerre de gaz asphyxiants, toxiques ou similaires et de moyens bactériolog…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19250001_557_s1.pdf",
+  "source_filename": "tra19250001_557_s1.pdf",
+  "source_sha256": "45be13605c950dcf3e8f34b3f5c5a88e04087415c382fd02069f2dc788208c24",
+  "treaty_id": "TRA19250001",
+  "treaty_number": "PSE002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "سطين قلمد\n\nState of Palestine\n\nMinistry of Foreign Affairs and Expatriates\n\nThe Minister\n\nLe 26 Décembre 2017\n\nMonsieur le Ministre Jean-Yves Le Drian,\n\nMembres distingués du Gouvernement de la République Française,\n\nJ'ai l'honneur de vous communiquer l'instrument d'adhésion de l'Etat de\n\nPalestine au Protocole concernant la prohibition d'emploi à la guerre de gaz asphyxiants, toxiques ou similaires et de moyens bactériologiques.\n\nJe vous prie d'agréer l'expression de mes salutations distinguées.\n\nRiad Mallei\n\nMinistre des affaires\n\nEtrangères\n\nEtat de\n\nPalestine",
+      "quality_score": 0.9961,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20182691_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.356484,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

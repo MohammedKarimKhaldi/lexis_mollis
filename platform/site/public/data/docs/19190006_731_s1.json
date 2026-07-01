@@ -75,5 +75,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190006_446_s1",
+      "title": "Instrument de ratification japonais de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_351a_s1",
+      "title": "Instrument de ratification grec de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_730_s1",
+      "title": "Ratification du traité et protocole du 10 septembre 1919",
+      "score": 0.989067,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_731_s1",
+      "title": "Instrument de ratification britannique du traité, du protocole et de la déclaration",
+      "score": 0.988457,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_731_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.972837,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_19_s1",
+      "title": "Instrument de ratification du Royaume-Uni",
+      "score": 0.942681,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_731b_s1",
+      "title": "Instrument de ratification britannique de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.939175,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200048_731_s1",
+      "title": "Instrument de ratification britannique du traité entre les Alliés et la Grèce relatif au statut de la Grèce et à la protection des minorités ethniques, du Traité entre les Alliés et la Grèce à propos de la Thrace et du Protocole relatif au traité conclu à Sèvres entre les principales puissances alliées et la Grèce le 10 août 1920 et au traité conclu à la même date entre les mêmes puissances relativement à la Thrace",
+      "score": 0.930203,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.910533,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_190",
+      "title": "Instrument d'adhésion",
+      "score": 0.902653,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
 }

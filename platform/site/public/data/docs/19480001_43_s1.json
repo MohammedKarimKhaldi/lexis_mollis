@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_43_s1",
+  "title": "Instrument de ratification de la Norvège",
+  "year": 1948,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9991,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NOUS HAARON ROI DE NORVEGE faisons savoir: Qu'ayant vu et examiné le Protocole du 10 mars 1948, relatif aux changements dans les articles 2, 3, 4 et 10 de la Convention concernant les Expositions Inter- nationales en date du 22 norembre 1928, signé pour la Norvège à Paris le 10 mai 1948 par Monsieur Bugge-Mahrt, attaché pour les affaires de presse près Notre Ambassade à Paris, Nous approuvons, ratifions et confirmon…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_43_s1.pdf",
+  "source_filename": "19480001_43_s1.pdf",
+  "source_sha256": "42827a2e1628d198d6ee5fb07fb8c7b13cb4b9a9bfbe630b4e1b8b989da87444",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "NOR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NOUS HAARON\n\nROI DE NORVEGE\n\nfaisons savoir:\n\nQu'ayant\n\nvu et examiné le Protocole du 10 mars 1948,\n\nrelatif aux changements dans les\n\narticles 2,\n\n3, 4 et\n\n10 de la Convention concernant les\n\nExpositions Inter-\n\nnationales en date du 22 norembre 1928, signé pour la\n\nNorvège à Paris le 10 mai 1948 par Monsieur Bugge-Mahrt, attaché pour les affaires de presse près Notre Ambassade à Paris, Nous approuvons, ratifions et confirmons ledit\n\nProtocole dans toutes ses parties, promettant de le faire observer selon sa forne et teneur.\n\nEn foi de quoi Nous avons signé la présente\n\nlettre de ratification et y avons\n\nfait apposer le sceau\n\ndu Royaume.\n\nFait au Palais Royal,\n\nOslo, le 26 aout 1949.\n\nLatins\n\nbin Ebora",
+      "quality_score": 0.9991,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_42_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.402683,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_11_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.396889,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_39_s1",
+      "title": "Note verbale d'adhésion du Liban",
+      "score": 0.39136,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_170_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.384652,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_66_s1",
+      "title": "Pouvoirs de signature de Monaco",
+      "score": 0.378521,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.376511,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.375945,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.371619,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_28_s1",
+      "title": "Instrument de ratification norvégien",
+      "score": 0.370879,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.370347,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

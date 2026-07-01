@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_isr001_s1",
+  "title": "Note verbale d'adhésion",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9782,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "- D 'LÉGATION DISRAÉL UNIUNS UN 131100121 La Légationd' Israël présente ses compliments au Ministère des Affaires Etrangères et a 1 'honneur de porter à sa connais- sance que le Gouvernement de l'Etat d'Israël a décidé d'adhérer à la Convention sur les Expositions Internationales du 22 novembre 1928 ainsi qu'au Protocole portant modification du 10 Mai 1948. La Légation d'Israöl saisit cette occasion pour renouvele..…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_isr001_s1.pdf",
+  "source_filename": "tra19280002_isr001_s1.pdf",
+  "source_sha256": "6da5d3036d8dc1985cf779d70c785d3b5b88d7fbfa69062863e0156a1d93a4e2",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "ISR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "- D\n\n'LÉGATION DISRAÉL\n\nUNIUNS\n\nUN\n\n131100121\n\nLa Légationd' Israël présente ses compliments au Ministère des Affaires Etrangères et a 1 'honneur de porter à sa connais- sance que le Gouvernement de l'Etat d'Israël a décidé d'adhérer à la Convention sur les Expositions Internationales du 22 novembre 1928 ainsi qu'au Protocole portant modification du 10 Mai 1948.\n\nLa Légation d'Israöl saisit cette occasion pour renouvele.....\n\nau Ministère des Affaires Etrangères les assurances de sa haute considération\n\nLagat\n\nParis, le 28 Mai 1952\n\ninistère des Affaires Etrangère irection des Affaires Administra tives et Sociales\n\nDivision des Unions Internationales\n\nQuai d'Orsay\n\nParis",
+      "quality_score": 0.9782,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_164_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.432822,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_irn002_s1",
+      "title": "Notification au Bureau international des expositions de l'adhésion de l'Iran",
+      "score": 0.421411,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mys001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.416717,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_040_s1",
+      "title": "Note verbale de transmission de l'instrument d'acceptation de la Roumanie",
+      "score": 0.409635,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_53_s1",
+      "title": "Note verbale de transmission des pouvoirs de signature",
+      "score": 0.409099,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.407071,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_025_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.406463,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_037_s1",
+      "title": "Note verbale d'acceptation du Pérou",
+      "score": 0.405029,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.404734,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.403127,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

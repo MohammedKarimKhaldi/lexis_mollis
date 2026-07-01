@@ -1,0 +1,128 @@
+{
+  "document_id": "19540096_027_s1",
+  "title": "Notification aux Etats membres de l'adhésion du Brésil à la convention",
+  "year": 1954,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9218,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JM/HL MINISTERE AFFAIRES BTRANGERES - DIRECTION DES AFFAIRES ADNINISTRATIVES & SOCIALES Unions Internationales N° 572 UN RAPULLIQUR FRANCAISE Paris, le 15 juin 1960 LE MINISTRE DES AFTAIRES ETRANGERES A/s. Adhésion du Brésil l'Institut International du Froid. J'ai l'honnour de vous faire savoir que l'adhósion du Bu6st1 à La/Convention Intornatsonale du ler décembro 1954 rolative à l'Institut Inter- national du Froid…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_027_s1.pdf",
+  "source_filename": "19540096_027_s1.pdf",
+  "source_sha256": "ca8133431cef0be4dcfa951ffc368195069e75c2b0df5554e0d6e44963d62ce7",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "BRA002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JM/HL\n\nMINISTERE\n\nAFFAIRES BTRANGERES\n\n- DIRECTION DES AFFAIRES\n\nADNINISTRATIVES & SOCIALES\n\nUnions Internationales\n\nN° 572 UN\n\nRAPULLIQUR FRANCAISE\n\nParis, le 15 juin\n\n1960\n\nLE MINISTRE DES AFTAIRES ETRANGERES\n\nA/s. Adhésion du Brésil l'Institut International du Froid.\n\nJ'ai l'honnour de vous faire savoir que l'adhósion du Bu6st1 à La/Convention Intornatsonale du ler décembro 1954 rolative à l'Institut Inter- national du Froidla pris effet, conformément aux dispositions do l'article III de cet arrangement, à compter du 25 juin 1952, date de son acceptation par le Comité Exécutif de l'Institut.\n\nJe vous serais très orligé de bien vou- loir faire part de cetto information au Gouverno- ment aupres duquel vous êtes setrédité, atmo tenir informé de la date à laquello 11 vous en aura été\n\n.../.",
+      "quality_score": 0.952,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "donné acte./.\n\nPour la Ministro ot iroctour dos Affaires Administratives et\n\nP.O I0 Sous-Dirooteur des Unions Internationales\n\nJ. MORANGE.",
+      "quality_score": 0.8916,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_031_s1",
+      "title": "Notification aux Etats-membres de l'adhésion du Cameroun",
+      "score": 0.415298,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_049_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'Egypte",
+      "score": 0.411062,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_038_s1",
+      "title": "Note verbale d'accompagnement de l'instrument chilien",
+      "score": 0.410567,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_029_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Bulgarie",
+      "score": 0.407387,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.405005,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_067_s1",
+      "title": "Notification de l'adhésion de la Jordanie aux Etats-membres",
+      "score": 0.399379,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_044_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de Cuba",
+      "score": 0.397962,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_017_s1",
+      "title": "Note verbale type du service traitant relative au dépôt de l'adhésion sud-africaine à destination des chefs de Postes",
+      "score": 0.397386,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19570067_887_s1",
+      "title": "Note verbale d'accompagnement de l'instrument thaïlandais",
+      "score": 0.396233,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_136",
+      "title": "Accusé de réception français de l'adhésion camerounaise",
+      "score": 0.39568,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_22_s1",
+  "title": "Instrument de ratification de Haïti",
+  "year": 1948,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9582,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Nous, Constantin Tsaldaris, Nice Président du Conseil et Ministre des Offaizes Etrangères de Grèce, autorisons par les présenter Son Excellence Foonsieuz Raphaël Raphaël, Ambassadeur de Grèce à Paris, grand'Croix de l'Ordie Royal du Phoenix, et Hoonsienz Nicolas Photopoulos, représentant de la Grèce auprès du Bureau International des Expositions, à signer, sous réserve de ratification ultérieure, le Protocole portan…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_22_s1.pdf",
+  "source_filename": "19480001_22_s1.pdf",
+  "source_sha256": "0cf50248c80e19d045d6283f59dc78370eb73736d800c6fb2cf537ea2aaf39bc",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "HTI002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nous, Constantin Tsaldaris, Nice Président du\n\nConseil et Ministre des Offaizes Etrangères de Grèce, autorisons par les présenter Son Excellence Foonsieuz\n\nRaphaël Raphaël, Ambassadeur de Grèce à Paris, grand'Croix de l'Ordie Royal du Phoenix, et Hoonsienz\n\nNicolas Photopoulos, représentant de la Grèce auprès du Bureau International des Expositions, à signer, sous réserve de ratification ultérieure, le Protocole portant modification de la Convention signée à Paris le 22 9ro.\n\nvembre 1928, concernant les expositions internationales.\n\nFait à Othènes, le 15 juillet mil neuf cent quarante neuf.\n\ncAssaldar",
+      "quality_score": 0.9582,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_23_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.40406,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_057_s1",
+      "title": "Instrument d'adhésion de la Hongrie",
+      "score": 0.388336,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_350_s1",
+      "title": "Instrument d'adhésion hongrois",
+      "score": 0.376487,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_47_s1",
+      "title": "Pouvoirs de vote et de signature du Portugal",
+      "score": 0.363275,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_19_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.359083,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_31_s1",
+      "title": "Pouvoirs de signature du Liban",
+      "score": 0.356058,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810248_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.35391,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.352669,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_30_s1",
+      "title": "Lettre constituant instrument d'adhésion",
+      "score": 0.351484,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_13_s1",
+      "title": "Instrument de ratification de l'Argentine",
+      "score": 0.351413,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

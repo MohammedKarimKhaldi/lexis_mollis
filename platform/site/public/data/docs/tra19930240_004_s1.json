@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19930240_004_s1",
+  "title": "Instrument français",
+  "year": 1993,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9867,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République. Française Le Ministre des Affaires Etrangères Paris, le 7 NOVEMBRE 1994 Monsieur le Ministre, Me référant Convention à l'article 17 de l'Avenant à du 19 juillet entre le Gouvernement de la République française et le Gouvernement des Emirats arabes unis en vue d'éviter les doubles impositions, signé à Abu Dhabi le 6 décembre 1993, j'ai l'honneur de vous faire savoir que les procédures requises par la cons…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19930240_004_s1.pdf",
+  "source_filename": "tra19930240_004_s1.pdf",
+  "source_sha256": "9b47d7792cfb80b94baf6c4fdf983d25af879db46b0295706be1b77c238f239f",
+  "treaty_id": "TRA19930240",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République.\n\nFrançaise\n\nLe Ministre des Affaires Etrangères\n\nParis, le\n\n7 NOVEMBRE 1994\n\nMonsieur le Ministre,\n\nMe référant\n\nConvention\n\nà l'article 17 de l'Avenant à\n\ndu 19 juillet\n\nentre le Gouvernement de la\n\nRépublique française et le Gouvernement des Emirats arabes unis en vue d'éviter les doubles impositions, signé à Abu Dhabi le 6 décembre 1993,\n\nj'ai l'honneur\n\nde vous faire savoir que les\n\nprocédures requises par la constitution de la République pour la mise en vigueur dudit Avenant ont été accomplies.\n\nLa présente lettre constitue l'Instrument d'Approba-\n\ntion prévu par la disposition précitée.\n\nvous serais\n\nreconnaissant\n\nbien vouloir\n\nm'informer de la date à laquelle celle-ci vous sera parvenue./.\n\nvous prie\n\nd'agréer,\n\nl'expression de ma haute considération.\n\nMonsieur le Ministre,\n\nPOUR COPIE CERTIFIEE CONFORME A L'ORIGINAL,\n\nFAIT A PARIS, le 7 NOVEMBRE 1994\n\n'A Son Excellence\n\nMonsieur RACHED ABDULLAH AL NUAIMI\n\nMinistre des Affaires étrangères\n\nABU DHABI\n\nAlain JUPPÉ",
+      "quality_score": 0.9867,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940256_004",
+      "title": "Instrument d'approbation français",
+      "score": 0.742214,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_004_s1",
+      "title": "Instrument français",
+      "score": 0.712744,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_004_s1",
+      "title": "Instrument français",
+      "score": 0.708603,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_004_s1",
+      "title": "Instrument français",
+      "score": 0.692493,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_004_s1",
+      "title": "Instrument français",
+      "score": 0.682126,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19970011_004_s1",
+      "title": "Instrument français",
+      "score": 0.675748,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.423949,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090247_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.41868,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_006a_s1",
+      "title": "Lettre du Sous-Secrétaire d'État aux Affaires étrangères émirati M. Al Nahyan accusant réception de l'instrument français et transmettant l'instrument émirati",
+      "score": 0.417903,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_004",
+      "title": "Instrument de ratification",
+      "score": 0.407863,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

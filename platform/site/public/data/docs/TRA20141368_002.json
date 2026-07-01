@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20141368_002",
+  "title": "Pouvoirs français",
+  "year": 2014,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9802,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Française Hat N° 027/2014 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires étrangères, donnons POUVOIRS par ces présentes à : Madame Josette BOREL-LINCERTIN, Présidente du conseil régional de la Guadeloupe, pour signer l'Accord entre le Gouvernement de la République française et l'Association des États de la Caraïbe définissant les modalités de participation de la région Guade…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20141368_002.pdf",
+  "source_filename": "TRA20141368_002.pdf",
+  "source_sha256": "17eccac0cb8a0296e5b9b1db460a6b88b1263d67fbde16c12841917b07c68af6",
+  "treaty_id": "TRA20141368",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Française\n\nHat\n\nN° 027/2014\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre des Affaires étrangères, donnons POUVOIRS par ces présentes à :\n\nMadame Josette BOREL-LINCERTIN, Présidente du conseil régional de la\n\nGuadeloupe,\n\npour signer l'Accord entre le Gouvernement de la République française et l'Association des États de la Caraïbe définissant les modalités de participation de la région Guadeloupe à l'Association des États de la Caraïbe, en tant que membre associé./.\n\nFAIT A PARIS, LE 28 mars de 14\n\nLe Ministre des Affaires étrangères\n\nLaurent Fatuis",
+      "quality_score": 0.9802,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.568873,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.550582,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.546357,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.542218,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.536489,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960259_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.527214,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.397489,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182473_002",
+      "title": "Pouvoirs français",
+      "score": 0.390842,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.388982,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182432_002",
+      "title": "Pouvoirs français",
+      "score": 0.386433,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

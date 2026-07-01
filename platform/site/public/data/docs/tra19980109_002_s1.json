@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19980109_002_s1",
+  "title": "Pouvoir français",
+  "year": 1998,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9942,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Française :Nº 70/98 POUVOIRS Aul nom du Gouvernement de la République, NOUS, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à : Monsieur Tristan d'ALBIS, Ambassadeur de France en Afrique du Sud, pour signer un Accord entre le Gouvernement de la République française et le Gouvernement de la République d'Afrique du Sud relatif à la coopération dans le domaine de la défense./. FAIT A PA…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19980109_002_s1.pdf",
+  "source_filename": "tra19980109_002_s1.pdf",
+  "source_sha256": "101bf6526a737a30dcfb2bb9c25355e5ec9067c9c8fadfa6b2fcdfa8b0344118",
+  "treaty_id": "TRA19980109",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Française\n\n:Nº 70/98\n\nPOUVOIRS\n\nAul nom du Gouvernement de la République, NOUS, Ministre des\n\nAffaires Etrangères, donnons POUVOIRS par ces présentes à :\n\nMonsieur Tristan d'ALBIS, Ambassadeur de France en Afrique du\n\nSud, pour signer un Accord entre le Gouvernement de la République française et le Gouvernement de la République d'Afrique du Sud relatif à la coopération dans le domaine de la défense./.\n\nFAIT A PARIS, LE 17 avel 1998\n\nLe Ministre des Affaires Etrangères",
+      "quality_score": 0.9942,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.628502,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.627864,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900276_002",
+      "title": "Pouvoirs français",
+      "score": 0.589627,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990082_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.408189,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_325_s1",
+      "title": "Pouvoirs italiens (s.d.)",
+      "score": 0.407311,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.403629,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.402022,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990206_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.40045,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.394605,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.392296,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

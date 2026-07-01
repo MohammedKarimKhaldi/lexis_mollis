@@ -1,0 +1,145 @@
+{
+  "document_id": "19540096_062_s1",
+  "title": "Instrument de ratification italien",
+  "year": 1954,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "it",
+    "so",
+    "sw"
+  ],
+  "quality_score": 0.8321,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "I Finiture Al Tipulino A tulti coloro che lo Presenti vedranno: Salute. Una Convenzione internazionale che sostituisce la Convenzione del 21 giugno 1920, modificata il 31 maggio 1937, relativa all'Istituto Internaziona le del Freddo, essendo stata sottoscritta a Parigi il 1^ dicembre 1954 del geguente tenore: Noi avendo veduto la sovrascritta Convenzione ed approvandola in ogni e singola sua parte, l'abbiamo accetta…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_062_s1.pdf",
+  "source_filename": "19540096_062_s1.pdf",
+  "source_sha256": "149c04b1e2915b57d2871deebeb5cf6e41a4a350dd72ace6d91b29c77723e0cc",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "ITA002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "I Finiture Al Tipulino\n\nA tulti coloro che lo Presenti vedranno: Salute.\n\nUna Convenzione internazionale che sostituisce la Convenzione del 21 giugno 1920, modificata il 31 maggio 1937, relativa all'Istituto Internaziona le del Freddo, essendo stata sottoscritta a Parigi il 1^ dicembre 1954 del geguente tenore:",
+      "quality_score": 0.9713,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Noi avendo veduto la sovrascritta Convenzione ed approvandola in ogni e singola sua parte, l'abbiamo accettata, ratificata e confermata, come per le Presenti l'accettiamo, ratifichiamo e confermiamo promettendo di os- servarla e di farla inviolabilmente osservare.\n\nIn fede di che, Noi abbiamo di Nostra mano firmato le Presenti e vi abbiamo fatto apporre il Nostro sigillo.\n\nDate a Roma il 14 del mese di ottobre dell'anno millenovecento- cinquantanove.",
+      "quality_score": 0.9838,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Pa\n\nA T\n\nA\n\nji: H HRERRBRFETHENR FE RRENERE ENET i AINAR h ji & aaan minib o |",
+      "quality_score": 0.5413,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "so",
+        "sw"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19530025_005",
+      "title": "Instrument italien",
+      "score": 0.90925,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_005",
+      "title": "Instrument italien",
+      "score": 0.885776,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_436_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.860312,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_56_s1",
+      "title": "Instrument de ratification de l'Italie",
+      "score": 0.761177,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_436c_s1",
+      "title": "Instrument de ratification italien de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.637232,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19730055_11_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.479098,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_436",
+      "title": "Instrument de ratification italien",
+      "score": 0.468238,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19980155_436_s1",
+      "title": "Document-cadre",
+      "score": 0.43854,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_436_s1",
+      "title": "Instrument de ratification italien de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.438333,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_31_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.42863,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

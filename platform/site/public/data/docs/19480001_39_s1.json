@@ -1,0 +1,140 @@
+{
+  "document_id": "19480001_39_s1",
+  "title": "Note verbale d'adhésion du Liban",
+  "year": 1948,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9644,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLIQUE LIBANAISE MINISTERE DES AFFAIRES ETRANGERES ET DES LIBANAIS D'OUTRE. MER SERVICE ECONOMIQUE ET SOCIAL 10 2461 = Beyrouth, 1o 4 Excellence, \"'al l'honneur de porter à votro connais- sando que Mo Ahmad DAOUK, EnvOyé Extraordinalre. Ministro Plénipotentiairo du Iiban auprès du Gourernoment de la République Françaiso, est habilité à signer le Protooole modillant la Convention du 22 Novembre 1928 conoernant le…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_39_s1.pdf",
+  "source_filename": "19480001_39_s1.pdf",
+  "source_sha256": "3bb3ca3cb4d0faa4768c61a34bcaeb02105f174de164f705ac644d7c806d6ea4",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "LBN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLIQUE LIBANAISE\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nET DES LIBANAIS D'OUTRE. MER\n\nSERVICE ECONOMIQUE ET SOCIAL\n\n10 2461 =\n\nBeyrouth, 1o\n\n4\n\nExcellence,\n\n\"'al l'honneur de porter à votro connais-\n\nsando que Mo Ahmad DAOUK, EnvOyé Extraordinalre.\n\nMinistro Plénipotentiairo du Iiban auprès du Gourernoment de la République Françaiso, est habilité à signer le Protooole modillant la Convention du 22\n\nNovembre 1928 conoernant les Expositiona Internationales.\n\nJo vous prie d'agréer, Excellence, les\n\nassurancea de ma très haute considération./.\n\ne Ministre des Affaires Etrangère t des Iibanais d'Outre Me\n\nson Droellenoe\n\nMonsieur Robert SCHUMAN,\n\nMinistre des\n\nAffaires\n\nEtrangerea\n\nde la Hépublique Française,\n\nQuai d'Orsay.\n\n: PARIS",
+      "quality_score": 0.9382,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "AMBASSADE DU LIBAN\n\nTRADUCTION\n\nEN FRANCE\n\nCAMILLE NEMER CHAMOUN\n\nPRESIDENT DE LA REPUBLIQUE LIBANAISE\n\nà ceux qui liront cette lettre:\n\nVu que le Gouvernement Libanais a signé, en date du\n\n10 Mai 1948 à Paris, le Protocole modifiant la Convention des\n\nExpositions Internationales, signée à Paris le 22 Novembre 1928, dont le texte est reproduit ci-après.\n\nAprés avoir lu le Protocole sus-mentionnó, nous l'avons\n\napprouvé dans son ensemble et dans tous ses articles et paragraphes et nous déclarons qu'il a été accepté et ratifié conformóment à la décision prise en Conseil des Ministres, en date du 9 septembre 1955.",
+      "quality_score": 0.9631,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "TRADUCTION\n\nAMBASSADE DU LIBAN\n\nEN FRANCE\n\nRatification par le Président de la République\n\nLibanaise du Protocole signé à Paris, en date du 10\n\nMal 1948,\n\nmodifiant le Convention des Expositions\n\nInternationales signée & Paria, 1o 22 Novembre\n\n1928.",
+      "quality_score": 0.9918,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.411769,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_37_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification",
+      "score": 0.407071,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.406237,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_004_s1",
+      "title": "Instrument français",
+      "score": 0.399753,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_22_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.397164,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_043_s1",
+      "title": "Instrument de Cuba",
+      "score": 0.397054,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.395348,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_13_s1",
+      "title": "Notification d'adhésion de la Belgique",
+      "score": 0.393061,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090247_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.392842,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_170_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.392477,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "tra19590164_are001_s1",
+  "title": "Notification de l'adhésion émiratie",
+  "year": 1959,
+  "doc_type": "Notification",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9574,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "U.S. DEPARTMENT OF STATE Depositary Notification Notification Reference No. 2024-081 The Antarctic Treaty Done at Washington on December 1, 1959 United Arab Emirates: Accession Date of Action: December 11, 2024 The Secretary of State, in performance of the depositary duties of the United States of America, communicates the following: On December 11, 2024, the United Arab Emirates deposited an instrument of accession…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19590164_are001_s1.pdf",
+  "source_filename": "tra19590164_are001_s1.pdf",
+  "source_sha256": "36c7119a8fad65ba29583148beea968e020a479e9f07bf4913917aaf6e65a07f",
+  "treaty_id": "TRA19590164",
+  "treaty_number": "ARE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "U.S. DEPARTMENT OF STATE\n\nDepositary Notification\n\nNotification Reference No. 2024-081\n\nThe Antarctic Treaty\n\nDone at Washington on December 1, 1959\n\nUnited Arab Emirates: Accession\n\nDate of Action: December 11, 2024\n\nThe Secretary of State, in performance of the depositary duties of the United States of America, communicates the following:\n\nOn December 11, 2024, the United Arab Emirates deposited an instrument of accession to the Antarctic\n\nTreaty.\n\nThe Antarctic Treaty, in accordance with Article XIII, paragraph 5 thereof, entered into force for the\n\nUnited Arab Emirates on the date of deposit of its instrument of accession.\n\nWashington, December 16, 2024",
+      "quality_score": 0.9574,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_23_s1",
+      "title": "Note verbale d'adhésion des Etats-Unis",
+      "score": 0.352513,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

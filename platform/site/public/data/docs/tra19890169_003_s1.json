@@ -1,0 +1,74 @@
+{
+  "document_id": "tra19890169_003_s1",
+  "title": "Pouvoirs hongrois",
+  "year": 1989,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "hu"
+  ],
+  "quality_score": 0.9095,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Tanusitom, hogy a Magyar Népköztársaság Kormánya felhatalmazta PALOTÁS Rezső úr Őnagyméltóságát, A Magyar Népköztársaság rendkivüli és meghatalmazott nagykövetét a Francia Köztársaságban arra, hogy a Magyar Népköztársaság Kormánya és a Francia Köztársaság Kormánya között a kulturális intézetekről szóló megállapodást - a Kormány utólagos jóváhagyásának femtartásával - aláírja. Kelt Budapesten, az 1989. évi junius bó…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19890169_003_s1.pdf",
+  "source_filename": "tra19890169_003_s1.pdf",
+  "source_sha256": "e3d24735787ac78642f18f66a4f7d3ee6a814b3f38529ee1566db72579dca3e7",
+  "treaty_id": "TRA19890169",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Tanusitom, hogy a Magyar Népköztársaság Kormánya felhatalmazta\n\nPALOTÁS Rezső úr Őnagyméltóságát,\n\nA Magyar Népköztársaság rendkivüli és meghatalmazott nagykövetét a Francia Köztársaságban\n\narra, hogy a Magyar Népköztársaság Kormánya és a\n\nFrancia Köztársaság Kormánya között a kulturális intézetekről szóló megállapodást - a Kormány utólagos jóváhagyásának femtartásával - aláírja.\n\nKelt Budapesten, az 1989. évi junius bó 7. napján.\n\n{: DH. HORN spie :)\n\n/ yülügymint zterť",
+      "quality_score": 0.9095,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hu"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.396778,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890169_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.357366,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_08_s1",
+      "title": "Pouvoirs de signature de la Lettonie",
+      "score": 0.35371,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_005_s1",
+      "title": "Instrument allemand/copie conforme signée par le directeur des Affaires juridiques du ministère des Affaires étrangères allemand et Protocole d'échange des notifications entre le Chancelier Konrad Adenauer et le président de la République René Coty",
+      "score": 0.352724,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_31_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification de la Grèce",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.982,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Procès Verbal de depot des ratifications de la Grèce sur 1 'Arrangement international portant création à Paris d'un Office international du Vin signé à Paris le 29 Novembre I924 En exécution de l'article 9 de l'arrangement inter- national portant création à Paris d'un Office International du Vin signé à Paris le 29 Novembre I924 entre la France ,1'Es- pagne, la Grèce, la Hongrie, l'Italle , le Luxembourg, 1e Portuga…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_31_s1.pdf",
+  "source_filename": "19240003_31_s1.pdf",
+  "source_sha256": "6a54c536230a8720e0c31443d6333530404b4d3ec06f0f3ee310c102cf2b370f",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "GRE003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Procès Verbal de depot des ratifications de la\n\nGrèce sur 1 'Arrangement international portant création à\n\nParis d'un Office international du Vin signé à Paris le 29\n\nNovembre I924\n\nEn exécution de l'article 9 de l'arrangement inter- national portant création à Paris d'un Office International du Vin signé à Paris le 29 Novembre I924 entre la France ,1'Es- pagne, la Grèce, la Hongrie, l'Italle , le Luxembourg, 1e\n\nPortugal et la Iunisie, le Ministre de Grèce à Paris s'est présenté aujourd'hul au Ministère des Affaires Etrangères de la République Française et a déposé 1'instrument des ratifica- tlons de S. Exc. le Président de la République Hellénique sur cet acte International\n\nCet Instrument ayant été , après examen, trouvé en bonne et due forme, a été confié au Gouvernement de la Ré- publique pour rester déposé dans ses archives .\n\nUne expédition authentique du présent procès -verbal sera adressée aux Puissances contractantes .\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procès verbal qu'Ils ont revêtu de leurs cachets .\n\nPart à parlo 1e 29 Juillet igag ariy -Soitil",
+      "quality_score": 0.982,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_54_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.817742,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_42_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Luxembourg",
+      "score": 0.803219,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_22_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification espagnol",
+      "score": 0.770541,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_38_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification italien",
+      "score": 0.735007,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_15_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification des Pays-Bas",
+      "score": 0.689316,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_19_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.687706,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_22_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Roumanie",
+      "score": 0.687471,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_24_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Suisse",
+      "score": 0.687129,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_17_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Pologne",
+      "score": 0.683714,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_12_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Norvège",
+      "score": 0.671579,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

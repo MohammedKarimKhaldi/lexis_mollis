@@ -1,0 +1,74 @@
+{
+  "document_id": "19540090_070_s1",
+  "title": "Pouvoirs autrichiens",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "vollmacht Die Bundesregierung der Republik Österreich hat be- schlossen, das Internationale Ubereinkonmen über die Ver- einheitlichung der Weinanalysene thoden zu unterzeichnen. Zu diesem Zweck hat der bundesprüsident Herrn Aluis auserordentlichen und bevollmächtigten Botschatter, zum Bevollmachtigten ernannt und ihn ermächtigt, namens der Republik Österreich den oben erwähnten Vertrag zu un- terzeichnen. Zu urkund…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_070_s1.pdf",
+  "source_filename": "19540090_070_s1.pdf",
+  "source_sha256": "54e208c9902819d0f5208b03332bb81ee181e6c239dd203796da2c90f1ec6412",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "AUT001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "vollmacht\n\nDie Bundesregierung der Republik Österreich hat be- schlossen, das Internationale Ubereinkonmen über die Ver- einheitlichung der Weinanalysene thoden zu unterzeichnen.\n\nZu diesem Zweck hat der bundesprüsident\n\nHerrn Aluis auserordentlichen und bevollmächtigten Botschatter, zum Bevollmachtigten ernannt und ihn ermächtigt, namens der Republik Österreich den oben erwähnten Vertrag zu un- terzeichnen.\n\nZu urkund dessen hat der Bundespräsident die vorlie- gende Vollmacht unterzeichnet und mit dem Staatssiegel der Republik Österreich versehen lassen.\n\nGeschehen zu Wien, den 28 April 1955.\n\nDer Bundespräsident:\n\nDer Bundeskanzle\n\nJulius Turk",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_15_s1",
+      "title": "Pouvoirs de signature de l'Autriche",
+      "score": 0.403668,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_850_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.358042,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_14_s1",
+      "title": "Pouvoirs de signature de l'Autriche",
+      "score": 0.357681,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_60_s1",
+      "title": "Pouvoirs de signature de la Tchécoslovaquie",
+      "score": 0.350535,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

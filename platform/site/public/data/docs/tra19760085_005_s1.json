@@ -1,0 +1,131 @@
+{
+  "document_id": "tra19760085_005_s1",
+  "title": "Instrument togolais",
+  "year": 1976,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "quality_score": 0.9765,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LETTRES DE RATIFICATION GENERAL GNASSING BE PRESIDENT DE LA REPUBLIQUE TOGOLAISE EYADEMA A TOUS CEUX QUI CES PRESENTES LETTRES VERRONT, SALUT AYANT VU ET EXAMINE L'ACCORD DE CODPERATION EN MATIERE DE RECHERCHE SCIENTIFIQUE ET TECHNIEUE, ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE TOGOLAISE ET LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE, SIGNE A LOME LE 23 MARS 1976, NOUS L'AVONS APPROUVE ET APPROUVONS EN TOUTES ET CHACUNE…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760085_005_s1.pdf",
+  "source_filename": "tra19760085_005_s1.pdf",
+  "source_sha256": "ed440d134b1c24e8b5fed2d1bc9cc9bf27d897d9c02246f9d1de5b03b8e23809",
+  "treaty_id": "TRA19760085",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LETTRES\n\nDE\n\nRATIFICATION\n\nGENERAL\n\nGNASSING BE\n\nPRESIDENT DE LA REPUBLIQUE\n\nTOGOLAISE\n\nEYADEMA\n\nA TOUS CEUX QUI\n\nCES PRESENTES LETTRES VERRONT,\n\nSALUT",
+      "quality_score": 0.9618,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "AYANT VU ET EXAMINE L'ACCORD DE CODPERATION EN MATIERE DE\n\nRECHERCHE SCIENTIFIQUE ET TECHNIEUE, ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE\n\nTOGOLAISE ET LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE, SIGNE A LOME LE\n\n23 MARS 1976,\n\nNOUS L'AVONS APPROUVE ET APPROUVONS EN TOUTES ET CHACUNE DE\n\nSES PARTIES, EN VERTU DES DISPOSITIONS QUI Y SONT CONTENUES ET CONFORMEMENT\n\nAUX ORDONNANCES N° 1 DU 14 JANVIER 1967 ET N° 15 DU 14 AVRIL 1967,\n\nDECLARONS QU'IL EST ACCEPTE, RATIFIE ET CONFIRME ET PROMETTONS\n\nQU'IL SERA INVIOLABLEMENT OBSERVE.\n\nEN FOI DE GUOI NOUS AVONS DONNE LES PRESENTES, REVETUES DU\n\nSCEAU DE LA REPUBLIQUE.\n\nA LOME, LE -? MAIS 1977\n\nLE PRESIDENT DE LA REPUBLIQUE\n\nLE MINISTRE DES AFFAIRES ETRANGERES\n\nSelle",
+      "quality_score": 0.9912,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760087_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.87746,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760093_005_s1",
+      "title": "Instrument togolais (ratification)",
+      "score": 0.87746,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.874602,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760094_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.858938,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_005_s1",
+      "title": "Instrument français",
+      "score": 0.857493,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.852423,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.838099,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.833653,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_005",
+      "title": "Instrument togolais (ratification)",
+      "score": 0.817837,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760088_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.799435,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

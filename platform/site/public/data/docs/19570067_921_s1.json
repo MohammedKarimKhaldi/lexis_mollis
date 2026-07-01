@@ -1,0 +1,146 @@
+{
+  "document_id": "19570067_921_s1",
+  "title": "Instrument d'adhésion de la Turquie",
+  "year": 1957,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9571,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "AMBASSADE DE LA REPUBLIQUE DE TURQUIE 706-124 MINISTERE DES AFFAIRES ÉTRANGÈRES NATIONS UNIES 102. AVR. 1992 LET ORGANISATIONS INTERMATIONAiES L'Ambassade de Turquie présente ses compliments au Ministère des Affaires Etrangères et a 1'honneur de por- ter à sa connaissance que le Gouvernement turc a décidé d'adhérer à la convention Internationale instituant une commission séricicole internationale dont le Gouvernemen…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_921_s1.pdf",
+  "source_filename": "19570067_921_s1.pdf",
+  "source_sha256": "dbf6540ccdc92eb96ac2334d79a262c2b02c7f0c0ff78a7a189193d51d54ded1",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "920",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DE LA REPUBLIQUE\n\nDE TURQUIE\n\n706-124\n\nMINISTERE DES AFFAIRES ÉTRANGÈRES\n\nNATIONS UNIES\n\n102. AVR. 1992\n\nLET ORGANISATIONS INTERMATIONAiES\n\nL'Ambassade de Turquie présente ses compliments au Ministère des Affaires Etrangères et a 1'honneur de por- ter à sa connaissance que le Gouvernement turc a décidé d'adhérer à la convention Internationale instituant une commission séricicole internationale dont le Gouvernement françals est dépositaire.\n\nDans cette perspective, le Ministère est prié de bien vouloir trouver sous ce pli l'instrument d'adhé- sion de la Turquie à ladite commission, signé par le Mi- nistère turc des Affaires Etrangères.\n\nL'Ambassade de Turquie remercie d'avance le Mi- nistère des Affaires Etrangères et saisit cette occasion pour Lui renouveler les assurances de sa haute considéra- tion.\n\nParis, le 30 Mars 1992\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nDirection des Nations-Unies et des Organisations Internationales\n\nPARIS",
+      "quality_score": 0.9911,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "MINISTERE DES AFFAIRES ETRANGERES\n\nLE MINISTRE\n\nHİKMET ÇETİN\n\nLE MINISTRE DES AFFAIRES ETRANGERES\n\nDE LA REPUBLIQUE DE TURQUIE\n\nAYANT VU ET EXAMINE LA CONVENTION INSTITUANT\n\nUNE COMMISSION SERICICOLE INTERNATIONALE,\n\nDECLARONS Y ADHERER ET PROMETTONS\n\nQU'ELLE SERA INVIOLABLEMENT OBSERVEE.\n\nEN FOI DE QUOI, NOUS AVONS DONNE LES PRESENTES,\n\nREVETUES DU SCEAU DE L'ETAT\n\nANKARA, LE 18 MARS 1992\n\nA",
+      "quality_score": 0.9327,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "de",
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "REPUBLIQUE DE TURQUIE\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nHIKMET ÇETİN\n\nLE MINISTRE DES AFFAIRES ETRANGERES\n\nDE LA REPUBLIQE DE TURQUIE\n\nAYANT VU ET EXAMINE LA CONVENTION INSTITUANT\n\nUNE COMMISSION SERICICOLE INTERNATIONALE,\n\nDECLARONS Y ADHERER ET PROMETTONS\n\nQU'ELLE SERA INVIOLABLEMENT OBSERVEE.\n\nEN FOI DE QUOI, NOUS AVONS DONNE LES PRESENTES,\n\nREVEITUES DU SCEAU DE L’ETAT\n\nANKARA, LĘ 18 MARS 1992",
+      "quality_score": 0.9476,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_924_s1",
+      "title": "Note verbale de dénonciation de la Turquie",
+      "score": 0.430619,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.423567,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_005a_s1",
+      "title": "Note verbale n° 560-102 portant approbation",
+      "score": 0.412243,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.405501,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.403164,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_049_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'Egypte",
+      "score": 0.402423,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_67_s1",
+      "title": "Note verbale d'adhésion de l'Uruguay",
+      "score": 0.399993,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.39879,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.397776,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_049_s1",
+      "title": "Note verbale d'acceptation de la Tunisie",
+      "score": 0.397245,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

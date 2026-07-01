@@ -1,0 +1,319 @@
+{
+  "document_id": "tra19870226_001_s1",
+  "title": "Accord",
+  "year": 1987,
+  "doc_type": "Accord",
+  "languages": [
+    "ca",
+    "de",
+    "en",
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.938,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "01|v4 ACCORD DE CONSOLIDATION DE DETTES ENTRE LE GOUVERNEMENI DE LA REPUBLIQUE FRANCAISE ET LB GOUVERNEMENI DE LA REPUBLIQUE DEMOCRATIQUE DE SOMALIE 1/ Le Gouvernement de la République Française et le Gouvernement de la République Démocratique de Somalie, en vue de mettre en oeuvre les ecommandations du Procès-Verbal agréé le 22 juillet 1987, lors de la réunio li s'est tenue dans le cadre du Club de Paris, sont conv…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19870226_001_s1.pdf",
+  "source_filename": "tra19870226_001_s1.pdf",
+  "source_sha256": "4c75700f1291bf75480db49040ed9077e4300839ba237516ef543101d9bf6790",
+  "treaty_id": "TRA19870226",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "01|v4",
+      "quality_score": 0.5334,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD DE CONSOLIDATION DE DETTES\n\nENTRE\n\nLE GOUVERNEMENI DE LA REPUBLIQUE FRANCAISE\n\nET\n\nLB GOUVERNEMENI DE LA REPUBLIQUE DEMOCRATIQUE DE SOMALIE",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "1/\n\nLe Gouvernement de la République Française et le Gouvernement de la\n\nRépublique Démocratique de Somalie, en vue de mettre en oeuvre les ecommandations du Procès-Verbal agréé le 22 juillet 1987, lors de la réunio li s'est tenue dans le cadre du Club de Paris, sont convenus de ce qui suit\n\nTERMES DE LA CONSOLIDATION\n\nARTICLE I\n\n(Dette concernée)\n\n1) La dette consolidée de la République Démocratique de Somalie à l'égard de ne pal et en inte dus, éses Accode st constituée par les échéances, el rincipal et\n\na) des prêts consentis par le Gouvernement Français ou la Caisse\n\nCentrale de Coopération Economique (C.C.C.E.), comportant initialement une durée de crédit supérieure à un an, ayant fait l'objet d'un contrat vu de toute autre forme d'arrangement financier conclu avant le ler octobre 1984 ;\n\nb) des crédits commerciaux, comportant initialement une durée de\n\ncrédit supérieure à un an, garantis par la Compagnie Française d'Assurance pour le Commerce Extérieur (COFACE), ayant fait l'objet d'un contrat ou de toute autre forme d'arrangement financier conclu avant le ler octobre 1984 ;\n\nc) de la consolidation résultant de l'accord bilatéral conclu entre\n\nla France et la Somalie le 6 novembre 1985.\n\n2) La présente consolidation s'applique :\n\n- aux montants dus au 31 décembre 1986 inclus et non réglés (à l'exclusion des intérêts de retard) au titre des dettes mentionnées au paragraphe 1 ci-dessus ;\n\n- aux montants payables entre le ler janvier 1987 et le 31 décembre 1988 inclus, et non réglés, au titre des dettes mentionnées au paragraphe 1 ci-dessus.\n\n3) Le montant global des échéances et des arriérés visés aux paragraphes 1 et 2 ci-dessus,\n\nest évalué, à la date du présent Accord, à 121.549.095,55\n\nFrancs français (*) :\n\n- 38.650.582,39 Francs français (*) pour les échéances et arriérés dus au titre des crédits visés au paragraphe 1 a) ci-dessus (Annexe I), dont 20.210.137,95 Francs français au titre des prêts du \"premier guichet\" de la C.C.C.E. et 18.440.444,44 Francs français au titre des prêts du \"deuxième guichet\" de la C.C.C.E. ;\n\n- 69.931.985, 87 Francs français (*) pour les échéances et arriérés dus au titre des crédits visés au paragraphe 1 b) ci-dessus, dont 24.879.877,38 Franes français d'arriérés au 31 décembre 1986 (Annexe II b) et 45.052.108,49 Francs français d'échéances courantes du ler janvier 1987 au 31 décembre 1988 (Annexe III b) ;\n\n- 9.667.450,68 Francs français (*) pour les échéances et les arriérés dus à la COFACE au titre de la consolidation mentionnée au paragraphe\n\n1 c) ci-dessus, dont 4.405.376,54 Franes français\n\nd'arriérés au 31 décembre 1986 (Annexe II a) et 5.262.074,14 Francs français d'échéances courantes du ler janvier 1987 au 31 décembre 1988 (Annexe III a) ;\n\n(*) Estimation provisoire\n\nIR",
+      "quality_score": 0.9892,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "2/\n\n- 3.299.076,61 Franes français (*) pour les autres échéances et arriérés dus au titre de la consolidation mentionnée au paragraphe 1 c) ci-dessus (Annexe IV), dont 1.006.839,04 Francs français d'arriérés au 31 décembre 1986 et 2.292.237,57 Franes français d'échéances courantes du ler janvier 1987 au 31 décembre\n\nEn cas d'erreur d'évaluation mutuellement reconnue, les montants\n\nainsi arrêtés pourront être modifiés par accord entre les Parties.\n\nLes annexes font partie intégrante du présent Accord.\n\n4) Dans le cas où des amendements ayant pour effet d'accroître les engagements de la Somalie à l'égard de la France auraient été ou seraient apportés aux contrats correspondant aux échéances visées aux paragraphes 1 a)\n\net 1 b) ci-dessus, après la date du ler octobre 1984, les engagements nouveaux qui en résulteraient ne seraient pas couverts par les dispositions du présent\n\nAccord.\n\n5) Le présent Accord n'affecte en rien les liens juridiques résultant du droit commun ou des engagements\n\nsouscrits par les parties aux contrats\n\nmentionnes ci-dessus, sous réserve des dispositions de l'article V.\n\nARTICLE II\n\n(Refinancement)\n\nLa dette de la République Démocratique de la Somalie afférente aux\n\nprêts visés à l'Article I, paragraphe 1 a) et à l'accord de consolidation visé à l'article I paragraphe 1 c), à l'exclusion des échéances qui doivent être directement à la COFACE, sera refinancée par le Gouvernement français, conditions suivantes :\n\na) Les Parties conviennent que les Annexes I et IV du présent\n\nAccord, dúment signées par elles, ont valeur de relevés des échéances qui feront l'objet du refinancement.\n\nb) Le Ministère des Finances de Somalie donnera à la Banque de\n\nFrance, dans l'accord à intervenir entre ces deux institutions et visé à\n\nL'Article VII ci-dessous, une autorisation de débit de son compte pour le nontant des échéances refinançables, en principal et en intérêts, figurant aux\n\nAnnexes I et IV du présent Accord.\n\n2) Afin de permettre le réglement des créanciers, la Banque de\n\nfrance (agissant pour le compte du Gouvernement francals) créditera sur ivres le Ministère des Finances de Somalie (agissant pour le compte di touvernement somalien) d'une avance égale\n\n100 % des échéances refinançables,\n\nen principal et en intérêts.\n\n(*) estination provisoire.\n\nIR",
+      "quality_score": 0.9945,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "3/\n\nLa Banque de France débitera simultanément le compte du Ministère\n\ndes Finances de Somalie du\n\nmontant de cette avance et créditera des sommes\n\nnécessaires les créanciers français concernés.\n\nLes échéances dues\n\nentre la date du présent Accord et le 31\n\ndécembre 1988 seront\n\nrefinancées,\n\nselon les modalités décrites ci-dessus, au\n\nfur et mesure de leur arrivée à échéance.\n\nd) En cas de modification des Annexes signées I et IV, intervenue\n\nconformément à l'Article I, paragraphe 3, la Banque de France demandera, s'il y a lieu, au Ministère des Finances\n\nde Somalie de lui adresser, dans le délai\n\nd'un mois,\n\nun ordre de paiement complémentaire entraînant autorisation de débit\n\nde son compte en vue du refinancement des montants concernés et distinguant le principal des intérêts.\n\nLe Ministère des Finances de Somalie portera sur des\n\nrelevés séparés les échéances relatives aux prêts visés à l'Article I paragraphe la) et les échéances relatives à la précédente consolidation visée à l'Article I paragraphe 1c).\n\nSur ces bases, 1a\n\nbanque de France procèdera alors au refinancement\n\nles montants correspondants en appliquant les dispositions figurant au paragraphe c) ci-dessus.\n\nARTICLE III\n\n(Remboursenent des dettes refinançables)\n\nLe Gouvernement de Somalie remboursera la dette visée\n\naux Annexes\n\nI et IV du présent Accord,\n\net refinançable en application de l'Article II\n\nci-dessus, dans les conditions suivantes :\n\na) - En ce qui concerne les échéances, en principal et en intérêts,\n\nvisées à l'Article I, paragraphe 1 a), dues au 31 décembre 1986, et non réglées : en 20 versements semestriels égaux et successifs, le premier\n\nIntervenant le 31 décembre 1996 et le dernier le 30 juin 2006.\n\n- En ce qui concerne les échéances, en principal et en\n\nintérêts, visées à l'Article I, paragraphe 1 a), dues entre le ler janvier 1987 et le 31 décembre 1988 inclus,\n\net non réglées :\n\nen 20 versements semestriels\n\négaux et successifs, le premier intervenant le 30 juin 1998 et le dernier le 31 décembre 2007.\n\nb) - En ce qui concerne les échéances, en principal et en intérêts,\n\nvisées à l'Article I, paragraphe 1 c), dues au 31 décembre 1986 et non réglées :\n\nen 10 versements semestriels égaux et successifs, le premier\n\nintervenant le 31 décembre 1991 et le dernier le 30 juin 1996,\n\n- En ce qui concerne les échéances,\n\nen principal et en intérêts,\n\nvisées à l'Article I, paragraphe 1 c), dues entre le ler janvier 1987 et le 31\n\ninclus et non réglées\n\n: en 10 versements semestriels égaux et\n\nsuccessifs, le premier intervenant le 30 juin 1993 et le dernier le\n\n31 décembre\n\n1997.\n\nc) - Le montant de chaque versement sera calculé en appliquant les\n\ntermes de remboursement mentionnés ci-dessus au montant des échéances refinançables décrites dans les Annexes signées I et IV du présent Accord, modifiées, le cas échéant, dans les conditions fixées à l'Article II, paragraphe d).\n\nin",
+      "quality_score": 0.9869,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "4/\n\nARTICLE IV\n\n(Rééchelonnement)\n\nLa dette de la République Démocratique de Somalie relative aux\n\ncredits connerciaux visés à l'Article I, paragraphe 1 b) et à l'accord de consolidation visé à l'Article I, paragraphe 1 c), pour les échéances qui doivent etre payees directement à la COFACE, sera rééchelonnée. Elle sera remboursée directement à la COFACE\n\na) - S'agissant des échéances, en principal et en intérêts,\n\nvisées à l'Article I, paragraphe 1 b), dues au 31 décembre 1986 inclus et non réglées : en 20 versements\n\nsemestriels égaux et successifs, le premier\n\nintervenant le 31 décembre\n\net le dernier le 30 juin 2006.\n\n- S'agissant des échéances, en principal et en intérêts,\n\nvisées à l'Article I, paragraphe\n\n1 b), dues entre le ler janvier 1987\n\net le 31\n\ndécembre 1988 inclus et non\n\nréglées : en 20 versements semestriels égaux et\n\nsuccessifs, le premier intervenant le 30 juin 1998 et le dernier le 31 décembre 2007.\n\nb) - En ce qui concerne les échéances, en principal et en intérêts,\n\nvisées à l'Article I, paragraphe 1 C), dues au 31 décembre 1986 et : en 10 versements semestriels égaux et successifs, le premier intervenant le 31 décembre 1991\n\net le dernier le 30 juin 1996,\n\n- En ce qui concerne les échéances, en principal et en intérêts,\n\nvisées à l'Article I,\n\nparagraphe 1 c), dues entre le ler janvier 1987 et le 31\n\ndécembre\n\n: en 10 versements semestriels égaux et\n\nsuccessifs, le premier intervenant le 30 juin 1993 et le dernier le 31 décembre 1997.\n\nARTICLE V\n\n(Intérêt)\n\n1) Le Gouvernement de Somalie paiera, sur les montants consolidés au titre du présent accord, un intérêt dont le taux est ainsi fixé:\n\na) S'agissant des\n\nprêts de la C.C.C.E. dits du \"premier guichet\",\n\n5,85 % l'an, toutes\n\ncharges et\n\ncommissions comprises ;\n\nb) S'agissant des autres montants consolidés au titre du présent\n\nAccord, 10,2 % l'an,\n\ntoutes charges et commissions conprises.\n\nin",
+      "quality_score": 0.9791,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "5/\n\n2) Sauf pour les prêts visés à l'Article I, paragraphe 1 a), ces taux s'appliquent et se substituent aux taux prévus par les contrats originaux , à partir des dates normales d'échéances contractuelles jusqu'aux dates de paiement des montants\n\nconsolidés.\n\n3) En ce qui concerne les prêts visés à l'Article I paragraphe 1 a), les taux prévus par les contrats initiaux qui instituent\n\nces prêts (y compris les\n\npénalités de retard) s'appliquent jusqu'aux dates de refinancement.\n\ntaux fixés par le paragraphe 1 du présent Article s'apptiquent à\n\npartir des dates de refinancement jusqu'aux dates de paiement des montants\n\nconsolidés.\n\nLe calcul des intérêts sera effectué, sur la base d'une année de 365 à partir des dates d'échéance contractuelle, ou, en ce qui concerne les prêts visés à l'article I, paragraphe 1 a), des dates de refinancement, jusqu'aux dates de remboursement des montants consolidés, sur des périodes de calcul de 3 mois se terminant au 15 février, 15 mai, 15 août et 15 novembre de chaque année.\n\nLes intérêts dus en vertu des dispositions qui précèdent seront réglés le 28 février, le 31 mai, le 31 août et le 30 novembre de chaque année, la premiêre échéance étant fixée au 28 février 1988.\n\nEn cas de non paiement à bonne date, ils porteront eux mêmes\n\nintérêt au taux majoré défini ci-aprês.\n\n5) Pour les paiements\n\nprévus à l'Article VIII paragraphe 3 ci-dessous,\n\ncet intérêt s'applique à partir des dates originelles d'échéances contractuelles jusqu'aux dates effectives de paiement, sous réserve des dispositions spécifiques\n\naux prêts visés à l'Article I paragraphe 1 a).\n\n6) En cas de retard\n\nsur tout paiement prévu au présent Accord, l'intérêt\n\nperçu sur les bases définies\n\nci-dessus sera majoré d'un point, y compris pour\n\nles paiements prévus à l'Article la date limite du 31 décembre 1987, mentionnée au Proces-Verbal agréé du 22 juillet 198l, sous réserve des dispositions spécifiques aux prêts visés à 1 'Article I paragraphe 1 a).\n\nARTICLE VI\n\n(Monnaie de compte)\n\nToutes les obligations résultant du présent Accord seroni\n\nLibellées en Francs français ; il en sera de même des paiements effectués al titre de ces obligations.",
+      "quality_score": 0.9901,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "DISPOSITIONS GENERALES\n\nARTICLE VII\n\nLes modalités de paiement de tous les montants dus au titre du\n\nprésent Accord, à l'exception des montants visés à l'article IV (Rééchelonnement) et des\n\nIntérêts sur ceux-ci, seront définis dans l'accord à\n\nintervenir entre la Banque de France et le Ministère des Finances de Somalie.\n\nLes modalités de paiement des montants visés à l'Article IV\n\n(Rééchelonnement) et des intérêts sur ceux-ci seront définis dans l'accord à intervenir entre la COFACE et le Ministère des Finances de Somalie.\n\nARTICLE VIII\n\nConformément aux dispositions du Procès-Verbal agréé le\n\n22 juillet 1987\n\n1) Le Gouvernement de Somalie\n\ns'engage à faire bénéficier le Gouvernement\n\nfrançais de toutes dispositions plus favorables que celles contenues dans le présent Accord qu'il consentirait, en droit ou en fait, pour le réglement total ou partiel des dettes de la Somalie de terme comparable.\n\n2) A cette fin, le Gouvernement de Somalie s'engage à tenir le président du Club de Paris informé des dispositions de tout accord de consolidation qu'il conclurait.\n\n3) Le\n\nGouvernement de Somalie\n\ns'engage à assurer le paiement de toutes\n\nles échéances dues et non réglées à la date du 22 juillet 1987 agréé au titre de crédits octroyés ou garantis\n\nle Gouvernement français ou ses organismes\n\nappropriés,\n\net n'entrant pas dans le champ d'application du Procês-Verbal\n\nagréé, le plus tôt possible et en tout cas avant le 31 décembre 1987.\n\n4) Le Gouvernement de Somalie prendra les mesures administratives adéquates ou\n\nétendra le champ des\n\nmesures existantes en vue de permettre aux\n\ndébiteurs privés en Somalie de payer aux caisses de la Banque Centrale de\n\nSomalie ou de ses agents désignés la contrevaleur en monnaie locale de leurs obligations échues ou à échoir correspondant à leurs dettes de toute nacure garanties par la COFACE.",
+      "quality_score": 0.9947,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "1/\n\nARTICLE IX\n\nLe prêsent\n\naccord entrera en vigueur à\n\nla date de sa signature.\n\nFait à Paris, ce jour, le 3 décembre 1987 en deux originaux,\n\nen\n\nFrançais et en Anglais,\n\nles deux versions faisant également foi-\n\nPOUR LE GOUVERNEMENT\n\nDE LA REPUBLIQUE FRANCAISE\n\nIde Mosen\n\nPOUR LE GOUVERNEMENT\n\nDE LA REPUBLIQUE DENOCRATIQUE DE SOMALI",
+      "quality_score": 0.9723,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "AGREKMENT\n\nON CONSOLIDATION OF DEBTS\n\nBEIWEEN THE GOVERNMENT OF THE REPUBLIC OF FRANCE\n\nAND\n\nTHE GOVERNMENT OF THE SOMALI DEHOCRATIC REPUBLIC",
+      "quality_score": 0.9957,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "1/\n\nTERMS OF THE CONSOLIDATION\n\nARTICLE I\n\n(Debts concerned\n\n1/ The consolidated debt of the Somali Democratic Republic to France\n\ncovered by this Agreement is made up of instalments of principal and interest\n\na) loans from the French Government or the Caisse Centrale de\n\nCoops alton Be to co (CacCot, having an ori inal aunt of more than one\n\nOctober 1, 1984 ;\n\nb) commercial credits guaranteed by the Compagnie Française\n\nd'Assurance pour le Commerce Extérieur (COFACE), having an original maturity of more than\n\none year, pursuant\n\nto contract or other financial arrangement\n\nconcluded before October 1, 1984\n\nc) the consolidation resulting from the bilateral agreement\n\nconcluded between France and Somalia on November 6, 1985.\n\n2/ The present consolidation will apply to :\n\n- the amounts due\n\nas at December 31, 1986 inclusive and not paid\n\n(excluding late interest) on the debts mentioned in paragraph 1 above ;\n\n- the amounts due from January 1, 1987 up to December 31,\n\n1988\n\ninclusive, and not paid, on the debts mentioned in paragraph 1 above.\n\n3/ The total amount of\n\nthe current instalments and of the arrears\n\nreferred\n\nto\n\nin paragraphs 1 and 2 above Is\n\nestimated, at the date of this\n\nAgreement, at 121,549, 095.55 French Francs (*) :\n\n- 38,650,582.39 French Francs (*), as regards maturities and arrears due\n\non loans referred to in paragraph 1 a)\n\nabove\n\n(Annex I), of which 20,210,137.95 French Francs on \"premier rachs on ses ether cans and 18,440, 446.44 Frenci\n\n\" loans from the C.C.C.E. :\n\n- 69,931,985,87 French Francs (7), as regards maturities and\n\ndue on credits referred to in paragraph 1 b) above, which 24,879,877.38 French Francs of arrears as at December 31, 1986 (Annex II b) and 45,052, 108.49 French Francs of maturities from January 1, 1987 up to December 31, 1988 (Annex\n\n(*) Provisional estimate",
+      "quality_score": 0.9854,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "2/\n\n- 9,667,450.68 French Francs (*), as regards maturities and\n\nFrench Francs of current maturities from January 1, 1987 up to\n\nDecember 31, 1988 (Annex III a) :\n\n- 3,299,076.61 French Francs, as regards other maturities and arrears due on the consolidation referred to in paragraph 1 C)\n\nbove (Annex IV), of which 1,006, 839.04 French Francs of arrears as at December 31, 1986 and 2,292,237.57 French Francs of current maturities from January 1, 1987 up to December 31,1988.\n\nIn case of a mutually acknowledged error of estimation, the\n\namounts so\n\nestimated\n\nshall ba modified by the Parties hereto.\n\nThe annexes will form an integral part of this Agreement.\n\n4/ In the\n\nof any amendment being made after October 1, 1984 to\n\nthe contracts concerning the maturities referred to in paragraph 1 a) and b)\n\nabove, resulting in the increase\n\nof Somalia's commitments towards France,\n\nnew commitments would not be covered by the provisions of this Agreement.\n\n5/ This Agreement shall in no way affect rights and obligations under\n\nthe common law or under commitments undertaken by the Parties in the contracts to above, without prejudice to the provisions of Article V.\n\nARTICLE LI\n\n(Refinancing)\n\nThe Somali Democratic Republic debt on loans referred to in Article I\n\nparagraph 1 a) and on the consolidation agreement referred to in Article I paragraph c), except for maturities which have to be paid directly to the COFACE, will be refinanced\n\nby the French Government according to the following terms :\n\na) The Parties agree that Annexes I and IV of this Agreement, duly\n\nsigned by them, shall be equivalent to a statement of the maturities which will be refinanced.\n\nb) The Ministry of Finance of Somalia shall give to the Banque de\n\nFrance, in the\n\nagreement to be concluded between these two institutions and\n\nreferred to in Article VII hereafter, an authorization to debit its account for the amount of the\n\nmaturities to be refinanced listed\n\non the signed Annexes I and\n\nIV of this Agreement.\n\nc) In order to pay the creditors, the Banque de France (acting as the\n\nauthorized agent of the French Government) shall credit on its books the Ministry of Finance of Somalia (acting as the authorized agent of the Government of somalia) with a loan equal to 100 % of the maturities in principal and it interest to be refinanced.\n\nThe Banque de France shall simultaneously debit the account of the\n\nMinistry of Finance of Somalia with the amount of this loan anc\n\ncredit the\n\ncorresponding French creditors with the appropriate sums.\n\nthe maturities due between the date of this Agreement and Decenber\n\n34, 1900 will be refinanced, according to the provisions set forth above, as they failing due.\n\nin 4",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "3/\n\nd) In case of any modification to the signed Annexes I and IV, made\n\nin accordance with Article\n\nI, paragraph 3, the Banque de France will request, if\n\nnecessary, the Ministry of Finance of Somalia to send it, within a period of one month, a complementary order of\n\npayment equivalent to an authorization to debit\n\nits account with a view to\n\nrefinancing the corresponding maturities, with a\n\nbreakdown for che principal\n\nthe interest. The Ministry of Finance of Somalia\n\nwill list on separate statements\n\nthe maturities relating to loans referred to in\n\nArticle I paragraph 1 a), on the one hand, and the maturities relating to the previous consolidation referred to in Article I paragraph 1 c), on the other hand.\n\nOn this basis, the Banque de France will then implement the\n\nprovisions of paragraph c) above for the refinancing of the corresponding amounts.\n\nARTICLE LII\n\n(Repayment of the debt open to refinancing)\n\nThe Government of Somalia shall repay the debt described in Annexes I this Agreement, and which is to be refinanced according to Article II\n\nabove, as\n\nfollows:\n\na) - As regards the maturities,\n\nin principal and in interest,\n\nreferred lo in Article I, paragraph 1 a) due\n\nat December 31, 1986 inclusive\n\nand not paid\n\n: in 20 equal\n\nsuccessive semi-annual payments, the first one to\n\nbe made on December 31, 1996 and the final one to be made on June 30, 2006.\n\nregards the maturities, in principal and in interest,\n\nreferred to in Article I, paragraph 1 a) due from January 1, 1987 up to December 31, 1988 inciusive and\n\nnot paid : in 20 equal and successive semi-annual\n\npayments, the first payment\n\nto be made on June 30, 1998 and the final one to be\n\nmade on December 31, 2007.\n\nb) - As regards the maturities, in principal and\n\nin interest,\n\nreferred to in Article I, paragraph 1 c) due as at December 31, 1986 inclusive not paid in 10 equal\n\nand successive semi-annual payments, the first one to be\n\nmade on December 31, 1991 and the final payment to be made on June 30, 1996.\n\nregards the maturities,\n\nin principal and in interest,\n\nreferred to in Article I, paragraph 1 c), due from January 1, 1987 up to December 31, 1988 inclusive and not paid: in 10 equal and successive semi-annual payment, the first one to be made on June 30, 1993 and the final one to be made on\n\nDecember 31, 1997.\n\nc) The amount of each payment will be calculated by applying the mentioned terms of repayment to the amount of the maturities open to refinancing and listed on the signed Annexes I and IV of this Agreement, modified, If necessary, according\n\nto the terms of Article II, paragraph d),\n\nARTICLE IV\n\n(Rescheduling)\n\nSomali Democratic Republic debt on commercial credits referred to\n\nin Article\n\nI, paragraph 1 b)\n\nand on the consolidation agreement referred to in\n\nArticle I, paragraph 1 c), as concerns maturities which have to be paid to the shall be rescheduled.\n\nshall be repaid directly to the COFACE as\n\nin",
+      "quality_score": 0.9981,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "4/\n\na) - As regards the maturities, in principal and interest, referred to\n\nin Article I, paragraph 1 b), due as at December 31, 1986 inclusive and not paid : in 20 equal\n\nand successive semi-annual payments, the first one to be made\n\non December 31, 1996 and the final one on June 30, 2006.\n\nregards the maturities, in principal and in interest, referred\n\nto in Article I, paragraph 1 b), due from January 1,\n\n1987 up to December 31, 1988\n\ninclusive and not paid : in 20 equal semi-annual payments, the first payment to be made on June 30, 1998 and the final one on December 31, 2007.\n\n- As regards the maturities, in principal and in interest,\n\nreterred to in Article I, paragraph 1 c),\n\ndue as at December 31, 1986 inclusive\n\nand not paid in 10 equal and successive semi-annual payments, the first one to be made on December 31, 1991 and the\n\nfinal payment to be made on June 30, 1996.\n\n- As regards the maturities, in principal and in interest,\n\nreferred to in Article I, paragraph 1 c), due from January 1, 1987 up to December 31, 1988 inclusive and not paid: in 10 equal and successive semi-annual payments, the first\n\none to be made on June 30, 1993 and the final one to be made on December\n\n31, 1997.\n\nARTICIE T\n\n(Interest)\n\n1/ The Government of Somalia shall pay, on the amounts consolidated\n\nunder this Agreement, an interest at a rate which will be determined\n\nas follows:\n\na) as for \"premier guichet\" loans from the C.C.C.E., 5,85% per\n\nannum, all charges and fees included ;\n\nb) as for other amounts consolidated under this Agreement, 10,2 %\n\ner annum, all charges and fees included.\n\n2/ Except for loans mentioned in Article I paragraph 1 a), these\n\napply and replace the rate of\n\nthe original contracts from the original due dates\n\nup to the dates of repayment of the consolidated amounts.\n\n3/ As for loans mentioned in Article I paragraph 1 a), the rates of\n\ninterest of the original contracts providing for these loans (including penalty charges) will apply until the dates of refinancing.\n\nThe interest stated in paragraph 1 of this Article will apply from\n\nthe dates\n\nof refinancing up to the dates\n\nrepayment of consolidated amounts.",
+      "quality_score": 0.9905,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "5/\n\n4/ The calculation of the interest will be made, on the basis of\n\na 365-day year period, starting from the original due dates, ot, for Ioans gentloned in Article I paragraph la), from the dates of refinancing, up to the repayment dates\n\nof consolidated amounts, on three month calculation periods\n\nending on the 15th of February, 15th of May, 15th of August and 15th of November of each year.\n\nThe interest due according to the provisions set forth above\n\nshall be paid on the 28th of February, the 3lst of May, the 31st of August and the 30th of November of each year, the first payment being made on February 28,\n\nIn case these interest payments are not made on due dates, they\n\nshall bear interest at the increased rate as defined hereafter.\n\nhereafter, this interest applies to the\n\n%!a in teresda paynes so efe ped ed stareng o vile oraaa due dates\n\nto the specifi\n\nARTICLE VI\n\n(Unit of account\n\nFrench Francs; 50 voll he payments relatong to these ortgatio be expressed in\n\nthe payments relating to these obligations.\n\nGENERAL, PROVISIONS\n\nARTICLE VIL\n\nThe Banque de France and the COFACE (each of them with their\n\nrespective responsabilities), on the one hand, and the Ministry of Finance of\n\nSomalia, on the other hand, will act as the authorized agents of their respective\n\nGovernments in executing the provisions of this Agreement.\n\nThe methods of payment of all the obligations arising fron this\n\nAgreement, apart from\n\nthe obligations\n\nreferred to in Article IV (Rescheduling)\n\nof the interest on these obligations, will be determined by an agreement between the Banque de France and the Ministry of Finance of Somalia-\n\nin.",
+      "quality_score": 0.9896,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "6/\n\nThe methods of payment of the obligations referred to in Article IV\n\n(Rescheduling) and of the interest on these obligations will be determined by ar agreement between the COFACE and the Ministry of Finance of Somalia.\n\nARTICLE VIII\n\nAccording to the provisions of the July 22, 1987 Agreed Minute :\n\n1/ The Government of Somalia shall extend to the French Governmen\n\nany terms more favourable than those contained in the present Agreement which i\n\nto any other creditor in respect of total c\n\nChaisaan of the Parts Lud, nored of any of Solda undertakent keep it would conclude.\n\n3/ The Government of Somalia undertakes to pay all debt service due\n\n4/ The Goveriment of Somalia will take the relevant administrative\n\nmeasures of extend existing measures to ensure that the private debtors in\n\nARTICUS IX\n\nThe present Agreement shall come into force on the date of its\n\nsignature.\n\nDone in Paris, this 3 th day of December 1987 in two originals, in French and English, both versions being equally authentic.\n\nTHIS GOVERNMENT\n\nOF THE REPUBLIC OF FRANCE\n\nI Made\n\nTHE GOVERNMENT\n\nOF THE SOMALI DEMOCBACTIC REPUBLI",
+      "quality_score": 0.9872,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "` o: EUTRE Tea p ee Paa n A A a Ea E mN E Ee a maT BLEE AE E E ANE T E A TAE A M EA E EA E A EEA ME EE IAEE E AEE E EE E EE EEEE AE EE EEEE E E Eeee ma aen r T TUD T E oTe S eo tago, Tatia OE De Teh NT aT A D A A aA a M Rekte ie -Tgi Taa m aA T PAAD T TN oee aL eraa aat DL D A D e eea T e AED a T a o iT . Doa n n ne ode Ili INUTI a T soL NAAL- M Ae ie Joe D n n A e a inium -riwl e S O „Le TUT :\n\nQAL EeP e D e tea LADT a AIL a a A Te La Tan a Tta i eT a ee e aaa Dagna T Ta DA lala Aa M AE a L a a a T y a D e p ee oa e Te Eele a T\n\nDIA TR SWT ATA INT e at aa ND a a an ue a ITE D D eitea T Daa N E ript Taa aoee l Se Ara T Da L T elI Ten aL M TA e JAn e aea De en Aa a\n\nInn AOM Tent y Aan D iat L T a E ta pren ADs e a Ae e r T a a TaT eta Ta m T E e aa o DIe T TaT T e.at e t e A a S e ato e a EET LT eal hom ogo caD Do aa a ar A Da aTa a T Tr e e L A L Ta T H Ta r De e a e T aa Lee TET TLA L Toget TIe e a e T DOD D Da a e at L T e a - Eo Taa i e a A n E pa Lle eae baD Sea T T Tm D talere Fe. Pog ctae i a e a l De e OLTA Diea ma TaT LA LOT L i e DT Te o ee T a Tn A n A en e T E ta e\n\nDh rogyr i Us B A R e L Ae N a T er Er L en EU To Ue TOE A A e E A E A U eL A A UT Hea O ATIA DUE IATER D ot lel g anl e n t an |\n\nPaa a a E a a a a E a a \"nio LRT ae Ta TA aE A e T Dala a D T a I e a ee a a aa ee Telep eane Moab 2 ta L tn ™™ = o- om wa DE a a a a a a a a a a P a a ina = or alant] DI Tana Doe OT as oe aTe a ai o Ta me Neat asro TID e e Dir - alaa TT e eTe, nS - -mT L - p ʻ l nr i r a aah P e L\n\nCTR tuni T M T a D a ennie De a kar nagpa n e I T ut a ne a aa B S eee lei era D e Da DTL DAA M e at e a A D l oTe erete LT ..\n\nTar MITO ano ea e e no te a a a e A T e A a a a T TUA AT alr yed t t Na D CITE e aa o Tem e Pa e a T e ATL e eoa\n\nCORSI Dodie MeD etsai ele m ID sone IA o e ate irule p ne e T M e e Ln T a D g ge na TEL aA ELA e TA Da e a TTA a DAT Te T T a aa On aea tege sieh CIT aT J a aanta T Tene Tase Own S Me Th ae taa al LT I elta AT a eean i pe n D aaea D Ee a T eiea r Deotign laene e Biama e Tee ATA Ie a Tel a h T\n\nE a a a E E a R E E E E a aTa t e DMa e en aI AD AA O NAE TN A ALT A A a a aTa LN AA e E T E A nA iee L ONR ta n a TA e DT e TTL e e e a L a ET t a Ton A Dr eje Sen T DLT n a a a a E a a a S E a E E Jes joʻn oyo SRA e A ae M e a Delia e y y e topte aL TAT eam M i euT A T A T e pE e e T an e Te eiD en Dea oLa TILL ie te, Doc u,\n\nEo Dee T PT a E T a n A D atore gL A aa ADi- Da eTe m eT W e lee D n A pe Ln n jetel aee e Te L ADVT NL OTEL T DIe Th = e ALET mnga\n\nATA R S ena al aa O A e ta R Er TAIT T AT r me D vur T Nem te l nón DTe Ma DTe e eam a a De ugy e o Ey a o aI T Te T o h a al aoa IT mD rela DTA P A A T ITa nU LADATA D Ne JAAT AnNa T M MAATA S Stal D A iu A T AD ATARA a L DE AeL T e S a T el Tohe eT o en p\n\nPT aT a T AT T ss Jee D DTE e Tn e l Tta ea Aa MA Da Tta Ae E T e T L L we T D e we t a Dan ea m a T aU eTe TT S aT OEC meL S\n\nLegh SIL r o e De eT I TLN e De n et eaa R L e on S DDE A AR T e M el dn ta o nT Ta e y aa a T T a e L T O TE T\n\nLUT olae Joge. 1T Ip aTe lo Teml a A aD T A Teema T Sa L TAT Ma B LT t a e a a g a D E a e T a on aT L TeL e Den e ea A ete D L Gae T p aL T ehe te a a T nte R TTI A m e e e Tn NL L L D A Tee Do wete D e e r a e aE Ce Ppi e e LeeL ta e T a Toata nRT a Qoo S bopo cam ~ TRAD TE LER CT ea gL I V Aau DTe A a L DOD e, Diece cn D nu Eren a e iI te nl h po eead- ean pI Ten aL Po h tE too l . d a daeng 0, aea I I TA ELT le T Sl eD aet eT oge L gaT Lo Yer A Ta Tere BA a a Do a ra ts -7o oa\n\nEe T, Tia Je al ae ga ec MODHA ee n L ATA Ooa SGo erT- Tee T tea Tis Io eD Deano ROOTA PI do, e Tao eT a A T eee eRT o poA r A eTo aT Er i ao Dep T a L a T O d e o L Le uo TS E og a l eta D Ta De ea Dte e aTa e e A T L a ee a eat m a a T A ae T aga OU\n\nI Gi LSO o 5 Sa nan . i 7 : oor Il-a - i SoU E L S i -_ eoat Uet . x z eT. n Ze al B oN I-T ai X : vT H I a -7 Te. To - 5 N . . . - T an i E i\n\nTo ooo nL LOTT am -o ‘G magoa e eL TE a v v ML a aT a e e e O TOITS Y =U eh Dn a T Toa ge a iLe woel S E E a\n\nLocs Loota, Jaca H Toe e eTe a Te D a Dataa arl bloas Y T TaT c i. agia T D STe S opt aa en a eL eD Da TD e o i w e T a e T a ea a a LT\n\nT A p D E Tr e Det- e ma e e TD D e Taug oop Theet a eea e a L o R o a hL Lr be Tg La iel Do oT S e a a E S aT L oo gTa . oat Foa T TL, 00 Ba Tia D Jelte D5 an Jele} gaea te A TL S e an e T a e T ee lma a e elTe a L a ogo Pea oe T D 5a Tat ea eTO ean eT i we i = Joia. T e7- r a IDO TT o Daole a T Dela Taa oT Da LTT tT Jta 5 -LO Teter n DTi sat ocan] D ie e r On tart o Tm E.\n\npoles ten s Ye E -ToL aTa soa a e eho m an DION moa o E a ea loaa De a Ta Tuer e oia t oS T IDT a D L ae S Te g Tae D a E T Ae De dogo T.T eUe Ta eI tere oel Toe De a e on ow Do m T a i Cy 7 eTo Do Leea atig ao Trt Pera DT- Cae Doat t DTA la t De r aTe Lado gp eD e Doat Metrede TI- mole JTO Ñ UI L A Na h pe t ln p a > e T T ia e e Dale BD e ee ge len e m D e TOA UTTE Te LDTR T Sga Mn dT -TIt gelsem atele oT TONO MIen- Dene E Tee Dolte Te eJ u E I D LN o t r a ` e - N aTe a eT - moas Te i A =i, Tee eE aag t ra t Taoa e ni r Sata a T T a oa -5 ta T P E S ' aoaaa E Paa T TE L a T e e e L Da, aUo aea e E- Dege DTe Teg os T Pte lT e ta S T lata DT a e T aee m a e aih a T o-o ta r i eoo m a e e Deda taen UT teeta a IT, Lae e or DTe Tot S E iL e LS BI at= o t om T a D ea Da CMa nDe Le Lhd gan o g T.\n\naTe a ta e T A eoma nD D D e Jegle Sn, T, KTI Ta LI- a a te Naa DIa ISo e e eL e r aT ea DDT Ims a wo ` Tn -2 Ate elo o te tL Taan DSe o Y a n a a E a na E S Datel ma L e e ente Do ototo o p TORDI Ja e 0 wee To m e o aTe TOPS eT g ee bt ThI- DTN J0 h De. onte e DT a N t ee he T a Tii DaN raa e P T Ta an ea D n\n\nEor Ta T -= tem ta a7 oT Te =- Z Z.’ 2 Ie LUS te- L=. alom - ITs TaT TaT NI a Laa n T Eo aal a T =. ` =r -- Dela -- e ATle a t T oca DOT JT T T e a T T T O o eTo gT D AT e eTl- on oa tmm - == a5- ` YOTs os a a a’ Te TIn, -7 e: -Zea e gre TA T he. Tote go ee e D L TA ta le DE D J nA T Es A S e t T n e ie Den Tea T e a e a A Eao t a a t De a a a j etae a T ea TO eA epl ID7L S- DOCO e e T-T- 1 e A T e ala m lhe da DIDAN c Te T eai I te et T e A E S a e D A 1 e T L TT e Tn ea D n eta L Eg L lerle ADA T ia Teni ma Ce De DUDU el edat bIh Tte uJ I p e TUe e ea A D De De Ta n e n te e L o m s Pisia Ver. olca oo st Dle rat Te eTa e a LT e e VOOLAID e DTe Leat Te Lte a e e LDI eN a Le TaT T eM eTe i a LA T e eT a a T A Al e TA DADNE, alet TS w Bla 1 1 Te poan T a Ta T e e ie e TLL T L T hr T et g alle ta t e a T T a e g-i lee DoD tL Mamee ees r m eT e a e e T e LT T A aan n T e e O n5\n\nMAT UFa aloe Te t e T eet e Ye ae laie EAT al TT e l T a l ae Te aa D S, eTa T TeL E S eela a Da T T l aa ort aw wat Ep eot o w NE\n\nSe a E a a A a a a a a A a E E t= Ja Dawo sem rT aT Trs. T eT Ae TaD T e te Zotta, Taran m o IA T e a TTT a a DT a a T Tei BASAT A a o na en a a aae arno eFoto POO TTI \"ee T Jamo o T e e Ta Doa lote e Talola Lei WUT as Dae Se. De DUTA T a ai meee TRT D NINE Tama S NT T N a O TT ee ae TOPe D AT N n a aN Ta Le L Te oTe LN Pecan Men Jae T a TLT o L a AIT Ta e Inet poa Dere Te SN T e A TAT n t aee e e T a R D A Le an\n\nEOB oma oe e aTe h To anhe LET m oeae Te Ja atn Doone T paaie. T ea TA N e EITAN e TIR e TA- tae aa Tt e a e T eT NE aT. oT Am E T l o solte?\n\nnITL. LOIT aj oTr I shs V eJ e Ae a i ID eLa TAT aT a e e o Te toen iT pep L T e i pn e p A S S ea i ga e Ie Taane ma e T SELO Tapa Tta T -7s in n Tren e a DTIU OCT Te IIriLe e 7- TTI esw - a a a E E J neer I T a e n t T L e u a e a DT\n\nTlett a soa, n alee PO e SeT a Tp D n T Dae Ae e DA A AT aT e D e rii o a T a LA nT N e DER ENN aI ATE I m LA WRT T.\n\nte, ee TLL am e By me T D oa Tae Tet A a R a a a a aar S a a ta ata Tn a T O at Zale, e SeT LT e aS e‘ D L T e e ta em Te t a T D e e L Taa ALA e Me e U Ta e T T a T a Te e l a U N T N T T ma g a Da O a Chaani\n\nCameo Cagle Des a Sre Iera ‘Jonase Iet eTe nT ue MDO Ne e nJ a U NITT Te LT Ne ee a SeeD aeee LT AOL L e a a L e TLA T e a a IT en d 1 SE OGT aD el, tee t eam aTa pO Ta ten a Tate I Te -5e a re T S a a a E a a a a S e a poeci VU2T DTe e Lahe e aT loeta sn e T eel n en LUAD De L R e M US TR I u Tea TIL IONNTA n laen e e a D T a SAT e e LTN i =ar -7 ` eote TL T aT 2 len Te T Tem l a -oh Te \"Lp mo an TIte - eei wos: - : \"a w S a a E m meg eo oT man m a A ma aa Eet Pa E E E a a a ET a a E a a E a a r J\n\nO TR M A AI LI B Al E ET A I e T TA LD e A T eeri nun on aT e eee E n T A EN TAS A TADA IR N it T RT o T e Mein ee a a a a a a O a DeTanp mele we a E a a a e A aa rW Te LA t a T S BanON OS\n\nT aT S Dee a ar E E a S a a a a a a a S a a mea E a a E e aar a a e a a a a E\n\nToDay L T Laela Ad A r A a Tera 4 TaD an T De Tea M e T e a a E D e DE a T N D T U e e D e n T A g De Tat a L O Ne waT a LL\n\nDeLee a IB atie o ee gga Cna DL D oi e AT t A a A OUD M AAN TT n tee T U A TE R T uL AA D Tp e me ee DA e a L T\n\n- Tor n= p no to oma eL rath Ten T a ue ae a a a N =. 5r ea a T a ae T, am\" i Asaale T-t e LT man. aN e I w Male I, a. Ta h a\n\nToate OD A e Taa L aTe e p Daa T e an Taa Zelen ZARO O DLLD T 2e oTe e a n a a Pa e re a a a a a a a a eo Pde T T a O N e A A eE e a a a Da e nea eHe L pe e n a M T LAN T SEN a A e e e ATTN L aAa t a nD L\n\nTo metalen Toer ela eTA- ae tT e D ot D o e ulo TaT a e D e a T T e e a Tae A TET a TE I ae a T a aan aTa e T -namn n. wT v ee pIe Pyet LM e PeT Ti Sn Tn Yee e et eE er E D I A aA T Le A T TN a a a e r ee e y AA e Dea M e A E T T a-y, n eT Hoete t e, C eD D ta T e T Aer L A T D e p A T e e e Lea t e ue e a DI Ie e a t ta N n en t T a T eT ae a E a T L mUD e et rr TA Gen ALDEA Ae ELT T e Ma tet TA e e e e D An e En L T r n e n a e DLD Tat u AA. T AAA Aa T LT A DAS A T n.\n\nr AnTuTu A m e D De a m a a a a D a t e a LI Teitt e a M Le a T a e S Dayi ee uD AD e TIJ at i e te a n\n\nTiet lL ao DTD Dai es Set lT I DaNe f- ruite tt s LTM DT A T A T ET e a a T T ae T A I L T AN e e e ‘n e T A N Da e n a R a a a a a a a a a a a a a a a a a\n\nTeL i TII L ETUS e 0 MIAA ea D er ar a T T A A ET T N n A T re T e a T nT e e en E SND\n\nPer n a a a a n A a a a a a a a a a a a aa E a E a a a a A a\n\nTe ma T ea T Do Te An ea e Tte Tua i- \"Z neo- a a aT Y a Sh aee e a „Dre, tat Toe T a a T a aTM oee DN Da 0 a wa O aa i Tens Tan Ta R TN p Te nea taa SnD’ dooten] Dee a Ira E e T Se e te MT an aTr, T m ae Me e e a a n T L oem e De A D p A AT I a T T a D N T JODI Je em BA t A R oa e E E Piore a a a a a a aa Triat aa a I D e T a e A T A a M n a a n T E e e a e Tea e eI A T T e Jr ee n ee e T SEMI LTDL T e n TLT ETa emae tn D e a, TOLNAI AD A AI A a . aTe e ie DADI RTTA Ll hte e - anam A e E e Le T aae e T a e e L t T aT e e a e a a r a ea m I Te eein m a e BEAT\n\nE ea Dee rT, -n Tam en sei a e M g l i p a e T Te -ta Nan e ei e a L A am T e O a ad Mu mh RAT a MUT O gea T ST te ~\n\nEOT omar a S rner a a a Pa a Jn M M e e T N e M Den e o D aa I A e e A T a a R Maes i a aa a E aee ma LT T AO e Dn DLT eTa e t a TTT A T a p r a n AT T t AADA AAD T Te a E a E O D e e E LT N ND a e o Ten yN an i n a a a E a a a a E a a E E a a a E a a a a a a a a E a a a E a ae a\n\nBea T ADe T e a aL T notem raa AMT Orire e L OD N A D N e a TL A r e LT a t T T Te E T E A T a T T a E a aa N\n\nTAn r arte T da I Tem it Laara DM T T A A A T L a N e a e e AE DA T a A AD E Aa n Te W ea T HE D A M N E s L Te, DAN `\n\nT l eL O ADA D IA TA Ta T N eaS E a E T e D e m lee Te a T e e a T T T a a a T A L A E e a e L T a aT T EA A UT a a Ta aoea DeL Die m mm ae T a D L tleer a al AE e erap e r LI mat e T e e T a E o a n a T Ea a a e aa E o TAA e n ae o SENDE a E R, rae Dat a a e a T o T AE eea na m m r TaT a i ainin a DLD ee a e e TaT T O Panin n Ea a a a a a E a ama t EAE\n\nS a a a T a a a a E a a a a a a a a a a a a e a a a e ia i aTe T T ea re ee aT M r L e r gta Tena at, Me a H A T e sayin ea a a e a a a e a A N maT Trn TNE e A ` oeat at aa ne n aL aT T m` Dai e e ani mT e TELI M a a a ee aima a Tm, T T Tee e A E T Metia ana a m E e ma LaS Sa ` e TA AAE m TLA E A Le i A e T T L a e Te TA e E D T a a Ta T L a O I a a r u e e e e T e T A a a TTR A T a A T T A T a T E eu A TA DS p ATA Dn tre D tee er ar eI T T A a TA TT IAA N LA A n E E De Aau N D a e a a\n\nZal Le, Jec h ocam TA T eR Ea n eL e Am o a E Ta a aate T m E m a T T amta M Tae ~ Pr e A Siia wa m Taie m T mma lmm O T a, Mam T EN r ANIT ptM A T e e M Y a ms rmy e aR a or „m. T -i e Pintat P nY i LOT te u ee e m T y T = e t e TT m E a a i Eo ia Di moO hi `, a m Eta L a m `\n\nTONET S eT eTa NUI ya o DLAs arns, e TAL e o a D E AT D D T a M R i T AD TN, Te e e R DT e obni TTI eMe NA L A IN\n\nLeet m-at aTe a a a E a a o a a TA a e A a a TL e a L in a E a O wan Maaa nt DD I mea e e a\n\nNadto ODAAT I a LE I Dey eA BATA DRA e A A e e Le a e e Jwen L Be i SITEN UT A e a A T Wat E U AN W n\n\nLISSU seana e T- eL t e ag T aT E ae a N E R E S D e A a a e L N E T e e A E am e E T o L LT a T a DAT R T T es ELTE JDT ea Te e ete a Do Ee TIe e a A A A ETU Aee e e e e eTe a e e ERT a a, T a e T re ee r T n A E n e me IM en toetoe aT Cth me Te E ye e T re y ent Mt imaat e T me YT e r T eTa Te e a e T e T T N r E T D e a A T N e a E a A T a I e m e a E a r a a a a E A a a a a a EE r a D a a E iE i aa s a s a e a E an a a E a a a a a a E a a e m n a E E e a e T, e ANE Aen eHe ee e L T Tee mI A e m t aW a a wT T a mt e Aa Aore T olem et aN a aeit e L i LI a a A e a T D a T -aT T T T e a m l a T W D T r M a T t e T a T e N a a W T n e T ATAA A E e e a Tae\n\nCMa TI aferma ea T E e a AT A a Na e a e i aT Ia a a a a a a a a e r S ar a a aa aa O a a a E a l\n\nToa a L A mte a De LT ee aT aa ee o gee Tne p ie l e LLT A D e A EE E a Te, Ta a ATA I T D E o a T R RD A e ea a a a a E a a E euda E gge abee 1T r rD mg ele e e e R ee R e eT eaea e T R M e T ao e ia a A A E A e, A A A w wO N a aL\n\nE E e a a E a a E a E a a A a E E S e e a N e A\n\nTaie TA uta li a A a L e L A N e T e T e a D e N e a a A m T T a e A a a a M a a E A T T T a T e e n E T a LA E BIANI S AIAT a alal e eDiena e ma N A a D e T a A r T M Te a a M Te ne e ISMIN e a a e m e AN TOMIDA LBN oe e a D A Te e A at T T A e e e T a La T e DA T T e a A LTEN A U a e a a T a n a eE ula a M a m iign Tes tand wo r G NA\n\nPIMI AN M eT eef t I u ee E a A e T e e e T eN M n e ae e e ari Te a T a r aa a ra d MTCN AAR TINI LG IR I o i CORPER -ra Positie m T a ta l TE T, a Air e e S i a l e e T a tag T e y e o a A, o n a a a a E E i et Tea n Lara -w m E aio a ma Wa TTR T T\n\nOFF- p a Ya e aT -a M etin te e e = tmo a, wT o Ta Po a u a T . at e e ae maT a a Ema S n Tam o sen a a D Ter a a T, ` a ` Paesi r Ta 2 PIL”. ma aL i mT. i Da F Aae a pt e, TUAN T a R n T a e a > ANL TNT a a T\n\nAa Ta DATT T ptearna T Te TAT o aT Tet FAD hatt Wa Tene T T aa D eA T es e e a ena E n A RA D A D m a T e T a a N e e i n a L t e ea DNES E AE a .- Te aL uan oo P Oaa Fie a r a a a Mn E Ta Tr ” -e m T m Ma m\n\nn eim a e Ti i amarna T a rii ai e E Dae aT nan r n a a a aT y Ae k aed g i E at. a E he E N m a a aa pe n jue d ae so `",
+      "quality_score": 0.5589,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "pt",
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19850107_001_s1",
+      "title": "Accord",
+      "score": 0.870969,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20030020_001_s1",
+      "title": "Accord (sans les annexes)",
+      "score": 0.646203,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850080_001_s1",
+      "title": "Accord",
+      "score": 0.548082,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19750313_001_s1",
+      "title": "Protocole",
+      "score": 0.470691,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19790195_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.470593,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19770374_001_s1",
+      "title": "Texte de l'avenant (ensemble 4 annexes)",
+      "score": 0.468867,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19860200_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.468265,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19890163_001_s1",
+      "title": "Accord",
+      "score": 0.465786,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19910098_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.464849,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19740101_001",
+      "title": "Convention (ensemble 1 protocole d'application et 4 annexes)",
+      "score": 0.458489,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

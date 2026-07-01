@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20030221_731",
+  "title": "Instrument britannique",
+  "year": 2003,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9888,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Note No 008/05 L'Ambassade de Grande-Bretagne présente ses compliments au Ministère des Affaires étrangères et a l'honneur de se référer à l'accord signé à Bruxelles, le 9 décembre 2003, entre la France, la Grande-Bretagne et la Norvège, relatif à l'acquisition en commun d'un systeme de sauvetage des équipages de sous-marins. Conformément au paragraphe 1 de l'article X de cet accord, elle lui confirme que le gouvern…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20030221_731.pdf",
+  "source_filename": "tra20030221_731.pdf",
+  "source_sha256": "27f63f496ae1c59996202fc4bd4a831ed88be118ae2aaa44962543b205c72904",
+  "treaty_id": "TRA20030221",
+  "treaty_number": "GBR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Note No 008/05\n\nL'Ambassade de Grande-Bretagne présente ses compliments au Ministère des Affaires étrangères et a l'honneur de se référer à l'accord signé à Bruxelles, le 9 décembre 2003, entre la France, la Grande-Bretagne et la Norvège, relatif à l'acquisition en commun d'un systeme de sauvetage des équipages de sous-marins.\n\nConformément au paragraphe 1 de l'article X de cet accord, elle lui confirme que le gouvernement du Royaume-Uni de\n\nGrande-Bretagne et d'Irlande du Nord a terminé les procédures nécessaires à l'échelon national pour permettre l'entrée en vigueur de cet accord.\n\nL'Ambassade de Grande-Bretagne saisit cette occasion pour renouveler au Ministère des Affaires étrangères les assurances de sa haute considération.\n\nAmbassade de Grande-Bretagne\n\nParis, le 11 janvier 2005\n\nPROTEER\n\nDF SDAT",
+      "quality_score": 0.9888,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940439_098",
+      "title": "Accusé de réception par le dépositaire de l'instrument wallon",
+      "score": 0.395415,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_733_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument britannique",
+      "score": 0.394327,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20030221_002_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.391919,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_696",
+      "title": "Pouvoirs néerlandais",
+      "score": 0.389492,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_099",
+      "title": "Notifications du dépositaire aux Parties relatives au dépôt de l'instrument wallon",
+      "score": 0.386721,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_025_s1",
+      "title": "Note verbale de dénonciation de la Belgique",
+      "score": 0.384615,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_006_s1",
+      "title": "Accusé de réception ouzbèke de l'instrument français",
+      "score": 0.382072,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_101",
+      "title": "Instrument de la Région Bruxelles-Capitale",
+      "score": 0.380544,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_101",
+      "title": "Instrument de la Région Bruxelles-Capitale : notification de l'assentiment de l'Accord par ordonnance du 15 mai 1997",
+      "score": 0.378772,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_097_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.377738,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

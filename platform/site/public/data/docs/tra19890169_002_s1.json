@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19890169_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1989,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9736,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "- Archives. DERCST: Dion 一 des Identités et Echange, ulturels. 19890169 N° 164/89 POUVOIRS … nom du Gouvernement de la République, NOUS, Ministre d'Etat, Ministre des Affaires Etrangéres, donnons POUVOIRS par ces présentes à M. François SCHEER, Secrétaire général du Ministère des Affaires Etrangères pour signer l'accord entre le Gouvernement de la République française et le Gouvernement de la République populaire de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19890169_002_s1.pdf",
+  "source_filename": "tra19890169_002_s1.pdf",
+  "source_sha256": "32df87e29226895d32259fff616c1c3834aefe4cb1b3ca98629977dd1ff82e6c",
+  "treaty_id": "TRA19890169",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "- Archives.\n\nDERCST:\n\nDion\n\n一\n\ndes Identités et Echange, ulturels.\n\n19890169\n\nN° 164/89\n\nPOUVOIRS\n\n… nom du Gouvernement de la République, NOUS,\n\nMinistre\n\nd'Etat,\n\nMinistre des Affaires Etrangéres,\n\ndonnons\n\nPOUVOIRS par ces présentes à M. François SCHEER, Secrétaire général du Ministère des Affaires Etrangères\n\npour signer l'accord entre le Gouvernement de la\n\nRépublique française et le Gouvernement de la République populaire de Hongrie relatif aux instituts culturels (ensemble un échange de lettres)./.\n\nFAIT à PARIS, Le 29/6/89\n\nLe Ministre d'Etat,\n\nMinistre des Affaires Etrangères",
+      "quality_score": 0.9736,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.580815,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880302_002",
+      "title": "Pouvoirs français",
+      "score": 0.563041,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860069_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.545938,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830281_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.503642,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890267_002",
+      "title": "Pouvoirs français",
+      "score": 0.399651,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.397325,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.3959,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.393111,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.391402,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.391125,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

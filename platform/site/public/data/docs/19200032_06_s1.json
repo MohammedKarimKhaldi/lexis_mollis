@@ -1,0 +1,64 @@
+{
+  "document_id": "19200032_06_s1",
+  "title": "Pouvoirs de signature danois",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8569,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "e M Nots Cheitar Dis par la grâce de Dien Roi de Danemar Vandales et des Gotho Duc de Sles- aig. Holatein Stormar, des Dithmar- de Larsenbourg et d'Oldenbourg et autorisé, comane par vertu de ses instructions, coucha el siqué. ≥ fanahames Dliins Jaweirs. .",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_06_s1.pdf",
+  "source_filename": "19200032_06_s1.pdf",
+  "source_sha256": "2c0a8b7936fd00ed556ff238856fba49dc050392dcdeda1287e3e3dbdc728cd8",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "255",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "e M\n\nNots Cheitar Dis par la grâce de Dien Roi de Danemar\n\nVandales et des Gotho Duc de Sles- aig. Holatein Stormar, des Dithmar- de Larsenbourg et d'Oldenbourg\n\net autorisé, comane par",
+      "quality_score": 0.8195,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "vertu de ses instructions, coucha el siqué.\n\n≥ fanahames\n\nDliins\n\nJaweirs. .",
+      "quality_score": 0.8943,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

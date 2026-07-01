@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_76_s1",
+  "title": "Instrument d'adhésion de la Gambie",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9658,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 76 INSTRUMENT FOR ACCESSION The Government of The Gambia declares to accede to the Convention relating to International Exhibitions signed at Paris on 22d November 1928, modified by the Protocol of 18'h November 1966, 30% November 1972 and amended on 24 June 1982 and 31\" May 1988, in conformity with Article 3 of the Protocol and ensures to fulfill all obligations deriving from the Convention and the Protoco…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_76_s1.pdf",
+  "source_filename": "19280002_76_s1.pdf",
+  "source_sha256": "e8f2cc5e60e3368510aa293b00097bdafe3659116a32fa8212a35a36fca579d5",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "GMB001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 76",
+      "quality_score": 0.9434,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "INSTRUMENT FOR ACCESSION\n\nThe Government of The Gambia declares to accede to the Convention relating to International Exhibitions signed at Paris on 22d November 1928, modified by the Protocol of 18'h November 1966, 30% November 1972 and amended on 24 June 1982 and 31\" May 1988, in conformity with Article 3 of the Protocol and ensures to fulfill all obligations deriving from the Convention and the\n\nProtocol.\n\nIN WITNESS WHEREOF, I signed the present instrument\n\nAlhaji Dr. Yahya A.J.J. Jammeh\n\nPRESIDENT OF THE REPUBLIC OF THE GAMBIA",
+      "quality_score": 0.9882,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.830175,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_79_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.810458,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_74_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.795797,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_70_s1",
+      "title": "Instrument d'adhésion des Fidji",
+      "score": 0.775287,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.723939,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_69_s1",
+      "title": "Lettre portant dénonciation",
+      "score": 0.710599,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_66_s1",
+      "title": "Instrument de ratification",
+      "score": 0.705973,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.704873,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_68_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.693476,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_65_s1",
+      "title": "Pouvoirs pour la ratification de la convention",
+      "score": 0.688516,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

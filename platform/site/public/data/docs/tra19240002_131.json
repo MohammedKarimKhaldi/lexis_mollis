@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_131",
+  "title": "Notification par le gouvernement français du dépôt de l'instrument",
+  "year": 1924,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9767,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JPR/DL MINISTERE DES AFFAIRES ETRANGERES -=- = DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES ーニー！！ Sous-Direction des Questions Economiques ・ニーニー N °1038 /NUOI/E REPUBLIQUE FRANCAISE Paris, le 3 octobre 1994 LE MINISTRE DES AFFAIRES ETRANGERES MONSIEUR L'AMBASSADEUR DE FRANCE (Voir liste in fine) A/S : Adhésion de la Bosnie-Herzégovine à l'Arrangement portant création d'un Office International des…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_131.pdf",
+  "source_filename": "tra19240002_131.pdf",
+  "source_sha256": "c871122606462cdb41f039080906f01c2951f7a133b93669e0bdaba863e6b621",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "BIH002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JPR/DL\n\nMINISTERE\n\nDES\n\nAFFAIRES ETRANGERES\n\n-=- =\n\nDIRECTION DES NATIONS UNIES\n\nET DES ORGANISATIONS\n\nINTERNATIONALES\n\nーニー！！\n\nSous-Direction des Questions Economiques\n\n・ニーニー\n\nN °1038 /NUOI/E\n\nREPUBLIQUE FRANCAISE\n\nParis, le 3 octobre 1994\n\nLE MINISTRE DES AFFAIRES ETRANGERES\n\nMONSIEUR L'AMBASSADEUR DE FRANCE\n\n(Voir liste in fine)\n\nA/S : Adhésion de la Bosnie-Herzégovine à l'Arrangement portant création d'un Office International des Epizooties.\n\n1424CEC2\n\nLe Gouvernement du pays de votre résidence étant partie à l'Arrangement du 25 janvier 1924 portant création\n\nOffice International des Epizooties, dont le\n\nGouvernement français est dépositaire, je vous serais obligé de bien vouloir lui faire part de la communication suivante :\n\n\"Le Gouvernement de la République de Bosnie-Herzégovine a déposé le 8 août septembro 1994 auprès du Gouvernement Français l'instrument d'adhésion de la Bosnie- Herzégovine à l'Arrangement portant création d'un Office International des Epizooties signé à Paris le 25 Janvier 1924\".\n\nVous voudrez bien me faire connaître, par le moyen du formulaire ci-joint, la date à laquelle les autorités du pays de votre résidence auront accusé réception de cette connunation.\n\nMichel VANDEPOORTER",
+      "quality_score": 0.9767,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_290",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.805075,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_391",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument d'adhésion hondurien",
+      "score": 0.802511,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_300",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.802236,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_081",
+      "title": "Note verbale des autorités grecques accusant réception de la notification du dépôt de l'instrument de Bahreïn",
+      "score": 0.801512,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_287",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument d'adhésion équatorien",
+      "score": 0.757589,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_280",
+      "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion émiratie",
+      "score": 0.744573,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_240",
+      "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion costaricienne",
+      "score": 0.740857,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_286",
+      "title": "Notification par le gouvernement français de la dénonciation équatorienne",
+      "score": 0.732751,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_506",
+      "title": "Demande des autorités françaises d'une notification de dépôt de l'instrument d'adhésion",
+      "score": 0.724582,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_305",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.70457,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

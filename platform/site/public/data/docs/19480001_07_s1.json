@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_07_s1",
+  "title": "accusé de réception de la note d'adhésion de l'Allemagne",
+  "year": 1948,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9534,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ALLEMAGNE K/SP DIRECTION DES AFFAIRES ADMINISTRATIVES & SOCIALES Unions Internationales PARIS, le 23 Mars 1957. Par note N° WI 307 449/57 èn date du I6 mars, l'Ambassado d'Allomagno a bien voulu fairo part au Ministèro des Affatres Etrangères do l'adhésion du Gouvernonont au Pro- tocole du 1O mal I948 portant modification de la convention de 1928 sur les Expositions Internationales. En donnant acte à 1' Ambassade de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_07_s1.pdf",
+  "source_filename": "19480001_07_s1.pdf",
+  "source_sha256": "af40176093bf18e02582b2838e8968e4e748861477ff77d7b7ea2635c785f9bf",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "DEU002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ALLEMAGNE\n\nK/SP\n\nDIRECTION DES AFFAIRES\n\nADMINISTRATIVES & SOCIALES\n\nUnions Internationales\n\nPARIS, le 23 Mars 1957.\n\nPar note N° WI 307 449/57 èn date du I6 mars, l'Ambassado d'Allomagno a bien voulu fairo part au Ministèro des Affatres Etrangères do l'adhésion du Gouvernonont au Pro- tocole du 1O mal I948 portant modification de la convention de 1928 sur les Expositions Internationales.\n\nEn donnant acte à 1' Ambassade de cotte notification 1e Ministère a I'honneur de lul fairo savoir que l'adhésion de l'Allemagne prendra effet à compter do la dato de dépôt de l'instrument d'adhésion, soit lo I6 Mars./.\n\nLe Ministère saisit cette occasion pour renouveler à 1'Ambassade d'Allemapno les assurances de sa haute cons1- dération.\n\nPour copie certifiéo conformo à l'original\n\nPARIS, 10 2 Nai 1958.\n\nAMBASSADE DE LA REPUBLIQUE\n\nFEDERALE D'ALLEMAGNE\n\nPARIS\n\nCes unies",
+      "quality_score": 0.9534,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.543714,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.417612,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_009_s1",
+      "title": "Note verbale d'acceptation de l'Autriche",
+      "score": 0.412491,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mco003_s1",
+      "title": "Note accusant réception de la notification d'adhésion",
+      "score": 0.408719,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.407763,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.405356,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_054_s1",
+      "title": "Note verbale de transmission de la déclaration d'acceptation de la Finlande",
+      "score": 0.3994,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_021_s1",
+      "title": "accusé de réception de l'adhésion de l'Autriche",
+      "score": 0.398569,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.396661,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.396276,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_386",
+  "title": "Accusé de réception de l'instrument haïtien",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9745,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "SDAT Ministère des affaires étrangères 15 Le Ministère des Affaires Etrangères présente ses compliments à 1'Ambassade de la République d'Haïti et a l'honneur d'accuser réception de l'Instrument d'adhésion de la République d'Haïti remis au Département le 10 février 1988, à l'arrangement portant création d'un Office International des Epizooties signé à Paris le 25 janvier 1924. Le Ministère des Affaires Etrangères n'a…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_386.pdf",
+  "source_filename": "tra19240002_386.pdf",
+  "source_sha256": "666f6d4db685e1f6e681d9e0f9d238340e860079507034a8fc331fce12639934",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "HTI004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SDAT\n\nMinistère des affaires étrangères 15\n\nLe Ministère des Affaires Etrangères présente ses compliments à\n\n1'Ambassade\n\nde la République d'Haïti et a\n\nl'honneur d'accuser\n\nréception de l'Instrument d'adhésion de la\n\nRépublique\n\nd'Haïti\n\nremis au Département le 10 février 1988, à\n\nl'arrangement portant création d'un Office International des\n\nEpizooties signé à Paris le 25 janvier 1924.\n\nLe Ministère des Affaires Etrangères n'a pas manqué de notifier cette adhésion, qui a pris effet le 15 février 1988, à l'Office\n\nInternational des Epizooties et aux Etats parties\n\nà cet Acte International.\n\nLe Ministère des Affaires\n\nEtrangères\n\nsaisit cette\n\noccasion\n\npour renouveler à l'Ambassade de la République\n\nd'Haïti les\n\nassurances de sa haute considération./.\n\nAFFATR\n\n17 FEVR. 1988\n\nDET\n\nMINISTERE\n\nSAHONYAIS\n\nAMBASSADE\n\nREPUBLIQUE\n\nPARIS\n\nDE\n\nLA\n\nD'HAITI",
+      "quality_score": 0.9745,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.419924,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hti003_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.412027,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.411969,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.402776,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_175",
+      "title": "Accusé de réception français de l'instrument d'adhésion canadien",
+      "score": 0.3995,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_005_s1",
+      "title": "Note verbale d'acceptation de l'Afrique du Sud",
+      "score": 0.398959,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_700",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.397284,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.395979,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_irn002_s1",
+      "title": "Notification au Bureau international des expositions de l'adhésion de l'Iran",
+      "score": 0.39512,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.393797,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

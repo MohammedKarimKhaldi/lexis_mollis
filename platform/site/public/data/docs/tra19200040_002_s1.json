@@ -1,0 +1,62 @@
+{
+  "document_id": "tra19200040_002_s1",
+  "title": "Protocole concernant la signature",
+  "year": 1920,
+  "doc_type": "Protocole",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9793,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROTOCOLE CONCERNANT LA SIGNATURE. PROTOCOL RELATING TO SIGNATURE. Le Traité relatif an Slesvig en date de ce jour pourra étre signé jusqu'au cing août 1920, à midi. FAIT a Paris, le cing juillet mil neuf cent vingt. The Treaty with regard to Slesvig of even date may be signed until midday on August 5, 1920. DONE at Paris, the fifth day of July, one thousand nine hundred and twenty. Sais files Carte Polists Boring 7…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200040_002_s1.pdf",
+  "source_filename": "tra19200040_002_s1.pdf",
+  "source_sha256": "f33fc03a5db72e28f3b0a654321957e71bf09e118b46b56d15f748695140359a",
+  "treaty_id": "TRA19200040",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROTOCOLE\n\nCONCERNANT LA SIGNATURE.\n\nPROTOCOL\n\nRELATING TO SIGNATURE.\n\nLe Traité relatif an Slesvig en date de ce jour pourra étre signé jusqu'au cing août 1920, à midi.\n\nFAIT a Paris, le cing juillet mil neuf cent vingt.\n\nThe Treaty with regard to Slesvig of even date may be signed until midday on August 5, 1920.\n\nDONE at Paris, the fifth day of July, one thousand nine hundred and twenty.\n\nSais files Carte\n\nPolists\n\nBoring\n\n7. Matori\n\nH. A. Bernhoft.",
+      "quality_score": 0.9793,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200018_001_s1",
+      "title": "Traité",
+      "score": 0.358355,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_005_s1",
+      "title": "Protocole de signature fixant la date limite de signature des traités, conventions, arrangements, protocole et déclarations datés du 10 sept 1919",
+      "score": 0.353024,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

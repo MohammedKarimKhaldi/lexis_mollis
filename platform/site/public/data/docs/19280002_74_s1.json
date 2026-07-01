@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_74_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9717,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 74 INSTRUMENT D'ADHESION Le Gouvernement de la République Gabonaise, déclare qu'il adhère à la Convention concernant les expositions internationales, signée à Paris le 22 Novembre 1928, telle que modifiée par le Protocole du 16 Novembre 1966, 30 Novembre 1972 et amendée le 24 juin 1982 et le 31 Mai 1988, conformément aux dispositions s'acquittera de bonne foi de toutes les obligations qui sont prévues dans…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_74_s1.pdf",
+  "source_filename": "19280002_74_s1.pdf",
+  "source_sha256": "2d9ebb7b2dafec39a1db768d33d1d617e28a1d4e50d1434e6ff9c3457ca98fa2",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "GAB001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 74",
+      "quality_score": 0.9434,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "INSTRUMENT D'ADHESION\n\nLe Gouvernement\n\nde la République Gabonaise,\n\ndéclare qu'il adhère à la Convention concernant les expositions internationales, signée à Paris le 22\n\nNovembre 1928, telle que modifiée par le Protocole du 16 Novembre 1966, 30 Novembre 1972 et amendée le 24 juin 1982 et le 31 Mai 1988, conformément aux dispositions s'acquittera de bonne foi de toutes les obligations qui sont prévues dans la Convention et le Protocole.\n\nEN FOI DE QUOI, J'ai signé le présent Instrument d'Adhésion, revêtu du Sceau de la République.\n\nFait à Libreville, le 12 SEP. 2007\n\nLe Vice-premier Ministre, Ministre des Affaires Etrangères, de la Coopération, de la Francophonie et de l'Intégration Régionale",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.805208,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_76_s1",
+      "title": "Instrument d'adhésion de la Gambie",
+      "score": 0.795797,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_79_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.790388,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.742841,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.737211,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_160_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.728521,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lbr001_s1",
+      "title": "Instrument d'adhésion.",
+      "score": 0.724529,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lao001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.719952,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.708135,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.696797,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

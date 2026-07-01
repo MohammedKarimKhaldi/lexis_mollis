@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_021_s1",
+  "title": "accusé de réception de l'adhésion de l'Autriche",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9232,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "- JM/HIL ADVERSELA PES A DOTALES Unions Internationales Nº 432 UN 9 MAI 1960 Par noto on dato du 2 mars 1960, l'Ambassado d'Autricho a bien voulu domandor su Ministère des Affalros Etrangères do lui Indiquor la dato à laquello pourrait être considéré conmo offectivo l'adhésion do l'Autricho à la Convention Internationalo du lor décembro 1954 rolativo a 1'Institut International du Froid, ot do lui oommuniquor la list…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_021_s1.pdf",
+  "source_filename": "19540096_021_s1.pdf",
+  "source_sha256": "aa19f72d04474558b7bac856946899daedc7c2e8607ff3c799a12ac085b67714",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "AUT002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "- JM/HIL\n\nADVERSELA PES A DOTALES\n\nUnions Internationales\n\nNº 432\n\nUN\n\n9 MAI 1960\n\nPar noto on dato du 2 mars 1960, l'Ambassado d'Autricho a bien voulu domandor su Ministère des Affalros\n\nEtrangères do lui Indiquor la dato à laquello pourrait être considéré conmo offectivo l'adhésion do l'Autricho à la\n\nConvention Internationalo du lor décembro 1954 rolativo a 1'Institut International du Froid, ot do lui oommuniquor la liste dos Etats actuellement membros do cot arrangement.\n\nLe Ministèro a 1 'honnour de faire savoir à 1'Am- bassado que cotto ehóston a prls orrat a compton du 22 d6a combro 1959, date du dépôt do document auprès do I'Institut\n\nInternational du Froid à Paris.\n\nL'Ambessade voudra bien trouver également, 0i- Joint, los renseignements demandés au sujet dos paJs ac- tuellemont membros de cot organismo./.\n\nLo Ministère salsit cotto occasion pour renouveler à l'Ambassado d'Autriche los assurancos de sa hauto consi- dération.\n\nAMBASSADE D'AUTRICHE\n\nPARIS",
+      "quality_score": 0.9232,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_054_s1",
+      "title": "Note verbale de transmission de la déclaration d'acceptation de la Finlande",
+      "score": 0.420009,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_033_s1",
+      "title": "Note verbale du dépositaire à l'Ambassade d'Allemagne fédérale à Paris relative à la déclaration allemande du 17 décembre 1959",
+      "score": 0.408726,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_07_s1",
+      "title": "accusé de réception de la note d'adhésion de l'Allemagne",
+      "score": 0.398569,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.394459,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_060_s1",
+      "title": "accusé de réception par l'Institut international du Froid de l'adhésion d'Israël",
+      "score": 0.389556,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_049_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'Egypte",
+      "score": 0.385536,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.3839,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.381553,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_439b",
+      "title": "Échange de notes entre l'Ambassade d'Italie en France et le ministère français des Affaires étrangères relatif à la date d'entrée en vigueur de l'accord: lettre française",
+      "score": 0.377579,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_28_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Finlande",
+      "score": 0.376096,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

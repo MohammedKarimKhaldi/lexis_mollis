@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20220006_002_s1",
+  "title": "Pouvoirs",
+  "year": 2022,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9851,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Française N°13/2022 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à : M. Olivier SEROT ALMERAS LATOUR, ambassadeur de France au Cap-Vert en vue de signer l'Amendement à l'Accord sur le différé de dette entre le Gouvernement de la République française et le Gouvernement de la République du Cap-Vert./. FAIT À PARIS…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20220006_002_s1.pdf",
+  "source_filename": "tra20220006_002_s1.pdf",
+  "source_sha256": "579d16f1292cf3d7c95b54746b1f1f1460ba5dcd08101a9a31f972d475da632f",
+  "treaty_id": "TRA20220006",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République Française\n\nN°13/2022\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à :\n\nM. Olivier SEROT ALMERAS LATOUR, ambassadeur de France au Cap-Vert\n\nen vue de signer l'Amendement à l'Accord sur le différé de dette entre le Gouvernement de la République française et le Gouvernement de la République du Cap-Vert./.\n\nFAIT À PARIS, LE 3 ferrier 2022\n\nLe Ministre de l'Europe et des Affaires étrangères\n\nM le Drian",
+      "quality_score": 0.9851,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.685837,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220034_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.647425,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212835_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.627875,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.592863,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.577636,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.566477,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820077_002",
+      "title": "Pouvoirs français",
+      "score": 0.565032,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141368_002",
+      "title": "Pouvoirs français",
+      "score": 0.550582,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.425177,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230143_002_s1",
+      "title": "Lettre en réponse",
+      "score": 0.421527,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

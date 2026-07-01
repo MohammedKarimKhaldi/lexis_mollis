@@ -1,0 +1,129 @@
+{
+  "document_id": "19540090_396_s1",
+  "title": "Pouvoirs français",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr",
+    "hu"
+  ],
+  "quality_score": 0.9176,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "A agyar Népköztársaság Elnöki Tanácsa ezennel elhatározza, hogy a Magyar Népköztársaság csatlakozik a Borok vizsgálati és minősi- tési módszereinek egységesitéséről szóló, 1954 október 13-án Fárizsban kelt egyezményhez. À Magyar Népköztársaság Elnöki Tanácsa ennek hiteléül ezt a csat- lakozási okiratot elnökének és titkárának aláirásával, valamint pecséttel ellátva kiadja. Kelt Budapesten, az 1975. évi március hó 26…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_396_s1.pdf",
+  "source_filename": "19540090_396_s1.pdf",
+  "source_sha256": "f06aca6c97cf96871ed427bf543badc0712bd4c31c6f5784def02eabcec31e00",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "FRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "A agyar Népköztársaság Elnöki Tanácsa ezennel elhatározza, hogy a Magyar Népköztársaság csatlakozik a Borok vizsgálati és minősi- tési módszereinek egységesitéséről szóló, 1954 október 13-án\n\nFárizsban kelt egyezményhez.\n\nÀ Magyar Népköztársaság Elnöki Tanácsa ennek hiteléül ezt a csat- lakozási okiratot elnökének és titkárának aláirásával, valamint pecséttel ellátva kiadja.\n\nKelt Budapesten, az 1975. évi március hó 26. napján.\n\nJoron: R\n\nÀ Magyar Népköztársaság Elnöki\n\nTanácsának elnöke\n\nA kagyar mae EA q Elnöki\n\nTanácsának titkár",
+      "quality_score": 0.9012,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hu"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Le Conseil de Présidence de la République Populaire Hongroise a résolu l'adhésion de la République Populaire Hongroise à la Convention Internationale pour l'unification des méthodes d'analyse et d'appréciation des vins, faite à Paris le 13 octobre 1954.\n\nEn foi de quoi le Conseil de Présidence de la République\n\nPopulaire Hongroise délivre cet instrument d'adhésion revêtu de la signature de son président et de son gecrétaire ainsi que de son sceau.\n\nFait à Budapest, le 26 mars 1975.\n\n/Signé/ Pál LOSONCZI\n\nPrésident du Conseil de Présidence le la République Populaire Hongroise /Signé/ Lajos CSETERKI\n\nSecrétaire du Conseil de Présidence de la République Populaire Hongroise\n\niatONOn CERINÉE CONFORIE à L'ORIGINAL\n\nExtapest, le 27. mars\n\n_ 10$5\n\ndi. Gait Rowid poulet du Département de Droit Iniorational au Minietore des filento Cirangers do la République Populaire\n\nHongroire.",
+      "quality_score": 0.934,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_058_s1",
+      "title": "Pouvoirs français",
+      "score": 0.413071,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_153_s1",
+      "title": "Procès-verbal de dépôt de l'instrument bulgare",
+      "score": 0.388758,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_31_s1",
+      "title": "Instrument d'adhésion de la Hongrie",
+      "score": 0.38252,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_397_s1",
+      "title": "Réserve hongroise",
+      "score": 0.375785,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_297_s1",
+      "title": "Procès-verbal de dépôt de l'instrument espagnol",
+      "score": 0.372962,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_057_s1",
+      "title": "Procès-verbal de dépôt de l'instrument argentin",
+      "score": 0.372742,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.372667,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_976_s1",
+      "title": "Instrument de ratification yougoslave",
+      "score": 0.371605,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.369385,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.364841,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

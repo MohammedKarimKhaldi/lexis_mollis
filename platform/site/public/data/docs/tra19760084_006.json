@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19760084_006",
+  "title": "tra19760084_006",
+  "year": 1976,
+  "doc_type": "Inconnu",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9083,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ripublique Frangaise Le Ministre des Relations Exterieures Pazis, le 22 juin 1981 Monsieur Le Ministre, Me rétérant à l'article VII de la Convention diplomatique entre le Gouvernement de la République frangaise et le Gouvernement de la Rópublique togolaise signée 4 Jonó le 23 mars 1976, J'ai 1 'honneur de vous fatre savoir que les procédures requises par la Constitution de la République pour 1'entrée en vigueur de I…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Inconnu",
+    "instrument_type:unknown",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760084_006.pdf",
+  "source_filename": "tra19760084_006.pdf",
+  "source_sha256": "c1b00cfd07209437852e875d95802f54dce034dfa9ac24df702e42cac5491951",
+  "treaty_id": "TRA19760084",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ripublique Frangaise\n\nLe Ministre des Relations Exterieures\n\nPazis, le 22 juin 1981\n\nMonsieur Le Ministre,\n\nMe rétérant à l'article VII de la Convention diplomatique entre le Gouvernement de la République frangaise et le Gouvernement de la Rópublique togolaise signée 4 Jonó le 23 mars 1976, J'ai 1 'honneur de vous fatre savoir que les procédures requises par la Constitution de la République pour 1'entrée en vigueur de\n\nIndite Convention ont été accomplies.\n\nI' Inatrument de ratifiestion de la République togoleise m'étant déjà parvenu, la Convention entrera en vigueur, confornément à son artiele VII, le premier\n\nJour du deuxtène mode suivant la date à laquelle vous m'aurez aceusé réception de la présente lettre.\n\nJe voue sered en conséquence reconnaissant de bien vouloir m'informer de cette date./.\n\nJe vous grie de oroire, Monsiour le Miniatro,\n\nA l'assurance de ma haute considération.\n\nPour copie certifiée conforme à l'original\n\nA Paris, le . 22, juin 1981\n\nC. Chagna\n\nA Son ExcelLence\n\nNonsiour Ananl Kume AKAXPO- AFLANYO\n\nMinistre des Affeires Etrengères et de la Coopération\n\nLOKE",
+      "quality_score": 0.9083,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.714569,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.705174,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.695006,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.46985,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.468178,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.465233,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.463801,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_004_s1",
+      "title": "Instrument français",
+      "score": 0.449629,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_007",
+      "title": "Accusé de réception togolais de l'instrument français",
+      "score": 0.43526,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.432882,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "document_id": "tra19760091_001_s1",
+  "title": "Accord",
+  "year": 1976,
+  "doc_type": "Accord",
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "hr",
+    "no"
+  ],
+  "quality_score": 0.8226,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "i = ʻŻ -akk ` i kog Sh nacii. i forit S ' À Eam e ACCORD DE COOPERATION EN MATIERE D'INFORMATION ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEMENT DE LA REPUBLIQUE TOGOLAISE - 1 - Le gouvernement de la République française, d'une part, Le gouvernement de la République togolaise, d'autre part, Désireux de développer les relations amicales entre les deux pays, dans un esprit de compréhension et de co…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760091_001_s1.pdf",
+  "source_filename": "tra19760091_001_s1.pdf",
+  "source_sha256": "22a5a90a252b46c805ec98368930cad655cb5ab0c49d117bbf81a16c95082ead",
+  "treaty_id": "TRA19760091",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "i = ʻŻ -akk `\n\ni kog Sh nacii. i forit S ' À\n\nEam e",
+      "quality_score": 0.5082,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "hr",
+        "no"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD DE COOPERATION\n\nEN MATIERE D'INFORMATION\n\nENTRE\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nET\n\nLE GOUVERNEMENT DE LA REPUBLIQUE TOGOLAISE",
+      "quality_score": 0.9804,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "- 1 -\n\nLe gouvernement de la République française, d'une part,\n\nLe gouvernement de la République togolaise, d'autre part,\n\nDésireux de développer les relations amicales entre les deux pays, dans un esprit de compréhension et de confiance mutuelles,\n\nConscients de l'importance que revêt le secteur de l'in- fornation dans le développement des deux pays,\n\nConvaincus que de fructueux échanges entre les deux pays en matière d'information contribueront à rapprocher les deux peuples,\n\nSont convenus des dispositions ci-après :\n\n... /٠٠٠\n\n- 2 -\n\nTITRE I\n\nPRINCIPES GENERAUX\n\nARTICLE PREMIER\n\nLe gouvernement de la République française s'engage à fournir au gouvernement de la République togolaise une assistance pour le fonctionnement de ses organes de diffusion et la formation de ses cadres nationaux appelés à servir dans les diverses branches de l'information.\n\nCette assistance peut prendre la forme d'octroi de bourses de formation et de perfectionnement, de dons de matériels ou d'affectation d'agents de l'assistance technique.\n\nTITRE II\n\nDES MODALITES DE LA MISE A LA DISPOSITION DU\n\nGOUVERNEMENT DE LA REPUBLIQUE\n\nTOGOLAISE DE BOURSES DE FORMATION\n\nARTICLE II\n\nLe gouvernement de la République togolaise soumet chaque année au gouvernement de la République française la liste des candidats qu'il propose pour des bourses de formation et de perfectionnement dans les Grandes Ecoles et les institutions spécialisées françaises et africaines dans le domaine de l'information.\n\nARTICLE III\n\nLe gouvernement de la République française facilitera, dans la mesure du possible, l'admission des candidats togolais dans les Grandes Ecoles et les institutions spécialisées de la République françaises conformément aux règlements de ces Ecoles et institutions.\n\n.../...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "- 3 - ARTICLE IV\n\nLes étudiants, élèves et stagiaires togolais séjour- nant en France bénéficieront, pendant la durée normale de leurs études, des droits et avantages accordés ou reconnus à leurs homologues français.\n\nARTICLE V\n\nLes diplômes, brevets et titres de qualification universitaire délivrés soit en France soit au Togo dans les disciplines de l'information bénéficient du régime d'équivalence.\n\nIIIRE\n\nIII\n\nDE L'AIDE TECHNIQUE\n\nARTICLE VI\n\nLe gouvernement de la République française fournira, dans la mesure de ses moyens, par l'intermédiaire de ses organis- mes spécialisés, le matériel technique nécessaire à l'équipement de la bresse, du cinéma et de la Radiodiffusion Télévision du\n\nTogo. Les moyens financiers nécessaires à l'exécution de ces programmes seront arrêtés au cours de la réunion annuelle de la Grande Commission.\n\nTITRE IV\n\nDE LA MISE A DISPOSITION DU PERSONNEL\n\nDE L'ASSISTANCE TECHNIQUE\n\nARTICLE VII\n\nLe gouvernement de la République française apportera dans la mesure de ses moyens au gouvernement de la République togolaise l'aide que ce dernier solliciterait pour le fonction- nement de ses services et établissements publies de caractère technique.\n\nCette aide peut prendre la forme soit de concours particuliers pour l'exécution de certaines missions à objectif déterminé, soit d'affectation d'agents de l'assistance technique.\n\n٠٠٠/٠٠٠\n\n- 4-\n\nARTICLE VIII\n\nLe gouvernement de la République togolaise fait connaître chaque année en temps utile, au gouvernement de la République française, la liste des emplois qu'il désire confier au cours de l'année suivante à des personnels français, de même que les objectifs des missions d'experts.\n\nARTICLE IX\n\nLes conditions et modalités de la mise à la disposition du gouvernement de la République togolaise des personnels de l'assistance technique de la République française en matière d'information sont celles contenues dans l'Accord général de coopération technique signé ce jour entre la République française et la République togolaise.\n\nTITRE V\n\nDES MODALITES D'ECHANGES EN MATIERE DE\n\nCOMMUNICATION DE MASSE\n\nARTICLE X\n\nLe gouvernement de la République française et le gouvernement de la République togolaise encourageront la compréhension de leur civilisation et de leur culture par l'échange :\n\n- de programmes radiophoniques et télévisuels concernant l'actualité politique, économique, sociale,\n\nculturelle\n\nscientifique et sportive ;\n\n- d'émissions scolaires, culturelleset récréatives ;\n\n- de documents, livres, périodiques, photos et enregistrements magnétiques.\n\n٠٠٠/٠٠٠",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "- 5- ARTICLE XI\n\nLe gouvernement de la République française et le\n\ngouvernement de la République togolaise favoriseront des co-productions franco-togolaises en matière de radiodiffusion, de cinéma et de télévision.\n\nARTICLE XII\n\nEn vue de faciliter l'application du présent Accord\n\net d'en suivre l'exécution, les deux Parties conviennent d'or- ganiser, en tant que de besoin, des rencontres périodiques entre experts des deux pays.\n\nARTICLE XIII\n\nLe présent Accord remplace et abroge le protocole\n\nannexe à l'Accord de coopération technique entre le gouvernement de la République française et le gouvernement de la République togolaise du 23 novembre 1964.\n\nIl est conclu pour une période de deux ans renouvelable\n\npar tacite reconduction sauf dénonciation par l'une des Parties contractantes.\n\nLa dénonciation devra être notifiée par la voie diplo-\n\nmatique au moins six mois à l'avance.\n\nLe présent accord entrera en vigueur le premier jour\n\ndu deuxième mois suivant l'échange des instruments constatant l'accomplissement des procédures requises à cet effet dans chacun des deux Etats.\n\nCet échange aura lieu à Paris aussitôt que faire se\n\npourra.\n\nFait à Lomé, le 23 mars 1976\n\nen deux exemplaires originaux\n\nPour le gouvernement de la République française\n\nPour le gouvernement\n\nde la République togolaise\n\nJean de LIPKOWSKI\n\nMinistre de la Coopération\n\nAyi Ilouenou HUNLEDE\n\nMinistre des Affaires Etrangères",
+      "quality_score": 0.9982,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "É \"e vAN: >",
+      "quality_score": 0.4488,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760089_001_s1",
+      "title": "Convention",
+      "score": 0.682624,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_001_s1",
+      "title": "Convention",
+      "score": 0.452547,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182508_001_s1",
+      "title": "Accord",
+      "score": 0.441843,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_001_s1",
+      "title": "Accord",
+      "score": 0.426167,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760094_001_s1",
+      "title": "Convention",
+      "score": 0.425441,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850080_001_s1",
+      "title": "Accord",
+      "score": 0.418621,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20250001_001_s1",
+      "title": "Accord",
+      "score": 0.414459,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630359_001_s1",
+      "title": "Convention",
+      "score": 0.414204,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172195_001_s1",
+      "title": "Accord",
+      "score": 0.412691,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_001_s1",
+      "title": "Accord",
+      "score": 0.409585,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

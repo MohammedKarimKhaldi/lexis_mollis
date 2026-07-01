@@ -1,0 +1,129 @@
+{
+  "document_id": "19570067_296_s1",
+  "title": "Note verbale d'envoi de l'instrument espagnol",
+  "year": 1957,
+  "doc_type": "Note verbale",
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "quality_score": 0.975,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": ": 1.96 .5 Embajada de España No 374 L'Ambassade d'Espagne présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui faire parvenir, à toutes fins utiles, l'adhesion de I'Espa- gne à la Convention instituant la Commission de Céricicultu- re Internationale. I'' Ambassade d'Espagne saisit cette occasion pour renouveler au Ministère des Affaires Etrangères les assuran- ces die sa haute considér…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_296_s1.pdf",
+  "source_filename": "19570067_296_s1.pdf",
+  "source_sha256": "9c86a1439d7324cf03999d84c7dafdb8939d5a6b69f4a20b543e1773d2ee8e7f",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "ESP002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ":\n\n1.96\n\n.5\n\nEmbajada de España\n\nNo 374\n\nL'Ambassade d'Espagne présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui faire parvenir, à toutes fins utiles, l'adhesion de I'Espa- gne à la Convention instituant la Commission de Céricicultu- re Internationale.\n\nI'' Ambassade d'Espagne saisit cette occasion pour renouveler au Ministère des Affaires Etrangères les assuran- ces die sa haute considération. le\n\nParis, 1e16 Août 1960.\n\nAU MINISTERE DES AFFAIRES ETRANGERES\n\nPARIS.",
+      "quality_score": 0.9788,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "FERNANDO MARIA CASTIELLA I MAIZ\n\nMINISTRO DE ASUNTOS EXTERIORES DE ESPAÑA\n\nCumplidos los requisitos exigidos por la Iegislación española, extiendo el presente Instrumento de Adhesión de\n\nEspaña al Convenio Instituyendo una Comisión Sericícola In- ternacional, abierto a la firma desde el 18 de Julio al 31 de diciembre de 1957, a efectos de que, mediante su depósi- to previo, y de conformidad con lo estipuzão en el artícu- 1o 25, España entre a ser Parte del Convenio.\n\nEn fe de 10 cual firmo el presente on Madrid a veinte\n\n• de julio de mil novecientos sesenta.\n\nSQuut e@u",
+      "quality_score": 0.9712,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_776",
+      "title": "Accusé de réception de l'instrument salvadorien",
+      "score": 0.41557,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.410844,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.402447,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.401629,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.401469,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv003_s1",
+      "title": "Note verbale de dénonciation du protocole de 1972",
+      "score": 0.399039,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.398581,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740201_302_s1",
+      "title": "Note de transmission de l'instrument espagnol",
+      "score": 0.392348,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.390792,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_28_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Finlande",
+      "score": 0.390367,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

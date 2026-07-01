@@ -1,0 +1,128 @@
+{
+  "document_id": "19510004_67_s1",
+  "title": "Déclaration du gouvernement britannique incluant Chypre dans la convention",
+  "year": 1951,
+  "doc_type": "Déclaration",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.962,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "G.R. • In accordance with paragraph (a) of Article XXI of the Convention for the Establishment of the European Plant Protection Organisation I, John Hensley, Assistant Secretary In the Ministry of Agriculture and Fisheries, on behalf of the Government of the United Ringdom, declare that the participation of the Government of the United Kingdom in the Convention Includes Cyprus, which 1s a territory for whose interna…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_67_s1.pdf",
+  "source_filename": "19510004_67_s1.pdf",
+  "source_sha256": "0383b9178e6ddc790abfa35326286db289a0b0a8b788219714b0d6ce5e52e60b",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "GBR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "G.R. •\n\nIn accordance with paragraph (a) of Article XXI of the Convention for the Establishment of the European\n\nPlant Protection Organisation I, John Hensley, Assistant\n\nSecretary In the Ministry of Agriculture and Fisheries, on behalf of the Government of the United Ringdom, declare that the participation of the Government of the\n\nUnited Kingdom in the Convention Includes Cyprus, which 1s a territory for whose international relations it 1s responsible.\n\nfra Heusle\n\nDated this Thirtieth day of January, 195%\n\nnue 5/2/52",
+      "quality_score": 0.9626,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "No. 108\n\nCD.1285/5\n\nHer Britannic Majesty's Embassy presents its compliments to the Ministry of Foreign Affairs and the honour to confirm that on the 18th of April,\n\nHis Majesty's Government declared son or le Suppen Plant Protocion ore at a 00 that the participation in the Convention of His\n\nMajesty's Government Includes the islands of Jersey and Guernsey.\n\nBritish Embassy,\n\nParis.\n\n1 February 1966",
+      "quality_score": 0.9613,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_03_s1",
+      "title": "Listes et notes relatives au Etats-membres",
+      "score": 0.418974,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr008_s1",
+      "title": "Extension de l'adhésion aux Bahamas",
+      "score": 0.363755,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_51_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Macédoine du Nord",
+      "score": 0.359393,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.356241,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_32_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Hongrie",
+      "score": 0.355212,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_14_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats-membres de l'adhésion de l'Australie à la  convention et au protocole de1972",
+      "score": 0.354679,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr007_s1",
+      "title": "Extension de l'adhésion à Chypre et à la Jamaïque",
+      "score": 0.354521,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_007_s1",
+      "title": "Date de réception français de l'instrument maltais",
+      "score": 0.352267,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.351329,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_576_s1",
+      "title": "Note verbale de retrait de Maurice",
+      "score": 0.350649,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

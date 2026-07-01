@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19690107_005_s1",
+  "title": "Instrument chypriote",
+  "year": 1969,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9632,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTRY OF FOREIGN AFFAIRS MINISTER'S OFFICE Nicosia le 2 février 1970 Monsiour le linistre, Confornément à l'articlo XVI, paragrapho 2 de l'Accord de coopération culturelle, scientifique ot tochnique signé à Nicosie, le 29 octobre 1969, entro les Gouvernements de nos deux pays, vous m'avez fait connaître par votre lettre du 17 novembre 1969 que les procédures requises par le Constitution de la Républíque française…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19690107_005_s1.pdf",
+  "source_filename": "tra19690107_005_s1.pdf",
+  "source_sha256": "3429cdd39be259f8473860a63d5d9c51ce6b2578ff03c57eb35fb6211add579d",
+  "treaty_id": "TRA19690107",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTRY OF FOREIGN AFFAIRS\n\nMINISTER'S OFFICE\n\nNicosia le 2 février 1970\n\nMonsiour le linistre,\n\nConfornément à l'articlo XVI, paragrapho 2 de l'Accord de coopération culturelle, scientifique ot tochnique signé à Nicosie, le 29 octobre 1969, entro les Gouvernements de nos deux pays, vous m'avez fait connaître par votre lettre du 17 novembre 1969 que les procédures requises par le Constitution de la Républíque française pour la mise en vigueur dudit Accord ont étó accomplies.\n\nPar la présente lettre et en vertu de la disposition précitée, j'ai l'honneur de vous notifier que les mênes procédures ont été accomplies par la République de Chypre.\n\nJo vous prie d'agrées, Monsieur le Ministre, l'assurance de ma hauto considération.\n\nHyprianou\n\nSpyros Kyprianou\n\nMinistre des Affaires Etrangères de Ia République de\n\nChypre.\n\nA Son Excellence\n\nMonsieur Maurice Schuan\n\nMinistre des Affaires Etrangère»\n\nde la République française\n\nParis",
+      "quality_score": 0.9632,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19690107_004_s1",
+      "title": "Instrument français",
+      "score": 0.673204,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_004b_s1",
+      "title": "Instrument français (notification du ministre des affaires étrangères français adressée à son homologue kenyan)",
+      "score": 0.412184,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.39941,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_100_s1",
+      "title": "Certificat d'enregistrement de l'accord à l'ONU",
+      "score": 0.396072,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français",
+      "score": 0.390879,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.38952,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.38732,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.383437,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_004_s1",
+      "title": "Instrument français",
+      "score": 0.382196,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_46_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.381981,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

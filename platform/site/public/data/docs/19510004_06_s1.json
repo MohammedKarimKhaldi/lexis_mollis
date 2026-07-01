@@ -1,0 +1,128 @@
+{
+  "document_id": "19510004_06_s1",
+  "title": "Instrument de succession",
+  "year": 1951,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9632,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE HAMELIN, PARIS-108 TEL. 1 593-71 48 : 69/4MB/01001 سفارة الجمهودية الجزائرية الديمو قرالمة والشعببة 729004(4)/2l 14095(41/224 T8008(4)7214 L'Ambassade de la République Algérienne Démocra- tique et Populaire présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de porter à sa connaissance que le Gouvernement de la République Algérienne Démocratique et Populaire se considère lié à comp…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_06_s1.pdf",
+  "source_filename": "19510004_06_s1.pdf",
+  "source_sha256": "22014252b98ac137d994bbea1f7ef8819bfec7067b9ee30d93bdd6002a9fb06a",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "DZA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE\n\nHAMELIN, PARIS-108\n\nTEL. 1 593-71 48\n\n: 69/4MB/01001\n\nسفارة الجمهودية الجزائرية الديمو قرالمة والشعببة 729004(4)/2l 14095(41/224\n\nT8008(4)7214\n\nL'Ambassade de la République Algérienne Démocra- tique et Populaire présente ses compliments au Ministère des\n\nAffaires Etrangères et a l'honneur de porter à sa connaissance que le Gouvernement de la République Algérienne Démocratique et Populaire se considère lié à compter du 5 Juillet 1962 par les arrangements mentionnés ci-dessous et dont l'application avait été étendue à l'Algérie avant son accession à l'Indépendance.\n\nArrangement international pour la création, à Paris, d'un Officiel international des Epizooties, signé le 25 Janvier 1924 ;\n\nArrangement portant création à Paris d'un Office international du Vin, signé à Paris, le 29 Noyembre 1924 ;\n\nMINISTERE DES AFFAIRES ETRANGERES\n\n37, Quai d'Orsay\n\nPARIS VII\n\n: 7503. 20?\n\n¡21 FEVISS\n\n٠٠/٠",
+      "quality_score": 0.9496,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "X\n\n-\n\nhat.\n\n-2-\n\nConvention pour l'établissement de l'Organisation européenne et méditerranéenne pour la protection des pantes, signé à Paris, le I8 Avril 1951.\n\nL'Ambassade de la République Algérienne Démocra- tique et Populaire saisit l'occasion de cette déclaration de conténui pour renouveler au Ministère des Affaires Etrangères l'assurance de sa haute considération d\n\nPARIS, le 13 Février I969",
+      "quality_score": 0.9769,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_05_s1",
+      "title": "Instrument de succession",
+      "score": 0.927361,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_026",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.415825,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_12_s1",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.406757,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.396301,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_506",
+      "title": "Demande des autorités françaises d'une notification de dépôt de l'instrument d'adhésion",
+      "score": 0.396014,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.394541,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.394012,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.392132,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.388614,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_391",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument d'adhésion hondurien",
+      "score": 0.38851,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

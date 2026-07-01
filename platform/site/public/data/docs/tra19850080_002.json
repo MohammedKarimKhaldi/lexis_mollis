@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19850080_002",
+  "title": "Pouvoirs",
+  "year": 1985,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9358,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "jim All apicculs N°132/85 POUVCIRS Au nor du Couvernement de la République, NOUS, Ministre des relations extérieures, donnons pouvoirs par ces présentes à Monsieur Jean de ROSEN, Sous-Directeur ¿ la Direction du Irésor pour signer un accord de réscholonnement de dette entre le couvernement de la République française et le Convernement de la république de Guinée =quatoriale.i. LAIT à PARIS, 1c 30 selli nhe 1985 Le Mi…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19850080_002.pdf",
+  "source_filename": "tra19850080_002.pdf",
+  "source_sha256": "72f17996c1474e77d6f88c0fb7790aeca4bd1a89a0ddc744b1848c7bc739158b",
+  "treaty_id": "TRA19850080",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "jim All apicculs\n\nN°132/85\n\nPOUVCIRS\n\nAu nor du Couvernement de la République, NOUS,\n\nMinistre des relations extérieures, donnons pouvoirs par ces présentes à Monsieur Jean de ROSEN, Sous-Directeur ¿ la Direction du Irésor pour signer un accord de réscholonnement de dette entre le couvernement de la République française et le Convernement de la république de Guinée =quatoriale.i.\n\nLAIT à PARIS, 1c\n\n30 selli nhe 1985\n\nLe Ministre des relations extericures\n\nRoland du mas",
+      "quality_score": 0.9358,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19810034_002",
+      "title": "Pouvoirs français",
+      "score": 0.575849,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870226_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.418008,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.405581,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810111_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.402211,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.400867,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.396415,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.395236,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850253_002",
+      "title": "Pouvoirs français",
+      "score": 0.393701,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.392367,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_002",
+      "title": "Pouvoirs",
+      "score": 0.392139,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

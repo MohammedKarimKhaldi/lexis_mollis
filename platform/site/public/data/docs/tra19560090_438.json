@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560090_438",
+  "title": "Pouvoirs français",
+  "year": 1956,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9675,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DES INSTRUMENTS DE RATIFICATION DE L'ITALIE DU TRAITE PORTANT MODIFICATION AU TRAITE INSTITUANT LA CONMUNAUTE EUROPEENNE DU CHARBON ET DE L'ACIER, SIGNE A LUXEMBOURG LE 27 OCTOBRE 1956 Son Excellence Monsieur le Marquis Alberto ROSSI- LONGHI, Ambassadeur Extraordinaire et Plénipotentiaire d'Italie, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Indo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_438.pdf",
+  "source_filename": "tra19560090_438.pdf",
+  "source_sha256": "4e0c1f8d68ffa9c5fbb2eea12601a5563b78c25b5608be561f2dcaffe738a139",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "FRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nDE DEPOT DES INSTRUMENTS DE RATIFICATION DE L'ITALIE\n\nDU TRAITE PORTANT MODIFICATION AU TRAITE INSTITUANT\n\nLA CONMUNAUTE EUROPEENNE DU CHARBON ET DE L'ACIER,\n\nSIGNE A LUXEMBOURG LE 27 OCTOBRE 1956\n\nSon Excellence Monsieur le Marquis Alberto ROSSI-\n\nLONGHI, Ambassadeur Extraordinaire et Plénipotentiaire d'Italie, s'est présenté aujourd'hui au Ministère des\n\nAffaires Etrangères pour procéder avec Monsieur Indovic\n\nCHANCEL, Ministre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépôt des instruments de ratification de l'Italie du Traité portant modification au Traité instituant la Communauté\n\nEuropéenne du Charbon et de l'Acier, signé à Luxembourg le 27 octobre 1956, et en exécution de l'article 3 dudit Traité.\n\nLes instruments ayant été, après examen, trouvés\n\nen bonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent\n\nProcès-Verbal, qu'ils ont revêtu de leur sceau.\n\nFAIT A PARIS, en double exemplaire, le 12 juin 1958\n\n1. Chencel\n\nMithnikaug",
+      "quality_score": 0.9675,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560090_698",
+      "title": "Procès-verbal de dépôt de l'instrument néerlandais",
+      "score": 0.817991,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_523",
+      "title": "Procès-verbal de dépôt de l'instrument luxembourgeois",
+      "score": 0.801752,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.79943,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_033",
+      "title": "Procès-verbal de dépôt de l'instrument allemand",
+      "score": 0.710667,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.655128,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_437_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.646081,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.631781,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.623418,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.608134,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_922_s1",
+      "title": "Procès-verbal de dépôt de l'instrument turc",
+      "score": 0.599446,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_700",
+  "title": "Notification par le gouvernement français du dépôt de l'instrument",
+  "year": 1924,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9551,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": ". llinistère des affires étrangères NUOI/E/ 347 Le Ministère des Affaires Etrangères présente ses compliments à l'Ambassade du Pérou et a l'honneur de se référer à sa note verbale n° 5-14-M/26 du 16 mars 1998 relative à la Ratification du Pérou de l'Arrangement International portant Création de l'Office International d'Epizooties signé à Paris le 25 janvier 1924. Le Ministère a l'honneur de faire savoir à l'Ambassad…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_700.pdf",
+  "source_filename": "tra19240002_700.pdf",
+  "source_sha256": "673242581ff7c78755dc9761875614d42faf58a5c1de769178ac077205098dff",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "700",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ". llinistère des affires étrangères\n\nNUOI/E/ 347\n\nLe Ministère des Affaires Etrangères présente ses compliments à l'Ambassade du\n\nPérou et a l'honneur de se référer à sa note verbale n° 5-14-M/26 du 16 mars 1998 relative à la Ratification du Pérou de l'Arrangement International portant Création de l'Office\n\nInternational d'Epizooties signé à Paris le 25 janvier 1924.\n\nLe Ministère a l'honneur de faire savoir à l'Ambassade qu'il a pris bonne note de cette ratification. L'adhésion du Pérou à l'Arrangement International a pris effet le 24 mars 1998, date de réception au Ministère du document de ratification./.\n\nLe Ministère des Affaires Etrangères saisit cette occasion_pour\n\nrenouveler à\n\nl'Ambassade du Pérou les assurances de sa haute considération.\n\n03 AVR. 1998\n\nUNIV\n\nAMBASSADE DU PEROU\n\n50, avenue Kléber 75116 PARIS.",
+      "quality_score": 0.9551,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.652592,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_776",
+      "title": "Accusé de réception de l'instrument salvadorien",
+      "score": 0.637853,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_043_s1",
+      "title": "Note verbale confirmant l'adhésion du Pérou à l'amendement de 1982",
+      "score": 0.423267,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.41759,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.414495,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19240002_175",
+      "title": "Accusé de réception français de l'instrument d'adhésion canadien",
+      "score": 0.407795,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.407218,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mus001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.402159,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_irn002_s1",
+      "title": "Notification au Bureau international des expositions de l'adhésion de l'Iran",
+      "score": 0.402077,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.40193,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

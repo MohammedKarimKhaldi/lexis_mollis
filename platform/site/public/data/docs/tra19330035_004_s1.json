@@ -1,0 +1,144 @@
+{
+  "document_id": "tra19330035_004_s1",
+  "title": "Ratification française",
+  "year": 1933,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9073,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Ratifications ou Présidens de la République Trançaise SUR IA CONVANT ION D'ETABLISSERINT BT DE NAVIGATION SIGNNG A OUTAVA LA I2 MAI I933 ENNND IA FRANCO BI La Calain Albert Lebrun Trinident dela Ripublique Française « rescue quires prisontes filles voront. Saluk: UNG SCARMILN D'ETABLISSEMENT I DE NAVIGATION entre la HULICE et le Cri.NLA CUNVENLION dont la teneur cuit CONVERTIOI: • Hajant suceramine la dite Consentio…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19330035_004_s1.pdf",
+  "source_filename": "tra19330035_004_s1.pdf",
+  "source_sha256": "0fb85c978575afd225e00575c248dba4c8eb1fa49725082e9b34563721b3ed46",
+  "treaty_id": "TRA19330035",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ratifications\n\nou Présidens de la République Trançaise\n\nSUR IA CONVANT ION D'ETABLISSERINT BT DE NAVIGATION\n\nSIGNNG A OUTAVA LA I2 MAI I933 ENNND IA FRANCO BI La Calain",
+      "quality_score": 0.9411,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Albert Lebrun\n\nTrinident dela Ripublique Française « rescue quires prisontes filles voront.\n\nSaluk:\n\nUNG SCARMILN D'ETABLISSEMENT I DE NAVIGATION\n\nentre la HULICE et le\n\nCri.NLA\n\nCUNVENLION dont la teneur cuit\n\nCONVERTIOI:",
+      "quality_score": 0.9112,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "• Hajant suceramine la dite\n\nConsention, Vous l'avons approuvied approuvons en vertu des dispositions dela loi votée par le Sénat en parla Chambre des (Dipulés, Déclarons quill it accepte, ralifiec ek confirmée, et Promettons qu'elle sera inviolablement observée.\n\nEn foi de quoi, Nous avons donne les présentes, revètues du Ocean de la\n\nRépublique.\n\n12 Paris. le 16 Soit 1936.\n\nFar le Frisident de la Kipublique,\n\nSe Ministre des Affaires Etrangères,\n\n5, /in",
+      "quality_score": 0.8697,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_27_s1",
+      "title": "Pouvoirs de signature de la Grèce",
+      "score": 0.420432,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "fr-ratif_s1",
+      "title": "Ratification française",
+      "score": 0.398834,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610160_004",
+      "title": "Instrument français (ratification)",
+      "score": 0.393782,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.39297,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610137_003",
+      "title": "Instrument français",
+      "score": 0.392897,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19600199_004_s1",
+      "title": "Instrument français",
+      "score": 0.391196,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200016_326_s1",
+      "title": "Instrument de ratification grec du traité, du protocole et de la déclaration",
+      "score": 0.38974,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.389672,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_326_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.388822,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200016_880",
+      "title": "Instrument de ratification tchécoslovaque du traité, du protocole et de la déclaration",
+      "score": 0.385369,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

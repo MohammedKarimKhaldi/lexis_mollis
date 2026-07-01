@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_895",
+  "title": "Instrument d'adhésion",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9726,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "/ LOME, le / 2, AOUT 1968 Monsieur le Directeur, J'ai l'honneur de vous notifier par les présentes, l'adhésion de la République Togolaise à l'Arrangement International créant l'Office International des Bpizooties, fait à Paris le 25 Janvier 1924. Vous voudrez bien noter que le Gouver- nement Togolais a décidé de s'inscrire pour la 6ème catégorie des contributions aux frais de fonctionnement de l'Office. Je vous prie…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_895.pdf",
+  "source_filename": "tra19240002_895.pdf",
+  "source_sha256": "c1f6a2997dab492d4f297f97025174c4be5d538bbeb4afeb93459e1f03650228",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "TGO001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "/ LOME, le / 2, AOUT 1968\n\nMonsieur le Directeur,\n\nJ'ai l'honneur de vous notifier par les\n\nprésentes, l'adhésion de la République Togolaise à l'Arrangement International créant l'Office International des Bpizooties, fait à Paris le 25 Janvier 1924.\n\nVous voudrez bien noter que le Gouver-\n\nnement Togolais a décidé de s'inscrire pour la 6ème catégorie des contributions aux frais de fonctionnement de l'Office.\n\nJe vous prie d'agréer, Monsieur le\n\nDirecteur, les assurances renouvelées de ma haute considération./.\n\nMONSIEUR LE DIRECTEUR DE L'OFFI\n\nINTERNATIONAL DES EPIZOOTIES\n\nI?, Rue de Prony\n\nPARIS Ive\n\nNon >.\n\nova) MN 1 VU.\n\nHat UE ———:",
+      "quality_score": 0.9726,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_485",
+      "title": "Accusé de réception de l'instrument du Lesotho",
+      "score": 0.498783,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_136",
+      "title": "Accusé de réception français de l'adhésion camerounaise",
+      "score": 0.396707,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_375",
+      "title": "Notification française à l'OIE",
+      "score": 0.390605,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_510",
+      "title": "Accusé de réception de l'adhésion liechtensteinoise",
+      "score": 0.388734,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_togo_s1",
+      "title": "Notification au BIE de l'adhésion du Togo",
+      "score": 0.388006,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "suriname-yemen-2_s1",
+      "title": "Notification au BIE de l'adhésion du Suriname",
+      "score": 0.383701,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.380578,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_200",
+      "title": "Instrument d'adhésion",
+      "score": 0.377653,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "seychelles_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion des Seychelles",
+      "score": 0.376089,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_870",
+      "title": "Courrier français",
+      "score": 0.375659,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

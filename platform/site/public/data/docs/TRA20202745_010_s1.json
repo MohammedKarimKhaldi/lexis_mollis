@@ -1,0 +1,143 @@
+{
+  "document_id": "TRA20202745_010_s1",
+  "title": "Lettre néo-zélandaise",
+  "year": 2020,
+  "doc_type": "Lettre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.6667,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "The Director General Directorate for Asia and Oceania General Directorate for Political Affairs and Security Ministry for Europe and Foreign Affairs 06/02/2020 Dear Director I have the honour to acknowledge receipt of your letter dated 17 January 2020 concerning the proposed termination of the New Zealand France Friendship Fund, which reads as follows: The Agreement between the Government of New Zealand and the Gove…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20202745_010_s1.pdf",
+  "source_filename": "TRA20202745_010_s1.pdf",
+  "source_sha256": "c7bb2794144879d655a765cf4efe3e5df31a4186a3e75e80b4a1d3c3c4ed7455",
+  "treaty_id": "TRA20202745",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "The Director\n\nGeneral Directorate for Asia and Oceania\n\nGeneral Directorate for Political Affairs and Security\n\nMinistry for Europe and Foreign Affairs\n\n06/02/2020\n\nDear Director\n\nI have the honour to acknowledge receipt of your letter dated 17 January 2020 concerning the proposed termination of the New Zealand France Friendship\n\nFund, which reads as follows:\n\nThe Agreement between the Government of New Zealand and the\n\nGovernment of the French Republic on the establishment of a fund to promote friendly relations between the citizens of the two countries, known as the New-Zealand-France Friendship Fund (hereafter \"the Fund\"), was signed on 29 April 1991 and entered into force the same day.\n\nGiven that. after 29 years of existence, the objectives of the\n\nFriendship Fund have been largely achieved and that the capital of the Fund, managed by the Fondation de France, will soon be totally exhausted, I have the honour, on instructions from my Government and with authority established for this purpose, to propose that we jointly terminate the Agreement pursuant to the provisions of\n\nArticle 11.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "If this proposal is acceptable to the Government of New Zealand, this letter together with your response shall constitute an agreement between our two Governments on this matter, which will come into force on the date of your reply. The Agreement signed on 29 April 1991 will cease to have effect on that same date.\n\nI have the honour to confirm that the above proposals are acceptable to the\n\nGovernment of New Zealand, and that your letter and this reply shall constitute an agreement between our two governments to terminate the Agreement pursuant to Article 11, which will come into force this 6th\n\n_day of Felorvary\n\n2020.\n\nJane Coombs\n\nAmbassador",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20202745_001_s1",
+      "title": "Lettre française",
+      "score": 0.438382,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.369838,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr003_s1",
+      "title": "Dénonciation de la convention",
+      "score": 0.365949,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070270_010_s1",
+      "title": "Lettre française",
+      "score": 0.363994,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.361878,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_103",
+      "title": "Echange de notes relatif à Guernesey",
+      "score": 0.360677,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.359957,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910064_325b_s1",
+      "title": "Lettre portant levée de la réserve relative à la Polynésie française",
+      "score": 0.359895,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_006a_s1",
+      "title": "Lettre du Sous-Secrétaire d'État aux Affaires étrangères émirati M. Al Nahyan accusant réception de l'instrument français et transmettant l'instrument émirati",
+      "score": 0.356484,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_007_s1",
+      "title": "Accusé de réception sud-africain de l'instrument français le 5 août 2021.",
+      "score": 0.355824,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

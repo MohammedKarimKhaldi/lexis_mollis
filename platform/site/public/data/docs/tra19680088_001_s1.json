@@ -1,0 +1,348 @@
+{
+  "document_id": "tra19680088_001_s1",
+  "title": "Accord (ensemble un échange de lettres)",
+  "year": 1968,
+  "doc_type": "Accord",
+  "languages": [
+    "en",
+    "fr",
+    "hr",
+    "pt",
+    "tl",
+    "tr",
+    "vi"
+  ],
+  "quality_score": 0.9287,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Sre TE W na ak irapa r ar PERETE A E T a t onina ACCORD DE COOPERATION TECHNIQUE ET SCIENTIFIQUE ENT FE LE GOUVERNEMENT DE LA HEPUBLIQUE FRANÇAISE ET IS GOUVERNEMENT DE LA REPUBLIQUE DE TURQUIE Lo Gouvernement de la République Française et le Gouvernement de la République de Turquie, déstreux de resserrer davantage leurs relations amicales, telles qu'elles s'expriment en particulier dans l'Accord Culturel du 17 juin…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19680088_001_s1.pdf",
+  "source_filename": "tra19680088_001_s1.pdf",
+  "source_sha256": "5f16dc8ced1ac5f31227b96f3652fa094af02df2093ef2411b1fdd2f2b9d6b66",
+  "treaty_id": "TRA19680088",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Sre TE W na ak irapa r ar\n\nPERETE A E T a t onina",
+      "quality_score": 0.5519,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "tl",
+        "en",
+        "hr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD DE COOPERATION\n\nTECHNIQUE\n\nET SCIENTIFIQUE\n\nENT FE\n\nLE GOUVERNEMENT DE LA HEPUBLIQUE FRANÇAISE\n\nET\n\nIS GOUVERNEMENT DE LA REPUBLIQUE DE TURQUIE",
+      "quality_score": 0.9949,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Lo Gouvernement de la République Française et le\n\nGouvernement de la République de Turquie, déstreux de resserrer davantage leurs relations amicales, telles qu'elles s'expriment\n\nen particulier dans l'Accord Culturel\n\ndu 17 juin 1952, et de fixer un cadre général qui facilite le développement de leur collaboration dans les domaines technique, sclentifique, administratil\n\net de formation\n\nprefessionnelle, conviennent des dispositions suivantes:\n\nArticle Premier\n\nLe Gouvernement de la Répubãique Française et le\n\nGouvernement de la République de Turquie conviennent d'organiser\n\nla coopération technique et scientifique entre\n\nles deux Etats dans\n\ndes domaines et selon des modalités qui\n\nserent définis par le moyen d'arrangements conplémentalres, en application\n\ndu présent Accord qui leur\n\nservira de base.\n\nArticle 2\n\nCette Coopération s'établit sur la base\n\nd'un\n\nfinancement commun qui couvre\n\nles domaines définis par\n\nles arrangements complémentaires prévus à\n\nl'article 1er\n\net\n\nse réalise par les meyens suivants:\n\nA) la mise à la disposition de l'Autre\n\nPartie, d'experts, de professeurs et\n\nde techniciens\n\nchargés de fournir une aide technique\n\nsur des problèmes\n\nparticuliers, de collaborer à la foration du personnel scientifique, technique, administratif\n\net de préparation\n\n•/.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "2.\n\nprofessiennelle, de participer aux recherches, de contribuer à l'étude de projets qui seront complémentaires aux projets réalisés dans le cadre d'organismes\n\ninternationaux\n\net qui seront choisis d'un cemmun accord\n\nentre les\n\ndeux\n\nGouvernement$う\n\nB) L'aide pour la réalisation de programmes\n\nde recherche scientifique et technique, -fondamentale ou appliquée- notamment par l'intervention d'établissements ou d'organismes\n\nspécialisés en ces matières;\n\nC) L'organisation de stages d'études\n\nde perfectionnement et l'octrei\n\nde bourses d'études\n\net\n\nde stages;\n\nou\n\nD) Le don de matériel technique et\n\nscientifique.\n\nArticle 3\n\nChacune des Parties Contractantes prend les dispositions\n\nnécessaires pour facillter les échanges\n\nd'étudiants et\n\nl'organisation des stages de formation et\n\nde perfectionnement\n\npour les techniciens, chercheurs et professeurs. En particulier, elles s'engagent à maintenir pendant la durée de leur stage leur rémunération aux boursiers qui relèvent d'une administration publique ou para-publique.\n\nArticle 4\n\nChacune des Parties Contractantes désigne les\n\ntechniciens qui collaborenont avec les experts envoyés par l'autre Partie aux fins prévues à l'Article 2. Les dits experts, dans l'accomplissement de leur mission,\n\nhs\n\n٠١٠٠",
+      "quality_score": 0.9928,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "3.\n\nfourniront aux techniciens désignés par 1'Etat qui reçoit l'assistance toutes Informations utiles\n\nsur les méthodes,\n\nles techniques et les pratiques appliquées dans\n\nleurs\n\ndomaines\n\nrespectifs comme aussi\n\nsur les principes\n\nlesquels\n\nse fondent\n\nces méthodes.\n\nArticle 5\n\nL'autorité auprès de laquelle sont détachés les\n\nexperts, prend les dispositions nécessaires, pour réunir les moyens de travall, de transport à l'intérieur du Pays, de secrétaríat, d'équipement, de main d'oeuvre, etc...\n\ndont ceux-e1 peuvent avoir besoin dans l'exécution de leur mission.\n\nArticle 6\n\nIes arrangements complémentaires prévus à l'article\n\nler du présent Accord, préciseront dans chaque cas la nature et la durée des missions. Ils fixeront également la répartition des frais et charges entre les deux Gouvernements.\n\nArticle I\n\nChacune des Parties Contractantes s'engage à assurer\n\naux experts, chercheurs, professeurs de l'autre Partie et à leurs familles, pendant la durée de leur mission, y compris la duréo des trajets pour se rendre à leur lieu d'affectation ou en repartii, les garanties, exemptions et facilités nécessaires à l'exercice de cette mission.\n\nArticle 8\n\nDans le cas où le Gouvernement français fournit au\n\nGouvernement turo des machines, instruments ou équipements,\n\n./...",
+      "quality_score": 0.9978,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "4.\n\nLe Gouvernement turo autorise l'entrée de ces foumitures en les exemptant des drolts de douane ou d'autres charges, prohibitions eu\n\nrestrictions à l'importation et à la\n\nréexportatien ainsi\n\nque de toutes charges fiscales y\n\ncompris les droits de port\n\net frais d'entrepôt.\n\nAu cas, où la législation turque ne permet pas de\n\ntelles exemptions le Gouvernement turo assurera, par l'intermédiaire des Ministères Intéressés et des autres départements qui serent précisés plus spéctalement dans les arrangements prévus, par l'Article Premier, le palement de ces taxes, impêts et autres charges fiscales.\n\nArticle 9\n\nUne Commission Mixte franco-turque, dont les membres\n\nsent désignés en nombre égal respectivement par les deux\n\nGouvernements et à laquelle peuvent être adjoints des experts, est chargée d'étudier les questions concernant l'application du présent accord. Cet'e commission sé réunit en principe tous les ans, alternativement à Paris et à Ankara, la préstdence appartenant à la nationalité du pays d'accueil.\n\nLa commission, à la lumière des résultats déjà\n\nobtenus procède à des consultations au sujet des programmes des années suivantes et sounet ses décisions à l'approbation des deux Geuvernements.\n\nArttcle.10\n\nLes dispositions du présent Accord sont applicables\n\naux experts, chercheurs et professeurs français exerçant leur activité en Turquie dans le cadre de la coopération technique franco-turque à la date de l'entrée en vigueur de l'Accord.",
+      "quality_score": 0.9893,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "5.\n\nArticle 11\n\nChacune des Parties Contractantes notifie à\n\nl'autre\n\nl'accomplissement\n\ndes procédures requises par son droit interne\n\npour la mise\n\nen vigueur du présent Accord. Celui-ci prend\n\neffet\n\nà la date de\n\nla dernière de ces notifications.\n\nArticle 12\n\nLe présent Accord pourra être modifié par entente entre\n\nles deux Parties Contractantes à la demande de l'une d'entre elles.\n\nArticle 13\n\nLe présent Accerd est conclu pour une durée de cinq\n\nans, à partir de la date de son entrée en vigueur et sauf dénonciation par l'une des Parties Contractantes six mois avant la date de son expiration, est tacitement renouvelé pour la même période.\n\n• Palt à Ankara, le 29 octobre, 1968 en double exemplaire:\n\nen langue française et en langue turque, les deux textes faisant également foi.\n\nPour le Gouvernement de la\n\nRépublique Française\n\nPour le Gouvernement de la\n\nRépublique\n\nurquie",
+      "quality_score": 0.9943,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "Ankara le 29 Octobre 1968\n\nMonsieur le Ministre,\n\nMe référant à l'article 7 de l'Accord de Coopération\n\nTechnique conclu ce jour entre\n\nnos deux Gouvernements, j'ai\n\nl'honneur de vous confirmer que le Gouvernement turo accordera aux experts, cherbheurs, professeurs français et à leurs familles pendant la durée de leur mission les exemptions et facilités consistant dans les dispositions suivantes:\n\nA) Liberté d'entrer\n\net de sortir du territotre turc,\n\nB) Délivrance des permis de séjour et de traváll\n\nnécessaires,\n\nC) Exemption de tout prétèvement fiscal pour la part\n\nde remunération qui pourra leur être versée par le Gouvernenent français,\n\nD) Exemption de responsabilité cívile pour tous dommages\n\ncausés dans l'exercice des fonctions accomplias dans\n\nle cadre\n\ndu présent accord, à moins qu'il ne s'agisse d'un dommage commis intentionnellement ou par négligence\n\ngrave,\n\nE) Régime d'admission temporaire pour ce qui concerne\n\nmeubles, objets personnels, documents et instrument professionnels.\n\nJe vous serais reconnaissant de bien voulolr me confirmer\n\nl'accord de votre Gouvernement\n\nsur de qui précède.\n\nVeuillez agréer, Monsieur le Ministre, les assurances\n\nde ma très haute considération.\n\nSon Excellence\n\nMonsieur\n\nMichel Debré,\n\nMinistre françáis des\n\nAffaires Etrangères,\n\nAnkara.\n\n(Insan\n\nSabri Çağlayang11)",
+      "quality_score": 0.9886,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "FRANSA CUMHURİYETİ HÜKÜMETİ\n\n立E\n\nTÜRKİYE CUMHURİYETİ HÜKÙMETİ\n\nARASINDA\n\nTEKNIK VE BİLİMSBU İŞBİRLİĞİ\n\nANLAŞMASI",
+      "quality_score": 0.981,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "vi"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "Fransa Cumhuriyeti Hükûmeti ile Türkiye Cumhuriyeti\n\nHükûmeti, özellikle 17 Haziran 1952 tarihli Kültür Anlaşmasında da ifade edildiýi veghile, dostane ilişkilerini daha da kuvvet- Indirmek ve teknik, bilimsel, idari ve mesleki eğitim alanlarındaki işbirliğini kolaylaştıracak\n\ngenel esasları tesbit etmek\n\nama -\n\nc1 ile aşağidaki hüsusları kararlaştırmışlardır:\n\nMadde 1\n\nFransa Cumhuriyeti Hükûneti ile Türkiye Cumhuriyeti Hükû- meti temel mahiyette olan işbu Anlaşmanın uygulamasına ilişkin olarak yapılecak özel düzenlemelerde tayin edilecek alanlarda ve çekillerde olnak üzere, iki devlet arasında teknik ve bilim- sel işbirliji yapılmasını kararlaştırmışlardır.\n\nMadde. 2\n\nBu işbirliśi, I. maddede sözü edilen özel düzenlemelerde belirtilen hususları kapsayan müşterek finansman esası ile yapı- lacak ve aşağıda gösterilen çekillerde gerçeklestirilecektir:\n\nA) Diğer tarafa, özel problemler için teknik yardım sağ- lamak, bilimsel, teknik ve idari personelin yetişmesinde ve bu personelin mesleki eğitiminde işlirliği yapmak, araştırmalara katılmak üzere, uzmanlar profesörler ve teknisyenler tahsis et- mek; milletlerarası teşekküller gergevesinde esasen\n\ngerçekleşti-\n\nrilmiș olan projelere ek mahiyette olup iki Hükûmet arasında müşterek mutabakat ile tesbit edilecek olan projelerin incelenmesine iştirak etmek;\n\nB) Bilimsel ve teknik-temel veya tatbiki- araștirma prog-",
+      "quality_score": 0.9951,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "2.\n\nramlarının, özellikle bu konularda ihtisası olan\n\nteşekküller\n\nveya kuruluşlar\n\narac111gl ile gerseklegtirilmesi igin yardim\n\netmek;\n\nC) Araştirma ve tekâmül stajlarının düzenlenmesini saglamak; inceleme ve staj bursları vermek,\n\nD) Teknik\n\nve bilimsel malzeme saglamak.\n\nMadde 3\n\nAkit taraflar herbiri, ögrenci mübadeleleri ile tek- nisyen ve araştirmacılar ve profesörlerinigerek yetişme, gerek görgü ve bilgilerini\n\narttırma stajlarını düzenlemek ve kolaylaş-\n\nturmak için gereken tedbirleri alacaklardır.\n\nTaraflar, özellikle stajlarının süresince, bir kamu ku- ruluzuna\n\nveya lu kuruluşların iştirak ettiği diger kuruluşlara\n\nbağlı bulunan burslu kimselerin almakta oldukları ücretlerin ödenmesine devam ederler.\n\nMadde 4\n\nAkit taraflardan herbiri, 2, maddede öngörülen esaslar dahilinde, dijer tarafça gönderilecek uzmanlarla işbirliği ya- pacak olan teknisyenlerini seçecektir.\n\nBu uzmarler, cörevlerinin ifan arasinda, yardım alan devlet tarafından seçilecek teknisyenlere, içtirliğine konu teşkil eden\n\nalanlarda uyulanan\n\nsistem ve metodlar ile bu me-\n\ntodler üzerine dayandı?: ilkeler hakkında\n\nfaydalı bulunan bü-\n\ntün bilgileri\n\nvereceklerdir.\n\nMadde 5\n\nUzmanları istihdam eden\n\nmakam, bu kimselerin görevle-\n\nrinin yerine setirilmesinde ihtiyaç duyabilecekleri, biro, büro malzemeei, çalişma arag ye gerogleri, işgücü ve yurdiçi",
+      "quality_score": 0.9939,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "3.\n\nseyanatlerinin temini için gerekli tedbirleri alacaktır.\n\nMadde 6\n\nIşbu anlaşmarın 1, maddesinde öngörülen özel düzenle- meler, her durum için misyonların esasını ve müddetini tas- rih edecek ve ayni zamanda, iki Hükûnet arasında masraf ve mükellefiyetlerin taksimini tesbit edecektir.\n\nNadde I\n\nAkit taraflardan herbiri, dijer akit tarafın,\n\neksper-\n\nlerine, arastirmacilarina ve profesörleri\n\nile onların aile-\n\nlerine görevierinin devamı süresince, görev yerlerine\n\ngidig\n\nve gelişlerindeki yol da dahil olmak\n\nizere, bu görevlerinin\n\nifası için zaruri olan teminat, kolaylık ve muafiyetleri sağlamayı deruhte eder.\n\nMadde 8\n\nFransa Hükûmetinin Tirkive Hükûmetine makineler.,\n\nalet-\n\nler ve teçhizat vernesi takdirinde, Türkiye Hükûmeti, bunların gümrük ve sair vergi ve\n\nresimierden ve ithalata tatbik edilen\n\nkısıtlama ve yasaklardan, ardiye ve liman masrafları da dahil olmak üzere diğer mali mükellefiyetlerden muaf olarak gümrük- Ierden geçmesine misaade edecektir.\n\nTürk mevzuatının bu gibi muafiyetlere imkân vermediği ahvalde ise, Türkiye Hükûmeti, bu vergi ve resim ve diğer mali yükleri 1. maddedekine uysun özel\n\ndüzenlemelerde belir-\n\ntilecek ilgili Bakarlıklar ve diger kamu kurulugları marife- tiyle ödenmesini\n\ntemin edecektir.\n\nMadde 9\n\nEşit sayıdaki üyelerinin her iki Hükûmetçe seçildiği",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "4.\n\nve eksperlerinin de katılabilecekleri müşterek bir Türk-Fransız\n\nKomisyonu işbu Anlaşmanın tatbikatı ile ilgili meseleleri incelemekle görevlendirilecektir.\n\nBu komisyon, prensip\n\nitibariyle, her sene münavebe\n\nile Ankara'da ve Paris'te, başkarlık toplantı yapan memle- kete ait olmak izere toplanacaktır.\n\nKomisyon elde edilen sonuglarin 1918- altinda mutea kin yılların programı konusunda istişarelerde bulunacak ve sonuçları iki Hükümetin\n\ntasvibine sunacaktır.\n\nMadde 10\n\nİşbu Anlaşmanın hükümleri, Anlaşma yürürlüğe sirdigi tarihte, iki taraf ülkesinde,\n\nteknik işbirliği çerçevesinde\n\nfaaliyette bulunmakta olan uzman, profesör ve araştırmacı- lara da tattik\n\nedilecektir.\n\nMadde 11\n\nAkit Taraflardan her biri, diżerine, kendi ig hukuku geregince, işbu Anlaşmanin yürürlüge konulması işlemlerinin tamamlandığını tebliğ eder. Anlaşma, bu tebliglerden sonuncusunun\n\nyapıldığı tarihte yürürlüğe\n\n{Irer•\n\nMadde 12\n\nIşbu Anlaşma taraflardan birinin talebi\n\nüzerine iki\n\ntarafın mutabakatı ile tâdil\n\nedilebilir.\n\nMadde 13\n\nİşbu Anlaşma yürürlüğe giriş tarihinden itikaren beş sene müddetle yürürlikte kalır ve taraflardan biri tarafın-",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "5.\n\ndan 6 ay önceden\n\nfeshedilmedikçe kendiliğinden beşer yıllık\n\ndevreler itilarile zimnen yenilenmiş olur.\n\nİşbu Anlaşma\n\nAnkara'da 29 Ekim 1968 tarihinde, her\n\niki metin de\n\naynı derecede muteber olmak üzere, Fransizca\n\nve Türkçe olarak düzenlenmiştir.\n\nFransa Cumhuriyeti Hükûmeti.\n\nAdina\n\nmuniné\n\nTürkiye Cumhuriyets Hükümeti",
+      "quality_score": 0.9986,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "Ankara, 29 Ekin 1968\n\nSayın Bakan,\n\nHükümetlerimiz arasında bugün aktedilen Teknik ve İlmi İşbirliği\n\nAnlamasının 7. maddesine atifta bulunarak, fürk Hükûnetinin, Fransız profesör, araștirnacı ve uzmanlar ve onların ailelerine görevleri devamınca aşağıda derpig edilen kołaylık ve muafiyetleri tanıyacağını teyid etnekten geref duyarım.\n\n• A- Türk topraklarına giriş ve çikıg serbestisi;\n\nB- Gerekli galigna ve ikâmet müsadelerinin verilmesi;\n\n0- Fransiz Hükúmetince bu ganıslara ödenebilecek\n\nolan maas ve\n\nücretlerin vergi ve sair muafiyetlerdan muaf\n\ntutulması;\n\nI Bu şahısların bilerek veya ağır ihmal sebebiyle olmaksızın işbu anlaşma çerçevesinde deruhte ettikleri görevleri\n\nBırasinda İka\n\nedebilecekleri bütün zararlarda sivil mesuliyetten\n\nmuafiyeti;\n\nE- Bu çahısların mesleki vesika ve aletlerine, șahsi eșya ve mobilyalarına muvakkat ithal rejiminin tanınnagz.\n\nHükûmetinizin yukarıdaki busualarda mutabakatın» teyidini rica ederin.\n\nÜstün saygılarımın kabulünü rica ederin, Sayın Bakan.\n\n( Ihsan\n\nsaplayangil)\n\nEkselans,\n\nMichel Debré\n\nFransa Dişişleri Bakanı\n\nAnkara",
+      "quality_score": 0.9911,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "Ao\n\nDa T A AET T La a E T a E e AEn TV EET A a e a T E ee Ta TE T a a B aD P T AA E LA TTE e t noe, i D e AA Ea T Ew e e E T\n\n: . - S anana imm irn a. AREETA Tii m La e a a arm iA ha paan ar a a m mN S y n aam ama e arr T a TO daama n a o e h da À `",
+      "quality_score": 0.5548,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "pt",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "uar\n\naa armaa mrin aea.\n\nL oyra maiie-",
+      "quality_score": 0.6581,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "REPUBLIQUE IRATCAISE\n\nLE MINISIRE DES AFFRIRES HIRANGERSS\n\nANKARA, le 29 octobre 1968.\n\nCONPIDENTIEI\n\nMINUTE\n\nMonsieur le Ministre,\n\nJ'ai l'honneur d'accuser réception de votre\n\nlettre en date de ce jour ainsi conçue:\n\n\"Me référant à l'article 7 de l'Accord de\n\ncoopération technique conclu ce jour entre nos deux\n\nGouvernements,\n\nj'ai l'honneur de vous confirmer que\n\nle Gouvernement turc accordera aux experts, chercheurs et professeurs francais et à leurs familles pendant la durée de leur mission, les exenptions et facilités consistant dans les dispositions suivantes:\n\nA - liberté d'entrer et de sortir du terri-\n\ntoire\n\n• turc.\n\nB - délivrance des permis de séjour et de\n\ntravail nécessaires, rade par se courerenent Trang\n\n• - exemption de tout prélèvement fiscal\n\nD- exemption de responsabilité civile pour\n\ntous dommages causés dans l'exercice des fonations accomplies dans le cadre du présent Accord, à moins qu'il ne s'agisse d'un dommage commis intentionnellement ou par négligence grave,\n\nt - régime d'admission temporaire pour ce\n\nqui concere les meubles, objets personnels, documents\n\n.../...\n\nMonsieur Ihsan Sabri CAGIAYANGII\n\nMinistre des Affaires Etrangères de la République de Iurquie.-",
+      "quality_score": 0.9701,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 19,
+      "text": "-\n\n- 2 -\n\n\"et instruments professionnels.\n\nde vous\n\nserais reconnaissant de bien vou\n\nloir me confirmer\n\nl'accord de votre Gouvernement\n\nsur ce qui précède\".\n\nJ'ai I'honneur de vous confirmer l'ac-\n\ncord de mon Gouvernement sur ce qui précède.\n\nVeuillez agréer, Monsieur le linistre,\n\n10s assurances de mes sentiments de très haute considération.\n\nsigné: Michel DEBRÉ\n\nCopie certifiée conforme à l'original\n\nANKARA, le 29 octobre 1963.\n\nпот ситина",
+      "quality_score": 0.9929,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19970011_001_s1",
+      "title": "Accord",
+      "score": 0.712406,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172195_001_s1",
+      "title": "Accord",
+      "score": 0.706417,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_001_s1",
+      "title": "Accord",
+      "score": 0.671161,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "20090219_001_s1",
+      "title": "Accord",
+      "score": 0.62895,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_001_s1",
+      "title": "Accord",
+      "score": 0.62149,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800438_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.620729,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090247_001_s1",
+      "title": "Accord",
+      "score": 0.615415,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_001_s1",
+      "title": "Accord",
+      "score": 0.594058,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20172177_001",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.5841,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001a_s1",
+      "title": "Accord général",
+      "score": 0.583645,
+      "type": "translation",
+      "provisional": false
+    }
+  ]
+}

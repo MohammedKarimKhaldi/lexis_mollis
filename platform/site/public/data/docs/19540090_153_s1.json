@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_153_s1",
+  "title": "Procès-verbal de dépôt de l'instrument bulgare",
+  "year": 1954,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9895,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT D'ADHESION DE LA REPUBLIQUE POPULAIRE DE BULGARIE A LA CONVENTION INTERNATIONALE POUR L'UNIFICATION DES METHODES D'ANALYSE ET D'APPRECIATION DES VINS SIGNEE A PARIS LE 13 OCTOBRE 1954 Son Excellence Monsieur Guéorgui YOVKOV, Ambassadeur Extraordinaire et Plénipotentiaire de la République Populaire de Bulgarie s'est présenté aujourd'hui au Ministère des Relations Extérieures, po…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_153_s1.pdf",
+  "source_filename": "19540090_153_s1.pdf",
+  "source_sha256": "ac1622eec11140ae45397598175c1dca2c179f41de4aafd07017fc3f216cab8e",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "BGR004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT D'ADHESION\n\nDE LA REPUBLIQUE POPULAIRE DE BULGARIE\n\nA LA CONVENTION INTERNATIONALE POUR L'UNIFICATION DES METHODES\n\nD'ANALYSE ET D'APPRECIATION DES VINS\n\nSIGNEE A PARIS LE 13 OCTOBRE 1954\n\nSon Excellence Monsieur Guéorgui YOVKOV,\n\nAmbassadeur Extraordinaire et Plénipotentiaire de la République\n\nPopulaire de Bulgarie s'est présenté aujourd'hui au Ministère des Relations Extérieures, pour procéder avec M. Jacques GAULTIER de LA FERRIERE, Ministre Plénipotentiaire, Chef du Protocole, agis- sant au nom du Ministre des Relations Extérieures au dépôt de l'Inst trument d'adhésion de la République Populaire de Bulgarie à la\n\nConvention internationale pour l'unification des méthodes d'analy- se et d'appréciation des vins, signée à Paris le 13 Octobre 1954.\n\nL'Instrument a été déposé, pour y être conser-\n\nvé dans les Archives de la République.\n\nEN FOI DE QUOI, les soussignés ont dressé le\n\nprésent Procès-verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, en double exemplaire,\n\nle 6 Juillet 1984.",
+      "quality_score": 0.9895,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.687265,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.420229,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_057_s1",
+      "title": "Procès-verbal de dépôt de l'instrument argentin",
+      "score": 0.417619,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.415211,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.414794,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_922_s1",
+      "title": "Procès-verbal de dépôt de l'instrument turc",
+      "score": 0.411984,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.408581,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_297_s1",
+      "title": "Procès-verbal de dépôt de l'instrument espagnol",
+      "score": 0.405311,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.404666,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_437_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.404291,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

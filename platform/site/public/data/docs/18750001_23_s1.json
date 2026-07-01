@@ -687,5 +687,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_19_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.656332,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_14_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.652065,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_31_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.533706,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_0012_s1",
+      "title": "Accord",
+      "score": 0.518903,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_46_s1",
+      "title": "Instrument d'adhésion du Portugal",
+      "score": 0.44986,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_42_s1",
+      "title": "Instrument d'adhésion du Pérou",
+      "score": 0.43574,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_21_s1",
+      "title": "Instrument de ratification de l'Espagne",
+      "score": 0.43515,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_05_s1",
+      "title": "Convention du mètre et son règlement annexe",
+      "score": 0.405326,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_72_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.392288,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_26_s1",
+      "title": "Instrument de ratification de la Grèce",
+      "score": 0.387703,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

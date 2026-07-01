@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19850253_005",
+  "title": "Instrument de l'ASE",
+  "year": 1985,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.975,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "O. Speciaux 3240 E esa JUR/3.6.3/GL/IdLF/5889 Prof. Dr. Reimar Lüst Generaldirektor european space agency agence spatiale européenne Paris, le 11 juin 1985 MINISTRE DES RELATENS EZTERIKURES 19 JUN 1985 PROTOCOLE Monsieur le Ministre, Je me refère à l'Accord entre le Gouvernement francais et 1'Agence relatif au Centre spatial guyanais pour la période 1984/1986 qui a été signé à Paris le 12 avril 1985 par le Président…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19850253_005.pdf",
+  "source_filename": "tra19850253_005.pdf",
+  "source_sha256": "7149b37e32e045ac156acc4d57f3c800d81da574648f53be5645c16fdb1de0cf",
+  "treaty_id": "TRA19850253",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "O. Speciaux 3240\n\nE\n\nesa\n\nJUR/3.6.3/GL/IdLF/5889\n\nProf. Dr. Reimar Lüst\n\nGeneraldirektor\n\neuropean space agency agence spatiale européenne\n\nParis, le 11 juin 1985\n\nMINISTRE DES RELATENS EZTERIKURES\n\n19 JUN 1985\n\nPROTOCOLE\n\nMonsieur le Ministre,\n\nJe me refère à l'Accord entre le Gouvernement francais et 1'Agence relatif au Centre spatial guyanais pour la période 1984/1986 qui a été signé à Paris le 12 avril 1985 par le Président du CNES, M. Jean-Louis Lions au nom du Gouvernement français et par moi-même au nom de l'Agence Spatiale\n\nEuropéenne. L'article 19, paragraphe 3 de cet Accord prévoit que chaque\n\nPartie notifie à l'autre l'accomplissement de ses procédures propres d'approbation.\n\nJe suis heureux de pouvoir notifier au Gouvernement français que les procédures prévues à\n\n19.3 sont accomplies en ce qui concerne\n\nl'Agence.\n\nJe vous prie de croire, Monsieur le Ministre, en l'assurance de ma haute considération.\n\nReimar Lüst\n\nDirecteur Général\n\nMonsieur Roland Dumas\n\nMinistre des Relations Extérieures\n\nA l'attention du Service du Protocole 37, quai d'Orsay 75007 PARIS\n\n8-10, rue Mario-Nikis - 75738 Paris Cedex 15 - Tél. (33.1) 273.76.54 - Telex ESA 202746 - Télégr. Spaceurop Paris",
+      "quality_score": 0.975,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19870205_005",
+      "title": "Instrument de l'ASE",
+      "score": 0.706802,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.398112,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.395798,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.393846,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.392768,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.392237,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.391583,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.389381,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.388105,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.387757,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

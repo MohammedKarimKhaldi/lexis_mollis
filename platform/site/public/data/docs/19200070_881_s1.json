@@ -1,0 +1,116 @@
+{
+  "document_id": "19200070_881_s1",
+  "title": "Instrument de ratification tchécoslovaque",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9206,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AYANT vuetexaminé le traité des frontières signe 2 Sèvres le dix doût igzo et frisant usage des facultés quela constitution deld République Tchécoslovaque Nous concède, Nous l'avons ap- prouvé, approuvons et declarons qu'ilest accepté ratifié et confirmé et promettons de le faire exé cuter et observer selon sa formE et tEnELt sans permettre qu'il y soit contrevent en aucune sorte Et maniÈrEquECEsoit+ EN FO1 de quoi…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200070_881_s1.pdf",
+  "source_filename": "19200070_881_s1.pdf",
+  "source_sha256": "a9e6ba1d45ebff337f33fabf67df1cae13f68d393c297f4a32274a2ed8003241",
+  "treaty_id": "TRA19200070",
+  "treaty_number": "CZK002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AYANT vuetexaminé le traité des frontières signe 2 Sèvres le dix doût igzo et frisant usage des facultés quela constitution deld République\n\nTchécoslovaque Nous concède, Nous l'avons ap- prouvé, approuvons et declarons qu'ilest accepté ratifié et confirmé et promettons de le faire exé cuter et observer selon sa formE et tEnELt sans permettre qu'il y soit contrevent en aucune sorte\n\nEt maniÈrEquECEsoit+\n\nEN FO1 de quoi Nous avons donné les pré- SEntES rEVELLES dU SCEaU de la Républiquer\n\nFAIT À PrIQUE, lE 10 MarsiQLit\n\nLE Président de la République:\n\nT.S. Mesant.\n\nLe Ministre des Affaires Ecranoeres:",
+      "quality_score": 0.9206,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200069_881_s1",
+      "title": "Instrument de ratification tchécoslovaque",
+      "score": 0.726576,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_880",
+      "title": "Instrument de ratification tchécoslovaque du traité, du protocole et de la déclaration",
+      "score": 0.396317,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_171_s1",
+      "title": "Instrument de ratification",
+      "score": 0.392002,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.389298,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_096",
+      "title": "Instrument de ratification belge",
+      "score": 0.388247,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_326",
+      "title": "Instrument de ratification française",
+      "score": 0.387758,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_023_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.387748,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_005_s1",
+      "title": "Instrument belge",
+      "score": 0.387241,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_151a_s1",
+      "title": "Instrument de ratification bulgare du Traité de Paix",
+      "score": 0.383692,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_37_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.381194,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "tra17620005_001",
+  "title": "Accord",
+  "year": 1762,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8533,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Roitres chretien tant bans la (orme résolution de cesserrer de plus en plus, et de perpetuer les liens de la tenire amité qui L'unurene au Nor cachulique con cousen, se propore dage en coméquence en tout cens et à tous egards avec d'a majeté catholique dans une parfailo unifrenté de principes relativement à la glace Coumune de leur maison, ca (utoc reciproque de leurs Monarchies. Dans cette vie sa trajerté crés Chre…",
+  "tags": [
+    "century:c18",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra17620005_001.pdf",
+  "source_filename": "tra17620005_001.pdf",
+  "source_sha256": "b655da09564396715334501cdb507f75eb8427f7828c3c36756eac6503a914b1",
+  "treaty_id": "TRA17620005",
+  "treaty_number": "001A",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Roitres chretien tant bans la\n\n(orme résolution de cesserrer de plus en plus, et de perpetuer les liens de la tenire amité qui L'unurene au Nor cachulique con cousen, se propore dage en coméquence en tout cens et à tous egards avec d'a majeté catholique dans une parfailo unifrenté de principes relativement à la glace\n\nCoumune de leur maison, ca (utoc reciproque de leurs Monarchies.\n\nDans cette vie sa trajerté crés Chretierme veritablement sensible aux sacrifices que le\n\npour corcourir avre ille au retablemement de la paix, à desiré de lui former à cette .\n\noccaron une preuve du vif interet qu'elle — prend à ca satifaction et aux avantager de da Couronne.\n\nSour cet effet le toi trei chretien dautaré le Duc de Choiseul son Mininre",
+      "quality_score": 0.862,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "a delivrer dans la forme la ulus auteutique au Marquis de stunalsi ambastadeur\n\nExtraordinaire de Avi Catholique, un acte par lequel va majerté tré Chretieme са лісни, ораний рисен, ска rumplement et vaur aucune erevue a- Sa majerté Catholique et à ces fuccenteurs à perpétuité, taut le Pays connu sous le —\n\nnouvelle Orleans et l'ile dans laquelle cette Ville est situee.\n\nMais le Marques de Çermalti n'etant pas assez exactement infoume les .\n\nintentions de va Majerté catholique, a cru ne devoir accepter la dile Cenou, que conditionellement et ont cie call, en attentant len vider qu'une recera du Noi son maitre, lesquels, d'ils\n\nSont conformes aux deriar de a Majerter.",
+      "quality_score": 0.82,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Les Chreterme, comme elle l'espere, seront mnediatement suivis de l'acte formel ch.\n\nautentique de la Cession dont il N'agit, Danslequel seront stipulées les mesurer à prendre et l'epoque à fixer d'un commun accord, tanh pour l'evacuation de la Louisiane eh de la nouvelle orleans par les /jela de da Majerte tres chretienne, que pour la prise de portemona der dila pays et ville par les sujetn de de - Majerté Catholique.\n\net y avons fait apposer le cachet de pos armes\n\nmille\n\nVeut cent soixante 0 eux.",
+      "quality_score": 0.878,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra17130003_033_s1",
+      "title": "Ratification du traité par Victor-Amédée II, duc de Savoie",
+      "score": 0.359886,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16590001_001a_s1",
+      "title": "Traité (ensemble texte des pouvoirs français et espagnols) (ensemble attestation de conformité à l'original délivrée par les archives nationales)",
+      "score": 0.351151,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "document_id": "tra17680009_001c_s1",
+  "title": "Chemise contemporaine des deux originaux de la Convention",
+  "year": 1768,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "fr",
+    "it"
+  ],
+  "quality_score": 0.6626,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "1768. 16 Abario. Limite e- du foraté de Sabadls. Qeux cieneplairado en original. dela (surcalion siquée à elaarbructa lo16 eMbara ip 68, pao leo famanifuanero du agot Delatlegences de. Defan ave lee of ficiere dela famlefre de forbaete, en exculian decole definitiva signées dono la fixiation dero Pimilics entre lir fore reurialeco dei fonté de Sortacto, leco paréce, dela granda (Novelle sillage Du fanuló dee Na fian…",
+  "tags": [
+    "century:c18",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra17680009_001c_s1.pdf",
+  "source_filename": "tra17680009_001c_s1.pdf",
+  "source_sha256": "d036c1945c1d4eefe8751065733dad861432bd333af4bb796e14402b29f5fb7c",
+  "treaty_id": "TRA17680009",
+  "treaty_number": "001E",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1768.\n\n16 Abario.\n\nLimite e- du foraté de Sabadls.\n\nQeux cieneplairado en original. dela (surcalion siquée à elaarbructa lo16 eMbara ip 68, pao leo famanifuanero du agot Delatlegences de. Defan ave lee of ficiere dela famlefre de forbaete, en exculian decole definitiva signées dono la fixiation dero Pimilics entre lir fore reurialeco dei fonté de Sortacto, leco paréce,\n\ndela granda (Novelle sillage Du fanuló dee Na fian.\n\nauce lafarle et lalegende deir diles limitei 0.",
+      "quality_score": 0.7881,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "2\n\n+",
+      "quality_score": 0.6838,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "-\n\n. -*\n\n] - * . 7 -\n\nj .\n\n^ . : d\n\n- . Pd\n\n. . | ' >. \"a | de . | ] »\" .\n\nD - a .\n\n\\\n\nf .\n\n^ ^",
+      "quality_score": 0.5158,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20240042_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.889264,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19910098_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.889264,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240040_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.889264,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240030_001_s1",
+      "title": "Déclaration",
+      "score": 0.889264,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240036_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.889264,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240037_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.889264,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240028_001_s1",
+      "title": "Mémorandum",
+      "score": 0.889264,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240041_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.889264,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240038_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.889264,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240039_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.889264,
+      "type": "duplicate",
+      "provisional": true
+    }
+  ]
+}

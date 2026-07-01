@@ -1,0 +1,51 @@
+{
+  "document_id": "tra18920003_100",
+  "title": "Décret paraguayen concernant la délégation des pouvoirs",
+  "year": 1892,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "es"
+  ],
+  "quality_score": 0.8257,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "per el ctrti lel, mne. 1 dela Ton us de la faeuthad empeitt cida il paser de lauja Ol Keitedo u le Remii blca ka acmdados осна. Ohrt: li Olulenirau al Chur Membor Teridente de Saraguay en la legri abed Seregendina, cindadan Dn ti Olleit Wenipate Cárlas Rauner, uu Cratado de (orner cu cutre autes pares Dl: Di texpidard la consanmtrnto Tau • publiqune y den kustom",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18920003_100.pdf",
+  "source_filename": "tra18920003_100.pdf",
+  "source_sha256": "cceb05f41f5c731ac37475936e23820c03d614b637ce83574961630b8a870eaf",
+  "treaty_id": "TRA18920003",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "per el ctrti lel, mne. 1 dela\n\nTon us de la faeuthad empeitt\n\ncida il paser de lauja\n\nOl Keitedo u le Remii\n\nblca ka acmdados\n\nосна.\n\nOhrt: li Olulenirau al Chur Membor\n\nTeridente de Saraguay en la legri abed Seregendina, cindadan Dn ti\n\nOlleit Wenipate\n\nCárlas Rauner, uu Cratado de (orner cu cutre autes pares\n\nDl: Di texpidard la consanmtrnto Tau\n\n• publiqune y den\n\nkustom",
+      "quality_score": 0.8257,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

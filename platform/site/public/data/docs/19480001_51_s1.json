@@ -1,0 +1,130 @@
+{
+  "document_id": "19480001_51_s1",
+  "title": "accusé de réception de la note verbale d'adhésion de la Roumanie",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.9206,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DIREOTION DES ATPAIRES ADMINISTRATIVES d SOCIAIES Entona Intornatione 102 4* 32407 14 AVR 1969 Par noto on dato du l0T avril 1960 rague do 5 47x11 1960, da Ibgetion do da Rópubliqua Popularro foimeine a bion voulu Informor do Minietiro dos AITaI- Tos Etrangerou do la déelalon de son Gouvertament d'adbér ror à ia convention digndo à Paria lo 22 novembro 1928 consernant les Expositions Internatior los et au Proa toaol…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_51_s1.pdf",
+  "source_filename": "19480001_51_s1.pdf",
+  "source_sha256": "b220b789a7bfcb10d62008380b724afd9bb301d559fe42a4d1d61e3dbdfaa0ba",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "ROU006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DIREOTION DES ATPAIRES\n\nADMINISTRATIVES d SOCIAIES\n\nEntona Intornatione 102 4* 32407\n\n14 AVR 1969\n\nPar noto on dato du l0T avril 1960 rague do\n\n5 47x11 1960, da Ibgetion do da Rópubliqua Popularro foimeine a bion voulu Informor do Minietiro dos AITaI- Tos Etrangerou do la déelalon de son Gouvertament d'adbér ror à ia convention digndo à Paria lo 22 novembro 1928 consernant les Expositions Internatior los et au Proa toaolo modifiantil du 10 mal 2945.\n\ncontorminant e l'artiolo 35 de 1e convention\n\nas d l'artiolo 3 du protocolo préoltos, 10 Couvernanent\n\nFrangais trenasat eux Gouversomenta dos paya eigratatron et adhérente de copio aertlíthe contorna do catta\n\nLEGATION DE LA REPUBLIQUE\n\nPOPULAIRE ROTEAINE\n\nLARIS",
+      "quality_score": 0.9565,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "notifisstion en indiquant ta date à laquelle alle a Été regue,/,\n\nLe Hinistére des Affaires Etrangères\n\nseisit cobte cogasion pour renouveler à la Ligue tion de is République Populaire Rownaine ies assue rances de ea haute considération,",
+      "quality_score": 0.8848,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_62_s1",
+      "title": "accusé de réception de l'adhésion tchécoslovaque",
+      "score": 0.409686,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.380823,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_136",
+      "title": "Accusé de réception français de l'adhésion camerounaise",
+      "score": 0.374424,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.372967,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_12_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.370538,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.37014,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_86_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et l'article 35",
+      "score": 0.365107,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_46_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.363123,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_28_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Finlande",
+      "score": 0.362241,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_77_s1",
+      "title": "Instrument de ratification des Pays-Bas",
+      "score": 0.359243,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

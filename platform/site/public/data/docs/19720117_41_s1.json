@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_41_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification du Danemark",
+  "year": 1972,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DANEMARK PROCES VERBAL DE DEPOT DE L'INSTRUMENT DE RATIFICATION DU ROYAUME DE DANEMARK DU PROTOCOLE DU 30 NOVEMBRE 1972 PORTANT MODIFICATION DE LA CONVENTION SIGNEE A PARIS LE 22 NOVEMBRE 1928 CONCERNANT LES EXPOSITIONS INTERNATIONALES Monsieur Christian KISUM, Ministre Conseiller à l'Ambassade de Danemark, s'est présenté aujourd'hui au Ministère des Affaires Etran- gères pour procéder avec Mons ieur Jean-Paul ANGLE…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_41_s1.pdf",
+  "source_filename": "19720117_41_s1.pdf",
+  "source_sha256": "c7c08d693992d0d7f9289c068a79f4a4f2af697d299a0880a46e97934868caa5",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "DNK003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DANEMARK\n\nPROCES VERBAL DE DEPOT\n\nDE L'INSTRUMENT DE RATIFICATION\n\nDU ROYAUME DE DANEMARK\n\nDU PROTOCOLE DU 30 NOVEMBRE 1972\n\nPORTANT MODIFICATION DE LA CONVENTION\n\nSIGNEE A PARIS LE 22 NOVEMBRE 1928\n\nCONCERNANT LES EXPOSITIONS INTERNATIONALES\n\nMonsieur Christian KISUM, Ministre Conseiller à l'Ambassade de Danemark, s'est présenté aujourd'hui au Ministère des Affaires Etran- gères pour procéder avec Mons ieur Jean-Paul ANGLES, Ministre Pléni- potentiaire, Chef du Protocole agissant au nom du Ministre des Affaires\n\nEtrangères, au dépot de l'Instrument de Ratification du Royaume de Dane- mark, du Protocole du 30 novembre 1972 portant modification de la Con- vention signée à Paris le 22 novembre 1928 concernant les expositions in- ternationales.\n\nL'Instrument ayant été, après examen, trouvé en bonne et due forme, a été déposé, pour y etre conservé, dans les Archives de la Ré- publique française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent Procès- Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, en double exemplaire ,\n\nle 20 Mars 1975",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.855259,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_67_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Monaco",
+      "score": 0.839701,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.804934,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_55_s1",
+      "title": "Procès verbal de dépôt de ratification de l'instrument de ratification de l'Italie",
+      "score": 0.775213,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.76402,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion chilien",
+      "score": 0.754873,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_58_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.742685,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_68_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion du Nicaragua",
+      "score": 0.741243,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv002_s1",
+      "title": "Procès-verbal du dépôt de l'instrument d'adhésion au protocole de 1972",
+      "score": 0.735766,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_63_s1",
+      "title": "Notification aux ambassadeurs auprès des pays membres de l'adhésion des États-Unis",
+      "score": 0.730591,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

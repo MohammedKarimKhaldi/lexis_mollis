@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19830254_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1983,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8713,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Dim Eurofe Méridimale Lº241/63 SOUSQTBS Al non du couvernement de 1a République, 1000, Ministre des relations extorieures donnons pouvoirs par ces présentes à Monsieur thierry AULAVOn, Chof de bureau » la Direction du Trésor an finisterr de 1'tconomte, des Finances et du budget pour necocier et simer un Protocole financier entro ie Gouvernement de la Ripublique francaise et le couvernement de la isrublique de Chypre…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19830254_002_s1.pdf",
+  "source_filename": "tra19830254_002_s1.pdf",
+  "source_sha256": "d1a8d4eca8b2e3284f0e9afae6c02208831170bdaeba2c2ee3122863b6655bce",
+  "treaty_id": "TRA19830254",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Dim Eurofe Méridimale\n\nLº241/63\n\nSOUSQTBS\n\nAl non du couvernement de 1a République, 1000,\n\nMinistre des relations extorieures\n\ndonnons pouvoirs\n\npar ces présentes à Monsieur thierry AULAVOn, Chof de bureau » la Direction du Trésor an finisterr de 1'tconomte, des Finances et du budget pour necocier et simer un Protocole financier entro ie Gouvernement de la Ripublique francaise et le couvernement de la isrublique de Chypre, relatir au financenent d'un projot Industriel .:.\n\nPAIT A PARIS r\n\n7 décerhe 1983\n\nde finisire des relations extérieures\n\nCl. Chuysom",
+      "quality_score": 0.8713,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19840174_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.429775,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.387997,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19920387_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.387756,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182473_002",
+      "title": "Pouvoirs français",
+      "score": 0.386593,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870226_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.386028,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.383418,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.381329,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810248_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.377707,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840174_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.377275,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.374945,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

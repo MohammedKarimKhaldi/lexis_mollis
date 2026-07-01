@@ -1,0 +1,324 @@
+{
+  "document_id": "tra19200040_001_s1",
+  "title": "Traité",
+  "year": 1920,
+  "doc_type": "Traité",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.8506,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "E o Eo- L'EMPIRE BRITANNIQUE, LA FRANCE, L'ITALIE ET LE JAPON, SIGNATAIRES AVEC LES ETATS-UNIS D'AMERIQUE, COMME PRIN- CIPALES PUISSANCES ALLIÉES ET ASSOCIÉES DU TRAITÉ DE PAIX DE VERSAILLES, ET LE DANEMARK; Considérant que par l'article 109 du Traité de paix conclu à Versailles le 29 juin 1g1g, il a été stipulé que la frontière entre l'Allemagne et le Danemark sera déterminée en conformité des aspirations des popu-…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Traité",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200040_001_s1.pdf",
+  "source_filename": "tra19200040_001_s1.pdf",
+  "source_sha256": "f07835222f41cbacdaab6ec333ecae169f51e02eda68a3d039b6aa1a6a3a67fa",
+  "treaty_id": "TRA19200040",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "E o\n\nEo-",
+      "quality_score": 0.5518,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "L'EMPIRE BRITANNIQUE, LA FRANCE, L'ITALIE ET LE JAPON,\n\nSIGNATAIRES AVEC LES ETATS-UNIS D'AMERIQUE, COMME PRIN-\n\nCIPALES PUISSANCES ALLIÉES ET ASSOCIÉES DU TRAITÉ DE\n\nPAIX DE VERSAILLES, ET LE DANEMARK;\n\nConsidérant que par l'article 109 du Traité de paix conclu à Versailles le 29 juin 1g1g, il a été stipulé que la frontière entre l'Allemagne et le\n\nDanemark sera déterminée en\n\nconformité des aspirations des popu-\n\nlations;\n\nConsidérant que ledit Traité a prévu et organisé un plébiscite parmi les populations intéressées et stipulé qu'une ligne frontière serait fixée par les Principales Puissances alliées et associées, d'après un tracé basé sur les résultats du vote et proposé par la Commission internationale de plébiscite, et en tenant compte des conditions géographiques et économiques particulières des localités;\n\nConsidérant que par l'article 110 dudit Traité, l'Allemagne a déclaré renoncer définitivement en faveur des Principales Puissances alliées el associées, à tout droit de souveraineté sur les territoires du Stesvig situés au Nord de la ligne fiontière fixée comme il est dit ci-dessus;\n\nConsidérant que ledit plébiscite a eu lieu et que les Principales\n\nPuissances alliées et associées, ayant à la suite de ce plébiscite décidé la frontière entre l'Allemagne et le Danemark ainsi que la notification en a été faite à ces Puissances le 15 juin 1920, sonl également dési- reuses de transférer, dès à présent, au Danemark la souveraineté sur lesdits territoires, sans préjudice des stipulations parliculières par tes- quelles elles se réservent de régler d'accord avec l'Allemagne et le Dane- mark, les questions naissant dudit transfert, ainsi qu'il est prévu à l'ar- ticle 114, alinéa 2, du Traité de Versailles;",
+      "quality_score": 0.9981,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "-2-\n\nTHE BRITISH EMPIRE, FRANCE, ITALY AND JAPAN, SIGNA-\n\nTORIES WITH THE UNITED STATES OF AMERICA, AS THE\n\nPRINCIPAL ALLIED AND ASSOCIATED POWERS, OF THE TREATY\n\nOF PEAGE OF VERSAILLES, AND\n\nDENMARK;\n\nsallles on June 28.\n\nGermany and Denmark should be fixed in conformity with the wishes of the population,\n\nAnd whereas by the said Treaty provision was made for holding a\n\nparticular geographical and economic conditions of the localities in\n\nline so fixed\n\nGermany and. Denmark, the questions arising out of the said transfer as provided under the second paragraph of Article 114 of the Treaty of Versailles,",
+      "quality_score": 0.9786,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "À cet effet, les Hautes Parties Contractantes ont désigné pour leurs\n\nPlénipotentiaires, sous réserve de la faculté de pourvoir à leur rempla- cement pour la signature, Savoir :\n\nS. M. LE ROI DU ROYAUME-UNI DE GRANDE-BRETAGNE ET\n\nD'IRLANDE ET DES TERRITOIRES BRITANNIQUES AU DELÀ .\n\nDES MERS, EMPEREUR DES INDES.\n\nLe Trés Honorable Edward George Vues, Comte du DERBy,\n\nK. G., P. C., K. C. V. O., C. B., Ambassadeur extraordinaire et plénipotentiaire de Sa Majesté britannique à Paris;\n\nEt, pour le DOMINION DU CANADA :\n\nL'Honorable Sir George Halsey PERLEY, K. C. M. G., Haut Com- missaire pour le Canada dans le Royaume-Uni;\n\npour le COMMONWEALTH D'AUSTRALIE :\n\nLe Trés Honorable Andrew Fisher, Haut Commissaire pour . l'Australie dans le Royaume-Uni ;\n\npour le DOMINION DE LA NOUVELLE-ZÉLANDE :\n\nL'Honorable Sir Thomas MACKENZIE, K. C. M. G., Haut-Com- missaire pour la Nouvelle-Zélande dans le Royaume-Uni ;\n\npour UNION SUD-AFRICAINE :\n\nM. Reginald Andrew BrawkENBEnc, O. B. E., faisant fonctions de Haut Commissaire pour [Union Sud-Africame dans\n\nRoyaume-Uni;\n\n— 4 —",
+      "quality_score": 0.9197,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "others to sign the same Treaty:\n\nHIS MAJESTY THE KING OF THE UNITED KINGDOM OF GREAT\n\nBRITAIN AND IRELAND AND OF THE BRITISH DOMINIONS\n\nBEYOND THE SEA, EMPEROR OF INDIA :\n\nThe Right Honourable Edward George Vicers, Earl of DERBY,\n\nK. G. P. C., K. C. V. O., C. B, Ambassador Extraordinary tentiary of His Britannic Majesty al Paris;\n\nAnd for THE DOMINION OF CANADA:\n\nThe Honourable Sit George Halsey Pemey, K. C. M. G., High commissioner for Canada in the United Kingdom for THE COMMONWEALTH OF AUSTRALIA :\n\nThe Right Honourable Andrew FisHer, High Commissioner for\n\nAustralia in the United Kingdom;\n\nfor THE DOMINION OF NEW ZEALAND :\n\nTE Honorate Sir The nas Nice te mic kingdo. ligh for THE UNION OF SOUTH AFRICA :\n\nMr. Reginald Andrew BLAnKENBERG, O. B. E., Acting High\n\nCommissionner for the Union of South Africa in the Uniled\n\nKingdom;\n\nTr. - Slesrig Dauemark-\n\n- 5 -",
+      "quality_score": 0.9568,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "- 4 -\n\npour l'INDE :\n\nLe très Honorable Edward George Vites, Comle du DeRBY,\n\nK. G., P. G., K. C. V. O., C, B., Ambassadeur extraordinaire et plénipotentiaire de Sa Majesté britannique à Paris;\n\nLE PRÉSIDENT DE LA RÉPUBLIQUE FRANÇAISE :\n\nM. Jules CAMBON, Ambassadeur de France;\n\nM. Georges Maurice PALéoLoGur, Ambassadeur de France,\n\nSecrétaire général du Ministère des Affaires Etrangères;\n\nSA MAJESTÉ LE ROI DITALIE :\n\nd'Italie à Paris;\n\nSA MAJESTÉ L'EMPEREUR DU JAPON :\n\nSA MAJESTÉ LE ROI DE DANEMARK ET D'ISLANDE :\n\n' Herporainer des.. i loi de anodinie et Ministre\n\nParis;\n\nLesquels ont convenu des dispositions suivantes :\n\n-6 -",
+      "quality_score": 0.9106,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "- 4 -\n\nfor INDIA:\n\nThe Right Honourable Edward George Vilers, Earl of Derby, \\. G., P. C., K. C. V. O., C. B., Ambassador Extraordinar and Plenipotentiary of His Britannic Majesty at Paris;\n\nTHE PRESIDENT OF THE FRENCH REPUBLIC :\n\nMr: Jules CAMBoN, Ambassador of France;\n\n' Crease any Recogn Ambasador of france,\n\nHIS MAJESTY THE KING OF ITALY:\n\nCount Lelio BoNIn LoNGArk, Senator of the Kingdom, Ambas- sador Extraordinary et Plenipotentiary of H. M. the King of\n\nItaly at Paris;\n\nHIS MAJESTY THE EMPEROR OF JAPAN:\n\nViscount CHINDA, Ambassador Extraordinary and Plenipotentiary of H. M. the Emperor of Japan at London;\n\nHIS MAJESTY THE KING OF DENMARK AND ICELAND :\n\nWho have agreed as follows :\n\nTr. — Slestig-Dancmark.\n\n- 7 -",
+      "quality_score": 0.9593,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "- 5 - ARTICLE 1er.\n\nLes Principales Puissances alliées et associées déclarent transférer, franc et quitte de toutes charges et obligations, sous réserve des dispositions du présent Traité, au\n\nDanemark, qui accepte, tout droit de souveraineté qu'Eltes tiennent de l'article 110, alinéa 3, du Traité de paix avec l'Allemagne, en date à Versailles du 28 juin 1919.\n\nsur les territoires, des et ilots du Slesvig situés au Nord de la ligne frontière ci-après décrite. Ce transfert prendra date du 15 juin 1920, jour où la fixation de la frontière a été officiellement notifiée à l'Allemagne et au Danemark.\n\nA partir de la mer Baltique, vers lOuest, et jusqu'à l'entrée du fjord de\n\nFlensburg :\n\nle chenal principal de navigation;\n\nde là, et jusqu'au point de latitude 54° 50' Nord et de longitudo g° 38' Est de\n\nGreenwich :\n\nle chenal principal de navigation;\n\nde là, dans une direction de 315° (à compter du Nord vers l'Est), et jusqu'à 400 mètres de la ligne de trois brasses de la rive Nord du fjard :\n\nune ligne droite;\n\nde là, vers l'Ouest, el jusqu'à l'embouchure de la riviere Krusau, sur la rive Ouest du fjord de Flensburg :\n\nune ligne courant d'une manière générale parallèlement à la côte Nord du fjord;\n\nde là, vers le Nord, jusqu'au point où la rivière Krusau coupe la limite Sud de l'usine de Kupfermühle :\n\nle cours de cette rivière vers l'amont;\n\nFera la, et le Non do jusques les Sunis a lincidentale du réservir de Kup- une ligne suivant les limites Sud et Est de l'usine de Kupfermühle, puis les rives\n\nNord-Est et Nord-Ouest de son réservoir;\n\nde là, vers i Ouest, et jusqu'au point où la rivière Krusau rencontre la limite entr les communes de Norderschmedeby et de Bau de là, vers le Sud-Sud-Ouest, et jusqu'au point où là route de Bau à Niehuus tra- verse la rivière Krusau;\n\nle cours de cette rivière vers l'amont;\n\n-8 -",
+      "quality_score": 0.9905,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "- 5 - ARTICLE 1.\n\nThe Principal Allied and Associated Powers hereby transfer to Denmark, who accepts the transter, tree and quit of ali charges and obligations, subject to the pro- visions of the present Treaty, all rights of sovereignty which they hold, under the third paragraph of Article 110 of the Treaty of Peace with Germany signed at Versailles on June 38, 1gig, over the territories, islands and islets of Slesvig situated to the north of the frontier line hereafter described. This transfer will date from\n\nJune 15, 1g2o, the day on which the fixing of the frontier was officially notified to\n\nGermany and Denmark.\n\nF'rom the Baltic Sea westwards to the entrance of the Flensburger Föhrde, the principal channel of navigation;\n\nthence to the intersection of longitude g° z8' east of Greenwich with the parallel of latitude 54°5d' north, the principal channel of navigation of the Flensburger Föhrde;\n\nthence at a bearing of 315° east from true north to a point 400 metres from the 3 fathom line, from the northern bank of the Föhrde, a straight line;\n\nthence westwards to the mouth of the Krusan River on the western shore of\n\nFlensburger Föhrde, a line generally parallel to the north coast of this Föhrde;\n\ntbence northwards to the point where the southern boundary of the Kupfermühle factory joins the Krusau River, the course of this river upstream;\n\nthence northwards to lhe most western point of the Kuplesmühle reservoir about 400 metres southeast of Krusau, he southern and eastern boundaries of the factory, then the northeastern and orthwestern banks of this reservoir thence westwards 1o the point where the Krusau River meets the houndary be- tween the communes of Norderschmedeby and Bau, a line to be fixed on the ground, cutting the Flensburg-Apenrade road at a point about 400 metres south of Krusau;\n\nthence south-southwestwards to the point where the Bau-Niehuus road crosses the Krusau River, the course of this river upstream;\n\nTa. — Stesvig-Danemark.\n\n- 9 —\n\n4.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "£T\n\nae\n\n| — 6 —\n\nde là, vers le Sud-Ouest, et jusqu'au point de jonction de la limite Sud de la commune de Bau et de la limite Est de la commune de Fróslee;\n\nune ligne à déterminer sur le terrain passant à l'Est de la ferme de Waldemarstoft et au Sud de Pattburg et de sa gare;\n\nde là, dans une direction générale Ouest, et jusqu'au point où la limite Sud de la commune de Eggebeck rencontre le Scheidebeck ;\n\nles limites Sud des communes de Fróslee, de Kracklund et de Eggebeck ;\n\nde là, et jusqu'à un point à déterminer sur la Sider Au à environ 500 mètres à l'Est du confluent de cette rivière et de la Wied Au:\n\nle cours, vers l'aval, du Scheidebeck, puis de Alte Au, puis de la Sader Au;\n\nde là, vers l'Ouest, et jusqu'à an pont à choisir sur la rive Nord du lac de Rulte- bài, prés de Ringswarf : | | une ligne, à déterminer sur le terram, courant parallèlement à la Wied Au à une distance de 400 mètres au plus au Sud de cette rivière et passant au Nord d'Aventoft ;\n\nde là, vers l'Ouest, et jusqu'au. point où le Kjärdeich atteint le ‘ac de Ruttebüll à environ 500 mètres au Sud de Ruitebüll :\n\nla ligne médiane de ce lac;\n\nde là, vers l'Ouest et jusqu'à Sieltoft sur la mer du Nord :\n\nune ligne suivant le Kjärdeich, puis les limites Sud de Ruitebüller Koog, Alter\n\nFriedrichen Koog et Neuer Friedrichen Koog;\n\nde là, une ligne de direction générale Nord-Ouest, laissant l'ile de Sylt à l'Alle- magne et l'ile de Róm au Danemark.\n\nLa frontière ci-dessus décrite sera tracée sur le terrain par la Commission prévue à l'article 111 du Traité de paix avec l'Allemagne, en date à Versailles du 28 juin 1919.\n\nARTICLE 2.\n\nLes territoires visés à l'alinéa 1* de l'article 1* resteront désormais inaliénables, 51 ce n'est avec l'assentiment du Conseil de la Société des Nations.\n\nARTICLE 3.\n\nLes Principales Puissances alliées et associées se réservent de pourvoir ultérieure- ment par des stipulations particulières, auxquelles l'Allemagne et le Danemark seront parties, au règlement des questions, notamment des questions de nationalité, des questions financières ou économiques, naissant de l'acquisition par le Danemark de la souveraineté sur les territoires visés à l'article. 1*, ainsi qu'il est prévu à l'ar- ticle 114, alinéa 2, du Traité de Versailles.\n\n— 10 —",
+      "quality_score": 0.9608,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "thence southwestwards to the point where the southern boundary of the com- mune of Bau mects the eastern boundary of the commune of F'röslee, a line to be fixed on the ground passing east of the farm of Waldemarstolf and south of Pattburg and its railway station;\n\nthence in a general westerly direction to the point where the southern boundary of the commune of Eggebeck meets the Scheidebeck, the southern boundaries of the communes of Fröslee, Kracklund and Eggebeck;\n\nhence to a point lo be chosen on the Süder Au aboul 5oo metres east of its con- Luence with the Wied Au.\n\nthe courses of the Scheidebeck, Alte Au, and Süder Au, downstream;\n\nthence westwards to a point tn be chosen on the northern shore of Ruttebil Lake near Ringswarf, thence westwards to the point where the Kjardeich meets Lake Ruttebill, about 500 metres south of Ruttebill, the median line of this lake;\n\nthence westwards to the North Sea at Sieltolt,\n\nAlter Friedrichen Koog and Neuer Friedrichen Koog;\n\nthence a line in a general north-westerly direction leaving the Island of Sylt to\n\nGermany, and the Island of Röm to Denmark.\n\nThe frontier line described above will be traced on the spot by the Commission provided for in Article I11 of the Treaty of Peace with Germany signed at\n\nVersailles on June 28, 191g.\n\nARTICLE 2.\n\nThe territories referred to in the first paragraph of Article I will remain hence- forth inalienable except with the consent of the Council of the League of Nations.\n\nARTICLE 3.\n\nThe Principal Allied and Associated Powers reserve the right to provide subse- quently, in accordance with the second paragraph of Article I 4 of the Treaty of Ver- sailles, by further stipulations to which Germany and Denmark will be parties, for the settlement of the questions, particularly those relating to nationality and financial and economic questions, arising out of the acquisition by Denmark of the sove- reignty over the territories referred to in Article 1.\n\nTR. — Slesvig-Danemark.\n\nqs.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "7 —\n\nLe PRÉSENT TRarré, rédigé en francais et en anglais, sera ratifid.\n\nLe dépôt des ratilications sera effectué à Paris, le plus tôt qu'il sera possible.\n\nLes Puissances, dont le Gouvernement a son siège hors d'Europe, auront la fa- culté de se borner à faire connaitre au\n\nGouvernement de Ia République fran- caise, par leur représentant diplomatique à Paris, que leur ratification a été donnée, et, dans ce cas, elles devront en trans- mettre l'instrument aussitôt que faire se pourra.\n\nUn procès-verbal de dépôt des ratifi- cations sera dressé dés que toutes les\n\nPuissances signataires auront ratifié, et dès ce moment le Traité entrera en vi- gueur.\n\nLe Gouvernement francais remettra à toutes les Puissances signataires, une copie cerlrñée conforme du procès-verbal de dépôt des ratifications.\n\nEn ratifiant le Traité de paix de Ver- sailles, les Etats-Unis acquerron! de plein droit la faculté d'accéder au présent\n\nTraité.\n\nEN FOI DE QUOI, les Pléni- poientiaires ci-après, dont les pou- volrs onl été reconnus en bonne el due forme, ont signé le présent\n\nTraité.\n\nFAIT à Paris, le cinq juillet mil neuf cent vingt, en un seul exemplaire qui restera déposé dans les archives du Gouvernement de\n\nTHE pRESENr Treaty, in French and\n\nEnghsh, shall be ratified.\n\nThe deposit of ratifications shall be made at Paris as soon as possible.\n\nPowers of which the: geat of the\n\nGovernment is outside Eurepe will be entitled merely to inform the Government of the French Republic through their diplomate representative at Paris that their ratification has been given; m that case they must transmit the instrument of ratification as soon as possible.\n\nA procés-verbat of the deposit of the ratifications shall be gen up as soon as all the signatory Powers have ratified, and at that moment the Treaty will come into force. og\n\nThe French Geer i ent will transmit to all the signatory Powers a certified copy of the procès-verbal of the deposit of ratifications.\n\nOn ratifying the Treaty of Versailles, the United States ‘wall, tpso facio be entitled io adhere to:the present Treaty.\n\nIN FAITH WAEREOF the hereinafter-namedPlenthotentiaries vhose power haye been found in good and due form have signed the present Treaty.\n\nDONE at Paris, the fifth day of July one thousand nine hundred and twenty, in asingle copy which will remain deposited in the ar-\n\n— 12 —\n\nA",
+      "quality_score": 0.9558,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "NL EN\n\nla République frangaise et dont les expéditions authentiques seront remises à chacune des Puissances signataires.\n\nchives of the French Republic, and of which authenticaled copies will be transmitted to each of the\n\nSignatory Powers.",
+      "quality_score": 0.9423,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Jules Camboy\n\n: hong\n\n77.2atous\n\nHA. Bernhort.",
+      "quality_score": 0.8963,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "SLESVIG\n\ns6a 5\n\nKilometres\n\ndéfinie par le présent Traité\n\n- Frontier between Denmark and Germany as defined by the present Treaty",
+      "quality_score": 0.926,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": ". P . .\n\n|\n\n. ^ € E 7\n\n[\n\nf ‘ :",
+      "quality_score": 0.5137,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200049_001_s1",
+      "title": "Traité",
+      "score": 0.449165,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200073_001_s1",
+      "title": "Traité",
+      "score": 0.448088,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200016_001_s1",
+      "title": "Traité",
+      "score": 0.439221,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200016_880",
+      "title": "Instrument de ratification tchécoslovaque du traité, du protocole et de la déclaration",
+      "score": 0.436171,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19200018_001_s1",
+      "title": "Traité",
+      "score": 0.43581,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_001_s1",
+      "title": "Traité",
+      "score": 0.434339,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280028_001",
+      "title": "Traité",
+      "score": 0.429044,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200048_001_s1",
+      "title": "Traité",
+      "score": 0.428741,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_03_s1",
+      "title": "Épreuve avant tirage définitif (s. d.)",
+      "score": 0.428152,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.421844,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

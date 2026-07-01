@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_lbr001_s1",
+  "title": "Instrument d'adhésion.",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9784,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "EMBASSY OF LIBERIA and PERMANENT DELEGATION TO UNESCO PARIS, FRANCE The Ambassadox INSTRUMENT D'ADHESION Le Gouvernement de la Republique du Liberia déclare qu'il adhère a la Convention concernant les expositions internationales signée a Paris le 22 Novembre 1928, telle que modifiée par le Protocole du 16 Novembre 1966, 30 Novembre 1972 et amendée le 24 Juin 1982 et le 31 Mai 1988, conformément aux dispositions de l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_lbr001_s1.pdf",
+  "source_filename": "tra19280002_lbr001_s1.pdf",
+  "source_sha256": "d8d0cb777f770db9335b105019975cec9c36f7ec814d8031ba7523eba3acd57d",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "LBR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "EMBASSY OF LIBERIA\n\nand\n\nPERMANENT DELEGATION TO UNESCO\n\nPARIS, FRANCE\n\nThe Ambassadox\n\nINSTRUMENT D'ADHESION\n\nLe Gouvernement de la Republique du Liberia déclare qu'il adhère a la Convention concernant les expositions internationales signée a Paris le 22 Novembre 1928, telle que modifiée par le Protocole du 16 Novembre 1966, 30 Novembre 1972 et amendée le 24 Juin 1982 et le 31 Mai 1988, conformément aux dispositions de l'article 3 du Protocole, et qu'il s'acquittera de bonne foi de toutes les obligations qui sont prévues dans la Convention et le wrataene\n\nEN FOI DE QUOI, j'ai signe le présent instrument_\n\nH.E. Mr. D. McKinley THOMAS\n\nAmbassadeur Extraordinaire/ Plenipotentiare",
+      "quality_score": 0.9784,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_160_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.802039,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_199_s1",
+      "title": "Instrument d'adhésion de la Slovénie",
+      "score": 0.790728,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.767706,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.762167,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lao001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.738811,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.730714,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_74_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.724529,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.713846,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mli001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.705336,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.697731,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

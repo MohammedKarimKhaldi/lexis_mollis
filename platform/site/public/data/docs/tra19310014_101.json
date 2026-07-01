@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19310014_101",
+  "title": "Texte du PV d'échange des ratifications",
+  "year": 1931,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9779,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES VERBAI D'ECHANCE Les Soussignés s'étant mis d'accord pour procéder à l'échange des Ratifications du Président de la République Française et du Conseil Pédéral de la Confédération Suisse sur la Convention concernant l'assistance aux indigents signés à paris le 9 Septembre I93I entre la France et la Suisse ainsi que sur le protocole de signature portent la même date, les instruments ont été produits et ayant ét…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19310014_101.pdf",
+  "source_filename": "tra19310014_101.pdf",
+  "source_sha256": "ad2ad47faca525f4bfb81da595e7314958e81a49e6a2c0529378132e5f9a869b",
+  "treaty_id": "TRA19310014",
+  "treaty_number": "101",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES VERBAI D'ECHANCE\n\nLes Soussignés s'étant mis d'accord pour procéder\n\nà l'échange des\n\nRatifications du Président de\n\nla République Française\n\net du Conseil\n\nPédéral de la\n\nConfédération Suisse sur la Convention concernant\n\nl'assistance aux indigents signés à paris le 9 Septembre I93I entre la France et la Suisse ainsi que sur le protocole de signature portent la\n\nmême date, les\n\ninstruments ont été produits et ayant\n\nété, après examen, trouvés en bonne et due forme, l'échange en a été opéré .\n\nEN FOI DE QUOI\n\n, les soussignés , dûment autorisés à cet\n\neffet , ont dressé \"le présent procès - verbal qu'ils ont revêtu de leurs cachets\n\n.\n\nFait à Paris en double exemplaire le 31 Juillet I933\n\nTunarr.",
+      "quality_score": 0.9779,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19190039_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.685858,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.665486,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290031_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.423422,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.411872,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190005_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.400604,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19320073_100_s1",
+      "title": "Protocole d'échange de ratifications",
+      "score": 0.389966,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530025_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.389867,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_008_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification du Traité",
+      "score": 0.387526,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_24_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Suisse",
+      "score": 0.38481,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.384599,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

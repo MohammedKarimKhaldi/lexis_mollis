@@ -1,0 +1,95 @@
+{
+  "document_id": "tra19940439_326",
+  "title": "Accusé de réception par le dépositaire de l'instrument néerlandais",
+  "year": 1994,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9474,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ripublique Française Le Ministre des Affaires Etrangeres paris, le 2b le celu bre 1997 Le Gouvernement de la République donne son approbation à l'Accord concernant la protection de la Meuse, fait à Charleville-Mézières le 26 avril 1994. La présente lettre constitue l'Approbation dudit Accord./. Hubert VEDRINE",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940439_326.pdf",
+  "source_filename": "tra19940439_326.pdf",
+  "source_sha256": "c36980f5dcc536f5eed2814e6b4ae638c7b08106850034b648fa2f26810b4ac7",
+  "treaty_id": "TRA19940439",
+  "treaty_number": "NLD004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ripublique Française\n\nLe Ministre des Affaires Etrangeres paris, le 2b le celu bre 1997\n\nLe Gouvernement de la République donne son approbation à l'Accord concernant la protection de la Meuse, fait à Charleville-Mézières le 26 avril 1994.\n\nLa présente lettre constitue l'Approbation dudit Accord./.\n\nHubert VEDRINE",
+      "quality_score": 0.9474,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940440_326",
+      "title": "Pouvoirs flamands",
+      "score": 0.801313,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_325",
+      "title": "Instrument néerlandais",
+      "score": 0.382431,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_325",
+      "title": "Accusé de réception par le dépositaire de l'instrument néerlandais : ratification reçue le 3 avril 1996",
+      "score": 0.377661,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_097",
+      "title": "Pouvoirs wallons",
+      "score": 0.361572,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_100",
+      "title": "Note relative à la transmission des pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.355297,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_100",
+      "title": "Note relative aux pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.351195,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_099",
+      "title": "Notifications du dépositaire aux Parties relatives au dépôt de l'instrument wallon",
+      "score": 0.350739,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_kna001_s1",
+  "title": "Note verbale d'adhésion",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9935,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "22.11.7928 SAINT CHRISTOPHER AND NEVIS Ministry of Foreign Affairs, GOVERNMENT HEADQUARTERS, P. O. Bax 18G, ST. KITTS, W. I Rel. N..... FA/CR18/028 Note No 212/97 The Ministry of Foreign Affairs of St Kitts and Nevis presents its compliments its to the Ministry of Foreign Affairs of the Republic of France and has the honour to announce that the Government of St Kitts and Nevis has decided to adhere to the Convention…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_kna001_s1.pdf",
+  "source_filename": "tra19280002_kna001_s1.pdf",
+  "source_sha256": "b6be0b5d0fb9a064bff92f801096b93d489579c535ffe341d50cc0f83e2918e1",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "KNA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "22.11.7928\n\nSAINT CHRISTOPHER AND NEVIS\n\nMinistry of Foreign Affairs,\n\nGOVERNMENT HEADQUARTERS,\n\nP. O. Bax 18G,\n\nST. KITTS, W. I\n\nRel. N..... FA/CR18/028\n\nNote No 212/97\n\nThe Ministry of Foreign Affairs of St Kitts and Nevis presents its compliments its to the Ministry of\n\nForeign Affairs of the Republic of France and has the honour to announce that the Government of\n\nSt Kitts and Nevis has decided to adhere to the Convention relating to International Bureau of\n\nExhibitions of 22 November 1928 and to the Protocols of 16 November 1966 and 30 November 1972 and to the Amendments of 24 June 1982 and 31 May 1988.\n\nThe Ministry of Foreign Affairs of St Kitts and Nevis avails itself of this opportunity to convey to the\n\nMinistry of Foreign Affairs of the Republic of France the renewed assurance of its highest consideration.\n\nBasseterre 13 May 1997\n\nML.C/ep\n\nFOREIGN AFFAIRS\n\nI. CHRISTOPHER & NEVS",
+      "quality_score": 0.9935,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.653416,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mlt001_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.638939,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "colombie_docs_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.611962,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_159_s1",
+      "title": "Notification du bureau international des expositions de l'adhésion de Palaos",
+      "score": 0.60634,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.40815,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.40798,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.407953,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.40793,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.407091,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.405334,
+      "type": "translation",
+      "provisional": false
+    }
+  ]
+}

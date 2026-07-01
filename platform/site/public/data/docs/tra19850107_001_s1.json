@@ -1,0 +1,303 @@
+{
+  "document_id": "tra19850107_001_s1",
+  "title": "Accord",
+  "year": 1985,
+  "doc_type": "Accord",
+  "languages": [
+    "en",
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.932,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Laan e a ya Lrt. r mlar ACCORD DE CONSOLIDATION CENTRE LE GOUVERNEMENT DE IA REPUBLIQUE FRANCAISE ET LE GOUVERNEMENT DE LA REPUBLIQUE DEMOCRATIQUE DE SOMALIE 1./ Le Gouvernement de la République Française et le Gouvernement de la TERMES DE LA CONSOLIDATION ARTICLE I (Dette concernée) 1. La dette consolidée de la Somalie à l'égard de la France au sens a présent accord est constituée par les échéances en principal et…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19850107_001_s1.pdf",
+  "source_filename": "tra19850107_001_s1.pdf",
+  "source_sha256": "9c2e02ecc7cd928e5df8908446ecdc422191c9608cde26a66362b534bc9f3ced",
+  "treaty_id": "TRA19850107",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Laan e a ya Lrt. r mlar",
+      "quality_score": 0.5741,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD DE CONSOLIDATION\n\nCENTRE\n\nLE GOUVERNEMENT DE IA REPUBLIQUE FRANCAISE\n\nET\n\nLE GOUVERNEMENT DE LA REPUBLIQUE DEMOCRATIQUE DE SOMALIE",
+      "quality_score": 0.9985,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "1./\n\nLe Gouvernement de la République Française et le Gouvernement de la\n\nTERMES DE LA CONSOLIDATION\n\nARTICLE I\n\n(Dette concernée)\n\n1. La dette consolidée de la Somalie à l'égard de la France au sens a présent accord est constituée par les échéances en principal et intérêts e ler octobre 198\n\na) des prêts gouvernementaux ou d'organismes gouvernementaux concius avan\n\nb) des crédits commerciaux garantis par la Compagnie Française d'Assuranc pour corme ce angérent cance ayant avant de ter aubre 15a%. au de tout\n\n2. La présente consolidation s'applique :\n\n- en ce qui concerne les crédits prévoyant initialement une durée de\n\ncrédit supérieure à un an :\n\naux montants dus au 31 décembre 1984 et non réglés au titre des\n\ncrédits mentionnés au paragraphe 1.\n\n1985, crédit\n\n• aux montants payables entre le ler janvier 1985 et le 31 décembre et non regles, au titre des crédits mentionnés au paragraphe 1.\n\n- en ce qui\n\nconcerne les crédits prévoyant initialement une durée de\n\négale ou inférieure\n\nà un an :\n\n• aux montants\n\ndus au 31 décembre 1984 et non réglés au titre des\n\ncrédits mentionnés\n\nau paragraphe 1 ci-dessus.\n\n3. Le montant global des échéances et des arriérés, visés aux paragraphes 1 et 2 ci-dessous, est évalué à la date du présent accord à 39.089.365,21 Francs français (*):\n\n- 11.704.017,32 Francs français (*) pour les échéances et arriérés dûs au titre des prêts visés au paragraphe 1 a) ci-dessus (Annexe\n\n- 27.385.347, 89 Francs Français (*) pour les échéances et arriérés dûs au titre des crédits visés au paragraphe 1 b) ci-dessus (Annexe\n\nII). Cette soume comprend :\n\n• 27.020.489, 05 Francs français (*) pour les crédits prévoyant initialement une durée de crédit supérieure à un an.\n\n364.858, 84 Francs français (*) pour les crédits prévoyant initialement une durée de crédit égale ou inférieure à un an\n\nT*) estination provisoire",
+      "quality_score": 0.9833,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "2./\n\nEn cas d'erreur d'évaluation mutuellement reconnue, les montants ains irrêtés pourront être modifiés par accord entre les Parties\n\nLes annexes font partie intégrante de l'accord.\n\nù des amendements ayant pour effet d'accroitre les e\n\nagements de la somalie a dégard de la ts aye auraient été du seratent app t\n\n5. Le présent accord n'affecte en rien les liens juridiques résultan lu droit comun ou des engagements souscrits par les parties aux contrat.\n\nmentionnés ci-dessus.\n\nARTICLE II\n\n(Refinancement)\n\nLa dette de la République Démocratique de Somalie afférente aux prêts\n\nvisés à l'article I paragraphe 1 a) sera refinancée dans les conditions suivantes :\n\nA) A partir de l'entrée en vigueur du présent accord, et au plus tard un mois après sa signature, le Ministère des Finances de Somalie fera parvenir à la\n\nBanque de France un relevé des échéances dues au 31 décembre 1984 et non réglées, ou tombant entre le ler janvier 1985 et la date du présent accord et non réglées. Elle y joindra les ordres de paiement correspondants et la désignation du bénéficiaire,en distinguant le principal des intérêts.\n\nEn ce qui concerne les échéances dues entre la date du présent accord\n\net le 31 décembre 1985 inclus, le Ministère des Finances de Somalie fera parvenir à la Banque de France, au plus tard au 15 de chaque mois, un relevé des chéances du mois écoulé. Elle y joindra les ordres de paiement correspondants et le nom du bénéficiaire, en distinguant le principal des intérêts.\n\nB) Afin de permettre le règlement du créancier, la Banque de France, (agissant pour le compte du gouvernement français), mettra sur ses livres à l disposition du Ministère des Finances de Somalie, (agissant pour le compte du\n\nGouvernement somalien) :\n\n- une avance égale à 95 % des échéances figurant sur les relevés visés ci-dessus ;\n\n- une avance complémentaire correspondant aux 5 % restants.\n\nMinistère des ina de sense debiter suscit de sans de ces avances 1e l'organisme français concerné.\n\nManexe diment gare de et cdur pa este, on artice dovires de qui ent et de relevé visés ci-dessus",
+      "quality_score": 0.9678,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "3/\n\nARTICLE III\n\n(Remboursement)\n\nrefinancées\n\n: en 10 versements\n\n199 mai enents\n\n2) en de qui concerne les avances complémentaires de 5 % sur ces échéances refinancées :\n\nen 4 versements annuels égaux et successifs, corme\n\n- 1,25 % au ler juillet 1986 :\n\n- 1,25 % au ler juillet 1987 ;\n\n- 1,25 au ler Juillet 1988\n\n- 1,25 § au ler juillet 1989.\n\nARTICLE IV\n\n(Rééchelonnement )\n\nLa dette de la République Démocratique de Somalie relative aux crédits cormerciaux visés à\n\nl'Article I, paragraphe 1 b) sera rééchelonnée. Elle sera\n\nremboursee dans les conditions suivantes :\n\n1) En ce qui concerne les crédits prévoyant initialement une durée de crédit supérieure à un an\n\na) 95 % des montants\n\ndus au 31 décembre 1984 et non réglés, du payables\n\nentre le ler janvier 1985 et le 31 décembre 1985 compris, seront réglés directement à la Compagnie Française d'Assurance pour le Commerce Extérieur (COFACE), en 10 versements\n\nsenestriels égaux et successifs, le premier de ces\n\npaiements intervenant le ler janvier 1991, et le dernier le ler juillet 1995.\n\nb) Ies 5 % restants de ces montants seront payés directement à la\n\nCompagnie Française d'Assurances pour le Cormerce Extérieur (COFACE) selox\n\n- 1,25 % au\n\nler juillet 1986 ;\n\n- 1,25 %\n\nLer juillet 1987;\n\n- 1,25 % au ler juillet 1988\n\n- 1,25 % au Ier juillet 1989",
+      "quality_score": 0.9845,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "2) En ce qui concerne les crédits prévoyant initialement une durée de crédit égale ou inférieure à un an es montants dús au 31 décembre 1984, et non réglés, seront réglé lirectement à la Compagnie Française d'Assurance pour le Connerce Extérieu (COFACE) en 7 versements semestriels égaux et successifs, le premier de ce paiements intervenant le ler janvier 1986, et le dernier le ler janvier 1989\n\n3) Le Ministère des Finances de Somalie et la Compagnie Française d'Assurance pour le Cormerce Extérieur (COFACE),\n\nagissant pour le compte du\n\nGouvernement Français, sont chargées des modalités d'application du présent\n\nArticle.\n\nARTICLE V\n\n(Taux d'intérêt)\n\n1) Le Gouvernement Somalien paiera un intérêt dont le taux sera de :\n\na) 8,75 % l'an, tout compris pour toutes charges et commissions, sur les avances consenties conformément à l'Article II pour le refinancement des prêts gouvernementaux ou d'organismes gouvernementaux (Annexe I).\n\n11,85 % 1 an, tout compris pour toutes charges et commissions, su\n\nles crédits conmerciaux\n\nrééchelonnes conformément à l'Article IV (Annexe II)\n\n2) Ces taux s'appliquent à partir des dates normales d'échéances contractuelles, sauf en ce qui concerne les prêts gouvernementaux ou d'organismes gouvernementaux dont les contrats prévoient que les intérêts contractuels (augmentés le cas échéant d'intérêts moratoires) continuent à courir jusqu'au\n\n3) Pour les paiements prévus à l'article VIII paragraphe 3 ci-dessous, ces taux s'appliquent entre les dates originelles d'échéances contractuelles et la date effective de paiement, sous réserve des dispositions des contrats originels instituant les prêts gouvernementaux ou d'organismes gouvernementaux.",
+      "quality_score": 0.986,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "ARTICLE VI\n\n(Monnaie de compte)\n\n1. Ioutes les obligations résultant du présent Accord seront libellées en Francs français, monnaie de compte.\n\n2. Les règlements afférents à ces obligations seront effectués en\n\nFrancs français.\n\nDISPOSITIONS GENERALES\n\nARTICLE VII\n\nprésent Accord.\n\nLes modalités de paiement des montants dus au titre du présent Accord à l'exception des montants visés à 1'Article IV (Rééchelonnement) et des intérêts sur ceux-ci seront déterminées par Accord entre la Banque de France et lE\n\nMinistère des Finances de Sonalie.\n\nes modalités de paiement des montants visés à l'Article IV (Rééchelon rement) et des intérêts sur deux-ci, seront déterminées par Accord entre 1\n\nCOFACE et le Ministère des Finances de Somalie.\n\nARTICLE VIII\n\nconformément aux dispositions du Procès-Verbal agréé le 6 mars 1985 :\n\n1. le Gouvernement de la République Démocratique de Somalie s'engage à faire bénéficier le Gouvernement Français de toutes dispositions plus favorables que celles contenues dans le présent accord qu'il consentirait, en droit ou er fait, pour le règlement total ou partiel des dettes de la Somalie de terme comparable.\n\n2. A cette fin, le Gouvernement de la République Démocratique de se toie accord de onolide lion qui conclurait aris informé des dispositions",
+      "quality_score": 0.972,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "6/\n\nARTICTE IX\n\nLe présent accord entrera en vigueur à la date de sa signature.\n\nFait à Paris, ce jour, le 6 novembre 1985 en deux originaux les eu regies sant aient Français.\n\nPOUR LE GOUVERNEMENT\n\nDE LA REPUBLIQUE FRANCAISE\n\nPOUR LE GOUVERNEMENT\n\nDE LA REPUBLIQUE DEMOCRATIQUE",
+      "quality_score": 0.9436,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "AGREEMENT\n\nON CONSOLIDATION OF DEBTS\n\nBETWEEN THE GOVERNMENT OF THE REPUBLIC OF FRANCE\n\nAND\n\nTHE GOVERNMENT OF THE SOMALI DEMOCRATIC REPUBLIC",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "1/\n\nThe Government of the Republic of France and the Government of the\n\nSomali Democratic Republic, in order to give effect to the recommendations of\n\nt) 1985 ha Migreed sh fomloting within the framework of the Paris Club on March\n\nTERMS OF THE CONSOLIDATION\n\nARTICLE I\n\n(Debts concerned)\n\n.. The consolidated Somalia's debt to France covered by this Agreement i ade up of instalments in principal and interest concluded on loan be the hench covernment or its appropriate institutions\n\n)) on commercial credits guaranteed by the Compagnie Français 'Assurance pour le Commerce Extérieur (COFACE), pursuant to a contract or othe financial arrangement concluded before October 1, 1984.\n\n2. The consolidation will apply :\n\n- as regards credits pursuant to\n\ncontracts having an original\n\nmaturity of more than one year :\n\n• to the amounts due as at December 31, 1984 and not paid on credits mentioned in paragraph 1;\n\n• to the amounts due from January 1, 1985 up to December 31, 1985 inclusive, and not paid, on credits mentioned in paragraph 1.\n\n- as regards credits pursuant to contracts having an original maturity of one year or less :\n\n• to the amounts due as at December 31, 1984 and not paid, on credits mentioned in paragraph I above.\n\n3. The total amount of the maturities and arrears referred to in paragraphs 1 and 2 above is estimated, at the date of this agreement, at 39,089, 365.21\n\nFrench Francs (*) :\n\n- 11,704,017.32 French Francs (*) as regards the maturities and arrears on loans referred to in paragraph 1 a) above (Annex I).\n\n- 27,385, 347.89 French Francs (*) as regards the maturities and arrears on credits referred to in paragraph 1 b) above (Annex II). This amount includes:\n\n27,020, 489.05 French Francs (*) as regards credits pursuant intracts having an original maturity of more than one yea 64,858.84 French Francs (*) as regards credits pursuant 1 ontracts having an original maturity of one year or less\n\n(*) Provisionnal estimate",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "2/\n\nIn case of a mutually acknowledged error of estimation, the amounts so estimated shall be modified by the Parties hereto.\n\nThe annexes will form an integral part of this Agreement.\n\n5. This Agreement shall in no way affect rights and obligations under the cormon law or under conmitments undertaken by the Parties in the contracts referred to above.\n\nARTICLE II\n\n(Refinancing)\n\nThe Somali Democratic Republic's debts on loans referred to in Article\n\nI paragraph 1 a) shall be refinanced on the following terms :\n\nA) From the entry into force of this Agreement and not later than one month after its signature, the Ministry of Finance of Sonalia will provide the\n\nBanque de France with a statement of the maturities due as\n\nat December 31, 1984\n\nand not paid, and due from January 1, 1985 up to the date of this Agreement and not paid, together with the relevant instructions to pay and the name of the payee, mentloning, on the one hand the principal and on the other hand the\n\nAs regards the maturities due between the date of this Agreement and\n\nDecember 31, 1985 inclusive, the Ministry of Finance of Somalia will provide the\n\nBanque de France, not later than the 15th day of each month, with a statement of the maturities due as of the past month, as well as the relevant instructions to pay and the name of the payee, mentioning, on the one hand the principal and on the other hand the interest.\n\nB) In order to enable the payment in favour of the creditor to be made, the Banque de France, (acting as the authorized agent of the French Goverrment), shall extend to the Ministry of Finance of Somalia, (acting as the authorized agent of the Somalian Government), on their books :\n\n- a loan equal to 95% of the amount of the maturities mentioned on the statement ;\n\n- a complementary loan equal to 5% of the same maturities.\n\nIne Banque de France shall forthwith debit the amount of these loans\n\nto the account of the Ministry of Finance of Somalia and shall credit with the appropriate sums the French institution concerned.\n\nC) In order to alleviate the proceeding, the Parties agree that the\n\nAnnexes mentionned above, duly approved and signed by them, shall be equivalent to the relevant statements and instructions to pay.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "3/\n\nARTICLE III\n\n(Repayment)\n\nThe Somalian Government shall repay the loans extended by the French\n\nGovernment according to article II, as follows:\n\n1/ As regards the loan corresponding to 95 % of the refinanced maturities : in 10 equal and successive semi-annual payments.\n\nthe first payment to\n\nbe made on January 1, 1991, and the final payment on July I, 1995.\n\n/ As regards the complementary loan corresponding to the remaini % of these maturities: in 4 equal and successive annual payments,\n\n- 1,25 % on July Ist,\n\n1987\n\n- 1,25 % on July Ist, 1989.\n\nARTICLE IV\n\n(Rescheduling)\n\nhe Somali Democratic Republic's debts on conmercial credits referre\n\n• in Article 1, paragraph 1 b) shall be rescheduled. It shall be repaid a follows :\n\n• As regards credits pursuant to contracts having an original maturity c ore than one year\n\na) 95 % of the amounts due as at December 31, 1984 and not paid, and\n\nbe tepaid dite fly to the dampagnie Frangalse alsurance pour lecone,\n\n1985 up to December 31, 1985 inclusive, will\n\nExtérieur (COFACE), in 10 equal and successive semi-annual payments, the first payment to be made on January 1, 1991 and the final payment on July 1, 1995.\n\nb) the remaining 5% of these amounts will be repaid directly to the\n\nCompagnie Française d'Assurances pour le Cormerce Extérieur (COFACE) according to the following schedule :\n\n- 1,25 % on July Ist, 1986 ;\n\n- 1,25 § on July Ist, 1987\n\n- 1,25 8 on July Ist, 1988\n\n- 1,25\n\nE on July Ist, 1989.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "2/ As regards credits pursuant to contracts having an original maturity of one year or less :\n\nARTICLE V\n\n(Rate of interest)\n\n1/ The Somalian Goverrment shall pay an interest at a rate which will be :\n\na) 8,75 % p.a., all charges and fees included, on the loans granted as\n\nstated in article II to refinance loans by the French Government or its appropriate institutions (Annex I).\n\n11,85 % p.a., all charges and fees included, on the conmercial\n\ncredits rescheduled as stated in Article IV (Annex II).\n\nrates are effective from the dates of the normal contractual\n\nmaturities. However, as regards loans by the French Government or its appropriate institutions, when it has been contractually stated that the contractual interest (eventually increased by late interest charges) will apply until the date of the refinancing, these contractual provisions shall actually apply until the date of the refinancing.\n\n3/ As regards maturities referred to in Article VIII paragraph 3 hereafter, these rates shall apply fran the original due date until the effective date of payment, subject to the original contractual provisions providing\n\n• loans from the French Government or its appropriate institutions.\n\n4/ The interest due shall be paid on the 3lst of March, the 30th of June, the 30th of September, and the 3lst of December of each year, the first payment being made on December 31, 1985.\n\nIn case these interest payments are not made on due date, they shall bear interest at the increased rate as defined hereafter.",
+      "quality_score": 0.9956,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "5/\n\nARTICLE VI\n\n(Unit of account)\n\n1/ All the obligations arising fran this Agreement shall be expressed i rench Francs as the unit of account 2/ Settlements relating to these obligations shall be made in French\n\nFrancs.\n\nGENERAL PROVISIONS\n\nARTICLE VII\n\nThe Banque de France and the COFACE (each of them with their\n\nrespective responsabilities) on the one hand, and the Ministry of Finance of somalia on the other hand, will act as the authorized agents of their respective\n\nGovernments in executing the provisions of this Agreement.\n\nThe methods of payment of all the obligations arising fron this\n\nAgreement, apart from the obligations referred to in Article IV (Rescheduling), and from the interest on these obligations will be determined by an Agreement between the Banque de France and the Ministry of Finance of Somalia.\n\nThe methods of payment of the obligations referred to in Article IV\n\nand of the interest on these obligations (Rescheduling) will be determined by an\n\nAgreement between the COFACE and the Ministry of Finance of Somalia.\n\nARTICLE VILI\n\nAccording to the provisions of the March 6, 1985 Agreed Minute :\n\n1. The Goverrment of the Somali Democratic Republic shall extend to the\n\nFrench Government any terms more favourable than those contained in the present\n\nAgreement which it may extend, de jure or de facto,\n\nto any other creditor in\n\nrespect of total or part settlement of Somalia's debt of comparable terms.\n\n3. The Government of the Somali Democratic Republic undertakes to pa 11 debt service due and not paid.",
+      "quality_score": 0.9996,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "6/\n\nThe present Agreement shall come into force on the date of its signa-\n\nture.\n\nDone in Paris, this 6th day of November 1985 in two versions, French and English, both being equally authentic\n\nTHE GOVERNMENT\n\nOF THE REPUBLIC OF FRANCE\n\nTHE GOVERNMENT\n\nOF THE SOMALI DEMOCRATIC\n\nBEPUBLIC\n\npatien",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "PE ALe AE A E A T AT o p a a a a a a n r a T ` x bed x \" . LINEN\n\nAam h m A LT",
+      "quality_score": 0.5066,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "en",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19870226_001_s1",
+      "title": "Accord",
+      "score": 0.870969,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850080_001_s1",
+      "title": "Accord",
+      "score": 0.698951,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20202747_001_s1",
+      "title": "Accord",
+      "score": 0.680437,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192686_001_s1",
+      "title": "Texte du contrat (ensemble 4 annexes)",
+      "score": 0.527227,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19920387_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.437391,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212835_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.429504,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240077_001_s1",
+      "title": "Convention",
+      "score": 0.428136,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240105_001_s1",
+      "title": "Accord (ensemble quatre annexes)",
+      "score": 0.424854,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20030020_001_s1",
+      "title": "Accord (sans les annexes)",
+      "score": 0.42393,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212956_001_s1",
+      "title": "Texte de l'amendement (ensemble 1 annexe)",
+      "score": 0.419884,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

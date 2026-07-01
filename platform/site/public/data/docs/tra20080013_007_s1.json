@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20080013_007_s1",
+  "title": "Accusé de réception français de l'instrument d'approbation saoudien",
+  "year": 2008,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9302,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DIREOECNDESARC VES SARRIVEE - 7 OCT. 2013 Liberté • Crabile Fraterie REPURLTOLE FRANCAISE！ MINISTERE DES AFFAIRES ETRANGERES Note verbale COTE Paris, Je 26 septembre 2013 N° 778/DGM/DCUR/ES Le Ministère des Affaires étrangères présente ses compliments à l'Ambassade du Royaume d'Arabie Saoudite et a l'honneur de l'informer qu'il a bien reçu sa note du 4 décembre 2012 concernant l'application du traité de collaboratio…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20080013_007_s1.pdf",
+  "source_filename": "tra20080013_007_s1.pdf",
+  "source_sha256": "df08d1e0b1d1270256ff2000aca14fe1ad9b0a75a7aea6795f607da321044e90",
+  "treaty_id": "TRA20080013",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DIREOECNDESARC VES\n\nSARRIVEE\n\n- 7 OCT. 2013\n\nLiberté • Crabile Fraterie\n\nREPURLTOLE FRANCAISE！\n\nMINISTERE\n\nDES AFFAIRES ETRANGERES\n\nNote verbale\n\nCOTE\n\nParis, Je 26 septembre 2013\n\nN° 778/DGM/DCUR/ES\n\nLe Ministère des Affaires étrangères présente ses compliments à l'Ambassade du Royaume d'Arabie Saoudite et a l'honneur de l'informer qu'il a bien reçu sa note du 4 décembre 2012 concernant l'application du traité de collaboration pour la Formation Professionnelle, dans le cadre de la formation à l'emploi, et de l'éducatión technologique Conformément à l'article 5 de cet accord, celui-ci est entré en vigueur le 3 janvier 2013/. fU\n\nLe Ministère des Affaires étrangères saisit cette occasion pour renouveler à l'Ambassade du Royaume d'Arabie Saoudite les assurances de sa haute considération.\n\nAmbassade du Royaume d Arabie Scoudite 5, avenue Hoche 75008 Paris",
+      "quality_score": 0.9302,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760120_003",
+      "title": "Pouvoirs irakiens",
+      "score": 0.402958,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.396114,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_776",
+      "title": "Accusé de réception de l'instrument salvadorien",
+      "score": 0.396048,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_irq001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.393784,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.387705,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_006",
+      "title": "Accusé de réception qatari de l'instrument français",
+      "score": 0.387406,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.387322,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_005a",
+      "title": "Premier instrument qatari",
+      "score": 0.386832,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20130965_007_s1",
+      "title": "Note de l'ambassade accusant réception de la notification canadienne",
+      "score": 0.386359,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_049_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'Egypte",
+      "score": 0.384918,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

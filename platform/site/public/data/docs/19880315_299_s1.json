@@ -1,0 +1,116 @@
+{
+  "document_id": "19880315_299_s1",
+  "title": "Note verbale espagnole relative aux conditions d'entrée en vigueur de l'accord",
+  "year": 1988,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9889,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Embajada de España Nº 257 L'Ambassade d'Espagne présente ses compliments au Ministère des Affaires Etrangères, Direction du Développement et de la Coopération Scientifique, Technique et Educative, et en relation avec sa Note Verbale N° 598, datée du 3 juin 1991, a l'honneur de porter à sa connaissance que le gouvernement du Royaume d'Espagne n'a pas d'inconvénient à l'entrée en vigueur de la Convention relative à la…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880315_299_s1.pdf",
+  "source_filename": "19880315_299_s1.pdf",
+  "source_sha256": "55c8c151b4fec50519975580829cf0334857be6b9a90aa9627aab91b2f84b807",
+  "treaty_id": "TRA19880315",
+  "treaty_number": "ESP005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Embajada de España\n\nNº 257\n\nL'Ambassade d'Espagne présente ses compliments au Ministère des Affaires Etrangères, Direction du Développement et de la\n\nCoopération Scientifique, Technique et Educative, et en relation avec sa Note Verbale N° 598, datée du 3 juin 1991, a l'honneur de porter à sa connaissance que le gouvernement du Royaume d'Espagne n'a pas d'inconvénient à l'entrée en vigueur de la Convention relative à la construction et à l'exploitation de l'installation européenne de régionnement Synchrotron (ESRC), dans les conditions fixées dans la Note Verbale déjà mentionnée.\n\nL'Ambassade d'Espagne remercie par avance le Ministère des\n\nAffaires Etrangères et saisit cette occasion pour lui renouveler\n\nLes assurances de sa haute considération?\n\nParis, le 26 Juillet 1991.\n\nPAS\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nPARIS.",
+      "quality_score": 0.9889,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19720042_005",
+      "title": "tra19720042_005",
+      "score": 0.399343,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.39911,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_296_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.391944,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_296_s1",
+      "title": "Note verbale d'envoi de l'instrument espagnol",
+      "score": 0.390358,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.384235,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.383692,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_007_s1",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.38297,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.380261,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_005_et_007_s1",
+      "title": "Instrument russe ET accusé de réception russe de l'instrument français",
+      "score": 0.378962,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_033_s1",
+      "title": "accusé de réception du Nicaragua de la notification de l'amendement",
+      "score": 0.378302,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -107,5 +107,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190006_151b_s1",
+      "title": "Instrument de ratification bulgare de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.789389,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_351b_s1",
+      "title": "Instrument de ratification grec de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.720538,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_002_s1",
+      "title": "Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
+      "score": 0.4505,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_051_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.401838,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_001_s1",
+      "title": "Traité",
+      "score": 0.399794,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_001_s1",
+      "title": "Convention",
+      "score": 0.398985,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100327_001_s1",
+      "title": "lettre française",
+      "score": 0.395195,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20250001_001_s1",
+      "title": "Accord",
+      "score": 0.394408,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_012_s1",
+      "title": "Instrument de ratification de l'Allemagne fédérale",
+      "score": 0.393496,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.393141,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

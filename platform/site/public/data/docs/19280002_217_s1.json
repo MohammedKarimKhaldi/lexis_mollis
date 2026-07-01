@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_217_s1",
+  "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9687,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 217 PROCES VERBAL DE DEPOT DES RATIFICATIONS SUR LA CONVENTION CONCERNANT LES EXPOSITIONS INTERNATIONALE SIGNEE A PARIS IE 22 NOVEMBRE 1928 le PROTOCOLE et IE PROTOCOLE DE SIGNATURE PORTANT LA KEME DATE Conformément aux dispositions finales de la Convention concernant les expositions internationales signée à Paris le 22 Novembre 1928 , le Ministre de Ichécoslovaquie s'est présenté au Ministère des Affaires…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_217_s1.pdf",
+  "source_filename": "19280002_217_s1.pdf",
+  "source_sha256": "e2349a60c757d2028f7e9e332a06411258b852b9725645a6eaae3a3c5e869c60",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "CS0002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 217",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "PROCES VERBAL DE DEPOT DES RATIFICATIONS SUR LA CONVENTION\n\nCONCERNANT\n\nLES EXPOSITIONS\n\nINTERNATIONALE SIGNEE A PARIS\n\nIE 22 NOVEMBRE 1928 le PROTOCOLE\n\net IE\n\nPROTOCOLE DE\n\nSIGNATURE PORTANT LA KEME DATE\n\nConformément aux dispositions finales de la Convention concernant les expositions internationales signée à Paris le 22\n\nNovembre 1928 , le Ministre de Ichécoslovaquie s'est présenté au\n\nMinistère des Affaires Etrangères pour procéder au dépot des 1 ratifications de S. IXC. le Président de la République Ichéco-SIoraque sur la Convention, le Protocole et le Protocole de signature et les remettre au Gouvernement de la République .\n\nIes instruments de ratifications ont été produits et ayant été, après examen, trourés en bonne et due forme, sont confiés au Gouvernement de la République Française pour rester déposés dans ses archives .\n\nIe Gourernement français donnera avis aux Puissances contractantes des dépôts des instruments de ratifications ültérieure- ment effectués par les autres Etats signataires .\n\nIN FOI DE QUOI les sousBignés ont dressé le présent procès verbal et y ont apposé leure cacheta\n\nFait à Pario le 9 Jauvin 1952",
+      "quality_score": 0.9941,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_218_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.859012,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_214_s1",
+      "title": "Note verbale de dénonciation",
+      "score": 0.857946,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.853497,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_216_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.85328,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_211_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.851442,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_210_s1",
+      "title": "Instrument d'adhésion de la Syrie",
+      "score": 0.848769,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_212_s1",
+      "title": "Instrument d'adhésion de la Tanzanie",
+      "score": 0.839789,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_85_s1",
+      "title": "Procès-verbal de dépôt de la ratification de la Grèce",
+      "score": 0.812415,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_172_s1",
+      "title": "Dépôt de l'instrument d'adhésion de la Pologne",
+      "score": 0.797943,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_166_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion des Pays-Bas",
+      "score": 0.772678,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

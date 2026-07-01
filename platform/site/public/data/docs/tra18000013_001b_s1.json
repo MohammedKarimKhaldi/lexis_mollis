@@ -1,0 +1,61 @@
+{
+  "document_id": "tra18000013_001b_s1",
+  "title": "Convention",
+  "year": 1800,
+  "doc_type": "Convention",
+  "languages": [
+    "ar"
+  ],
+  "quality_score": 0.7874,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "فى بك وظو مهتلو ولى كنهم وكثير الكرم اخبخر مضريا ينات امرسيق الثيويك ايوزاوديش سة م مو خيرينان يرى الزنى كوف بنوجوا دوريو بكوايه وبنا ودع بو قائي جمه زرسًا جندة ورز ورى المسول وولزف فى جهو جن دنى المولا لوم التزرا بج وجره وهو الى وجده فطع كلن لهذر تخدا فراما فى شد صغرها١٢ Armistie Conches Gutt Mushapha Sucha veg- d'Alyou enda Cingen Chard francon Dubais Thanii elle chsay, saffouei & Poramis vir Pocáena.. 1800(19 gri…",
+  "tags": [
+    "century:c18",
+    "corpus:traites",
+    "doc_type:Convention",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:revolutionary_napoleonic_1789_1815",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18000013_001b_s1.pdf",
+  "source_filename": "tra18000013_001b_s1.pdf",
+  "source_sha256": "c2f5fc47b6f9d45bdde634d96e4aabd27b7ac9af16c6a2462d1280052e6d3591",
+  "treaty_id": "TRA18000013",
+  "treaty_number": "001B",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "فى بك\n\nوظو مهتلو ولى كنهم وكثير الكرم اخبخر\n\nمضريا ينات امرسيق الثيويك ايوزاوديش سة م مو خيرينان يرى الزنى كوف بنوجوا دوريو بكوايه وبنا ودع بو قائي جمه زرسًا جندة ورز ورى المسول وولزف فى جهو جن دنى المولا لوم التزرا بج وجره وهو\n\nالى وجده فطع كلن لهذر تخدا فراما فى شد صغرها١٢\n\nArmistie Conches Gutt Mushapha Sucha veg- d'Alyou enda Cingen Chard francon Dubais\n\nThanii elle chsay, saffouei & Poramis vir Pocáena..\n\n1800(19 griller)",
+      "quality_score": 0.7759,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Fe",
+      "quality_score": 0.7989,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

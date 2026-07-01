@@ -1,0 +1,129 @@
+{
+  "document_id": "tra19890163_005_s1",
+  "title": "Instrument soviétique",
+  "year": 1989,
+  "doc_type": "Autre",
+  "languages": [
+    "fr",
+    "ru"
+  ],
+  "quality_score": 0.9715,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "r 13 00M041504 No Министерство Иностранных Дел Союза Советских Социалистических Республик свидетельствует свое уважение Посольству Французской Республики и, ссылаясь на статью 20 Соглашения между Правительством Союза Советских Социалистических Республик и Правительством Французской Республики об учреждении и условиях деятельности культурных центров СССР и Франции, подписанного в Париже 5 июля 1989 года, имеет честь…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19890163_005_s1.pdf",
+  "source_filename": "tra19890163_005_s1.pdf",
+  "source_sha256": "01f9cc844f646e635387b5708a9fdd8cbe6878572879da74fd34e0ba46d434f9",
+  "treaty_id": "TRA19890163",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "r 13 00M041504\n\nNo\n\nМинистерство Иностранных Дел Союза Советских\n\nСоциалистических Республик свидетельствует свое уважение Посольству Французской Республики и, ссылаясь на статью 20 Соглашения между Правительством Союза Советских Социалистических Республик и Правительством\n\nФранцузской Республики об учреждении и условиях деятельности культурных центров СССР и Франции, подписанного в Париже 5 июля 1989 года, имеет честь сообщить, что\n\nСоветская Сторона выполнила необходимые для вступления\n\nСоглашения в силу внутригосударственные формальности.\n\nМинистерство исходит из того, что это Соглашение в соответствии с его статьей 20 вступит в силу с даты уведомления Посольства о выполнении Французской Стороной необходимых для вступления Соглашения в силу внутригосударственных формальностей.\n\nМинистерство пользуется случаем, чтобы возобновить\n\nПосольсву уверения в своем высоком уважении.\n\nМосква, 2 ноября 1989 года\n\nРЕСПУБЛИКИ\n\nг. Москва",
+      "quality_score": 0.9524,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "ーー\n\nMINISTERE DES AFFAIRES\n\nETRANGERES DE L'URSS\n\nN°\n\n6557/ 1EON\n\nLe Ministère des Affaires Etrangères de l'Union des\n\nRépubliques Socialistes Soviétiques présente ses compliments à l'Ambassade de France, et, se référant à l'Article 20 de l'Accord entre le Gouvernement de l'Union des Républiques Socialistes\n\nSoviétiques et le Gouvernement de la République Française sur la création et les conditions de fonctionnement des centres culturels de l'URSS et de la France signé à Paris le 5 juillet 1989, a l'honneur de l'informer que la partie soviétique a accompli les formalités internes nécessaires à l'entrée en vigueur de l'Accord.\n\nLe Ministère en conclut que cet Accord, conformé-\n\nment à son article 20, entrera en vigueur le jour où l'Ambassade notifiera l'accomplissement par la partie française des formalités internes nécessaires à l'entrée en vigueur de l'Accord.\n\nLe Ministère saisit cette occasion pour renouveler\n\nà l'Ambassade de France les assurances de sa haute considération.\n\nMoscou, le 2 novembre 1989\n\nAMBASSADE DE LA REPUBLIQUE FRANCAISE\n\nMOSCOU",
+      "quality_score": 0.9905,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_049_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.553275,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_05_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.411827,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_005_et_007_s1",
+      "title": "Accusé de réception russe de l'instrument français",
+      "score": 0.408776,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_005_et_007_s1",
+      "title": "Instrument russe ET accusé de réception russe de l'instrument français",
+      "score": 0.40412,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.402864,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_75_s1",
+      "title": "Note verbale d'adhésion de l'URSS",
+      "score": 0.402481,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_005",
+      "title": "tra19720042_005",
+      "score": 0.400818,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_005_s1",
+      "title": "Instrument ouzbèke",
+      "score": 0.400353,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20060004_007",
+      "title": "Accusé de réception français de l'instrument russe",
+      "score": 0.400199,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.398058,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

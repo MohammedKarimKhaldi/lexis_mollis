@@ -1,0 +1,143 @@
+{
+  "document_id": "tra20000089_004_s1",
+  "title": "Instrument de ratification",
+  "year": 2000,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9839,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ratifications du Président de la République Française, DU TRAITÉ ENTRE LA RÉPUBLIQUE FRANÇAISE ET LA PRINCIPAUTÉ D'ANDORRE PORTANT RECTIFICATION DE LA FRONTIÈRE, FAIT A ANDORRE-LA-VIEILLE LE 12 SEPTEMBRE 2000 Jacques Chirac Président de la République Française, A tous ceux qui ces présentes Lettres verront, Salut : LE TRAITÉ ENTRE LA RÉPUBLIQUE FRANÇAISE ET LA PRINCIPAUTÉ D'ANDORRE PORTANT RECTIFICATION DE LA FRONTI…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20000089_004_s1.pdf",
+  "source_filename": "tra20000089_004_s1.pdf",
+  "source_sha256": "4b03242a5d10911a7380a6d999bc3f9cd612441d1cb92a9cf77068e96b9741f5",
+  "treaty_id": "TRA20000089",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ratifications\n\ndu Président de la République Française,\n\nDU TRAITÉ\n\nENTRE\n\nLA RÉPUBLIQUE FRANÇAISE\n\nET\n\nLA PRINCIPAUTÉ D'ANDORRE\n\nPORTANT RECTIFICATION DE LA FRONTIÈRE,\n\nFAIT A ANDORRE-LA-VIEILLE LE 12 SEPTEMBRE 2000",
+      "quality_score": 0.9828,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Jacques Chirac\n\nPrésident de la République Française,\n\nA tous ceux qui ces présentes Lettres verront,\n\nSalut :\n\nLE TRAITÉ\n\nENTRE\n\nLA RÉPUBLIQUE FRANÇAISE\n\nET\n\nLA PRINCIPAUTÉ D'ANDORRE\n\nPORTANT RECTIFICATION DE LA FRONTIÈRE,\n\nAYANT ÉTÉ FAIT A ANDORRE-LA-VIEILLE LE 12 SEPTEMBRE 2000,\n\nTRAITÉ DONT LA TENEUR SUIT :",
+      "quality_score": 0.9986,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "AYANT VU ET EXAMINÉ LEDIT TRAITÉ, NOUS L'AVONS\n\nAPPROUVÉ ET APPROUVONS EN TOUTES ET CHACUNE DE SES\n\nPARTIES, EN VERTU DES DISPOSITIONS QUI Y SONT CONTENUES ET\n\nCONFORMÉMENT A L'ARTICLE 52 DE LA CONSTITUTION.\n\nDÉCLARONS QU'IL EST ACCEPTÉ, RATIFIÉ ET CONFIRMÉ ET\n\nPROMETTONS QU'IL SERA INVIOLABLEMENT OBSERVE.\n\nEN FOI DE QUOI, NOUS AVONS DONNÉ LES PRÉSENTES,\n\nREVÊTUES DU SCEAU DE LA RÉPUBLIQUE.\n\nTATTA PARIS, LE 25 JUiPPet 2001\n\nPAR LE PRÉSIDENT DE LA RÉPUBLIQUE\n\nLE PREMIER MINISTRE\n\nL. Jospin\n\nLE MINISTRE DES AFFAIRES\n\nÉTRANGÈRES\n\nPOUR COPIE CERTIFIÉE CONFORME A L'ORIGINAL,\n\nFAITA PARIS, LE 2.5 JUiPPeT 2001\n\nLaurent STEFANINI",
+      "quality_score": 0.9704,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20000079_004",
+      "title": "Instrument français",
+      "score": 0.848591,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000072_004",
+      "title": "Instrument français",
+      "score": 0.836745,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930199_004_s1",
+      "title": "Instrument français",
+      "score": 0.82078,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_326_s1",
+      "title": "Instrument de ratification",
+      "score": 0.759214,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.745552,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_004_s1",
+      "title": "Instrument français",
+      "score": 0.741921,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "fr-ratif_s1",
+      "title": "Ratification française",
+      "score": 0.726398,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_056_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.716867,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_004",
+      "title": "Instrument français (ratification)",
+      "score": 0.712694,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.70115,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

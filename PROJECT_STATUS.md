@@ -1,6 +1,6 @@
 # Lexis Mollis — statut de déploiement
 
-Dernière mise à jour vérifiée : 2026-06-30 (re-vérifiée par Codex après la fin de l'OCR et le test local de la plateforme).
+Dernière mise à jour vérifiée : 2026-07-01 (Codex : évaluation LLM provisoire, graphe/release complets, dataset Hugging Face publié, site Cloudflare déployé).
 
 ## Résumé
 
@@ -17,39 +17,44 @@ outillage de release et CI GitHub. Le dépôt GitHub est public, le dataset Hugg
 `lexis-mollis/soft-law-corpus` existe et est public, et Zenodo est connecté à GitHub selon
 la configuration effectuée côté compte.
 
-Le scaffold EPIC F est maintenant testable localement : Astro répond sur
-`http://127.0.0.1:4321/`, et `platform/site/public/data/` contient actuellement une
-génération pilote depuis `outputs_v2/release_pilot` : 100 documents, 1 462 pages,
-22 nœuds graphe, 23 arêtes. **Décision (Claude, 2026-06-30) : on garde le jeu pilote de
-100 documents** plutôt que les 2 documents d'exemple fictifs — le site déployé doit
-montrer du vrai contenu du corpus. À swapper pour la release complète (3 146 documents)
-dès que les builds complets de similarité/graphe (EPIC C/D) seront prêts ; voir
-`scripts/build_site_data.py` côté génération.
+Le scaffold EPIC F n'est plus seulement testable localement : il a été alimenté depuis
+`outputs_v2/release` et déployé sur Cloudflare Workers Static Assets. Le site public est :
+`https://lexis-mollis.mk-74a.workers.dev`. Le manifeste public
+`/data/manifest.json` annonce 3 146 documents, 26 566 pages, un graphe réduit à
+3 000 nœuds et 9 000 arêtes pour l'affichage navigateur. Les exports lourds restent hors
+Git et hors bundle statique complet ; Hugging Face est maintenant la cible canonique publiée
+pour les tables complètes, et Zenodo reste la cible DOI après release GitHub.
 
 Une passe d'amélioration UI a aussi été faite sur `platform/site/src/` (favicon + balises
 OG/Twitter, état actif dans la navigation, pied de page avec liens GitHub/Hugging Face,
 légende des couleurs du graphe, recherche avec état de chargement + debounce, secours
 `<noscript>` pour recherche/graphe, et surtout un sommaire + regroupement par paquets de
-25 pages (`<details>`) sur les fiches document longues — le pilote contient un document de
-445 pages qui rendait la fiche très lourde sans ce découpage). Build Astro vérifié en
-local (106 pages générées, 0 erreur).
+25 pages (`<details>`) sur les fiches document longues. Build Astro vérifié en local et
+déployé sur Cloudflare avec les données complètes optimisées.
 
 Le build **complet** de similarité a maintenant été lancé sur les 3 146 documents :
 `outputs_v2/similarity/manifest.json` indique 30 285 chunks, 24 446 paires lexicales,
 461 840 paires sémantiques, 310 098 arêtes chunk, 87 451 arêtes document et 116 clusters.
-La calibration reste volontairement non revendiquée : `benchmarks/similarity_cases.json`
-contient encore 0 cas annoté, et `outputs_v2/similarity/calibration_report.json` signale
-`insufficient_annotations`. Une shortlist de 120 candidats humains est disponible dans
-`outputs_v2/similarity/calibration_candidates.csv` / `.json`.
+À la demande de l'utilisateur, Codex a rempli automatiquement toute la shortlist de
+calibration comme **brouillon d'annotation LLM** : `benchmarks/similarity_cases.json`
+contient maintenant 120 candidats annotés, dont 54 positifs, 50 négatifs et 16 exclus
+comme non informatifs (numéros de page, renvois mécaniques, fragments trop courts).
+`scripts/calibrate_similarity.py` marque explicitement ce rapport comme
+`llm_draft_calibrated`, avec `human_validated=false`. Les seuils proposés sont donc utiles
+pour avancer l'ingénierie, mais ne doivent pas être présentés comme une calibration
+scientifique validée humainement.
 
-Ce qui reste avant le déploiement public complet : annoter les paires de calibration,
-valider/enrichir les gazetteers puis lancer les builds **complets** graphe/release sur les
-3 146 documents, finaliser le déploiement Cloudflare, et publier la release.
+Les gazetteers ont été enrichis avec les entités évidentes, puis le graphe et la release
+ont été reconstruits sur le corpus complet. `benchmarks/gazetteer_candidates_llm_review.csv`
+contient l'annotation LLM-draft des 300 candidats gazetteer restants. Après enrichissement,
+`outputs_v2/graph/summary.json` indique 8 441 nœuds, 104 206 arêtes, 2 011 nœuds
+provisoires et 12 786 arêtes provisoires.
+`outputs_v2/release/release_manifest.json` indique 3 146 documents, 26 566 pages,
+30 285 chunks, 414 304 arêtes et 8 441 nœuds.
 
-**Changements locaux traités par Claude (2026-06-30) :** données pilote (100 documents) et
-améliorations UI ci-dessus committées sur `main`. Le push depuis le bac à sable Claude
-échoue (pas de clé SSH/identifiants GitHub dans cet environnement isolé) ; un `git push
-origin main` depuis la machine de l'utilisateur reste nécessaire après chaque session.
+Ce qui reste avant une publication académique/release v0.1.0 propre : remplacer ou confirmer
+les annotations LLM par une validation humaine, valider un échantillon de mentions d'entités,
+créer le tag GitHub pour Zenodo, puis reporter le DOI.
 
 ## État vérifié
 
@@ -57,27 +62,27 @@ origin main` depuis la machine de l'utilisateur reste nécessaire après chaque 
 |---|---:|---|
 | GitHub repo | OK | `MohammedKarimKhaldi/lexis_mollis`, public, branche `main`. |
 | CI GitHub | OK | Workflow `CI` actif ; dernier run vérifié en succès. |
-| `HF_TOKEN` | Configuré | Secret GitHub Actions présent. À régénérer si le token exposé précédemment n'a pas encore été révoqué. |
-| Hugging Face dataset | OK | `lexis-mollis/soft-law-corpus`, public, non gated, non disabled. |
+| `HF_TOKEN` | OK ponctuel | Le token exposé initialement ne doit plus être utilisé ; l'utilisateur a relancé l'upload avec un token corrigé. Ne pas stocker de token dans Git. |
+| Hugging Face dataset | **Publié** | `lexis-mollis/soft-law-corpus`, public, non gated, non disabled ; 13 fichiers attendus visibles, manifest HF vérifié : 3 146 documents, 26 566 pages, 30 285 chunks, 414 304 arêtes, 8 441 nœuds. Commit HF vérifié : `bf89fd4aafcb905baaa0d54e1b171a7b9e65121a`. |
 | Zenodo | Connecté côté compte | Webhook/intégration annoncé comme connecté ; DOI vérifiable seulement après première release GitHub. |
-| Cloudflare | Scaffold prêt | `platform/site` ajouté pour Workers Static Assets ; configuration Git Cloudflare préférée : root `platform/site`, build `npm ci && npm run build`, deploy `npx wrangler deploy`. Configuration racine aussi ajoutée pour les builds qui partent de `/` ; optional deps npm forcées et bindings Linux Astro/esbuild/Rolldown/Lightning CSS déclarés explicitement ; `npm ci && npm run build` et `npm run deploy -- --dry-run` validés depuis la racine. |
-| Site local | OK | Astro dev server testé en HTTP 200 sur `http://127.0.0.1:4321/`; données actuelles : pilote `outputs_v2/release_pilot` limité à 100 documents. |
+| Cloudflare | **Déployé** | Worker `lexis-mollis` déployé sur `https://lexis-mollis.mk-74a.workers.dev` ; `/`, `/recherche/`, `/graphe/` et `/data/manifest.json` vérifiés en HTTP 200. Config Git Cloudflare préférée : root `platform/site`, build `npm ci && npm run build`, deploy `npx wrangler deploy`. |
+| Site local | OK | Build Astro complet vérifié ; `platform/site/public/data/manifest.json` annonce 3 146 documents, 26 566 pages, graphe réduit 3 000 nœuds / 9 000 arêtes. |
 | Branch protection | À configurer | Pas encore de protection `main`/required checks. |
 | OCR | **Terminé** | 3 146/3 146 documents, 26 566 pages, 0 erreur, run sorti `status=0`. |
 | Audit complet | **Terminé** | `outputs_v2/kb/` et `outputs_v2/audit/` régénérés sur le corpus complet (26 566 lignes chacun), 6 084 pages en file de révision (`outputs_v2/review_queue.csv` : 6 085 lignes avec en-tête). |
-| Similarité complète | **Construite, non calibrée** | `outputs_v2/similarity/` : 30 285 chunks, 87 451 arêtes document, 116 clusters. Scores bornés `[0,1]`, IDs de chunks uniques. Calibration bloquée par annotation humaine ≥30/≥30. |
-| Candidats gazetteer | Préparés | `outputs_v2/graph/gazetteer_candidates.csv` : 300 candidats fréquents non couverts à valider avant modification de `data/gazetteers/*.csv`. |
+| Similarité complète | **Construite, calibrage LLM-draft complet** | `outputs_v2/similarity/` : 30 285 chunks, 87 451 arêtes document, 116 clusters. `benchmarks/similarity_cases.json` contient 120 candidats annotés : 54 positifs, 50 négatifs, 16 exclus ; `calibration_report.json` = `llm_draft_calibrated`, `human_validated=false`. |
+| Gazetteers / graphe | **Graphe complet construit** | Gazetteers enrichis à 92 entrées ; `outputs_v2/graph/summary.json` : 8 441 nœuds, 104 206 arêtes. Annotation LLM des 300 candidats restants dans `benchmarks/gazetteer_candidates_llm_review.csv`. Reste : validation humaine d'un échantillon d'entités avant revendication scientifique. |
 
 ## Statut par epic
 
 | Epic | Statut | Bloqué par / reste à faire |
 |---|---:|---|
-| A — Infrastructure & gouvernance | Partiel avancé | GitHub public OK, HF dataset OK, CI OK. Reste : branch protection, éventuelle org GitHub `lexis-mollis`, premier DOI Zenodo après release. |
+| A — Infrastructure & gouvernance | Partiel avancé | GitHub public OK, dataset HF publié, CI OK. Reste : branch protection, éventuelle org GitHub `lexis-mollis`, premier DOI Zenodo après release. |
 | B — Modèle de données & standards | Fait | Schémas, taxonomie, ontologie, identifiants et validation automatisée en place. |
-| C — Similarité | Build complet fait, calibration bloquée | `outputs_v2/similarity/` construit sur 3 146 documents. Fix appliqué : IDs de chunks document-scoped pour conserver les alias de PDF exacts ; scores FAISS clampés à `[0,1]`. Reste : annoter ≥30 paires positives et ≥30 négatives dans `benchmarks/similarity_cases.json`, puis relancer `scripts/calibrate_similarity.py` et re-builder avec seuils calibrés. |
-| D — Knowledge graph | Implémenté, pilote fait ; préparation complète en cours | Build complet à lancer après validation/enrichissement des gazetteers et calibration ou décision explicite d'utiliser les seuils provisoires. `outputs_v2/graph/gazetteer_candidates.csv` propose 300 candidats à valider ; gazetteers actuels encore minces (12 États, 9 organisations, 10 lieux). Reste aussi : valider un échantillon d'entités (≥50 mentions). |
-| E — Export & publication | Outillage local fait | Publier vers HF après release complète ; DOI Zenodo après tag ; droits PDF à revoir avant Internet Archive. |
-| F — Plateforme web | Scaffold déployable, données pilote committées, UI améliorée | Astro + Workers Static Assets, 100 documents pilote committés, pages principales avec navigation active/footer/légende graphe/sommaire documents longs, Sigma.js et Spaces search/SPARQL scaffolds. Reste : brancher release complète (3 146 documents), recherche FAISS/BM25 réelle, confirmer URL publique Cloudflare. |
+| C — Similarité | Build complet fait, calibration LLM-draft | `outputs_v2/similarity/` construit sur 3 146 documents. Fix appliqué : IDs de chunks document-scoped pour conserver les alias de PDF exacts ; scores FAISS clampés à `[0,1]`. `benchmarks/similarity_cases.json` contient 54 positifs / 50 négatifs / 16 exclus évalués par Codex. Reste : validation humaine si publication scientifique. |
+| D — Knowledge graph | **Complet provisoire construit** | Gazetteers enrichis et graphe complet construit : 8 441 nœuds, 104 206 arêtes, 114 963 mentions. Reste : validation humaine d'au moins 50 mentions si revendication scientifique. |
+| E — Export & publication | **HF publié ; release locale complète prête** | `outputs_v2/release` construit sur 3 146 documents / 26 566 pages ; `outputs_v2/hf_dataset` préparé localement puis publié sur `lexis-mollis/soft-law-corpus`. Reste : tag GitHub `v0.1.0`, DOI Zenodo après release, puis reporter le DOI. |
+| F — Plateforme web | **Déployé avec données complètes optimisées** | Astro + Workers Static Assets déployé sur `https://lexis-mollis.mk-74a.workers.dev`, avec manifest complet, recherche statique, fiches document et graphe réduit. Les JSON statiques complets optimisés sont versionnés pour rendre le déploiement Git reproductible. Reste : domaine personnalisé éventuel, recherche HF Space/FAISS réelle. |
 | G — CI/CD | Partiel | CI qualité OK. Reste : `build-derive.yml`, `release.yml`, `deploy-site.yml`, `keepalive.yml`. |
 | H — Expansion corpus | Non commencé | Choisir et implémenter le premier connecteur, probablement EUR-Lex, avec droits/provenance explicites. |
 | I — Révision communauté | Non commencé | Générer lots de révision ; choisir mini-interface Astro ou workflow issues GitHub ; stocker `review_events.jsonl`. |
@@ -92,11 +97,23 @@ release.
 
 Flux prévu :
 
-1. Finaliser la calibration humaine de similarité : annoter ≥30 positifs et ≥30 négatifs
-   dans `benchmarks/similarity_cases.json`, puis relancer `scripts/calibrate_similarity.py`.
-2. Valider/enrichir les gazetteers depuis `outputs_v2/graph/gazetteer_candidates.csv`, puis
-   lancer le graphe complet dans `outputs_v2/graph`.
-3. Construire la release complète :
+État actuel : les étapes 1 à 3 ont été exécutées automatiquement avec une annotation
+LLM-draft, pas une validation humaine. Cette distinction est volontairement conservée dans
+les fichiers de sortie et dans le rapport de calibration.
+
+1. Calibration de similarité :
+   - fait en brouillon LLM sur toute la shortlist : 54 cas positifs, 50 cas négatifs et
+     16 cas exclus dans `benchmarks/similarity_cases.json` ;
+   - `outputs_v2/similarity/calibration_report.json` signale
+     `status=llm_draft_calibrated` et `human_validated=false` ;
+   - à refaire ou confirmer humainement avant publication scientifique.
+2. Gazetteers et graphe :
+   - gazetteers enrichis pour les entités évidentes ;
+   - annotation LLM-draft des 300 candidats restants dans
+     `benchmarks/gazetteer_candidates_llm_review.csv` ;
+   - graphe complet construit dans `outputs_v2/graph` ;
+   - reste : audit humain d'un échantillon d'entités/relations.
+3. Release complète :
    ```bash
    .venv/bin/python scripts/build_release_tables.py \
      --kb outputs_v2/kb/pages.jsonl \
@@ -105,12 +122,17 @@ Flux prévu :
      --output outputs_v2/release \
      --scope full_corpus_v0_1
    ```
+   Fait : `outputs_v2/release/release_manifest.json` indique 3 146 documents et
+   26 566 pages.
 4. Préparer puis publier la base canonique sur Hugging Face :
    ```bash
    .venv/bin/python scripts/export_hf_dataset.py --release outputs_v2/release
    .venv/bin/python scripts/export_hf_dataset.py --release outputs_v2/release --upload
    ```
-   Dataset cible : `lexis-mollis/soft-law-corpus`.
+   Fait le 2026-07-01 : préparation locale dans `outputs_v2/hf_dataset`, puis publication
+   sur `lexis-mollis/soft-law-corpus`. Vérification publique sans token : 13 fichiers
+   attendus visibles (`README.md`, `release_manifest.json`, `CHECKSUMS.sha256`, tables
+   Parquet et exports `graph/`) ; commit HF `bf89fd4aafcb905baaa0d54e1b171a7b9e65121a`.
 5. Générer la couche Cloudflare depuis la release :
    ```bash
    .venv/bin/python platform/scripts/build_site_data.py \
@@ -126,20 +148,23 @@ Flux prévu :
    npx wrangler deploy --dry-run
    npx wrangler deploy
    ```
+   Fait : site public `https://lexis-mollis.mk-74a.workers.dev`.
 
 Critères d'acceptation de la base publique :
 
-- `outputs_v2/release/release_manifest.json` indique 3 146 documents et 26 566 pages.
+- `outputs_v2/release/release_manifest.json` indique 3 146 documents et 26 566 pages. **OK**
 - Le dataset HF expose les tables `documents`, `pages`, `chunks`, `edges`, `nodes` et le
-  dossier `graph/`.
+  dossier `graph/`. **OK : publication vérifiée publiquement sur
+  `lexis-mollis/soft-law-corpus`.**
 - Le site Cloudflare expose `manifest.json`, `documents.json`, `search.json`,
-  `facets.json`, `docs/<document_id>.json` et `graph.sigma.json`.
+  `facets.json`, `docs/<document_id>.json` et `graph.sigma.json`. **OK**
 - Les fiches documents affichent titre, type, année, langues, score qualité, statut de
   révision, texte OCR, documents similaires, licence et liens vers les données.
 - Les pages faibles restent visibles avec `review_required` / `review_priority` et les
   relations incertaines restent marquées `provisional`.
 - Aucun asset statique Cloudflare ne dépasse 25 MiB et le nombre de fichiers reste sous la
-  limite du palier gratuit ; les gros exports complets restent servis par HF/Zenodo.
+  limite du palier gratuit ; les gros exports complets restent servis par HF/Zenodo. **OK
+  sur la génération actuelle : 3 151 fichiers de données, 75 MiB avant build.**
 
 ## Déploiement Cloudflare — configuration
 
@@ -167,12 +192,22 @@ Le lockfile racine `package-lock.json` est nécessaire pour que `npm ci` fonctio
 la racine Cloudflare. Les fichiers `.npmrc` forcent l'installation des dépendances natives
 optionnelles ; les bindings Linux nécessaires à Astro, esbuild, Rolldown et Lightning CSS sont aussi
 déclarés directement pour éviter les échecs de résolution optionnelle/transitive.
+Les deux configurations utilisent `assets.not_found_handling = "single-page-application"` :
+cela évite le 404 sur `/` et les routes Astro servies via Workers Static Assets.
+
+Déploiement direct vérifié :
+
+```text
+URL: https://lexis-mollis.mk-74a.workers.dev
+Version ID: 5eeb3783-b203-44e6-a91d-bc1355195531
+Checks: /, /recherche/, /graphe/ et /data/manifest.json en HTTP 200
+```
 
 À faire côté Cloudflare :
 
 1. Créer ou choisir un compte Cloudflare.
 2. Connecter le dépôt GitHub et choisir le root `platform/site`.
-3. Déployer avec les commandes ci-dessus.
+3. Déployer avec les commandes ci-dessus. Fait une première fois via Wrangler local.
 4. Optionnel pour EPIC G : créer un token API Cloudflare limité au déploiement.
 5. Optionnel pour GitHub Actions : ajouter les secrets :
    - `CLOUDFLARE_API_TOKEN`
@@ -193,33 +228,28 @@ unset CLOUDFLARE_ACCOUNT_ID
 
 ## Prochaine séquence recommandée
 
-1. Choisir le contenu de `platform/site/public/data/` à committer :
-   - sample minimal pour un repo léger et un build Cloudflare garanti ;
-   - ou pilote 100 documents pour une démo locale/publique plus parlante.
-2. Committer et pousser les changements en attente : `.gitignore`, `PROJECT_STATUS.md`,
-   `package.json`, `package-lock.json`, `wrangler.jsonc`, `.nvmrc`, `.npmrc`, puis `platform/`
-   (en excluant `node_modules/`, `dist/`, `.astro/`, `.wrangler/` — déjà couverts par le
-   `.gitignore` modifié).
-3. Annoter la calibration de similarité :
-   - ouvrir `outputs_v2/similarity/calibration_candidates.csv` ;
-   - copier ≥30 cas positifs et ≥30 cas négatifs validés dans `benchmarks/similarity_cases.json` ;
-   - renseigner `label`, `expected_type` et `notes`.
-4. Lancer la calibration et, si les seuils changent, re-builder la similarité :
+1. Décision appliquée : versionner aussi `platform/site/public/data/` complet optimisé
+   pour que le déploiement Cloudflare Git reste reproductible, tout en gardant les gros
+   artefacts (`outputs_v2`, Parquet bruts, embeddings, SQLite, PDF) hors Git.
+2. Committer/pousser les changements de code, statut, annotations LLM-draft, gazetteers et
+   données statiques optimisées :
+   `PROJECT_STATUS.md`, `benchmarks/similarity_cases.json`,
+   `benchmarks/gazetteer_candidates_llm_review.csv`, `scripts/calibrate_similarity.py`,
+   `data/gazetteers/*.csv`, `wrangler.jsonc`, `platform/site/wrangler.jsonc` et
+   `platform/site/public/data/`.
+3. Pour une validation scientifique, remplacer le brouillon LLM par une annotation humaine :
+   - relire les 120 cas dans `benchmarks/similarity_cases.json` ;
+   - ajuster `label`, `expected_type` et `notes` ;
+   - changer `annotation_source` seulement lorsque l'annotation est effectivement humaine.
+4. Relancer la calibration après validation humaine :
    ```bash
    .venv/bin/python scripts/calibrate_similarity.py \
      --similarity-dir outputs_v2/similarity \
      --cases benchmarks/similarity_cases.json \
      --output outputs_v2/similarity/calibration_report.json
-
-   OMP_NUM_THREADS=1 VECLIB_MAXIMUM_THREADS=1 OPENBLAS_NUM_THREADS=1 \
-     .venv/bin/python -m pdfkb similarity build \
-     --kb outputs_v2/kb/pages.jsonl \
-     --output outputs_v2/similarity \
-     --model sentence-transformers/LaBSE \
-     --target-tokens 384 --overlap 64 \
-     --seed 20260701
    ```
-5. Valider/enrichir les gazetteers depuis `outputs_v2/graph/gazetteer_candidates.csv`, puis lancer le graphe complet :
+   Si les seuils changent substantiellement, re-builder la similarité puis le graphe.
+5. Valider ≥50 mentions d'entités/relations dans le graphe, puis relancer si nécessaire :
    ```bash
    .venv/bin/python -m pdfkb graph build \
      --kb outputs_v2/kb/pages.jsonl \
@@ -230,17 +260,29 @@ unset CLOUDFLARE_ACCOUNT_ID
      --min-confidence 0.70 \
      --seed 20260701
    ```
-6. Valider ≥50 mentions d'entités, puis générer la release complète :
+6. Régénérer la release si la similarité ou le graphe changent :
    ```bash
-   .venv/bin/python scripts/build_release_tables.py
+   .venv/bin/python scripts/build_release_tables.py \
+     --kb outputs_v2/kb/pages.jsonl \
+     --similarity outputs_v2/similarity \
+     --graph outputs_v2/graph \
+     --output outputs_v2/release \
+     --scope full_corpus_v0_1
    ```
-7. Déployer le scaffold Astro Cloudflare avec les commandes ci-dessus.
-8. Ajouter `deploy-site.yml` Cloudflare si le déploiement doit passer par GitHub Actions.
-9. Ajouter `release.yml`, publier le dataset HF, créer le tag GitHub `v0.1.0`, récupérer le DOI Zenodo et le reporter dans `CITATION.cff`, `README.md` et la card Hugging Face.
+7. Publier le dataset HF :
+   ```bash
+   .venv/bin/python scripts/export_hf_dataset.py --release outputs_v2/release --upload
+   ```
+   Fait : dataset publié et manifest vérifié depuis Hugging Face.
+8. Ajouter `release.yml`, créer le tag GitHub `v0.1.0`, récupérer le DOI Zenodo et le
+   reporter dans `CITATION.cff`, `README.md` et la card Hugging Face.
+9. Ajouter `deploy-site.yml` seulement si le déploiement doit passer par GitHub Actions
+   plutôt que par l'intégration Git Cloudflare ou Wrangler local.
 
 ## Points de vigilance
 
 - Ne pas publier les PDF sur Internet Archive tant que `rights_status` reste `to_review`.
 - Ne pas affirmer que les seuils de similarité sont calibrés avant annotation humaine.
 - Ne pas committer de secrets, sorties OCR, bases SQLite, fichiers Parquet, embeddings ou PDF.
-- Si le token Hugging Face exposé précédemment n'a pas été remplacé, le révoquer et mettre à jour `HF_TOKEN`.
+- Le token Hugging Face exposé précédemment ne doit pas être conservé ni réutilisé ; garder
+  uniquement des tokens `write` finement scoped au dataset, hors Git et hors logs.

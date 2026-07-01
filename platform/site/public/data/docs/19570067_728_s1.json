@@ -1,0 +1,116 @@
+{
+  "document_id": "19570067_728_s1",
+  "title": "Procès-verbal de dépôt de l'instrument d'adhésion de la Roumanie",
+  "year": 1957,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9812,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DES INSTRUMENTS D'ADHESION DE LA ROUMANIE A LA CONVENTION INSTITUANT UNE COMMISSION SERICICOLE INTERNATIONALE SIGNEE A PARIS IE 1er JUILLET 1957 Monsieur le Docteur Mircea BALANESCO, Envoré Extraordinaire et Ministre Plénipotentiaire de Roumanie, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Ludovic CHANCEL, Ministre Plénipotentiaire, Chef du Proto…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_728_s1.pdf",
+  "source_filename": "19570067_728_s1.pdf",
+  "source_sha256": "f610ca183337ea712a19c87142daa248b57990c71ef6773d39df6737fd860f77",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "ROU003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nDE DEPOT DES INSTRUMENTS D'ADHESION DE LA ROUMANIE\n\nA LA CONVENTION INSTITUANT UNE COMMISSION SERICICOLE INTERNATIONALE\n\nSIGNEE A PARIS IE 1er JUILLET 1957\n\nMonsieur le Docteur Mircea BALANESCO,\n\nEnvoré Extraordinaire et Ministre Plénipotentiaire de\n\nRoumanie, s'est présenté aujourd'hui au Ministère des\n\nAffaires Etrangères pour procéder avec Monsieur Ludovic\n\nCHANCEL, Ministre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépôt des instruments d'adhésion de la Rounanie à la Convention instituant une Commission Séricicole\n\nInternationale, signée à Paris le ler Juillet 1957 ex exécution de l'article 25, alinéa 2, de Ladite\n\nConvention.\n\nIos instruments ayant été, après examen, trouvés en bonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République\n\nFrançaise.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent Procès-Verbal, qu'ils ont revêtu de leur sceau.\n\nFAII A PARIS, en double exemplaire, 1o 3 aVril 1959\n\n1. Phance\n\nl'aplanse",
+      "quality_score": 0.9812,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_978_s1",
+      "title": "Procès-verbal de dépôt de l'instrument yougoslave",
+      "score": 0.797808,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_403_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Inde",
+      "score": 0.78062,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.662157,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.656525,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.624992,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_024_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Belgique",
+      "score": 0.621136,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_67_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Monaco",
+      "score": 0.612,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.600359,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_438",
+      "title": "Pouvoirs français",
+      "score": 0.414376,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_49_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification luxembourgeois",
+      "score": 0.409168,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

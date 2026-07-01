@@ -44,5 +44,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_43_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Pérou",
+      "score": 0.426353,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_15_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.418107,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_32_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de l'Italie",
+      "score": 0.415453,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_10_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.414747,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_22_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.411432,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_69_s1",
+      "title": "Procès verbal d'échange des ratifications",
+      "score": 0.409555,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_35_s1",
+      "title": "Dépôt de l'instrument de ratification",
+      "score": 0.404558,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_53_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Russie",
+      "score": 0.381784,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_20_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.37747,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.369728,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

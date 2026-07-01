@@ -1,0 +1,92 @@
+{
+  "document_id": "tra19130002_005_s1",
+  "title": "Instrument turc (notification)",
+  "year": 1913,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8044,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "81311ME ORTE Ainistère des Affaires Etrangères CABINET DU MINISTRE Х. д LeSh Quil 1914 LE 2 5 AV ٣٠٠٣ - 120~ Monsieur l'Ambassadeur, 1 konucur d'üforce Vote вода дие 1 асой я в сотрчемі D'arbitrage que j'avais legues avce elle à Constanteople ansi que 1 accoro Deviral franco ture, les accords annes des parti et des cheims de fer et le farototole de elitire (de là 9) qui out ité parafés à Tario par Leura bacellum lou…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19130002_005_s1.pdf",
+  "source_filename": "tra19130002_005_s1.pdf",
+  "source_sha256": "3417e487080a148a762c2676d0fc1d643cb5b5cdd705741b2fc869c7d050b305",
+  "treaty_id": "TRA19130002",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "81311ME\n\nORTE\n\nAinistère des Affaires Etrangères\n\nCABINET DU MINISTRE\n\nХ. д\n\nLeSh Quil 1914\n\nLE 2 5 AV\n\n٣٠٠٣\n\n- 120~\n\nMonsieur l'Ambassadeur, 1 konucur d'üforce Vote вода дие 1 асой я в сотрчемі\n\nD'arbitrage que j'avais legues avce elle à Constanteople ansi que 1 accoro\n\nDeviral franco ture, les accords annes des parti et des cheims de fer et le farototole de elitire (de là 9) qui out ité parafés à\n\nTario par Leura bacellum\n\nlousieur\n\nSomngue et Bfard Bey tout ratifies en date du 21 courant par la cous fru chom\n\nA l' exploitation des chemins de fer et des porto sont egalement ratifies\n\nTeillez agreer, Monsieur l'Ambannada, l'assurance de ma tir hante considératon\n\nJou breellence",
+      "quality_score": 0.8044,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19130015_005_s1",
+      "title": "Instrument turc (notification)",
+      "score": 0.999999,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19130016_005_s1",
+      "title": "Instrument turc (notification)",
+      "score": 0.999999,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16940003_001",
+      "title": "Textes de divers traités (1694-1820)",
+      "score": 0.355424,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760086_004a_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.354805,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760090_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.353635,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.351224,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

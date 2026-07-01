@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_016_s1",
+  "title": "Note verbale d'acceptation de l'amendement de 1982",
+  "year": 1982,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9454,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "EMBAJADA DE COSTA RICA DESPACHO DEL EMBAJADOR E.C.R.F. 014/83 MINISICRE DES RELATICHS EXTÉRIEURES HATIONS UNIES ET GRGANISATIONS INTERHATIDKZLES L'Ambassade de Costa Rica présente ses compli- ments au Ministère des Relations Extérieures, et a 1 'honneur de lui faire savoir que son Gouvernement accepte 1 'Amendement à l'Article V, para- graphe:: 2, du reglèment sur les expositions internationales, , Protocole de 1928…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_016_s1.pdf",
+  "source_filename": "19820018_016_s1.pdf",
+  "source_sha256": "07577b2a12c3543449d46a8ac1a3ad99a606531cf28d3261469d3a7779ee7f00",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "240",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "EMBAJADA DE COSTA RICA\n\nDESPACHO DEL EMBAJADOR\n\nE.C.R.F. 014/83\n\nMINISICRE DES RELATICHS EXTÉRIEURES\n\nHATIONS UNIES\n\nET GRGANISATIONS INTERHATIDKZLES\n\nL'Ambassade de Costa Rica présente ses compli-\n\nments au Ministère des Relations Extérieures, et a 1 'honneur de lui faire savoir que son Gouvernement accepte 1 'Amendement à l'Article V, para- graphe:: 2, du reglèment sur les expositions internationales, , Protocole de 1928, modifié la 30 novembre 1972.\n\nL'Ambassade de Costa Rica ne manquera pas de\n\ncommuniquer au Ministère des Relations Extérieures la date de ratification par l'Assemblée Legislative, de ce texte.\n\nsa très haute considération.\n\nParis, le 9 Juin 1983.\n\nMINISTERE DES RELATIONS EXTERIEURES\n\n37, quai d'Orsay 75007 PARIS",
+      "quality_score": 0.9454,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_007_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.417828,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_033_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.406179,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv003_s1",
+      "title": "Note verbale de dénonciation du protocole de 1972",
+      "score": 0.404977,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.403909,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_037_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.403383,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.398638,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_046_s1",
+      "title": "Note verbale d'adhésion du Salvador",
+      "score": 0.396675,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_049_s1",
+      "title": "Note verbale d'acceptation de la Tunisie",
+      "score": 0.395497,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "colombie_docs_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.395313,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv006_s1",
+      "title": "Instrument d'adhésion du Salvador",
+      "score": 0.394935,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

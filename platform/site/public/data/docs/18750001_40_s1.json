@@ -41,5 +41,62 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19570067_186_s1",
+      "title": "Instrument d'adhésion du Centrafrique",
+      "score": 0.368341,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760120_003",
+      "title": "Pouvoirs irakiens",
+      "score": 0.364038,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_005_s1",
+      "title": "Ratification siamoise",
+      "score": 0.357079,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_003_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.355646,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_brn001_s1",
+      "title": "Instrument  d'adhésion",
+      "score": 0.354905,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800128_003_s1",
+      "title": "Pouvoirs sri-lankais",
+      "score": 0.351089,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_28_s1",
+      "title": "Instrument d'adhésion israélien",
+      "score": 0.350806,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.350345,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

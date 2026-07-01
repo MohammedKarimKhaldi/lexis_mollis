@@ -41,5 +41,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.415253,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.400083,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.399531,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.392784,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740038_004",
+      "title": "Instrument français",
+      "score": 0.392135,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.389804,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.389205,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_61_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.388486,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_08_s1",
+      "title": "Note verbale d'adhésion au protocole de 1948 de l'Autriche",
+      "score": 0.388024,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740039_004",
+      "title": "Instrument français",
+      "score": 0.387283,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

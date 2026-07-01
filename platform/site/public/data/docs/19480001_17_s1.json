@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_17_s1",
+  "title": "Pouvoirs de notification de l'adhésion de la Finlande",
+  "year": 1948,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9628,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JUHO KUSTI PA AS I KI VI, Président de la République de Finlande, fait savoir: Lá Finlande ayant été Invitée à adhérer au Proto- cole en date du 10 Mal 1948 portant modification de la Convention signée à Paris, le 22 Novembre 1928, concernant les Expositions Internationales, j'autorise par la présente Monsieur Johan He 10, Envoyé Extraordinaire et Ministre Plénipotentiaire de Finlande à Paris, a notifier, sous ré- s…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_17_s1.pdf",
+  "source_filename": "19480001_17_s1.pdf",
+  "source_sha256": "a8d42487f1f3897e16a07cc4a81e20afb5f39e62d09df92c199f8af0eeeb343d",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "FIN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JUHO KUSTI PA AS I KI VI,\n\nPrésident de la République de Finlande, fait savoir:\n\nLá Finlande ayant été Invitée à adhérer\n\nau Proto-\n\ncole en date du 10 Mal 1948 portant modification\n\nde la\n\nConvention signée à Paris, le 22 Novembre 1928, concernant les Expositions Internationales, j'autorise par la présente\n\nMonsieur\n\nJohan He 10, Envoyé Extraordinaire et Ministre\n\nPlénipotentiaire de\n\nFinlande à Paris, a notifier, sous ré-\n\nserve de ratification, l'adhésion de la Finlande audit Pro- tocole.\n\nmain et\n\nEn foi de quoi, j'ai yai fait\n\napposer, /mon\n\nHelsink1, 1e\n\nplein-pouvolt de ma sceau.\n\nfilles",
+      "quality_score": 0.9628,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_19_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.721973,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_15_s1",
+      "title": "Pouvoirs de la Finlande",
+      "score": 0.505735,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_45_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.398587,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_21_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.39662,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_08_s1",
+      "title": "Note verbale d'adhésion au protocole de 1948 de l'Autriche",
+      "score": 0.394653,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.393686,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.393533,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.388736,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.38652,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_12_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.386268,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

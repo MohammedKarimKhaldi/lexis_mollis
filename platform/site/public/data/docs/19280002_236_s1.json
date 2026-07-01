@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_236_s1",
+  "title": "Instrument d'adhésion du Vanuatu",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9716,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 236 REPUBLIC OF VANUATU INSTRUMENT OF ACCESSION WHEREAS the Convention relating to International Exhibitions was done at Paris on 22 November 1928: WHEREAS the Convention was amended and supplemented by the Protocols of 10 May 1948, 16 November 1966, 30 November 1972, the Amendments of 24 June 1982 and 31 May 1988: AND WHEREAS Article 3 of the 1972 Protocol provides to the effect that the Protocol shall rem…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_236_s1.pdf",
+  "source_filename": "19280002_236_s1.pdf",
+  "source_sha256": "9b2d2261a1655e88c9d38f4cd95cb9bc42c2b8b2b78df806354db0dd9311604a",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "VUT001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 236",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "REPUBLIC OF VANUATU\n\nINSTRUMENT OF ACCESSION\n\nWHEREAS the Convention relating to International Exhibitions was done at Paris on 22\n\nNovember 1928:\n\nWHEREAS the Convention was amended and supplemented by the Protocols of 10 May 1948, 16 November 1966, 30 November 1972, the Amendments of 24 June 1982 and 31\n\nMay 1988:\n\nAND WHEREAS Article 3 of the 1972 Protocol provides to the effect that the Protocol shall remain open for accession by Governments Parties to the 1928 Convention after 29\n\nNovember 1973:\n\nNOW THEREFORE, the Government of the Republic of Vanuatu hereby accedes to the 1928 Convention and the 1972 Protocol, including the Amendments of 24 June 1982 and 31 May 1988, and undertakes faithfully and carry out all the provisions therein contained.\n\nIN WITNESS WHEREOF, 1, George Andre Wells, Minister of Foreign Affairs, have signed the present Instrument of Accession and caused the Seal of the Ministry of\n\nForeign Affairs of the Republic of Vanuatu to be hereunto affixed.\n\nDone at Port Vila, Vanuatu, on the 19\" day of October in the year of two thousand and seven.\n\nGeorge Andre WELLS =\n\nMinister of Foreign Affairs\n\nRepublic of Vanuatu",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_232_s1",
+      "title": "Pouvoirs",
+      "score": 0.870502,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_231_s1",
+      "title": "Instrument de ratification",
+      "score": 0.860353,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_235_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification soviétique",
+      "score": 0.855074,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.849795,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_234_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.846107,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.833868,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.829759,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_230_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.818321,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mhl001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.807196,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_70_s1",
+      "title": "Instrument d'adhésion des Fidji",
+      "score": 0.799495,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

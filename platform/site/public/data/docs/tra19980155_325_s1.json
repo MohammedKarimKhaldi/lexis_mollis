@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19980155_325_s1",
+  "title": "Pouvoirs italiens (s.d.)",
+  "year": 1998,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9653,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "N° 156/98 République Française POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à : Monsieur Alain RICHARD, Ministre de la Défense, pour signer une Convention portant création de l'Organisation Conjointe de Coopération en matière d'Armement (O.C.C.A.R.)./. FAIT A PARIS, LE 8 Septembre 1998 Le Ministre des Affaires Etrangères",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19980155_325_s1.pdf",
+  "source_filename": "tra19980155_325_s1.pdf",
+  "source_sha256": "3279eb078cb72f4c67962c694778b1ae7b41187601f7e14e503ccaacd44c749a",
+  "treaty_id": "TRA19980155",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "N° 156/98\n\nRépublique Française\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre des\n\nAffaires Etrangères, donnons POUVOIRS par ces présentes à :\n\nMonsieur Alain RICHARD, Ministre de la Défense, pour signer une Convention portant création de l'Organisation Conjointe de\n\nCoopération en matière d'Armement (O.C.C.A.R.)./.\n\nFAIT A PARIS, LE 8 Septembre 1998\n\nLe Ministre des Affaires Etrangères",
+      "quality_score": 0.9653,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990206_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.64125,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990082_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.586288,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_325_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.42499,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_002_s1",
+      "title": "Pouvoir français",
+      "score": 0.407311,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.394083,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.381495,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070073_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.381223,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900276_002",
+      "title": "Pouvoirs français",
+      "score": 0.38059,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.380147,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182469_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.376945,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

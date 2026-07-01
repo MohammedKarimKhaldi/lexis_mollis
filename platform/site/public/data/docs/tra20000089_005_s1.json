@@ -1,0 +1,175 @@
+{
+  "document_id": "tra20000089_005_s1",
+  "title": "Instrument de ratification",
+  "year": 2000,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "ca",
+    "en",
+    "fr",
+    "so"
+  ],
+  "quality_score": 0.6132,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "anaa e i panii y Jacques Chirac Joan Martí Alanis Coprínceps d'Andorra ATÈS que, en data 12 de setembre del 2000, el cap de Govern del Principat d'Andorra va signar el Tractat entre el Principat d'Andorra i la República Francesa que rectifica la frontera; ATÈS que, d'acord amb el que disposa l'article 64.1 de la Constitució del Principat d'Andorra, el Consell General, en la seva sessió del 9 de novembre del 2000, ha…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20000089_005_s1.pdf",
+  "source_filename": "tra20000089_005_s1.pdf",
+  "source_sha256": "32f7a8bf2b4e65772fe9e2779763aaf660bac8a055b1b1de20bd35d78dbfd652",
+  "treaty_id": "TRA20000089",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "anaa e i panii y",
+      "quality_score": 0.5276,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Jacques Chirac\n\nJoan Martí Alanis\n\nCoprínceps d'Andorra\n\nATÈS que, en data 12 de setembre del 2000, el cap de Govern del Principat d'Andorra va signar el Tractat entre el Principat d'Andorra i la República Francesa que rectifica la frontera;\n\nATÈS que, d'acord amb el que disposa l'article 64.1 de la Constitució del Principat d'Andorra, el Consell General, en la seva sessió del 9 de novembre del 2000, ha aprovat la ratificació del Tractat entre el Principat d'Andorra i la República Francesa que rectifica la frontera;\n\nNosaltres, els coprínceps, després d'haver vist i examinat el Tractat esmentat, manifestem el consentiment de l'Estat per obligar-se d'acord amb el que s'hi disposa i amb aquest fi, manem expedir aquest instrument de ratificació, signat per nosaltres i contrasignat pel cap de Govern.\n\nAndorra la Vella, 7 de desembre del 2000\n\nEl cap de Govern\n\n.......i...",
+      "quality_score": 0.9987,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "n ē MM—_ ČŽ ļŇŘŘŇŘŘŮ— MML MM M ooo a M E\n\nKOGA RATETA.\n\n\"Sr iie, -e Giray\n\nTa Tien,\n\nL L\n\ni Tiis a",
+      "quality_score": 0.5468,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "en",
+        "ca",
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Govern d'Andorra\n\nMinisterl de Relacions Exteriors\n\nTraduction non-officielle\n\nJacques Chirac\n\nJoan Martí Alanis\n\nCoprinces d'Andorre\n\nATTENDU QUE, le 12 septembre 2000, le Chef du Gouvernement de la Principauté d'Andorre a signé le Traité entre la Principauté d'Andorre et la République Française portant rectification de la frontière ;\n\nATTENDU QUE, d'après ce que dispose l'article 64.1 de la Constitution de la\n\nPrincipauté d'Andorre, le Consell General, lors de sa session du 9 novembre 2000, a approuvé la ratification du Traité entre la Principauté d'Andorre et la République\n\nFrançaise portant rectification de la frontière ;\n\nNous, les Coprinces, ayant vu et examiné ledit Traité, manifestons le consentement de l'État pour s'obliger d'accord avec les dispositions qui y sont contenues et, à cet effet,\n\nNous ordonnons que soit expédié cet Instrument de ratification, signé par Nous et contresigné par le Chef du Gouvernement.\n\nAndorra la Vella, le 7 décembre 2000 (Jacques Chirac et Joan Martí Alanis)\n\nLe Chef du Gouvernement (Marc Forné Molné)",
+      "quality_score": 0.993,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19980155_296_s1",
+      "title": "Instrument d'adhésion espagnol (et traduction)",
+      "score": 0.391094,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990204_101_s1",
+      "title": "Traduction non officielle en français de la ratification libanaise",
+      "score": 0.369689,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240060_001b_s1",
+      "title": "Note en réponse",
+      "score": 0.36459,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.364121,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.361598,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000089_006_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.361361,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.359922,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_350_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919 [lieu et date seront renseignés après traduction]",
+      "score": 0.359687,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_031_s1",
+      "title": "Instrument de ratification allemand",
+      "score": 0.357756,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19550069_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.357074,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

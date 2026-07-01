@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_240_s1",
+  "title": "Note verbale d'adhésion du Vietnam",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9621,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 240 D.A.E.F. 11 AVR. 2003 ARRIVÉE dmhaههada de la République Socialiste du Vietnam en keou aloue rrancal8e 62, rue Boileau - 75016 PARIS Tel: 0144146400 - Fax: 0145243948 E N°: 72/CT/03 L'Ambassade de la République Socialiste du Vietnam en France présente ses compliments au Ministère des Affaires Etrangères de la République Française - Direction des Affaires économiques et financières - et a l'honneur de lu…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_240_s1.pdf",
+  "source_filename": "19280002_240_s1.pdf",
+  "source_sha256": "ae0013a049e71b509e30a4ac0e0e904a6173e27f1d90b46e4664c65c473d2519",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "VNM002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 240",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "D.A.E.F.\n\n11 AVR. 2003\n\nARRIVÉE\n\ndmhaههada de la République Socialiste du Vietnam en keou aloue rrancal8e 62, rue Boileau - 75016 PARIS\n\nTel: 0144146400 - Fax: 0145243948\n\nE\n\nN°: 72/CT/03\n\nL'Ambassade de la République Socialiste du Vietnam en France présente ses compliments au Ministère des Affaires Etrangères de la\n\nRépublique\n\nFrançaise\n\n- Direction des\n\nAffaires économiques et\n\nfinancières - et a l'honneur de lui faire parvenir ci - joint l'instrument d'adhésion de la République Socialiste du Vietnam à la Convention concernant les expositions internationales dont a\n\nFrance est\n\ndépositaire.\n\nL'Ambassade de la République Socialiste du Vietnam serait reconnaissante au Ministère des Affaires Etrangères de la République\n\nFrançaise - Direction des Affaires économiques et financières - de bien vouloir lui communiquer la date d'entrée en vigueur de la dite\n\nConvention pour le Vietnam.\n\nL'Ambassade de la République Socialiste du Vietnam saisit cette occasion pour renouveler au Ministère des Affaires Etrangères de la République Française - Direction des Affaires économiques et financières - les assurances de sa haute considération\n\nParis, le 11 avril 2003\n\nMCN VIET\n\nMinistère des Affaires Etrangères\n\n- Direction des Affaires économiques et financières",
+      "quality_score": 0.981,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_242_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.82893,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_214_s1",
+      "title": "Note verbale de dénonciation",
+      "score": 0.744255,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_210_s1",
+      "title": "Instrument d'adhésion de la Syrie",
+      "score": 0.739701,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_232_s1",
+      "title": "Pouvoirs",
+      "score": 0.726087,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_218_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.72593,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_204_s1",
+      "title": "Instrument de ratification",
+      "score": 0.724999,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_212_s1",
+      "title": "Instrument d'adhésion de la Tanzanie",
+      "score": 0.723023,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_236_s1",
+      "title": "Instrument d'adhésion du Vanuatu",
+      "score": 0.720156,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.720063,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_208_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.716564,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

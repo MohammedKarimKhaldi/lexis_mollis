@@ -1,0 +1,116 @@
+{
+  "document_id": "19880095_019_s1",
+  "title": "Instrument d'acceptation de l'Espagne",
+  "year": 1988,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9022,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTÈRE DES AFFAIRES ÉTRANGÈRES DE FINLANDE No 11966 Ambassado basade de francs \"not 23-3-1989 Nº 30 Le Ministère des Affaires Etrangères présente ses compliments a l'Ambassade de France et se référant à la note verbale No amendement amendement itin camarat la Couvernoment de la considération. Helsinki, le 21 mars 1989. WAH ¡Ambassade de France Helsinki AF OZ 188200089L-21",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_019_s1.pdf",
+  "source_filename": "19880095_019_s1.pdf",
+  "source_sha256": "519784a200d4c05f87bbbf677b215931d763a4320361fe814f32e57c36ac5b34",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "ESP001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTÈRE DES AFFAIRES ÉTRANGÈRES\n\nDE FINLANDE\n\nNo 11966\n\nAmbassado basade de francs \"not 23-3-1989\n\nNº 30\n\nLe Ministère des Affaires Etrangères présente ses compliments a l'Ambassade de France et se référant à la note verbale No\n\namendement amendement itin camarat la Couvernoment de la\n\nconsidération.\n\nHelsinki, le 21 mars 1989.\n\nWAH\n\n¡Ambassade de France\n\nHelsinki\n\nAF OZ 188200089L-21",
+      "quality_score": 0.9022,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_016_s1",
+      "title": "Note verbale d'acceptation du Danemark",
+      "score": 0.387165,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.384736,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_029_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.378631,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.37537,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.369206,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.369029,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_094_s1",
+      "title": "Notification au MAE de la succession de la Slovaquie à la Tchécoslovaquie",
+      "score": 0.368687,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_39_s1",
+      "title": "accusé de réception par le Luxembourg de l'adhésion du Liban",
+      "score": 0.367611,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_006b_s1",
+      "title": "Note de transmission de la lettre de M. Al Nahyan et de l'instrument émirati",
+      "score": 0.364862,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_030_s1",
+      "title": "Note verbale d'acceptation du Maroc",
+      "score": 0.363961,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

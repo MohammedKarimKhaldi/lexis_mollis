@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19890235_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1989,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9554,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Française N°203/89 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre d'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à M. Olivier STIRN, Ministre délégué auprès du Ministre de 1' Industrie et de 1'Aménagement du Territoire, chargé du Tourisme pour signer entre le Gouvernement de la République française et 'Organisation Mondiale du Tourisme un échange de lettres…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19890235_002_s1.pdf",
+  "source_filename": "tra19890235_002_s1.pdf",
+  "source_sha256": "a377c5895bb9f80e0d123d9aefd4396461c2b22f44cda6a7a87496800fa12b92",
+  "treaty_id": "TRA19890235",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Française\n\nN°203/89\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS,\n\nMinistre d'Etat, Ministre des Affaires Etrangères, donnons\n\nPOUVOIRS par ces présentes à M. Olivier STIRN, Ministre délégué auprès du Ministre de 1' Industrie et de 1'Aménagement du Territoire, chargé du Tourisme\n\npour signer entre le Gouvernement de la République\n\nfrançaise et 'Organisation Mondiale du Tourisme un échange de lettres relatif à la tenue à paris de la Séme Assemblée générale de l'Organisation. /.\n\nFAIT à PARIS, le 14 aode 1989.\n\nLe Ministre d'Etat,\n\nMinistre des Affaires Etrangères\n\nRolli",
+      "quality_score": 0.9554,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.566477,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900276_002",
+      "title": "Pouvoirs français",
+      "score": 0.542744,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.409458,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960139_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.406297,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.405809,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.403324,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890267_002",
+      "title": "Pouvoirs français",
+      "score": 0.402277,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890169_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.397325,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.396605,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_010_s1",
+      "title": "Réponse du secrétaire général de l'Organisation mondiale du tourisme",
+      "score": 0.396589,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

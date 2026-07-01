@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_510",
+  "title": "Accusé de réception de l'adhésion liechtensteinoise",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9802,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTERE DES AFFAIRES ETRANGERES DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES Sous-Direction des Affaires Economiques NO NUOVE/ 2256 Rédacteur :Daniel Merkez 2:0143 174683 D: 01 43 17 55 58 République Française Paris, le 30 novembre 2007 Monsieur le Directeur Général, J'ai l'honneur de vous faire savoir que, par lettre en date du 25 octobre 2007 le Ministère des affaires étrangères de la Princip…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_510.pdf",
+  "source_filename": "tra19240002_510.pdf",
+  "source_sha256": "42c865b59fce2cc6b5dda71a79d1132dea550b4cce1799a3dd35435abe58dbc2",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "LIE003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTERE\n\nDES\n\nAFFAIRES ETRANGERES\n\nDIRECTION DES NATIONS UNIES\n\nET DES ORGANISATIONS\n\nINTERNATIONALES\n\nSous-Direction des Affaires Economiques\n\nNO NUOVE/ 2256\n\nRédacteur :Daniel Merkez 2:0143 174683\n\nD: 01 43 17 55 58\n\nRépublique Française\n\nParis, le 30 novembre 2007\n\nMonsieur le Directeur Général,\n\nJ'ai l'honneur de vous faire savoir que, par lettre en date du 25 octobre 2007 le\n\nMinistère des affaires étrangères de la Principauté du Liechtenstein a fait part au gouvernement français de l'intention de son gouvernement d'adhérer à l'arrangement\n\nInternational portant création de l'Office international des Epizooties signé à Paris le 25 janvier 1924.\n\nCette adhésion prendra effet le 1° janvier 2008.\n\nLa Principauté du Liechtenstein a choisi de s'inscrire dans la sixième catégorie des\n\nEtats membres prévue à l'article 11 des statuts organiques de l'Office.\n\nLes dispositions ont été prises pour la notification de cette adhésion aux Etats parties à cet Acte international.\n\nVeuillez agréer, Monsieur le Directeur Général, l'assurance de ma haute considération.\n\nLuc de WILLIENCOURT\n\nMonsieur Bernard VALLAT\n\nDirecteur Général de l'Office International des Epizooties.\n\n12, rue de Prony 75017 PARIS\n\nG:INUOIEIOIEILETSAO.DOC",
+      "quality_score": 0.9802,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_375",
+      "title": "Notification française à l'OIE",
+      "score": 0.767668,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_371",
+      "title": "Instrument d'adhésion",
+      "score": 0.739812,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_485",
+      "title": "Accusé de réception de l'instrument du Lesotho",
+      "score": 0.435365,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_vct002_s1",
+      "title": "Notification au BIE de l'adhésion de Saint-Vincent-et-les-Grenadines",
+      "score": 0.410538,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_300",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.409815,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_081",
+      "title": "Note verbale des autorités grecques accusant réception de la notification du dépôt de l'instrument de Bahreïn",
+      "score": 0.408566,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_131",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.406828,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "seychelles_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion des Seychelles",
+      "score": 0.403563,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_605",
+      "title": "Accusé de réception français de l'adhésion monténégrine",
+      "score": 0.402802,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_136",
+      "title": "Accusé de réception français de l'adhésion camerounaise",
+      "score": 0.401985,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

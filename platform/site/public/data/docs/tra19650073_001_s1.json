@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19650073_001_s1",
+  "title": "Accord (lettre française)",
+  "year": 1965,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9933,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "- •LE MINISTRE DES AFFAIRES ÉTRANGÈRES PARIS, Le 30 juillet 1965 Monsieur 1'Ambassadeur, En date âu 16 juillet 1965, vous avez bien voulu m'adresser la lettre dont la teneur suit : \"J'ai l'honneur de porter à la connaissance \"de Votre Excellence qu'en date du 28 mai 1965, un ai- \"rangement est intervenu entre les linistres des Finances, \"de la Justice et des Communications du Royaume de \"Belgique, d'une part, et les…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19650073_001_s1.pdf",
+  "source_filename": "tra19650073_001_s1.pdf",
+  "source_sha256": "a8191867df9179fbccc08dcee2eaf3d8aee517b2cd4314c8410c2af85033e32b",
+  "treaty_id": "TRA19650073",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "-\n\n•LE MINISTRE\n\nDES\n\nAFFAIRES ÉTRANGÈRES\n\nPARIS, Le 30 juillet 1965\n\nMonsieur 1'Ambassadeur,\n\nEn date âu 16 juillet 1965, vous avez bien\n\nvoulu m'adresser la lettre dont la teneur suit :\n\n\"J'ai l'honneur de porter à la connaissance\n\n\"de Votre Excellence qu'en date du 28 mai 1965, un ai- \"rangement est intervenu entre les linistres des Finances, \"de la Justice et des Communications du Royaume de \"Belgique, d'une part, et les ministres de l'Intérieur, \"des Finances et des Affaires Economiques, et des Travaux \"Publics et des Transports de la République Française \"d'autre part, en vertu de l'article lei, paragraphe 3, \"de la Convention du 30 mars 1962 entre le Royaume de \"Belgique et la République Française, relative aux con- \"trôles à la frontière franco-belge et aux gares communes \"et d'échange.\n\n\"Ie Gouvernement belge propose que cet arran-\n\n\"gement devienne effectif à partir du ler août 1965.\n\n\"Si Votre Excellence acceptait de marquer son\n\n\"accord sur l'arrangement en question, dont une copie \"est ci-jointe, la présente lettre et la réponse de Votre \"Excellence constitueraient la confirmation dudit\n\n...\n\nSon Excellence\n\nMonsieur le Baron JASPAR\n\nAmbassadeur de Belgique\n\nPARIS",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "2.\n\n\"arrangement, ainsi qu'il est prévu aux mêmes article et \"paragraphe de la Convention précitée\".\n\nJ'ai 1'honneur de vous faire savoir que ces\n\npropositions recueillent l'agrément du Gouvernement de la République Française./.\n\nVeuillez agréer, Monsieur l'Ambassadeur,\n\nl'assurance de ma haute considération.\n\n(signé) : COUVE de MURVILLE\n\nPour copie certifiée conforme\n\nà l'original\n\nAFFATRES\n\nSAUTONY",
+      "quality_score": 0.9866,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19650073_010_s1",
+      "title": "Accord : lettre belge (ensemble copie de l'arrangement)",
+      "score": 0.79326,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630043_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.389636,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640069_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.379431,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_001_s1",
+      "title": "Accord (ensemble un échange de lettres)",
+      "score": 0.377335,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910044_001",
+      "title": "Lettre française",
+      "score": 0.371257,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840091_010",
+      "title": "Réponse française",
+      "score": 0.368812,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690027_001a_s1",
+      "title": "Lettre (ensemble la convention entre l'organisation de télévision de la République arabe unie et l'office de radiodiffusion-télévision française)",
+      "score": 0.367749,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19650143_001_s1",
+      "title": "Arrangement",
+      "score": 0.357638,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230149_001a_s1",
+      "title": "Lettre",
+      "score": 0.356484,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_17_s1",
+      "title": "Note verbale d'envoi de l'instrument de ratification brésilien",
+      "score": 0.356386,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

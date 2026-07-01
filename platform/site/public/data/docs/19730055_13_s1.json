@@ -1,0 +1,82 @@
+{
+  "document_id": "19730055_13_s1",
+  "title": "Instrument de ratification des Pays-Bas",
+  "year": 1973,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Nous JULIANA, PAR LA GRÂCE DE DIEU REINE DES PAYS-BAS, PRINCESSE D'ORANGE-NASSAU, ETC., ETC., ETC. A TOUS CEUX QUI LES PRÉSENTES VERRONT, SALUT! AYANT VU ET EXAMINE L'ARRANGEMENT ENTRE CERTAINS ETATS MEMBRES DE L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES ET L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES CONCERNANT L'EXECUTION D'UN PROGRAMME DE SATELLITE MARITIME CONCLU A NEUILLY-SUR-SEINE, LE 21 SEPTEMBRE 1…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19730055_13_s1.pdf",
+  "source_filename": "19730055_13_s1.pdf",
+  "source_sha256": "9e1022683992bba5d556c7b77d634cdf8d64459a4afddde23874a7f34e2e6ce4",
+  "treaty_id": "TRA19730055",
+  "treaty_number": "NLD002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nous JULIANA,\n\nPAR LA GRÂCE DE DIEU\n\nREINE DES PAYS-BAS,\n\nPRINCESSE D'ORANGE-NASSAU,\n\nETC., ETC., ETC.\n\nA TOUS CEUX QUI LES PRÉSENTES\n\nVERRONT, SALUT!\n\nAYANT VU ET EXAMINE L'ARRANGEMENT ENTRE CERTAINS\n\nETATS MEMBRES DE L'ORGANISATION EUROPEENNE DE\n\nRECHERCHES SPATIALES ET L'ORGANISATION EUROPEENNE\n\nDE RECHERCHES SPATIALES CONCERNANT L'EXECUTION\n\nD'UN PROGRAMME DE SATELLITE MARITIME CONCLU A\n\nNEUILLY-SUR-SEINE, LE 21 SEPTEMBRE 1973 ET DONT\n\nL'ORIGINAL EST DEPOSE DANS LES ARCHIVES DU\n\nGOUVERNEMENT DE LA REPUBLIQUE FRANÇAISE;",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "APPROUVONS PAR LES PRESENTES LEDIT ARRANGEMENT,\n\nDECLARONS QUE LE ROYAUME DES PAYS-BAS Y ACCEDE EN\n\nVERTU DE SON ARTICLE 12, PARAGRAPHE 5, POUR LE\n\nROYAUME EN EUROPE ET PROMETTONS QU'IL SERA\n\nINVIOLABLEMENT OBSERVE.\n\nEN FOI DE QUOI NOUS AVONS DONNE LES PRESENTES,\n\nSIGNEES DE NOTRE MAIN ET Y AVONS FAIT APPOSER\n\nNOTRE SCEAU ROYAL.\n\nSOESTDIJK, LE 27 NOVEMBRE 1978",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de",
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19730055_04_s1",
+      "title": "Instrument de ratification belge",
+      "score": 0.367887,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_03_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.359465,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification des Pays-Bas",
+      "score": 0.350399,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

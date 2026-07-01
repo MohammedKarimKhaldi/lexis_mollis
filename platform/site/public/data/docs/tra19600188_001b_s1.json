@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19600188_001b_s1",
+  "title": "Lettre",
+  "year": 1960,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9585,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "LE PREMIER MINISTRE 3033/CT Paris, Le 5 décembre 1960 Excellence, Vous avez bien voulu, par lettre en date du 8 novembre 1960, demander la prorogation jusqu'au 31 décembre 1960 des accords provisoires intervenus entre la France et le Cameroun, en raison des délais nécessaires pour l'examen des nouvelles conventions franco-camerounaises par les deux Parlements et l'échange des instruments de ratification • J'ai l'hon…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19600188_001b_s1.pdf",
+  "source_filename": "tra19600188_001b_s1.pdf",
+  "source_sha256": "55e66fc6333c1878f808a5a3f0133b805e12101bb1301140ac7a4a908d832afa",
+  "treaty_id": "TRA19600188",
+  "treaty_number": "001b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE PREMIER MINISTRE\n\n3033/CT\n\nParis, Le 5 décembre 1960\n\nExcellence,\n\nVous avez bien voulu, par lettre en date du 8 novembre\n\n1960, demander la prorogation jusqu'au 31 décembre 1960 des accords provisoires intervenus entre la France et le Cameroun, en raison des délais nécessaires pour l'examen des nouvelles conventions franco-camerounaises par les deux Parlements et l'échange des instruments de ratification •\n\nJ'ai l'honneur de vous faire connaftre que le Gouver-\n\nnement de la République Française prend acte de cette proposition à laquelle il donne son plein accord.\n\nVeuillez agréer, Excellence, Les assurances de ma\n\nhaute coneidézation.\n\nSon Excellence Monsieur le Ministre des Affaires Etrangères de la Répu- blique du Cameroun\n\nCopie certifiée conforme à l'original\n\nParis, le 17 juin 1964\n\nR.aV\n\nMAIRES\n\nAINS\n\nราบวงแขน",
+      "quality_score": 0.9585,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19610182_001_s1",
+      "title": "Lettre",
+      "score": 0.411784,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.399201,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19600188_010_s1",
+      "title": "Lettre",
+      "score": 0.398991,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19470022_001_s1",
+      "title": "Traité (ensemble 1 échange de lettres a/s rapports consulaires)",
+      "score": 0.391195,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.391087,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19660221_101_s1",
+      "title": "Lettre en réponse",
+      "score": 0.385284,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20162050_010_s1",
+      "title": "Lettre costaricienne",
+      "score": 0.38295,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610160_100",
+      "title": "Protocole de signature",
+      "score": 0.381643,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_46_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.381522,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760301_002_s1",
+      "title": "Lettre française",
+      "score": 0.380259,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

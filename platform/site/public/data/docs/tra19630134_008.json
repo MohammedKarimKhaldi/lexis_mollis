@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19630134_008",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1963,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9959,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL D'ECHANGE DES INSTRUMENTS DE RATIFICATION DE LA CONVENTION ENTRE LA FRANCE ET L'TALIE RELATIVE AUX BUREAUX A CONTROLES NATIONAUX JUXTAPOSES ET AUX CONTROLES EN COURS DE ROUTE SIGNEE A ROME LE 11 OCTOBRE 1963 Son Excellence Monsieur Giovanni FORNARI, Ambassadeur Extraordinaire et Plénipotentiaire d'Italie, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Pierre…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19630134_008.pdf",
+  "source_filename": "tra19630134_008.pdf",
+  "source_sha256": "714ca3b9a1e8b0c6b1b91ac3b464b8789648f64b34f083413a3472f13d41e2ae",
+  "treaty_id": "TRA19630134",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL D'ECHANGE\n\nDES INSTRUMENTS DE RATIFICATION DE LA CONVENTION ENTRE LA FRANCE ET\n\nL'TALIE RELATIVE AUX BUREAUX A CONTROLES NATIONAUX JUXTAPOSES\n\nET AUX CONTROLES EN COURS DE ROUTE\n\nSIGNEE A ROME LE 11 OCTOBRE 1963\n\nSon Excellence Monsieur Giovanni FORNARI,\n\nAmbassadeur Extraordinaire et Plénipotentiaire d'Italie, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec\n\nMonsieur Pierre SIRAUD, Ministre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères à l'échange des instruments de ratification de Monsieur le Président de la République\n\nFrançaise, Président de la Communauté et de Monsieur le Président de la République Italienne de la Convention entre la France et l'Italie relative aux bureaux à contrôles nationaux juxtaposés et aux contrôles en cours de route, signée à Rome le I1 Octobre 1963.\n\nLes instruments ayant été, après examen,\n\ntrouvés en bonne et due forme, il a été procédé à leur échange.\n\nEN FOI DE QUOI, les soussignés ont dressé le\n\nprésent Procès-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, en double exemplaire,\n\nle 30 Juin 1965.%.\n\nPlisan",
+      "quality_score": 0.9959,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19610160_008",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.405481,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_438",
+      "title": "Pouvoirs français",
+      "score": 0.403432,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_005",
+      "title": "Instrument italien",
+      "score": 0.401,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_437_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.400213,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000089_006_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.394975,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640081_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.394672,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_297_s1",
+      "title": "Procès-verbal de dépôt de l'instrument espagnol",
+      "score": 0.394376,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_008_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification du Traité",
+      "score": 0.393969,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.384599,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.383487,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

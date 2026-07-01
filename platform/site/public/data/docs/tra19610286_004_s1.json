@@ -1,0 +1,145 @@
+{
+  "document_id": "tra19610286_004_s1",
+  "title": "Instrument français",
+  "year": 1961,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.9925,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "RATIFICATIONS DU PRESIDENT DE LA REPUBLIQUE FRANCAISE PRESIDENT DE LA COMMUNAUTE DU TRAITE DE COOPERATION ENTRE LA REPUBLIQUD FRANCAISE ET LA REPUBLIQUE DU NIGER SIGNE A PARIS LE 24 AVRIL 1961 CHARLES de GAULLE PRESIDENT DE LA REPUBLIQUE FRANCAISE PRESIDENT DE LA COMMUNAUTE A TOUS CEUX QUI CES PRESENTES LETTRES VERRONT SA LUI UN TRAITE DE COOPERATION ENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE DU NIGER AYANT ETE…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19610286_004_s1.pdf",
+  "source_filename": "tra19610286_004_s1.pdf",
+  "source_sha256": "f5d9fe9702b9da1724a1e08fe8aeffc8c7093d54ee008c446b6e1ddfbce15665",
+  "treaty_id": "TRA19610286",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RATIFICATIONS\n\nDU PRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nPRESIDENT DE LA COMMUNAUTE\n\nDU TRAITE DE COOPERATION\n\nENTRE LA REPUBLIQUD FRANCAISE ET LA REPUBLIQUE DU NIGER\n\nSIGNE A PARIS LE 24 AVRIL 1961",
+      "quality_score": 0.9989,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "CHARLES de GAULLE\n\nPRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nPRESIDENT DE LA COMMUNAUTE\n\nA TOUS CEUX QUI CES PRESENTES LETTRES VERRONT\n\nSA LUI\n\nUN TRAITE DE COOPERATION\n\nENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE DU NIGER\n\nAYANT ETE SIGNE A PARIS LE 24 AVRIL 1961\n\nTRAITE DONT LA TENEUR SUIT :",
+      "quality_score": 0.9941,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Ayant vu et examiné 1E\n\ndit\n\nTRAITE\n\n- NOUS\n\nL 'avons approuvé\n\net\n\napprouvons en toutes et chacune de SES parties, en vertu des dispositions qui y sont contenues et conformément\n\nà l'article 52 de la Constitution.\n\nDECLARONS qU'IL EST\n\naccepté , ratifié\n\net confirmé\n\net PROMETTONS qU'IL SERA inviolable-\n\nment observé\n\nEN FOI DE QUOI, Nous avons donné les présentes, revêtues du Sceau de la République.\n\nA PARIS, le\n\n25 Aout 1961\n\nSigné : Charles de GAULLE\n\nLe Président du Conseil des Ministres\n\nSigné : Michel DEBRE\n\nPar le Président de la République\n\nLe Ministre des Affaires\n\nEtrangères\n\nSigné : Maurice COUVE DE\n\nNURVILLE",
+      "quality_score": 0.9846,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19610160_004",
+      "title": "Instrument français (ratification)",
+      "score": 0.933648,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600199_004_s1",
+      "title": "Instrument français",
+      "score": 0.929725,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610137_003",
+      "title": "Instrument français",
+      "score": 0.871277,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_004",
+      "title": "Instrument français",
+      "score": 0.80594,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_004_s1",
+      "title": "Instrument français",
+      "score": 0.789224,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_326",
+      "title": "Instrument de ratification française",
+      "score": 0.780083,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600199_005_s1",
+      "title": "Instrument camerounais",
+      "score": 0.767092,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "fr-ratif_s1",
+      "title": "Ratification française",
+      "score": 0.760557,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_056_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.760235,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.753696,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

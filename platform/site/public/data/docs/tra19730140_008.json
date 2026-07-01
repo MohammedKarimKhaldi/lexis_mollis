@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19730140_008",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1973,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9916,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL RELATIF A L'ECHANGE DES INSTRUMENTS DE RATIFICATION DE LA CONVENTION TENDANT A EVITER LES DOUBLES IMPO- SITIONS ET A PREVENIR L'EVASION FISCALE EN MATIERE D'IMPÔTS SUR LE REVENU entre LE GOUVERNEMENT DE LA REPUBLIQUE FRANÇAISE et LE GOUVERNEMENT IMPERIAL DE L'IRAN Les Soussignés, Robert de Souza, Ambassadeur de France en Iran et Abbas Ali Khalatbary, Ministre des Affaires Etrangères de 1'Iran, se sont…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19730140_008.pdf",
+  "source_filename": "tra19730140_008.pdf",
+  "source_sha256": "6fde8e1e5364c9b723e0b58918cd37c71a118d9e50c1546c996e4fa75661517b",
+  "treaty_id": "TRA19730140",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nRELATIF A L'ECHANGE DES INSTRUMENTS DE RATIFICATION\n\nDE LA CONVENTION TENDANT A EVITER LES DOUBLES IMPO-\n\nSITIONS ET A PREVENIR L'EVASION FISCALE EN MATIERE\n\nD'IMPÔTS SUR LE REVENU\n\nentre\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FRANÇAISE\n\net\n\nLE GOUVERNEMENT IMPERIAL DE L'IRAN\n\nLes Soussignés, Robert de Souza, Ambassadeur de France en Iran\n\net Abbas Ali Khalatbary, Ministre des Affaires Etrangères de 1'Iran, se sont réunis, ce jour, au Ministère des Affaires Etrangères, à Téhéran, pour l'échange des instruments de ratification de la Convention tendant à eviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu entre le Gouvernement de la République française et le Gouvernement Impérial de 1'Iran, signée à Téhéran, le 7 novembre 1973, et, après avoir examiné et confronté les actes susmentionnés trouvés en bonne et due forme, ont procédé à leur échange.\n\nFait à Téhéran, le 10 mars 1975 en deux exemplairesoriginaux en\n\nlangue persane et française.\n\nPOUR LE GOUVERNEMENT DE\n\nLA REPUBLIQUE FRANCAISE\n\nPOUR LE GOUVERNEMENT\n\nIMPERIAL DE L'IRAN\n\nRLhn/e.",
+      "quality_score": 0.9916,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19730140_005",
+      "title": "Instrument iranien",
+      "score": 0.414702,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710031_100_s1",
+      "title": "Procès-verbal de l'échange des instruments",
+      "score": 0.38156,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730140_004",
+      "title": "Instrument français",
+      "score": 0.377603,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.371808,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000089_006_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.364002,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640081_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.361349,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_004_s1",
+      "title": "Instrument français",
+      "score": 0.358166,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_001",
+      "title": "Convention, ensemble un protocole",
+      "score": 0.355687,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_001",
+      "title": "Convention ET de son protocole",
+      "score": 0.355534,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.353771,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

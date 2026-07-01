@@ -1,0 +1,60 @@
+{
+  "document_id": "19540096_057_s1",
+  "title": "Instrument d'adhésion de la Hongrie",
+  "year": 1954,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9752,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Nous, Stéphane Stéphanopoulos, Ministre des Affaires Etrangères de Grèce, autorisons Son Excellence Monsieur Raphaël Rauhaël, Ambassadeur Extraordinaire et Plénipotentiaire de Grèce à paris, à signer, sous réserve de ratificavion, la nouvelle Convention Internationale relative à l'Institut International du Froid, qui remplacera celle du 21 juin 1920. cinquante trois. Iteptaups",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_057_s1.pdf",
+  "source_filename": "19540096_057_s1.pdf",
+  "source_sha256": "710060e438f0b78f3466bcfa10b7a8ca43db802eb4a8c0b1f322ef2f750849f4",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "HUN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nous, Stéphane Stéphanopoulos, Ministre des Affaires\n\nEtrangères de Grèce, autorisons Son Excellence Monsieur Raphaël\n\nRauhaël, Ambassadeur Extraordinaire et Plénipotentiaire de Grèce à paris, à signer, sous réserve de ratificavion, la nouvelle\n\nConvention Internationale relative à l'Institut International du Froid, qui remplacera celle du 21 juin 1920.\n\ncinquante trois.\n\nIteptaups",
+      "quality_score": 0.9752,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_350_s1",
+      "title": "Instrument d'adhésion hongrois",
+      "score": 0.414191,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_22_s1",
+      "title": "Instrument de ratification de Haïti",
+      "score": 0.388336,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

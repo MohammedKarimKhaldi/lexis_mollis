@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560202_010_s1",
+  "title": "Accord (lettre marocaine)",
+  "year": 1956,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9863,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Paris, le 2 Mars 1956 Monsieur le Président, Comme suite à la Déclaration commine et au Protocole en date de ce jour, J'ai 1 'honneur de vous fa1- re savoir que le Gouvernement marocain demande au Gouvernement français de continuer à assurer la conduite des relations extérieures du Maroc et la représentation et la protection des nationaux et des intérêts marocains à l'étranger, en attendant que les deux Gouvernement…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560202_010_s1.pdf",
+  "source_filename": "tra19560202_010_s1.pdf",
+  "source_sha256": "0ed0696e3449580395aa8d29f5604c3d477d3e2d87d3ae0faf9cdbd068835a63",
+  "treaty_id": "TRA19560202",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Paris, le 2 Mars 1956\n\nMonsieur le Président,\n\nComme suite\n\nà la Déclaration commine et au\n\nProtocole en date de ce\n\njour, J'ai 1 'honneur\n\nde vous fa1-\n\nre savoir que le Gouvernement marocain demande au Gouvernement français de continuer à assurer\n\nla conduite des\n\nrelations extérieures du Maroc et la représentation\n\net\n\nla protection des nationaux et des intérêts marocains à l'étranger, en attendant que les deux Gouvernements soient convenus de nouvelles dispositions pour la période transitoire à la demande du Gouvernement marocain.\n\nVeulllez agréer, Monsieur le Président, 1'assu-\n\nrance de ma très haute considération.\n\nA Son Excellence,\n\nMonsieur Christian PINEAU\n\nMinistre des Affaires Etrangères\n\nPrésident de la Délégation française",
+      "quality_score": 0.9863,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560202_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.785223,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560203_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.589705,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560203_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.546273,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560200_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.42105,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560200_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.412088,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560201_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.403311,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640106_011_s1",
+      "title": "Publication de l'accord au Journal officiel du",
+      "score": 0.390647,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290061_001d_s1",
+      "title": "Lettre de dénonciation",
+      "score": 0.389168,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630118_001_s1",
+      "title": "Publication au Journal officiel de l'échange de lettres sans le procès-verbal",
+      "score": 0.384939,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760301_002_s1",
+      "title": "Lettre française",
+      "score": 0.382776,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

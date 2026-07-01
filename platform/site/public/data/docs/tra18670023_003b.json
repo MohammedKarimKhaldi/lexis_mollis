@@ -1,0 +1,49 @@
+{
+  "document_id": "tra18670023_003b",
+  "title": "Transmission des pouvoirs prussiens",
+  "year": 1867,
+  "doc_type": "Autre",
+  "languages": [
+    "ca"
+  ],
+  "quality_score": 0.7875,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "AMBASSADE DE PRUSSE EN FRANCE. ——ÀÀ ame —ÀÀÀ A. xu = TT. aa PERLE fe rire Le aa ene perma pe p VP VP DD . SR rer POP, EE EIE",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18670023_003b.pdf",
+  "source_filename": "tra18670023_003b.pdf",
+  "source_sha256": "2b1b9769526024d39a3c9493c45ab3517e26f7e5750b8d6c93d8875dbbb6199e",
+  "treaty_id": "TRA18670023",
+  "treaty_number": "003b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DE PRUSSE\n\nEN\n\nFRANCE.\n\n——ÀÀ ame —ÀÀÀ\n\nA. xu = TT. aa\n\nPERLE fe rire Le aa ene perma pe p\n\nVP VP DD\n\n.\n\nSR rer POP,\n\nEE EIE",
+      "quality_score": 0.7875,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19510075_655_s1",
+  "title": "Pouvoirs indiens",
+  "year": 1951,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "WHEREAS It 1a desired to make provlaion with regard to the places of burial ia French territory of membere of the Armed Forces of the Coumonmealth countries who have fallen in the wars of 1914-18 and 1939-45 and have been interred in French territory. AND WHEREAS an Agreement to these enda has beet drawn up betteen the Goverrment of the Republic of France on the one hand and the Goreromenta of the Commonwealth count…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510075_655_s1.pdf",
+  "source_filename": "19510075_655_s1.pdf",
+  "source_sha256": "747cc9e84b9965fe4dec7ed3683d9f8313f44bcc0bad7c213e628818bba55e17",
+  "treaty_id": "TRA19510075",
+  "treaty_number": "IND001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WHEREAS It 1a desired to make provlaion with regard to the places of burial ia French territory of membere of the Armed Forces of the Coumonmealth countries who have fallen in the wars of 1914-18 and 1939-45 and have been interred in French territory.\n\nAND WHEREAS an Agreement to these enda has beet drawn up betteen the Goverrment of the Republic of\n\nFrance on the one hand and the Goreromenta of the\n\nCommonwealth countries on the other hand.\n\nAND WEREAS It is expedient that a fit person should be invested with full porera to sign the said Agreement in socordance mith ita provisions for the Government of New Zealand\n\nI, THOMAS OLIFTON WEBB, Minlater of External Affeire of NeT Zealand, DO HEREBY CERTIFY THAT\n\nJANE ROBERTSON MOKENZIE, New Zealand Charge d'Affaires at paris is, by these presents named, conatituted and appolnted to sign the said Agreement for the\n\nGoverment of Not Zealand.\n\nAnd I do hereby cortley that the said agreement, when signed, shall be acknowledged and accepted by the\n\nGovernment of New Zealand In the fullest manner.\n\nIN WITNESS WHEREOF I have signed these presents and affized hereto the aeal of the Minister of External\n\nAffaira of Her Zealand.\n\nSIGNED AND SEALED at Welliagton this fifth day of\n\nOctober\n\n1951.\n\nMinister of External Affairs.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.431586,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_400_s1",
+      "title": "Pouvoirs français",
+      "score": 0.422042,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.401157,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_075_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.396962,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_005_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.39456,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "63_lnta_387_-_exchange_of_letters_s1",
+      "title": "Adhésion de la Nouvelle-Zélande à la convention entre la République française et la Grande-Bretagne pour faciliter l'accomplissement des actes de procédure entre personnes résidant respectivement en France et en Grande-Bretagne",
+      "score": 0.392989,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19460017_001_s1",
+      "title": "Accord",
+      "score": 0.392219,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_08_s1",
+      "title": "Instrument de ratification du Royaume-Uni",
+      "score": 0.391734,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.39001,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_003_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.389385,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

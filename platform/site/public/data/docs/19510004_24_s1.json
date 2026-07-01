@@ -1,0 +1,114 @@
+{
+  "document_id": "19510004_24_s1",
+  "title": "Pouvoirs danois",
+  "year": 1951,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9612,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Holstein Stormarn. des Dithmarses de Lanenbourg et d'Oldenbourg SAVOIR FAISONS: qu'ayant résolu de Nous fatre représenter à la Conférence qui s'ouvrira à Paris le 17 avril 1951 tendant à 1a conclusion d'une convention pour l'établissement d'une organisation européenne pour la protection des plantes, Nous avons chols1, nommé et autorisé, comme par les présentes Nous choisissons, nommons et autorisons, pour entrer con…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_24_s1.pdf",
+  "source_filename": "19510004_24_s1.pdf",
+  "source_sha256": "5ff4e5081b3d4524d66df3db591d5b7827df0cc6c79a51ece2171293cb7528ab",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "255",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Holstein Stormarn. des Dithmarses de Lanenbourg et d'Oldenbourg\n\nSAVOIR FAISONS: qu'ayant résolu de Nous fatre représenter à la\n\nConférence qui s'ouvrira à Paris le 17 avril 1951 tendant à 1a conclusion d'une convention pour l'établissement d'une organisation européenne pour la protection des plantes, Nous avons chols1, nommé et autorisé, comme par les présentes Nous choisissons, nommons et autorisons, pour entrer conne Nos Délégués & Ladite Conférence,\n\nMonsieur Halvor Skov, sous-chef de section a.1. au Ministère de l'Agriculture, et Monsiels P. Borion, ar, do lettres, ches de sects on eu laboratobre d'ossale phytopathologiques de l'Etat.\n\nNous autorisons en même temps lesdits Délégués à signer, séparóment où conjontement et saul Notro ratification, les actes par lesquels la Conférence conviendrait de consacrer le résultat",
+      "quality_score": 0.9321,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "de ses travaux, promettant en parole de Roi d'avoir pour agréable tout ce que Nos dits Représentants auront conclu et signé en vertu des présents Pleins\n\nPouvoirs.\n\nEn 101 de qu01, Nous avons signé ces\n\nPleins Pouvoirs et y avons fait apposer Notre sceau\n\nRoyal.\n\nDonnés d\n\nAmalienborg\n\nle 13 avril de l'an mil neuf cent cinquante-et-un, de Notre règne le quatrième.\n\nPrinte\n\nPLEINS POUVOIRS",
+      "quality_score": 0.9904,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380055_18_s1",
+      "title": "Pouvoirs de signature du Danemark",
+      "score": 0.441799,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.41761,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_079_s1",
+      "title": "Pouvoirs de signature des Pays-Bas",
+      "score": 0.401811,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.380441,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_081_s1",
+      "title": "Instrument de ratification des Pays-Bas",
+      "score": 0.356559,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.352702,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_005_s1",
+      "title": "Instrument monégasque",
+      "score": 0.351809,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_14_s1",
+      "title": "Note d'accompagnement de l'instrument de ratification du Danemark",
+      "score": 0.351448,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

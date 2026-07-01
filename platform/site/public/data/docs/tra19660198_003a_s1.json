@@ -1,0 +1,67 @@
+{
+  "document_id": "tra19660198_003a_s1",
+  "title": "Pouvoirs soviétiques (pour l'accord)",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "ru"
+  ],
+  "quality_score": 0.9262,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "МИНИСТЕРСТВОИНОСТРАННЫХ ДЕЛ СОЮЗА СОВЕТСКИХ СОЦИАЛИСТИЧЕСКИХ РЕСПУБЛИК УДОСТОВЕРЯЕТ, ЧТО ПРАВИТЕЛЬСТВО СОЮЗА СОВЕТСКИХ СОЦИАЛИСТИЧЕСКИХ РЕСПУБЛИК УПОЛНОМОЧИЛО ЗОРИНА Валериана Александровича, Чрезвычайного и Полномочного Посла СССР во Франции, на подписание Соглашения между Правительством Союза Советских Социалистических Республик и Правительством Французской Республики об установлений линии прямой связи между Кремл…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19660198_003a_s1.pdf",
+  "source_filename": "tra19660198_003a_s1.pdf",
+  "source_sha256": "3320d8d5a0476d11c82b2e02afe40c276722de71015bed456adf1a4379bd35e7",
+  "treaty_id": "TRA19660198",
+  "treaty_number": "003a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "МИНИСТЕРСТВОИНОСТРАННЫХ ДЕЛ\n\nСОЮЗА СОВЕТСКИХ\n\nСОЦИАЛИСТИЧЕСКИХ РЕСПУБЛИК\n\nУДОСТОВЕРЯЕТ, ЧТО ПРАВИТЕЛЬСТВО СОЮЗА СОВЕТСКИХ СОЦИАЛИСТИЧЕСКИХ\n\nРЕСПУБЛИК УПОЛНОМОЧИЛО ЗОРИНА Валериана Александровича, Чрезвычайного и Полномочного Посла СССР во Франции, на подписание Соглашения между\n\nПравительством Союза Советских Социалистических Республик и Правительством Французской Республики об установлений линии прямой связи между\n\nКремлем и Елисейским Дворцом.\n\nМосква „4\n\n......\n\n_ ноября\n\n. 19.66 года.\n\nМинисто. Иностранных Дел\n\nCCCP\n\n\"A. spasmis\n\nK\n\nЗа Заведующго\n\nДоговорно-Правовым _ Отделом\n\n(impala e",
+      "quality_score": 0.9262,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930186_003_s1",
+      "title": "Pouvoirs russe",
+      "score": 0.386684,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19320077_003",
+      "title": "Pouvoirs soviétiques",
+      "score": 0.381611,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19470173_02_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.353725,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

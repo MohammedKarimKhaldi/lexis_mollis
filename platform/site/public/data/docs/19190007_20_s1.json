@@ -1,0 +1,116 @@
+{
+  "document_id": "19190007_20_s1",
+  "title": "Pouvoirs",
+  "year": 1919,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.964,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Mario G. Menocas. Presidente de la República de Cua. Al cuantos el presente vieren, Salud! Teniendo plena confianza en la integridad, prudencia y aptitud del Seror Doctor Antonio Sánchez de Bustamante lo nombro Delegado- Plenipotenciario de la Repúolica de Cuba para que negocie la Paz. Y por la presente lo autorizo y le doy los poderes necesarios para que ejecute y desempeñe los deberes de ese cargo de conformidad c…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_20_s1.pdf",
+  "source_filename": "19190007_20_s1.pdf",
+  "source_sha256": "4e176c31aa3853668d1b9d870f8c1339583750a66bbabe1e9136232d033ecd2d",
+  "treaty_id": "TRA19190007",
+  "treaty_number": "20",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Mario G. Menocas.\n\nPresidente de la República de Cua.\n\nAl cuantos el presente vieren, Salud!\n\nTeniendo plena confianza en la integridad, prudencia y aptitud del Seror\n\nDoctor Antonio Sánchez de Bustamante lo nombro Delegado- Plenipotenciario de la Repúolica de Cuba para que negocie la Paz.\n\nY por la presente lo autorizo y le doy los poderes necesarios para que ejecute y desempeñe los deberes de ese cargo de conformidad con la Ley y para que osterle y desempeñe dicho cargo con todos los derecfios y privilegios que le correspon.\n\nden por todo el tiempo que a bién tenga el Presidente de la Republica de Cuba.\n\nEn testimonio de Lo cual expido esta Patente firmada de mi mano, autorizada con el sello de la Nación y refrendada por el Secretario de (Stado.\n\nDada en la ciudad de la Habana, Palacio de la Presidencia, a diez y seis de diero de mil novecientos diez y nueve.\n\nheland\n\nRegistrada af JT: 73, folio 13- del Sibro correspondiante.",
+      "quality_score": 0.964,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.385597,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.379244,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.378568,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_630_s1",
+      "title": "Ratification du traité du 10 septembre 1919",
+      "score": 0.37648,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.375695,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_037_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.373646,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_003",
+      "title": "tra19720042_003",
+      "score": 0.369092,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_031_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.369059,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_84_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.367448,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.360868,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "document_id": "19230015_001_s1",
+  "title": "Déclaration",
+  "year": 1923,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LES SOUSSIGNÉS, agissant en vertu de leurs pleins pouvoirs, déclarent que le Gouvernement turc nommera pour une durée de cinq années trois médecins spécia- listes européens comme Conseillers de l'Administration sanitaire des frontières. Ces médecins seront des fonctionnaires tures et dépendront du Ministre de la Santé. Ils seront choisis par ledit Gouvernement sur une liste de six noms, établie de concert par le Com…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230015_001_s1.pdf",
+  "source_filename": "19230015_001_s1.pdf",
+  "source_sha256": "6e54c40633e7d7aef1aaf21b3cbe83489d629bde552cb72f7fc1c4e480d98774",
+  "treaty_id": "TRA19230015",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LES SOUSSIGNÉS, agissant en vertu de leurs pleins pouvoirs, déclarent que le\n\nGouvernement turc nommera pour une durée de cinq années trois médecins spécia- listes européens comme Conseillers de l'Administration sanitaire des frontières. Ces médecins seront des fonctionnaires tures et dépendront du Ministre de la Santé. Ils seront choisis par ledit Gouvernement sur une liste de six noms, établie de concert par le Comité d'Hygiène de la Société des Nations et par l'Office International d'Hygiène Publique. Leur traitement ainsi que les autres conditions d'engagement seront fixés d'un commun accord entre. ledit Gouvernement et les deux organes internationaux susmentionnés.\n\nL'Administration sanitaire turque établira, avec le concours des trois Conseillers européens ci-dessus mentionnés, un règlement déterminant l'organisation du service sanitaire des côtes et frontières de la Turquie. Ce règlement se conformera aux dispositions des Conventions sanitaires internationales el, pour ce qui concerne les\n\nDétroits, aux dispositions de la Convention concernant le régime des Détroits signée en date de ce jour.\n\nLe produit des taxes sanitaires perques par l'Administration turque sera exclusi- vement aflecté aux besoins du service sanitaire de la Turquie, et figurera dans un budget annexe, qui sera dressé à cette fin par les soins du Ministère de la Santé.\n\nFAIT à Lausanne, le 24 juillet 1923.\n\nentimet.\n\nA: Niza et dez .\n\nHanan,",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380055_10_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.361146,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230016_001_s1",
+      "title": "Déclaration",
+      "score": 0.358828,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_01_s1",
+      "title": "Convention",
+      "score": 0.358142,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_16_s1",
+      "title": "Instrument de ratification du Brésil",
+      "score": 0.356264,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_001_s1",
+      "title": "Accord",
+      "score": 0.355038,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

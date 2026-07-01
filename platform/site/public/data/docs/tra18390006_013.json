@@ -1,0 +1,71 @@
+{
+  "document_id": "tra18390006_013",
+  "title": "Procès-verbal d'échange des ratifications de l'accord  entre la France, l'Autriche, le Royaume-Uni, la Prusse et la Russie, d'une part, et les Pays-Bas, d'autre part",
+  "year": 1839,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fa",
+    "fr",
+    "sv"
+  ],
+  "quality_score": 0.7355,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "/\" ٠/ري جرود ( (د/اد،.ور،. برد ٠ر٥دو روم am y Traité entre sa Majeste le литтар Immomen présent proced verbal d'ochange, e y ant",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18390006_013.pdf",
+  "source_filename": "tra18390006_013.pdf",
+  "source_sha256": "b98c4cbbe6374a283968b78572e8b731d48817aa4921d1b91f6d9c148e8b0676",
+  "treaty_id": "TRA18390006",
+  "treaty_number": "013",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "/\" ٠/ري جرود ( (د/اد،.ور،. برد ٠ر٥دو روم\n\nam y\n\nTraité entre sa Majeste le",
+      "quality_score": 0.7656,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "fa"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "литтар\n\nImmomen\n\nprésent proced verbal d'ochange, e y ant",
+      "quality_score": 0.7055,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "sv"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

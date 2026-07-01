@@ -1,0 +1,140 @@
+{
+  "document_id": "tra19560090_325",
+  "title": "Pouvoirs italiens",
+  "year": 1956,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9629,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MULTILATERAUX René Coty Président de la République Française, Président de l'Union Française, A tous ceux qui ces presentes Lettres verront, Salut : Un Traîté portant modification du Traité du 18 Avril 1951 instituant la Communauté Curopéenne du Charbon et de 1'Acier devant être signé, le 27 Octobre 1956, à Luxembourg, A CES CAUSES, Nous confiant entièrement en la capacité, zéle et dévouement de Monsieur Christian P…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_325.pdf",
+  "source_filename": "tra19560090_325.pdf",
+  "source_sha256": "390d8282a74042b9e74774ca208e2234cab6e9202995b3ca0845a08df3af8721",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MULTILATERAUX\n\nRené Coty\n\nPrésident de la République Française,\n\nPrésident de l'Union Française,\n\nA tous ceux qui ces presentes Lettres verront,\n\nSalut :\n\nUn Traîté portant modification du Traité\n\ndu 18 Avril 1951 instituant la Communauté Curopéenne du Charbon et de 1'Acier devant être signé, le 27\n\nOctobre 1956, à Luxembourg, A CES CAUSES, Nous",
+      "quality_score": 0.9554,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "confiant entièrement en la capacité, zéle et dévouement de Monsieur Christian PINEAU, Ministre des Affaires Etrangères, Nous l'avons nommé et constitué Notre Plénipotentiaire à l'effet de négocier, conclure et signer avec le ou les\n\nPlénipotentiaires également munis de Pleins\n\nPouvoirs de la part de leur Gouvernement, tels\n\nConvention , Déclaration ou Acte quelconque qui seront jugés nécessaires dans l'intérêt de ces\n\nPays•\n\nPROMETTONS d'accomplir et d'exécuter tout\n\nce que notre dit Plénipotentiaire aura stipulé et signé au nom du Gouvernement de la République\n\nFrançaise sans permettre qu'il y soit contrevenu directement ou indirectement ou de quelque manière que ce soit et sous réserve de nos lettres de",
+      "quality_score": 0.9704,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "ratification qui seront déposées dans le délai convenu.\n\nEN FOI DE QUOI, Nous avons fait apposer\n\nà ces présentes le Sceau de la République Française.\n\nFAIT A PARIS, le 23 Octobre 1956\n\nReMy\n\nLe Président de la République\n\nLe Président du Conseil\n\nLe Ministre des Affaires\n\ndes Ministres\n\nEtrangères",
+      "quality_score": 0.963,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_325_s1",
+      "title": "Pouvoirs grecs",
+      "score": 0.840351,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.827465,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_055_s1",
+      "title": "Pouvoirs de signature grecs",
+      "score": 0.799093,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_325_s1",
+      "title": "Pouvoirs néozélandais",
+      "score": 0.764622,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_20_s1",
+      "title": "Pouvoirs de signature de la Grèce",
+      "score": 0.530887,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_326",
+      "title": "Instrument de ratification française",
+      "score": 0.431531,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_326_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.410249,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630108_003_s1",
+      "title": "Pouvoirs togolais",
+      "score": 0.396396,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_004_s1",
+      "title": "Instrument français",
+      "score": 0.392765,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_003_s1",
+      "title": "Pouvoirs togolais",
+      "score": 0.39228,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

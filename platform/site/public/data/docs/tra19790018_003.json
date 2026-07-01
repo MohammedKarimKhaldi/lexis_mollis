@@ -1,0 +1,67 @@
+{
+  "document_id": "tra19790018_003",
+  "title": "Pouvoirs marocains",
+  "year": 1979,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9521,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ROYAUME DU MAROO MINISTERE DES FINANCES RABAT, LE 27 FEV 1979 • • IRS 0- • Je soussignó, Abdellatil GHISSASSI, Ministre des Finances du Royauno du Maroc, donne pouvoirs à Monsieur LUKASCH Hassan, Socrétaire Général du Ministore des Finances, pour signer en nom nom l'avenant au protocolo d'accord donanial franco-narocain en date du 30 octobre 1975./. La Metaleter Sloe Fincrose V",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19790018_003.pdf",
+  "source_filename": "tra19790018_003.pdf",
+  "source_sha256": "338ad6c1ae65bf6ba89e204c0869bc58337a23f3f568ac90c3a9665491328d6c",
+  "treaty_id": "TRA19790018",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ROYAUME DU MAROO\n\nMINISTERE DES FINANCES\n\nRABAT, LE\n\n27 FEV 1979\n\n•\n\n• IRS\n\n0-\n\n• Je soussignó, Abdellatil GHISSASSI,\n\nMinistre des Finances du Royauno du Maroc, donne pouvoirs à Monsieur LUKASCH Hassan,\n\nSocrétaire Général du Ministore des Finances, pour signer en nom nom l'avenant au protocolo d'accord donanial franco-narocain en date du 30 octobre 1975./.\n\nLa Metaleter Sloe Fincrose\n\nV",
+      "quality_score": 0.9521,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19870226_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.370999,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.352013,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19790018_001",
+      "title": "Accord",
+      "score": 0.350295,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

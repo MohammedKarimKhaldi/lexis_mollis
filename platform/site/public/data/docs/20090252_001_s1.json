@@ -1,0 +1,205 @@
+{
+  "document_id": "20090252_001_s1",
+  "title": "Accord",
+  "year": 2009,
+  "doc_type": "Accord",
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9415,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "nein tne LAVENANT ALA CONVENTION ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEMENT DE LA REPUBLIQUE DE SINGAPOUR TENDANT A EVITER LES DOUBLES IMPOSITIONS ET A PREVENIR L'EVASION FISCALE EN MATIERE D'IMPOTS SUR LES REVENUS 2 LE GOUVERNEMENT DE LA REPUBLIQUE FRANÇAISE ET LE GOUVERNEMENT DE LA REPUBLIQUE DE SINGAPOUR, DESIREUX de modifier la Convention entre le Gouvernement de la République française…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/20090252_001_s1.pdf",
+  "source_filename": "20090252_001_s1.pdf",
+  "source_sha256": "51c3b8e7ef2dc6ab0791cda29678805e8d549c8939e1be0f27429a68149b03b5",
+  "treaty_id": "TRA20090252",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "nein tne",
+      "quality_score": 0.6162,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Hebrew:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "LAVENANT\n\nALA CONVENTION ENTRE\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nET\n\nLE GOUVERNEMENT DE LA REPUBLIQUE DE SINGAPOUR\n\nTENDANT A EVITER LES DOUBLES IMPOSITIONS ET\n\nA PREVENIR L'EVASION FISCALE\n\nEN MATIERE D'IMPOTS SUR LES REVENUS",
+      "quality_score": 0.9837,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "2\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FRANÇAISE\n\nET\n\nLE GOUVERNEMENT DE LA REPUBLIQUE DE SINGAPOUR,\n\nDESIREUX de modifier la Convention entre le Gouvernement de la République française et le\n\nGouvernement de la République de Singapour tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur les revenus signée à Paris le 9 septembre 1974 (ci-après dénommés \"la Convention \"),\n\nSONT convenus des dispositions suivantes :\n\nARTICLE 1\n\nL'Article 27 de la Convention est supprimé et remplacé par les dispositions suivantes :\n\n\"ARTICLE 27\n\nECHANGE DE RENSEIGNEMENTS\n\n1. Les autorités compétentes des États contractants échangent les renseignements vraisemblablement pertinents pour appliquer les dispositions de la présente Convention ou pour l'administration ou l'application de la législation interme relative aux impôts de toute nature ou dénomination perçus pour le compte des États contractants ou de leurs collectivités locales, dans la mesure où l'imposition qu'elle prévoit n'est pas contraire à la Convention. L'échange de renseignements n'est pas restreint par les articles 1 et 2.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "3\n\n2. Les renseignements reçus en vertu du paragraphe 1 par un État contractant sont tenus secrets de la même manière que les renseignements obtenus en application de la législation interne de cet État et ne sunt communiqués qu'aux personnes ou autorités (y compris les tribunaux et organes administratifs) concernées par l'établissement ou le recouvrement des impôts mentionnés au paragraphe 1, par les procédures ou poursuites concernant ces impôts, par les décisions sur les recours relatifs à ces impõts, ou par le contrôle de ce qui précède. Ces personnes ou autorités n'utilisent ces renseignements qu'à ces fins. Elles peuvent révéler ces renssignements au cours d'audiences publiques de tribunaux ou dans des jugements.\n\n3. Les dispositions des paragraphes 1 et 2 ne peuvent en aucun cas être interprétées comme imposant à un État contractant l'obligation\n\na) de prendre des mesures administratives dérogeant à sa législation et à sa pratique administrative ou à celles de l'autre État contractant;\n\nb) de fournir des renseignements qui ne pourraient être obtenus sur la base de sa législation ou dans le cadre de sa pratique administrative normale ou de celles de l'autre État contractant ;\n\nc) de fournir des renseignements qui révéleraient un secret commercial, industriel, professionnel ou un procédé commercial ou des renseignements dont la communication serait contraire à l'ordre public.\n\n4. Si des renscignements sont demandés par un Etat contractant conformément à cet article, l'autre État contractant utilise les pouvoirs dont il dispose pour obtenir les renseignements demandés, même s'il n'en a pas besoin à ses propres fins fiscales. L'obligation qui figure dans la phrase précédeute est soumise aux limitations prévues au paragraphe 3 sauf si ces limitations sont susceptibles d'empêcher un État contractant de communiquer des renseignements uniquement parce que ceux-ci ne présentent pas d'intérêt pour lui dans le cadre national.",
+      "quality_score": 0.9986,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "4\n\n5. En aucun cas les dispositions du paragraphe 3 ne peuvent être interprétées comme permettant à un État contractant de refuser de communiquer des renseignements uniquement parce que ceux-ci sont détenus par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu'agent ou fiduciaire ou parce que ces renseignements se rattachent aux droits de propriété d'une personne. »\n\nARTICLE 2\n\n1. Chacun des Etats contractants notifie à l'autre Etat contractant l'accomplissement des procédures requises par sa législation pour la mise en vigueur du présent Avenant. L'Avenant entre en vigueur le premier jour du mois suivant la date de réception de la dernière de ces notifications.\n\n2. Les dispositions du présent Avenant s'appliquent :\n\na) S'agissant des impôts prélevés au nom de la France ou de ses autorités locales :\n\ni)\n\nen ce qui concerne les impôts perçus par voie de retenue à la source, aux sommes imposables à compter du 1 janvier 2009 ;\n\nii)\n\nen ce qui conceme les autres impôts sur le revenu, aux revenus afférents, selon le cas, à toute année civile ou à tout exercice commençant à compter du 1° janvier 2009 ;\n\niii)\n\nen ce qui concerne les autres impôts, aux impositions dont le fait générateur intervient à compter du 1\" janvier 2009 ;\n\nb) S'agissant des impôts prélevés au nom de Singapour :\n\ni)\n\npour tout impôt sur le revenu dû pour toute année d'imposition commençant à compter du 1 janvier 2010;\n\nii)\n\npour tous les autres impôts dus à compter du 1 janvier 2010.\n\n3. Le présent Avenant continuera de s'appliquer aussi longtemps que la Convention demeurera en vigueur.",
+      "quality_score": 0.997,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "5\n\nEn foi de quoi les soussignés, dûment autorisés par leurs Gouvernements respectifs, ont signé le présent Avenant.\n\nFait à Singapour, le 13 novembre 2009, en double exemplaire, en langues française et anglaise, les deux textes faisant également foi.\n\nOlla\n\nPOUR LE GOUVERNEMENT DE LA\n\nREPUBLIQUE FRANÇAISE\n\nPOUR LE GOUVERNEMENT DE LA\n\nREPUBLIQUE DE SINGAPOUR\n\nchristime LAGARDE\n\nMivistre de l'Ecolomia, da l'Industri et de l'Emploi\n\nTharlan SHANMUGARATNAT\n\nMinistre des Finanus",
+      "quality_score": 0.9502,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "PROTOCOL AMENDING THE CONVENTION BETWEEN THE GOVERNMENT OF THE\n\nFRENCH REPUBLIC AND THE GOVERNMENT OF THE REPUBLIC OF SINGAPORE FOR\n\nTHE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION\n\nWITH RESPECT TO TAXES ON INCOME\n\nThe Goverment of the French Republic and the Government of the Republic of Singapore,\n\nreferred to as \"the Convention \"),\n\nHave agreed as follows:\n\nARTICLE 1\n\nArticle 27 of the Convention shall be deleted and replaced by the following:\n\n\"ARTICLE 27\n\nEXCHANGE OF INFORMATION\n\nStates, or of their local authorities, insofar as the taxation thereunder is not contrary to the Convention.\n\nThe exchange of information is not restricted by Articles 1 and 2:\n\n2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only o persons or authorities (including courts and administrative bodies) concerned with the assessment o collection of, the enforcement or prosecution in respect of, the determination of appeals in relation tr he taxes referred to in paragraph 1, or the oversight of the abore. Such persons or authorities shall us the information only for such purposes. They may disclose the information in public court proceeding or in judicial decisions.\n\n3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting\n\nState the obligation:\n\na) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;\n\nb) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;\n\n* o stop secration rich sad diade any a busine it i contin o public policy (ordre public).\n\n• If information is requested by a Contracting State in accordance with this Article, the othe 'ontracting State shall use its information gathering measures to obtain the requested information, eve though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall suct limitations be construed to permit a Contacting State to decline to supply information solely because i has no domestic interest in such information.\n\n1",
+      "quality_score": 0.9864,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person. \"\n\nARTICLE 2\n\n1. Each of the Contracting States shall notify to the other Contracting State the completion of the procedures required by its law for the bringing into force of this Protocol. The Protocol shall enter int orce on the first day of the month following the date of receipt of the later of these notifications\n\n2. The provisions of this Protocol shall have effect:\n\na) As regards taxes imposed on behalf of France or its local authorities:\n\n1 respect of taxes withheld at source, for amounts of income taxable on or after 1 January 200 a respect of other taxes charged on income, for income relating to any calendar year or accountit period, as the case may be, beginning on or after 1 January 2009;\n\nin respect of any other taxes, for events giving rise to taxation that occur on or after 1 January\n\nb) As regards taxes imposed on behalf of Singapore:\n\ni)\n\nin respect of tax chargeable on income for any year of assessment beginning on or after January ii)\n\nin respect of any other taxes due on or after 1 January 2010.\n\n3. This Protocol shall remain in effect as long as the Convention remains effective.\n\nIN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective Governments, have signed this Protocol.\n\nDONE in duplicate in Singapore on 13# day of November, in the English and French languages, both texts being equally authentic.\n\nShamed\n\nFor the Government of the Republic of Singapor",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "20090074_001_s1",
+      "title": "Accord",
+      "score": 0.747879,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_001_s1",
+      "title": "Convention (ensemble 1 protocole)",
+      "score": 0.736335,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_001",
+      "title": "Convention, ensemble un protocole",
+      "score": 0.724422,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730116_001_s1",
+      "title": "Accord",
+      "score": 0.67986,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20010154_001_s1",
+      "title": "Convention (ensemble un protocole)",
+      "score": 0.65761,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220040_001a_s1",
+      "title": "Alternat français",
+      "score": 0.649021,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20161971_001_s1",
+      "title": "Accord",
+      "score": 0.637412,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_001_s1",
+      "title": "Accord",
+      "score": 0.619295,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900276_001",
+      "title": "Accord",
+      "score": 0.588043,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_001_s1",
+      "title": "Accord",
+      "score": 0.575533,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

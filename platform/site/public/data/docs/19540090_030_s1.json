@@ -1,0 +1,102 @@
+{
+  "document_id": "19540090_030_s1",
+  "title": "Pouvoirs allemands pour la ratification de la convention",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 0.9988,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DER PRÄSIDENT DER BUNDESREPUBLIK DEUTSCHLAND VOLLMACHT Der Botschafter der Bundesrepublik Deutschland in Paris, Herr Dr. Wilhelm HAUSENSTEIN, wird mit wirkung vom 30. April 1955 bevollmächtigt, im Namen der Bundesrepublik Deutschland die Inter- nationale Vereinbarung zur Vereinheitlichung der Weinuntersuchungsmethoden unter dem Vorbehalt der Ratifikation zu unterzeichnen. Bonn, den 17. Mai 1955 DER BUNDESPRÄSIDENT D…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_030_s1.pdf",
+  "source_filename": "19540090_030_s1.pdf",
+  "source_sha256": "e596dc6c0e834b41115d1ddf68032ece89ba3f5d6ce2930952158610cea830c4",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "DEU001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DER PRÄSIDENT\n\nDER BUNDESREPUBLIK DEUTSCHLAND\n\nVOLLMACHT\n\nDer Botschafter der Bundesrepublik Deutschland in Paris,\n\nHerr Dr. Wilhelm HAUSENSTEIN, wird mit wirkung vom 30. April 1955 bevollmächtigt, im Namen der Bundesrepublik Deutschland die Inter- nationale Vereinbarung zur Vereinheitlichung der\n\nWeinuntersuchungsmethoden unter dem Vorbehalt der\n\nRatifikation zu unterzeichnen.\n\nBonn, den 17. Mai 1955\n\nDER BUNDESPRÄSIDENT\n\nDER BUNDESKANZLER\n\nBUNDESMINISTER\n\nDES AUSWÄRTIGEN",
+      "quality_score": 0.9988,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_04_s1",
+      "title": "Pouvoir de signature de la ratification",
+      "score": 0.538424,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_011_s1",
+      "title": "Pouvoirs ouest-allemands",
+      "score": 0.395481,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600202_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.381588,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19750012_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.381317,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.376887,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_850_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.356247,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.353295,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_031a_s1",
+      "title": "Instrument de ratification allemand",
+      "score": 0.352139,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

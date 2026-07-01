@@ -5419,5 +5419,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.91263,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_001_s1",
+      "title": "Traité",
+      "score": 0.895165,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_001_s1",
+      "title": "Accord",
+      "score": 0.88468,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190038_01_s1",
+      "title": "Accord (français et anglais)",
+      "score": 0.74368,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "19230005_001_s1",
+      "title": "Convention",
+      "score": 0.590518,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200072_001_s1",
+      "title": "Traité",
+      "score": 0.579573,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200069_001_s1",
+      "title": "Texte du Traité",
+      "score": 0.494134,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230004_001_s1",
+      "title": "Convention",
+      "score": 0.476816,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_630_s1",
+      "title": "Ratification du traité du 10 septembre 1919",
+      "score": 0.4637,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_880",
+      "title": "Instrument de ratification tchécoslovaque du traité, du protocole et de la déclaration",
+      "score": 0.441752,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
 }

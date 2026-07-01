@@ -1,0 +1,134 @@
+{
+  "document_id": "tra19240002_116",
+  "title": "Notification aux Etats parties à l'OIE",
+  "year": 1924,
+  "doc_type": "Notification",
+  "languages": [
+    "it"
+  ],
+  "quality_score": 0.9469,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Vittorio Emanuele III PER GRAZIA DI DIO E PER VOLONTÀ DELLA NAZIONE RE D'ITALIA Я tutti coloro che le presentivedranno salute Un Accordo per la creaxione in Farigi di un Uficio Teternazio nale delle epixo orie essendo stato stipulato fra l'Italia ed altri Scato e dai rispettivi Seripoteuciari sottooritto in Parigi il venticinquo geraio millenorcerato ventiquattro del terrore deguste: Noi avendo veduto il sovrascritt…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_116.pdf",
+  "source_filename": "tra19240002_116.pdf",
+  "source_sha256": "3d46498eeed780348d418a16bfdb130f5941824e7b7c28d1d0481a5a8c8b6cfc",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "BLR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Vittorio Emanuele III\n\nPER GRAZIA DI DIO E PER VOLONTÀ DELLA NAZIONE\n\nRE D'ITALIA\n\nЯ tutti coloro che le presentivedranno salute\n\nUn Accordo per la creaxione in Farigi di un\n\nUficio Teternazio nale delle epixo orie essendo stato stipulato fra l'Italia ed altri Scato e dai rispettivi\n\nSeripoteuciari sottooritto in Parigi il venticinquo geraio millenorcerato ventiquattro del terrore deguste:",
+      "quality_score": 0.9585,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Noi avendo veduto il sovrascritto Aecordo e approvandal in ogri e singola sua parte l'abbiamo accettato, ratificato e confermato come per le presenti l accettiamo, ratifichiamo e confermiamo promettendo di osservarlo e di farlo inviolabilmente osservare.\n\nIn fede di che, Noi abbiamo di Nostra mano firmaie le presenti e vi abbiamo fatto apporre il Nostro Reale\n\nSiaillo.\n\nDate a San Iossore il giorpo quattordici anfite milluongi ventate sauro a el Motio Mayeo sensatisione\n\nVitoreofram\n\ner parte de Qua. Sbacstavi Sie e sinistro degli allari Esteri\n\nMulini",
+      "quality_score": 0.9353,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_56_s1",
+      "title": "Instrument de ratification de l'Italie",
+      "score": 0.63313,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_436c_s1",
+      "title": "Instrument de ratification italien de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.427476,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_436_s1",
+      "title": "Instrument de ratification italien de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.425389,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630134_005",
+      "title": "Instrument italien",
+      "score": 0.42509,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19730055_11_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.418815,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19980155_436_s1",
+      "title": "Document-cadre",
+      "score": 0.418627,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19530025_005",
+      "title": "Instrument italien",
+      "score": 0.41811,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190005_005_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.416604,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_25_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.41608,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_062_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.414243,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

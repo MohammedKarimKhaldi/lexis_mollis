@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_91_s1",
+  "title": "Note verbale d'adhésion de Guinée Equatoriale",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9568,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 91 Embajada de la República de Guinea Ecuatorial en Francia 17. 0EC. 2004 ET ORGAYISATIONS INTERHATIGKALES N° 000786/B-1./04.- AMB/RGEF./VCM.- Exemplatre du CAD em L'Ambassade de la République de Guinée Équatoriale présente ses compliments au Ministère des Affaires Etrangères (Service du Protocole) et a l'honneur de lui faire savoir que le Gouvernement de Guinée Équatoriale adhère à la convention concernant…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_91_s1.pdf",
+  "source_filename": "19280002_91_s1.pdf",
+  "source_sha256": "f71ec7776531fd062a7bcf9d3b6e2347b2632ce4c705b6d4e61004ab909a6da5",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "GNQ002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 91",
+      "quality_score": 0.9434,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Embajada de la República de\n\nGuinea Ecuatorial en Francia\n\n17. 0EC. 2004\n\nET ORGAYISATIONS INTERHATIGKALES\n\nN° 000786/B-1./04.-\n\nAMB/RGEF./VCM.-\n\nExemplatre du CAD em\n\nL'Ambassade de la République de Guinée Équatoriale présente ses compliments au Ministère des Affaires Etrangères (Service du Protocole) et a l'honneur de lui faire savoir que le Gouvernement de Guinée Équatoriale adhère à la convention concernant les expositions internationales signée à Paris le 22 novembre 1928, telle que modifiée par les Protocoles du 16 novembre 1966 et du 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988.\n\nL'Ambassade de la République de Guinée Équatoriale saisit cette occasion pour renouveler au Ministère des Affaires Etrangères (Service du\n\nProtocole) les assurances de sa haute considérati\n\n④\n\nParis, le 15 décembre 2664\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nService du Protocole - à l'attention de Mme DEHAIS 57, boulevard des Invalides 75700 Paris 29 Boulevard de Courcelles 75008 Paris Téléphone: 01.56.88.54.54 Fax: 01.42.25.23.12 E-mail: embarege_paris@hotmail.com",
+      "quality_score": 0.9703,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_gbr001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.701249,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_79_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.682949,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_88_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.679912,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_87_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.678999,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_152_s1",
+      "title": "Notification aux Etats parties de la dénonciation de la Nouvelle-Zélande",
+      "score": 0.671367,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.670011,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_69_s1",
+      "title": "Lettre portant dénonciation",
+      "score": 0.66888,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.668561,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_182_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.667953,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.663944,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

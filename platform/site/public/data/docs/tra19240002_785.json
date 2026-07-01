@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_785",
+  "title": "Accusé de réception français de l'instrument santoméen",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.983,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ministère des affaires étrangères 61/05/02 14:43 Pg: 3 NUOVE Nº 788 Paris, le 21 mai 2002 Le Ministère des Affaires Etrangères présente ses compliments au Ministère des Affaires Eirangères de la République démocratique de Sao-Tomé-el-Principe et a l'honneur d'accuser réception de la letre du Ministère de l'Agriculture de Sao-Tomé-et- Principe en date du 7 mai 2002 relative à l'Office International des Epizooties. L'…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_785.pdf",
+  "source_filename": "tra19240002_785.pdf",
+  "source_sha256": "a1a4e5e164f6aeda5f92f9676aa60f9ac6f6631c80f68d938895716d7cc8f5bc",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "STP003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministère des affaires étrangères\n\n61/05/02\n\n14:43\n\nPg: 3\n\nNUOVE Nº 788\n\nParis, le 21 mai 2002\n\nLe Ministère des Affaires Etrangères présente ses compliments au Ministère\n\ndes Affaires Eirangères de la République démocratique de Sao-Tomé-el-Principe et a l'honneur d'accuser réception de la letre du Ministère de l'Agriculture de Sao-Tomé-et- Principe en date du 7 mai 2002 relative à l'Office International des Epizooties.\n\nL'adhésion de la République démocratique de Sao-Tomé-et-Principe à\n\nl'Office International des Epizooties a pris effet le 8 mai 20021.\n\nLe Ministère des Affaires Etrungères saisit cette occasion pour renouveler\n\nau Ministère des Affaires Etrangères de la République démocratique de Sao-Tomé-et- Principe les assurances de sa haute considération.\n\nMinistère des Affaires Etrangères\n\nRépublique démocratique de SAO-TOME-ET-PRINCIPE\n\nTOTAL PAGE(S) 03",
+      "quality_score": 0.983,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_740",
+      "title": "Accusé de réception de l'instrument rwandais",
+      "score": 0.756092,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_855",
+      "title": "Accusé de réception français de l'instrument surinamien",
+      "score": 0.738138,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.381122,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_050_s1",
+      "title": "Note verbale d'acceptation du Venezuela",
+      "score": 0.380511,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.378947,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.378456,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_005_s1",
+      "title": "Ratification",
+      "score": 0.377911,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_605",
+      "title": "Accusé de réception français de l'adhésion monténégrine",
+      "score": 0.376756,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_59_s1",
+      "title": "Lettre du Ministre des AE de l'Ouzbékistan d'adhésion de l'Ouzbékistan",
+      "score": 0.376277,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_386",
+      "title": "Accusé de réception de l'instrument haïtien",
+      "score": 0.374941,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

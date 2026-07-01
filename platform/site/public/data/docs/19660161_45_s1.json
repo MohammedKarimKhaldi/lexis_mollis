@@ -1,0 +1,116 @@
+{
+  "document_id": "19660161_45_s1",
+  "title": "Pouvoirs de signature de la Pologne",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9781,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Le Conseil des Ministres de la République Populaire de Pologne à tous ceux qui ces Présentes Lettres verront fait savoir ce qui suit: Un Protocole portant modification de l'Article 4 de la Convention signée 3 Paris le 22 Novembre 1928 concer- nant les expositions internationales, étant ouvert à la signature à Paris, Monsieur Antoni A DAMO WI C Z, Président de la Chambre Polonaise du Commerce Extérieur, est autorisé…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_45_s1.pdf",
+  "source_filename": "19660161_45_s1.pdf",
+  "source_sha256": "44179de202ef3316dc21b701d013117e0d50c87005ad568f77645302909c6175",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "POL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Le Conseil des Ministres de la République Populaire de Pologne à tous ceux qui ces Présentes Lettres verront fait savoir ce qui suit:\n\nUn Protocole portant modification de l'Article 4 de la Convention signée 3 Paris le 22 Novembre 1928 concer- nant les expositions internationales, étant ouvert à la signature à Paris, Monsieur\n\nAntoni A DAMO WI C Z,\n\nPrésident de la Chambre Polonaise du Commerce\n\nExtérieur, est autorisé à signer au nom du Gouvernement de la République Populaire de Pologne, sous réserve de ratifi- cation ultérieure, le Protocole susmentionné.\n\nEn Foi de Quoi les Présentes lui ont été délivrées pour valoir ce que de droit.\n\nFalt à Varsovie, le\n\n6 ma1 1966.\n\nmalaisienn",
+      "quality_score": 0.9781,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_46_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.410227,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_81_s1",
+      "title": "Pouvoirs de signature de la Pologne",
+      "score": 0.399265,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_170_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.392355,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.3849,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_082_s1",
+      "title": "Pouvoirs de signature de la Pologne",
+      "score": 0.384422,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_16_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.378298,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.376006,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_49_s1",
+      "title": "Pouvoirs de signature de la Roumanie",
+      "score": 0.374876,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_12_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.371088,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_172_s1",
+      "title": "Dépôt de l'instrument d'adhésion de la Pologne",
+      "score": 0.367613,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

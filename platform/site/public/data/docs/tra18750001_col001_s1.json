@@ -1,0 +1,116 @@
+{
+  "document_id": "tra18750001_col001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1875,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9892,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ministerio de Relaciones Exteriores JUAN MANUEL SANTOS CALDERÓN PRESIDENTE DE LA REPÚBLICA DE COLOMBIA, A TODOS LOS QUE LAS PRESENTES VIEREN, SALUD: CONSIDERANDO que se ha de proceder al depísito del Instrumento de Adhesión a la \"Convención del metro, firmada en París, el 20 de mayo de 1875 y modificada el 6 de octubre de 1921\" y su \"Reglamento Anexo\"; CONSIDERANDO que el Congreso de la República aprobó la citada Co…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18750001_col001_s1.pdf",
+  "source_filename": "tra18750001_col001_s1.pdf",
+  "source_sha256": "2817d0899cf836e6547f42abb8c6a4732dbbb9ee3270aa1d1b5c97867706def6",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "COL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministerio de Relaciones Exteriores\n\nJUAN MANUEL SANTOS CALDERÓN\n\nPRESIDENTE DE LA REPÚBLICA DE COLOMBIA,\n\nA TODOS LOS QUE LAS PRESENTES VIEREN,\n\nSALUD:\n\nCONSIDERANDO que se ha de proceder al depísito del Instrumento de Adhesión a la \"Convención del metro, firmada en París, el 20 de mayo de 1875 y modificada el 6 de octubre de 1921\" y su \"Reglamento Anexo\";\n\nCONSIDERANDO que el Congreso de la República aprobó la citada Convención y su Reglamento mediante la Ley 1512 de 6 de febrero de 2012, publicada en el Diario Oficial\n\nNo. 48.335 de 6 de febrero de 2012 y la Corte Constitucional los declaró exequibles a la par con su Ley Aprobatoria, mediante la Sentencia C-822 de 2012, he venido en aceptarlos, aprobarios y en disponer que se tengan como Ley de la República, comprometiéndose para su observancia el Honor Nacional, y para el efecto:\n\nEXPIDO EL PRESENTE INSTRUMENTO DE ADHESIÓN que será cursado al\n\nMinisterio de Asuntos Exteriores de la República Francesa, en calidad de depositario del tratado supra.\n\nDADO y firmado de mi mano, sellado con el Sello de la República de Colombia: y refrendado por la Viceministra de Relaciones Exteriores, encargada de las Funciones del\n\nDespacho de la Ministra de Relaciones Exteriores, en la ciudad de Bogotá D.C., a loS\n\nDIECISIETE\n\n( 1ydias del mes de ENERO\n\ndel\n\naño dos mil trece (2013).\n\nVICEMINISTRA DE RELACIONES EXTERIORES\n\nENCARGADA DE LAS FUNCIONES DEL DESPACHO\n\nDE LA MINISTRA DE RELACIONES EXTERIORES\n\nesfamelt\n\nMÓNICA LANZETTA MUTTIS",
+      "quality_score": 0.9892,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19550069_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.758779,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_046_s1",
+      "title": "Note verbale d'adhésion du Salvador",
+      "score": 0.406108,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv006_s1",
+      "title": "Instrument d'adhésion du Salvador",
+      "score": 0.405257,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.404353,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_037_s1",
+      "title": "Instrument du Chili",
+      "score": 0.396491,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.39162,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.387454,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.386369,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_286_s1",
+      "title": "Notification d'adhésion de l'Équateur à la Convention du Mètre",
+      "score": 0.382872,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.381591,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

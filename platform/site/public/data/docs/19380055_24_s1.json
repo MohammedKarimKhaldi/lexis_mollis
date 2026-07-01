@@ -1,0 +1,116 @@
+{
+  "document_id": "19380055_24_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Egypte",
+  "year": 1938,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9901,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES VERBAL constatant le dépôt de l'instrument des ratifications de l'Egypte sur la Convention portant modification de la Convention sanitaire internationale du 2I Juin I926 signée à Paris le 3I Octobre I938 Conformément aux dispositions de l'article 5 de la Convention portant modification de la Convention sanitaire Internationale du 2I Juin I926 , signée à Paris le 3I Octobre 1938, le soussigné, représentant de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380055_24_s1.pdf",
+  "source_filename": "19380055_24_s1.pdf",
+  "source_sha256": "e2138bc71cbef339997f7a0ec31fd4a65a33c4ec01bab8766021d6b1a0a25336",
+  "treaty_id": "TRA19380055",
+  "treaty_number": "EGY003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES VERBAL\n\nconstatant le dépôt de l'instrument des ratifications de l'Egypte sur la Convention portant modification de la\n\nConvention sanitaire internationale du 2I Juin I926 signée à Paris le 3I Octobre I938\n\nConformément aux dispositions de l'article 5 de la Convention portant modification de la Convention sanitaire Internationale du 2I Juin I926 , signée à Paris le 3I Octobre 1938, le soussigné, représentant de l'Egypte, s'est présenté aujourd'hui au Ministère des Affaires Etrangères et a remis, aux fina de dépôt aux archives du Gouvernement de la République et de notification subséquente aur parties en cause, l'instrument des ratifications de Sa Majesté lo\n\nRoi Farouk sur ladite Convention .\n\nEn procédant à cette formalité, le représentant de l'Egypte an au nom de son Gouvernement, donné lecture d'une déclaration qui, sur sa demande, est insérée ci-après au présent procès - verbal:\n\n\"Le Gouvernement Egyptien tient à signaler que, tant à cause \"de leur nature que de l'absence dans leur texte d'une disposition \"relative à leur ratification, ni l'Acte Final ni la Déclaration \"y annexée ne doivent être ratifiés, et que, en conséquence, la \"ratification du Gouvernement Egyptien porte uniquement sur la \"Convention elle -même . \"\n\nEN Foi de quoi, les soussignés ont dressé le présent procès -verbal, qu'ils ont revêtu de leur cachet . Falt à Paris le 24 Juillet 1939",
+      "quality_score": 0.9901,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380055_14_s1",
+      "title": "Pouvoirs de signature du Luxembourg",
+      "score": 0.429719,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_11_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Australie",
+      "score": 0.394486,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_20_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.387362,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_idn001_s1",
+      "title": "Instrument d'adhésion de l'Indonésie",
+      "score": 0.381801,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_19_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.379954,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_20_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.375995,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_06_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Egypte",
+      "score": 0.375738,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.373065,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.370783,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.370623,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

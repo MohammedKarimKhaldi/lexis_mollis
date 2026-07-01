@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20100143_s1",
+  "title": "Accord",
+  "year": 2010,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9779,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "CINQUIÈME PROCÈS-VERBAL DE RECTIFICATION DU TRAITÉ ENTRE LE ROYAUME DE BELGIQUE, LA RÉPUBLIQUE TCHÈQUE, LE ROYAUME DE DANEMARK, LA RÉPUBLIQUE FÉDÉRALE D'ALLEMAGNE, LA RÉPUBLIQUE D'ESTONIE, LA RÉPUBLIQUE HELLÉNIQUE, LE ROYAUME D'ESPAGNE, LA RÉPUBLIQUE FRANÇAISE, L'IRLANDE, LA RÉPUBLIQUE ITALIENNE, LA RÉPUBLIQUE DE CHYPRE, LA RÉPUBLIQUE DE LETTONIE, LA RÉPUBLIQUE DE LITUANIE, LE GRANDE-DUCHÉ DE LUXEMBOURG, LA RÉPUBLIQ…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20100143_s1.pdf",
+  "source_filename": "TRA20100143_s1.pdf",
+  "source_sha256": "7a05c55b119a80ff78375f124864bfa8de9d550cddcfa043c530274669a664ab",
+  "treaty_id": "TRA20100143",
+  "treaty_number": "01",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CINQUIÈME PROCÈS-VERBAL DE RECTIFICATION\n\nDU TRAITÉ\n\nENTRE\n\nLE ROYAUME DE BELGIQUE, LA RÉPUBLIQUE TCHÈQUE,\n\nLE ROYAUME DE DANEMARK, LA RÉPUBLIQUE FÉDÉRALE D'ALLEMAGNE,\n\nLA RÉPUBLIQUE D'ESTONIE, LA RÉPUBLIQUE HELLÉNIQUE,\n\nLE ROYAUME D'ESPAGNE, LA RÉPUBLIQUE FRANÇAISE, L'IRLANDE,\n\nLA RÉPUBLIQUE ITALIENNE, LA RÉPUBLIQUE DE CHYPRE,\n\nLA RÉPUBLIQUE DE LETTONIE, LA RÉPUBLIQUE DE LITUANIE,\n\nLE GRANDE-DUCHÉ DE LUXEMBOURG, LA RÉPUBLIQUE DE HONGRIE,\n\nLA RÉPUBLIQUE DE MALTE, LE ROYAUME DES PAYS-BAS,\n\nLA RÉPUBLIQUE D'AUTRICHE, LA RÉPUBLIQUE DE POLOGNE,\n\nLA RÉPUBLIQUE PORTUGAISE, LA RÉPUBLIQUE DE SLOVÉNIE,\n\nLA RÉPUBLIQUE SLOVAQUE, LA RÉPUBLIQUE DE FINLANDE, LE ROYAUME DE\n\nSUÈDE,\n\nLE ROYAUME-UNI DE GRANDE-BRETAGNE ET D'IRLANDE DU NORD,\n\n(ÉTATS MEMBRES DE L'UNION EUROPÉENNE)\n\nET\n\nLA RÉPUBLIQUE DE BULGARIE ET LA ROUMANIE,\n\nRELATIF À L'ADHÉSION DE\n\nLA RÉPUBLIQUE DE BULGARIE ET DE LA ROUMANIE À L'UNION EUROPÉENNE,\n\nSIGNÉ À LUXEMBOURG LE 25 AVRIL 2005\n\nAttendu que des erreurs ont été relevées dans le texte original des versions bulgare et roumaine du\n\ntraité d'adhésion à l'Union européenne signé à Luxembourg le 25 avril 2005 et dont le\n\ngouvernement de la République italienne est dépositaire;\n\nattendu que ces erreurs ont été portées à la connaissance des États signataires du traité par lettre du\n\njurisconsulte du Conseil de l'Union européenne aux représentants permanents des États membres de\n\nl'Union européenne en date du 21 décembre 2009;\n\nattendu que les États signataires n'ont pas formulé d'objections à l'encontre des corrections\n\nproposées dans cette lettre avant l'expiration du délai y indiqué;\n\nil a été procédé aujourd'hui, au ministère des affaires étrangères de la République italienne, à la\n\nrectification de ces erreurs dans le sens indiqué en annexe.\n\nEn foi de quoi, le présent procès-verbal a été établi, dont copie sera adressée aux gouvernements des\n\nÉtats signataires dudit traité.\n\nPV5/Accession BG RO/fr 1",
+      "quality_score": 0.9779,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20100135_s1",
+      "title": "Accord",
+      "score": 0.854863,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100142_s1",
+      "title": "Accord",
+      "score": 0.706101,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20120816_001_s1",
+      "title": "Accord",
+      "score": 0.444237,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100322_101_fr_s1",
+      "title": "Accord",
+      "score": 0.438405,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100322_001_s1",
+      "title": "Accord",
+      "score": 0.431828,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220148_001_s1",
+      "title": "Accord",
+      "score": 0.421714,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220147_001a_s1",
+      "title": "Accord",
+      "score": 0.421714,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100145_s1",
+      "title": "Accord",
+      "score": 0.398382,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20161726_001_s1",
+      "title": "Accord",
+      "score": 0.395413,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19380056_21_s1",
+      "title": "Instrument de ratification de la Roumanie",
+      "score": 0.378636,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

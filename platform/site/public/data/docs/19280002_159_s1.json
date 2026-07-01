@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_159_s1",
+  "title": "Notification du bureau international des expositions de l'adhésion de Palaos",
+  "year": 1928,
+  "doc_type": "Notification",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9691,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002_159 REPUBLIC OF PALAU fice of Minister of State ANDRES UHERBELAU Minister or state Note. 044/MS/97 The Ministry of State of the Republic of Palau Presents its compliments to the French Ministry of Foreign Affairs and has the honor to announce that the Government of the Republic of Palau has decided to adhere to the Convention relating to international Exhibitions of 22 November 1928 and to the Protocols of…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_159_s1.pdf",
+  "source_filename": "19280002_159_s1.pdf",
+  "source_sha256": "cc23e35c1cfd2c40d6b634d17c3019f6ff0c275ebf4f1cdf473d49d99009149c",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "PLW002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002_159",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "REPUBLIC OF PALAU\n\nfice of Minister of State\n\nANDRES UHERBELAU\n\nMinister or state\n\nNote. 044/MS/97\n\nThe Ministry of State of the Republic of Palau Presents its compliments to the French Ministry of Foreign Affairs and has the honor to announce that the Government of the Republic of Palau has decided to adhere to the Convention relating to international Exhibitions of 22\n\nNovember 1928 and to the Protocols of 16 November 1966 and 30\n\nNovember 1972 and to the Amendments of 24 June 1982 and 31 May 1988.\n\nThe Ministry of State of the Republic of Palau avails itself of this opportunity to renew to the French Ministry of Foreign Affairs the assurances of its highest consideration.\n\nCARTET\n\nKoror, Republic of Palau\n\nJune 03, 1997\n\nP.O. Box 100, Minister of State\n\nTel. (GiS) 48852309 • Kao(RepubicorPalau 96940",
+      "quality_score": 0.995,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_158_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.829288,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_152_s1",
+      "title": "Notification aux Etats parties de la dénonciation de la Nouvelle-Zélande",
+      "score": 0.802399,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_155_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.793539,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_147_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.767293,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.725607,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_138_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.724264,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.723071,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.718538,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_149_s1",
+      "title": "Acte d'adhésion",
+      "score": 0.71564,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_199_s1",
+      "title": "Instrument d'adhésion de la Slovénie",
+      "score": 0.713366,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

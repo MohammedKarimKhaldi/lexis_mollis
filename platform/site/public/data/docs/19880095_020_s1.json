@@ -1,0 +1,116 @@
+{
+  "document_id": "19880095_020_s1",
+  "title": "Pièces dans 19280002",
+  "year": 1988,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9819,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Frangaise C: 19850095 \"Le Gouvernement de la République donne son \"approbation à l'amendement à la convention signée à Paris le \"22 novembre 1928 concernant les expositions internationales, \"modifiée et complétée par les Protocoles des 10 mal 1948, 16 \"novembre 1966 et 30 novembre 1972 et par 1'amendement du 24 \"juin 1982, adopté par l'Assemblée Générale du Bureau \"International des Expositions le 31 mai…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_020_s1.pdf",
+  "source_filename": "19880095_020_s1.pdf",
+  "source_sha256": "f264fca320b31699ce47494518343654f0d2f12b8a0a41f92bf7d0db1901b956",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "FJI001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Frangaise\n\nC: 19850095\n\n\"Le Gouvernement de la République donne son \"approbation à l'amendement à la convention signée à Paris le \"22 novembre 1928 concernant les expositions internationales, \"modifiée et complétée par les Protocoles des 10 mal 1948, 16 \"novembre 1966 et 30 novembre 1972 et par 1'amendement du 24 \"juin 1982, adopté par l'Assemblée Générale du Bureau \"International des Expositions le 31 mai 1988.\n\n\"La présente lettre constitue l'acceptation visée à \"l'article 33 de la convention modifiée du 22 novembre 1928.\"\n\nParis, le 26 octobre 1988\n\nLe Ministre d'Etat,\n\nMinistre des Affaires Etrangères",
+      "quality_score": 0.9819,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.516576,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.422955,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_021_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.422837,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_026_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.42119,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_007_s1",
+      "title": "Instrument d'acceptation de l'Allemagne démocratique",
+      "score": 0.420786,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.41907,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_034_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.415376,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.409155,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_040_s1",
+      "title": "Note verbale de transmission de l'instrument d'acceptation de la Roumanie",
+      "score": 0.408851,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.404149,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

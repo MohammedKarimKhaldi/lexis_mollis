@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20100142_s1",
+  "title": "Accord",
+  "year": 2010,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.977,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCÈS-VERBAL DE RECTIFICATION DU TRAITÉ ENTRE LE ROYAUME DE BELGIQUE, LA RÉPUBLIQUE FÉDÉRALE D'ALLEMAGNE, LA RÉPUBLIQUE FRANÇAISE, LA RÉPUBLIQUE ITALIENNE, LE GRAND-DUCHÉ DE LUXEMBOURG, LE ROYAUME DES PAYS-BAS, (ÉTATS MEMBRES DES COMMUNAUTÉS EUROPÉENNES) ET LE ROYAUME DE DANEMARK, L'IRLANDE, LE ROYAUME DE NORVÈGE ET LE ROYAUME-UNI DE GRANDE-BRETAGNE ET D'IRLANDE DU NORD RELATIF A L'ADHÉSION DU ROYAUME DE DANEMARK,…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20100142_s1.pdf",
+  "source_filename": "TRA20100142_s1.pdf",
+  "source_sha256": "3274ea77b8b530e7afe54d1052db55f8ce4d4a8850b8a05e88a031d2c9c68521",
+  "treaty_id": "TRA20100142",
+  "treaty_number": "01",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCÈS-VERBAL DE RECTIFICATION\n\nDU TRAITÉ\n\nENTRE\n\nLE ROYAUME DE BELGIQUE, LA RÉPUBLIQUE FÉDÉRALE\n\nD'ALLEMAGNE, LA RÉPUBLIQUE FRANÇAISE, LA RÉPUBLIQUE ITALIENNE,\n\nLE GRAND-DUCHÉ DE LUXEMBOURG,\n\nLE ROYAUME DES PAYS-BAS,\n\n(ÉTATS MEMBRES DES COMMUNAUTÉS EUROPÉENNES)\n\nET\n\nLE ROYAUME DE DANEMARK, L'IRLANDE, LE ROYAUME DE NORVÈGE\n\nET LE ROYAUME-UNI DE GRANDE-BRETAGNE ET D'IRLANDE DU NORD\n\nRELATIF A L'ADHÉSION DU ROYAUME DE DANEMARK, DE L'IRLANDE,\n\nDU ROYAUME DE NORVÈGE\n\nET DU ROYAUME-UNI DE GRANDE-BRETAGNE ET D'IRLANDE DU NORD\n\nAUX COMMUNAUTÉS EUROPÉENNES,\n\nSIGNÉ À BRUXELLES LE 22 JANVIER 1972\n\nAttendu que des erreurs ont été relevées dans le texte original de la version irlandaise du traité\n\nd'adhésion aux Communautés européennes signé à Bruxelles le 22 janvier 1972 et dont le\n\ngouvernement de la République italienne est dépositaire;\n\nattendu que ces erreurs ont été portées à la connaissance des États signataires du traité par lettre du\n\njurisconsulte du Conseil de l'Union européenne aux représentants permanents des États membres de\n\nl'Union européenne en date du 21 décembre 2009;\n\nattendu que les États signataires n'ont pas formulé d'objections à l'encontre des corrections\n\nproposées dans cette lettre avant l'expiration du délai y indiqué;\n\nil a été procédé aujourd'hui, au ministère des affaires étrangères de la République italienne, à la\n\nrectification de ces erreurs dans le sens indiqué en annexe.\n\nEn foi de quoi, le présent procès-verbal a été établi, dont copie sera adressée aux gouvernements des\n\nÉtats signataires dudit traité.\n\nPV/Euratom/fr 1",
+      "quality_score": 0.977,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20100135_s1",
+      "title": "Accord",
+      "score": 0.756629,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100143_s1",
+      "title": "Accord",
+      "score": 0.706101,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930244_001_s1",
+      "title": "Accord, des deux protocoles et de la déclaration de la Belgique",
+      "score": 0.365912,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_16_s1",
+      "title": "Instrument de ratification du Brésil",
+      "score": 0.363617,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_001_s1",
+      "title": "Accord",
+      "score": 0.361376,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_10_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.357891,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_096_s1",
+      "title": "Instrument d'adhésion belge",
+      "score": 0.354253,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_001_s1",
+      "title": "Convention",
+      "score": 0.353306,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_23_s1",
+      "title": "Instrument de ratification de l'Egypte",
+      "score": 0.352373,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_01_s1",
+      "title": "Convention",
+      "score": 0.351735,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

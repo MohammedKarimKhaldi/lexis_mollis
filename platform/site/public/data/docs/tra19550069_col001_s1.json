@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19550069_col001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1955,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9967,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ministerio de Relaciones Exteriores JUAN MANUEL SANTOS CALDERÓN PRESIDENTE DE LA REPÚBLICA DE COLOMBIA, A TODOS LOS QUE LAS PRESENTES VIEREN, SALUD: CONSIDERANDO que, se ha de proceder al depósito del Instrumento de Adhesión de la \"Convención para constituir una Organización Internacional de Metrología Legal, firmada en París, el 12 de octubre de 1955, modificada en 1968 por enmienda del artículo XIII conforme a las…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19550069_col001_s1.pdf",
+  "source_filename": "tra19550069_col001_s1.pdf",
+  "source_sha256": "663d12b7409a452fbd33b11315c31e0ddfbcde5bb41bfd52d157d76222f7e85b",
+  "treaty_id": "TRA19550069",
+  "treaty_number": "COL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministerio de Relaciones Exteriores\n\nJUAN MANUEL SANTOS CALDERÓN\n\nPRESIDENTE DE LA REPÚBLICA DE COLOMBIA,\n\nA TODOS LOS QUE LAS PRESENTES VIEREN,\n\nSALUD:\n\nCONSIDERANDO que, se ha de proceder al depósito del Instrumento de Adhesión de la \"Convención para constituir una Organización Internacional de Metrología\n\nLegal, firmada en París, el 12 de octubre de 1955, modificada en 1968 por enmienda del artículo XIII conforme a las disposiciones del artículo XXXIX\",\n\nCONSIDERANDO que, el Congreso de la República aprobó la citada Convención mediante la Ley 1514 de 6 de febrero de 2012, publicada en el Diario Oficial No. 48.335 de 6 de febrero de 2012 y la Corte Constitucional lo declaró exequible a la par con su Ley\n\nAprobatoria, mediante la Sentencia C-621/12, he venido en aceptarlo, aprobarlo y en disponer que se tenga como Ley de la República, comprometiéndose para su observancia el\n\nHonor Nacional, y para el efecto:\n\nEXPIDO EL PRESENTE INSTRUMENTO DE ADHESIÓN que será cursado al\n\nMinisterio de Asuntos Exteriores de la República Francesa, de conformidad con el artículo\n\nXXXIII del tratado supra.\n\nDADO y firmado de mi mano, sellado con el Sello de la República de Colombia y refrendado por la Ministra de Relaciones Exteriores, en la ciudad de Bogotá D.C., a los\n\nVEINTIDOS\n\n( 22) dias del mes\n\nde\n\nNOVIEMBRE\n\ndel año dos mil doce\n\n(2012).\n\n90\n\nMINISTRA DE RELACIONES EXTERIORES",
+      "quality_score": 0.9967,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18750001_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.758779,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_037_s1",
+      "title": "Instrument du Chili",
+      "score": 0.402147,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_046_s1",
+      "title": "Note verbale d'adhésion du Salvador",
+      "score": 0.398437,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv006_s1",
+      "title": "Instrument d'adhésion du Salvador",
+      "score": 0.397463,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.391924,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.384468,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.380187,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_020_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'acceptation de Cuba",
+      "score": 0.379709,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.379526,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_031_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.378539,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

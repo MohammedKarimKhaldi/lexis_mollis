@@ -1,0 +1,131 @@
+{
+  "document_id": "19230072_922_s1",
+  "title": "Procès-verbal de dépôt des instruments de ratification turcs",
+  "year": 1923,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9281,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "conformément aux dispositions de l'article 143 du Iraité de Paix signé à Lausanne le 24 Juillet 1923, Chucri Kaya Bey, député de Mentéché, Président de la Cormission des Affaires Extérieures à la Grande Assemblée Nationalo de Tur- guie, s'est présenté au Ministère des Affaires Etrangères de la République française et a déposé les ratifications du Gou- vernement de la République de Jurquie sur ledit Traité et sur les…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_922_s1.pdf",
+  "source_filename": "19230072_922_s1.pdf",
+  "source_sha256": "01fc271d5bcd2deb6ad85fdd986fdf264246c751f49c78b9746b22ffbf1f3043",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "TUR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "conformément aux dispositions de l'article 143 du Iraité de Paix signé à Lausanne le 24 Juillet 1923, Chucri\n\nKaya Bey, député de Mentéché, Président de la Cormission des\n\nAffaires Extérieures à la Grande Assemblée Nationalo de Tur- guie, s'est présenté au Ministère des Affaires Etrangères de la République française et a déposé les ratifications du Gou- vernement de la République de Jurquie sur ledit Traité et sur\n\nles actes suivants, savoir :\n\n°) Convertion concernant le regime des Detroite signee\n\nusanne le 24 Juillet 1923\n\n2°) Convention concernant la frontière de Ihrace signée à\n\nLausanne le 24 Juillet 1923,\n\n) Convention relative à l'établissement et à la comp nee judiciaire, signée à Lausanne le 24 Juillet 192\n\nLet 192 Conrention Comerciale signóo à Isusanne 10 24 Ju22- '), Brotocole relatit à l'accession de la Belgique et ‹ rtugal à certaines dispositions d'actes signés à Lausann\n\nDéclarations de ces deux Puissances concernant ladite a saion, signés à Lausanne le 24 Julllet 192 7°) Protocole relatif au territoire de Karagatch 8°) Déclaration relative aux questions sanitaires,",
+      "quality_score": 0.9421,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "*\n\nsignéeù Lausanne le 24 Juillet 1923, j 99) Décla ration sur l'Administration Judiciaire signée à Lausanne le 24 Juillet 1923.\n\nFait à Paris le 31 Mars 1924",
+      "quality_score": 0.9141,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230072_352c_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative à la Thrace",
+      "score": 0.542183,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_003_s1",
+      "title": "Procès-verbal de dépôt des instruments britanniques, italiens et japonais de certains actes signés à Lausanne le 24 juillet 1923 et le 23 novembre 1923, et à Sèvres le 10 août 1920",
+      "score": 0.471602,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_352a_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec relatif à 12 actes signés à Lausanne",
+      "score": 0.438194,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_727_s1",
+      "title": "Note verbale roumaine demandant au dépositaire de rectifier la date du procès-verbal de dépôt des ratifications roumaines ainsi que le nombre d'actes conclus à Lausanne ratifiés par la Roumanie",
+      "score": 0.391859,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_732e_s1",
+      "title": "Procès-verbal de dépôt de déclarations britanniques et franco-britanniques",
+      "score": 0.391454,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.386985,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_001_s1",
+      "title": "Texte de l'acte final",
+      "score": 0.374198,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_733_s1",
+      "title": "Note de transmission britannique de plusieurs instruments et d'une déclaration britannique concernant les actes signés à Lausanne les 24 juillet et 23 novembre 1923 et certains actes signés à Sèvres le 10 août 1923",
+      "score": 0.373192,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_352b_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative aux modalités du remboursement par le gouvernement hellénique des dettes résultantes des actes des autorités helléniques en Turquie",
+      "score": 0.367675,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20220141_s1",
+      "title": "Accord",
+      "score": 0.357148,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

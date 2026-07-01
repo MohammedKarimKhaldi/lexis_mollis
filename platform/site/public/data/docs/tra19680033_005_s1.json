@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19680033_005_s1",
+  "title": "Instrument d'approbation",
+  "year": 1968,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9715,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "WHEREAS for the purpose of facilitating and promoting exchanges in the fields of education, the humanities, science and art between Malta and the French Republic a Cultural Agreement between the two Countries was signed at Paris on the Fourteenth day of february, One thousand Nine hundred and Sixty-eight by Mr Frederick B. Amato-Gauci, Secretary, Ministry of Commonwealth and Foreign Affairs, for the Government of Ma…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19680033_005_s1.pdf",
+  "source_filename": "tra19680033_005_s1.pdf",
+  "source_sha256": "db39d5ddaa37bad071bb16e3576156153aaee6d6ef14fc1dc92c8780ddffe102",
+  "treaty_id": "TRA19680033",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WHEREAS for the purpose of\n\nfacilitating and promoting exchanges in the fields of education, the humanities, science and art between Malta and the\n\nFrench Republic a Cultural Agreement between the two Countries was signed at\n\nParis on the Fourteenth day of february,\n\nOne thousand Nine hundred and Sixty-eight by Mr Frederick B. Amato-Gauci, Secretary,\n\nMinistry of Commonwealth and Foreign\n\nAffairs, for the Government of Malta, and\n\nMr Hervé Alphand, Ambassador of France,\n\nSecretary General of the Ministry of\n\nForeign Affairs, for the Government of the french Republic;\n\nI, GIORGIO BORG OLIVIER,\n\nMinister\n\nof Commonwealth and Foreign\n\nAffairs, do hereby declare and confirm for the purpose of Article 15 of the aforesaid Agreement, that the constitu- tional prescriptions in force in Malta for the conclusion and entering into force of international Agreements have been complied with.\n\nSigned and sealed at Valletta this 26 Th day of Apiel one thousand Nine hundred and Sixty-eight.\n\nCome plie",
+      "quality_score": 0.9715,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19680033_003_s1",
+      "title": "Pouvoirs",
+      "score": 0.425536,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_006_s1",
+      "title": "Accusé de réception maltais de l'instrument français : cf. 2ème paragraphe de la pièce /005 (notice-pièce /005)",
+      "score": 0.391539,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_005_s1",
+      "title": "Instrument maltais ET Accusé de réception maltais de l'instrument français",
+      "score": 0.391539,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_006_s1",
+      "title": "Note accusant réception de l'approbation française et transmettant l'instrument maltais",
+      "score": 0.384618,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_018_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.383688,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.378411,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192685_001_s1",
+      "title": "Accord",
+      "score": 0.378196,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_59_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification suisse",
+      "score": 0.377274,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.377221,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182422_001_s1",
+      "title": "Arrangement",
+      "score": 0.372414,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

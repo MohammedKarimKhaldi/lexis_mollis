@@ -1,0 +1,116 @@
+{
+  "document_id": "19570067_403_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Inde",
+  "year": 1957,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9887,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAT DE DEPOT DES INSTRUMENTS D'ADHESION DE LA REPUBIIQUE DE I'UNION INDIENNE A IA CONVENTION INSTITUANT UNE COMMIGSION SERICICOLE INTERNAIIONALE SIGNEE A PARIS LE Ter JUILIET 1957 Son Excellence Monsieur Nedyam RAGHAVAN, Ambassadeur Extraordinaire et Plénipotentiaire de 1 'Inde, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Ludovic CHANCEL, Itinistre Plénipoten…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_403_s1.pdf",
+  "source_filename": "19570067_403_s1.pdf",
+  "source_sha256": "7f8feb7be9cc7455e0b1a5be07c8b1f77b8f6462c32daf5c5d8dfd8df8dcc4de",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "IND003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAT\n\nDE DEPOT DES INSTRUMENTS D'ADHESION DE LA REPUBIIQUE DE I'UNION INDIENNE\n\nA IA CONVENTION INSTITUANT UNE COMMIGSION SERICICOLE INTERNAIIONALE\n\nSIGNEE A PARIS LE Ter JUILIET 1957\n\nSon Excellence Monsieur Nedyam RAGHAVAN,\n\nAmbassadeur Extraordinaire et Plénipotentiaire de 1 'Inde, s'est présenté aujourd'hui au Ministère des\n\nAffaires Etrangères pour procéder avec Monsieur Ludovic\n\nCHANCEL, Itinistre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépôt des instruments d'adhésion de la République de 1'Union Indienne à la Convention instituant une\n\nCommission Séricicole Internationale, signée à Paris le ler juillet 1957 en exécution de l'article 25, alinéa 2, de ladite Convention.\n\nLes instruments ayant été, après examen, trouvés en bonne et que forme, ont été déposés, pour y être conservés, dans les Archives de la République\n\nFrançaise.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent Procès-Verbal qu'ils ont revêtu de leur sceau.\n\nFAII A PARIS, en double exemplaire, le 11 septembre 1959\n\n1. Chancef",
+      "quality_score": 0.9887,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_728_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion de la Roumanie",
+      "score": 0.78062,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_978_s1",
+      "title": "Procès-verbal de dépôt de l'instrument yougoslave",
+      "score": 0.762194,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.629781,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_438",
+      "title": "Pouvoirs français",
+      "score": 0.59564,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_007_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification sud-africain",
+      "score": 0.404276,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.401647,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.399601,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_143_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion du Brésil",
+      "score": 0.398491,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv002_s1",
+      "title": "Procès-verbal du dépôt de l'instrument d'adhésion au protocole de 1972",
+      "score": 0.398129,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_698",
+      "title": "Procès-verbal de dépôt de l'instrument néerlandais",
+      "score": 0.395802,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

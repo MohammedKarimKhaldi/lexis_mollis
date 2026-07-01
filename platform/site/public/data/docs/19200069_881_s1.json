@@ -1,0 +1,116 @@
+{
+  "document_id": "19200069_881_s1",
+  "title": "Instrument de ratification tchécoslovaque",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8868,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "-AYANTvuet examiné le traité entrelesétats sue cessifs de la monarchie dustro-hongroise signé 2 Sevres le dix doût igz0 et fisent usage des facul rés que laconstitution de la République Tchécoslo- VAqUIE NOuS COnCEdE, Nous lavons approuve,approu vons et dectons qu'il Est accepté, ratifié er confirmé, et promettons de lE fairE ExÉCutEr Et observersE- lon sa formEEt tEnEuI, sans permettre quíil y soit con TrEVEnU En A…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200069_881_s1.pdf",
+  "source_filename": "19200069_881_s1.pdf",
+  "source_sha256": "6927274399c454877db2eb6ab872b3fa87c556219bc6e1bf8d997c7bcd1c062c",
+  "treaty_id": "TRA19200069",
+  "treaty_number": "CSK002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "-AYANTvuet examiné le traité entrelesétats sue cessifs de la monarchie dustro-hongroise signé 2\n\nSevres le dix doût igz0 et fisent usage des facul rés que laconstitution de la République Tchécoslo- VAqUIE NOuS COnCEdE, Nous lavons approuve,approu vons et dectons qu'il Est accepté, ratifié er confirmé, et promettons de lE fairE ExÉCutEr Et observersE- lon sa formEEt tEnEuI, sans permettre quíil y soit con\n\nTrEVEnU En AUCUNE SOTEE ET MAniÈrE qUE CESOit- EN FOI de quoi Nous avons donné les présentes reVe ares du scedu dela Républiquer\n\nFAIT & PrIQuE, le igMarsiozir\n\nLE Président de la République:\n\nFS. Mesark\n\nLEminiscre des saies ETRES",
+      "quality_score": 0.8868,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200070_881_s1",
+      "title": "Instrument de ratification tchécoslovaque",
+      "score": 0.726576,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_171_s1",
+      "title": "Instrument de ratification",
+      "score": 0.385675,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.382105,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_004_s1",
+      "title": "Instrument français",
+      "score": 0.379518,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_880",
+      "title": "Instrument de ratification tchécoslovaque du traité, du protocole et de la déclaration",
+      "score": 0.378723,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_151a_s1",
+      "title": "Instrument de ratification bulgare du Traité de Paix",
+      "score": 0.378707,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_005",
+      "title": "Instrument dahoméen (ratification)",
+      "score": 0.378336,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_41_s1",
+      "title": "Instrument de ratification du Luxembourg",
+      "score": 0.378169,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_880a_s1",
+      "title": "Pouvoirs tchécoslovaques",
+      "score": 0.375487,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_29_s1",
+      "title": "Instrument de ratification du Luxembourg",
+      "score": 0.375109,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

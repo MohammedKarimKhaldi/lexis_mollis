@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19240002_685",
+  "title": "Instrument d'adhésion",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9992,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REÇU 21 SEP. 2009 Papa Now Guines MINISTRY OF FOREIGN AFFAIRS, TRADE & IMMIGRATION Government of the Independent State of Papua New Guinca Office of the Minister 16 July 2009 HE Mr Bernard Kouchner . Minister for Foreign Affairs Republic of France Direction Generales des Affaires Politiques et de Securite Direction des Nations Unies et des Organizations Internationales 37, quai d'Orsay 75351 Paris, France Dear Colle…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_685.pdf",
+  "source_filename": "tra19240002_685.pdf",
+  "source_sha256": "18b97552a47e6fbee00cc05ad30ecb6a2fd52629e0a145eb582f3399b329a8dd",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "PNG001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REÇU 21 SEP. 2009\n\nPapa Now Guines\n\nMINISTRY OF FOREIGN AFFAIRS, TRADE & IMMIGRATION\n\nGovernment of the Independent State of Papua New Guinca\n\nOffice of the Minister\n\n16 July 2009\n\nHE Mr Bernard Kouchner . Minister for Foreign Affairs\n\nRepublic of France\n\nDirection Generales des Affaires Politiques et de Securite\n\nDirection des Nations Unies et des Organizations Internationales 37, quai d'Orsay 75351 Paris, France\n\nDear Colleague Minister Kouchner,\n\nREQUEST FOR WORLD ORGANIZATION FOR ANIMAL\n\nHEALTH (OTE) MEMBERSHIP FOR PAPUA NEW GUINEA\n\nI have the honor to advise you that Papua New Guinea has decided to become a member of the World Organization for Animal Health (OFE).\n\nThe Goverment of Papua New Guinea has examined the provisios of the\n\nInternational Agreement and of the Organic Statutes of 25 January 1924 and agrees to participate in the working costs of the Office under the conditions stated, especially with regard to Article 3 of the International Agreement and\n\nArticle 11 of the Internal Statutes.\n\nThe sixth (6) contribution category has been selected by my Government.\n\nThe official Delegate of Papua New Guinea to the OIE will be Dr. Nime\n\nKapo who is Chief Veterinary Officer.\n\nP.O. BOX 422, WAIGANI, NCD, PAPUA NEW GUINEA, TELEPHONE: (675) 301 4206, FACSIMILE: (675) 301 4103\n\nEmail: forcignmin@darec.net.pg",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": ": 2:\n\nYours faithfuliy,\n\nSamuel T. Abal, MP\n\nMinister for Foreign Affairs, Trade and Immigration\n\nCe: The Director General\n\nOIE\n\n12, rue de Prony 75017 Paris\n\nFrance",
+      "quality_score": 0.9984,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.656197,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_380",
+      "title": "Instrument d'adhésion guyanais",
+      "score": 0.603067,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_118_jamaique_adhesion_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.420835,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_230",
+      "title": "Instrument d'adhésion",
+      "score": 0.420512,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_545",
+      "title": "Instrument d'adhésion",
+      "score": 0.413403,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_090",
+      "title": "Instrument d'adhésion",
+      "score": 0.409013,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_56_s1",
+      "title": "Lettre du Ministre des AE demandant l'adhésion de Singapour",
+      "score": 0.401023,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_705",
+      "title": "Instrument d'adhésion",
+      "score": 0.383756,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_315",
+      "title": "Notification de l'OIE",
+      "score": 0.382759,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_375",
+      "title": "Notification française à l'OIE",
+      "score": 0.381642,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

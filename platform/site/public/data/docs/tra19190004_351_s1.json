@@ -1,0 +1,86 @@
+{
+  "document_id": "tra19190004_351_s1",
+  "title": "Note interne a/s remise en vigueur de certains accords bilatéraux Grèce-Autriche conformément aux termes du traité de Saint-Germain.",
+  "year": 1919,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8368,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "tute e FA TE th Ce e Tea fen n ie A3 Meenistere REPUBLIQUE FRANGAISE » faire ured. s elrangeres SD Due ZEIT E oO, (PEE. LL: ] 7 i Nor ze IA RUROPA Uv p lr | POUR LA SOUS-DIRECTION DES ARCHIVES. W^ + mi. b LR qm LES E t TM ge wo i ALIS TIE rl ut Lave oh fr \"T \"e m La Direction des Affa politiques et ecmmerciaies « l'honneur de faire savoir à toutes fine utiles à la Sous-Direction des Archives que 13e OM GET helléniqu…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190004_351_s1.pdf",
+  "source_filename": "tra19190004_351_s1.pdf",
+  "source_sha256": "71aa4aa1fb2b58a44582e91a523f101ea43ec73e73cee2741674f1b36e4df405",
+  "treaty_id": "TRA19190004",
+  "treaty_number": "GRE002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "tute e FA TE th Ce e Tea fen n ie\n\nA3\n\nMeenistere REPUBLIQUE FRANGAISE » faire ured. s elrangeres\n\nSD\n\nDue ZEIT E oO, (PEE. LL:\n\n] 7 i Nor ze IA\n\nRUROPA Uv p lr\n\n| POUR LA SOUS-DIRECTION DES ARCHIVES. W^ +\n\nmi. b LR qm\n\nLES E t TM ge wo i\n\nALIS TIE rl ut\n\nLave oh fr \"T \"e m\n\nLa Direction des Affa politiques\n\net ecmmerciaies « l'honneur de faire savoir à toutes fine utiles à la Sous-Direction des Archives que 13e OM GET hellénique vient, ainsi qu'il résulte d'une péosche sommnioation du le Ligation de Grèes uk conforadment à l'ertigie 241 du Traitd | ae Ba nin rr in, 4e potifias au ücurernemart nnd | Chien ia rendue en vigunur À partis du 26 setobre 1920, dai conrantions, déciaratione et traité euirants entre la Orbee ot l'Autriche +\n\n1*/ = Convention re.etive aux eussese\n\nsions webiliazves den sujete Groce décédée an Autei« ehe ou des sujets autrichiens décédés on Grèce, du\n\nAZ Juin 28561\n\nz0/ « nésiaratione eonsernant i'exexpe",
+      "quality_score": 0.7885,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Boã$ 1902, du dã anûr 1902, du 9 copterbro 1904 o7\n\n30/ - commension caspersent 1'07-\n\ntredition idoluraque one mataiots déorEtAMis, du 28 5456 28741.\n\n40/= Ireité dextraditios entro",
+      "quality_score": 0.8852,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230072_733_s1",
+      "title": "Note de transmission britannique de plusieurs instruments et d'une déclaration britannique concernant les actes signés à Lausanne les 24 juillet et 23 novembre 1923 et certains actes signés à Sèvres le 10 août 1923",
+      "score": 0.361983,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_352b_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de la convention entre la Bulgarie et la Grèce",
+      "score": 0.361648,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19240002_935",
+      "title": "Accusé de réception français de l'instrument soviétique",
+      "score": 0.351652,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "tra19880302_010",
+  "title": "Lettre en réponse équato-guinéenne (Accord par échange de lettre)",
+  "year": 1988,
+  "doc_type": "Lettre",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9647,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "00000, Marcoino Nyucora Orguane Arando de Alumino Eucarion Supeditaco do Sinnsa Eucioacad Malabo, 2 de marzo de 1.989.- ! Señor Embajador: honro en acusar recibo de su carta fechada el 23 de diciembre de 1.988, que dice lo siguiente: \"Señor Ministro.- ZI Acuerdo de Cooperación Militar entre el Gobierno de la República Francesa y el Gobierno de Guinea Ecuatorial, firmado en Malabo ei de marzo de 1.985, comporta versi…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19880302_010.pdf",
+  "source_filename": "tra19880302_010.pdf",
+  "source_sha256": "dab7af653ecbea308837d1f1fcb19e3e98605c5f9d61b30a939fe1f14aca24b6",
+  "treaty_id": "TRA19880302",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "00000,\n\nMarcoino Nyucora Orguane\n\nArando de Alumino Eucarion\n\nSupeditaco do Sinnsa Eucioacad\n\nMalabo,\n\n2 de marzo de 1.989.-\n\n!\n\nSeñor Embajador:\n\nhonro en acusar recibo de su carta fechada el 23 de diciembre de 1.988, que dice lo siguiente:\n\n\"Señor\n\nMinistro.- ZI\n\nAcuerdo de Cooperación Militar entre\n\nel Gobierno de\n\nla República Francesa y\n\nel Gobierno de Guinea\n\nEcuatorial, firmado en Malabo ei\n\nde marzo de 1.985, comporta\n\nversiones\n\nfrancesa\n\ny española un\n\nen el artículo\n\nIV a) que debería\n\nde leerse: \"'''Le Gouvernement de la République\n\nde Guinée Iquatoriale prend\n\ncharge la réparation des de-\n\ngats causés...'''\n\nà sa charge la répartition..\";\n\ntambién\n\nasímismo en la versión española que debería leerse:\n\n''''El Gobierno de\n\nRepública de Guinea Icuatorial se hace cargo\n\ncargo de\n\nla reparación\n\nde los perjuicios causados..\"\" y no: \"\"se\n\nlace cargü de là distribucián...''.'\n\nLo sería agradocido si tuviera\n\na bien dar su conformidad sobre lo que precede, el presente intercam bio de notas constituiría un acuerdo entre nuestros dos Godiernos, acuerdo que tendría\n\nefecto a partir de la fecha de recepción\n\nde nuestra respuesta\".\n\nEn su relación,\n\nme honre en confirmarle a Vuestra Excelencia\n\nla conformidad de\n\nGobierno al contenido de su carta que, con\n\nesta mía, constituyen el acuerdo entra nuestros dos Gobiernos.\n\nAcepte,\n\nSeñor Embajador, la expresión\n\nmás distinguida.\n\nde mi consideración\n\nGUINEA\n\nEL MINIS IRO\n\nExomo. Señor Marcel CAUSSE,\n\nImpajador Extraordinario y\n\nPlenipotenciario de la República\n\nFrancesa en Guinea Ecuatorial.\n\nL\n\n0.",
+      "quality_score": 0.9647,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19880302_001",
+      "title": "Lettre française (accord par échange de lettre)",
+      "score": 0.420839,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.353876,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.351104,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

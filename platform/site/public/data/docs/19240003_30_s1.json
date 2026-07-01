@@ -1,0 +1,67 @@
+{
+  "document_id": "19240003_30_s1",
+  "title": "Instrument de ratification de la Grèce",
+  "year": 1924,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "quality_score": 0.7802,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "ens Eprons Dimongarias 29% Hocuboioo 1924, uraju Oppádo, Jovaviao, Jayjiao,» Diyyagias, Srajias, Moufentonogar, Jociogagas nai.. Firedos, cougarias cocai idovors is Juaowions. Dredvous Joageion Divou, is ió neiuscos iveron. Olodejaneda, éguoivours nai invoonues cio raveno nai fizzájanes is ornavor airns diá ens Morgajno roi Kocrovo Sogpagidos. irons. f A tepasin",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_30_s1.pdf",
+  "source_filename": "19240003_30_s1.pdf",
+  "source_sha256": "826156bfe3e1e7d07211223b69c7e1e82855429164401ee4220cd53e1e06576f",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "GRE002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ens Eprons Dimongarias\n\n29% Hocuboioo 1924, uraju Oppádo, Jovaviao, Jayjiao,»\n\nDiyyagias, Srajias, Moufentonogar, Jociogagas nai..\n\nFiredos, cougarias cocai idovors is Juaowions.\n\nDredvous Joageion Divou, is ió neiuscos iveron.",
+      "quality_score": 0.8022,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Olodejaneda, éguoivours nai invoonues cio\n\nraveno nai fizzájanes is ornavor airns diá ens Morgajno roi Kocrovo Sogpagidos.\n\nirons.\n\nf A tepasin",
+      "quality_score": 0.7583,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19930199_008_s1",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1993,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9966,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL D'ECHANGE DES INSTRUMENTS DE RATIFICATION DU TRAITE D'AMITIE ET DE COOPERATION ENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE D'OUZBEKISTAN Nous, soussignés, Margie SUDRE, Secrétaire d'Etat chargé de la francophonie auprès du Ministre des Affaires Etrangères de la République française, et Abdulaziz KAMILOV, Ministre des Affaires Etrangères de la République d'Ouzbékistan, avons procédé, le 23 avril 1996…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19930199_008_s1.pdf",
+  "source_filename": "tra19930199_008_s1.pdf",
+  "source_sha256": "2d11971256978b35d220c74bcd689a3950f806e8e23984db01170ca0b3c595f5",
+  "treaty_id": "TRA19930199",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL D'ECHANGE\n\nDES INSTRUMENTS DE RATIFICATION\n\nDU TRAITE D'AMITIE ET DE COOPERATION\n\nENTRE\n\nLA REPUBLIQUE FRANCAISE\n\nET\n\nLA REPUBLIQUE D'OUZBEKISTAN\n\nNous, soussignés, Margie SUDRE, Secrétaire\n\nd'Etat chargé de la francophonie auprès du Ministre des\n\nAffaires Etrangères de la République française, et\n\nAbdulaziz KAMILOV, Ministre des Affaires Etrangères de la République d'Ouzbékistan, avons procédé, le 23 avril 1996,\n\nà Paris, à l'échange des instruments de\n\nRatification du Traité d'amitié et de coopération entre la République française, et la République d'Ouzbékistan signé le 27 octobre 1993 à Paris, ratifié par le\n\nPrésident de la République française le 26 février 1996 et par le Soviet Suprême de la République d'Ouzbékistan le 29 décembre 1993.\n\nLors de\n\nl'échange des instruments de\n\nRatification, il a été établi qu'ils sont en bonne et due forme.\n\nEN FOI DE QUOI a été rédigé le présent Procès-\n\nVerbal signé en deux exemplaires, en langue française.\n\nFAIT à PARIS, en double exemplaire, le vingt trois avril mil neuf cent quatre- vingt seize\n\nM. SUDRE\n\nA. KAMILOV",
+      "quality_score": 0.9966,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19610286_008_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification du Traité",
+      "score": 0.40589,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_008",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.389431,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.382953,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_004_s1",
+      "title": "Instrument français",
+      "score": 0.382282,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19320073_100_s1",
+      "title": "Protocole d'échange de ratifications",
+      "score": 0.371202,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.368631,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620053_004_s1",
+      "title": "Instrument français",
+      "score": 0.367327,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620251_004_s1",
+      "title": "Instrument français",
+      "score": 0.367327,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620047_004_s1",
+      "title": "Instrument français",
+      "score": 0.367327,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620046_004_s1",
+      "title": "Instrument français",
+      "score": 0.367327,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

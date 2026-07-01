@@ -1,0 +1,116 @@
+{
+  "document_id": "19880095_025_s1",
+  "title": "Pièces dans 19280002",
+  "year": 1988,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9495,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Rf 1376 Ambasciata d'Halia Sarigi NOTE VERBALE 20FEV 1390 L'Ambassade d'Italie présente ses compliments au Ministère des Affaires Etrangères de lui communiquer l'accentation du Gouvernement italien de l'Amendement à la Convention du 22 novembre 1928 modillee et completee par les Protocoles des 10 mai 1948, 16 novemore novembre 19/2 et par l'Amendement du 24 juin 1982, adopté par I'Assemblée Générale du Bureau Intern…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_025_s1.pdf",
+  "source_filename": "19880095_025_s1.pdf",
+  "source_sha256": "d48a3ce8d3b96ee66693832b388e25781c1230cd9c48116050aeba6eaf277f8a",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "450",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Rf 1376\n\nAmbasciata d'Halia\n\nSarigi\n\nNOTE VERBALE\n\n20FEV 1390\n\nL'Ambassade d'Italie présente\n\nses compliments\n\nau Ministère des\n\nAffaires\n\nEtrangères\n\nde lui communiquer l'accentation du Gouvernement italien de l'Amendement à\n\nla Convention du 22\n\nnovembre 1928\n\nmodillee et completee par\n\nles Protocoles des 10 mai\n\n1948, 16 novemore\n\nnovembre 19/2 et\n\npar\n\nl'Amendement du 24 juin 1982, adopté par\n\nI'Assemblée\n\nGénérale du\n\nBureau\n\nInternational des\n\nExpositions le\n\n31 mai 1988.\n\nsalsit L'occasion\n\npour\n\nrenouveler\n\nMinistère\n\nAffaires\n\nassurances de sa parfaite considérailon filtrangères\n\nles\n\nSOCIA\n\nParis, le 22 FEV. 1990\n\nMinistère des Affaires Etrangères\n\nDirection des Nations Unies et\n\nOrganisations Internationaies 37, quai d'orsay 75007 PARIS",
+      "quality_score": 0.9495,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.434893,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mlt001_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.422657,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_037_s1",
+      "title": "Note verbale d'acceptation du Pérou",
+      "score": 0.416502,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.416347,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.414191,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_035_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.413067,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.411139,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.41095,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_irn002_s1",
+      "title": "Notification au Bureau international des expositions de l'adhésion de l'Iran",
+      "score": 0.409164,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_049_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.408394,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

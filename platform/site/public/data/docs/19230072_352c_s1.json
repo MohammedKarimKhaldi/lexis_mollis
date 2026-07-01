@@ -1,0 +1,102 @@
+{
+  "document_id": "19230072_352c_s1",
+  "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative à la Thrace",
+  "year": 1923,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9787,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Conformément aux dispositions de l'article 143 du Traité de Paix signó à Lausanne 1e 24 Juillet 1923, le Ministre de Grèce à Paris s'est présenté au Ministè- re des Affaires Etrangères de la République française et a déposé les Ratifications de Sa Majesté le Hoi des Hellènes sur la CONVENTION concernant la frontière de Ihrace, signée à Lausanne le 24 Juillet 1923 nalta Paris le 11 Février 1924 afairt",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_352c_s1.pdf",
+  "source_filename": "19230072_352c_s1.pdf",
+  "source_sha256": "84f7c2107beddb5c4a4fa70950299dfb75e0dde793d238a87ff47ee8442a3774",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "GRE003c",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Conformément aux dispositions de l'article 143 du Traité de Paix signó à Lausanne 1e 24 Juillet 1923, le Ministre de Grèce à Paris s'est présenté au Ministè- re des Affaires Etrangères de la République française et a déposé les Ratifications de Sa Majesté le Hoi des\n\nHellènes sur la CONVENTION concernant la frontière de\n\nIhrace, signée à Lausanne le 24 Juillet 1923\n\nnalta\n\nParis le 11\n\nFévrier 1924\n\nafairt",
+      "quality_score": 0.9787,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230072_352a_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec relatif à 12 actes signés à Lausanne",
+      "score": 0.63268,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_922_s1",
+      "title": "Procès-verbal de dépôt des instruments de ratification turcs",
+      "score": 0.542183,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_352b_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative aux modalités du remboursement par le gouvernement hellénique des dettes résultantes des actes des autorités helléniques en Turquie",
+      "score": 0.406,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_003_s1",
+      "title": "Procès-verbal de dépôt des instruments britanniques, italiens et japonais de certains actes signés à Lausanne le 24 juillet 1923 et le 23 novembre 1923, et à Sèvres le 10 août 1920",
+      "score": 0.388226,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200049_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.382474,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_732e_s1",
+      "title": "Procès-verbal de dépôt de déclarations britanniques et franco-britanniques",
+      "score": 0.368681,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200048_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.355878,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.354399,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

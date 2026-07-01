@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_17_s1",
+  "title": "Lettre de l'OIVV transmettant la demande d'adhésion de Chypre",
+  "year": 1924,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.929,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PI OFFICE INTERNATIONAL TY 64 QA I DE LA VIGNE ET DU VIN (Institution officielle créée par l'arrengement international du 29 Novembre 1924) Paris, le 26 juillet 1962 11. RUE ROQUÉPINE M s (g*) TÉLÉPHONE : ANJ. 04-16 Objet : Monsieur le Ministre des Affaires Etrangères MINISTERE DES AFFAIRES. PARIS PARI LE DIRECTEUR Val N.Rd.: RP/MK 1297 L124 co mv E (GN Dto ^* ^ | {30 JUIL19621 Ove ARRIVEE Monsieur le Ministre, J'ai…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_17_s1.pdf",
+  "source_filename": "19240003_17_s1.pdf",
+  "source_sha256": "9976a0caf85cba452f8c669ecf661e811350a476e97ad409d966590e2b2d47e6",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "201",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PI\n\nOFFICE\n\nINTERNATIONAL\n\nTY 64 QA I\n\nDE LA VIGNE ET DU VIN\n\n(Institution officielle créée par l'arrengement international du 29 Novembre 1924) Paris, le 26 juillet 1962\n\n11. RUE ROQUÉPINE M\n\ns (g*)\n\nTÉLÉPHONE : ANJ. 04-16\n\nObjet :\n\nMonsieur le Ministre des Affaires Etrangères\n\nMINISTERE DES AFFAIRES.\n\nPARIS\n\nPARI\n\nLE DIRECTEUR Val\n\nN.Rd.: RP/MK 1297\n\nL124\n\nco mv E (GN Dto ^* ^ | {30 JUIL19621\n\nOve\n\nARRIVEE\n\nMonsieur le Ministre,\n\nJ'ai l'honneur de vous faire connaître que 1'O.I.V. a reçu du Ministère de l'Agriculture et des Ressources de la Répu- blíque de Chypre une lettre lui faisant connaître La décision de cet Etat d'adhérer à l'Arrangement international du 29 novembre 1924,\n\nVous trouverez ci-joint une photocopie de ce document.\n\nMalgré les précisions que je lui ai fournies, le Gouver- nement cypriote n'a pas utilisé, en vue de cette ahdésion, la voie diplomatique prévue per la Convention en question. Il n'en reste pas moins que sa décision paraît nettement établie par le document que je vous transmets.\n\nPeut-être jugerez-vous opportun, dans ces conditions, d'engager sans plus tarder la procédure de consultation prévue à l'article 6 de l'Arrangement.\n\nS*11 en était ainsi, du temps serait gagné et la République de Chypre pourrait être admise au sein de l'O.I.V, au début de 1963, ce qui présenterait des avantages certains.\n\nJe vous remercie du soin que vous voudrez bien prendre de cette affaire.\n\nVeuillez agréer, Monsieur le Ministre, l'expression de ma haute considération.\n\nSA! 3\n\n-—— -t",
+      "quality_score": 0.929,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_35_s1",
+      "title": "Note verbale de transmission de l'instrument d'adhésion d'Israël",
+      "score": 0.402972,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_98_s1",
+      "title": "Notification aux Etats membres de l'adhésion de la Suède",
+      "score": 0.397792,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_65_s1",
+      "title": "Instrument de ratification de Monaco",
+      "score": 0.393672,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_14_s1",
+      "title": "Rappel aux Etats qui n'ont pas répondu de la demande d'adhésion de la Bolivie",
+      "score": 0.388132,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_66_s1",
+      "title": "Lettre du Ministère des Douanes et des Monopoles confirmant le retrait de la Turquie",
+      "score": 0.385118,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_62_s1",
+      "title": "Notification à la Syrie de l'acceptation de sa candidature à l'adhésion",
+      "score": 0.384555,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_86_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et l'article 35",
+      "score": 0.382823,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_43_s1",
+      "title": "Dépêche de notification aux ambassades auprès des Etats-parties de l'adhésion du Mexique",
+      "score": 0.382163,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.382064,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_63_s1",
+      "title": "Transmission de la note de la Roumanie sur l'adhésion de Taïwan",
+      "score": 0.381435,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

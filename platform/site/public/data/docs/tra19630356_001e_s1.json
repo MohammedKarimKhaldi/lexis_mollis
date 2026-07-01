@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19630356_001e_s1",
+  "title": "Lettre française sur la subordination des personnels de coopération",
+  "year": 1963,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9934,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PARIS, le 10 Juillet 1963. Monsieur le Président, Lors de la discussion de l'article 5, alinéa 1, de l'accord général de coopération technique, je vous ai exposé l'intérêt qu'attache le Gouvernement français à ce que les personnels de coopération technique mis à la disposition du Gouvernement de la République togolaise ne soient pas subordonnés dans leur emploi à une autorité autre que celle d'un agent togolais ou f…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19630356_001e_s1.pdf",
+  "source_filename": "tra19630356_001e_s1.pdf",
+  "source_sha256": "d374a06738a0774e6b7beac77a502334319227fa97c4dd1f86596ad5966a8209",
+  "treaty_id": "TRA19630356",
+  "treaty_number": "001e",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PARIS, le 10 Juillet 1963.\n\nMonsieur\n\nle\n\nPrésident,\n\nLors de la discussion de l'article 5, alinéa 1, de l'accord\n\ngénéral de coopération technique, je vous ai exposé l'intérêt qu'attache le Gouvernement français à ce que les personnels de coopération technique mis à la disposition du Gouvernement de la République togolaise ne soient pas subordonnés dans leur emploi à une autorité autre que celle d'un agent\n\ntogolais ou français des services publies de la République\n\ntogolaise.\n\nCependant, des dérogations à ce principe pourraient être\n\nenvisagées dans certains cas exceptionnels après entente préalable nos deux Gouvernements dans chaque cas.\n\nJ'ai l'honneur de vous demander de bien vouloir me confirmer\n\nvotre accord sur l'application de cette règle générale et de ses dérogations éventuelles.\n\nVeuillez agréer, Monsieur le Président, les assurances de\n\nma haute\n\nconsidération.\n\nSigné : Raymond TRIBOULET.\n\nSon Excellence\n\nMonsieur APEDO AMAH\n\nPrésident\n\nde la Délégation Togolaise.\n\ncopie certifiée conforme à l'original.\n\nPARIS, le\n\n7 Avril 1984 inisters\n\n0120272100",
+      "quality_score": 0.9934,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630356_001f_s1",
+      "title": "Lettre en réponse sur la subordination des personnels de coopération",
+      "score": 0.717472,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001c_s1",
+      "title": "Lettre française sur la rémunération des agents de coopération technique",
+      "score": 0.41976,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_001d_s1",
+      "title": "Lettre togolaise sur l'article 15",
+      "score": 0.403595,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_001e_s1",
+      "title": "Lettre en réponse sur l'article 15",
+      "score": 0.401313,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630108_001b_s1",
+      "title": "Lettre française",
+      "score": 0.396608,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_001b_s1",
+      "title": "Lettre française sur l'article 6",
+      "score": 0.395218,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750103_100_s1",
+      "title": "Publication au Journal officiel du",
+      "score": 0.389361,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730110_001_s1",
+      "title": "Convention",
+      "score": 0.37966,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.376878,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.373505,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

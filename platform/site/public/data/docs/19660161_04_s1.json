@@ -1,0 +1,116 @@
+{
+  "document_id": "19660161_04_s1",
+  "title": "Pouvoir de signature de la ratification",
+  "year": 1966,
+  "doc_type": "Autre",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "- DER PRASIDENT DER BUNDESREPUBLIK DEUTSCHLAND VOLLMACHT Der Botschafter der Bundesrepublik Deutschland in Paris, Herr Dr. Manfred Klaiber, wird hiermit bevollmächtigt, in Namen der Bundes- republik Deutschland das Protokoll zur Änderung des Artikel 4 des Abkommens über Internationale Ausstellungen vom 22. November 1928 In seiner durch das Protokoll von 10. Mal 1948 geänderten Fassung unter Vorbehalt der Ratifikatio…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_04_s1.pdf",
+  "source_filename": "19660161_04_s1.pdf",
+  "source_sha256": "32f47bfb8f3ebdb05c44550557a6a4d0cbfa62f98bde47074a0358fe39c16667",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "DEU002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "-\n\nDER PRASIDENT\n\nDER BUNDESREPUBLIK DEUTSCHLAND\n\nVOLLMACHT\n\nDer Botschafter der Bundesrepublik Deutschland in Paris,\n\nHerr Dr. Manfred Klaiber, wird hiermit bevollmächtigt, in Namen der Bundes- republik Deutschland das Protokoll zur Änderung des Artikel 4 des Abkommens über Internationale\n\nAusstellungen vom 22. November 1928 In seiner durch das Protokoll von 10. Mal 1948 geänderten\n\nFassung unter Vorbehalt der Ratifikation zu unterzeichnen.\n\nBonn, den\n\n21. April 1966\n\nDER BUNDESPRÄSIDENT\n\nDER BUNDESMINISTER DES AUSWÄRTIGEN",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_030_s1",
+      "title": "Pouvoirs allemands pour la ratification de la convention",
+      "score": 0.538424,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.405562,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.402261,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.387253,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_06_s1",
+      "title": "Instrument d'adhésion au protocole de 1948 de l'Allemagne fédérale",
+      "score": 0.385032,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_011_s1",
+      "title": "Pouvoirs ouest-allemands",
+      "score": 0.382501,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_18_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.377209,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.375384,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_60_s1",
+      "title": "Pouvoirs de signature de la Tchécoslovaquie",
+      "score": 0.374613,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_22_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.372627,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

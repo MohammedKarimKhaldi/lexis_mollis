@@ -1,0 +1,129 @@
+{
+  "document_id": "tra19290061_001d_s1",
+  "title": "Lettre de dénonciation",
+  "year": 1929,
+  "doc_type": "Lettre",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9986,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE MINISTRE DES AFFAIRES ETRANGÈRES 2 Monsieur le Secrétaire Général, Par lettre en date du 16 mai 1966, signée du Ministre des Affaires Etrangères, le Gouvernement de la République française vous avait fait savoir dans quelles conditions il acceptait la juridiction de la Cour Internationale de Justice, conformément à l'article 36 8 2 de son Statut, pour tous les différends qui s'élèveraient au sujet de faits ou de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19290061_001d_s1.pdf",
+  "source_filename": "tra19290061_001d_s1.pdf",
+  "source_sha256": "220941c4f73fabdf886229d40e4bb952638b6cee6306ba9ef032b03cd969f2f1",
+  "treaty_id": "TRA19290061",
+  "treaty_number": "001D",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE MINISTRE\n\nDES\n\nAFFAIRES ETRANGÈRES\n\n2\n\nMonsieur le Secrétaire Général,\n\nPar lettre en date du 16 mai 1966, signée\n\ndu Ministre des Affaires Etrangères, le Gouvernement de la\n\nRépublique française vous avait fait savoir dans quelles conditions il acceptait la juridiction de la Cour Internationale de Justice, conformément à l'article 36 8 2 de son Statut, pour tous les différends qui s'élèveraient au sujet de faits ou de situations postérieurs à la lettre en question, sous réserve de l'exclusion de certaines catégories de différends.\n\nIl était, à cet égard, précisé que cette\n\nacceptation demeurerait valable jusqu'à ce que soit donnée notification de son abrogation.\n\nJ'ai l'honneur , au nom du Gouvernement de\n\nla République française, de vous nótifier cette abrogation qui prendra effet à la date de la présente notification.\n\nJe vous prie de croire, Monsieur le\n\nSecrétaire Général, à l'assurance de ma haute considération.\n\nMonsieurKurt WALDHEIM\n\nSecrétaire Général des Nations Unies\n\nNEW - YORK",
+      "quality_score": 0.9972,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Iranslated from French\n\nThe Minister of Foreign Affairs\n\nMr. Secretary-veneral,\n\nIn a letter dated 16 Way 1966, signed by the sinister for toreign Affairs, the lovernment of the trench republic informed you of the conditions under which it would accept the jurisdiction of the International vourt of vustice, in conformity with article 36, paragraph 2, of its ütatute, in all disputes which might arise concerning occurrences or situations subsequent to the letter in question, subject to the exclusion of certain categories of dispute.\n\nIn that connexion, it was specified that the acceptance would remain in force until notification was given of its abrogation.\n\nI have the honour, on behalf of the Government of the French republic, to give you notice of such abrogation, which will take effect on the date of this notification.\n\nAccept, Sir,\n\nthe assurances of my highest consideration.\n\n(signed)\n\nMichel JOBERT\n\nMr. Kurt WALDHEIM\n\nSecretary General of the United\n\nNations\n\nNEW YORK",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19290061_001e_s1",
+      "title": "Lettre accusant réception de la notification d'abrogation française",
+      "score": 0.400497,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr003_s1",
+      "title": "Dénonciation de la convention",
+      "score": 0.398337,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.395657,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_13_s1",
+      "title": "Notification d'adhésion de la Belgique",
+      "score": 0.395464,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290061_001_s1",
+      "title": "Déclaration",
+      "score": 0.395338,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.395124,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380028_05_s1",
+      "title": "Note verbale ajoutant l'Australie à l'accession au traité",
+      "score": 0.391522,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.390551,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.39027,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.38949,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

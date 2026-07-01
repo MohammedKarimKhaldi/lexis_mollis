@@ -1,0 +1,63 @@
+{
+  "document_id": "tra18570006_009",
+  "title": "Déclaration",
+  "year": 1857,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9013,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "نزان Déclaration. du moment de procéder à 1 échange des ratifications de leurs Haut Gouvernemens sur la Consentien segnee la 16 Movembra 1897 entre la Fiance et le Grand Suche. ' de Bao, les Péripotentiaires toueignés declarant que, nonobstand les tormes de l'autel per de la die Conrention portant fixation de la ligne de jinction à établio ente les gater de strasbourg et de Rehl, Toute latitude sera laissé récitroqu…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18570006_009.pdf",
+  "source_filename": "tra18570006_009.pdf",
+  "source_sha256": "684adf388eaa23a780fae2a526dd3a3b610194821719429f375cbc08ddb366bd",
+  "treaty_id": "TRA18570006",
+  "treaty_number": "009",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "نزان\n\nDéclaration.\n\ndu moment de procéder à 1 échange des ratifications de leurs\n\nHaut Gouvernemens sur la Consentien segnee la 16 Movembra 1897 entre la\n\nFiance et le Grand Suche.\n\n' de Bao,\n\nles Péripotentiaires toueignés declarant que, nonobstand les tormes de l'autel per de la die Conrention portant fixation de la ligne de jinction à établio ente les gater de strasbourg et de Rehl,\n\nToute latitude sera laissé récitroquement aus deux Abanter Pasties\n\nContractantes pour la détormination definitite du tracé de cette lione sur leur propre Territoue, etant d'ailleurs bien entendu, d'ane prast, que rien ne tela changé à l'empla -cement du pont et aux points d'arrivée de la ligne sur les deux rinco; d'autre part, que les disposition de Particla\n\n2. de la méme Convention destinées à ásurer la libre circulation du matériel roulant des chemins de fer francais et badois recerront, en tout état de cauda, leur pleine application.\n\nfene\n\nhuguenter",
+      "quality_score": 0.9013,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18480004_100",
+      "title": "Projet de ratification bavaroise non daté",
+      "score": 0.379615,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18480004_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.353556,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "document_id": "19720117_06_s1",
+  "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+  "year": 1972,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "fr"
+  ],
+  "quality_score": 0.9865,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DER PRASIDENT DER BUNDESREPUBLIK DEUTSCHLAND VOLLMACHT Der Botschafter der Bundesrepublik Deutschland in Paris, Sigismund Freiherr von Braun, wird hiermit bevollmächtigt, das Protokoll zur Änderung des Abkommens vom 22. November 1928 über Internationale Ausstellungen für die Bundesrepublik Deutschland unter Vorbehalt der Ratifikation zu unterseichnen. Bonn, den 29. November 1972 r Bundespräside Der Bundesminister de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_06_s1.pdf",
+  "source_filename": "19720117_06_s1.pdf",
+  "source_sha256": "f740d9a41f684c59b69f54a30212fb41bc16e9bdb17df12d2f335ee51760ecad",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "DEU001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DER PRASIDENT\n\nDER BUNDESREPUBLIK DEUTSCHLAND\n\nVOLLMACHT\n\nDer Botschafter der Bundesrepublik Deutschland in Paris,\n\nSigismund Freiherr von Braun, wird hiermit bevollmächtigt, das Protokoll zur Änderung des Abkommens vom 22. November 1928 über Internationale\n\nAusstellungen für die Bundesrepublik Deutschland unter\n\nVorbehalt der Ratifikation zu unterseichnen.\n\nBonn, den 29. November 1972\n\nr Bundespräside\n\nDer Bundesminister des Auswärtigen",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Iraduction non officielle\n\nLe Président de la République rédérale d'Allemagne\n\nPOUTOIR\n\nI'Ambassadeur de la République Jédérale d'Allemagne à Paris\n\nSigismund Freiherr von Braun est autorisé par la présente à signer pour la République\n\nFédérale d'Allemagne et sous réserve de la ratification le protocole portant modification de la convention du 22 novembre 1928 concernant les expositions internationales.\n\nBonn, le 29 novembre 1972\n\nLe Président fédéral signé: Heinemann\n\nIe Ministre fédéral des affaires\n\nEtrangères signé: Scheel",
+      "quality_score": 0.9729,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_04_s1",
+      "title": "Pouvoir de signature de la ratification",
+      "score": 0.405562,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_05_s1",
+      "title": "Extension de la validité de la convention au Land de Berlin",
+      "score": 0.399497,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600202_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.395607,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_100_s1",
+      "title": "Pouvoirs de signature de la Suisse",
+      "score": 0.386873,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_011_s1",
+      "title": "Pouvoirs ouest-allemands",
+      "score": 0.386302,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19750012_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.379846,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_15_s1",
+      "title": "Pouvoirs de signature de l'Autriche",
+      "score": 0.378233,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_030_s1",
+      "title": "Pouvoirs allemands pour la ratification de la convention",
+      "score": 0.376887,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.37667,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_87_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Roumanie",
+      "score": 0.372451,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

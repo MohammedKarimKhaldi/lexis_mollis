@@ -1,0 +1,140 @@
+{
+  "document_id": "19190038_02_s1",
+  "title": "Procès-verbal de dépôt des ratifications",
+  "year": 1919,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8811,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "PROCES-VERBAL DU DÉPÔT DES RATIFICATIONS SUR LE TRAITÉ SIGNÉ À VERSAILLES LE 28 JUIN 1919 entre les États-Unis d'Amérique, l'Empire Britannique, la France, VItalie et le Japon d'une part, et la Pologne d'autre part. En exécution des clauses finales du Traité signé à Versailles, le 38 juin 1919, entre les Étals-Unis d'Amérique, l'Empire Britannique, la France, T'Italie et le Japon d'une part, et la Pologne d'autre pa…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190038_02_s1.pdf",
+  "source_filename": "19190038_02_s1.pdf",
+  "source_sha256": "fc5cb759f30a430c4417c29f49962df466bcaf220fccafdabc51134a9803520f",
+  "treaty_id": "TRA19190038",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nDU DÉPÔT DES RATIFICATIONS SUR LE TRAITÉ\n\nSIGNÉ À VERSAILLES LE 28 JUIN 1919\n\nentre les États-Unis d'Amérique, l'Empire Britannique, la France, VItalie et le Japon d'une part, et la Pologne d'autre part.\n\nEn exécution des clauses finales du Traité signé à Versailles, le 38 juin 1919, entre les Étals-Unis d'Amérique, l'Empire Britannique, la France, T'Italie et le Japon d'une part, et la Pologne d'autre part, les soussignes se sont réunis au Ministère des Affaires étrangères, à Paris pour procéder au dépôt des ratifications et les remettre au Gouverne rent de la République française\n\nLes instruments des ratifications ou notification de leur envoi par :\n\nI'Empire Britannique,\n\nLa France,\n\nL'Italie,\n\nLe Japon (l'instrument sera remis ultérieurement).\n\nEt par la Pologne, ont été produits et ayanl été, après examen, trouvés en honne et due forme, sont confiés au Gouvernement de la République francaise non rester déposes dans ses archives.\n\nConformément aux dispositiots des clauses finales précitées, le Gou- vernement francais donnera avis aux Puissances contractantes du dépôt des ratinagtione",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "- 2 - EN FOI DE QUOI, les soussignés ont dressé le présent procès-verbal et y ont apposé leurs cachets.\n\nFait à Paris, le dix janvier rg20, à seize heures quinze minutes.\n\n+ Elle se\n\n7. Sing",
+      "quality_score": 0.9645,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "D Ae ys s EN RN",
+      "quality_score": 0.6788,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200070_882_s1",
+      "title": "Procès-verbal de dépôt de l'instrument tchécoslovaque",
+      "score": 0.698178,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_006_s1",
+      "title": "Procès-Verbal de dépôt des instruments de ratification de l'accord",
+      "score": 0.683607,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_352a_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.662547,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200069_882_s1",
+      "title": "Procès-verbal de dépôt de l'instrument techécoslovaque",
+      "score": 0.657587,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_882_s1",
+      "title": "Procès verbal de dépôt de l'instrument tchécoslovaque",
+      "score": 0.645503,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_732_s1",
+      "title": "Procès-verbal de dépôt de l'instrument britannique",
+      "score": 0.447629,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_002_s1",
+      "title": "Procès verbal de dépôt des ratifications britanniques, françaises, italiennes, japonaises, belges, roumaines, serbes-croates-slovènes, siamoises, tchécoslovaques et hongroises pour le Traité de paix, le Protocole et la Déclaration",
+      "score": 0.408095,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_172_s1",
+      "title": "Dépôt de l'instrument d'adhésion de la Pologne",
+      "score": 0.394114,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_003_s1",
+      "title": "Procès-verbal de dépôt des instruments britanniques, italiens et japonais de certains actes signés à Lausanne le 24 juillet 1923 et le 23 novembre 1923, et à Sèvres le 10 août 1920",
+      "score": 0.39018,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_54_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.389122,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

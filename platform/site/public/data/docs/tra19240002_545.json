@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_545",
+  "title": "Instrument d'adhésion",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "بسم النه ترح الرجيم MINISTER OF FOREIGN AFFAIRS REPUBLIC OF MALDIVES 23 October 2007 Dear Excellency, I have the honour to advise you that the Republic of Maldives has decided to become a member of the Office international des épizooties. The Government of the Republic of Maldives has examined the provisos of the International Agreement and of the Organic Statutes of 25 January 1924 and agrees to participate in the…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_545.pdf",
+  "source_filename": "tra19240002_545.pdf",
+  "source_sha256": "c4ca0777cbc62f405deecc78bf27bc8113e70dceedc1d08cb5a5550a24169f6a",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "545",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "بسم النه ترح الرجيم\n\nMINISTER OF FOREIGN AFFAIRS\n\nREPUBLIC OF MALDIVES\n\n23 October 2007\n\nDear Excellency,\n\nI have the honour to advise you that the Republic of Maldives has decided to\n\nbecome a member of the Office international des épizooties.\n\nThe Government of the Republic of Maldives has examined the provisos of\n\nthe International Agreement and of the Organic Statutes of 25 January 1924 and agrees to participate in the working costs of the Office under the conditions stated, especially with regard to Article 3 of the International Agreement and Article 11 of the Internal Statutes.\n\nThe sixth contribution category has been selected by my Government.\n\nThe official Delegate of the Government of the Republic of Maldives to the\n\nOIE will be Mr. Mohamed Zuhair, Deputy Minister, Ministry of Fisheries, Agriculture and Marine Resources of the Republic of Maldives.\n\nPlease accept, Excellency, the assurances of my highest consideration.\n\nYours faithfully,\n\nModula an\n\nAbdulla Shahid\n\nHis Excellency Mr. Bernard Kouchner\n\nMinister of Foreign Affairs of the Republic of France\n\nDirector Générale des Affaires politique et the sécurit é\n\nDirection des National Unies et des Oraganisations Interantionales 37, quai d' Orsay\n\nFRANCE\n\ncc. Director General, OIE",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.682982,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_425",
+      "title": "Instrument d'adhésion",
+      "score": 0.678381,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_230",
+      "title": "Instrument d'adhésion",
+      "score": 0.648409,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_118_jamaique_adhesion_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.640179,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_380",
+      "title": "Instrument d'adhésion guyanais",
+      "score": 0.43502,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_090",
+      "title": "Instrument d'adhésion",
+      "score": 0.414895,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_685",
+      "title": "Instrument d'adhésion",
+      "score": 0.413403,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.406955,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_56_s1",
+      "title": "Lettre du Ministre des AE demandant l'adhésion de Singapour",
+      "score": 0.397618,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_39_s1",
+      "title": "Note verbale d'adhésion du Liban",
+      "score": 0.388923,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

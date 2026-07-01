@@ -1,0 +1,328 @@
+{
+  "document_id": "tra19320073_005_s1",
+  "title": "Instrument turc",
+  "year": 1932,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "nl",
+    "tr"
+  ],
+  "quality_score": 0.9109,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "CRT rame c- depre mecs E P tain ey RMSE EE SU LIE COT Mh MO aii og IE DEAN NP CUI, PRIME Ed rm ERA RE | SM eM ptt e titi uc IEEE | | || 1 | | [| | 14 | Te ij Em | : | | OT 5g ae PU PE Re te ES ; : zx sein pads d e dise mp nee ra Dazi Mustafa Nemal Çükine Reisicumhuru Bu Mesikalarr girecellerior rilesine Selan: ÜRKİYE VE FRANSA CÜMHURİYETLERI, ARALARINDA, TÜRKİYE'DEKİ SURİYELİ EMLÂKİ İLE SURİYE'DEKİ TÜRKLERE AİT EMLÂ…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19320073_005_s1.pdf",
+  "source_filename": "tra19320073_005_s1.pdf",
+  "source_sha256": "f635291ee2d256f4c9257d5f05e601503ac82278ce270c608017c39b46ba8f2c",
+  "treaty_id": "TRA19320073",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CRT\n\nrame c- depre\n\nmecs\n\nE P\n\ntain ey RMSE EE SU LIE COT Mh MO aii og IE DEAN NP CUI, PRIME Ed rm ERA RE |\n\nSM\n\neM ptt",
+      "quality_score": 0.6916,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "e\n\ntiti uc IEEE\n\n| | || 1 | |\n\n[| |\n\n14 |\n\nTe ij Em | : | |\n\nOT 5g ae PU PE Re te ES ; : zx sein pads d e dise mp nee ra",
+      "quality_score": 0.5818,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Dazi Mustafa Nemal\n\nÇükine Reisicumhuru\n\nBu Mesikalarr\n\ngirecellerior rilesine Selan:\n\nÜRKİYE VE FRANSA CÜMHURİYETLERI, ARALARINDA,\n\nTÜRKİYE'DEKİ SURİYELİ EMLÂKİ İLE SURİYE'DEKİ\n\nTÜRKLERE AİT EMLÂK MESAİLİNİN HEYETİ UMUMİYESİNİN\n\nNISFETKARANE VE AMELI BIR SURETTE TESVIYESINE TE-\n\nVESSÜL ETMEĞİ ARZU EYLEDİKLERİ CIHETLE, ANKARA'DA,\n\n27 BİRİNCİ TEŞRİN 1932 TARİHİNDE BİR İTİLÂFNAME AKİT VE\n\nIMZA EYLEMİŞLERDİR.\n\nŞBU İTİLÂFNAMENİN METNI BERVEÇHİ ATİDİR:",
+      "quality_score": 0.9542,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "tr",
+        "de",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "edes\n\nIi Iii\n\nTürkive ile Fransa arasinda\n\nSuriye'de Türklere ait emlàk ile Türkiye'de\n\nSuriyelilere ait emlàk hakkinda\n\nitiláfname\n\nConvention\n\nrelative aux Biens Syriens en Turquie et aux Biens Turcs en Syrie\n\nentre\n\nTürkiye Cümhuriyeti Reisi ile Franca Cüm- huriyeti Reisi Türkiye'deki Suriyeli emlaki ile\n\nSuriye'deki Türklere ait emlak mesailinin heyeti umumiyesinin nisfetkárane ve ameli bir surette tesviyesine tevessül etmegi arzu eylediklerinden bu bapta bir itilàíname aktine karar vermisler ve karsilikh Murahhaslari olarak:\n\nTürkiye Reisi Cüàmhuru ;\n\nHariciye Vekili ve Izmir Mebusu Doktor\n\nTevtik Riistti Beyefendiyi,\n\nFransa Reisi Cümhuru;\n\nFransa Cümhuriyetinin Ankara Büyük Elcisi,\n\nLejiyon donór nisaminin Komandor rütbesini\n\nLa Turquie et la France\n\ni —\n\nLe Président de la République Turque et le Président de la République Francaise, désireux de procéder à un réglement équitable et pratique de l'ensemble de la question des\n\nBiens Syriens en Turquie et des Biens Turcs en Syrie, ont décidé de conclure une Convention à cet effet et ont nommé pour leurs\n\nPlénipotentiaires respectifs :\n\nLe Président de la République Turque;\n\nSon Excellence le Dr. Tevfik Rüstü Bey,\n\nMinistre des Affaires Etrangères, Député d’izmir,\n\nLe Président de la République Française;\n\nSon Excellence Monsieur Louis Charles\n\nPineton de Chambrun, Ambassadeur Extraor-",
+      "quality_score": 0.9671,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "Louis Pineton de\n\nhamil Môsyô Charles\n\nChambrun'ü tayin etmislerdir.\n\nMiisarileyh Murahhaslar usulüne muvafik górülen saláhiyetnamelerini birbirine —teblig ettikten sonra atideki ahkámi kararlastirmislardir :\n\nFASIL I.\n\nSuriye ve Libuan dali. Türk emlake\n\nMADDE 1.\n\nMuahedename-\n\nTurk sinin 31 inci maddesinde istihdaf edilen Türk\n\ntebaasina ve Lozan\n\noptanlarina ait gayrimenkuller üzerine Suriye ve Lübnan'da halen mevzu tahdidi tedbirler, isbu Itilafnamenin mevkii meriyete vazindan itibaren, asagidaki 8-inci maddenin 1-inci fikra- sinda muharrer müddetler zarfinda, kaldirila- caktir.\n\nMADDE 2.\n\nSuriye ve Lübnan'da kâin kóylere müstereken . Sahip olup ta Lozan Muahedenamesinin 33 üncü maddesine tevfikan ikametgàáhlarim Suriye ve\n\nLübnan hudutlar haricine nakletmis bulunan\n\nTürk optanlari, haklarim serbestce tasarruf etmek salahiyetini muhafaza edecekler ve bu haklan bizzat veya vekilleri marifetile istimal eyleyecek- lerdir.\n\nMADDE 3.\n\nSuriye ve Lübnan'da kâin mülklerine ve gayrimenkullerine esbabi mücbireden dolayi isletmegi ve ayni haklarim istimal eylemegi temin edememis olan Türk tebaa ve optanlari mezkür sebep dolayisile metruk veya mahlál addedilmis olan gayrimenkul emval ve haklarina tekrar tesahup edeceklerdir.\n\nFASIL II.\n\nTite dirue de kdin Suriyeli emlaki\n\nMADDE 4.\n\n30 Mayis 1926 tarihli Ankara ltiláfnamesi ahkämina tevfikan hakk: hiyarlarim Osmanli\n\nImparatorlugundan ayrilmig ve Fransa Cümhu-\n\nsuec us dinaire et Plénipotentiaire de la République\n\nFrancaise à Ankara, Commandeur de la Légion d'Honneur,\n\nLesquels, apres s'être communiqué leurs ' pleins pouvoirs, trouvés en bonne et due forme, sont convenus des dispositions ci-après:\n\nCHAPITRE I.\n\nBiens Tures en Syrie et au libun\n\nARTICLE 1.\n\nLes mesures restrictives actuellement appliquées en Syrie et au Liban sur les immeubles appartenant aux ressortissants turcs et aux optants turcs visés par l'art. 31 du Traité de\n\nLausanne, seront levées à partir de la mise en vigueur de la présente Convention, dans les délais prévus à l'art. 8, premier paragraphe, ci-dessous.\n\nARTICLE 2.\n\nLes optants turcs propriétaires en commun de villages situés en Syrie et au Liban qui, conformément à l'art. 33 du Traité de Lausanne, ont transféré leur domicile hors des frontières de la Syrie et du Liban, disposition de\n\nconserveront la libre leurs droits et pourront les\n\nexercer eux-mémes ou par mandataires.\n\nARTICLE 3.\n\nLes ressortissants et les optants turcs qui, pour cause de force majeure, n'ont pu assurer la mise en valeur de leurs propriétés et de leurs immeubles situés en Syrie et au Liban, ou faire usage de leurs droits réels, seront remis en possession des qui, pour cette cause, auraient (té considér(s comme vacants ou tombés en déshérence.\n\nimmeubles ou droits\n\nCHAPITRE IL.\n\nBiens Syriens en Turquie\n\nARTICLE 4.\n\nLes mesures actuellement appliquées en\n\nTurquie aux fins de restreindre le droit de libre disposition sur les immeubles appartenant",
+      "quality_score": 0.9281,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "riveti idaresi aluna vaze lilmis memleketlerde meri tabiiyet lehine istimal etmis eshasa ait\n\n- gayrimenkuller üzerinde — serbestce — tasarruf hakkini tahdit zimninda halen 'Türkiye'de mevzu tedbirler igbu ltilâfnamenin mevkii meriyete vazndan itibaren ve asagidaki 8- inci maddenin {-inci fikrasmda muharrer müddetler zarhnda kaldirilacaktir.\n\nisbu maddenin yukaridaki fikrasinda istihdaf edilen eshas, Türkiye'de kâin olup hakki hiyarin' -istimali tarihinden sonra vaziyet muamelesine ugramig olan mülklerine ve gayrimenkul malla- rma ve kezalik vaziyet tarihindenberi bir makam taralindan tabsil edilmis bulunan icar bedellerine tekrar tesahup edeceklerdir.\n\nMADDE 5.\n\nOsmanli imparatorlugundan — aynlan ve\n\nFransa Cümhuriyeti idaresi . altma vazolunan arazide 30 Tesrinievel 1914 tarihinde yerlesmis olup, Lozan Muahedenamesinin 30- uncu mad- desi mucibince bu arazide meri tabiiyeti iktisap . etmig bulunan her asildan Türk tebaasina ve\n\nLozan Muahedenamesinin mevkii meriyete gir- difi tarihte, en asagi bir senedenberi Suriye veya Lübnan'da ikamet etmekte olup ve kendi- leri yahut pederleri bu memleketlerde mütevellit bulunan ve Osmanh lmparatorlu&undan ayrilan ve Fransa Cümhuriyeti idaresi altima vazedilmis olan arazide meri tabiiyeti Lozan Muahedena- mesinin 20. uncu maddesi mucibince iktisap etmig bulunan Türk tebaasina ve kezälik mez- kür Muahedenamenin 32 ve 34- üncü maddele- rinde istihdaf edilen optanlara ait bulunan em- ‘Wak üzerinde serbestçe tasarruf hakkini tahdit amninda Türkiye'de halen mevzu tedabir, isbu\n\nItiláínamenin mevkii meriyete vazindan itibaren ve asafidaki 8- inci maddenin birinci fikrasinda muharrer müddetler zarfinda kaldirilacaktir.\n\nlsbu maddenin evvelki fikrasinda | istihdal edilen eshas, Tiirkiye’de káin olup ta Lozan\n\nMuahedenamesinin mevkii meriyete konulmas:\n\ntarihinden sonra vaziyet muamelesine ugramis\n\nOlan mülklerine ve gayrimenkul mallarina ve kezälik vaziyet tarihinden itibaren bir makam!\n\nresmi tarafindan tahsil edilmig icar bedellerine àyni tarihten itibaren tekrar tesahup edecek- lerdir.\n\naux. personnes ayant optó, conformément aux\n\nMi de la Convention d'Ankara du 30 Mai 1926, pour la nationalité en vigueur dans les territoires détachés de l'Empire Otto.\n\nbus 3 5 P à :\n\ni placés sous l'autorité de la République ran gae, seront levées à partir de la mise en vigueur de la présente Convention, et dans les délais prévus à l'arti emie | D article 8, premier paragraphe, ci-dessous.\n\nLes personnes visées au paragraphe précédent du présent article, seront, à partir de la méme date, remises en possession de leurs propriétés et de leurs biens immobiliers sis en\n\nTurquie, sur lesquels main-mise a été effectuée, postérieurement à la date d'option, ainsi que le montant des loyers perçus par un service public depuis la date de la main-mise.\n\nARTICLE 5.\n\nLes mesures actuellement appliquées en\n\nTurquie aux fins de restreindre le droit de libre disposition sur les immeubles appartenant aux ressortissants turcs de toute origine, établis au 30 octobre 1914 sur les territoires détachés de l'Empire Ottoman, placés sous l'autorité de la République Francaise, ayant acquis la nationalité en vigueur sur ces territoires en vertu de l'article 30 du Traité de Lausanne et aux ressortissants turcs qui, à la date de la mise en vigueur du Traité de Lausanne, résidaient depuis une année au moins en Syrie et au\n\nLiban, et qui en étaient natifs, ou dont le père y était né, ayant acquis la nationalité en vigueur sur les territoires détachés de l'Empire\n\nacés sous l'autorité de la République\n\nOttoman pl |\n\nParticle 30 du ‘Fraité de\n\nFrancaise en vertu de\n\nLausanne, ainsi qu'aux 32 et 34 dudit Traité, seront levées la mise en vigueur de la présente\n\nais prévus à l'article 8, optants visés aux\n\narticles à partir de\n\nConvention et dans les dél premier paragraphe, ci-dessous.\n\nLes personnes visées au paragraphe précé-\n\ndent du présent article seront, à partir de la même date, remises en possession de leurs propriétés et de leurs biens immobiliers sis en\n\nls main-mise a été effectuée\n\nTurquie, sur lesque\n\nà la date de la mise en vigueur ainsi que du montant | service public depuis\n\npostérieurement du Traité de Lausanne, des loyers perçus par ul la date de la main-mise.",
+      "quality_score": 0.9291,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "A D AT\n\nMADDE 6.\n\nEvvelki ahkâm mucibince iadeleri icap eden gayrimenkuller 4-üncü ve 5-inci maddelerde tespit edilen tarihlerden sonra tasliye edilmis iseler, veya bunlar istimlak, resmi, milli veya beledi emval meyanina ithal edilmis olmak, yahut kiymetlerine tesir eden tahavvülâta ugra- mis bulunmak sebebile iade edilemezlerse hak sahipleri gayrimenkulün satis kiymetinin baligini alacaklardir.\n\nGayrimenkulün satis kiymetinin baligi ala- kadar Hükümet tarafindan mülkün vaziyet gü- nündeki hali nazar: dikkate alinarak tespit edilecektir.\n\nTeklif edilen meblag üzerinde ihtiläf ckugi takdirde gayrimenkulün satis kiymetinin tahmini mütekabilen Hükümetle alákadar taraf canibinden tayin olunacak iki ehli hibreye tevdi edilecektir.\n\nltilàf hasil olmamis bulundugu takdirde bunlara kendileri tarahndan müttefikan tayin olunacak veya anlasamadiklar: takdirde saláhiyettar mah- keme canibinden gósterilecek, mehakimce mak- bul yeminli bir ehli hibre ilâve olunacaktir.\n\nBu takdirde ehli hibrenin karan ekseriyeti ara ile ittihaz olunacaktir. [ki taraf karara mu- halif olduklari takdirde onu alákadar mahkeme nezdinde istinaf edebileceklerdir.\n\nBu takdirde bilmuvacehe ehli hibre tarafin- dan yapilan tahmin neticesinde tazminat olarak kararlastirilan meblag davanin kat? halline inti- zaren Devlet Bankasina yatirilacaktir.\n\nMADDE 7.\n\n4-üncü ve 5-inci maddelerde mevzubahs olup dahilf kanunlarin tatbiki dolayisile, 4-üncü ve 5-inci maddelerde tespit edilen tarihlerden evvel gayrimenkulleri haciz, devir veya tasfiye edilmig bulunan sahislar, hidemati umumiyeye tahsis edilmemis olan ve halen hazine yedinde bulunan emlike tesahup edecekler ve gayrimen- kulleri elden cikarilmis veya bir amme hizmeti- ne tahsis edilmis oldugu takdirde hazine kuyu- datinda namlarina isbu emlákin bedeli olarak yazih bulunan meblági: alacaklardir.\n\na\n\nmud\n\nARTICLE 6. .\n\nSi les immeubles devant étre restitués conformément aux dispositions précédentes ont été liquidés postérieurement aux dates fixées par les articles 4 et 5, ou si leur restitution est impossible par suite d'expropriation, d’incorporation au domaine public, national ou municipal, ou de transformations affectant leur valeur les ayants-droit recevront le montant de la valeur vénale de l'immeuble.\n\nLe montant de la valeur vénale de l'immeuble sera fixé par le Gouvernement intéressé en tenant compte de l'état de l'immeuble au jour de la main-mise.\n\nEn cas de contestation sur le montent de la somme offerte, l'estimation de Ja valeur vénale de l'immeuble sera confiée à deux experts désignés respectivement par le Gouvernement et la partie intéressée, auxquels sera adjoint, si l'entente n'a pu être réalisée, un expert juré agréé ‘par les Tribunaux, qui sera désigné d'un commun accord par les deux premiers ou, en cas de désaccord de ceux-ci, par le Tribunal du ressort.\n\nLa décision des experts sera prise dans ce cas à la majorité des voix. Les parties pourront, si elles s'y opposent, interjeter appel de ladite décision par devant le Tribunal du ressort.\n\nDans ce cas, le montant de l'indemnité résultant de l'expertise contradictoire sera consigné à la Banque d'Etat jusqu'au réglement final de l'instance.\n\nARTICLE 7.\n\n~\n\nLes personnes visées aux articles 4 et 5 dont les immeubles ont été saisis, transférés ou liquidés, en exécution de lois internes, antérieurement aux dates fixées par les articles 4 et 5, seront remises en possession des immeubles non affectés à des services publics et actuellement disponibles entre les mains du\n\nTrésor; en cas d'aliénation ou d'affectation a\n\nUN service public, elles recevront le montant de la somme figurant en leur nom, en contrepale de ces immeubles, dans les écritures du\n\nTrésor.",
+      "quality_score": 0.9554,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "MADDE 8.\n\nlade keyfiyeti ve kezálik iadesi mümkün . olmayan gayrimenkullerin kiymetlerinin baliginin tesbiti isbu Îtiläfnamenin alákadar Hükümetler\n\ntarihinden kargiliklt\n\nolarak icra edilecektir. Mezkür bedeller ile isbu tarahndan mevkii meriyete — vazi itibaren bir sene müddet zarfinda\n\nÎtiläfnamenin 6-1nc ve 7-nci maddelerinin tat- bik:\n\ntarihten itibaren 18 ay zarhinda tesviye edi- neticesinde tediyesi muktazi mebalig bu lecektir.\n\nBu meblaglar ya pesin veya mukassat ve vadeli olarak yukarida mezkür müddet zarfinda tediye olunacaklardir. Ancak alákadarin. hesa- bmda mukayyet bulunan ve yukaridaki 7 - inci maddeye tatbikan tediyesi lázimgelen meblaglar gayrimenkulün vadeli satisinin bedeline tekabül eyledigi takdirde, alâkadar vadesi gelen senevi bedelini senedinde muayyen vadelerin huldliinde alacak- taksitler pesinen . ve bakiyesini. satis tir, meger ki vadesi henüz hulül etmeyen tak- sitler üzerinden bu taksitler baliginin \"/, 6 sina tekabül eden bir tenzilâta raz ola.\n\nAnkara'daki Fransa Büyük Elciligi Suriye ve Lübnanl müstedilerin liste ve dosyalarint\n\nTürkiye Hariciye Vekáletine tevdi edecektir.\n\nTürkiye Hükümeti de kendi müstedilerinin liste ve dosyalarim lüzum oldugu takdirde, Fransa\n\nBüyük Elciligine tevdi etmek hakkini muhafa- za eder.\n\n- Taleplerini takip ve iddialarini ispata medar olacak: senedat, ukut, vesaik ve saireyi. alakadar hükümetlere ibraz etmek hususunda müstedilere her türlü teshilât gósterilecektir.\n\nAlàkadar hükümetlerden her biri verilen kararlan diger devlet hükümetine teblië ede- cektir. Talebin reddi halinde ret esbabini muhtevi bulunan hüküm ise müteallik dosyaya raptolunacaktir.\n\nAlakadar hükümetlerden her biri, kararlari kendi müstedilerine tebliÿ edecektir. Müstediler tebli&den itibaren mesafe müddetleri munzam olarak iki ay zariinda, haklarinm — sukutuna meydan kalmamak üzere, kendilerine taallik eden kara kabul ettiklerini veya bilâkis ona itiraz eylediklerini | hükümetlerine bildirmekle mükellef* bulunacaklardir.\n\nARTICLE 8.\n\nLes restitutions, ainsi que la fixation du montant de la contrevaleur des immeubles non restituables, seront faites respectivement dans un délai d’une année, à compter de la date de mise en vigueur de la présente Convention par les Gouvernements intéressés. Le paiement desdits dues en exécution des contrevaleurs ainsi que des sommes\n\narticles 6 et 7 de la\n\nprésente (Convention dans un\n\nsera effectué\n\ndélai de dix huit mois à compter de la méme date .\n\nCes sommes seront payables soit au comptant, soit par paiements fractionnés dans le délai prévu ci-dessus.\n\nsommes\n\nou échelonnés,\n\nToutefois, si les\n\nfigurant au compte de l'intéressé et:\n\nl'article 7 la vente à terme de\n\ndues en exécution de ci-dessus, reprósentent le prix de l'immeuble, l'intéressé percevra au comptant le montant des annuités échues et le solde aux termes stipulés à l'acte de vente, à moins toutefois qu'il accepte de subir sur les annuités non échues une réduction égale à 6 °/, de leur montant.\n\nL'Ambassade de France à Ankara communiquera au Ministère des Affaires Etrangères de Turquie, la liste et les dossiers des réclamants syriens ou libanais; le Gouvernement Turc se réserve, si besoin est, de communiquer à lAmbassade de France la liste et les dossiers de ses réclamants.\n\nToutes facilités seront accordées aux réclamants en vue de poursuivre leurs demandes et de produire par devant les Gouvernements intéressés les titres, actes, documents ou moyens propres à légitimer leurs prétentions.\n\nChacun des Gouvernements intéressés adres-\n\nl'autre Etat les\n\ndécisions cas de rejet de la demande, la décision contenant les motifs du rejet sera accompagnée du dossier de l'affaire.\n\nChacun des Gouvernements intéressés notifiera les décisions à ses propres réclamants.\n\nCeux-ci devront, à peine de forclusion dans un délai de deux mois qui suivra la notification, augmenté des délais de distance, faire connaître à leurs Gouvernements qu'ils acquiescent à la décision les concernant, ou, au contraire, qu'ils s'y opposent. |\n\nGouvernement de intervenues. En sera au\n\nA NE",
+      "quality_score": 0.9284,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "[à\n\n— RR\n\nMADDE 9.\n\nisbu ltiláfnamenin tatbikindan dogan bütün ihtiláf ve itirazlar itilàfnamenin mevkii meriyete vanndan itibaren 18 ayhk bir müddetin hita- mindan sonra, 30 mayis 1926 tarihinde Anka- rada imza olunan dostluk ve iyi komsuluk\n\nMukavelenamesinin ikinci fikrasinda derpis edi- len komisyon tarafindan orada jderpis edilmis olan usul ve merasim dairesinde kati surette ve itiraz hakkt olmaksizin hükme baëlanacaktir.\n\nKomisyon hükümetlerin her biri tarafindan ihtilafli meselelerden ve onlarin müstedilerinin yapmis olduklari istinaf keyfiyetinden haberdar edilecektir. ——\n\nKomisyon reisi ittihaz olunan kararlari he- men alâkadar devletlerin hükümetlerinden her birine teblig edecek ve onlar da tebliÿ tarihin- den itibaren bir ay zarfinda isbu kararlan mevkii tatbika vazeyleyeceklerdir.\n\nMADDE 10.\n\nAlákadar hükümetler isbu Îtiläfnameye mev- zu teskil eden emlákin diger devlet tebaasinca ya bizzat veya bir mümessil marifetile | idare edilebilmesi zimmnda kendi topraklarinda,. umu- miyetle her türlü teshilât ibraz icin kendi idareleri altindaki makamlara lànmgelen talimati vereceklerdir. Bu maksatla bu gibi eshasa mülklerinin arazisi üzerinde kâin bulundugu\n\nHükümet tarafindan, inzibau ammeye muhalif bulunmadikca ikamet müsaadeleri verilecektir.\n\nBu takdirde Hükümet tarahndan kabul olunan vekil lazimgelen müsaadeyi istihsal edebilecektir.\n\n-MADDE 11.\n\nSura mukarrerdir ki 1, 2, 3, 4 ve 5 inci maddelerde tadat edilen eshas isbu maddelerde derpis edilen sartlar dairesinde emláklerine tesahup edecekler ve menkul mallarin iadesi hususunda | memleketin kanunlarile muayyen turuku kanuniyeye tevessül hakkindan miistefit olacaklardir.\n\nYukaridaki fikrada istihdaf edilen ile alelàmum isbu Îtiläfnamenin mevzuuna taallik eden davalar iskat hakka mahal kal\n\ndavalar ma- EE NIAE YO CR SIRO to\n\nARTICLE 9.\n\nTout litige ou contestation découlant de l'application du présent accord sera jugé définitivement et sans recours, à l'expiration d'un délai de dix huit mois à compter de la mise en vigueur de la présente Convention, par la Commission et selon la procédure prévue au deuxième paragraphe de l'article 14 de la\n\nConvention d'Amitié et de Bon Voisinage signée à Ankara le 30 Mai 1926. La Commission sera saisie par chacun des Gouvernements intéressés des affaires litigieuses ainsi que des appels interjetós par leurs réclamants.\n\nLe Président de la Commission notifiera sans délai les décisions prises à chacun des\n\nGouvernements des Etats intéressés qui devront les mettre à exécution dans un délai d'un mois à partir de la date de la notification.\n\nARTICLE 10.\n\nLes Gouvernements des Etats intéressés donneront aux Administrations relevant de leur autorité, les instructions nécessaires pour. 'qu'en général toutes facilités soient accordées, sur leurs territoires respectifs, aux ressortissants de l'autre Etat, pour qu'ils puissent administrer et gérer les biens faisant l'objet de la présente Convention, ‘par eux-mêmes ou par leurs représentants. Des autorisations de séjour leur seront accordées à cet effet par le Gouvernement de l'Etat sur le territoire duquel les biens sont situés à moins que l'ordre public ne s'y oppose. Dans ce cas le mandataire agréé par le Gouvernement pourra obtenir l'autorisation nécessaire.\n\nARTICLE 11.\n\nIl est bien entendu que les personnes énumérées aux articles 1-2-3-4 et 5 jouiront, dans les conditions prévues par ces articles, de la libre disposition de leurs biens et qu'elles bénéficieront, en matière de restitution mobilière, des voies de recours prévues par les lois du pays.\n\nI\n\n$$ actions visées au paragraphe précédent, ainsi que celles se rapportant en général à l'objet de | \" ! :\n\net de la présente Convention, devront, à",
+      "quality_score": 0.9568,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "ale nit\n\nmak icin, itiläfnamenin mevkii meriyete vaz | peine de forclusion, être introduites auprès des ‘tarihinden itibaren iki sene zarfinda salahiyettar | tribunaux compétents dans un délai de deux makamlar nezdinde ikame edilmek làzimdir. | années à compter de la mise en vigueur de la\n\nBu davalara müteallik salahiyeti adliye hu- | présente Convention.\n\nsunda alâkadar Tw é irive ‘ve : i: :\n\nsusu e C Türk tebaalan Suriye ve Les ressortissants turcs intéressés seront\n\nLübnan'da Fransiz tebaasi gibi muamele gôre- | assimilés en Syrie et au Liban aux ressortissants ceklerdir. français en ce qui concerne la compétence\n\njuridictionnelle relativement à ces actions.\n\nB os 3 » m . - À .\n\nSuriye ve Lübnan'daki Türk optanlari ile Un délai de deux années à partir de la m * 4, . . B . . .\n\nTürkiye deki Suriyeli optanlara, hakki hiyarlarim | mise en vigueur de la présente Convention est tabiiyeti lehine istimal etmis olduklari Devletin | accordé aux optants turcs en Syrie et au Liban, arazisine ikametgahlarim nakletmek üzere isbu | et aux optants syriens en Turquie, pour transjulâfnamenin mevkii meriyete vazi taribinden férer leur domicile sur le territoire de- l'Etat itibaren iki senelik bir müddet verilmistir. pour la nationalité duquel ils ont opté.\n\n: MADDE. 12. | ARTICLE 19. : |\n\n| |\n\nMADDE 123. ARTICLE 123.\n\n| | jsbu ltiláfname ahkâmi, Lozan Muahedena- Les dispositions de la présente Convention | | | * E x . . or E . a | | mesine merbut 30 Kánunusani 1932 tarihli | ne s'appliquent pas aux biens des personnes | | | Türk - Yunan ahalisi mübadele Mukavelename- | dont la Convention d'Echange des Populations\n\nGrecques et Turques du 30 janvier 1923,\n\nsinin akibetlerini tayin ettiäi eshasin emlâkine\n\nannexée au Traité de Lausanne, à réglé le sort.\n\ntatbik olunmaz.\n\nARTICLE 14.\n\n| MADDE 14.\n\n4 i | | Isbu ltiláíname mümkün olduëu kadar süratle La présente Convention sera ratifiée aussitôt ee tasdik edilecek ve tasdiknameler Ankara da teati | que faire se pourra; les instruments de ratiti- | olunacaktir. | cation seront échangés à Ankara.\n\n| ARTICLE 15.\n\n|l MADDE 15.\n\nChacune des Hautes Parties Contractantes ra sans délai à l’autre Partie la date de\n\nla présente Convention qui\n\nSonuncu tasdik tarihinden itibaren mevkii\n\nlàfnamenin tasdik notifie\n\nla ratification de\n\nur dès le moment de la dernière\n\nmeriyete girecek olan isbu [ri tarihini Yüksek Akit taraflardan her biri diger tarafa geciktirmeksizin teblig edecektir.\n\nYukaridaki ahkâmi tasdik etmek üzere\n\nMurahhaslar bu Ítiláfnameyi imzalamislar ve mühürleri ile mühürlemislerdir.\n\nAnkara da 27 tesrinievvel 1932 tarihinde iki nüsha olarak yapilmistir.\n\nentrera en vigue ratification.\n\nEN FOI DE QUOI les Plénipotentiaires sus-\n\n\" PEE. yz E\n\nnommés ont signe la présente Convention et l'ont revétue de leurs sceaux.\n\ne exemplaire à Ankara le 27\n\nFait en doubl octobre 1932.\n\nDr. T. Riistii Charles de Chanbran\n\nChartes de Chiimnlirun Dr. T. Püstü\n\nj a $8 | |\n\nFRAN HIER EEE cnm",
+      "quality_score": 0.8907,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "ÏMZA PRO FOKOLU\n\nTürk ve Suriyeli emvaline dair olan isbu jtilâfnamenin ILinci maddesinin 1-inci fikrasina taallüku itibarile Türkiye Hariciye Vekili bu metnin kendisi tarafindan ancak memleketinde meri kavanin ve kavaide muvafik surette tatbik edilmesi sartile kabul edildigini kaydetmek ister.\n\nMüsarileyh, temyiz mahkemesinin bir karari ile de teyit ediimis olan müstakir bir ictihadi mehakime istinaden, sahiplerinin henüz Türk tebaasindan bulunduklar: bir zamanda terketmis olduklari menkul mallarin iadesine müteallik olarak ikame edilen davalari türk mahkeme- lerinin gayrikabili kabul telákki ettiklerini beyan eylemegi bir vazife addeder.\n\nBundan maada ayni maddenin 3- üncü fikrasina atfen Hükümetinin 30 mayis 1926 da\n\nAnkara'da imza edilmis olan dostluk ve eyi komsuluk Mukavelenamesinin 4-üncü maddesi- nin son fikrasina istinaden kazai hususta Suriye ve Lübnan'daki Türk tebaas lehine talep eyle- mekte . oldu&u hukuk ve imtiyazlardan isbu 2-üncü fikra ile feragat etmegi asla kastetmemis oldugunu beyan eyler.\n\nAnkara, 27 Tersrinievvel 1932\n\nDr. T. Riistii\n\nih LM\n\nPROTOCOLE de SIGNATURE\n\nEn ce qui concerne le premier alinéa de l’article II de la présente Convention sur les\n\nBiens turcs et syriens, le Ministre des Affaires\n\nEtrangères de Turquie tient à noter que ce texte n'a été accepté par lui qu'à condition que l'application en soit conforme aux lois et aux règles en vigueur dans son pays. Il se fait un devoir de signaler, à ce sujet, que les tribunaux turcs, se fondant sur une jurisprudence constante, consacrée d'ailleurs par un arrêt de la Cour de Cassation, jugent irrecevable les actions en restitution mobilière — intentées relativement aux biens abandonnés par leurs propriétaires à une époque où ceux-ci étaient encore ressortissants turcs.\n\nIl déclare, en outre, se référant au troisième alinéa du méme article que son Gouvernement n'entend nullement renoncer par là aux droits et privileges qu'il revendique, en matiére juridictionnelle, en faveur des ressortissants turcs en Syrie et au Liban, en se fondant sur le dernier alinéa de l’article 4 de la Convention d’Amitié et de Bon Voisinage signée à Ankara le 30 Mai 1926.\n\nAnkara, le 27 octobre 1932\n\nDr. T. Rüstiü",
+      "quality_score": 0.9635,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "CURE\n\n27 Tesrinievvel 1932\n\nBüyük Elçi Hazretleri,\n\nBugün imza edilen ]ülàfnamenin tatbiki neticesinde emlaklerine tekrar tesahup edecek olan mal sahiplerinden geçmis seneler için bir güna vergi talep edilmemesi hususunda Türk\n\nHükümetinin mutabik oldugunu zati âlilerine isar ile seref kesbeylerim.\n\nHükûmetim mal sahiplerinin mülklerine tesahup ettikleri sene için verecekleri vergileri de istisnaen ancak senei maliye nihayetinde talep etmege kezálik amade bulunmaktadir.\n\nIhtiramat: faikamin kabulünü rica ederim.\n\nefendim.\n\nDr. T.. Riistii\n\nFransa Büvük Elcisi\n\nKont de Chambrun Hazretlerine.\n\n27 Tesrinievvel 1932\n\nVekil Beyefendi,\n\nBugün imza edilen Itiläfnanenin tatbiki neticesinde emláklerine tekrar tesahup edecek olan mal sahiplerinden geçmis seneler için bir güna vergi talep edilmemesi hususunda Türk\n\nHükümetinin mutabik oldu£unu zati álileri bu günkü tarihli bir mektupla bana bildirmek lütfünde bulundular. Türk Hükümeti mal sahiplerinin mülklerine tesahup ettikleri sene icin verecekleri vergileri de istisnaen, ancak senei maliye nihayetinde talep etmege kezálik amade bulunmaktadir.\n\nHükümetim namina senet ittihaz etmekle bahtiyar oldu£um bu mektubun vusulünü isar ile kesbi sere eylerim. Ihtiramat: faikamin kabulünü rica ederim efendim.\n\nCharles de Chambrun\n\nTürkiye Hariciye Vekili\n\nDr. Tevfik Rüstü Beyefendiye\n\n97 Tesrinievvel 1932\n\nVekil Beyefendi,\n\nMüzakere esnasinda Türk heyeti murahhasas:\n\ntarafindan izhar edilen arzuya ittibaen, 8- inci maddede derpis edilen miiddetler zarfinda Suriye ve Lübnan'da káin gayrimenkul emvalin kanunt\n\nAnkara, le 27 octobre 1939\n\nMonsieur | Ambassadeur,\n\nJai l'honneur de faire connaître à Votre\n\nExcellence que le Gouvernement Turc est d'accord pour qu'aucun arriéré d'impôt ne soit réclamé aux propriétaires qui rentreront en possession de leurs biens par application de la\n\nConvention signée à la date de ce jour. Il est disposé également, à titre exceptionnel, à ne percevoir qu'en fin d'exercice. les impôts qui ne seront dis par les propriétaires pour l’année de leur rentrée en possession.\n\nVeuillez agréer, Monsieur l'Ambassadeur, les assurances de ma très haute considération.\n\nDr. T must\n\nA Son Excellence le Comte Ch. de Chambrun,\n\nAmbassadeur de France.\n\nAnkara, le 27 octobre 1932\n\nMonsieur le Ministre,\n\nPar une lettre en date de ce jour Votre\n\nExcellence a bien voulu me faire connaitre que le Gouvernement Turc est d'accord pour qu'aucun arriéré d'impôt ne soit réclamé aux propriétaires qui rentreront en possession de leurs biens par application de la Convention signée à la date de ce jour. Il est disposé également, à titre exceptionnel, à ne percevoir qu’en fin d'exercice les impôts qui seront dûs par les propriétaires pour l’année de leur rentrée en possession.\n\nJ'ai l'honneur d'accuser réception de cette communication dont je suis heureux de prendre acte, au nom de mon Gouvernement.\n\nVeuillez agréer, Monsieur le Ministre, les assurances de ma très haute considération.\n\nCharles de Chambrun\n\nA Son Excellence Monsieur le Ministre des\n\nAffaires Etrangères.\n\nAnkara, le 27 octobre 1932\n\nMonsieur le Ministre,\n\nPour répondre au désir exprimé par la\n\nDélégation turque au cours de la négociation, jai l'honneur de faire savoir à Votre Excellence de la part de mon Gouvernement, que pendant\n\n= =",
+      "quality_score": 0.9426,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "mirascisi olan Türk vatandaslarinin tesçil suretile mezkür gayrimenkuller üzerindeki mülkiyet hakkini halen Suriye ve Lübnan'da Türk emláki üzerine mevzu ademi tasarruf tedabiri dolayisile hic bir müsküláta maruz kalmaksuin tasdik ettirebileceklerini Hükümetim namina zat âli- lerine beyan ile seref kesbeylerim.\n\nSurasi . mukarrerdir ki | mezkür tedabirin refine kadar mülkiyet hakkinin istimali bu tedbirlere tábi kalacaktir.\n\nÏhtiramati faikamin kabulünü rica ederim efendim.\n\nCharles de Chambrun\n\nTürkiye Hariciye Vekili\n\nDr. Tevfik Rüstü Beyefendiye\n\n27 Tesrinievvel 1932\n\nBüyük Elçi Hazretleri,\n\nKanunt miraslarin tescili hakkinda zau âli- lerinin góndermek lûtfünde bulunduklar bu günkü tarihli mektubun vusulünü isar ile seref kesbeylerim.\n\nBu mektubun muhtevi olduëu ahkam hükümetim namina senet ittihaz eylemekle bahtiyarim.\n\nIhtiramati faikamin kabulünü rica eylerim efendim.\n\nToy cq ISO\n\nFransa Büyük Elcisi\n\nKont de Chambrun Hazretlerine.\n\n27 Tesrinievvel 1932\n\nBüyük Elci Hazretleri,\n\nTürk ve Suriye emlâk itiláinamesinin 12-inci maddesine atfen, Türkiye'de ikamet eden Suriye optanlarinin ve Suriye de ikamet eden Türk optanlarinin vaziyeti üzerinde Türk Hükümetinin müzakereye girismek ve mezkür optanlar hak- kinda salifüzzikir 12-inci maddede derpis edilen müddetleri, mütekabiliyet sartile bir sene müd- detle temdit etmek hususunda mutabik oldu- gunu beyan ile seref kesbeylerim. Bu munzam müddet tarafeynin ittifaki ile tekrar temdit edilebilecektir\n\nJUN SS AUN\n\naA\n\nles délais prévus à l'article 8, les ressortissants héritiers ab intestat d'immeubles situés turcs, en Syrie et au Liban, pourront, par les formalités de l'enrgistrement, faire reconnaitre leur droit à la propriété de ces immeubles, sans qu'aucune difficulté ne leur soit opposé du fait des mesures de non disposition qui frappent actuellement les biens turcs en Syrie et au Liban mais étant entendu que jusqu’à la mainlevé des dites mesures l'exercice de leur droit de propriété y restera soumis.\n\nVeuillez agréer, Monsieur le Ministre, les assurances de ma très haute considération.\n\nCharles de Chambraun\n\nA Son Excellence le Dr. Tefvik Rüstü Bey,\n\nMinistre des Affaires Etrangères de \"Turquie.\n\nAnkara, le 27 octobre 1932\n\nMonsieur l'Ambassadeur,\n\nJai l'honneur d'accuser réception de la lettre que Votre Excellence a bien voulu me faire parvenir à la date de ce jour, relativement à lenregistrement des successions ab intestat.\n\nAu nom de mon Gouvernement, je suis heureux de prendre acte des dispositions qu'elle contient.\n\nVeuillez agréer, Monsieur l'Ambassadeur, les assurances de ma trés haute considération.\n\nDr. T. Riistii\n\nA Son Excellence le Comte Ch. de Chambrun,\n\nAmbassadeur de France.\n\nAnkara, le 27 octobre 1952\n\nMonsieur l'Ambassadeur,\n\nEn me référant à l'article 12 de la Convention sur les Biens Turcs et Syriens, j'ai l'honneur de déclarer que le Gouvernement , . »\n\nturc est d'accord pour engager des négociations au sujet de la situation des optants syriens résidant en Turquie et des optants turcs résidant en Syrie, et pour prolonger, sous condition de réciprocité, à l'égard desdits optants pour une période d'un année, les délais prévus par l’article 12 précité. Ce délai supplémentaire pourra être encore prolongé d'un commun accord entre les\n\nParties.\n\n10 —",
+      "quality_score": 0.9415,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "JL RIA UE\n\nTürk Hükümetinin memaliki ecnebiyede mütemekkin olup Lozan Muahedenamesinde derpis edilen Suriye lehine hakki hivarlarim kanuni müddetleri zarfinda istimal edememis bulunan aslen Suriye ve Lübnanh olanlarin vaziyetlerinin de yukarida mevzubahs müzakerat esnasinda tetkik edilmesini kabul eyledigini ilâveye müsaraat eylerim.\n\nlhtiramati faikamin kabulünü rica ederim efendim.\n\nDre Justi.\n\nVransa Büyük Elcisi\n\nKont de Chambrun Hazretlerine.\n\n27 Tesrinievvel 1932\n\nVekil Beyefendi,\n\nTürk ve Suriye emlak Itiläfnamesinin 12-inci maddesine atfen Osmenh imparatorlugundan ayrilan ve Fransa Cimburiyeti idaresi altina vazolunan arazide sakin Türk optanlari ile\n\nTürkiye'de sakin Suriyeli optanlar meselesini yeni müzakerat esnasinda tekrar tetkik etme£ge\n\nHükümetimin hazr bulundugunu beyan etmekle seref kesbeylerim. ;\n\nSalifüzzikir 12- inci maddede derpis edilen müddetlerin Türk optanlari lehine, müttefikan tekrar temdit edilebilmek üzere, daha bir sene icin uzatilmasina Hükûmetim amadedir.\n\nEcnebi memleketlerde mütemekkin olup ta\n\nLozan Muahedenamesile taninmis hiyar haklarini kanunt müddetler zarñinda — istimal edememis bulunan aslen Suriyeli ve Lübnanhlarm vaziyet- lerinin yukanda mezkár müzakerat esnasinda\n\nTUS PHARA\n\nJe me permets d'ajouter que le Gouvernement turc accepte qu'au cours des négociations ci-dessus prévues, soit aussi examinée la situation des Syriens et Libanais d'origine résidant à l'étranger qui n'ont pu procéder dans les délais légaux à l'option en faveur de la nationalité syrienne prévue par le Traité de Lausanne.\n\nVeuillez agréer, Monsieur l’ Ambassadeur, les assurances de ma très haute considération.\n\nDr. T. Rüstü\n\nA Son Excellence le Comte Ch. de Chambrun,\n\nAmbassadeur de France.\n\nAnkara, le 27 octobre 1932\n\nMonsieur le Ministre,\n\nEn me référant à l’article 12 de la Convention sur les biens Turcs et Syriens, j'ai l'honneur de déclarer que mon Gouvernement est prêt à examiner, au cours de nouvelles négociations, la question des optants turcs résidant sur les territoires détachés de l'Empire\n\nOttoman et placés sous l'autorité de la\n\nRépublique Française et des optants syriens résidant en Turquie. Il est prêt à étendre à l'égard des optants turcs les délais prévus par l’article 12 précité pendant une période suplémentaire d’une année qui pourrait encore être prolongée d'un commun accord.\n\nMon Gouvernement se plaît à espérer que le Gouvernement Turc voudra bien, de son côté, lui donner l'assurance qu'il est d'accord pour qu'au cours des négociations ci-dessus prévues, soit examinée la situation des Syriens\n\ntetkik edilmesinde mutabik olduguna dair Türk\n\nHükümetinin kendisine teminat verecegini Hü- kümetim ümit etmek ister ihtiramati faikamin kabulünü rica ederim efendim.\n\nCharles de Chambrun\n\nTürkive Hariciye Vekili\n\net Libanais d’origine’ résidant à l'étranger, qui n'ont pu exercer dans les délais légaux le droit d'option reconnuÿpar le Traité de Lausanne.\n\nVeuillez agréer, Monsieur le Ministre, les assurances de ma trés haute considération.\n\nCharles de Chambrun\n\nA Son Excellence Monsieur le Ministre des\n\nAffaires Etrangères\n\nDr. Tevfik Rüstü Beyefendiye\n\nNAM NM \"Pb\n\n| | |",
+      "quality_score": 0.9319,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "tr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "ANZURUMUZ OLUP TETKIKIMIZDEN GEÇEN SALİFÜLBE-\n\nYAN İTİLÂFNAMEYİ, TÜRKİYE BÜYÜK MİLLET MECLİSİ\n\nTARAFINDAN 11 İKİNCİ KÂNUN 1933 TARİH VE 2089 NUMARALI\n\nKANUN AHKÂMI MUCİBİNCE TASDİK ETTİK VE EDIYORUZ.\n\nADEDİYORUZ Kİ, MEZKOR İTİLÂFNAME AHKÂMINA KABİLI\n\nNAKIZ OLMAMAK ÜZERE RIAYET EDILECEKTIR.\n\nU İFADEMİZİN TASDİKI İÇİN İŞBU VESİKALARI İMZA VE\n\nRİYASETİCÜMHUR MÜHRÜ İLE MÜHÜRLEYEREK İTA EY-\n\nLEDİK.\n\nKARA'DA, BİN DOKUZ YÜZ OTUZ ÜÇ SENESİ ŞUBAT\n\nAYININ YİRMİ BİRİNCİ GÜNÜ TANZİM EDİLMİŞTİR.\n\ngaziz torial,\n\nS\\CU\n\nUP\n\nK PA\n\nHARİCİYE VEKİLI",
+      "quality_score": 0.9694,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "tr",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "Sazi diustafa Semal\n\nPrésident de la Mépublique\n\nTutrque\n\nA fous ceux qui ces présentes Lettres verront,\n\nSalut:\n\nLa République Turque et la République Française désireuses\n\nde procéder à un règlement équitable et pratique de l'ensemble de la question des Biens Syriens en Turquie et des Biens Turcs en Syrie, ont conclu et signé à cet effet, le 27 Octobre 1932, une Convention à\n\nAnkara.\n\nLe texte de la dite Convention est comme suit :\n\n( Le Texte de la Convention)\n\nAyant vu et examiné la dite Convention Nous l'avons approuvée\n\net approuvons en vertu de la loi votée par la Grande Assemblée Nationale de Turquie en date du 1l Janvier 1933 No.2089.\n\n٠/٠",
+      "quality_score": 0.9743,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "Promettons qu'elle sera inviolablement observée.\n\nEN FOI DE QUOI, Nous avons donné les Présentes, signées par\n\nNous et revêtues du\n\nSceau de la République.\n\nFait à Ankara, le vingt unième jour du mois de Février de\n\nl'an mil neuf cent trente trois.\n\nSigné: GAZI M. KEMAL\n\nPar le Président de la République\n\nLe Ministre des Affaires Etrangères:\n\nSigné: Dr.T.Rügtü\n\nPour traduction certifiée conforme\n\nLe Directeur Général du Protocole: al .\n\nHARIC\n\nPLAN MIS",
+      "quality_score": 0.9781,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_65_s1",
+      "title": "Instrument de ratification de la Turquie",
+      "score": 0.670802,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_73_s1",
+      "title": "Instrument de ratification de la Turquie",
+      "score": 0.408645,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19320073_100_s1",
+      "title": "Protocole d'échange de ratifications",
+      "score": 0.401051,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_920_s1",
+      "title": "Pouvoirs turcs",
+      "score": 0.399649,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_005",
+      "title": "Instrument italien",
+      "score": 0.39513,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230007_001_s1",
+      "title": "Protocole (ensemble une déclaration turque)",
+      "score": 0.389416,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "20010066_100_s1",
+      "title": "Publication du 3ème avenant (ensemble 1 échange de lettres) au Journal officiel du",
+      "score": 0.388505,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_001_s1",
+      "title": "Traité",
+      "score": 0.387695,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470107_001e_s1",
+      "title": "Lettre en réponse relative aux modalités pratiques du déblocage",
+      "score": 0.387647,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230073_001_s1",
+      "title": "Convention",
+      "score": 0.386014,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

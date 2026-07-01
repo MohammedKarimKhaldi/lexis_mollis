@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_hti002_s1",
+  "title": "Procès verbal du dépôt de ratification de Haïti",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9905,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES VERBAL DU DEPOT DE RATIFICATIONS SUR LA CONVENTION CONCERNANT LES EXPOSITIONS INTERNATIONALES SIGNEE A PARIS LE 22 NOVEMBRE 1928 Monsieur Placide DAVID, Ministre d'HAITI, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder, d'accord avec le Ministre des Affaires Etrangères de la République Française, au dépôt des ratifications d'HAITI sur la Convention concernant les EXPOSITIONS INTE…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_hti002_s1.pdf",
+  "source_filename": "tra19280002_hti002_s1.pdf",
+  "source_sha256": "d6094685a6841f8fad5a058f18a0882a309649a5249b140a1b0e51638025ba8a",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "HTI002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES VERBAL\n\nDU DEPOT DE RATIFICATIONS\n\nSUR LA CONVENTION CONCERNANT LES EXPOSITIONS INTERNATIONALES\n\nSIGNEE A PARIS LE 22 NOVEMBRE 1928\n\nMonsieur Placide DAVID, Ministre d'HAITI, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder, d'accord avec le Ministre des Affaires Etrangères de la République\n\nFrançaise, au dépôt des ratifications d'HAITI sur la Convention concernant les EXPOSITIONS INTERNATIONALES, signée à Paris le 22 novembre 1928, en exécution du Titre VI, art. 33 de ladite Convention.\n\nL'instrument ayant été, après examen, trouvé en bonne et due formo, a été déposé, pour y être conservé, dans les archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent\n\nProcès-Verbal, qu'11s ont revêtu de leurs cachets.\n\nFAIT A PARIS, en double exemplaire, le vendredi 17 juin 1949, à 10 heures 45./•\n\nG Paradi\n\nМонито",
+      "quality_score": 0.9905,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.732228,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_44_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Norvège",
+      "score": 0.708395,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_27_s1",
+      "title": "Dépôt de l'instrument de ratification de Haïti",
+      "score": 0.665868,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_67_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Monaco",
+      "score": 0.647531,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_36_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.637807,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion chilien",
+      "score": 0.637352,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_83_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.636274,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_55_s1",
+      "title": "Procès verbal de dépôt de ratification de l'instrument de ratification de l'Italie",
+      "score": 0.63112,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.628848,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_19_s1",
+      "title": "Procès-verbal du dépôt de ratification de la Finlande",
+      "score": 0.624998,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_214_s1",
+  "title": "Note verbale de dénonciation",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9559,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 214 Tagoa 6(0) 172 ter EMBASSY OF THE UNITED REPUBLIC OF TANZANIA PARIS TELEGRAPH-ADORESS\"* TANZANREP PARIS TELEPHONE} 625-70-27 32, RUE DU GÉNÉRAL DELESTRAINT 75016 PARIS REF. N...... IZP/I. 100/7 L'Ambassade de la République Unie de Tanzanie en France présente ses compliments au Ministère des Affaires Etrangères, Direction des Conventions Administratives et des Affaires Consulaires et a l'honneur de leur…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_214_s1.pdf",
+  "source_filename": "19280002_214_s1.pdf",
+  "source_sha256": "fc518ba88f1a053ae158901e6c50a71ff9be042eee81a3b04bd210c925de18ab",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "TZA006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 214",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Tagoa 6(0) 172 ter\n\nEMBASSY OF THE UNITED REPUBLIC OF TANZANIA\n\nPARIS\n\nTELEGRAPH-ADORESS\"* TANZANREP PARIS\n\nTELEPHONE} 625-70-27\n\n32, RUE DU GÉNÉRAL DELESTRAINT\n\n75016 PARIS\n\nREF. N...... IZP/I. 100/7\n\nL'Ambassade de la République Unie de Tanzanie en France présente ses compliments au Ministère des Affaires\n\nEtrangères, Direction des Conventions Administratives et des\n\nAffaires Consulaires et a l'honneur de leur faire savoir que le gouvernement tanzanien à décidé de dénoncer son adhésion au\n\nBureau International des Expositions.\n\nConformément à l'Article 37 de la Convention\n\nInternationale de 1928 1'Ambassade signale à lá Puissance Dépositaire de la dénonciation de la Tanzanie de ladite Convention.\n\nL'Ambassade de la République Unie de Tanzanie\n\nen France saisit cette occasion pour renouveler au Ministère des\n\nAffaires Etrangères, Service des Conventian Administratives et des Affaires Consulair es les assurances de la haute considération.\n\nParis, le 18 Aodt 19:\n\nMinistère des Affaires Etrangères\n\nDirection des Conventions Administratives et des Affaires Consulaires - Union Internationales 23, rue La Pérouse 75016 Paris\n\nA58 aNS 3E\n\nPARIS\n\nFORTENT ARMIMSTRATIVES\n\n(19. AQUT 1317)\n\nARRIVÉE",
+      "quality_score": 0.9686,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.883547,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.857946,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_218_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.854399,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_210_s1",
+      "title": "Instrument d'adhésion de la Syrie",
+      "score": 0.850219,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_211_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.849171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_216_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.848783,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_212_s1",
+      "title": "Instrument d'adhésion de la Tanzanie",
+      "score": 0.836183,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_204_s1",
+      "title": "Instrument de ratification",
+      "score": 0.762674,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.744255,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_208_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.737683,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

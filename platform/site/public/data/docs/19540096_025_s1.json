@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_025_s1",
+  "title": "Note verbale de dénonciation de la Belgique",
+  "year": 1954,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9731,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NaiL AMBASSADE DE BELGIQUE Paris 11586 annexe(s): - E depst. 19540096 L'Ambassade du Royaume de Belgique présente ses compliments au Ministère des Affaires étrangères de la République française et a l'honneur de lui communiquer que la Belgique dénonce la Convention internationale relative à l'Institut international du Froid, signée à Paris le 1 décembre 1954, dont le Gouvernement de la République française est dépos…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_025_s1.pdf",
+  "source_filename": "19540096_025_s1.pdf",
+  "source_sha256": "90b2f2dfcdcd961047f4420410ba0fb438f50369abbbcad328e3cec7289d9484",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "BEL004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NaiL\n\nAMBASSADE DE BELGIQUE\n\nParis\n\n11586 annexe(s): -\n\nE depst.\n\n19540096\n\nL'Ambassade du Royaume de Belgique présente ses compliments au Ministère des Affaires étrangères de la République française et a l'honneur de lui communiquer que la\n\nBelgique dénonce la Convention internationale relative à l'Institut international du\n\nFroid, signée à Paris le 1 décembre 1954, dont le Gouvernement de la République française est dépositaire:\n\nLa dénonciation se fait sur base de l'article V de la convention susmentionnée.\n\nL'Ambassade saurait gré au Ministère de bien vouloir lui faire parvenir, dans les neilleurs délais, un accusé de réception de cette note verbale ainsi qu'une notice de dénonciation.\n\nAmbassade du Royaume de Belgique saisit cette occasion pour renouveler inistère des Affaires étrangères de la République française l'assurance de sa hau considération.\n\nParis, le 10 octobre 2005.\n\ncuji : Nuoi /EC\n\n• (Natail\n\nBuTler)- citere des Alites frangeres\n\nPROTOCOLE\n\n128bis, rue de l'Université 75700 PARIS\n\n/11.0CT. 2005\n\nARRIVEE\n\nPARIS\n\nENREGISTRÉ\n\n1019.2.",
+      "quality_score": 0.9731,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.414068,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_439a",
+      "title": "Échange de notes entre l'Ambassade d'Italie en France et le Ministère français des Affaires étrangères relatif à la date d'entrée en vigueur de l'accord: lettre italienne",
+      "score": 0.401086,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20020160_004",
+      "title": "Accusé de réception par le dépositaire de l'instrument français",
+      "score": 0.397485,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.395155,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_924_s1",
+      "title": "Note verbale de dénonciation de la Turquie",
+      "score": 0.394753,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_38_s1",
+      "title": "Note verbale de transmission de l'instrument d'adhésion de la Nouvelle-Zélande",
+      "score": 0.392528,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_152_s1",
+      "title": "Notification aux Etats parties de la dénonciation de la Nouvelle-Zélande",
+      "score": 0.390999,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_321_s1",
+      "title": "Instrument de ratification (et NV de transmission)",
+      "score": 0.390573,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_164_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.390128,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151444_006_s1",
+      "title": "Accusé de réception français de la notification allemande",
+      "score": 0.389491,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

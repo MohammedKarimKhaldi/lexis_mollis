@@ -1,0 +1,120 @@
+{
+  "document_id": "19230072_716_s1",
+  "title": "Instrument de ratification portugais du Protocole relatif à l'accession de la Belgique et du Portugal à certaines dispositions d'actes signés à Lausanne",
+  "year": 1923,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "pt"
+  ],
+  "quality_score": 0.9235,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Traiti La Bernardino Machado gresidente da geniblica fortngnesn peto vato do tangresso Faça saber as que a piesente carta de Confiração e Reatife- cação virem que aos vinte e quatro de fulho de mil norecentos e vinte e ties foi assinado em Lausanne, por Portugal e pelas Potencias repeventades na Confrencia que do realice naquela cituto, de cinto de Novembio de mil novecentos e vinte e dois a vinte e quatro de Junho…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_716_s1.pdf",
+  "source_filename": "19230072_716_s1.pdf",
+  "source_sha256": "ad79730c7655a1c31bcfb6903a8b7a25a9108d8ebfc328509e35ad4a66b5cb7e",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "716",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Traiti La\n\nBernardino Machado gresidente da geniblica fortngnesn peto vato do tangresso\n\nFaça saber as que a piesente carta de Confiração e Reatife- cação virem que aos vinte e quatro de fulho de mil norecentos e vinte e ties foi assinado em Lausanne, por Portugal e pelas Potencias repeventades na Confrencia que do realice naquela cituto, de cinto de Novembio de mil novecentos e vinte e dois a vinte e quatro de\n\nJunho de mil novecentos e vinte e tris, um Protocolo selativa i culesão,\n\n(cléusulas económicas) do Tratado de Pur da mesma duta, Pro- tocola que foi feito num sá exemplar depositado nos arquiros do lovérno de Pepública Francesa. Bem assim fuço saber que aos vinte e quatro de fulho de mil novecentos e vinte e lês foi assinada em",
+      "quality_score": 0.9254,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "12.3=\n\nLusanne, pela Penipotenciávio de Portugal, uma declaração pela qual Portugal adore is cléusulas acima mencionadas do Tratado de\n\nPur da mesma date, adesão que restabelece a estado de faz e as sela- sões oficiais entre Portugal e a Turquia.\n\nLista, eraminada e considerado quanto se contém nos referidos\n\nProtocolo e Declaração, aprovados por lei de dese de Marça de mil novecentos e vinte e seis, são, pela presente Carta, os mesmos Ficticola e Declaração confirmados e ratificados, assim no toda como em cadu uma des suas cláusulas e estipulações, e dados por fimes e válidos para produzirem os seus devidos efeitos e serem inviolivelmente cum- pridos e abservados.\n\nDada nas Puços da Govêno de Pespiblica, aos vinte e nove 1 Il e mil novecentos e vinte e seis.\n\nA\n\nunahi Lachac\n\nVaja m",
+      "quality_score": 0.9217,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_715_s1",
+      "title": "Ratification du traité, protocole et déclarations annexes",
+      "score": 0.375945,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_63_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.367204,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_84_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.360144,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200016_716_s1",
+      "title": "Instrument de ratification portugais du traité, du protocole et de la déclaration",
+      "score": 0.358787,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_001_s1",
+      "title": "Accord",
+      "score": 0.356922,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230006_001_s1",
+      "title": "Protocole",
+      "score": 0.353212,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_47_s1",
+      "title": "Pouvoirs de vote et de signature du Portugal",
+      "score": 0.352289,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_051_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.35102,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "document_id": "tra19600199_004_s1",
+  "title": "Instrument français",
+  "year": 1960,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.9282,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "RATIFICATIONS DU PRESIDENT DE LA REPUBLIQUE FRANCAISE PRESIDENT DE LA COMMUNAUTE DE L'ACCORD DD DEFENSE ONTRE LA REPUBLIQUD FRANCAIS DI LA REPUBLIQUE DU OAMEROUN SIGNERA YAOUNDE LE 13 NOVEMBRE 1960 CHARLES de GAULLE PRESIDENT DE LA REPUBDIQUE FRANCAISE PROSUDENT DE DA COMMUNAULE A TOUS CEUX QUI CES PRESENTES LETTRES VERRONT SA LUI I UN ACCORD DENDEFENSE ENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE DU CAMEROUN AYAN…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19600199_004_s1.pdf",
+  "source_filename": "tra19600199_004_s1.pdf",
+  "source_sha256": "f34656cdb5b4fdf543ea5df1f610dcebcbfe1055e71eac117d8c423fa70a74c7",
+  "treaty_id": "TRA19600199",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RATIFICATIONS\n\nDU PRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nPRESIDENT DE LA COMMUNAUTE\n\nDE L'ACCORD DD DEFENSE\n\nONTRE LA REPUBLIQUD FRANCAIS DI LA REPUBLIQUE DU OAMEROUN\n\nSIGNERA YAOUNDE LE 13 NOVEMBRE 1960",
+      "quality_score": 0.9217,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "CHARLES de GAULLE\n\nPRESIDENT DE LA REPUBDIQUE FRANCAISE\n\nPROSUDENT DE DA COMMUNAULE\n\nA TOUS CEUX QUI CES PRESENTES LETTRES VERRONT\n\nSA LUI I\n\nUN ACCORD DENDEFENSE\n\nENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE DU CAMEROUN\n\nAYANT BPD SIGNE A YAOUNDE LE 13 NOVEMBRE 1960\n\nACCORD DONT LA TONDUR SULTAN",
+      "quality_score": 0.9031,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Ayant vu et examiné 1E\n\ndit\n\nACCORD\n\nNOUS\n\nL'avons approuvé\n\net\n\napprouvons en toutes et chacune de\n\nses parties,\n\nen vertu des dispositions qui y sont contenues et conformément à l'article 52 de la Constitution.\n\nDECLARONS qu'IL EST accepté , ratifie et confirmé\n\net PROMETTONS qu'IL SERA\n\ninviolable-\n\nment observe.\n\nEN POI DE QUOI, Nous avons donné les présentes, revêtues du Sceau de la République.\n\nA PARIS, le 26 JANVIER 1961\n\nLe Président du Conseil des Ministres\n\nSigné : Michel DEBRE\n\nSigné : Charles de GAULLE\n\nPar le Président de la République\n\nLe Ministre des Affaires\n\nEtrangères\n\nSigné : Maurice COUVE de MURVILLO",
+      "quality_score": 0.9598,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.929725,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610137_003",
+      "title": "Instrument français",
+      "score": 0.884259,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_004",
+      "title": "Instrument français (ratification)",
+      "score": 0.876458,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_004",
+      "title": "Instrument français",
+      "score": 0.817431,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_004_s1",
+      "title": "Instrument français",
+      "score": 0.777435,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_004_s1",
+      "title": "Instrument français",
+      "score": 0.765365,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_004",
+      "title": "Instrument français",
+      "score": 0.755073,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_056_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.75336,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_326",
+      "title": "Instrument de ratification française",
+      "score": 0.74506,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000072_004",
+      "title": "Instrument français",
+      "score": 0.74,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

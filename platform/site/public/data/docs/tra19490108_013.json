@@ -1,0 +1,60 @@
+{
+  "document_id": "tra19490108_013",
+  "title": "Lettre notifiant la reconnaissance du Gouvernement Provisoire d'Israël comme gouvernement de fait.",
+  "year": 1949,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9594,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "24 Janvier 1949 konsieur, J'ai l'honneur de vous faire connaître que le Gouvernement de la République Française a décidé de reconnaître le Gouvernement Provisoire d'Israël comme Gouvernement de fait, Cette décision ne préjuge pas de la délimitation définitive par les Nations-Unies Qu territoire sur lequel il exercera son autorité./. Veuillez agréer, Monsieur, les assurances de ua considération la plus distinguée. Mo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19490108_013.pdf",
+  "source_filename": "tra19490108_013.pdf",
+  "source_sha256": "e6df39934115416b55f1246ab8118150922002ecf0e2d6731fee2b08a55500b6",
+  "treaty_id": "TRA19490108",
+  "treaty_number": "013",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "24 Janvier 1949\n\nkonsieur,\n\nJ'ai l'honneur de vous faire connaître que le Gouvernement de la République Française a décidé de reconnaître le\n\nGouvernement Provisoire d'Israël comme Gouvernement de fait,\n\nCette décision ne préjuge pas de la délimitation définitive par les Nations-Unies Qu territoire sur lequel il exercera son autorité./.\n\nVeuillez agréer, Monsieur, les assurances de ua considération la plus distinguée.\n\nMonsieur FISCHER |\n\nReprésentant du Gouvernement Signé: SCHUMAN\n\nProvisoire d'ISRAEL à PARIS",
+      "quality_score": 0.9594,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19490108_011",
+      "title": "Echange de lettres concernant l'établissement d'un régime international à Jérusalem.",
+      "score": 0.393744,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19490108_012",
+      "title": "Échange de lettres concernant les établissements français en Israël.",
+      "score": 0.365477,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

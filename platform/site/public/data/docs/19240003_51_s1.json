@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_51_s1",
+  "title": "Note verbale de retrait des Pays-Bas",
+  "year": 1924,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9547,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DES PAYS-BAS ra pe : A bth Ads Cantal blue au Mine be 9/5 56) Au Ministere des Affaires Et Paris S 8153 = 'S3 (4431) L'Ambassade Royale des Pays-Bas présente ses compliments au Ministère des Affaires Etrangères et d'ordre de son Gouver- nement a l'honneur de L'informer que les autorités néerlandaises ont exprimó le désir de faire cesser leur adhésion à l'Office International des Vins à partir du Ier janvie…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_51_s1.pdf",
+  "source_filename": "19240003_51_s1.pdf",
+  "source_sha256": "36095b8c8f9a72c745932323ffa99e3474a53b41cbaa994e5209e3d1d45e80e6",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "NLD008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE\n\nDES PAYS-BAS\n\nra pe : A bth Ads\n\nCantal blue au Mine be 9/5 56)\n\nAu Ministere des Affaires Et\n\nParis\n\nS 8153 = 'S3 (4431)\n\nL'Ambassade Royale des Pays-Bas présente ses compliments au Ministère des\n\nAffaires Etrangères et d'ordre de son Gouver- nement a l'honneur de L'informer que les autorités néerlandaises ont exprimó le désir de faire cesser leur adhésion à l'Office\n\nInternational des Vins à partir du Ier janvier\n\n1959. Les Pays-Bas s'intéressent surtout aux raisins en tant que produit de consommation et moins au vin en général. La production du vin ayant un intérêt minime aux Pays-Bas, alors que l'Office a surtout pour táche de traiter des questions du vin en général, l'Ambassade saurait gré de bien vouloir porter à la connaissance de l'Office International des\n\nVins la décision prise à ce sujet.\n\nL'Ambassade saisit cette occasion pour renouveler au Ministère des Affaires\n\nEtrangères les assurances de sa haute oonsidé- ration.\n\nParis, le 5 juillet 1958.",
+      "quality_score": 0.9547,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_50_s1",
+      "title": "Note verbale de demande de transmission de la candidature des Pays-Bas aux autres Etats participants",
+      "score": 0.368122,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_561_s1",
+      "title": "Instrument d'adhésion marocain",
+      "score": 0.366623,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.366428,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.365219,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_06_s1",
+      "title": "Note verbale d'adhésion de l'Afrique du Sud",
+      "score": 0.36258,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19550069_nzl001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.359857,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.358784,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.3587,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_698",
+      "title": "Accord",
+      "score": 0.356606,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_562_s1",
+      "title": "Note de transmission de l'instrument marocain",
+      "score": 0.355989,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

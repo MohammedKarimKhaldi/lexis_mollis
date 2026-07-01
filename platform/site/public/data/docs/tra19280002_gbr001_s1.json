@@ -1,0 +1,112 @@
+{
+  "document_id": "tra19280002_gbr001_s1",
+  "title": "Instrument de ratification",
+  "year": 1928,
+  "doc_type": "Instrument de ratification",
+  "languages": [],
+  "quality_score": 0.9434,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 81",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_gbr001_s1.pdf",
+  "source_filename": "tra19280002_gbr001_s1.pdf",
+  "source_sha256": "2ce3b21e5f7f7f32bf3d036005e1eb6530f57a4df5660fce4b89d222677bb9df",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "GBR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 81",
+      "quality_score": 0.9434,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_88_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.804535,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_84_s1",
+      "title": "Instrument de ratification",
+      "score": 0.796771,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_87_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.79509,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.777209,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_85_s1",
+      "title": "Procès-verbal de dépôt de la ratification de la Grèce",
+      "score": 0.77676,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.745978,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_76_s1",
+      "title": "Instrument d'adhésion de la Gambie",
+      "score": 0.704873,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.701249,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_68_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.697688,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.696574,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

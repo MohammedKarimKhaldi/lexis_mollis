@@ -1,0 +1,131 @@
+{
+  "document_id": "19280002_05_s1",
+  "title": "Note verbale d'adhésion de la Croatie",
+  "year": 1875,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9198,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": ": HEURE 18:02******** MODE - TANEMISSION MEMOIRE NE5T. CODE MI TOUCHE NOM BESTADTELTEL 93668 93677 DEPART-23-12 17:56 de dapeyrice 00:20.1 001/001 00:00:18 -PROTOCOLE CEREMONTAL -***水*- Ambassade de la République de Croatle , 아니 = Eve - EUB CROATE 18750001 20 mai 1875 FD 08/124/AP/LVM L'Ambessade de la République de Croatie présonte ses compliments eul Ministère français des que le 6 ociobre 1921. nbassade de la Rép…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_05_s1.pdf",
+  "source_filename": "19280002_05_s1.pdf",
+  "source_sha256": "920e129c7dd45fbb1c262bf7cae120a90f3ad6981abbc7cfff10eff8fcd23a9d",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "245",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ": HEURE 18:02********\n\nMODE - TANEMISSION MEMOIRE\n\nNE5T. CODE MI TOUCHE NOM BESTADTELTEL\n\n93668 93677\n\nDEPART-23-12 17:56\n\nde dapeyrice 00:20.1 001/001 00:00:18 -PROTOCOLE CEREMONTAL -***水*-\n\nAmbassade de la République de Croatle\n\n, 아니 = Eve\n\n- EUB\n\nCROATE\n\n18750001 20 mai 1875\n\nFD\n\n08/124/AP/LVM\n\nL'Ambessade de la République de Croatie présonte ses compliments eul Ministère français des\n\nque le 6 ociobre 1921.\n\nnbassade de la République de Croatie nuisit cette occasion sountengweler au Mini faires étrangdres et européennes l'assurance de sa haute considération. DAN\n\nFait à Paris, le 23 décembre 2008\n\nMinistère des Affaires étrangères et europdennes\n\nProtocole\n\n57. Boulevard des Invalides 75007 Paris\n\nA latte a Pranculkol",
+      "quality_score": 0.8942,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "UE 2008 17:22 FAX 0033153?00290 AMBASSADE UE CHUAIIE SI UU 1I/ Vu |\n\nLd t\n\nAmbassade de fa République de Croatle en France — 6V64\n\nVeleposlanstvo Republike Hrvatske\n\nU Frsacusho} + Ev fs\n\n- DF\n\n08/124/AP/LVM\n\nL'Ambassade de la République de Croatie présente ses compliments au Ministère français des\n\nAffaires étrangères et européennes et a l'honneur de lui communiquer, conformément à l’article TU de la Convention du Métre (dispositions ajoutées par la Convention de 1921), que le Parlement croate (Sabor) a ratifié le 21 novembre 2008 la Convention du Mé'te signée à Paris le 20 mai 1873 et révisée lors de la 4ème Conférence générale des poids et mesures tenue à Sèvres en 1907 ainsi que le 6 octabre 1921.\n\nL'Ambassade de la République de Croatie prie le Ministère des Affaires étrangères et européennes de l'informer de la date d'entrée en vigueur de ladite Convention par rapport a la\n\nCroatie.\n\nL'Ambassade de la République de Croatie saisit cette occasion foun des Affaires étrangères et européennes l'assurance de sa haute considération.\n\nmt NH veler au Ministère\n\nFait à Paris, le 23 décembre 2008\n\nMinistère des Affaires étrangères et européennes\n\nProtocole 57, Boulevard des Invalides 75007 Paris\n\n—]1—\n\nAmbassade de (a république de Croatie on Franca — Veleporíanstvo Republike Hrvatske u Franciskaf 7, square Thiers - 76118 Paris - eal. : [00-33] (0)1 53 70 02 EO - Tax: [00-33] (0)1 53 70 02 90",
+      "quality_score": 0.9453,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_61_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.42154,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.42065,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_18_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.417488,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_076_s1",
+      "title": "Note d'adhésion",
+      "score": 0.416961,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20131050_006_s1",
+      "title": "Accusé de réception croate de l'instrument français",
+      "score": 0.415509,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19890163_005_s1",
+      "title": "Instrument soviétique",
+      "score": 0.411827,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_009_s1",
+      "title": "Note verbale d'acceptation de l'Autriche",
+      "score": 0.409078,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_pak004_s1",
+      "title": "Note accusant réception de la notification d'adhésion du Pakistan",
+      "score": 0.408329,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.407644,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.406577,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "document_id": "19540090_004_s1",
+  "title": "Certificat d'enregistrement à l'ONU",
+  "year": 1954,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9417,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "EG. 5 (9_63) CERTIFICATE of REGISTRATION No. 15993 CERTIFICAT d'ENREGISTREMENT The SECRETARY-GENERAL of the UNITED NATIONS Hereby certifies that the Government of the French Republic has registered with the Secretariat in accordance with Article 102 of the Charter of the United Nations Le SECRETAIRE GENERAL des NATIONS UNIES Certifie par la présente que 1e Gouvernement de la République française a enregistré au Secr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_004_s1.pdf",
+  "source_filename": "19540090_004_s1.pdf",
+  "source_sha256": "64c2689e0c4e8a67d6a099fe7274adc490a00db92e522f6dbece391d4e060034",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "EG. 5 (9_63)\n\nCERTIFICATE of REGISTRATION\n\nNo. 15993\n\nCERTIFICAT d'ENREGISTREMENT\n\nThe SECRETARY-GENERAL of the UNITED NATIONS\n\nHereby certifies that the Government of the French Republic has registered with the Secretariat in accordance with Article 102 of the Charter of the United Nations\n\nLe SECRETAIRE GENERAL des NATIONS UNIES\n\nCertifie par la présente que 1e Gouvernement de la République française a enregistré au Secrétariat conformément aux termes de l'Article 102 de la Charte des Nations Unies\n\nhe International Convention on the standardizatio\n\nI methods of analysing and appreciating wine to the texas), unt11 1 ag 1955.\n\n13 October 1954 and opened\n\nla Convention internationale pour l'unificatio les méthodes d'analyse et d'appréciation de vins (avec annexes). Paris le 13 octobre 1954 et ouverte à la signature jusqu'au ler mai 1955.\n\nThe registration took place on 7 April 1970 under No. 10416\n\nDone at New York, on\n\n28 September 1970 o the Government of th rench Republi\n\nL'enregistrement a eu lieu le sous le no 10416\n\nFait à New York, le\n\nFor the SECRETARY - GENERAL\n\nPour le SECRETAIRE GENERAL\n\nChoktaurat\n\n7 avril 1970 28 septembre 1970\n\nAu Gouvernement de la\n\nRépublique française",
+      "quality_score": 0.9417,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630223_010_s1",
+      "title": "Certificat de l'enregistrement no 10365",
+      "score": 0.68752,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630106_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.686907,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630356_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.658082,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610160_101",
+      "title": "Publication au Journal officiel (extrait de recueil)",
+      "score": 0.653757,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19570067_001_s1",
+      "title": "Convention",
+      "score": 0.461257,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630359_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.440752,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630358_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.437889,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630357_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.437263,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630108_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.436952,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19690107_100_s1",
+      "title": "Certificat d'enregistrement de l'accord à l'ONU",
+      "score": 0.422266,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

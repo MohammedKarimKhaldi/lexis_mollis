@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19610054_010",
+  "title": "Lettre française",
+  "year": 1961,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AFFAIRES ÉTRANGÈRES LE MINISTRE Paris, le 2 MAI 1961 13 CM Son Excellence Ambassadeur de Grande-Bretagne d'Irlande du Nord PARIS. Monsieur 1'Ambassadeur, Par lettre du 27 mars, vous avez bien voulu, en vous référant à l'échange de notes du 14 février 1961 entre le Gouvernement du Royaume Uni de Grande-Bretagne et d'Irlande du Nord et le Gouvernement de la République française, concernant les dispositions destinées à…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19610054_010.pdf",
+  "source_filename": "tra19610054_010.pdf",
+  "source_sha256": "dcc0464483678f9d35cdf1bb440e9c27965ba8d603be4532cb9ef47f7e4f9dad",
+  "treaty_id": "TRA19610054",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AFFAIRES ÉTRANGÈRES\n\nLE MINISTRE\n\nParis, le 2 MAI 1961\n\n13 CM\n\nSon Excellence\n\nAmbassadeur de Grande-Bretagne d'Irlande du Nord\n\nPARIS.\n\nMonsieur 1'Ambassadeur,\n\nPar lettre du 27 mars, vous avez bien voulu,\n\nen vous référant à l'échange de notes du 14 février 1961 entre le Gouvernement du Royaume Uni de Grande-Bretagne et d'Irlande du Nord et le Gouvernement de la République française, concernant les dispositions destinées à faciliter les voyages entre le Royaume Uni et la France, me faire savoir que le\n\nGouvernement du Royaune Uni estime qu'un ressortissant français, possesseur d'une carte d'identité valide et se rendant dans le Royaume Uni, les Iles anglo-normandes et Île de Man, ainsi que le détenteur d'un passeport de visiteur britannique, se rendant en France en application de cet accord, doivent être tous deux exempts de l'obligation du visa.\n\nVous me demandiez de vous confirmer que le\n\nGouvernement français interprète bien cet arrangement de la même façon.\n\nJ'ai l'honneur de vous faire savoir que l'in-\n\nterprétation du Gouvernement français est semblable sur ce point à celle du Gouvernement anglais./.\n\nVeuillez agréer, Monsieur l'Ambassadeur, les\n\nassurances\n\nde ma très haute considération.\n\nCópie certifiée conforme au document\n\nSconservé dans les archives de la Direction idès Conventions Administratives et des\n\nAffaires Consulaires.\n\nParis, le 20 janvier 1966.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19610054_001",
+      "title": "Lettre britannique",
+      "score": 0.443806,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "63_lnta_387_-_exchange_of_letters_s1",
+      "title": "Adhésion de la Nouvelle-Zélande à la convention entre la République française et la Grande-Bretagne pour faciliter l'accomplissement des actes de procédure entre personnes résidant respectivement en France et en Grande-Bretagne",
+      "score": 0.392356,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.387727,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000072_004",
+      "title": "Instrument français",
+      "score": 0.387053,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630043_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.381569,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.380156,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.379558,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_004",
+      "title": "Instrument français",
+      "score": 0.378873,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620054_101_s1",
+      "title": "publication au JO de la Convention (ensemble 1 échange de lettres signées à Paris le 3 février 1962)",
+      "score": 0.377706,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610266_005_s1",
+      "title": "Ratification mauritanienne",
+      "score": 0.37748,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

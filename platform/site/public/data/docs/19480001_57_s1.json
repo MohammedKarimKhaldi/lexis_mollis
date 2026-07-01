@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_57_s1",
+  "title": "Pouvoirs de signature suisse",
+  "year": 1948,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.972,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE CONSEIL FÉDÉRAL SUISSE FAIT SAVOIR PAR LES PRÉSENTES qu'1l a désigné Monsieur Bernard BaIber: Conseiller de la légation de Suisse à Paria, en qualité de délégué de la Suisse à la session du Bureau International des expositions, gui so tlendra à Paris le 10 mal 1948 et qu'11 l'a autorisé à signer, sous réserve de ratification par les autorités lédé- : rales, le Protocole portant revision partielle de la Convention…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_57_s1.pdf",
+  "source_filename": "19480001_57_s1.pdf",
+  "source_sha256": "1b98d390ac11660b190b55fb3799b6ae494cb55d97594fee1fc9c65bca71c750",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "CHE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE CONSEIL FÉDÉRAL SUISSE\n\nFAIT SAVOIR PAR LES PRÉSENTES\n\nqu'1l a désigné\n\nMonsieur Bernard BaIber:\n\nConseiller de la légation de Suisse à Paria, en qualité de délégué de la Suisse à la session du\n\nBureau International des expositions, gui so tlendra à Paris le 10 mal 1948 et qu'11 l'a autorisé à signer, sous réserve de ratification par les autorités lédé- :\n\nrales, le Protocole portant revision partielle de la\n\nConvention du 22 novembre 1928 concernant les expositions interaatioales.\n\nEn foi de quol, les présentes ont été signées par le Président et le Chancelier de la Confédération Suisse et munies du scesu du Conseil fédéral.\n\nBerne, 10 7 mai 1948,\n\nAU NOM DU CONSEIL FEDERAL SUISSE:\n\nIs Président de la Contédération,\n\n1pr Le Chancelier de la Confédération,\n\nCh. Oser",
+      "quality_score": 0.972,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_100_s1",
+      "title": "Pouvoirs de signature de la Suisse",
+      "score": 0.6198,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.428127,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.406558,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.400911,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_850_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.392541,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530019_008",
+      "title": "Pouvoirs suisses pour l'échange des ratifications",
+      "score": 0.384736,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_08_s1",
+      "title": "Note verbale d'adhésion au protocole de 1948 de l'Autriche",
+      "score": 0.383208,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.38309,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_15_s1",
+      "title": "Pouvoirs de signature de l'Autriche",
+      "score": 0.383012,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19730070_003_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.376258,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

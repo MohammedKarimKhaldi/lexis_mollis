@@ -1,0 +1,147 @@
+{
+  "document_id": "19200016_096_s1",
+  "title": "Instrument de ratification belge du traité, du protocole et de la déclaration",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "quality_score": 0.9206,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "bellert, seine Blos à tous prisents et à venir, Salut. yant vu et examiné le Traité de Paix \"Pas agné à Guanon, le 4 juin soso, entre vissances allices el associées d'une part eD la Hongrié d'autre parti par Dos Péri potentiaires, munis dè pleins pouvoirs spéciaux aved les Henipolentiaires également munis de pleins pouvoiro en borure el due forné de la part des Suissances représenties aux Conférences qui ont abouti…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200016_096_s1.pdf",
+  "source_filename": "19200016_096_s1.pdf",
+  "source_sha256": "665f85b1872cd19d1ff6a1bb8bf7266e9ff17cbfb4da6eb2663423a5b54f6826",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "BEL002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "bellert, seine Blos à tous prisents et à venir, Salut.\n\nyant vu et examiné le Traité de Paix \"Pas agné à Guanon, le 4 juin soso, entre vissances allices el associées d'une part eD la Hongrié d'autre parti par Dos Péri potentiaires, munis dè pleins pouvoirs spéciaux aved les Henipolentiaires également munis de pleins pouvoiro en borure el due forné de la part des Suissances représenties aux Conférences qui ont abouti à la conelusion du Traité dont la te neur suit?:",
+      "quality_score": 0.8497,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Voir texte 19200016 OI sur bobine\n\nB256",
+      "quality_score": 0.9283,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "bro, ayarl poni agréable le Graité qui présiste Cappomond, ratifione eD confus mono promettant de lè faire observer, selon sà forè el teneur, sans permettrè qu'ily soil con- treverù en aucunè manière que eè voile →.\n\nsenté lestrén, de kalificaliori ery avono fait apposer moio dejullet dè lav de gráce mil neufeentivingkaun.\n\nAller\n\nMar lo Roi:\n\n\"te Minuta des ofer tangine, lemi Vapor",
+      "quality_score": 0.9838,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200016_726_s1",
+      "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_251_s1",
+      "title": "Instrument de ratification cubain du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_436_s1",
+      "title": "Pouvoirs (pour Mario Grassi)",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_396_s1",
+      "title": "Instrument de ratification français du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_196_s1",
+      "title": "Instrument de ratification chinois du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_731_s1",
+      "title": "Instrument de ratification britannique du traité, du protocole et de la déclaration",
+      "score": 0.820171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_886_s1",
+      "title": "Instrument de ratification siamois du traité, du protocole et de la déclaration",
+      "score": 0.820171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_351_s1",
+      "title": "Instrument de ratification hongrois du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_326_s1",
+      "title": "Instrument de ratification grec du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_796_s1",
+      "title": "Instrument de ratification du Royaume des Serbes, Croates, Slovènes de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.42292,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

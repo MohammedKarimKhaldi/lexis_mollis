@@ -1,0 +1,130 @@
+{
+  "document_id": "19540090_397_s1",
+  "title": "Réserve hongroise",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9639,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": ".... NAGYKOVETSEGE AMBASSADE DE LA REPUBLIQUB Tagoas shay 3 6/T1-9/1975. Il Ambassade de la République Populaire Hongroise présente ses compliments au Ministère des Affaires Étrangères de la République Française et a 1 'honneur de porter à sa connaissance ce qui suit: Le Conseil de Présidence de la République Populaire Hongroise a résolu l'adhésion de la République Populaire Hongroise à la Convention Internationale…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_397_s1.pdf",
+  "source_filename": "19540090_397_s1.pdf",
+  "source_sha256": "947c2f37d8e5cacbfd00b2d4bd73fdcb6814f36e49c06e1a9509cea125b1f965",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "HUN003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "....\n\nNAGYKOVETSEGE\n\nAMBASSADE DE LA REPUBLIQUB\n\nTagoas shay 3\n\n6/T1-9/1975.\n\nIl Ambassade de la République Populaire Hongroise présente ses compliments au Ministère des Affaires\n\nÉtrangères de la République Française et a 1 'honneur de porter à sa connaissance ce qui suit:\n\nLe Conseil de Présidence de la République Populaire\n\nHongroise a résolu l'adhésion de la République Populaire\n\nHongroise à la Convention Internationale pour l'unifica- t1on des méthodes d'analyse et d'appréciation des vina,\n\nfaite à Paris le 13 octobre 1954.\n\nLe Conseil de Présidence de la République Populaire\n\nHongroise a en même temps décidé d'exprimer, lors du dépôt de l'instrument d'adhésion, dans la déclaration suivante qu'il n'est pas d'accord avec les dispositions\n\nde l'Article 9 de la Convention:\n\n\"Ia République Populaire Hongroise déclare que les dispositions de l'Article 9 de la Convention Internationale pour l'unification des méthodes d'analyse et d'appréciation\n\nMinistère des Affaires Étrangères de la République Française 120M : 1",
+      "quality_score": 0.9461,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "-2-\n\ndes vins sont contraires à la Résolution No 1514/XV sur 1 'indépendance des pays et des peuples coloniaux, adoptée par l'Assemblée générale de l'ONJ 1e 14 décembre 1960, \"\n\nI' Ambassade de la République Populaire Hongroise saisit cette occasion pour renouveler au Ministère des\n\nAffaires Étrangères de la République Française les assurances de sa haute considération.\n\nParis, le 2o Mai 1975.\n\nINSASA.",
+      "quality_score": 0.9816,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_399_s1",
+      "title": "Note verbale type du service traitant à destination des chefs de Postes relative à la réserve hongroise",
+      "score": 0.530265,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_029_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Bulgarie",
+      "score": 0.388912,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_154a_s1",
+      "title": "Retrait de la réserve bulgare",
+      "score": 0.388667,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_732_s1",
+      "title": "Note verbale type du service traitant à destination des chefs de Postes relative à l'adhésion britannique",
+      "score": 0.385821,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_561_s1",
+      "title": "Instrument d'adhésion marocain",
+      "score": 0.385311,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_154b_s1",
+      "title": "Note verbale type du service traitant à destination des chefs de Postes relative au retrait de la réserve bulgare",
+      "score": 0.384846,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_016_s1",
+      "title": "Instrument d'adhésion sud-africain",
+      "score": 0.382757,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_031_s1",
+      "title": "Notification aux Etats-membres de l'adhésion du Cameroun",
+      "score": 0.381821,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.379603,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_153_s1",
+      "title": "Procès-verbal de dépôt de l'instrument bulgare",
+      "score": 0.37603,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

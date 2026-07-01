@@ -1,0 +1,109 @@
+{
+  "document_id": "19570067_496b_s1",
+  "title": "Pouvoirs libanais",
+  "year": 1957,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.987,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "SLEIMAN FRANGIÉ A tous ceux qui ces présentes lettres verront salut Monsieur Joseph Harfouche, Ambassadeur du Liban à Paris, en la capacité, le talent et l'expérience de qui nous avons entière confiance a été désigné par nous en vue de remettre aux autorités compétentes françaises l'Acte d'Adhésion du Gouvernement de la République Libanaise à la Convention instituant une Commission Sericicole Interna- tionale. En fo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_496b_s1.pdf",
+  "source_filename": "19570067_496b_s1.pdf",
+  "source_sha256": "29c5f7929e9570a2b5e1f944978e6898ed6c3487ec89f7fe639e0fe18e5fa9c5",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "LBN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SLEIMAN FRANGIÉ\n\nA tous ceux qui ces présentes lettres verront salut\n\nMonsieur Joseph Harfouche, Ambassadeur du Liban à Paris, en la capacité, le talent et l'expérience de qui nous avons entière confiance a été désigné par nous en vue de remettre aux autorités compétentes françaises l'Acte d'Adhésion du Gouvernement de la République Libanaise à la Convention instituant une Commission Sericicole Interna- tionale.\n\nEn foi de quoi les présents pleins pouvoirs lui ont été remis, signés par nous et revêtus du Sceau de la République.\n\nFait à Baabda le 15 Avril 1972 .",
+      "quality_score": 0.987,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_31_s1",
+      "title": "Pouvoirs de signature du Liban",
+      "score": 0.396854,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_37_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification",
+      "score": 0.387381,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_496_s1",
+      "title": "Instrument d'adhésion du Liban",
+      "score": 0.38171,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_520a_s1",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.361067,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_520",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.359477,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.357683,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_005b",
+      "title": "Second instrument qatari",
+      "score": 0.355606,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_095_s1",
+      "title": "Pouvoirs",
+      "score": 0.354826,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_186_s1",
+      "title": "Instrument d'adhésion du Centrafrique",
+      "score": 0.350664,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

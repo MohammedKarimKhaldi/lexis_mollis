@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_038_s1",
+  "title": "Formulaire d'adhésion de Monaco à l'amendement",
+  "year": 1982,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9305,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "n.379 A RETOURNER A LA DIRECTION DES NATIONS UNIES ET ORGANISATIONS INTERNATIONALES DATE : 24 Août I982 POSTE : CONSULAT GENERAL DE FRANCE A MONACO REFERENCE A RAPPELER : N° 219 du 22 juillet 1982 LETTRE DU DEPARTEMENT N° : N° 219 du 22 juillet I982 AS : Amendement au orotocole de lyrc portant moditication de la Convention de 1928, signée à Paris, concernant les expositions internationales. PAIRE DES AFARES ETHANGFR…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_038_s1.pdf",
+  "source_filename": "19820018_038_s1.pdf",
+  "source_sha256": "bbb66670e0dfd6f70ba7a82ee396e92af468183e3ea59c6cfa19dc41c5fc7f23",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "MCO001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "n.379\n\nA RETOURNER A LA DIRECTION DES NATIONS UNIES ET\n\nORGANISATIONS INTERNATIONALES\n\nDATE :\n\n24 Août I982\n\nPOSTE :\n\nCONSULAT GENERAL DE FRANCE A MONACO\n\nREFERENCE A RAPPELER :\n\nN°\n\n219 du 22 juillet 1982\n\nLETTRE DU DEPARTEMENT N° :\n\nN° 219 du 22 juillet I982\n\nAS : Amendement au orotocole de lyrc portant moditication de la Convention de 1928, signée à Paris, concernant les expositions internationales.\n\nPAIRE DES AFARES ETHANGFRES!\n\nner Internetoner des ese Der l'agentre de de\n\nBureau International des Expositions :\n\n\"Les dispositions de l'article 5.2 sont supprimées à partir des mots : les intervalles ci-dessüs\"-....\n\nLe Gouvernement. MONEGASQUE....\n\n(1) Au cas où le Gouvernement du pays de votre résidence aurait fait des réserves, prière de joindre sa communication.",
+      "quality_score": 0.9305,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_031_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.629423,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_005_s1",
+      "title": "Formulaire d'acceptation de l'amendement au protocole",
+      "score": 0.453224,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_045_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.448171,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_040_s1",
+      "title": "Formulaire d'adhésion de la Norvège",
+      "score": 0.423824,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_040_s1",
+      "title": "Note verbale de transmission de l'instrument d'acceptation de la Roumanie",
+      "score": 0.374991,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.374141,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.373982,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_286",
+      "title": "Notification par le gouvernement français de la dénonciation équatorienne",
+      "score": 0.373898,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_07_s1",
+      "title": "Note d'information aux Etats-membres de la succession de l'Algérie",
+      "score": 0.372874,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_65_s1",
+      "title": "Instrument de ratification de Monaco",
+      "score": 0.370878,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

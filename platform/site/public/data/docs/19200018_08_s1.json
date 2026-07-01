@@ -1,0 +1,74 @@
+{
+  "document_id": "19200018_08_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1920,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9633,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "a GRUNBERGER, Mintstre d'Autriche à Paris , aglesant en vertu des pleins pouvoire qui lul ont été con- térés à cet effet, déclare par le présent acte, que l'autriche adhère, sans aucune condition ni réserve au Iralté signé à Paris le 9 Février 1920 par les Etats-Unte d'Amérique , 1'Empire Britannique , 1e Danemark, la France, l'italie, le Japon, la Norvège ies Pays-Bas et la Suède et aux termes duquel ces Puissances…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200018_08_s1.pdf",
+  "source_filename": "19200018_08_s1.pdf",
+  "source_sha256": "6b48c589cfcf9230192ebc74b5090ec36bdd572a03b5d39f27173098b2fcad37",
+  "treaty_id": "TRA19200018",
+  "treaty_number": "ARM002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "a GRUNBERGER, Mintstre d'Autriche à Paris , aglesant en vertu des pleins pouvoire qui lul ont été con- térés à cet effet, déclare par le présent acte, que l'autriche adhère, sans aucune condition ni réserve au Iralté signé à Paris le 9 Février 1920 par les\n\nEtats-Unte d'Amérique , 1'Empire Britannique , 1e\n\nDanemark, la France, l'italie, le Japon, la Norvège ies Pays-Bas et la Suède et aux termes duquel ces\n\nPuissances ont reconnu la souverainbté de la Norvège sur l'Archipel du Spitzberg y compris 1'Ile aux Oura\n\nparis, de 12 222 aid 1930.\n\nStubergu",
+      "quality_score": 0.9633,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200018_02_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.441739,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.361292,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200018_491",
+      "title": "Instrument d'adhésion",
+      "score": 0.357932,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_630_s1",
+      "title": "Ratification du traité du 10 septembre 1919",
+      "score": 0.353089,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

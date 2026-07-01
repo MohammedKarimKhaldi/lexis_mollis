@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_39_s1",
+  "title": "accusé de réception par le Luxembourg de l'adhésion du Liban",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9497,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": ".. GRANGOUCHÉ DE LUXEMBOURG SETO MINISTÈRE DES AFFAIRES ÉTRANGÈRES 5 L AMBASSADE DE FRANCE AU Arr' No..112.... 1N 1936 ......AL. 33/253-96/164 Le Ministère des Affaires Etrangères présente ses compliments à l'Ambassade de France et a l'honneur de lui faire savoir que le Grand-Duché de Luxembourg donne son vin, signé à Paris, le 29 novembre 1924. Le Ministère des Affaires Etrangères saisit cette occasion pour renouve…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_39_s1.pdf",
+  "source_filename": "19240003_39_s1.pdf",
+  "source_sha256": "51162ffd8ed7ce1c99dc92aee3377db3a1f6e2053b71fc8d89a25368783e481c",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "LBN005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "..\n\nGRANGOUCHÉ DE LUXEMBOURG\n\nSETO\n\nMINISTÈRE\n\nDES AFFAIRES ÉTRANGÈRES\n\n5 L\n\nAMBASSADE DE FRANCE\n\nAU\n\nArr'\n\nNo..112....\n\n1N 1936\n\n......AL.\n\n33/253-96/164\n\nLe Ministère des Affaires Etrangères présente ses compliments à l'Ambassade de France et a l'honneur de lui faire savoir que le Grand-Duché de Luxembourg donne son vin, signé à Paris, le 29 novembre 1924.\n\nLe Ministère des Affaires Etrangères saisit cette occasion pour renouveler à l'Ambassade de France les assurances de sa très haute considération. J\n\nLuxembourg, le M mars 1996\n\nAmbassade de France\n\nLUXEMBOURG\n\n1400013",
+      "quality_score": 0.9497,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.407154,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_097",
+      "title": "Pouvoirs wallons",
+      "score": 0.402466,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_100",
+      "title": "Note relative à la transmission des pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.401714,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.400672,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_10_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion est-allemand",
+      "score": 0.397492,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.397482,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_562_s1",
+      "title": "Note de transmission de l'instrument marocain",
+      "score": 0.396344,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.396042,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_010_s1",
+      "title": "accusé de réception de l'adhésion de l'Allemagne démocratique",
+      "score": 0.395442,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.395429,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "document_id": "19510004_76_s1",
+  "title": "Confirmation de la date d'adhésion de l'URSS",
+  "year": 1951,
+  "doc_type": "Autre",
+  "languages": [
+    "fr",
+    "ru"
+  ],
+  "quality_score": 0.8883,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Я 1) ТЕКЕ а ОМІОМӘ Париж, ГА 5. августа ө 9 „Д, 1997 ^^ «3558, | А о дь\" АМУ ел Господин Министр, да А ц ТИЯ Э\\омо Ссылаясь на ноту Министеротва Иностранных Дөл Фрьнции от З июля 1957 года, имею чеотъь подтвердить, что нота Посольства СССР от І? июня 1957 года относительно присоединения ОСОР к Конвенции о создании Европейской иу Средиземноморской Органи- зации по защите раотений была направлена Посольством по пору-…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_76_s1.pdf",
+  "source_filename": "19510004_76_s1.pdf",
+  "source_sha256": "03a72c2aa7e5916812357a3df3a2674d1d0cdbbc1dbd26d90f4ef4048a3c5820",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "SUN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Я 1) ТЕКЕ\n\nа ОМІОМӘ\n\nПариж, ГА 5. августа ө 9 „Д, 1997\n\n^^ «3558, | А о дь\"\n\nАМУ ел\n\nГосподин Министр, да А ц ТИЯ Э\\омо\n\nСсылаясь на ноту Министеротва Иностранных Дөл Фрьнции от\n\nЗ июля 1957 года, имею чеотъь подтвердить, что нота Посольства\n\nСССР от І? июня 1957 года относительно присоединения ОСОР к\n\nКонвенции о создании Европейской иу Средиземноморской Органи- зации по защите раотений была направлена Посольством по пору- чению Прави#& лотва сссР,\n\nЛоходя из вышеуказанного, прошу очитать приооединение\n\nСССР к указанной Конвенции и вотупление СССР в члены этой ор- ганизации с даты направления указанной ноты Посольства, ‚т.е, с І7 июня 1957 года,\n\nПропу Вас, господин Министр, принять мои уверения в\n\nН. КОРЮКИН |\n\nВременный Поверенный в Дөлах СССр во Франции\n\nвысоком к Вам уважении,\n\nГовподину Криотиану ПИНО\n\nМинистру Иностранных Дөл Франции",
+      "quality_score": 0.8112,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "AMBASSADE DIU.R. S.S.\n\nà PARIS\n\nPRADUCTION\n\nN° 372\n\nPARIS, le 15 août 1957.\n\nMonsieur le Ministro,\n\nMe référant à la noto du Ministèro d's Affaires\n\nEtrangères de la République françaiso, du 3 Juillet 1957, j'ai l'honneur de confirmer que la note de l'Ambassade d'URSS du 17 Juin 1957 relative à l'adhésion de 1'URSS à la Convention pour lacréation d'une Organisation Euro- péenne et Méditerranéenne pour la protection des plantes, a été envoyée par 1'Ambassado pour le compte du Gouvernement de 1'URSS.\n\nEn conséquence, je demande que l'adhésion de 1'URSS à ladite convention, et que l'adhésion de I'URSS en tant que membre de cotte organisation soient comptées à partir de la date d'expédition de 'ladite note de I'Am- bassado, c'ost-à-airo du 17 Juin 1957.\n\nJe vous prio de croire, Monsieur le Ministre, à l'assurance de ma haute considération.\n\nsigné : KORIOUKIN\n\nChargé d'Affaires de 1'URSS en France.\n\nlonsieur Christian PINEAL\n\nInistre des Affaires Etrangère.",
+      "quality_score": 0.9655,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.417679,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_75_s1",
+      "title": "Note verbale d'adhésion de l'URSS",
+      "score": 0.393537,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_22_s1",
+      "title": "Demande d'adhésion de Chypre  à l'OEPP",
+      "score": 0.393319,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_62_s1",
+      "title": "Notification à la Syrie de l'acceptation de sa candidature à l'adhésion",
+      "score": 0.390449,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_08_s1",
+      "title": "Note verbale d'adhésion au protocole de 1948 de l'Autriche",
+      "score": 0.390262,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.389571,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_vct002_s1",
+      "title": "Notification au BIE de l'adhésion de Saint-Vincent-et-les-Grenadines",
+      "score": 0.386167,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.385985,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.385483,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_07_s1",
+      "title": "accusé de réception de la note d'adhésion de l'Allemagne",
+      "score": 0.385037,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19680033_003_s1",
+  "title": "Pouvoirs",
+  "year": 1968,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9599,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "WHEREAS for the purpose of concluding and signing an Agreement between the Government of Malta and the Government of the Republic of France relative to Cultural Co-operation it is expedient that a fit person should be invested with Full Power to conclude and sign the said Agreement on the part of the Government of Malta; I, GIORGIO BORG OLIVIER, Minister of Commonwealth and Foreign Affairs, do hereby certify that Mr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19680033_003_s1.pdf",
+  "source_filename": "tra19680033_003_s1.pdf",
+  "source_sha256": "c4434ddf0509081917d2f38524181aa92e79fc7bca24685689b1deb77cf41da1",
+  "treaty_id": "TRA19680033",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WHEREAS for the purpose of concluding\n\nand signing an Agreement between the Government of Malta and the Government of the Republic of\n\nFrance relative to Cultural Co-operation it is expedient that a fit person should be invested with Full Power to conclude and sign the said\n\nAgreement on the part of the Government of Malta;\n\nI, GIORGIO BORG OLIVIER, Minister of Commonwealth and Foreign Affairs, do hereby certify that Mr\n\nFrederick Edgar Amato-Gauci, Secretary, Ministry of Commonwealth and Foreign Affairs, is by these\n\nPresents named, constituted and appointed as\n\nPlenipotentiary and Representative having Full power and Authority to conclude and sign the aforesaid Agreement for the Government of Malta.\n\nsigned and pate a valetta chla encha day of Zebruary one t\n\nOne thousand Nine hundred anc\n\nSixty-eight.",
+      "quality_score": 0.9599,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19680033_005_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.425536,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_51_s1",
+      "title": "Pouvoirs de négociation et de signature du Royaume-Uni",
+      "score": 0.394991,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.393687,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_03_s1",
+      "title": "Pouvoirs de signature de l'Afrique du Sud",
+      "score": 0.389788,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_400_s1",
+      "title": "Pouvoirs français",
+      "score": 0.383583,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_005_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.383334,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900276_003",
+      "title": "Pouvoirs australiens",
+      "score": 0.38264,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_655_s1",
+      "title": "Pouvoirs indiens",
+      "score": 0.378698,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_003",
+      "title": "Pouvoirs italiens",
+      "score": 0.376493,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_065_s1",
+      "title": "Pouvoirs australiens",
+      "score": 0.374198,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

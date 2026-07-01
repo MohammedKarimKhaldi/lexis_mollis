@@ -1,0 +1,140 @@
+{
+  "document_id": "tra19610160_005",
+  "title": "Instrument dahoméen (ratification)",
+  "year": 1961,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9757,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ratifications du Président de la République du Dahomey Hubert Maga Président de la République du Dahomey A tous ceux qui ces présentes Lettres verront, Salut : AYANT vu et examiné le dit TRAITE NOUS l'avons approuvé, et approuvons en toutes et chacune de ses parties, en vertu des dispositions qui y sont contenues et conformément à l'article 87 de la Constitution. ratifié qu' II SERA DÉCLARONS qu'II EST accepté , et…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19610160_005.pdf",
+  "source_filename": "tra19610160_005.pdf",
+  "source_sha256": "4a58222b34e27e4e9ff47d6da40b715426b72538bb9a1de847f58dbf6fd76686",
+  "treaty_id": "TRA19610160",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ratifications\n\ndu Président de la République\n\ndu Dahomey",
+      "quality_score": 0.9829,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Hubert Maga\n\nPrésident de la République\n\ndu Dahomey\n\nA tous ceux qui ces présentes Lettres verront,\n\nSalut :",
+      "quality_score": 0.974,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "AYANT vu\n\net examiné le dit\n\nTRAITE\n\nNOUS\n\nl'avons approuvé, et\n\napprouvons en toutes et chacune de ses parties, en vertu des dispositions qui y sont contenues et conformément à l'article 87 de la Constitution.\n\nratifié qu' II\n\nSERA\n\nDÉCLARONS qu'II EST\n\naccepté ,\n\net confirmé\n\net PROMETTONS inviolablement observé\n\nEN FOI DE QUOI, Nous avons donné\n\nles présentes, revêtues du Sceau de la\n\nRépublique.\n\nA Porto-Novo, le 6 OCTOBRE I96I\n\nLE PRESIDENT DE LA\n\nREPUBLIQUE DU DAHOMEY\n\nMINISTÉRE\n\nÉTRANGÈRES\n\nAFFAIRES\n\n13 WON\n\nHue anne\n\nHubert MAGA",
+      "quality_score": 0.9701,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19600199_005_s1",
+      "title": "Instrument camerounais",
+      "score": 0.735285,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.726981,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.71107,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_056_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.710247,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "fr-ratif_s1",
+      "title": "Ratification française",
+      "score": 0.708232,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_326",
+      "title": "Instrument de ratification française",
+      "score": 0.70662,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_004",
+      "title": "Instrument français",
+      "score": 0.701427,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_004",
+      "title": "Instrument français",
+      "score": 0.683446,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_326_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.680741,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930199_004_s1",
+      "title": "Instrument français",
+      "score": 0.668158,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

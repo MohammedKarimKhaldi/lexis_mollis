@@ -1,0 +1,53 @@
+{
+  "document_id": "19200070_002_s1",
+  "title": "Tableau d'Etat des ratifications du traité des frontières",
+  "year": 1920,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "en",
+    "nl"
+  ],
+  "quality_score": 0.721,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "# 10静物19る0 TRAITI DIS PRONTITBIE EIGNX A AITRES IS 10100I 1920, i Bigaator9s Leeesaloau iee verta in Proteeeze → 10 08810.0. Ratstiestíoso 10 1088 $970 ‡ ¡TONCOOBIOTAGTI# is Detatro $970 1+ ليدة اسيير •nf- ぎ at de ROTATIE onveri-dashond Lox dadt 198} 1 ROR$ 198I →} BRAIDE- BRETAANT etol SOHECOSLOTAQUIX * BARBIE GROATIX. &LOYEEI.",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200070_002_s1.pdf",
+  "source_filename": "19200070_002_s1.pdf",
+  "source_sha256": "d0be99853c9c8a89a4f8c081ad9df10f339e374fb8d336f262749c4abf952631",
+  "treaty_id": "TRA19200070",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "#\n\n10静物19る0\n\nTRAITI DIS PRONTITBIE\n\nEIGNX A AITRES IS 10100I 1920,\n\ni Bigaator9s\n\nLeeesaloau iee verta in Proteeeze →\n\n10 08810.0.\n\nRatstiestíoso\n\n10 1088 $970\n\n‡\n\n¡TONCOOBIOTAGTI#\n\nis Detatro $970\n\n1+ ليدة اسيير •nf- ぎ at de\n\nROTATIE\n\nonveri-dashond\n\nLox dadt 198} 1 ROR$ 198I\n\n→} BRAIDE- BRETAANT\n\netol SOHECOSLOTAQUIX\n\n* BARBIE GROATIX.\n\n&LOYEEI.",
+      "quality_score": 0.721,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl",
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

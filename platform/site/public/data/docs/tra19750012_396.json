@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19750012_396",
+  "title": "Instrument français",
+  "year": 1975,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.963,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "芋 MAGYARORSZÁG NAGYKÖVETSÉGE AMBASSADE DE HONGRIE 193/2015/HUEMB/FR Note Verbale L'Ambassade de Hongrie en France présente ses compliments au Ministère des Affaires étrangères et du Développement international de la République française, et a l'honneur de l'informer de ce qui suit : Se référant à l'Accord d'Adhésion entre la Hongrie et l'Agence spatiale européenne (ASE) signé à Budapest le 24 février 2015, l'Instrum…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19750012_396.pdf",
+  "source_filename": "tra19750012_396.pdf",
+  "source_sha256": "b825f95b49938323f38b65a373a9a5e48c411f7b41620d1973e9169bd5172860",
+  "treaty_id": "TRA19750012",
+  "treaty_number": "FRA002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "芋\n\nMAGYARORSZÁG NAGYKÖVETSÉGE\n\nAMBASSADE DE HONGRIE\n\n193/2015/HUEMB/FR\n\nNote Verbale\n\nL'Ambassade de Hongrie en France présente ses compliments au Ministère des\n\nAffaires étrangères et du Développement international de la République française, et a l'honneur de l'informer de ce qui suit :\n\nSe référant à l'Accord d'Adhésion entre la Hongrie et l'Agence spatiale européenne (ASE) signé à Budapest le 24 février 2015, l'Instrument de l'Adhésion concernant la\n\nConvention de l'établissement de l'ASE.\n\nSe référant aux articles XXI et XXII de la Convention de l'établissement de l'Agence spatiale européenne (ASE), fait à Paris le 30 mai 1975, l'adoption de la présente Convention par l'Instrument d'Adhésion.\n\nSe référant à l'article 11 de l'Accord entre les Etats Parties de la Convention de l'établissement de l'Agence spatiale européenne (ASE) et l'ASE pour la protection et l'échange des informations classifiées, fait à Paris le 19 aout 2002, l'Instrument de l'Adhésion concernant cet Accord.\n\nL'Ambassade de Hongrie en France saisit cette occasion pour renouveler au\n\nMinistère des Affaires étrangères et du Développement international de la République française l'assurance de sa très haute consideration. NA\n\nParis, le 3 novembre 2015\n\nMinistère des Aftaires étrangères et du Développement ingriational de la République française\n\nProtocole\n\nParis\n\nRegur le 4 Novembe 2015\n\nPRO/CER =) Onginal → AR/Pöre des initi\n\ncolk\n\nDF | DAT\n\nPemut\n\n5. square de Avenue Foch 76116 Pans\n\nTe 1331145.60 94.97\n\nFax 133 1 66 36.02.68. Amail mission pas efa gor hu",
+      "quality_score": 0.963,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_05_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.400776,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.398936,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240060_001b_s1",
+      "title": "Note en réponse",
+      "score": 0.390785,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220004_005_s1",
+      "title": "Note de l'ambassade signifiant l'approbation",
+      "score": 0.386804,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.384649,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910247_652",
+      "title": "Instrument de ratification",
+      "score": 0.381736,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_184_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.381715,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_006",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.381113,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "notification_denonciation_bie_guatemala_s1",
+      "title": "Dénonciation de la convention sur les expositions internationales",
+      "score": 0.380687,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040238_851",
+      "title": "Convention",
+      "score": 0.380615,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

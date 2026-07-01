@@ -1,0 +1,118 @@
+{
+  "document_id": "19920190_095_s1",
+  "title": "Pouvoirs",
+  "year": 1992,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr",
+    "nl"
+  ],
+  "quality_score": 0.9693,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "BAUDOUIN ROI DES BELGES A tous, présents et à venir, SALUT Nous confiant entièrement en la capa- cité, le zèle et le dévouement de Monsieur A. CAHEN, Grand-Officier de l'Ordre de Léopold II et Commandeur de l'Ordre de Léopold et de l'Ordre de la Couronne, Notre Ambassadeur à Paris, l'avons nommé, commis et député et, par ces présentes, le nommons, commettons et députons Notre Plénipotentiaire å l'effet de négocier e…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19920190_095_s1.pdf",
+  "source_filename": "19920190_095_s1.pdf",
+  "source_sha256": "24039c9b7a98548151d1c2f8e20f8959315b88af4cb36166671c8d54adfe4f0d",
+  "treaty_id": "TRA19920190",
+  "treaty_number": "BEL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "BAUDOUIN\n\nROI DES BELGES\n\nA tous, présents et à venir,\n\nSALUT\n\nNous confiant entièrement en la capa- cité, le zèle et le dévouement de Monsieur\n\nA. CAHEN, Grand-Officier de l'Ordre de\n\nLéopold II et Commandeur de l'Ordre de\n\nLéopold et de l'Ordre de la Couronne,\n\nNotre Ambassadeur à Paris, l'avons nommé, commis et député et, par ces présentes, le nommons, commettons et députons Notre\n\nPlénipotentiaire å l'effet de négocier et de signer la Convention pour la protection du milieu marin de l'Atlantique du Nord-Est et la Déclaration finale de la Réunion ministé- rielle, Nous réservant de ratifier, si né- cessaire, ce que Notre dit Plénipotentiaire aura stipulé, promis et signé en vertu des présents pleins pouvoirs, conformément aux instructions dont il est muni.\n\nEn foi de quoi, Nous avons ordonné que les présentes fussent revêtues du sceau de l'Etat.\n\nDonné à Bruxelles, £e 25 septembre 1992\n\nPAR LE ROI :\n\nLe Ministre des Affaires étrangères,\n\nBOUDEWIJN\n\nKONING DER BELGEN\n\nAan allen die nu zijn en hierna wezen zullen,\n\nONZE GROET\n\nBetrouwend op de bevoegdheid, de ijver en de toewijding van de Heer A.\n\nCAHEN, Grootofficier in de Orde van\n\nLeopold II en Commandeur in de Leopolds- orde en in de Kroonorde, Onze Ambassa- deur te Parijs, zo hebben Wij deze be- noemd, aangesteld en afgevaardigd, zoals\n\nWij hem bij deze brief benoemen, aanstellen en afvaardigen tot Onze Gevolmachtigde, ten einde het Verdrag inzake de bescher- ming van het marine milieu van de Noord- oostelijke Atlantische Oceaan en de Slot- verklaring van de Ministervergadering te onderhandelen en te ondertekenen, Ons het recht voorbehoudende, zo nodig, te bekrachtigen wat Onze voornoemde Gevol- machtigde zal vastgesteld, beloofd en ondertekend hebben, krachtens de onder- havige volmachten, overeenkomstig de voorschriften waarvan hij is voorzien.\n\nTer oorkonde waarvan Wij bevolen hebben dat deze brief met 's Lands zegel zal worden bekieed.\n\nGegeven te Brussel, 25 september 1992\n\nVAN KONINGSWEGE :\n\nDe Minister van Buitenlandse Zaken,\n\nWilly CLAES",
+      "quality_score": 0.9693,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "nl",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560090_095",
+      "title": "Pouvoirs belges",
+      "score": 0.423959,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_022_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.415882,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_19_s1",
+      "title": "Pouvoirs de signature de la Belgique",
+      "score": 0.411183,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.405363,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.399853,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.394266,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.393783,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.389846,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19520029_005_s1",
+      "title": "Instrument monégasque",
+      "score": 0.387156,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_797_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919",
+      "score": 0.383246,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

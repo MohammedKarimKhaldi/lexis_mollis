@@ -1,0 +1,156 @@
+{
+  "document_id": "19820018_022_s1",
+  "title": "Instrument d'acceptation de Cuba",
+  "year": 1982,
+  "doc_type": "Autre",
+  "languages": [
+    "es",
+    "vi"
+  ],
+  "quality_score": 0.8666,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Artículo 5, párrafo 2 de la Convención sobre Exposiciones Internaciona- República, el día 11 de junio de 1983 acordó ratificar la referida En- mienda. POR TANTO: A los efectos de la Aceptación de la Enmienda, por la Repú blica de Cuba de acuerdo con lo dispuesto en el inciso 3) del Artículo 33 de dicha Convención se expide el presente Instrumento de Aceptación en la Ciudad de La Habana a los 14 días del mes de junio…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_022_s1.pdf",
+  "source_filename": "19820018_022_s1.pdf",
+  "source_sha256": "e4f3e33e7917d4cecbd8c2afe05caa50e8ad38e8bbe10150f6537545283fdb30",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "251",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Artículo 5, párrafo 2 de la Convención sobre Exposiciones Internaciona-\n\nRepública, el día 11 de junio de 1983 acordó ratificar la referida En- mienda.\n\nPOR TANTO:\n\nA los efectos de la Aceptación de la Enmienda, por la Repú blica de Cuba de acuerdo con lo dispuesto en el inciso 3) del Artículo 33 de dicha Convención se expide el presente Instrumento de Aceptación en la Ciudad de La Habana a los 14 días del mes de junio de mil nove- cientos ochenta y tres.\n\nMinistro de /Relaciones\n\nVil.",
+      "quality_score": 0.9675,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "REPUBLICA DE CUBA\n\nMINISTERIO DE RELACIONES EXTERIORES\n\nOLGA MIRANDA BRAVO, Directora Jurídica del Ministerio de Relaciones\n\nExteriores de la República de Cuba.\n\nCERTIFICO: que el texto que a continuación se transcribe es traducción al español del idioma francés del Acuerdo enmendando la Convención sobre las Exposiciones Internacionales, firmada en - Paris el 22 de noviembre de 1928, tal y como está modificada por el\n\nProtocolo de 30 de noviembre de 1972.\n\n\"La Asamblea General del Buró Internacional de Expo- siciones reunida el 24 de Junio de 1982 ha adoptado con la mayoría requerida por el Artículo 28 de la - Convención modificada relátiva a las Exposiciones :\n\nInternacionales, una enmienda a dicha Convención con el texto siguiente:\"\n\n'Las disposiciones del Artículo 5.2 son suprimidas a artir de las palabras: los intervalos anteriormer te mencionados\"",
+      "quality_score": 0.9966,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Y para unir al Instrumento de Aceptación se expide la presente con el Visto Bueno del Ministro de Relaciones Exteriores, en la Ciudad de La Habana, a catorce de junio de mil novecientos ochenta y tres.\n\nVisto Bueno:\n\nREPUBLICA DE CUBA\n\nMINISTERIO DE RELACIONES EXTERIORES",
+      "quality_score": 0.9833,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": ":\n\ni d ` \\ 4\n\nN\n\nN\n\nN\n\n`\n\nN\n\nN\n\n$\n\n\\\n\nN\n\n\\\n\nN\n\n\\ \\\n\nN\n\n\\)\n\nN\n\nN\n\n)\n\n\\\n\nN\n\nN\n\n\\\n\nAPNENEC NEO EONO]\n\nA E AE E NE\n\nTAS",
+      "quality_score": 0.5188,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "vi"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_020_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'acceptation de Cuba",
+      "score": 0.499351,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.393195,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_011_s1",
+      "title": "Note verbale d'acceptation de l'amendement par la Belgique",
+      "score": 0.387295,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_39_s1",
+      "title": "Instrument d'adhésion de Cuba",
+      "score": 0.387151,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_033_s1",
+      "title": "accusé de réception du Nicaragua de la notification de l'amendement",
+      "score": 0.383377,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_69_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.381618,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.380717,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_034_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.380024,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.379088,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_021_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'acceptation de Cuba",
+      "score": 0.378099,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_380",
+  "title": "Instrument d'adhésion guyanais",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "0 10:0409896 November 25, 1996 Hon. Minister of Foreign Affairs of the Republic of France Direction Generale des Affaires Politiques et Securite Direction des Nations Unies et des organisations Internationales 37 quai d'Orsay 10 DEC. 1996 Dear Sir, I have the honour to advise you that the Cooperative republic of Guyana has decided to become a member of the Office International des Epizooties. The Government of the C…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_380.pdf",
+  "source_filename": "tra19240002_380.pdf",
+  "source_sha256": "434cf0b6928bb002a985ccaa5ec2974a15fea5e6dc40bcbd6612088af3058817",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "GUY002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "0 10:0409896\n\nNovember 25, 1996\n\nHon. Minister of Foreign Affairs of the Republic of France\n\nDirection\n\nGenerale des\n\nAffaires\n\nPolitiques et\n\nSecurite\n\nDirection des Nations\n\nUnies et des organisations Internationales 37 quai d'Orsay\n\n10 DEC. 1996\n\nDear Sir,\n\nI have the honour\n\nto advise you that the Cooperative\n\nrepublic of Guyana has decided to become a member of the Office\n\nInternational des\n\nEpizooties.\n\nThe Government of the Cooperative Republic of Guyana has\n\nexamined the provisos\n\n, of the International Agreement and of the\n\nInternal statutes of 25 Januarfice under\n\n1924, and agrees to participate in\n\ncosts of\n\nthe conditions\n\nengecially with regard in Article 32 of the International Agreoment and Article 11 of the Internal Statutes.\n\nThe 6th contribution category has been selected by my\n\nGovernment.\n\nThe official Delegate of the Cooperative\n\nRepublic of\n\nGuyana to\n\nthe OIE will\n\nbe Dr. Lennox Applewhaite who is the Chief\n\nCrops and\n\nlivestock Officer (aq).\n\nYours sincerely,\n\nClement ..\n\nRohee\n\nSenior Minister of Foreign\n\nAffairs\n\ncc:\n\nDr. Jean Blancor\n\nDirector General, OI 12 rue de Prony 75017 Paris\n\nFrance",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.643819,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_685",
+      "title": "Instrument d'adhésion",
+      "score": 0.603067,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_118_jamaique_adhesion_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.448777,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_545",
+      "title": "Instrument d'adhésion",
+      "score": 0.43502,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_425",
+      "title": "Instrument d'adhésion",
+      "score": 0.42766,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_090",
+      "title": "Instrument d'adhésion",
+      "score": 0.427173,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_230",
+      "title": "Instrument d'adhésion",
+      "score": 0.42571,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_41_s1",
+      "title": "Lettre du Ministre de l'Agriculture de Jordanie de candidature à l'OEPP",
+      "score": 0.414997,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_705",
+      "title": "Instrument d'adhésion",
+      "score": 0.413815,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_315",
+      "title": "Notification de l'OIE",
+      "score": 0.395712,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

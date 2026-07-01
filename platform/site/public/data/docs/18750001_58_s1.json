@@ -53,5 +53,27 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19280002_198_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.89641,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_48_s1",
+      "title": "Instrument d'adhésion de la République Tchèque",
+      "score": 0.465705,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_218_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.39102,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

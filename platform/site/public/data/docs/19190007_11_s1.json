@@ -45,5 +45,20 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_46_s1",
+      "title": "Instrument d'adhésion du Portugal",
+      "score": 0.354226,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_034_s1",
+      "title": "Ratification de l'article séparé par Victor-Amédée II, duc de Savoie",
+      "score": 0.353787,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

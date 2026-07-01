@@ -1,0 +1,138 @@
+{
+  "document_id": "19280002_206_s1",
+  "title": "Instrument de ratification",
+  "year": 1928,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9551,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 206 00000000 LE CONSEIL FÉDÉRAL DE LA CONFÉDÉRATION SUISSE après avoir vu et etaminé la _ Fonvention\" _ concernant les capositions internationales, le protocole anneté à cette Convention et le frotocole de signature, conclus, sous réserve de ratification, à Patis, le 22 novembre 1928, par les plénipotentiaires de la Suisse et des autres Etats contractants, qui ont été appronvés parles (frambres Fédérales le…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_206_s1.pdf",
+  "source_filename": "19280002_206_s1.pdf",
+  "source_sha256": "f193137957d4e8cc3ed012e5757b13ef598ab14ec3a3f2b1046d803fd467357c",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "CHE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 206",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "00000000\n\nLE CONSEIL FÉDÉRAL\n\nDE LA\n\nCONFÉDÉRATION SUISSE\n\naprès avoir vu et etaminé la _ Fonvention\" _ concernant les capositions internationales, le protocole anneté à cette Convention\n\net le frotocole de signature, conclus, sous réserve de ratification, à Patis, le 22 novembre 1928, par les plénipotentiaires de la Suisse et des autres Etats contractants, qui ont été appronvés parles (frambres Fédérales le 12 mars 1930 et dont la teneut suit:",
+      "quality_score": 0.9585,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Déclare que la Convention et les deux Protocoles ci-dessus, qui entreront en vigueur un mois après la date du procès-verbal constatant le dépôt des ratifications, sont ratifiés, promettant, au nom de la Confédération Suisse, de les observer consciencieusement et entout temps, entant que cela dépend de lui.\n\nEn foi de quoi, la présente ratification a été signée parle\n\nPrésident et le Chancelier de la Confédération Suisse et munie du sceau fédéral.\n\nClinsi faità Berne, le diz avril mil nenfeont trente (10 avril 1930).\n\nCunom du Conseil Fédéral Suisse:\n\npr Le Président de la Confédétation,\n\nLe Chancelier de la Confédération,\n\nCaroling",
+      "quality_score": 0.9635,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_204_s1",
+      "title": "Instrument de ratification",
+      "score": 0.849671,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_208_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.848446,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_207_s1",
+      "title": "Réserve sur l'exposition internationale des arts populaires",
+      "score": 0.831073,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.828577,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_202_s1",
+      "title": "Instrument d'adhésion du Sri Lanka",
+      "score": 0.807905,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_226_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.721442,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.717863,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.715796,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_218_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.714847,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_220_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.714268,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

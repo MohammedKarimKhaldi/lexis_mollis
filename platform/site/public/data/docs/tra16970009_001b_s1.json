@@ -1,0 +1,174 @@
+{
+  "document_id": "tra16970009_001b_s1",
+  "title": "Article séparé",
+  "year": 1697,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "en",
+    "fr",
+    "it",
+    "ro"
+  ],
+  "quality_score": 0.8869,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Ministore des Añelros etrangeros - Direction dos Archives - Conservation des Traitos. Multilatéraux 16970009 GRANDE BRETAGNE Traité de paix.- Ryswick, 20 septembre 1697. » Article sóparé.- Ryswick, 20 septembre 1697. Original en latin.- Feuilet papior. - 3 cachets de cire rouge. ar. Ppinilause langis 7 pour fever on terme al'kmp-reer *;%: Asicau Фератчи; يقارة واد. 3 2:50ه stored omnia sucemilara eef enten ala. Yepe…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16970009_001b_s1.pdf",
+  "source_filename": "tra16970009_001b_s1.pdf",
+  "source_sha256": "3fbf1fa3d98170fd57d621322d764b9cf846ce5cef038e8de33a387fdea0424d",
+  "treaty_id": "TRA16970009",
+  "treaty_number": "001B",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministore des Añelros etrangeros - Direction dos Archives - Conservation des Traitos.\n\nMultilatéraux\n\n16970009\n\nGRANDE BRETAGNE\n\nTraité de paix.- Ryswick, 20 septembre 1697.\n\n» Article sóparé.- Ryswick, 20 septembre 1697.\n\nOriginal en latin.- Feuilet papior. - 3 cachets de cire rouge.",
+      "quality_score": 0.9853,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "ar. Ppinilause langis 7\n\npour fever on terme al'kmp-reer\n\n*;%:\n\nAsicau Фератчи;\n\nيقارة واد.\n\n3 2:50ه stored omnia sucemilara\n\neef enten ala.\n\nYeperior per presentem: Articlin Separatt\n\nNeut per preventen diticular perfitur et onet, quio liberam vit Imperatori eh Sms.\n\npenio urg ao primum diem Menfi, Movembri\n\nRindim Declatationen so die kup pre=\n\net Imperium inter, es Majestatem -",
+      "quality_score": 0.8318,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ro",
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "mixed_scripts",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Rempar Majoras (avarea non avipiat en conditiones ree alià rattore @arcam\n\nMajestater et Imperium sites et Majesta-\n\ni a tem haitianpinam coventum fierit pro=\n\nlatichus et avenutionem debitam habebit,\n\nnec licitam Et Regi Magna Briter?\n\nmefidirecte, velindirité fel qualicun,\n\nmaeene:s\n\nJeripti Legahi Batrandinan, et Péripoten =\n\nBiani: Jacra Regia Majestahi Pagnce i Spitannide, et Sacra Rega Maj: '\n\nMarramum proveatem Asticulami lepa=",
+      "quality_score": 0.7761,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "ro",
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "ratum Subscriptionitar et ligillis propris muniri curarimar;\n\nActum in Alibar Rurnicerfilar in Pro= nucia Atollandia die 20 MenfirSeptem\n\nRemittle\n\nVilliess\n\nWilliamson.",
+      "quality_score": 0.9545,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ro",
+        "en",
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16970001_001b_s1",
+      "title": "Article séparé",
+      "score": 0.697745,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970010_001b_s1",
+      "title": "Article séparé",
+      "score": 0.643535,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001c_s1",
+      "title": "Déclaration rectificative de l'article 7",
+      "score": 0.632814,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001e_s1",
+      "title": "Acte extrait du protocole de médiation relatif aux titres des plénipotentiaires britanniques",
+      "score": 0.457202,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001a_s1",
+      "title": "Traité",
+      "score": 0.456738,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001f_s1",
+      "title": "Déclaration relative à l'application de la cessation des hostilités sur mer",
+      "score": 0.454611,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001c_s1",
+      "title": "Déclaration relative à l'inclusion des États italiens et suisses",
+      "score": 0.449928,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001d_s1",
+      "title": "Acte extrait du protocole de médiation relatif à la pension de Marie d'Este",
+      "score": 0.445389,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001a_s1",
+      "title": "Traité",
+      "score": 0.443066,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_005b_s1",
+      "title": "Ratification de l'article séparé",
+      "score": 0.437995,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

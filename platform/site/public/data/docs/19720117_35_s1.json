@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_35_s1",
+  "title": "Procès verbal de dépôt de l'instrument d'adhésion du Costa Rica",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9745,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT D'ADHESION DE LA REPUBLIQUE DE COSTA RICA AU PROTOCOLE DU 30 NOVEMBRE 1972 PORTANT MODIFICATION DE LA CONVENTION SIGNEE A PARIS LE 22 NOVEMBRE 1928 CONCERNANT LES EXPOSTTTONS TNTERNATTONAT.ES Monsieur Fabio ROSABAL, Chargé d'Affaires a.i à l'Ambassade du Costa Rica, s'est présenté aujourd'hui au Ministère des relations extérieures pour procéder avec Monsieur Michel ROUGAGNOU, C…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_35_s1.pdf",
+  "source_filename": "19720117_35_s1.pdf",
+  "source_sha256": "87ab09701dd91fc8b4f3c2081b4aad044a3e7bb55e58afa4bf613d9a9e4f4a31",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "CRI004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT D'ADHESION\n\nDE LA REPUBLIQUE DE COSTA RICA\n\nAU PROTOCOLE DU 30 NOVEMBRE 1972\n\nPORTANT MODIFICATION DE LA CONVENTION\n\nSIGNEE A PARIS LE 22 NOVEMBRE 1928\n\nCONCERNANT LES EXPOSTTTONS TNTERNATTONAT.ES\n\nMonsieur Fabio ROSABAL, Chargé d'Affaires a.i à l'Ambassade du Costa Rica, s'est présenté\n\naujourd'hui au Ministère des relations\n\nextérieures pour procéder avec Monsieur Michel ROUGAGNOU, Chef du\n\nProtocole agissant au nom du Ministre des relations extérieures au dépôt de l'Instrument d'adhésion de la République de Costa Rica, : la (on-iuta au pfotócole du 30 novembre 1972 portant modification de la Convention signée à Paris, le 28 novembre 1928 concernant les expositions inter- nationales.\n\nL'Instrument ayant été, après examen, trouvé en bonne et due forme, a été déposé, pour y\n\n色tre\n\nde la République française.\n\nEN FOI DE 0U01,\n\nles soussignés ont dressé le présent\n\nProcès-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, e n le 23 novembre 1982\n\ndouble exemplaire\n\nMAAA",
+      "quality_score": 0.9745,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.769764,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_63_s1",
+      "title": "Notification aux ambassadeurs auprès des pays membres de l'adhésion des États-Unis",
+      "score": 0.737287,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mex003_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Mexique",
+      "score": 0.737287,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_74_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de Panama",
+      "score": 0.728236,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_83_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.727164,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_38_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Cuba",
+      "score": 0.726502,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_26_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de la Bolivie",
+      "score": 0.720223,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_68_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion du Nicaragua",
+      "score": 0.712517,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv002_s1",
+      "title": "Procès-verbal du dépôt de l'instrument d'adhésion au protocole de 1972",
+      "score": 0.707121,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion chilien",
+      "score": 0.701248,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

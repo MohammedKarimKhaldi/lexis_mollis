@@ -1,0 +1,138 @@
+{
+  "document_id": "19280002_68_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9811,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 68 LYNDON B. JOHNSON President of the United States of America IO ALL IO WHOM THESE PRESENTS SHALL COME, GREETING: KNOW YE That, whereas a convention relating to international exhibitions was signed at Paris on November 22, 1928, and two protocols modifying the convention were signed at Paris on May 10, 1948 and November 16, 1966, all in the French language; AND WHEREAS the Government of France, as deposita…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_68_s1.pdf",
+  "source_filename": "19280002_68_s1.pdf",
+  "source_sha256": "a23c6ceaf0eae2122dea46962e6fabe5977abc95c646aea89f1375185a1fd701",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "USA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 68",
+      "quality_score": 0.9434,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "LYNDON B. JOHNSON\n\nPresident of the United States of America\n\nIO ALL IO WHOM THESE PRESENTS SHALL COME, GREETING:\n\nKNOW YE That, whereas a convention relating to international exhibitions was signed at Paris on November 22, 1928, and two protocols modifying the convention were signed at Paris on\n\nMay 10, 1948 and November 16, 1966, all in the French language;\n\nAND WHEREAS the Government of France, as depositary of the convention and protocols, 'has delivered certified texts of them to the Government of the United States of America;\n\nAND WHEREAS the Senate of the United States of America by its resolution of April 30, 1968, two-thirds of the Senators present concurring therein, did advise and consent to the accession to the aforesaid convention and protocols;",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "NOW, THEREFORE, be\n\nit known that I, Lyndon B. Johnson,\n\nPresident of the United States of America, having\n\nseen and\n\nconsidered the aforesaid convention and protocols, do hereby, in pursuance of the aforesaid advice and consent of the Senate of the United States of America, approve accession of the United\n\nStates of America thereto.\n\nIN TESTIMONY WHEREOF, I have hereunto set my hand and caused the Seal of the United States of America to be affixed.\n\nDONE at the city of Washington this sixth day of\n\nMay in the year of\n\nand and of the Independence\n\nOf the United States of\n\nAmerica the one hundred ninety-second.\n\nBy the President:\n\nHeauRusk\n\nSecretary of State",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.828566,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_69_s1",
+      "title": "Lettre portant dénonciation",
+      "score": 0.818454,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_66_s1",
+      "title": "Instrument de ratification",
+      "score": 0.817814,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_65_s1",
+      "title": "Pouvoirs pour la ratification de la convention",
+      "score": 0.770903,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.715527,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.697688,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_76_s1",
+      "title": "Instrument d'adhésion de la Gambie",
+      "score": 0.693476,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_88_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.685153,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.683958,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_79_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.680794,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19990144_004_s1",
+  "title": "Lettre constituant instrument d'approbation",
+  "year": 1999,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9856,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Transaise Le Ministre des Affaires Etrangères Paris, le 13 MAR$ 2000 Monsieur le Ministre, Me référant à l'article 14 de l'Accord général de sécurité entre le Gouvernement de la République française et le Gouvernement d'Ukraine sur la protection des informations et matériels classifiés, signe à Paris le 7 décembre 1999, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19990144_004_s1.pdf",
+  "source_filename": "tra19990144_004_s1.pdf",
+  "source_sha256": "65c59fdb831118e165625fec05321b0413db82d2d6497d86e9888b44df118407",
+  "treaty_id": "TRA19990144",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République Transaise\n\nLe Ministre des Affaires Etrangères\n\nParis, le 13 MAR$ 2000\n\nMonsieur le Ministre,\n\nMe référant à l'article 14 de l'Accord général de sécurité entre le\n\nGouvernement de la République française et le Gouvernement d'Ukraine sur la protection des informations et matériels classifiés, signe à Paris le 7 décembre 1999, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République pour la mise en vigueur dudit\n\nAccord ont été accomplies.\n\nLa présente lettre constitue l'Instrument d'Approbation prévu par la disposition précitée.\n\nJe vous serais reconnaissant de bien vouloir m'informer de la date à laquelle celle-ci vous sera parvenue.\n\nJe vous prie d'agréer, Monsieur le Ministre, l'expression de ma haute considération.\n\nPOUR COPIE CERTIFIEE CONFORME A L'ORIGINAL,\n\nFAIT A PARIS, LE 13 MARS 2000\n\nHubert VEDRINE\n\nA Son Excellence\n\nMonsieur Boryss TARASSIOUK\n\nMinistre des Affaires étrangères\n\nKIEV",
+      "quality_score": 0.9856,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990090_004_s1",
+      "title": "Instrument français",
+      "score": 0.745074,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_004_s1",
+      "title": "Instrument français",
+      "score": 0.646165,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090247_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.639016,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.420856,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19970011_004_s1",
+      "title": "Instrument français",
+      "score": 0.419896,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.409241,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_004_s1",
+      "title": "Instrument français",
+      "score": 0.406635,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940256_004",
+      "title": "Instrument d'approbation français",
+      "score": 0.399964,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_004",
+      "title": "Instrument de ratification",
+      "score": 0.391488,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990144_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.391286,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

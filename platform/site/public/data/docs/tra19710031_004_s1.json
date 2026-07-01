@@ -1,0 +1,158 @@
+{
+  "document_id": "tra19710031_004_s1",
+  "title": "Lettres patentes de ratification",
+  "year": 1971,
+  "doc_type": "Lettre",
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "ro"
+  ],
+  "quality_score": 0.9208,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "• GEORGES POMPIDOU PRESIDENT DE LA REPUBLIQUE FRANCAISE, PRESIDENT DE LA COMMUNAUTE, A TOUS CEUX QUI CES PRESENTES LETTRES VERRONT, SALUT: UNE CONVENTION ENTRE LA FRANCE ET LE PORTUGAL TENDANT A EVITER LES DOUBLES IMPOSITIONS ET A ETABLIR DES REGLES D'ASSISTANCE ADMINISTRATIVE RECIPROQUE EN MATIERE D'IMPOTS SUR LE REVENU ET UN PROTOCOLE ANNEXE AYANT ETE SIGNES A PARIS LE 14 JANVIER 1971, CONVENTION ET PROTOCOLE DONT…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19710031_004_s1.pdf",
+  "source_filename": "tra19710031_004_s1.pdf",
+  "source_sha256": "e09eef61471bcf44777605a2c8c185ad7385326f6ba7d91a279bd10799c3a5f3",
+  "treaty_id": "TRA19710031",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "•\n\nGEORGES POMPIDOU\n\nPRESIDENT DE LA REPUBLIQUE FRANCAISE,\n\nPRESIDENT DE LA COMMUNAUTE,\n\nA TOUS CEUX QUI CES PRESENTES LETTRES VERRONT,\n\nSALUT:\n\nUNE CONVENTION ENTRE LA FRANCE ET LE PORTUGAL TENDANT\n\nA EVITER LES DOUBLES IMPOSITIONS ET A ETABLIR DES REGLES\n\nD'ASSISTANCE ADMINISTRATIVE RECIPROQUE EN MATIERE D'IMPOTS\n\nSUR LE REVENU ET UN PROTOCOLE ANNEXE\n\nAYANT ETE SIGNES A PARIS LE 14 JANVIER 1971,\n\nCONVENTION ET PROTOCOLE DONT LA TENEUR SUIT :\n\n.",
+      "quality_score": 0.9923,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "一\n\nRATIFICATIONS\n\nDU PRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nPRESIDENT DE LA COMMUNAUTE,\n\nDE LA CONVENTION ENTRE LA FRANCE ET LE PORTUGAL TENDANT\n\nA EVITER LES DOUBLES IMPOSITIONS ET A ETABLIR DES REGLES\n\nD'ASSISTANCE ADMINISTRATIVE RECIPROQUE EN MATIERE D'IMPOTS\n\nSUR LE REVENU ET DU PROTOCOLE ANNEXE\n\nSIGNES A PARIS LE 14 JANVIER 1971",
+      "quality_score": 0.9845,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Ayant vu et examiné lesdits Convention et\n\nProtocole, Nous les avons approuvés et approuvons en toutes et chacune de leurs parties, en vertu des dispositions qui y sonl contenues et conformément à l'article 52 de la Constituizon.\n\nDéclarons qu'ils sont acceptés, ratifiés et\n\nconfirmés et promettons qu'ils seront inviolablement observés.\n\nEN FOI DE QUOI, Nous avons donné les\n\nprésentes,\n\nrevêtues du Sceau de la République.\n\nA PARIS, le 24 juillet 1972.\n\ni\n\nLe Premier Ministre\n\nPierre MESSMER\n\nSigné : Georges POMPIDOU\n\nPar le Président de la République\n\nLe Ministre des Affaires Etrangères\n\nMaurice SCHUMANN",
+      "quality_score": 0.9907,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": ":2\n\np. .s'\n\nPOUB EthE !*:!: COAME :\n\nle Hiai::\n\n. i rieira\n\nClie\" te stiie is einorole.\n\nli しい）",
+      "quality_score": 0.7157,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ro"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630357_004_s1",
+      "title": "Instrument français",
+      "score": 0.782352,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "fr-ratif_s1",
+      "title": "Ratification française",
+      "score": 0.735445,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20161971_001_s1",
+      "title": "Accord",
+      "score": 0.710134,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.698179,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530019_004",
+      "title": "Instrument de ratification français de la convention relative à des modifictions de frontière, de la convention relative à diverses modifications de la frontière le long de la route nationale française n°206 et de la convention relative à la détermination de la frontière dans le Lac Léman",
+      "score": 0.679154,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710031_001a_s1",
+      "title": "Convention (ensemble 1 protocole)",
+      "score": 0.671916,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.663714,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_171_s1",
+      "title": "Instrument de ratification",
+      "score": 0.654254,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600199_005_s1",
+      "title": "Instrument camerounais",
+      "score": 0.653469,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610160_005",
+      "title": "Instrument dahoméen (ratification)",
+      "score": 0.633851,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

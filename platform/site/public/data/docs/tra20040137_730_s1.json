@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20040137_730_s1",
+  "title": "Pouvoirs britanniques",
+  "year": 2004,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Sir John Holmes, KBE, CVO, CMG, Her Majesty's Ambassador at Paris, or Mt Giles Paxman, LVO, Minister at the British Embassy, is hereby granted full powers to sign, on behalf of the Government of the United Kingdom of Great Britain and Northern Ireland, the OCCAR Security Agreement. In witness whereof I, Jack Straw, Her Majesty's Principal Secretary of State for Foreign and Commonwealth Affairs, have signed these pre…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20040137_730_s1.pdf",
+  "source_filename": "tra20040137_730_s1.pdf",
+  "source_sha256": "8c5bb61ee1a445ed22975a8a8a82330138b53a4d223a3e4fe83b879f9ba30a65",
+  "treaty_id": "TRA20040137",
+  "treaty_number": "GBR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Sir John Holmes, KBE, CVO, CMG, Her Majesty's Ambassador at\n\nParis, or Mt Giles Paxman, LVO, Minister at the British Embassy, is hereby granted full powers to sign, on behalf of the Government of the United\n\nKingdom of Great Britain and Northern Ireland, the OCCAR Security\n\nAgreement.\n\nIn witness whereof I, Jack Straw, Her Majesty's Principal Secretary of State for Foreign and Commonwealth Affairs, have signed these presents.\n\nLondon, the thousand and four.\n\nSigned and sealed at the Foreign and Commonwealth Office,\n\nFirst\n\nday of\n\nJuly\n\n, Iwo",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19980155_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.3923,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20030221_730",
+      "title": "Texte de la lettre d'intention",
+      "score": 0.388645,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19510061_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.373534,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_10_s1",
+      "title": "Pouvoirs (Londres, 01/01/1919 et 14/10/1919)",
+      "score": 0.371183,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_66_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.364577,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_51_s1",
+      "title": "Pouvoirs de négociation et de signature du Royaume-Uni",
+      "score": 0.364575,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.363949,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_24_s1",
+      "title": "Pouvoirs",
+      "score": 0.361662,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19510061_003_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.361339,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_18_s1",
+      "title": "Pouvoirs du Royaume-Uni",
+      "score": 0.360088,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

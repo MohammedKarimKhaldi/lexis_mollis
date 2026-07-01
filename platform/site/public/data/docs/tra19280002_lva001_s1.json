@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_lva001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Latvijas Republikas Arlietu ministrija Ministry of Foreign Affairs of the Republic of Latvia INSTRUMENT OF ACCESSION WHEREAS the Convention relating to International Exhibitions was signed at Paris on 22 November 1928 and supplemented by the Protocols of 10 May 1948, 16 November 1966 and 30 November 1972 and the amendments of 24 June 1982 and 31 May 1988, NOW THEREFORE I, Arturs Krišjānis Karinš, Minister of Foreign…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_lva001_s1.pdf",
+  "source_filename": "tra19280002_lva001_s1.pdf",
+  "source_sha256": "ed1a0d9296d1001c3f5f0090ad5ad014d35bb4b2b76ebba5408b69943474b01b",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "LVA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Latvijas Republikas Arlietu ministrija\n\nMinistry of Foreign Affairs of the Republic of Latvia\n\nINSTRUMENT OF ACCESSION\n\nWHEREAS the Convention relating to International Exhibitions was signed at Paris on 22 November 1928 and supplemented by the Protocols of 10 May 1948, 16 November 1966 and 30 November 1972 and the amendments of 24 June 1982 and 31 May 1988,\n\nNOW THEREFORE I, Arturs Krišjānis Karinš, Minister of Foreign Affairs of the Republic of Latvia declare that the Government of the Republic of Latvia, having considered the above-mentioned Convention, accedes to the same and undertakes faithfully to perform and carry out the stipulations therein contained.\n\nIN WITNESS WHEREOF I have signed this Instrument of Accession and affixed the official seal.\n\nDONE at Riga, this _& day of January 2024.\n\nArturs Krisjanis Karins\n\nMinister of Foreign Affairs",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.653039,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.397854,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_155_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.396383,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.394068,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_142_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.39241,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_70_s1",
+      "title": "Instrument d'adhésion des Fidji",
+      "score": 0.391835,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600149_s1",
+      "title": "Instrument d'adhésion lituanien",
+      "score": 0.390793,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_236_s1",
+      "title": "Instrument d'adhésion du Vanuatu",
+      "score": 0.389821,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.388661,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.387528,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

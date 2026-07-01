@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_100",
+  "title": "Accusé de réception français de l'instrument du Belize",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9846,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES VERBAL DE DEPOT DES RATIFICATIONS DE LA GREC SUR L' ARRANGEMENT INTERNATIONAL POUR LA CREATION à PARIS D' UN OFFICE INTERNATIONAL DES EPIZOOTIES SIGNE à PARIS LE 25 JANVIER 1924 En Exécution de l'article T de l'Arrangement Internationa pour la création à Paris d'un Office International des Eplzootios signé à Paris le 25 Janvier 1924 entre la République Argentine la Belgique le Brésil la Bulgarie , le Danemark…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_100.pdf",
+  "source_filename": "tra19240002_100.pdf",
+  "source_sha256": "7d71e7b3a50c2c9d6b96f5f1be1c162bfe728c56ddb49be3266979154ad4519a",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES VERBAL DE DEPOT DES RATIFICATIONS DE LA GREC\n\nSUR L' ARRANGEMENT INTERNATIONAL POUR LA CREATION à PARIS D' UN\n\nOFFICE INTERNATIONAL DES EPIZOOTIES SIGNE à PARIS LE 25 JANVIER\n\n1924\n\nEn Exécution de l'article T de l'Arrangement Internationa pour la création à Paris d'un Office International des Eplzootios signé à Paris le 25 Janvier 1924 entre la République Argentine la Belgique le Brésil la Bulgarie , le Danemark, l'Egypte , 1'# pagne, la Finlande, la France, la Grande Bretagne , la Grèc le Guatémala, la Hongrie, l'Italie , le Luxembourg, le Maroc, le Mexique, la Principauté de Monaco, les Pays-Bas, le Pérou, la Pologne, le Portugal, la Roumanie, le Slam, la Suèdo, la\n\nSuisse, la République Ichéco Slovaqu e et la Tunisle , le NInistre de Grèce à Paris s'est présenté aujourd'hul au Ministère des Affaires Etrangères de la République Française et a déposé 1'instrument des ratifications de 8. ExC. le Président de la République Hellénique sur cet acte international .\n\nCet instrument ayant été , après examen trouvé en bonne due forme , a été confié au Gouvernement de la République Iran.\n\nçaise pour rester déposé dans ses archives .\n\nUne expédition authentique du présent procès - verbal sera adressée aux Puissances contractantes .\n\nEN FOI de Quoi, les soussignés ont dressé le présent procès verbal qu'11s ont revêtu de leurs cachets .\n\npast à Paris, l ag geillet egag.",
+      "quality_score": 0.9846,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_210",
+      "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion comorienne",
+      "score": 0.806793,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_297",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.753723,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_257",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.729188,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_196",
+      "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion chinoise",
+      "score": 0.723297,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_277",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.458654,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Grèce",
+      "score": 0.403141,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_151",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.398979,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_43_s1",
+      "title": "Procès verbal  de dépôt de l'instrument de ratification siamois",
+      "score": 0.398127,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_38_s1",
+      "title": "Procès verbal de dépôt de l'instrument polonais",
+      "score": 0.387205,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_54_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.386545,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

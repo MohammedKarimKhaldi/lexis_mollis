@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19650048_003_s1",
+  "title": "Pouvoirs espagnols",
+  "year": 1965,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9485,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "GUSTAVO DIAZ ORDAZ, PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS, a todos los que las presentes vieren, sabed Que contiero al sefior Leenciado Antonio Carrillo Flores, Secretario de Relaciones Exteriores, el Pleno Poder ne• cesario para que en nombre y representacion del Gobierno de los Estados Unidos Mexicanos, firme ad - referendum un Acuerdo de Cooperacion Técnica y Cientifica eatre el Gobierno de los Es tados Unid…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19650048_003_s1.pdf",
+  "source_filename": "tra19650048_003_s1.pdf",
+  "source_sha256": "c98d9a33b7fddf2ea24ba2ad3603f7d18c526890aba3f5ba615c1dbd21e9735b",
+  "treaty_id": "TRA19650048",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GUSTAVO DIAZ ORDAZ,\n\nPRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS,\n\na todos los que las presentes vieren, sabed\n\nQue contiero al sefior Leenciado Antonio Carrillo\n\nFlores, Secretario de Relaciones Exteriores,\n\nel Pleno Poder ne•\n\ncesario para que en nombre y representacion del Gobierno de los Estados Unidos Mexicanos, firme ad - referendum un Acuerdo de Cooperacion Técnica y Cientifica eatre el Gobierno de los Es tados Unidos Mesdcanos y el Gobierno de la República Francesa, con el Plenipotenciario que tenga a bien designar el Gobierno de la República Francesa.\n\nEn le de lo cual",
+      "quality_score": 0.9552,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "En fe de lo cual, expido las presentes, firmadas\n\nde mi mano, autorizadas con el Gran Sello de\n\nla Nación y re -\n\nfrendadas por el señor licenciado Antonio Carrillo Flores, Secretario de Relaciones Exteriores, en la residencía del Poder Ejecu\n\nIvo Federal, en la ciudad de Mexico, Distrito Federal, a los veinticinco días del mes de lebroro dol tão de rall noveciente sesenta y cinco\n\nEl Secretario de\n\nacIor\n\nExteriore\n\nСем\n\nمانسة",
+      "quality_score": 0.9418,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_037_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.392213,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600149_242_s1",
+      "title": "Instrument de ratification du Costa Rica",
+      "score": 0.391431,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_003",
+      "title": "tra19720042_003",
+      "score": 0.383163,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.380539,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172280_001",
+      "title": "Texte de la feuille de route",
+      "score": 0.379509,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.378567,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172446_001",
+      "title": "Déclaration",
+      "score": 0.373997,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19650048_001_s1",
+      "title": "Accord",
+      "score": 0.373403,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_16_s1",
+      "title": "Pouvoirs (Rio de Janeiro, décembre 1918, juin 1919)",
+      "score": 0.37023,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_015_s1",
+      "title": "Pouvoirs argentin",
+      "score": 0.365625,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

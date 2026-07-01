@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20230149_001b_s1",
+  "title": "Lettre en réponse",
+  "year": 2023,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9803,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republic of Vanuatu THE PRIME MINISTER République de Vanuatu LE PREMIER MINISTRE Long Gody Port-Vila, le 27 novembre, 2023 H.E. Jean-Baptiste Jeangène Vilmer Ambassadeur de France au Vanuatu Monsieur l'Ambassadeur, En réponse à votre lettre du 19 Octobre 2023, Je souhaite premièrement indiquer bien évidemment, l'importance particulière que le Gouvernement du Vanuatu accord à la continuité et la mise en application e…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20230149_001b_s1.pdf",
+  "source_filename": "tra20230149_001b_s1.pdf",
+  "source_sha256": "68a6ef84e9690f90b57e37f515dd2726e70e34cc8581b8603e70dbc48106b4bc",
+  "treaty_id": "TRA20230149",
+  "treaty_number": "001B",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republic of Vanuatu\n\nTHE PRIME MINISTER\n\nRépublique de Vanuatu\n\nLE PREMIER MINISTRE\n\nLong Gody\n\nPort-Vila, le 27 novembre, 2023\n\nH.E. Jean-Baptiste Jeangène Vilmer\n\nAmbassadeur de France au Vanuatu\n\nMonsieur l'Ambassadeur,\n\nEn réponse à votre lettre du 19 Octobre 2023, Je souhaite premièrement indiquer bien évidemment, l'importance particulière que le Gouvernement du Vanuatu accord à la continuité et la mise en application efficace de l'accord de coopération régional entre la France, le Vanuatu et la Nouvelle-Calédonie (CCR) qui aide à renforcer les liens partagés par nos pays.\n\nDe ce fait, le Gouvernement accepte les propos avancés par la France sur l'article 8, y compris le renouvellement de la convention pour une nouvelle période de quatre (4) années.\n\nJe vous prie d'agréer Monsieur l'Ambassadeur, l'expression de ma très haute considération.\n\nCOLE MINISTERE\n\nHon. Charlot Salwai TABIMASMAS\n\nPremier Ministre\n\nPREMIER MINISTE\n\nREPUBLIQUE DE\n\nVANUATU\n\nGouvernement de la République de Vanuatu, Bureau du Premier Ministre, SPP 053, Port Vila,\n\nTel: (678) 22413 - Fax (678) 26301",
+      "quality_score": 0.9803,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20230149_001a_s1",
+      "title": "Lettre",
+      "score": 0.429773,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.375825,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470022_001_s1",
+      "title": "Traité (ensemble 1 échange de lettres a/s rapports consulaires)",
+      "score": 0.371478,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.370146,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_012_s1",
+      "title": "Dénonciation siamoise du traité",
+      "score": 0.369841,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.369654,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820077_002",
+      "title": "Pouvoirs français",
+      "score": 0.368856,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192687_001_s1",
+      "title": "Texte de l'accord (lettre française)",
+      "score": 0.368235,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_007_s1",
+      "title": "Accusé de réception bolivien de l'instrument français",
+      "score": 0.367841,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.367293,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

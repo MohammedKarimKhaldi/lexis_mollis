@@ -1,0 +1,74 @@
+{
+  "document_id": "19200016_003_s1",
+  "title": "Protocole relatif aux droits des Puissances alliées en cas de non-exécution ou d'exécution incomplètes des clauses d'Armistice par la Hongrie",
+  "year": 1920,
+  "doc_type": "Protocole",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8733,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "PROTOCOLE. Aumoment de procéder au premier dépot des ratifications du Traité de Paix entre les Puissances alliées et associées el la Hongrie, signé à Trianon le 4 juin 1g2o, les Puissances alliées déclarent réserver tous ls droits pouvant leur appartenir par suite de la non-exécution de dauses d'Armistice ou de leur exécution incomplète de la part de la Hongrie. FATT à Paris, le vingt-six juillet 1g31, à dix-huit he…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200016_003_s1.pdf",
+  "source_filename": "19200016_003_s1.pdf",
+  "source_sha256": "ffe92435d3ae71639bb63d662342e51d78552ca4f9a64920925b5470571fc506",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROTOCOLE.\n\nAumoment de procéder au premier dépot des ratifications du Traité de Paix entre les Puissances alliées et associées el la Hongrie, signé à\n\nTrianon le 4 juin 1g2o, les Puissances alliées déclarent réserver tous ls droits pouvant leur appartenir par suite de la non-exécution de dauses d'Armistice ou de leur exécution incomplète de la part de la\n\nHongrie.\n\nFATT à Paris, le vingt-six juillet 1g31, à dix-huit heures.\n\nhulne, Cheetnam\n\nK. thie\n\nLas triper,",
+      "quality_score": 0.9657,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "sahara\n\nSteper Darist\n\nPouring",
+      "quality_score": 0.7808,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19190006_005_s1",
+      "title": "Protocole relatif aux droits des Puissances alliées en cas de non-exécution ou d'exécution incomplète des clauses d'Armistice de la part de la Bulgarie",
+      "score": 0.633068,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_007_s1",
+      "title": "Protocole relatif aux réserves émises par les puissances alliées en cas de non-exécution ou d'exécution incomplète par l'Autriche des clauses d'armistice, lors du premier dépôt des ratifications du traité de paix",
+      "score": 0.630653,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

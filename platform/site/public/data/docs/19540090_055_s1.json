@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_055_s1",
+  "title": "Pouvoirs argentins pour le dépôt de l'instrument d'adhésion",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9827,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JUAN CARLOS ONGANIA PRESIDENTE DE LA NACION ARGENTINA AUTORIZA a Su Excelencia el señor Embajador Extraor - dinario y Plenipotenciario Doctor HORACIO M. AGUIRRE LEGARRETA, para que proceda a la firma del Acta de Depósito del Instrumento de Adhesión a la \"Convención Internacional para la Unificación de los Métodos de Análisis y de Apreciación de los Vinos\", suscripta en París el 13 de octubre de 1954. La presente Ple…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_055_s1.pdf",
+  "source_filename": "19540090_055_s1.pdf",
+  "source_sha256": "b988d123279a9a78f6919739ea1b37a710c40f22ed34520d926c5a006b037fc0",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "ARG001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JUAN CARLOS ONGANIA\n\nPRESIDENTE DE LA NACION ARGENTINA\n\nAUTORIZA a Su Excelencia el señor Embajador Extraor - dinario y Plenipotenciario Doctor HORACIO M. AGUIRRE\n\nLEGARRETA, para que proceda a la firma del Acta de Depósito del Instrumento de Adhesión a la \"Convención Internacional para la Unificación de los Métodos de Análisis y de Apreciación de los\n\nVinos\", suscripta en París el 13 de octubre de 1954.\n\nLa presente Plenipotencia será refrendada por el señor\n\nMinistro de Relaciones Exteriores y Culto, Doctor NICANOR\n\nCOSTA MENDEZ.\n\nDada en la ciudad de Buenos Aires, Capital de la Repúbli- ca Argentina, a los siete dias del mes de noviem novecientos sesenta y siete.\n\nplugan,",
+      "quality_score": 0.9827,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_015_s1",
+      "title": "Pouvoirs argentin",
+      "score": 0.411975,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_057_s1",
+      "title": "Procès-verbal de dépôt de l'instrument argentin",
+      "score": 0.401101,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_056_s1",
+      "title": "Instrument d'adhésion argentin",
+      "score": 0.40071,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_297_s1",
+      "title": "Procès-verbal de dépôt de l'instrument espagnol",
+      "score": 0.393132,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.381134,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.380476,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.380223,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.377806,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_058_s1",
+      "title": "Note verbale type du service traitant relative au dépôt de l'adhésion argentine à destination des chefs de Postes",
+      "score": 0.370899,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_005_s1",
+      "title": "Instrument allemand/copie conforme signée par le directeur des Affaires juridiques du ministère des Affaires étrangères allemand et Protocole d'échange des notifications entre le Chancelier Konrad Adenauer et le président de la République René Coty",
+      "score": 0.368787,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

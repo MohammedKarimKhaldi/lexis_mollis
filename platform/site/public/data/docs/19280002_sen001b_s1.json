@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_sen001b_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9506,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 196 Erenoato bEAdiai ET ORGANSHTOKS NTEREATYGPAES 10447 BM/bm A PASSE DE EN FRANCE 4, Avenue Robert Schuman L: 0147053945-fax: 01 45 560431 http://www.ambassenparis.com Paris, le sf9 NOV. 24834 L'Ambassade de la République du Sénégal présente ses compliments au Ministère des Affaires étrangères (Direction des Nations-Unies et des Organisations internationales) et a l'honneur de Lui faire savoir que le Gouve…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_sen001b_s1.pdf",
+  "source_filename": "19280002_sen001b_s1.pdf",
+  "source_sha256": "ec8ad51f52ebb7c9732b028f12d4cacc561e4c28b9824758d4bbbdd2a5cd1cea",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SEN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 196",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Erenoato bEAdiai\n\nET ORGANSHTOKS NTEREATYGPAES\n\n10447\n\nBM/bm\n\nA PASSE DE EN FRANCE\n\n4, Avenue Robert Schuman\n\nL: 0147053945-fax: 01 45 560431 http://www.ambassenparis.com\n\nParis, le sf9 NOV. 24834\n\nL'Ambassade de la République du Sénégal présente ses compliments au Ministère des Affaires étrangères (Direction des Nations-Unies et des\n\nOrganisations internationales) et a l'honneur de Lui faire savoir que le\n\nGouvernement de la République du Sénégal adhère à la Convention concernant les expositions internationales signée à Paris le 22 novembre 1928, telle que modifiée par les Protocoles du 16 novembre 1966 et du 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988.\n\nL'Ambassade de la République du Sénégal saisit cette occasion pour\n\nMinistère des Affaires étrangères de la République française 37, Quai d'Orsay 75700 PARIS 07 SP",
+      "quality_score": 0.9579,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.84814,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_198_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.80268,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_199_s1",
+      "title": "Instrument d'adhésion de la Slovénie",
+      "score": 0.796577,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_166_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion des Pays-Bas",
+      "score": 0.748177,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.744624,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_169_s1",
+      "title": "Instrument de ratification",
+      "score": 0.736236,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_176_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.734599,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.734175,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_180_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.729089,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_160_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.721594,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

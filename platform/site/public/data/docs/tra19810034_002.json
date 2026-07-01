@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19810034_002",
+  "title": "Pouvoirs français",
+  "year": 1981,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9371,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTERE DES RELATIONS EXTERIEGRES REPUBLIQUE FRANÇAISE PARIS, LE N° 226 POUVOIRS Au non du Douvernement de 1e REpub2:qu NUS. Ministre des Relations Extérieures, donnons pouvoirs par ces présentes à Monsieur CAMDESSUS, Chef du Service des Affaires Internationales à la Direction du Trésor pour signer l'Accord d'aide alimentaire du Gouvernement de la République française au Gouvernement de la République de Guinée équ…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810034_002.pdf",
+  "source_filename": "tra19810034_002.pdf",
+  "source_sha256": "8ea9a2a06ad484f7b11a747ad2f26bea1c5a04280c76d8a01180ef08cb496188",
+  "treaty_id": "TRA19810034",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTERE\n\nDES\n\nRELATIONS EXTERIEGRES\n\nREPUBLIQUE FRANÇAISE\n\nPARIS, LE\n\nN° 226\n\nPOUVOIRS\n\nAu non du Douvernement de 1e REpub2:qu NUS.\n\nMinistre des Relations Extérieures, donnons pouvoirs par ces présentes à Monsieur CAMDESSUS, Chef du Service des Affaires Internationales à la Direction du Trésor pour signer l'Accord d'aide alimentaire du Gouvernement de la République française au Gouvernement de la République de Guinée équatoriale./.\n\nFAIT à PARIS, le 2 octobre 1981\n\nLe Ministre des Relations Extérieures",
+      "quality_score": 0.924,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "1136\n\nRELATIONS EXTERIEURES\n\nN° 226\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS,\n\nMinistre des Relations Extérieures, donnons pouvoirs par ces présentes à Monsieur CAMDESSUS, Chef du Service des Affaires Internationales à la Direction du Trésor pour signer l'Accord d'aide alimentaire du Gouvernement de la République française au Gouvernement de la République de Guinée équatoriale./.\n\nFAIT & PARIS, le\n\n2. 10.81\n\nLe Mánistre des Relations Extérieure\n\nC. cheyua.",
+      "quality_score": 0.9502,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19820077_002",
+      "title": "Pouvoirs français",
+      "score": 0.586697,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850080_002",
+      "title": "Pouvoirs",
+      "score": 0.575849,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880302_002",
+      "title": "Pouvoirs français",
+      "score": 0.542952,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.516862,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870205_002",
+      "title": "Pouvoirs français",
+      "score": 0.491404,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860069_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.483901,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_22_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.4839,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.411046,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.402548,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870226_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.390446,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

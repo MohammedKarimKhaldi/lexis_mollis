@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20040137_098_s1",
+  "title": "Accusé de réception par le dépositaire de l'instrument belge",
+  "year": 2004,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9918,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "berté • Egalité • Frateratel RÉPUBLIQUE FRANÇAISE MINISTÈRE DES AFFAIRES ÉTRANGÈRES Nº107.6/ ASD/ASP Paris, le 17 mai 2006 Le Ministère des Affaires étrangères (Direction des Affaires Stratégiques, de Sécurité et du Désarmement, Sous-direction des Affaires stratégiques) présente ses compliments à l'Ambassade du Royaume de Belgique et a l'honneur d'accuser réception de l'instrument de ratification du Royaume de Belgi…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20040137_098_s1.pdf",
+  "source_filename": "tra20040137_098_s1.pdf",
+  "source_sha256": "f22ea83f80e6780dc49db892bb1487d5f3d1c42e27221e16927d4b7e0807d6dc",
+  "treaty_id": "TRA20040137",
+  "treaty_number": "BEL004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "berté • Egalité • Frateratel\n\nRÉPUBLIQUE FRANÇAISE\n\nMINISTÈRE DES AFFAIRES ÉTRANGÈRES\n\nNº107.6/ ASD/ASP\n\nParis, le 17 mai 2006\n\nLe Ministère des Affaires étrangères (Direction des Affaires Stratégiques, de\n\nSécurité et du Désarmement, Sous-direction des Affaires stratégiques) présente ses compliments à l'Ambassade du Royaume de Belgique et a l'honneur d'accuser réception de l'instrument de ratification du Royaume de Belgique du traité sur la protection des données classifiées au sein de l'OCCAR.\n\nL'article 9 du traité susmentionné indique que ce dernier entrera en vigueur un mois après la date du dépôt du dernier instrument de ratification. Le traité sur la protection des données classifiées au sein de l'OCCAR entrera donc en vigueur à compter du 17 juin 2006.\n\nEst annexée à la présente, la liste des Etats liés, avec les dates de dépôt des instruments de ratification ou d'approbation.\n\nLe Ministère des Affaires étrangères (Direction des Affaires Stratégiques, de\n\nSécurité et du Désarmement, Sous-direction des Affaires stratégiques) saisit cette occasion pour renouveler à l'Ambassade du Royaume de Belgique les assurances de sa haute considération\n\nFRANG\n\nSTEVIN\n\nAmbassade du Royaume de Belgique 9, rue de Tilsitt 75017 Paris",
+      "quality_score": 0.9918,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20040137_033_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument allemand",
+      "score": 0.705882,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_733_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument britannique",
+      "score": 0.682905,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_098_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument belge",
+      "score": 0.404871,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20130965_007_s1",
+      "title": "Note de l'ambassade accusant réception de la notification canadienne",
+      "score": 0.396995,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.387224,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740201_302_s1",
+      "title": "Note de transmission de l'instrument espagnol",
+      "score": 0.383499,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040238_851",
+      "title": "Convention",
+      "score": 0.382145,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_605",
+      "title": "Accusé de réception français de l'adhésion monténégrine",
+      "score": 0.381596,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_38_s1",
+      "title": "Note verbale de transmission de l'instrument d'adhésion de la Nouvelle-Zélande",
+      "score": 0.381571,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_698",
+      "title": "Accord",
+      "score": 0.380746,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

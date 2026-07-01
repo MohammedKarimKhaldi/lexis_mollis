@@ -1,0 +1,116 @@
+{
+  "document_id": "19200032_23_s1",
+  "title": "Note verbale d'accompagnement de l'instrument grec",
+  "year": 1920,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9344,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LEGATION ROYALE DE GRECE EN FRANCE N® 1904 La Légation Royale de Grèce a l'honneur de faire parvenir, sous ae pli, au Ministère des Affaires Etrangères l'instrument de ratification par Le Grése de la Convention Internationale pour la eréation à Paris d'un Institut International du Froid, signée à Paris le 21 Juin 1920. La Légation Royale saurait gré au Départensat des Affaires Etrangères s'Tl voulait bien lui faire…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_23_s1.pdf",
+  "source_filename": "19200032_23_s1.pdf",
+  "source_sha256": "761576a1fcc9691f45ce41c495c5b3d5833736e0a005cc0a223df50668389e76",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "GRE003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LEGATION ROYALE DE GRECE\n\nEN FRANCE\n\nN® 1904\n\nLa Légation Royale de Grèce a l'honneur\n\nde faire parvenir, sous ae pli, au Ministère des\n\nAffaires Etrangères l'instrument de ratification par\n\nLe Grése de la Convention Internationale pour la eréation à Paris d'un Institut International du Froid, signée à Paris le 21 Juin 1920.\n\nLa Légation Royale saurait gré au Départensat\n\ndes Affaires Etrangères s'Tl voulait bien lui faire savoir la date & laquelle Son Excellence Monsieur\n\nPOLITIS, düment autorisé, peurra se rendre au Quai d'Orsay pour procéder à la signature du prosés-rerbal de dépôt de l'instrument de ratification de cette\n\nGonvention, /,\n\nParis, le £1 Juin 1539,\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nServies du Protosole\n\nQuai d'Orsay\n\nPARIS",
+      "quality_score": 0.9344,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19190006_352b_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de la convention entre la Bulgarie et la Grèce",
+      "score": 0.38973,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_12_s1",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.383279,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_20_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.381782,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_711_s1",
+      "title": "Note verbale a/s transmission de la ratification et date du PV de son dépôt",
+      "score": 0.379902,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_145",
+      "title": "Accusé de réception français de l'instrument d'adhésion du Bruneï",
+      "score": 0.379854,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_46_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.378899,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_067_s1",
+      "title": "Notification de l'adhésion de la Jordanie aux Etats-membres",
+      "score": 0.376171,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.375903,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_85_s1",
+      "title": "Procès-verbal de dépôt de la ratification de la Grèce",
+      "score": 0.375113,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.37476,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

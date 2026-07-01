@@ -1,0 +1,116 @@
+{
+  "document_id": "19880315_296_s1",
+  "title": "Instrument de ratification espagnol",
+  "year": 1988,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9473,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Embajada de España Nº 207 Kra mauri. Sace arsentets: Ministère des Affaires Etrangères et se rórérant à l'Acte final L'Ambassade d'Espagne présente ses compliments de la Conférence de Plénipotentiaires pour la création d'une Installation Européenne de Radiation Synchrotronique et à la Convention relative à sa construction et exploitation, signés à Paris, le 16 décembre 1988, a 1'honneur de communiquer que l'Espagne…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880315_296_s1.pdf",
+  "source_filename": "19880315_296_s1.pdf",
+  "source_sha256": "25c0ea7b76a2d3892cfd77093b639be62114a353596b87d280e43ab744277a15",
+  "treaty_id": "TRA19880315",
+  "treaty_number": "ESP002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Embajada de España\n\nNº 207\n\nKra mauri.\n\nSace arsentets:\n\nMinistère des Affaires Etrangères et se rórérant à l'Acte final\n\nL'Ambassade d'Espagne présente ses compliments de la Conférence de Plénipotentiaires pour la création d'une\n\nInstallation Européenne de Radiation Synchrotronique et à la\n\nConvention relative à sa construction et exploitation, signés à Paris, le 16 décembre 1988, a 1'honneur de communiquer que l'Espagne a rempli toutes les formalités internes, afin que l'Etat puisse s'engager par la signature déposée à la date indiquée.\n\nL'Ambassade d'Espagne serait reconnaissante au Ministère des Affaires Etrangères de bien vouloir accuser réception à\n\nen vigueur de la dite Convention.\n\ner haute considération.\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nPARIS.",
+      "quality_score": 0.9473,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.40059,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_299_s1",
+      "title": "Note verbale espagnole relative aux conditions d'entrée en vigueur de l'accord",
+      "score": 0.391944,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740201_302_s1",
+      "title": "Note de transmission de l'instrument espagnol",
+      "score": 0.38763,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_005",
+      "title": "tra19720042_005",
+      "score": 0.382524,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_296_s1",
+      "title": "Note verbale d'envoi de l'instrument espagnol",
+      "score": 0.378873,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_438_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument italien",
+      "score": 0.378028,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_016_s1",
+      "title": "Note verbale d'acceptation de l'amendement de 1982",
+      "score": 0.376624,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_851_s1",
+      "title": "Note verbale suisse indiquant que le gouvernement suisse se considère lié par le traité depuis le 16 décembre 1988",
+      "score": 0.375249,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.374393,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_297_s1",
+      "title": "Instrument de ratification (et NV de transmission)",
+      "score": 0.373804,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

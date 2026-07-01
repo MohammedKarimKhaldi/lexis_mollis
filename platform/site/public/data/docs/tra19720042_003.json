@@ -1,0 +1,126 @@
+{
+  "document_id": "tra19720042_003",
+  "title": "tra19720042_003",
+  "year": 1972,
+  "doc_type": "Inconnu",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9176,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JUAN VELASCO ALVARADO Presidente de la República Peruana POR CUANTO: Es conveniente a los intereses de la Repú blica suscribir un Convenio de Cooperación Cultural, Técnica y Científica, entre el Gobierno del Perú y el de trancia, y Mereciendo mi entera confianza el señor Em bajador Juan José Calle y Calle, Sub-Secretario de Política Exterior del Ministerio de Relaciones Exte riores del Perú. POR TANTO: He venido en…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Inconnu",
+    "instrument_type:unknown",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19720042_003.pdf",
+  "source_filename": "tra19720042_003.pdf",
+  "source_sha256": "288907403db56c39586b674a61f05864c0f179983bdf13df974eab03f85d2754",
+  "treaty_id": "TRA19720042",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JUAN VELASCO ALVARADO\n\nPresidente de la República Peruana\n\nPOR CUANTO:\n\nEs conveniente a los intereses de la Repú\n\nblica suscribir un Convenio de Cooperación Cultural,\n\nTécnica y Científica, entre el Gobierno del Perú y el de trancia, y\n\nMereciendo mi entera confianza el señor Em\n\nbajador Juan José Calle y Calle, Sub-Secretario de\n\nPolítica Exterior del Ministerio de Relaciones Exte riores del Perú.\n\nPOR TANTO:\n\nHe venido en conferirle las facultades ne\n\ncesarias para que, a nombre de la Nación y represen tándola en debida forma, suscriba el mencionado Con verio.\n\nEn fe de lo cual expido los presentes Ple\n\nnos Poderes firmados de mi mano, sellados con las Ar mas de la República y refrendados por el señor Minis tro de Estado en el Despacho de Relaciones Exteriores, a los catorce días del mes de marzo de mil novecientos setenta y dos.\n\nla flaco",
+      "quality_score": 0.984,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "......！\n\n.....；；.......；",
+      "quality_score": 0.8513,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19610266_005_s1",
+      "title": "Ratification mauritanienne",
+      "score": 0.477719,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.407359,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.391779,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.390402,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600149_242_s1",
+      "title": "Instrument de ratification du Costa Rica",
+      "score": 0.385639,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.383727,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19650048_003_s1",
+      "title": "Pouvoirs espagnols",
+      "score": 0.383163,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20162050_010_s1",
+      "title": "Lettre costaricienne",
+      "score": 0.379926,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.378246,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.377566,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

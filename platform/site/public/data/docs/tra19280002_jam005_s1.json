@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_jam005_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "INSTRUMENT OF ACCESSION I, Kamina Johnson Smith, declare that the Government of Jamaica hereby accedes to the Convention relating to International Exhibitions signed at Paris on 22nd November 1928, modified by the Protocol of 16\" November 1966, 30\" November 1972 amended on 24th June 1982 and 31s May 1988 and undertakes faithfully to perform all obligations deriving from the Convention and the Protocol subject to the…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_jam005_s1.pdf",
+  "source_filename": "tra19280002_jam005_s1.pdf",
+  "source_sha256": "5e0ee805df5854e9904b1261f7db68419239b1d0ab7e0ea5553f6d2cc41f826b",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "JAM005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "INSTRUMENT OF ACCESSION\n\nI, Kamina Johnson Smith, declare that the Government of Jamaica hereby accedes to the Convention relating to International Exhibitions signed at Paris on 22nd November 1928, modified by the Protocol of 16\" November 1966, 30\"\n\nNovember 1972 amended on 24th June 1982 and 31s May 1988 and undertakes faithfully to perform all obligations deriving from the Convention and the Protocol subject to the reservation entered below.\n\nReservation\n\nThe Government of Jamaica does not regard itself as being bound by the provisions of Article 34, paragraphs 3 and 4 of the Convention.\n\nIN WITNESS WHEREOF, I sign the present instrument on the 20\" day of\n\nJanuary, Two Thousand and Twenty-Three.\n\nKamina Johnson Smith\n\nMinister of Foreign Affairs and Foreign Trade",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.507031,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_76_s1",
+      "title": "Instrument d'adhésion de la Gambie",
+      "score": 0.423733,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_70_s1",
+      "title": "Instrument d'adhésion des Fidji",
+      "score": 0.418465,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_226_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.418425,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_142_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.412282,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_ken001_s1",
+      "title": "Instrument d'adhésion du Kenya",
+      "score": 0.409253,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_208_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.407506,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_202_s1",
+      "title": "Instrument d'adhésion du Sri Lanka",
+      "score": 0.40578,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.403873,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_009_s1",
+      "title": "Instrument d'acceptation de l'Australie",
+      "score": 0.403689,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

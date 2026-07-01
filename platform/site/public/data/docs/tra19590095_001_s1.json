@@ -1,0 +1,85 @@
+{
+  "document_id": "tra19590095_001_s1",
+  "title": "Accord",
+  "year": 1959,
+  "doc_type": "Accord",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "quality_score": 0.9005,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "LAXIN PARTICLE ARE & i CONVENTIOF FELATIVI AU CONCOURS EL FEPSONNEL APPORTE FAR L FEPTBIJQUE PRANAISE LO FONCTIONNEMENT DES SORVICES PUBLICS DE L REPUTITOCE JENZE AFFICAINE Le Gouvarrerent de La REPUELIQUE FRANCAISE, repréBerté eI Ma Robert LECURI, 'nistzs d'Etat ahargé do l'Aido ot do la Coopérssent€ par Ma DEria DACEO, Prender Ministre de oft Etet, Cut arrâté d'ur. commar acocre los dispositions qui Eulpent i ARTI…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19590095_001_s1.pdf",
+  "source_filename": "tra19590095_001_s1.pdf",
+  "source_sha256": "1a2e34d6e6fb7e6d9b70378feade4f4b7bc6b7f41d1f8c6e6a428a91a8e4c800",
+  "treaty_id": "TRA19590095",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LAXIN PARTICLE ARE & i CONVENTIOF FELATIVI\n\nAU CONCOURS EL FEPSONNEL APPORTE FAR L FEPTBIJQUE PRANAISE LO\n\nFONCTIONNEMENT DES SORVICES PUBLICS DE L REPUTITOCE\n\nJENZE AFFICAINE\n\nLe Gouvarrerent de La REPUELIQUE FRANCAISE, repréBerté\n\neI Ma Robert LECURI, 'nistzs d'Etat ahargé do l'Aido ot do la Coopérssent€ par Ma DEria DACEO, Prender Ministre de oft Etet,\n\nCut arrâté d'ur. commar acocre los dispositions qui Eulpent i\n\nARTICLE UNIQUE -\n\nEr application, due dispositions du paragrapho \"g\" de l'article\n\nde la Convention aclatire su donour er Jersonnel\n\nIs REPUELIQUE CENTRIFRICLINE, LE PEPUEIQUE FRANCAISE asTurErE dirooteDest 10 palarent de la rurération des fonctionnetres qu'ello nottra à la dispositior de seT Fist, er applicetion de potta Conventicte\n\n* titre de contributior è la récurbration de cae persomeis 1e\n\nREPLIQUE CERTRATRICEDE FiOnEErE d verse= pour chamir des fonctiorredte cozn sluérés er pandant touto le cuto de ate è dispcsitia un contributior. Ins ¿attire dont le montont et i code de calm seront céterilión dar ur cossri\n\nFow ie GOUVERNSEN! de LE\n\nREPUB: IQUE FRANCISE, I€\n\nNISIFE d'EULT charEà da\n\nL'AIDE et de Lo COCFERATION\n\nFait & PARIS 1e IT JULET I959 es double orgil\n\nLE CHER DU GOUVEENDENT DE LA\n\nREPURLIQUE CENTRAFRICATE,\n\nI. DAOTO",
+      "quality_score": 0.9005,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19590132_100_s1",
+      "title": "Texte sans signature de l'accord",
+      "score": 0.382537,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19590109_s1",
+      "title": "Convention",
+      "score": 0.359573,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20202784_001_s1",
+      "title": "Protocole",
+      "score": 0.355803,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19490223_s1",
+      "title": "Texte des conventions",
+      "score": 0.354544,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20202783_001_s1",
+      "title": "Protocole",
+      "score": 0.352579,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "tra18390006_012",
+  "title": "Procès-verbal d'échange des ratifications de l'accord  entre la France, l'Autriche, le Royaume-Uni, la Prusse et la Russie, d'une part, et la Belgique, d'autre part",
+  "year": 1839,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8054,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "19 avril 1839 le procéder a l'échange des Ratifications lun fraite entre da Majeste le Roi des Francais, Ja. Majesté limponur l butriche Roi de Hongrie d de Boleme, la. Majesté Sa. Majesté le Roi de Prusse d la . Majesté l'Empereur de Joutes les Russies, d'unepart, « Sa . Majeste le Roi des Belges de l'autre part, conde et ligné aLondres présent fares verbal d schango, dy ont apposé le cachet de leurs Aimes. Pait à…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18390006_012.pdf",
+  "source_filename": "tra18390006_012.pdf",
+  "source_sha256": "44463c69a00811c402432599e5915e7fa7abff56191159a68aef1dd282eedc28",
+  "treaty_id": "TRA18390006",
+  "treaty_number": "012",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19 avril 1839\n\nle procéder a l'échange des Ratifications lun fraite entre da Majeste le\n\nRoi des Francais, Ja. Majesté limponur l butriche Roi de\n\nHongrie d de Boleme, la. Majesté\n\nSa. Majesté le Roi de Prusse d la . Majesté l'Empereur de Joutes\n\nles Russies, d'unepart,\n\n« Sa . Majeste le Roi des Belges de l'autre part, conde et ligné aLondres",
+      "quality_score": 0.8631,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "présent fares verbal d schango, dy ont\n\napposé le cachet de leurs Aimes.\n\nPait à Londres le 8 Pan 183g .\n\nNensquerey",
+      "quality_score": 0.7478,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

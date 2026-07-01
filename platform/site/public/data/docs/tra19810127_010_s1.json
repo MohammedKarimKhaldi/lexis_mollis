@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19810127_010_s1",
+  "title": "accusé de réception sri-lankais de l'instrument français",
+  "year": 1981,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Minister of Foreign Affairs dri Lanka 8 September 1982 Excellency, I have received on 5th August, 1982 your letter dated 28th July, 1982 informing ne that the Procedure required by the Constitution of the Republic of France for the enforcement of the Double Taxation Convention signed in Colombo, on 17tł September, 1981, between our two countries has been completed. 1 am pleased to inform you that the Government of S…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810127_010_s1.pdf",
+  "source_filename": "tra19810127_010_s1.pdf",
+  "source_sha256": "ac3ec0dd1a4e17d7f9d6be808cbab0c1bc02ec1f387b985a3ffbd2de6074e3a4",
+  "treaty_id": "TRA19810127",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Minister of Foreign Affairs\n\ndri Lanka\n\n8 September 1982\n\nExcellency,\n\nI have received on 5th August, 1982\n\nyour letter dated 28th July, 1982 informing ne that the Procedure required by the\n\nConstitution of the Republic of France for the enforcement of the Double Taxation\n\nConvention signed in Colombo, on 17tł\n\nSeptember, 1981,\n\nbetween our\n\ntwo countries\n\nhas been completed.\n\n1 am pleased to inform you that the\n\nGovernment of Sri Lanka is proceeding with the necessary steps required by law to bring the Convention into force.\n\nI shall address\n\nYour Excellency when these steps are completed.\n\nPlease accept, Your Excellency, the\n\nassurances of my highest consideration.\n\nA. C.S. Hameed.\n\nHonourable Mr Claude Cheysson,\n\nMinister for External Relations,\n\nRepublic\n\nof France.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19810127_005_s1",
+      "title": "Instrument sri-lankais",
+      "score": 0.439958,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810127_004_s1",
+      "title": "Instrument français",
+      "score": 0.421924,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_007",
+      "title": "Accusé de réception togolais de l'instrument français",
+      "score": 0.399243,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.396728,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_007_s1",
+      "title": "accusé de réception de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.390183,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800128_004_s1",
+      "title": "Instrument français",
+      "score": 0.389634,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.388569,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.388544,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de la convention",
+      "score": 0.385931,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.383734,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "document_id": "tra19910247_651",
+  "title": "Instrument de ratification",
+  "year": 1991,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "I, the undersigned, Børge BRENDE, Minister of Foreign Affairs of Norway, hereby declare on behalf of the Government that Norway approves the Protocol of accession by the Kingdom of the Netherlands to the Convention of 16 December 1988 concerning the construction and operation of a European Synchrotron Radiation Facility. Oslo, on this twenty fifth day of April Two Thousand and Sixteen",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19910247_651.pdf",
+  "source_filename": "tra19910247_651.pdf",
+  "source_sha256": "8e06e184d7e4e5a5d8e0c0384a183372b57caedeedc6f09ef7c36ab1a33e37fb",
+  "treaty_id": "TRA19910247",
+  "treaty_number": "NOR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "I, the undersigned, Børge BRENDE, Minister of Foreign Affairs of Norway, hereby declare on behalf of the Government that Norway approves the Protocol of accession by the Kingdom of the Netherlands to the Convention of 16 December 1988 concerning the construction and operation of a European Synchrotron Radiation Facility.\n\nOslo, on this twenty fifth day of April\n\nTwo Thousand and Sixteen",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19910247_255",
+      "title": "Instrument de ratification",
+      "score": 0.381324,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_650b_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.366285,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910247_846",
+      "title": "Instrument de ratification",
+      "score": 0.363922,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_731_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.362586,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_650a_s1",
+      "title": "Note de transmission de l'instrument finlandais",
+      "score": 0.360634,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

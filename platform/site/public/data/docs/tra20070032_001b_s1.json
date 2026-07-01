@@ -1,0 +1,118 @@
+{
+  "document_id": "tra20070032_001b_s1",
+  "title": "Échange de notes valant interprétation de l'article 20 du traité - note française",
+  "year": 2007,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9703,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "REPUHLTGUE FRANCAISE AMBASSADE DE FRANCE EN CHINE Nº 476 L'Ambassade de France en Chine présente ses compliments au Ministère des Affaires étrangères de la République Populaire de Chine et a /'honneur d'exposer, au sujet du sens de l'Article 20 du k Traité d'Extradition entre la République Populaire de Chine et la Répablique françaises, signé le 20 mars 2007, son interprétation qui cat la survante Selon la Partic fr…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20070032_001b_s1.pdf",
+  "source_filename": "tra20070032_001b_s1.pdf",
+  "source_sha256": "5d876c6e684f5c0c3d29984ab5f5d7398553fec6807939cb8b2c003413b1382e",
+  "treaty_id": "TRA20070032",
+  "treaty_number": "001b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUHLTGUE FRANCAISE\n\nAMBASSADE DE FRANCE\n\nEN CHINE\n\nNº 476\n\nL'Ambassade de France en Chine présente ses compliments au Ministère des\n\nAffaires étrangères de la République Populaire de Chine et a /'honneur d'exposer, au sujet du sens de l'Article 20 du k Traité d'Extradition entre la République Populaire de\n\nChine et la Répablique françaises, signé le 20 mars 2007, son interprétation qui cat la survante\n\nSelon la Partic française, l'Article 20 du « Traité d'Extradition entre la\n\nRépublique Populaire de Chino et la République française», signifie que le Traité n'empêche pas ses deux signataires de jouir des droits et d'accomplir les obligations définis dans tout autre accord international auquel /'un ou l'autre des deux pays est partie\n\nDans le cas où le Gouvernement de la République Populaire de Chine partage l'interprétation qui précode, la présente note alasi que votre réponse constitueront un echange de notes entre nos deux Gouverements valant interprétation de l'Article 20 du\n\n• Traité d'Extradition entre la République Populaire de Chine et la République franpaise»\n\nL'Ambassade de France en Chine saisit cette occasion pour renouveler au\n\nMinistère des Affaires dtrangères de la République Populaire de Chine les assurances de sa haute considération.\n\nEN\n\nLe 27 juillet 2010 & Pékin\n\nMinistère des Affaires étrangères de la République Populaire de Chine\n\nDirection des traités et des lois",
+      "quality_score": 0.9703,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20070032_001c_s1",
+      "title": "Échange de notes valant interprétation de l'article 20 du traité - note chinoise",
+      "score": 0.772618,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20070032_006_s1",
+      "title": "Accusé de réception chinois de l'instrument de ratification français",
+      "score": 0.387856,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19890163_005_s1",
+      "title": "Instrument soviétique",
+      "score": 0.382961,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.379933,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19650048_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.374135,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_05_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.372364,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_62_s1",
+      "title": "Notification d'adhésion de Taïwan aux Etats-membres (consignes aux ambassadeurs sur la position française vis-à-vis de la Chine",
+      "score": 0.370822,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_17_s1",
+      "title": "Note verbale d'adhésion de la Chine populaire",
+      "score": 0.367617,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19460117_001_s1",
+      "title": "Échange de notes entre la France et les États-Unis relatif au tarif des visas de passeports de non-immigrants",
+      "score": 0.366097,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_214_s1",
+      "title": "Note verbale de dénonciation",
+      "score": 0.363021,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

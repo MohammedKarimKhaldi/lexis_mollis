@@ -1,0 +1,131 @@
+{
+  "document_id": "tra16970009_001d_s1",
+  "title": "Acte extrait du protocole de médiation relatif à la pension de Marie d'Este",
+  "year": 1697,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9272,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Ministère des Affaires étrangères - Direction des Archives - Conservation des Traités Multilatéraux 16970009 GRANDE-BRETAGNE Traité de paix.- Ryswick, 20 septembre 1697. › Extrait du protocole de la médiation de Ryswick (pension de Marie d'Este). Original en français.- Feuillet papier. - 1 cachet de cire noire. Extrait du Protacol de la Mediation tenu à Rytwit le 20 Septembre fA. N. 1697. Messieurs ler Ambanadeurs J…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16970009_001d_s1.pdf",
+  "source_filename": "tra16970009_001d_s1.pdf",
+  "source_sha256": "c8e62e5cdcaf97e3c83861eea5ee22244efd4f217baadb046bdeedbdda8bedb0",
+  "treaty_id": "TRA16970009",
+  "treaty_number": "001D",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministère des Affaires étrangères - Direction des Archives - Conservation des Traités\n\nMultilatéraux\n\n16970009\n\nGRANDE-BRETAGNE\n\nTraité de paix.- Ryswick, 20 septembre 1697.\n\n› Extrait du protocole de la médiation de Ryswick (pension de Marie d'Este).\n\nOriginal en français.- Feuillet papier. - 1 cachet de cire noire.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Extrait du Protacol de la\n\nMediation tenu à Rytwit le 20 Septembre fA. N. 1697.\n\nMessieurs ler Ambanadeurs Jutany d'Angleterre ont declare, quete\n\nAcy leur maite a promis que la penfon annuelle d'environ cin = quante mille livres sterling, où de telle somme qu'elle se trouvera établie par acte duDarlement icelle du grand Pceau d'Angleterre en faveur de la\n\nReyne enarie d'Este\n\nSera payee a\n\nl'avenir conformeins\n\naudit acte, et qu'ils consentent que eMonsieur l'Ambassadeur Me diateur le fasse inserer dans fon pro!\n\nSy que de enersieurs les Ambaradeurs des Prats Sencraux la dite declaration a eté faite",
+      "quality_score": 0.8544,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16970009_001e_s1",
+      "title": "Acte extrait du protocole de médiation relatif aux titres des plénipotentiaires britanniques",
+      "score": 0.857398,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_003_s1",
+      "title": "Pouvoirs",
+      "score": 0.610409,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001a_s1",
+      "title": "Traité",
+      "score": 0.459232,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001f_s1",
+      "title": "Déclaration relative à l'application de la cessation des hostilités sur mer",
+      "score": 0.454657,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001c_s1",
+      "title": "Déclaration relative à l'inclusion des États italiens et suisses",
+      "score": 0.453997,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970010_001b_s1",
+      "title": "Article séparé",
+      "score": 0.451066,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_005a_s1",
+      "title": "Promesse de ratification",
+      "score": 0.44947,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001b_s1",
+      "title": "Article séparé",
+      "score": 0.448773,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001a_s1",
+      "title": "Traité",
+      "score": 0.446613,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001b_s1",
+      "title": "Article séparé",
+      "score": 0.445389,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

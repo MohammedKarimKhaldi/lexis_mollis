@@ -1,0 +1,47 @@
+{
+  "document_id": "tra19280002_slb002_s1",
+  "title": "Instrument d'adhésion des îles Salomon",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9806,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Mission of Solomon Islands to the European Union Avenue Edouard Lacomble, 17 1040 Brussels Belgium Telephone: (02) 732 70 85 (02) 732 72 85 Facsimile: (02) 732 68 85 NOTE VERBALE. 28/07 contained therein. Ministry of Foreign Affairs of the Republic of France the assurances of its highest consideration Ministry of Foreign Affairs 75007 PARIS REPUBLIC OF FRANCE Our ref: EMB 3/5/5 Date: 22 October 2007 THE SOLVI",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_slb002_s1.pdf",
+  "source_filename": "tra19280002_slb002_s1.pdf",
+  "source_sha256": "5ec411cefbeff8df2775f07c9f9c52a3a447371ff8c2c7f116149d5564dcd9ef",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SLB002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Mission of Solomon Islands to the European Union\n\nAvenue Edouard Lacomble, 17 1040 Brussels\n\nBelgium\n\nTelephone: (02) 732 70 85\n\n(02) 732 72 85\n\nFacsimile: (02) 732 68 85\n\nNOTE VERBALE. 28/07\n\ncontained therein.\n\nMinistry of Foreign Affairs of the Republic of France the assurances of its highest consideration\n\nMinistry of Foreign Affairs 75007 PARIS\n\nREPUBLIC OF FRANCE\n\nOur ref: EMB 3/5/5\n\nDate:\n\n22 October 2007\n\nTHE SOLVI",
+      "quality_score": 0.9806,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

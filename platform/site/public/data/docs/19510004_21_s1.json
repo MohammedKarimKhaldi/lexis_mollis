@@ -1,0 +1,65 @@
+{
+  "document_id": "19510004_21_s1",
+  "title": "accusé de réception de l'adhésion de la Bulgarie à l'OEPP",
+  "year": 1951,
+  "doc_type": "Autre",
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "quality_score": 0.7928,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "CRECTI DES ATTAIRES NINISTRAIIVAS & SOCIAI Untons Internst1onales No 349 roN Aultilater 18 Auril 1951 BULGARIE (adhúcion) 1.115 VE II LOMATIQUES & DOCUMENTATION * 4 MAI 1950- w=Mukon Par note N° 85I-I3 en date du IS AUJII, roquo 1ª TE avrIl 1959, la Légatson de La République Populasso do Bulgario a bien paulu fatre connattre au rensetiro dom Affalres strangères la déolason de nos dourerament d'a dhéror a la conventi…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_21_s1.pdf",
+  "source_filename": "19510004_21_s1.pdf",
+  "source_sha256": "3473b27c41fe2853ea3503589caea17522ae48d0ddfcf8eb2b0819b43e3394e1",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "BGR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CRECTI\n\nDES ATTAIRES\n\nNINISTRAIIVAS & SOCIAI\n\nUntons Internst1onales\n\nNo 349 roN\n\nAultilater 18 Auril 1951\n\nBULGARIE\n\n(adhúcion)\n\n1.115\n\nVE II LOMATIQUES\n\n& DOCUMENTATION\n\n* 4 MAI 1950-\n\nw=Mukon\n\nPar note N° 85I-I3 en date du IS AUJII, roquo 1ª TE avrIl 1959, la Légatson de La République Populasso do Bulgario a bien paulu fatre connattre au rensetiro dom\n\nAffalres strangères la déolason de nos dourerament d'a dhéror a la convention pour 1°stablianemont do l'organs- nation Suropionna et liedsterrandonne pour la Froteet lon des Planton, confornáment aux diapositiona do l'artiala so da la convantion, cotto adhósion prondra effot la Ie ATElI\n\nI859,\n\nLégatson de la République Populairo do Bulgario 2, avanuo Rapp\n\nPARTE VIIC",
+      "quality_score": 0.7936,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Les dourernonento dea paya nombros de petto Orga- nisation Internationalo seront avizós por los coino don \"lesiona asplomatiquos srançaioos a l'étrangor \"/e\n\nLo vansotoro dos Asfasres Etrangbros astast oatto ococalon pour ronouralor A la Légat los do la République fo- pulaito de Bulgaria los ansurances de na houta considération.",
+      "quality_score": 0.7919,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es",
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

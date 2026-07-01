@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19540017_103_s1",
+  "title": "Déclaration du Président du Gouvernement de la Sarre",
+  "year": 1954,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9912,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REGIERUNG DES SAARLANDES DER MINISTERPRASIDENT SAARBRUCKEN, den 23 Octobre 1954 Monsieur le Président, Par votre lettre en date de ce jour vous avez bien voulu me communiquer le texte de l'accord relatif au statut européen de la Sarre à conclure entre votre Gouvernement et celui de la République Fédérale d'Allemagne. • Conscient de l'importance de ce texte pour l'avenir de mon pays, j'ai l'honneur de vous faire part…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19540017_103_s1.pdf",
+  "source_filename": "tra19540017_103_s1.pdf",
+  "source_sha256": "bee9c415b57d7bca41d7a2bfc59b591ccc6a2cc1ea5253e12061175abe1ffea4",
+  "treaty_id": "TRA19540017",
+  "treaty_number": "103",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REGIERUNG DES SAARLANDES\n\nDER MINISTERPRASIDENT\n\nSAARBRUCKEN, den 23 Octobre 1954\n\nMonsieur le Président,\n\nPar votre lettre en date de ce jour vous avez bien voulu me communiquer le texte de l'accord relatif au statut européen de la Sarre à conclure entre votre Gouvernement et celui de la République\n\nFédérale d'Allemagne.\n\n• Conscient de l'importance de ce texte pour l'avenir de mon pays, j'ai l'honneur de vous faire part, en même temps que de la satisfaction de mon\n\nGouvernement, de son complet assentiment.\n\nJe vous prie d'agréer, Monsieur le Président,\n\nles assurances de ma plus haute considération.\n\nMonsieur Pierre MENDES-FRANCE\n\nPrésident du Conseil\n\nMinistre des Affaires Etrangères\n\n15/53 - 1013 Drud: Auaust Wolff. Saarbrüden",
+      "quality_score": 0.9912,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19540017_005_s1",
+      "title": "Instrument allemand/copie conforme signée par le directeur des Affaires juridiques du ministère des Affaires étrangères allemand et Protocole d'échange des notifications entre le Chancelier Konrad Adenauer et le président de la République René Coty",
+      "score": 0.410851,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_101_s1",
+      "title": "Échange de lettres relatif à la question des séquestres en Sarre",
+      "score": 0.395137,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630118_001_s1",
+      "title": "Publication au Journal officiel de l'échange de lettres sans le procès-verbal",
+      "score": 0.391145,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_102_s1",
+      "title": "Échange de lettres relatif aux mines de la Sarre, ensemble deux échanges de lettres",
+      "score": 0.387118,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_004_s1",
+      "title": "Instrument français",
+      "score": 0.386938,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810111_005_s1",
+      "title": "Lettre notifiant de l'accomplissement des procédures internes",
+      "score": 0.384697,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_100_s1",
+      "title": "Échange de lettre relatif à l'admission de filiales de banques allemandes et de sociétés d'assurances allemandes dans la Sarre",
+      "score": 0.384658,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_001e_s1",
+      "title": "Lettre en réponse sur l'article 15",
+      "score": 0.380661,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600202_001_s1",
+      "title": "Accord (ensemble un échange de lettres et un protocole)",
+      "score": 0.380518,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640106_011_s1",
+      "title": "Publication de l'accord au Journal officiel du",
+      "score": 0.380489,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

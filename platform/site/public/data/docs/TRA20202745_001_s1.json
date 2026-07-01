@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20202745_001_s1",
+  "title": "Lettre française",
+  "year": 2020,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTERE DE l'EUROPE ET DES AFFAIRES ETRANGERES DIRECTION GENERALE DES AFFAIRES POLITIQUES ET DE SECURITE DIRECTION D'ASIE ET D'OCEANIE Le Directeur Paris, le 17 janvier 2020 Madame l'Ambassadrice, L'Accord entre le Gouvernement de la République française et le Gouvernement de la Nouvelle-Zélande concernant la création d'un fonds destiné à promouvoir des relations amicales entre les citoyens des deux Etats, dit Fon…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20202745_001_s1.pdf",
+  "source_filename": "TRA20202745_001_s1.pdf",
+  "source_sha256": "79c5a030dfd5c9ba6849b8fccda751295bf1a656e645f1d82bbbfcf17261f5d0",
+  "treaty_id": "TRA20202745",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTERE\n\nDE l'EUROPE ET DES\n\nAFFAIRES ETRANGERES\n\nDIRECTION GENERALE DES AFFAIRES\n\nPOLITIQUES ET DE SECURITE\n\nDIRECTION D'ASIE ET D'OCEANIE\n\nLe Directeur\n\nParis, le 17 janvier 2020\n\nMadame l'Ambassadrice,\n\nL'Accord entre le Gouvernement de la République française et le Gouvernement de la Nouvelle-Zélande concernant la création d'un fonds destiné à promouvoir des relations amicales entre les citoyens des deux\n\nEtats, dit Fonds d'amitié France-Nouvelle-Zélande (ci-après « le Fonds »), a été signé le 29 avril 1991 et est entré en vigueur le même jour.\n\nConsidérant qu'après vingt-neuf ans d'existence, les objectifs du Fonds ont été largement atteints et que le capital du Fonds, hébergé par la Fondation de France, sera bientôt totalement liquidé, j'ai l'honneur, d'ordre de mon Gouvernement et muni des pouvoirs établis à cet effet, de vous proposer d'y mettre fin d'un commun accord, selon les modalités prévues à l'article 11.\n\nSi cette proposition rencontre l'agrément du Gouvernement de Nouvelle Zélande, la présente lettre ainsi que la réponse que vous voudrez bien m'adresser constitueront un Accord entre nos deux Etats, qui entrera en vigueur à la date de réception de votre réponse. L'Accord signé le 29 avril 1991 cessera de produire ses effets à la même date.\n\nJe vous prie d'agréer, Madame l'Ambassadrice, l'assurance de ma haute considération.\n\nDirecteur d'Asie et d'Océanie\n\nSon Excellence Mme Jane COOMBS\n\nArbassadrice de Nouvelle-Zélande en France",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20202745_010_s1",
+      "title": "Lettre néo-zélandaise",
+      "score": 0.438382,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630043_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.374927,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_004",
+      "title": "Instrument de ratification",
+      "score": 0.36791,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100261_007",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.367835,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.367112,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230149_001a_s1",
+      "title": "Lettre",
+      "score": 0.366451,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20060066_001_s1",
+      "title": "Convention (ensemble 1 annexe)",
+      "score": 0.364122,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_101",
+      "title": "Échange de notes relatifs aux sanctions",
+      "score": 0.363837,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.363256,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_067_s1",
+      "title": "Notification de l'adhésion de la Jordanie aux Etats-membres",
+      "score": 0.362061,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

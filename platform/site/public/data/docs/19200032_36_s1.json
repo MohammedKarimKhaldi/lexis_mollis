@@ -1,0 +1,45 @@
+{
+  "document_id": "19200032_36_s1",
+  "title": "Pouvoirs polonais",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.938,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "RÉPUBLIQUE POLONAISE | WINISTERE D&S AFFAIRES ETRANGERES Nr. 54649, Monsieur STANISLAW SOKOLOWSKI, ingénieur, est autoriss à se rendre à Paris en qualité de Délégué du Gouvernement de la République poloneise pour prendre part aux travaux de la Conference Internationale du Froid devant a- voir lieu le 2l Juin 1920. Monsieur Sokotowski a les pleins pou- voirs nécessaires pour convenir, arrêter, conclure at signer tous…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_36_s1.pdf",
+  "source_filename": "19200032_36_s1.pdf",
+  "source_sha256": "4aa3099b5689bea7b7327086871ab2fc18be24b150d187aaab4195d2efffbb43",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "710",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RÉPUBLIQUE POLONAISE |\n\nWINISTERE D&S AFFAIRES ETRANGERES\n\nNr. 54649,\n\nMonsieur STANISLAW SOKOLOWSKI, ingénieur, est autoriss à se rendre à Paris en qualité de Délégué du Gouvernement de la République poloneise pour prendre part aux travaux de la\n\nConference Internationale du Froid devant a- voir lieu le 2l Juin 1920.\n\nMonsieur Sokotowski a les pleins pou- voirs nécessaires pour convenir, arrêter, conclure at signer tous les accords, déclaration, arrangements, conventions, protocoles ou décisions sy repportent, sous réserve de la ra- tification finale par le Gouvernement polo- nais,\n\nDonn$ d Varsovie le quinzième jour du mois de Juin de l'en mil neuf cent vingt.\n\nLe Ministre des Affaires Etrengéres\n\nBd. in.",
+      "quality_score": 0.938,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

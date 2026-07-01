@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19690202_010_s1",
+  "title": "Texte de l'accord (note verbale grecque)",
+  "year": 1969,
+  "doc_type": "Texte",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9702,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTÈRE ROYAL DES AFFAIRES ÉTRANGÈRES NO H 3365-39 •0A0- : H1-12-69 NOTE VERBALE le Ministère Royal des Affaires Etrangères présente ses compliments à 1'Ambassade de France et se référant à la Note No 122 qu'elle a bien voulu lui adresser en date du It octobre I969 au sujet de la célébration e. Grèce par les diplomates et consuls Irançais de mariages entre leurs ressortissants, a l'honneur de porter à sa connaissa…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Texte",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19690202_010_s1.pdf",
+  "source_filename": "tra19690202_010_s1.pdf",
+  "source_sha256": "4b26c97f22653eefe48015e69b4377791b79d832b8e263d09365cab5197f1bcd",
+  "treaty_id": "TRA19690202",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTÈRE ROYAL\n\nDES AFFAIRES ÉTRANGÈRES\n\nNO H 3365-39\n\n•0A0-\n\n:\n\nH1-12-69\n\nNOTE VERBALE\n\nle Ministère Royal des Affaires Etrangères présente ses compliments à 1'Ambassade de France et se référant à la Note No 122 qu'elle a bien voulu lui adresser en date du It octobre I969 au sujet de la célébration e.\n\nGrèce par les diplomates et consuls Irançais de mariages entre leurs ressortissants, a l'honneur de porter à sa connaissance qu'il est d'accord avec les dispositions contennues dans la dite Note,\" le Ministère Royal des Affaires Etrangères saisit cette occasion pour renouveler & 1'Ambassade de France les assurances de sa très haute considération.\n\nAthènes, le 24 novembre I969\n\nA 1 Ambassade\n\nde France\n\nEn Ville ---.",
+      "quality_score": 0.9702,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.410036,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.408249,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_029_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.406775,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.405662,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690202_001_s1",
+      "title": "Texte de l'accord (note verbale française)",
+      "score": 0.402164,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.401816,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_040_s1",
+      "title": "Note verbale de transmission de l'instrument d'acceptation de la Roumanie",
+      "score": 0.401718,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_030_s1",
+      "title": "Note verbale d'acceptation du Maroc",
+      "score": 0.401604,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.400909,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_006",
+      "title": "Accusé de réception qatari de l'instrument français",
+      "score": 0.398527,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

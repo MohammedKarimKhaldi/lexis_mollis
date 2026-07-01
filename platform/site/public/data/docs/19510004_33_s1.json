@@ -1,0 +1,116 @@
+{
+  "document_id": "19510004_33_s1",
+  "title": "Instrument d'adhésion iranien",
+  "year": 1951,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9983,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTÈRE IMPÉRIAL DES AFFAIRES ETRANGÈrES No. 16235/18 Considérant que la Convention pour l'établissement de \"l'Organisation Européenne et Méditérranéenne pour la Protection des Plantes\", du 18 avril 1951, amendée par le Conseil de l'Organisation le 27 avril 1955, le 9 mai 1962, le 18 septembre 1968 et le 19 sep- tembre 1973, est ouverte à l'adhésion des Etats, Considérant que les formalités d'adhésion à ladite Con…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_33_s1.pdf",
+  "source_filename": "19510004_33_s1.pdf",
+  "source_sha256": "a1384edf34561ad50d0d93a378b770f9aff3f93a524095b9806f2dd85306eba3",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "IRN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTÈRE IMPÉRIAL\n\nDES AFFAIRES ETRANGÈrES\n\nNo. 16235/18\n\nConsidérant que la Convention pour l'établissement de \"l'Organisation Européenne et Méditérranéenne pour la Protection des\n\nPlantes\", du 18 avril 1951, amendée par le Conseil de l'Organisation le 27 avril 1955, le 9 mai 1962, le 18 septembre 1968 et le 19 sep- tembre 1973, est ouverte à l'adhésion des Etats,\n\nConsidérant que les formalités d'adhésion à ladite Con- vention ont été accomplies conformément aux lois constitutionnelles\n\nLe soussigné, Abbas Ali Khalatbary, Ministre des Affaires\n\nEtrangères, déclare par la présente que le Gouvernement de l'Iran ayant considéré la Convention et les amendements susmentionnés, les confirme et les accepte en toute leur teneur et s'engage à en obser- ver fidèlement les dispositions.\n\nFait à Téhéran, le 10 mars, 1976\n\nAbbas Ali Khalatbar\n\nMinistre des Affaires Etrangères",
+      "quality_score": 0.9983,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_416_s1",
+      "title": "Instrument d'adhésion de l'Iran",
+      "score": 0.64927,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_15_s1",
+      "title": "Instrument de ratification",
+      "score": 0.388478,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_irn001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.380561,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_10_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la RDA",
+      "score": 0.374691,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_08_s1",
+      "title": "Instrument d'adhésion de l'Allemagne démocratique",
+      "score": 0.374389,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_27_s1",
+      "title": "Instrument d'adhésion de la Finlande",
+      "score": 0.373796,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_45_s1",
+      "title": "Instrument de ratification de la Lituanie",
+      "score": 0.367312,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_141",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.364392,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.363154,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.361155,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

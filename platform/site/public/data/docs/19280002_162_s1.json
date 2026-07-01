@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_162_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9667,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 162 Nicanor Duarte Frutos Presidente de La República del Paraguay A todos los que el presente vizren, hago saber: Que, habiéndose adoptada la \"Convención relativa a las Exposiciones Internacionales\", en la ciudad de París, el 22 de noviembre de 1928, modificada y complementada por los Protocolos del 10 de mayo de 1948, del 16 de noviembre de 1966, del 30 de noviembre de 1972, del 24 de junio de 1982 y del 3…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_162_s1.pdf",
+  "source_filename": "19280002_162_s1.pdf",
+  "source_sha256": "7f821c78251f52057d4c39443a3e4f4fd13cf496baab10fc1e2023e323bebc2f",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "PRY001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 162",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Nicanor Duarte Frutos\n\nPresidente de La República del Paraguay\n\nA todos los que el presente vizren, hago saber:\n\nQue, habiéndose adoptada la \"Convención relativa\n\na las Exposiciones Internacionales\", en la ciudad de París, el 22 de noviembre de 1928, modificada y complementada por los Protocolos del 10 de mayo de 1948, del 16 de noviembre de 1966, del 30 de noviembre de 1972, del 24 de junio de 1982 y del 31 de mayo de 1988,\n\nPor cuanto, el Honorable Congreso de la Nación ha\n\ndado su aprobación al mismo a través de la Ley N° 3363, promulgada por el\n\nPoder Ejecutivo el 06 de noviembre de 2007,\n\nPor el Presente lo\n\nACEPTO, CONFIRMO Y RATIFICO\n\nEn todas sus partes, ComprometiéndoMe y ObligándoMe en nombre de la\n\nNación a observarlo y hacerlo cumplir fielmente.\n\nEN\n\nFE\n\nDE LO CUAL,\n\nfirmo el presente\n\nInstrumento de Adhesión, que va sellado con el Sello Nacional y está retrendado por el Ministro Sustituto de Relaciones Exteriores, ANTONIØ/\n\nRIVAS PALACIOS, en la ciudad de Asunción, Capital de la República de\n\nParaguay, a los 8 días del mes de noviembre del año dos mil siete.\n\nArivas tatacio",
+      "quality_score": 0.9902,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_166_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion des Pays-Bas",
+      "score": 0.880928,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.878633,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_165_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.868327,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_164_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.867748,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_169_s1",
+      "title": "Instrument de ratification",
+      "score": 0.861408,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_160_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.852618,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.851025,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_182_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.782057,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_158_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.778785,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_152_s1",
+      "title": "Notification aux Etats parties de la dénonciation de la Nouvelle-Zélande",
+      "score": 0.775133,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}
