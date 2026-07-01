@@ -1,18 +1,705 @@
 {
   "schema_version": "0.1-draft",
-  "description": "Human-annotated calibration cases for similarity thresholds. Fill with at least 30 positive and 30 negative real pairs before claiming calibrated thresholds.",
+  "description": "LLM-draft calibration cases for similarity thresholds. These labels were produced by Codex from excerpts and scores, not by human scholarly validation; use for provisional technical calibration only.",
+  "annotation_source": "llm_draft_codex",
+  "annotation_warning": "Do not claim human-validated calibrated thresholds from this file. Replace or confirm with at least 30 positive and 30 negative human annotations before publication claims.",
   "case_format": {
     "case_id": "stable short identifier",
     "src": "chunk_id or document node id",
     "dst": "chunk_id or document node id",
     "label": "positive or negative",
     "expected_type": "duplicate, clause_reuse, semantic_kin, translation, weak_link, similar_to, same_instrument_as, or null for negative",
-    "notes": "short human rationale"
+    "notes": "short rationale"
   },
   "minimum_for_calibration": {
     "positive": 30,
     "negative": 30
   },
-  "cases": []
+  "counts": {
+    "positive": 34,
+    "negative": 34,
+    "total": 68
+  },
+  "cases": [
+    {
+      "case_id": "llm-positive-001",
+      "src": "a592c7690796e1b0e7bdf6b83660ce3e24bc304262672a7605c69a3a3642bbe6:p0026:c000",
+      "dst": "dfb971d281235e7bd781305fbbff8a39f3a04f58e7ca18379c6b8bdb2f278180:p0026:c000",
+      "label": "positive",
+      "expected_type": "duplicate",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-very_high_ge_0_95-001",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-very_high_ge_0_95-001 (very_high_ge_0_95, duplicate, combined=0.975372)."
+    },
+    {
+      "case_id": "llm-positive-002",
+      "src": "2ac316fdcafb30f53272b8b1a1f550ac3201640e24cd73e89c2e7ce00801e9e9:p0020:c000",
+      "dst": "4d516fcca7fca2e0a661315de5da12f4ce125766508e3a3a66f249c1e47d9bbe:p0020:c000",
+      "label": "positive",
+      "expected_type": "duplicate",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-very_high_ge_0_95-002",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-very_high_ge_0_95-002 (very_high_ge_0_95, duplicate, combined=0.966209)."
+    },
+    {
+      "case_id": "llm-positive-003",
+      "src": "7ac6ca66509d2c63bb7c2ca36587c881691860cc17f716dc5430f04a42b95244:p0046:c000",
+      "dst": "91f9327442b45008d649b9ee189d3485caadc9ae467a249caf766a95051652e3:p0046:c000",
+      "label": "positive",
+      "expected_type": "duplicate",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-very_high_ge_0_95-003",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-very_high_ge_0_95-003 (very_high_ge_0_95, duplicate, combined=1.0)."
+    },
+    {
+      "case_id": "llm-positive-004",
+      "src": "84c3ad1a7d784487645788fc5f6fbef66f44b83345989074aff81d7afd610249:p0001:c000",
+      "dst": "f1e4799bc0e403603c9bc52fd0966ac197d8eff73b6e116bc4033f71335677a0:p0001:c000",
+      "label": "positive",
+      "expected_type": "duplicate",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-very_high_ge_0_95-004",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-very_high_ge_0_95-004 (very_high_ge_0_95, duplicate, combined=0.959374)."
+    },
+    {
+      "case_id": "llm-positive-005",
+      "src": "856e40ff025e51847ee51188f27da679ea642aba6ba10fdd579c8186cf995f49:p0006:c000",
+      "dst": "b29be2760198f610666925c829f1955c824db46e349f997e3b72b001dcfda957:p0005:c000",
+      "label": "positive",
+      "expected_type": "duplicate",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-very_high_ge_0_95-007",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-very_high_ge_0_95-007 (very_high_ge_0_95, duplicate, combined=0.983993)."
+    },
+    {
+      "case_id": "llm-positive-006",
+      "src": "0d38c820f84e59fba897f0b3434eb7451d52517cad6fa923da1600fe6b6a8282:p0001:c000",
+      "dst": "4b638399d189f27292771cabd2bd656f7d2458b7bca4c17e2b027b3d2ee28058:p0001:c000",
+      "label": "positive",
+      "expected_type": "duplicate",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-very_high_ge_0_95-014",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-very_high_ge_0_95-014 (very_high_ge_0_95, duplicate, combined=0.999999)."
+    },
+    {
+      "case_id": "llm-positive-007",
+      "src": "7234c4cabe4d5598d811d8bcb13b64e0aedab15f237c9d8ec098495a084e1027:p0007:c000",
+      "dst": "f112ec74a6047398f074b8eea6cd93feb19bea84b06bafc0b81c38d492d542de:p0007:c000",
+      "label": "positive",
+      "expected_type": "duplicate",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-very_high_ge_0_95-016",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-very_high_ge_0_95-016 (very_high_ge_0_95, duplicate, combined=0.985389)."
+    },
+    {
+      "case_id": "llm-positive-008",
+      "src": "d459660f5d8ed4f4d6c56c47144c852cc9c337a25b969ed5b963b8336498423b:p0001:c000",
+      "dst": "ed2a3f3df708b972c39eae75f235acccff663248870a101b3ea4e8d75f31e28c:p0001:c000",
+      "label": "positive",
+      "expected_type": "duplicate",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-very_high_ge_0_95-017",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-very_high_ge_0_95-017 (very_high_ge_0_95, duplicate, combined=1.0)."
+    },
+    {
+      "case_id": "llm-positive-009",
+      "src": "d459660f5d8ed4f4d6c56c47144c852cc9c337a25b969ed5b963b8336498423b:p0001:c000",
+      "dst": "f52f72a0d19c1fbfdce0fd6bbb88ff3aa23293a8ccc7a181e363bdc37b8e0a3f:p0001:c000",
+      "label": "positive",
+      "expected_type": "duplicate",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-very_high_ge_0_95-019",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-very_high_ge_0_95-019 (very_high_ge_0_95, duplicate, combined=1.0)."
+    },
+    {
+      "case_id": "llm-positive-010",
+      "src": "35d2f0617f4cec8ce8cfc96b70a8635b48639ad4925dae132ac780e44f5e13e8:p0002:c000",
+      "dst": "9e8187e56b1ebe05b34aac7e3fdf8d478b014f4d957861ee046d562bfb9dcdc6:p0002:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-001",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-001 (high_0_85_0_95, clause_reuse, combined=0.85007)."
+    },
+    {
+      "case_id": "llm-positive-011",
+      "src": "609ece7b49d34d1f2cb4603fc9048a324a992e406efee81f7bcfb26829d312da:p0007:c000",
+      "dst": "69baad6904e61ccc02947d11973bfaf1154af1b5b3a58b135daa07d7b7767c2b:p0008:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-002",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-002 (high_0_85_0_95, clause_reuse, combined=0.872189)."
+    },
+    {
+      "case_id": "llm-positive-012",
+      "src": "7eeb36e96033aa2fdb45c54142075b9f69406c1c5fbbbf632bea2162f3f58492:p0016:c000",
+      "dst": "d7f5a25a1f5a61e14e3909e5ea821a54ef4239271238f19b3f6a6556d4b9a3d3:p0018:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-003",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-003 (high_0_85_0_95, clause_reuse, combined=0.915849)."
+    },
+    {
+      "case_id": "llm-positive-013",
+      "src": "001f1a172533e84c266b19e8582093121966d95f55b19a3556637bdc28ca77e6:p0002:c000",
+      "dst": "7234c4cabe4d5598d811d8bcb13b64e0aedab15f237c9d8ec098495a084e1027:p0002:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-005",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-005 (high_0_85_0_95, clause_reuse, combined=0.869182)."
+    },
+    {
+      "case_id": "llm-positive-014",
+      "src": "81aa4757e4d257634d508aa8dab50a039d03102fb6e75f9d2946ee5cf9fbfe2d:p0003:c000",
+      "dst": "e0d29be894c2fd89d60f5ac70192b852e05da112f243bda1db81b59a3918d707:p0003:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-006",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-006 (high_0_85_0_95, clause_reuse, combined=0.912764)."
+    },
+    {
+      "case_id": "llm-positive-015",
+      "src": "8a44300fcabc644cb58806a14d3324f825f37d3e8b611256d6b327cf9ca088db:p0008:c000",
+      "dst": "f112ec74a6047398f074b8eea6cd93feb19bea84b06bafc0b81c38d492d542de:p0007:c000",
+      "label": "positive",
+      "expected_type": "duplicate",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-007",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-007 (high_0_85_0_95, duplicate, combined=0.940184)."
+    },
+    {
+      "case_id": "llm-positive-016",
+      "src": "23f743a8f7e8ccf4b3ce70e13457e787108730903b47a66a67c1a4ee6dbabbbd:p0001:c000",
+      "dst": "8c400ad18cdd37c05b6e76da012dd997975cdce171289ba5851191660b72a03e:p0001:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-008",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-008 (high_0_85_0_95, clause_reuse, combined=0.858343)."
+    },
+    {
+      "case_id": "llm-positive-017",
+      "src": "39ef3e5c589e1656cad1e9b993a9f9ed8dbe0aaad87ee7cc5ee4124773d0eb0c:p0007:c000",
+      "dst": "d3132795b2c68f66bebc02a71d3763f9b0f0d54f5cf3521a68ce8573b228bdfb:p0008:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-009",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-009 (high_0_85_0_95, clause_reuse, combined=0.861488)."
+    },
+    {
+      "case_id": "llm-positive-018",
+      "src": "2deb135e0e57dc15f3cbb921c033a22083fe3e87e2278b788f28bf56897049a5:p0001:c000",
+      "dst": "7c679ac906042d4f73dd5e5b580c84bf4afd6adfea6fe8938c39eeaa627e01b4:p0001:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-010",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-010 (high_0_85_0_95, clause_reuse, combined=0.881237)."
+    },
+    {
+      "case_id": "llm-positive-019",
+      "src": "33a58c25d3e478e6d7f0d21a11d6887a10c6fdc4a0c5aa67b5d701c6d6ad4207:p0019:c000",
+      "dst": "7eeb36e96033aa2fdb45c54142075b9f69406c1c5fbbbf632bea2162f3f58492:p0017:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-011",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-011 (high_0_85_0_95, clause_reuse, combined=0.85451)."
+    },
+    {
+      "case_id": "llm-positive-020",
+      "src": "393f50dbacd1a4da23c50e820a9d53d8461c3f6d02dd6e6db78f130a3fa32abf:p0002:c000",
+      "dst": "8a44300fcabc644cb58806a14d3324f825f37d3e8b611256d6b327cf9ca088db:p0002:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-012",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-012 (high_0_85_0_95, clause_reuse, combined=0.850478)."
+    },
+    {
+      "case_id": "llm-positive-021",
+      "src": "84c29c3922fb45d8bb3fbcb91277448af734de3e2f5045050a0882eb916b923f:p0005:c000",
+      "dst": "f7fd50882af4569c6aa1980103a414499ae28f8792826899c6267dbbaf99d69a:p0005:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-014",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-014 (high_0_85_0_95, clause_reuse, combined=0.880981)."
+    },
+    {
+      "case_id": "llm-positive-022",
+      "src": "c438eef44ad353f80e3ff3bc7db6afaf42328d5c760ce16d73459ac2c1e7f57d:p0004:c000",
+      "dst": "fb99560893c5dc51f7dbd9bd617055fc228715ca0fc4b1831798ddbdd83e6554:p0001:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-015",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-015 (high_0_85_0_95, clause_reuse, combined=0.937614)."
+    },
+    {
+      "case_id": "llm-positive-023",
+      "src": "6d126390a07f0ee2c4ec89fca8e7d389235cfcc29f3f75c0b3ad8c4915f4f663:p0004:c000",
+      "dst": "c3b22d6da05567b887b9277d4ae83c26cafcfe07efde2f23abf86f17e4c89fcf:p0004:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-017",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-017 (high_0_85_0_95, clause_reuse, combined=0.883358)."
+    },
+    {
+      "case_id": "llm-positive-024",
+      "src": "b60aeda9b8adbbc011c27850dfdbfa30681316d90c583d47f9d26dad6faf4fc9:p0010:c000",
+      "dst": "f7fd50882af4569c6aa1980103a414499ae28f8792826899c6267dbbaf99d69a:p0009:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-018",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-018 (high_0_85_0_95, clause_reuse, combined=0.875621)."
+    },
+    {
+      "case_id": "llm-positive-025",
+      "src": "8a44300fcabc644cb58806a14d3324f825f37d3e8b611256d6b327cf9ca088db:p0001:c000",
+      "dst": "f84e261f7c4234caba514b747ab1727c3d1ec9fb38f7f68aaa3dd7a1ba02d40a:p0001:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-019",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-019 (high_0_85_0_95, clause_reuse, combined=0.858042)."
+    },
+    {
+      "case_id": "llm-positive-026",
+      "src": "5b5b13ee1f9bf654f383e0f8789e8c93242b4b98acf9a0ac847a816826fb707e:p0001:c000",
+      "dst": "a45dbd79bb2e1f8d1f6085c924262398a4278a59c474ec187ce7b68bdabe4bea:p0001:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-high_0_85_0_95-020",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-high_0_85_0_95-020 (high_0_85_0_95, clause_reuse, combined=0.881159)."
+    },
+    {
+      "case_id": "llm-positive-027",
+      "src": "02954990de52638e8af45c63b0b6a63bad2dbb32ae46669a84df0fded49d0f70:p0001:c000",
+      "dst": "b70b0cfb0008cfca788ec56b26cccd1dcd782c1134cd7ab7f4aab0840329ce06:p0001:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-boundary_0_70_0_85-002",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-boundary_0_70_0_85-002 (boundary_0_70_0_85, clause_reuse, combined=0.763551)."
+    },
+    {
+      "case_id": "llm-positive-028",
+      "src": "30b592580dcf0e3ebdc23474696ea32f7e44eb476c8c93fb0975cc03d3f7d911:p0002:c000",
+      "dst": "5a5fcb30891293e2f50a38ed05514762603e3b38905ce86867280d7b00c38f4c:p0002:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-boundary_0_70_0_85-005",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-boundary_0_70_0_85-005 (boundary_0_70_0_85, clause_reuse, combined=0.711793)."
+    },
+    {
+      "case_id": "llm-positive-029",
+      "src": "30b592580dcf0e3ebdc23474696ea32f7e44eb476c8c93fb0975cc03d3f7d911:p0002:c000",
+      "dst": "9f3b101a58faf80ceb26c685bfb0aa878a327ee77fa99cdbf6a21850bbbe3cf8:p0002:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-boundary_0_70_0_85-006",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-boundary_0_70_0_85-006 (boundary_0_70_0_85, clause_reuse, combined=0.715179)."
+    },
+    {
+      "case_id": "llm-positive-030",
+      "src": "89aa907312fbcca92935ec115930df10eea83f51c55fc245f6f8121eaf65c7a2:p0005:c000",
+      "dst": "f3958c3170a8ab292e2f8a78d598694a3e8ddc63a6443f490d0e1eeebee662b7:p0004:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-boundary_0_70_0_85-007",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-boundary_0_70_0_85-007 (boundary_0_70_0_85, clause_reuse, combined=0.769107)."
+    },
+    {
+      "case_id": "llm-positive-031",
+      "src": "c477532d9163e92b32c44544efb17624ddf535b708bdb8624b11d509f26aae14:p0002:c000",
+      "dst": "e5f18987ae314ea84a8d26d33c801bc0e82140a3bceb12cea4916dff0116058f:p0002:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-boundary_0_70_0_85-012",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-boundary_0_70_0_85-012 (boundary_0_70_0_85, clause_reuse, combined=0.806858)."
+    },
+    {
+      "case_id": "llm-positive-032",
+      "src": "8473d3795c9428af654308ceb13727f8fa2e5271e6956389cede9e5016057fd9:p0006:c000",
+      "dst": "e2e7ec74348b08e5ae3c2ca5fbf44b261a42ea3ad37eb1b190ed6be45bc8486e:p0007:c000",
+      "label": "positive",
+      "expected_type": "semantic_kin",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-boundary_0_70_0_85-013",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-boundary_0_70_0_85-013 (boundary_0_70_0_85, semantic_kin, combined=0.753864)."
+    },
+    {
+      "case_id": "llm-positive-033",
+      "src": "760166e61fd5afee23a1432a616a6217e49aed77c73ae24c68641af796a38348:p0004:c000",
+      "dst": "f94b702813884f972743f9f9f5bf2d953dc6f6954e2084c1b9da35e1ce5eb041:p0002:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-boundary_0_70_0_85-014",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-boundary_0_70_0_85-014 (boundary_0_70_0_85, clause_reuse, combined=0.801389)."
+    },
+    {
+      "case_id": "llm-positive-034",
+      "src": "981c428912965ceb3871b2247df6a19f6a67b678b4631662551c6a9bf5146c85:p0004:c000",
+      "dst": "f308608a4071b2e3c4991d68219993bb5cb3c51da4ccbcccb9414a5fa5c2ebef:p0005:c000",
+      "label": "positive",
+      "expected_type": "clause_reuse",
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-boundary_0_70_0_85-019",
+      "notes": "LLM draft: substantial textual overlap or same operative clause; suggested from sim-boundary_0_70_0_85-019 (boundary_0_70_0_85, clause_reuse, combined=0.79128)."
+    },
+    {
+      "case_id": "llm-negative-001",
+      "src": "f3cfd19128b97f6d420a3a4faf13c1f813c20feb9737f4d7cb35c8d816791510:p0348:c000",
+      "dst": "fd4ee556962b530b8d418f5949f6c666861f129e6513b14b38491852d6008b89:p0004:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-002",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-002."
+    },
+    {
+      "case_id": "llm-negative-002",
+      "src": "9b84985eeecdf845057e3ae98af7d5a35fbf8d76fed22963f5f512c1877fdffc:p0001:c000",
+      "dst": "7f5538fe44d1e4a25bbf2fbeba0f1101132cb213650a27aa10cf94f8007b8ad3:p0004:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-003",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-003."
+    },
+    {
+      "case_id": "llm-negative-003",
+      "src": "89a9a0d1046d8f57946a484bfb1b4f693492791ad92c0f64d93452fc1b98f875:p0001:c000",
+      "dst": "7d7e0e0f83f437470c660f663e7bc6ee840d605861910ab26cea53017b62c800:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-004",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-004."
+    },
+    {
+      "case_id": "llm-negative-004",
+      "src": "39cf6ec011488481272d01036ff21151d27f44ac952e7652ea42cfcc4d3ef63e:p0004:c000",
+      "dst": "885e988a4898383cd373e144a00daae6920b4b19272768386497f9ec01f57f65:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-005",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-005."
+    },
+    {
+      "case_id": "llm-negative-005",
+      "src": "7c6b2da10f21c3350793166f3186e09c5c244e84971d3a1ad8387ded25a9f0fe:p0016:c000",
+      "dst": "3339cf39007f2d12376e355c7a5f69c6ec600928f6dcacb95c352ec9bb48ae25:p0006:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-006",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-006."
+    },
+    {
+      "case_id": "llm-negative-006",
+      "src": "8fcc79b9e24f44a7377939183d73ca8a799c03f9f13f4d6a8d3cff50176a6229:p0003:c000",
+      "dst": "9658f307ab3df5b4879c0332c6da2995a2d2167563b850fe2918d8c9a1a1acea:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-007",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-007."
+    },
+    {
+      "case_id": "llm-negative-007",
+      "src": "89b4cebdf8e45bedbf50580eb392e8df92686664feaa46050cdeafd0c58b9f61:p0005:c000",
+      "dst": "5ac09235fcdce3d05ae633d00e66c2e0a73604573801097231c34ea49ce59a1e:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-009",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-009."
+    },
+    {
+      "case_id": "llm-negative-008",
+      "src": "9e6d29160dc85296968f432cff59b9842dcea952e55001c5cf26e0e6e06e3514:p0012:c000",
+      "dst": "e8d5cecfcadacdaeefde89a6d41f02e56da4a72e8b8603760dd1941ca515fa68:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-010",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-010."
+    },
+    {
+      "case_id": "llm-negative-009",
+      "src": "48d533070e273829142c021393958372845dcc3cf17a0e5757d1c3b3a2d84f99:p0001:c000",
+      "dst": "7ba2e62f404a7ca46a88c54f5dcd6f95b702b0e57d0baa25a48761c01f074523:p0002:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-012",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-012."
+    },
+    {
+      "case_id": "llm-negative-010",
+      "src": "844611f2c8ef6bd11fee11f260c014e6635f2146b3b3fb763f4222bff750daee:p0002:c000",
+      "dst": "b61a425e3024a6c2c0c9c9bb4c9bef369beea34e8c1bed3cce2c8c9bb85a49e4:p0002:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-013",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-013."
+    },
+    {
+      "case_id": "llm-negative-011",
+      "src": "71ca57e876a19b80ae9f9490d7315a6471c1d576f92c167624d586dfe63cc1e0:p0002:c000",
+      "dst": "b0fdaf09b300acfa8e4f35170bdd04af614b0383b4b9fd02458f8c91c59a1df7:p0002:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-014",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-014."
+    },
+    {
+      "case_id": "llm-negative-012",
+      "src": "0ce4667038b0c49e13db36a2f4bb96764e640b89d250529428d9fba08c9b93fe:p0001:c000",
+      "dst": "e79b5f69ad81edb2b9c1f258a67174fee25b73f077881ce5ffeb88fbfdbff4f2:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-015",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-015."
+    },
+    {
+      "case_id": "llm-negative-013",
+      "src": "5d985c5ba55f398efb7c79751c219c825af02f563e23a07dd2b7e1585e1e2661:p0005:c000",
+      "dst": "102527a03d8a000e812f18e84737df142ba69c648c9444b927ed248b93d9e00f:p0017:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-016",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-016."
+    },
+    {
+      "case_id": "llm-negative-014",
+      "src": "5d985c5ba55f398efb7c79751c219c825af02f563e23a07dd2b7e1585e1e2661:p0005:c000",
+      "dst": "5da6bcbcc7ddc2870a2a67855cd911bfc6411518225f84c9587e74209c84677e:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-017",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-017."
+    },
+    {
+      "case_id": "llm-negative-015",
+      "src": "1fe7df546cf94be13208758d6a62abbb62bba51c2713a261c486b3c076ab1dd0:p0007:c000",
+      "dst": "1a81600244ef5eb635022c93b7f9f9a3fdb821b92b9264c91fb04b9e629f0116:p0032:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-018",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-018."
+    },
+    {
+      "case_id": "llm-negative-016",
+      "src": "71bf360cbb9a616c1e684561390c448f34697dbab004167cb76d02731f23ab7e:p0001:c000",
+      "dst": "73623e928a23fc7ec4f73e585ae2c9b3cf2bd0e1f89547adbed820cd1c91935e:p0002:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-019",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-019."
+    },
+    {
+      "case_id": "llm-negative-017",
+      "src": "67c89931b52749935055439dcc84604eb96cfa0b99aaa98655dfc8d7e01dbcc8:p0001:c000",
+      "dst": "20d3cf8390019e9d2cdb8a07b4afb136a5c234d73576a50963c7de5e5369c2c5:p0002:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-020",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-020."
+    },
+    {
+      "case_id": "llm-negative-018",
+      "src": "f5269c905627dc0521f05aae93a7f7200964d886e8ece91ab3fdbe758cbc333e:p0001:c000",
+      "dst": "a8ef30be325bbf4a94929a8bbabb6efd613e65b3b4f9f41fe95fdafb14bbdb4f:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-022",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-022."
+    },
+    {
+      "case_id": "llm-negative-019",
+      "src": "65adb1eabe7b907f4b1a7fb6b561f07c22fc5394370647dc3769c943abb6e690:p0001:c000",
+      "dst": "587557e3932f47e8eb7d56090b39d882555835524f23b9b596e1d42be7432b9e:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-023",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-023."
+    },
+    {
+      "case_id": "llm-negative-020",
+      "src": "a40b84c6fd9faf2ed41d98cd40de451c17113138471aa8a4f650f52df1099eb1:p0001:c000",
+      "dst": "8ff238349d642c06c2a9517a5c2239e3f71f1c9af71e119af16385b862d5729e:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-024",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-024."
+    },
+    {
+      "case_id": "llm-negative-021",
+      "src": "91768539dc086e21bf046593f087fa8aa2af76ecfa0d3a242f06f2c3596c1e60:p0001:c000",
+      "dst": "1a81600244ef5eb635022c93b7f9f9a3fdb821b92b9264c91fb04b9e629f0116:p0032:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-025",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-025."
+    },
+    {
+      "case_id": "llm-negative-022",
+      "src": "65d60384835741a7ee1e710e6a8aec273f5a37ce66a787c8eac92daa104a23e8:p0003:c000",
+      "dst": "ce867f6bedb32f72f15ff6c27eaf70d698b0964181d10c9ab9731ea2e9b693e1:p0004:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-026",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-026."
+    },
+    {
+      "case_id": "llm-negative-023",
+      "src": "7b7aaf5fce623925203faae4525a16c3796584487c2fbc6a7f557320fbd31050:p0007:c000",
+      "dst": "bc5abc1b382649ecb27c4dbcec2b9a98d8cbb902c6dc19c8317968fb96450dee:p0018:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-027",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-027."
+    },
+    {
+      "case_id": "llm-negative-024",
+      "src": "3601ec3d85d8176b5dbb0309c46b7f182f26f7bb95eb11b7d253b6217ff6ddaf:p0002:c000",
+      "dst": "5e6c57ec073adeec23165e6e33ab6d903409d9e9c9577f774e13fe5eb071ef1c:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-028",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-028."
+    },
+    {
+      "case_id": "llm-negative-025",
+      "src": "81a10ca9444dc80f3e69e0199767a1d63b17b62bf02a430784ccf087114568ac:p0002:c000",
+      "dst": "b2a153abdb6385bc70c823f0066d8bd0fbc72cf82cce6c59fb0e37cf9272d278:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-029",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-029."
+    },
+    {
+      "case_id": "llm-negative-026",
+      "src": "f94b702813884f972743f9f9f5bf2d953dc6f6954e2084c1b9da35e1ce5eb041:p0002:c000",
+      "dst": "8cef92aa58e811bbf6d16b18267dbf9875c238f885bffa04d53cb1535a227c2a:p0003:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-030",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-030."
+    },
+    {
+      "case_id": "llm-negative-027",
+      "src": "e3cdf97ac2de37e349616a79c6d1ade4c4a8b0f3c4325194e4106f000305849a:p0001:c000",
+      "dst": "73fd198931c9a2a40f6bbcf96e1d1beb7886b90c8fe4ca36d8233a6d16cf71ee:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-031",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-031."
+    },
+    {
+      "case_id": "llm-negative-028",
+      "src": "69c12e0e73cc2d4217813065b678828ce31c705355f6bbea3f5283fe07ca005e:p0001:c000",
+      "dst": "85e4e84fa4ddfca56c618cee261c514368c0197faf4dbc2af97d387fbb1861b7:p0002:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-032",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-032."
+    },
+    {
+      "case_id": "llm-negative-029",
+      "src": "7a6970d586e1ea886c80b082bbd1d93a40927563ee15a0d510c3b37fb593ae2e:p0004:c000",
+      "dst": "f7443b8bcd04dec11ab8071dde4316b8245e57c23823071696e49878c24ace83:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-033",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-033."
+    },
+    {
+      "case_id": "llm-negative-030",
+      "src": "efc85764b0913492c739bb8888b0916e0a5e5ad0abce1eaf64aa64b0b819b37e:p0002:c000",
+      "dst": "93eb32ac36078fa08ca9cc7ecc6dc52dd2f4cd3b68996d2ac06d50da205a5a5d:p0005:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-034",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-034."
+    },
+    {
+      "case_id": "llm-negative-031",
+      "src": "47fd1c732d899f3c4abef9754ff8c5ca0af7135632f88d62e7858af5017067d0:p0002:c000",
+      "dst": "3e466ea7c2bb336119de3409180094b61602d5d6fddbd26027235359a38da13f:p0002:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-036",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-036."
+    },
+    {
+      "case_id": "llm-negative-032",
+      "src": "f9cd6587d3191d68936758dc53384363ccd2180eaa8688942ed71afd1f911460:p0001:c000",
+      "dst": "fde2237366590d776bfbb0e9d888e0aac7d2c1bbd774d74525586559247d8695:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-038",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-038."
+    },
+    {
+      "case_id": "llm-negative-033",
+      "src": "3b818bdd74f6cb0118c3ff0945156b9ef935637381105d2751ba0cf6143278be:p0001:c000",
+      "dst": "fde4a7b3ac49cf86658a8ca5839ae58aad0d003f8892174474311420a82d668d:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-039",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-039."
+    },
+    {
+      "case_id": "llm-negative-034",
+      "src": "94e24255994ec90672ef2744083e60ced5d140e2c2c63d188f4b09d89e6151e6:p0001:c000",
+      "dst": "993ce226a0a656bed4c9d93a9e7c88aef2b3844e194135dc442e85df59db8a31:p0001:c000",
+      "label": "negative",
+      "expected_type": null,
+      "annotation_source": "llm_draft_codex",
+      "source_candidate_id": "sim-no_edge_negative-040",
+      "notes": "LLM draft: excerpts appear to concern different instruments/topics despite same broad type/period; sampled from sim-no_edge_negative-040."
+    }
+  ]
 }
-
