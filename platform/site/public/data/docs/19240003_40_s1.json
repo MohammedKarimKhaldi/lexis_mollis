@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_40_s1",
+  "title": "Pouvoirs de signature du Luxembourg",
+  "year": 1924,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9495,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Nous Glarlotte, par fa grace fe Dieu, Grandie-Duejesse de Luxembourg, Tudiesse be Hassan, eo. etc, ete. Sur le rapport de Notre Ministre d'Etat, Président du Gouvernement et après délibération du Gouvernement en Conseil; AVONS TROUVE BON ET ÉNTENDU : de conférer à Monsieur Eugène BASTIN, Notre Consul général à Paris des pleins pouvoirs à l'effet de signer, sous réserve de notre approbation et ratification, un arrang…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_40_s1.pdf",
+  "source_filename": "19240003_40_s1.pdf",
+  "source_sha256": "4eefffeb64bd5a0453c614db322764c24267b3fa71b25bbd7eb160f7e4ff8e2f",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "520",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nous Glarlotte, par fa grace fe Dieu,\n\nGrandie-Duejesse de Luxembourg,\n\nTudiesse be Hassan, eo. etc, ete.\n\nSur le rapport de Notre Ministre d'Etat, Président du\n\nGouvernement et après délibération du Gouvernement en Conseil;\n\nAVONS TROUVE BON ET ÉNTENDU :\n\nde conférer à Monsieur Eugène BASTIN, Notre\n\nConsul général à Paris des pleins pouvoirs à l'effet de signer, sous réserve de notre approbation et ratification, un arrangement pour l'institution à Paris d'un Office international du Vin.\n\nEn foi de quoi Nous avons signé les présentes en Notre\n\nChâteau de Hohenbourg le GT masses vive. jour de septembre mil neuf cent vingt-quatre.\n\nLe Ministre d'Etat, nw\n\nPrésident du Gouvernement,",
+      "quality_score": 0.9495,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.445805,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_520a_s1",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.417303,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.41455,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_45_s1",
+      "title": "Pouvoirs suédois",
+      "score": 0.390696,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_520",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.388448,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.380192,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.37881,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_ita001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.376887,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.372818,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680230_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.369912,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

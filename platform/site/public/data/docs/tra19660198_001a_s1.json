@@ -1,0 +1,232 @@
+{
+  "document_id": "tra19660198_001a_s1",
+  "title": "Accord",
+  "year": 1966,
+  "doc_type": "Accord",
+  "languages": [
+    "fr",
+    "pt",
+    "ru"
+  ],
+  "quality_score": 0.8709,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "TLDS E Entre le Gouvernement de la République Française et le Gouvernement des Républiques Socialistes Soviétiques, concernant l'étailissement de la liaison directe entre l'ELYSSE et le KREMLIN. ードili：- les Gouvernemenis de la République irançaise et de l'union des Républiques Socialistes Soviétioues, Vu la décision prise car la france es l'Union Sovléticue concernant l'étarlissement d'une liaison a recte entre 1'El…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19660198_001a_s1.pdf",
+  "source_filename": "tra19660198_001a_s1.pdf",
+  "source_sha256": "9a29515e16239f47ff7489fa48a2553c1717f48fc63f411e3e171b4273029d4d",
+  "treaty_id": "TRA19660198",
+  "treaty_number": "001a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TLDS E",
+      "quality_score": 0.4717,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Entre le Gouvernement de la République Française et le\n\nGouvernement des Républiques Socialistes Soviétiques, concernant l'étailissement de la liaison directe entre l'ELYSSE et le\n\nKREMLIN.\n\nードili：-\n\nles Gouvernemenis de la République irançaise et de l'union des\n\nRépubliques\n\nSocialistes Soviétioues,\n\nVu la décision prise car la france es l'Union Sovléticue concernant l'étarlissement d'une liaison a recte entre 1'Elysée et le Kremlin,\n\nConscients\n\nfait que l'étarlissement d'une telle liaisor.\n\ncontribuera à maintenir des contacts entre la GRANCE et i'U.R.S.S.\n\ndans le vat d'échançer\n\ndes es et de transmeitre des messages\n\nchaque fois que nola sera nécessaire,\n\nSont convenus de ce cui suit :\n\n- ARTICLE I -\n\nLa liaison directe\n\nentre l'Elysée et le Kremlin cera constituéo\n\npar les Parties intégrantes\n\nsuirantes :\n\nI.- Deux stations\n\nterminales équipées de téléimor meurs entre\n\nlescuelles les messages\n\nseront échangés directement ;\n\n2.- Une voie télégraphique dupiex en cable f'onctionnant en permanerce et gui\n\nsuivra le tracé\n\nsuivant : PARIS - BERNE - VIENNE -\n\nPHANE - MOSCOU, apris consultation des pays intéressés ;\n\n3.- Une roie radiotélégraprique duplex fonctionnant\n\nen perma-\n\nnence directerens de PARIS à MOSCOU, constituée sur le système rad otélé raphidae existant - cente voie sera équipée d'appareils de vorrection autonaticio d'erreurs.",
+      "quality_score": 0.9227,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "- ARTICIE. 2 -\n\nLes stations de communication terminales seront équipées d'appareils permettant la transmission et la réception\n\ndes\n\nmessages de Paris à Moscou en français et de Moscou à Paris en russe.\n\nA cette fin la Partie française livrera\n\nà la\n\nPartie sovié-\n\ntique 4 jeux complets d'équipement télégraphique terminal, notamment des téléimprimeurs\n\nà page à clavier double (alphabet\n\nlatin et chiffres), le tout avec des pièces de rechange pour une année d'exploitation et avec tous les outils spéciaux nécessaires, appareils de mesure, consignes de maintenance et autre documentation technique.\n\nLa Partie soviétique livrera à la Partie française 4 jeux complets d'équipement télégraphique terminal, notamment des téléimprimeurs à page à clavier triple (alphabet russe, alphabet latin et chiffres), le tout avec des pièces de rechange pour une année d'exploitation et avec tous les outils spéciaux nécessaires, appareils de mesure, consignes de maintenance et autre documentation technique.\n\nLes équipements mentionnés dans ce paragraphe seront livrés gratuitement par les Parties contractantes\n\npar échange direct\n\nmutuel.\n\n- ARTICLE 3-\n\nLes stations terminales de la liaison directe seront équipées d'appareils de chiffrement avec des bandes de chiffrement utilisées une seule fois.\n\nLa Partie française acquerra I2\n\njeux d'appareils de chiffre-\n\nment destinés à équiper les deux stations terminales\n\nde communi-\n\ncation. La Partie française fournira 6 jeux d'appareils susmentionnés pour la station située en U.R.S.S. avec des pièces de rechange pour une année d'exploitation, toutes les consignes de maintenance et autre documentation technique, tout l'équipement fourni étant aux frais de la Partie soviétique.\n\n- ARTICLE 4 -\n\nLa Partie française assurera la préparation et la livraison des bandes de chiffrement à la station terminale en\n\nU.R.S.S. pour\n\nla réception des messages émis par la France.\n\nLa Partie soviétique assurera la préparation et la livraison des bandes de chiffrement à la station terminale en France\n\npour\n\nla réception des messages émis par l'U.R.s.S.",
+      "quality_score": 0.9841,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "ES\n\nE0r3\n\nJeux\n\nIphabet essaires\n\nect\n\néçui pée\n\nmen- de s de ient\n\nraison\n\ns. pour vrai son pour\n\nLa remise aux stations terminales des bandes de chiffrement préparées est effectuée par l'intermédiaire de 1'Ambassade de\n\nFrance à Moscou (pour la station en France) et par l'intermé- diaire de l'Ambassade de 1'U.R.S.S. à Paris (pour la station à\n\nParis).\n\n- ARTICLE 5 -\n\nChaque Partie contractante définira les organismes qui sont responsables de l'organisation de la liaison directe, de sa maintenance, de\n\nson fonctionnement continu et sûr, ainsi que de\n\nla transmission\n\ndes messages en temps opportun.\n\nCes organismes\n\npeuvent d'un commun accord résoudre les\n\nquestions et élaborer les instructions relatives à la maintenance et à l'exploitation de la liaison directe et prendre toutes dispositions pour améliorer la qualité de fonctionnement de la liaison.\n\n- ARTICIE 6 -\n\nles paramètres techniques des voies télégraphiques et de l'équipement terminal et leur maintenance devront être conformes aux avis du CCITT et du CCIR.\n\nLa transmission et la réception des messages par la liaison directe s'effectueront compte tenu des avis correspondants du\n\nRèglement télégraphique et du Règlement des Radiocommunications internationaux de même que des instructions coordonnées arrêtées d'un commun accord.\n\n- ARTICLE I -\n\nLes frais relatifs à ligne directe seront supportés :\n\nI.- Pour les sections allant de Paris jusqu'à la frontière française, et de Moscou jusqu'à la frontière de l'U.R.s.s. - par les Administrations des Télécommunications des pays respec- tifs.\n\n2.- Pour la section internationale entre la frontière française et la frontière de l'U.R.S.S. - par chaque Partie contractante à part égale (50 %).\n\n3.- Les frais concernant l'installation et l'exploitation de la voie radiotélégraphique Paris - Moscou seront supportés par chacune des Parties contractantes sur son territoire.\n\n- ARTICLE 8 -\n\nLes Parties contractantes prendront toutes dispositions pour que la liaison directe entre l'Elysée et le Kremlin soit ouverte dans les plus courts délais possibles après la signature du présent Accord.",
+      "quality_score": 0.9789,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "- ARTICLE 9 -\n\nLe présent Accord entrera en vigueur le jour de sa signature.\n\nEn foi de quoi les représentants des deux Gouvernements ont signé le présent Accord et y ont apposé leurs sceaux.\n\nFait à Paris\n\n= le\n\nI966\n\nen deux exemplaires, en Français et en Russe, les deux textes faisant foi.\n\nPour le Gouvernement de la République Française,\n\nHeri Aqueny.\n\nPour le Gouvernement\n\nde l'Union des Républiques\n\nSocialistes Soviétiques,\n\nC...\n\n3302",
+      "quality_score": 0.979,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "СОПЛАНЗНИЕ\n\nмежду правительством Французской Республики и\n\nПравительством Союза Советских Социалистичес- ких Республик\n\nоб установлении\n\nлИнИЙ\n\nПравительство Французской Республики и Правительство\n\nCo-\n\nюза Советских Социалистических Республик,\n\nпринимая во внимание решение Франции и Советского Союза\n\nустановить линию прямой связи между Елисейским дворцом и Кремлем,\n\nсознавая, что установление такой линии будет содейство -\n\nвать поддержанию контактов между Францией и СССР в целях обмена мнениями и передачи посланий в каждом случае, когда это будет необходимо,\n\nсо гласились о нижеследующем:\n\nner:\n\n- ques\n\nSna꼬bi I\n\nЛиния прямой связи между Елисейским дворцом и Кремлем бу-\n\nдет организована из следующих составных частей:\n\nІ. двух оборудованных телеграфной буквопечатающей аппара-\n\nтурой оконечных пунктов связи, непосредственно между которыми буде т осуществляться обмен сообщениями;\n\n2. одного дуплексного кабельного телеграфного канала\n\nкруглосуточного действия, организованного по согласованию с соответствующими странами по трассе: Парин - Берн - Вена - Прага - Москва ;\n\n3. одного дуплексного радиотелеграфного канала круглосу-\n\nочного действия, организованного на существующей радиотелеграйной линии Париж - Москва. Утот канал будет оборудован аппарату рой автоматической коррекции ошибок.\n\nстатья 2.\n\nОконечные пункты связи будут оборудованы аппаратурой,\n\nобеспечивающей передачу и прием сообщений из Парижа в москву на\n\nФранцузском языке и из москвы в париж на русском языке.",
+      "quality_score": 0.9588,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "2.\n\nВ связи с этим Французская Сторона поставит Советской\n\nСтороне 4 комплекта телеграфного оконечного оборудования, в том числе двухретистровые (латинский шрийт и цийры) рулонные теле графные аппараты с запасными частями на один тод эксплуатации и со всем необходимым специальным инструментом, измерительными приборами, эксплуатационными инструкциями и другой технической литературой.\n\nСоветская сторона поставит Французской Стороне 4 ком -\n\nплекта телеграйного оконечного оборудования, в том числе трехрегистровые (русский и латинский шрифты, цифры) рулонные телеграфные аппараты с запасными частями на один год эксплуатации и со всем необходимым специальным инструментом, измерительными приборами, эксплуатационными инструкциями и другой технической литературой.\n\nоборудование, указанное в этом параграйе, будет постав-\n\nлено договаривающимися Сторонами путем непосредственного взаимного обмена без оплаты.\n\nСтатья 3\n\nОконечные пункты линии прямой связи будут оборудованы аппаратурой нибрования с применением шифрлент одноразового действИя.\n\nФранцузская Сторона приобретет I2 комплектов аппарату-\n\nры ширования, предназначенной для установки в обоих оконечных пунктах связи.\n\nФранцузская Сторона поставит Советской Стороне 6 ком -\n\nплектов упомянутой выше аппаратуры для оконечного пункта связи в СССР с запасными частями на один год эксплуатации со\n\nвсеми\n\nнеобходимыми инструкциями и другой технической литературой оплатой Советской Стороной стоимости аппаратуры и\n\nее поставки.\n\nСтатья 4\n\nФранцузская Сторона обеспечит подготовку и поставку\n\nшифрлент оконечному пункту связи в СССР для приема сообщений из франции.\n\nСоветская Сторона обеспечит подтоповку и поставку шифр-\n\nлент оконечному пункту связи во франции для приема сообщений из СССР.",
+      "quality_score": 0.9535,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "Переда ча подготовленных шифрлент оконечным пунктам свя-\n\nзи будет осуществляться через Посольство Франции в Москве (для пункта связи во Франции) и через Посольство СССР в Париже (для пункта связи в СССР).\n\nСтатья 5\n\nКаждая Договаривающаяся Сторона определит учреждения, которне будут ответственны за организацию линии прямой связи, ее техническое содержание, бесперебойность и надежность действия, за своевременную передачу сообщений.\n\nЭти учреждения по взаимному согласованию могут решать вопросы и разрабатывать инструкции, относящиеся и техническому содержанию и эксплуатации линии прямой связи, а также проводить мероприятия, повышающие качество действия связи.\n\nСтатья 6\n\nТехнические параметры телеграйных каналов и оконечного оборудования, а также их техническое содержание должны соответствовать рекомендациям МККТТ и МККР.\n\nПередача и прием сообщений по линии прямой связи будут осуществляться с соблюдением соответствующих рекомендаций международных регламентов по телеграфной связи и радиосвязи, также взаимно согласованных инструкций.\n\nСтатья ?\n\nРасходы по линии прямой связи будут распределены следующим образом:\n\nІ. Участки линии на территории от Парижа до государет венной границы Франции и от москвы до государственной границы\n\nСССР оплачиваются Администрациями связи соответствующих стран.\n\n2. Международный участок линии:\n\nгосударственная граница Франции - государственная граница СССР оплачивается каждой договаривающейся Стороной поровну, по 50%\n\n3. Расходы, относящиеся и установлению и эксплуатации радиотелеграфного канала Парих-москва, будут оплачиваться каждой из Договаривающихся Сторон на своей территории.",
+      "quality_score": 0.9634,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "4.\n\nСтатья 8\n\nДоговаривающиеся Стороны примут меры к тому, чтобы\n\nлиния прямой связи Елисейский дворец - Кремль была открыта в кратчайший срок после подписания настоящего Соглашения.\n\nНастоящее Соглашение вступит в силу со дня его под-\n\nписания.\n\nВ удостоверение чего представители двух Правительст\n\nподписали настоящее Соглашение и приложили к нему свой печа\n\nТИ.\n\nСовершено в г. Париже \"\n\n\" ноября 1966 года в\n\nдвух экземплярах, каждый на французском и русском языках,\n\nпр\n\nчем оба текста имеют одинаковую силу.\n\nПо уполномочию\n\nПравительства Французскоі\n\nРеспублики\n\nHami Ayre\n\nПо уполномочию\n\nПравительства Союза\n\nСоветских\n\nСоциалистических Республик",
+      "quality_score": 0.9433,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "ET EE ET E E a r e E TA E e r E a r a a T E e a TAUNT PITANI eTa\n\nan5 U nE Ete Tea t e e a Aa e n TT AR A T A T T a T A a T e a e A a e a aT a e A N T Te e a Ma a e e A T E a e R R TO L LLS WS LOM a n 5N H\n\nx eTA H EEAS Pn en a A A al mna a AAE E a E EEE N a a a E EE E E E E LE O EE E n n AA a a e S Caan r a",
+      "quality_score": 0.5531,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19900276_001",
+      "title": "Accord",
+      "score": 0.543166,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830019_001_s1",
+      "title": "Avenant à la convention relative au concours en personnel apporté par la République française au fonctionnement des services publics de la République fédérale islamique des Comores signée à Paris le 10 novembre 1978",
+      "score": 0.502591,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_01_s1",
+      "title": "Traité",
+      "score": 0.468127,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740378_001_s1",
+      "title": "Protocole",
+      "score": 0.414218,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19740101_001",
+      "title": "Convention (ensemble 1 protocole d'application et 4 annexes)",
+      "score": 0.407867,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19870226_001_s1",
+      "title": "Accord",
+      "score": 0.397746,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_001_s1",
+      "title": "Accord",
+      "score": 0.388758,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880131_001_s1",
+      "title": "Accord",
+      "score": 0.385552,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850107_001_s1",
+      "title": "Accord",
+      "score": 0.38339,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660198_001b_s1",
+      "title": "Texte des recommandations sur la maintenance et l'exploitation de la liaison directe entre l'Élysée et le Kremlin (ensemble 3 annexes)",
+      "score": 0.382143,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

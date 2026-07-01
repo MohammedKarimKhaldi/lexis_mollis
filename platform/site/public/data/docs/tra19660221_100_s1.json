@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19660221_100_s1",
+  "title": "Lettre demandant le prolongement de l'exposition",
+  "year": 1966,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9951,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "22 décembre 1966 Nionsieur le Sous-Secrétaire d'Etat, Compte tenu des dispositions de l'article 4 de la Convention signée ce jour et afin d'assurer le plus grand succès pos: ible à l'exposition \"Toutankhamon et son époque\", qui doit être présentée prochainement à Paris, le Gouvernement français souhaiterait que sa durée soit portée de 4 à 5 mois. Je vous serais reconnaissant de bien vouloir me faire savoir si vous ê…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19660221_100_s1.pdf",
+  "source_filename": "tra19660221_100_s1.pdf",
+  "source_sha256": "a2478f9b1bf9ff84b2f8b2218d062095503502d429a54c3b4117a0de96b719d6",
+  "treaty_id": "TRA19660221",
+  "treaty_number": "100B",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "22 décembre 1966\n\nNionsieur le Sous-Secrétaire d'Etat,\n\nCompte tenu des dispositions de l'article 4 de la\n\nConvention signée ce\n\njour et afin d'assurer le plus grand\n\nsuccès pos: ible à l'exposition \"Toutankhamon et son époque\", qui doit être présentée prochainement à Paris, le Gouvernement français souhaiterait que sa durée soit portée de 4 à 5 mois.\n\nJe vous serais reconnaissant de bien vouloir me faire\n\nsavoir si vous êtes d'accord sur une telle prolongation.\n\nVeuillez agréer, Monsieur le Sous-Secrétaire d'Etat,\n\nl'assurance de ma haute considération.\n\nJacques ROUX\n\nSoh Excellence\n\nMonsieur Abdel Moneim EL SAWI\n\nSous-Secrétaire d'Etat au Ministère de la Culture\n\nCopie certifiée conforme\n\n-",
+      "quality_score": 0.9951,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19660221_101_s1",
+      "title": "Lettre en réponse",
+      "score": 0.719842,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.376722,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.375478,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.374373,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_050_s1",
+      "title": "Instrument d'acceptation des Etats-Unis",
+      "score": 0.373229,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_001b_s1",
+      "title": "Lettre française sur l'article 6",
+      "score": 0.371459,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.368608,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.368389,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.367266,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.366795,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

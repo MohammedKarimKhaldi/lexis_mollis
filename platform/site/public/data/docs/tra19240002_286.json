@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_286",
+  "title": "Notification par le gouvernement français de la dénonciation équatorienne",
+  "year": 1924,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9893,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JPR/MP MINISTERE DES AFFAIRES ETRANGERES -=-日 DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES ・ニュニー Sous-Direction des Questions Economiques =-= N º2O/NUOIR REPUBLIQUE FRANCAISE Paris, le 26 mars 1993 LE MINISTRE D'ETAT MINISTRE DES AFFAIRES ETRANGERES MONSIEUR L'AMBASSADEUR DE FRANCE (Voir liste in fine) 18240002 \\/S : Dénonciation par l'Equateur de l'Arrangement portant création d'un Office Intern…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_286.pdf",
+  "source_filename": "tra19240002_286.pdf",
+  "source_sha256": "e462f65e319ec4725b7d798377076dac75b087b0757dc1447ef35205ac2b499b",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "ECU008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JPR/MP\n\nMINISTERE\n\nDES\n\nAFFAIRES ETRANGERES\n\n-=-日\n\nDIRECTION DES NATIONS UNIES\n\nET DES ORGANISATIONS\n\nINTERNATIONALES\n\n・ニュニー\n\nSous-Direction des Questions Economiques\n\n=-=\n\nN º2O/NUOIR\n\nREPUBLIQUE FRANCAISE\n\nParis, le 26 mars 1993\n\nLE MINISTRE D'ETAT\n\nMINISTRE DES AFFAIRES ETRANGERES\n\nMONSIEUR L'AMBASSADEUR DE FRANCE\n\n(Voir liste in fine)\n\n18240002\n\n\\/S : Dénonciation par l'Equateur de l'Arrangement portant création d'un Office Internationa des épizooties.\n\nLe Gouvernement du pays de votre résidence étant partie à l'Arrangement du 25 janvier 1924 portant création d'un Office International des épizooties, dont le\n\nGouvernement français est dépositaire, je vous serais obligé de bien vouloir lui faire part de la communication suivante:\n\n\"Le Gouvernement équatorien a notifié le (9 décembre 1997) au Gouvernement français, sa décision de dénoncer l'Arrangement portant création d'un Office International des épizooties, signé à Paris le 25 janvier 1924, selon les termes de l'article 8 du dit\n\nArrangement.\n\nCette décision prendra effet le 24 janvier 1994\".\n\nVous voudrez bien me faire connaître, par le moyen du formulaire ci-joint, la date à laquelle les autorités du pays de votre résidence auront accusé réception de cette communication./.",
+      "quality_score": 0.9893,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_300",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.747692,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_131",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.732751,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_081",
+      "title": "Note verbale des autorités grecques accusant réception de la notification du dépôt de l'instrument de Bahreïn",
+      "score": 0.726966,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_391",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument d'adhésion hondurien",
+      "score": 0.718231,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_506",
+      "title": "Demande des autorités françaises d'une notification de dépôt de l'instrument d'adhésion",
+      "score": 0.674337,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_305",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.671243,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_287",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument d'adhésion équatorien",
+      "score": 0.452407,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_290",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.450919,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_240",
+      "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion costaricienne",
+      "score": 0.443356,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_280",
+      "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion émiratie",
+      "score": 0.434723,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

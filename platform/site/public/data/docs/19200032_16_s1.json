@@ -1,0 +1,95 @@
+{
+  "document_id": "19200032_16_s1",
+  "title": "Pouvoirs français pour les colonies",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8423,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Colonies Paul Deschanel Président de la République Française. ¿ tomo ceux qui ces présenta bettres verront; Salut: Tuc Confience Internatio nale serinissant en vue de lacréation à Laris d'un Onstitut Interational du Froid. Nous avons chargé A And You Direcens honoraire au Ministe las Colenies, Commandeur de l'Ordres talinal de la lignie a emmener . d'étudier toules les questions qui font. l'ebjet- de cette réunions…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_16_s1.pdf",
+  "source_filename": "19200032_16_s1.pdf",
+  "source_sha256": "290123535a021dcc45d13f64e942a920d5921ecf0c7f7f2374bd81cb25fd68af",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "FRA003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Colonies\n\nPaul Deschanel\n\nPrésident de la République Française.\n\n¿ tomo ceux qui ces présenta bettres verront;\n\nSalut:\n\nTuc Confience Internatio nale serinissant en vue de lacréation à Laris d'un Onstitut Interational du Froid. Nous avons chargé A And\n\nYou Direcens honoraire au Ministe las Colenies, Commandeur de l'Ordres talinal de la lignie a emmener .\n\nd'étudier toules les questions qui font.\n\nl'ebjet- de cette réunions internationales et. par les présentes. le nommonas c o",
+      "quality_score": 0.8026,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "constituons Nitre Finipotentiaire ão beffet de négecies, conclure eh signer aus nom des Colonies de l'Iffique excidentale\n\npançaise. des Culonies ch.\n\nTrolictoralis français de l-Inde Chine elde Madugara arre le ou los Pinipolentinies igalement munis de pleins pouris de la part des\n\nPuissances contractantes tele Trangement;,\n\nConvention.\n\nDeclaration one tote.!\n\nquelconques qui sciont juges nécensaires hour allendie le nillal desirér.\n\nPremellant diaccomplin et dexcuter toul ce que letu dil Penipotentiaire.\n\naura stipule el signé au nom des Colonics del iNfrique accidentales française, des\n\nColonies el Protectorals frangais de r lIndo-Chineact de Meadagaseas: Jans amas tasers a prematice",
+      "quality_score": 0.9285,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Tais soit contienne dictons nes indirectement. pour quelque-prétexte ede quenus encore que cait, der la réscrue de los filles de Ratification que Vois ferons délivrer en bonne di.\n\net fesse pes cher indi des de delai qui seia convenu, On fides quel Nous avens fait appesci à ces présentes le Sceau de la République.\n\nFaite la illontallerie 19 Jun 1920\n\nPar le hésident dela République.\n\nLe Lrésident du Cinseil.\n\nMinistre des Affaires Etrangeren.\n\nabbillera",
+      "quality_score": 0.7959,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200032_15_s1",
+      "title": "Pouvoirs français pour l'Algérie",
+      "score": 0.410552,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_14_s1",
+      "title": "Instrument de ratification grec",
+      "score": 0.385709,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

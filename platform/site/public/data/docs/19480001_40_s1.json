@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_40_s1",
+  "title": "Instrument de ratification du Maroc",
+  "year": 1948,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9743,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "RENE COTY PRESIDENT DE LA REPUBLIQUE FRANCAISE AU NOM DE SA MAJESTE SIDI MOHANNED BEN MOULAY ARAFA SULTAN DU MAROC a l'honneur de faire savoir, en complément de luratification intervenue à Paris le 16 juin 1949 au nom de la Réjublique Française, qu'il accepte, ratifie et confirmele Protocole du 10 mai 1948 sur le Bureau International des Expositions. EN FOI DE QUOI il a fait apposer à ces présentes le Sceau de la Ré…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_40_s1.pdf",
+  "source_filename": "19480001_40_s1.pdf",
+  "source_sha256": "274ba11771007b7c19eff92e2427643295fba7d838fc2712d28b30db793c0cac",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "MAR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RENE\n\nCOTY\n\nPRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nAU NOM DE\n\nSA MAJESTE SIDI MOHANNED BEN MOULAY ARAFA\n\nSULTAN DU MAROC\n\na l'honneur de faire savoir, en complément de luratification intervenue à Paris le 16 juin 1949 au nom de la Réjublique Française, qu'il accepte, ratifie et confirmele Protocole du 10 mai 1948 sur le Bureau International des\n\nExpositions.\n\nEN FOI DE QUOI il a fait apposer à ces présentes le Sceau de la République.\n\nFAIT A PARIS, le 20 Juillet 1955./.\n\nLe Garde des Sceaux\n\nMinistre de 1a\n\nJustice,\n\nPrésident du Conseil des Ministres ad interim,\n\nPar le Président de la République\n\nLe Garde des sceaux.\n\nMinistre de la Justice.\n\nMinistre des Affaires\n\nEtrangères\n\nad interin,",
+      "quality_score": 0.9743,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_63_s1",
+      "title": "Instrument de ratification de la Tunisie",
+      "score": 0.854581,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.382636,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_37_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification",
+      "score": 0.376161,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_020_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'acceptation de Cuba",
+      "score": 0.375957,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_22_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.374401,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_59_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification suisse",
+      "score": 0.373708,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_17_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.371514,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_17_s1",
+      "title": "Pouvoirs de notification de l'adhésion de la Finlande",
+      "score": 0.368914,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_27_s1",
+      "title": "Dépôt de l'instrument de ratification de Haïti",
+      "score": 0.368911,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_049_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.368363,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

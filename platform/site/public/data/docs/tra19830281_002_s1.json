@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19830281_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1983,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9677,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "N°35/83 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des relations extérieures, donnons pouvolis par ces présentes à Monsieur André ROSS, Ambassadeur extraordinatre et Plénipotentiaire à Tokyo pour signer l'échange de lettres antre le Gouvernement de la République Française et le Gouvernement du Japon concernant l'annexe modifiée à l'accord relatif aux services aériens entre la France et le Japon…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19830281_002_s1.pdf",
+  "source_filename": "tra19830281_002_s1.pdf",
+  "source_sha256": "3e4a1c563aea80ad76d7c8d57094cf144438885b76d291e9615a8f7a97be4390",
+  "treaty_id": "TRA19830281",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "N°35/83\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS,\n\nMinistre des relations extérieures, donnons pouvolis par ces présentes à Monsieur André ROSS, Ambassadeur extraordinatre et Plénipotentiaire à Tokyo pour signer l'échange de lettres antre le Gouvernement de la République Française et le Gouvernement du Japon concernant l'annexe modifiée à l'accord relatif aux services aériens entre la France et le Japon, signé à Paris le 17 janvier 1956./.\n\nFAIT à PARIS, le : 3. Il\n\n1 83\n\nLe Ministre des relations extérieures\n\na chuypom",
+      "quality_score": 0.9677,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19890169_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.503642,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910242_002",
+      "title": "Pouvoirs français",
+      "score": 0.423889,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820077_002",
+      "title": "Pouvoirs français",
+      "score": 0.394201,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.387914,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830281_010_s1",
+      "title": "Lettre japonaise",
+      "score": 0.387811,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.385807,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910242_001",
+      "title": "Lettre française",
+      "score": 0.383838,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990082_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.382842,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960139_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.379065,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_002b_s1",
+      "title": "Pouvoirs pour l'échange de lettres",
+      "score": 0.378638,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

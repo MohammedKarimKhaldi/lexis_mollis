@@ -1,0 +1,49 @@
+{
+  "document_id": "tra18250001_008_s1",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1825,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7808,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "« aurignés, d'etant émin irre procédo à L'ébange De aster De Natificationc De la Couvention conclue et vignée à Dela prevente année entrer la Prance et la Benière. elativemant à lafication de quelques pastion: detimité entre len Jeux Ctate, ont prodat tan insteumen den Diter ratification que \"'tant towén en bonne foome, ent it échanger enla manioe accoutunée: Enfor dequin ihe mt signé le préont ade il l'ant muni. au…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18250001_008_s1.pdf",
+  "source_filename": "tra18250001_008_s1.pdf",
+  "source_sha256": "a4f2f20cb69e8fe4ff4b6bd94145644f3487866d0f885a62b8444e08e8615c57",
+  "treaty_id": "TRA18250001",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "« aurignés, d'etant émin irre procédo\n\nà L'ébange De aster De Natificationc De la\n\nCouvention conclue et vignée à\n\nDela prevente année entrer la Prance et la Benière.\n\nelativemant à lafication de quelques pastion: detimité entre len Jeux Ctate, ont prodat tan insteumen den\n\nDiter ratification que \"'tant towén en bonne foome, ent it échanger enla manioe accoutunée: Enfor dequin ihe mt signé le préont ade il l'ant muni.\n\nau cachet De leur aunen\n\nFit à Pair le singit tait 1895.",
+      "quality_score": 0.7808,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

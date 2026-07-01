@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_084_s1",
+  "title": "Pouvoirs de signature du Portugal",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "pt"
+  ],
+  "quality_score": 0.9857,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ANTONIO DE OLIVEIRA SALAZAR Presidente do Conselho de Ministros no exercício das atribuições do Presidente da República Portuguesa Fazemos saber aos que as presentes Letras virem que o Governo Português há por bem nomear, como por estas nomeia, seu Plenipotenciário, o Senhor Dr. Marcello Gonçalves Nunes Duarte Mathias, Embaixador de Portugal em Paris, para assinar em nome do Governo Português a Convenção Internacion…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_084_s1.pdf",
+  "source_filename": "19540096_084_s1.pdf",
+  "source_sha256": "1fabf547f42e0c30b614994c86e6422ddbd89ebdb13114e3a52ab7181b2b364e",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "715",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ANTONIO DE OLIVEIRA SALAZAR\n\nPresidente do Conselho de Ministros no exercício das atribuições do Presidente da República Portuguesa\n\nFazemos saber aos que as presentes Letras virem que o Governo Português há por bem nomear, como por estas nomeia, seu Plenipotenciário, o Senhor Dr. Marcello Gonçalves Nunes\n\nDuarte Mathias, Embaixador de Portugal em Paris, para assinar em nome do Governo Português a Convenção Internacional do\n\nFrio, destinada a substituir a Convenção de 21 de Junho de 1920, modificada em 31 de Maio de 1937.\n\nEm testemunho do que as presentes Letras vão por nós assinadas e seladas com o selo branco da República Portu- guesa.\n\nLisboa, em vinte e quatro de Maio de mil novecentos e cinquenta e cinco.\n\n7",
+      "quality_score": 0.9857,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_47_s1",
+      "title": "Pouvoirs de vote et de signature du Portugal",
+      "score": 0.434733,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_715_s1",
+      "title": "Pouvoirs portugais",
+      "score": 0.417502,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_174_s1",
+      "title": "Pouvoirs pour déposer l'instrument de ratification",
+      "score": 0.408832,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380028_04_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.396161,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_082_s1",
+      "title": "Pouvoirs de signature de la Pologne",
+      "score": 0.380298,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_695",
+      "title": "Pouvoirs néerlandais",
+      "score": 0.369444,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.365104,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_54_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.363727,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.362659,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.362646,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

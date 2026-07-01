@@ -1,0 +1,87 @@
+{
+  "document_id": "tra18300005_001_s1",
+  "title": "Convention",
+  "year": 1830,
+  "doc_type": "Convention",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8017,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "alger: 5 Piti- 1830. snt:hy熱8 Entrait de la Collection dar. astes du fouerminant ipants l'occupation française. - i Cunvention entre le fénéral-en-chef se l'armés fran- çaise, et son Altefeu le Ley d'Alger. Si fort de la Casbat, tores les autres forts qui Déperiaul l'Alger, et le pert de cette ville feront remis amy trompelo françaises ce matin, à l0 leures (heure française). Le Général en chef de l'armée francise s…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Convention",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18300005_001_s1.pdf",
+  "source_filename": "tra18300005_001_s1.pdf",
+  "source_sha256": "a385fc44fac80a981c4d46ad0a86141e01bd9348be62b7f84887a1cd96931fc4",
+  "treaty_id": "TRA18300005",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "alger: 5 Piti- 1830.\n\nsnt:hy熱8\n\nEntrait de la Collection dar.\n\nastes du fouerminant ipants l'occupation française.\n\n- i\n\nCunvention entre le fénéral-en-chef se l'armés fran- çaise, et son Altefeu le Ley d'Alger.\n\nSi fort de la Casbat, tores les autres forts qui Déperiaul l'Alger, et le pert de cette ville feront remis amy trompelo françaises ce matin, à l0 leures (heure française).\n\nLe Général en chef de l'armée francise s'engage envers\n\nSon Altefse le Dey d'Agar a laribaifier sa libartó fla pofrefer de tontos ses richefsco pardonnelles.\n\nLe Ley sera libre de do retirer avec Sa farille bilel, richefres particutières dano le lieu qu'il fipera; et tant.\n\nqu'il restera à Alger, il y soia, lei et sa freille, tous las protection. de Général en chef De l'armie fransaite, One garde padicadie guantica, la Surité de sa personnes et celle de ala famille.\n\nLè général en chef afoure à tuno les solidals de las\n\nMilica des memes avantages et la même prestection.\n\nl'epercice,",
+      "quality_score": 0.8069,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "L'epercice de la religion mubrlmane rebtera, Vitre, La liberté des habitants de toutes les chaftes leser réligion, - levas prosprétés, leur cormerce et les industrie ne s recusent aucune atteinte. Leurs faumed heront 4es= pestées.\n\nLa général-en cheef enqui l'engagement fui l'hommes.\n\nL'échange de cette convention dera fait avant de heures, ce matin, et les troupel françaifes entreront aufti.\n\ntôt dans la Cablah, et ducceftivement dano tons hes forts de laville et de la, Irainne,\n\nOu Camp derant Atlgan, le ü. feillet 1830.\n\nHufoeen-Pachr..\n\nComte de dourmont.",
+      "quality_score": 0.7966,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16890008_001",
+      "title": "Recueil de traités (1689-1764)",
+      "score": 0.359699,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16890007_001",
+      "title": "Recueil de traités",
+      "score": 0.353403,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16940003_001",
+      "title": "Textes de divers traités (1694-1820)",
+      "score": 0.351657,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

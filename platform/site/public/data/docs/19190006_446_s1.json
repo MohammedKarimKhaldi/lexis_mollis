@@ -82,5 +82,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190006_731_s1",
+      "title": "Instrument de ratification britannique de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_351a_s1",
+      "title": "Instrument de ratification grec de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_796_s1",
+      "title": "Instrument de ratification du Royaume des Serbes, Croates, Slovènes de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.802578,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_326_s1",
+      "title": "Instrument de ratification français de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.802578,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_151a_s1",
+      "title": "Instrument de ratification bulgare du Traité de Paix",
+      "score": 0.802578,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_886_s1",
+      "title": "Instrument de ratification thailandais de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.802578,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_436_s1",
+      "title": "Instrument de ratification italien de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.802578,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_096_s1",
+      "title": "Instrument de ratification belge de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.802578,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740101_001",
+      "title": "Convention (ensemble 1 protocole d'application et 4 annexes)",
+      "score": 0.434802,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_005_s1",
+      "title": "Ratification japonaise",
+      "score": 0.414622,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
 }

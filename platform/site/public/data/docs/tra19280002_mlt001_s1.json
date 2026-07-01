@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_mlt001_s1",
+  "title": "Note verbale d'intention d'adhésion",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE MALTE NOTE VERBALE The Embassy of thy Republic of Malta presents its compliments to the Ministry of Foreign Affairs and has the honour to announce that the Government of Malta is hereby expressing its intention of adhering to the Convention relating to international Exhibitions of 22 November 1928 and to the Protocols of 16 November 1966 and 30 November 1972 and to the Amendments of 24 June 1982 and 31…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_mlt001_s1.pdf",
+  "source_filename": "tra19280002_mlt001_s1.pdf",
+  "source_sha256": "4d6f89b611f529ec45aafcb1a256aa08fe5fe5775e8ba03af2b9b3150ff5cc3c",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MLT001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DE MALTE\n\nNOTE VERBALE\n\nThe Embassy of thy Republic of Malta presents its compliments to the\n\nMinistry of Foreign Affairs and has the honour to announce that the\n\nGovernment of Malta is hereby expressing its intention of adhering to the\n\nConvention relating to international Exhibitions of 22 November 1928 and to the Protocols of 16 November 1966 and 30 November 1972 and to the\n\nAmendments of 24 June 1982 and 31 May 1988.\n\nThe Embassy of the Republic of Malta avails itself of this opportunity to convey to the Ministry of Foreign Affairs the renewed assurance of its highest consideration.\n\nParis, the 19 day of August 1999\n\nBASSY\n\nOF|MA,\n\nMinistère des Affaires Etrangères 37, Quai d'Orsay 75007 Paris\n\nPARIS\n\n92, AVENUE DES CHAMPS ÉLYSÉES, 75008 PARIS\n\n- TÉL.: 01 56 59 7590 - FAX : 0145 62 00 36",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "colombie_docs_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.652049,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_kna001_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.638939,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_159_s1",
+      "title": "Notification du bureau international des expositions de l'adhésion de Palaos",
+      "score": 0.603383,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.44507,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.438468,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mus001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.43778,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.433526,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.430639,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_028_s1",
+      "title": "Note verbale d'acceptation de la Malaisie",
+      "score": 0.42987,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.428986,
+      "type": "translation",
+      "provisional": false
+    }
+  ]
+}

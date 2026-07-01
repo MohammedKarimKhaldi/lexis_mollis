@@ -1,0 +1,69 @@
+{
+  "document_id": "19480001_34_s1",
+  "title": "Instrument de ratification du Japon",
+  "year": 1948,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "ko"
+  ],
+  "quality_score": 0.534,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "= < 物 工 关 区 澡 把 过 ”和 逢 尺 肛 11 二 时 十 1 开 11 十 11 革 人 于 和 脆 寻 因 未 灶 图 梭 筛 波 冰 时 昧 信 叭 迷 深 才 池 六 和 叹 敌 所 棉 电 玉 类 执 志 氢 诈 米 昌 笑 据 电 汉人 吕 屋 必 人 DD”NQ 和 其 执 杭 时 搬 人 于 加 《XPS8 羯 离 浊 并 城 六 匿 次 加 由 合 册 办 力也 和” 折 六 邮 靶 ”NeQ 柜 划 朋 好 磊 训 一 水 ” 钥 荣 州 干 尺 进 十 11 下 11 十 11 呈 吓 长 加 闪 海 阔 肛 Cal Se XCd 人 Ne ~ <",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_34_s1.pdf",
+  "source_filename": "19480001_34_s1.pdf",
+  "source_sha256": "af485a7943c7f5a6ff10dddac0b5a5f463a3b6233b5749fcc45a80d45ab1f521",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "JPN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "= < 物 工 关 区 澡 把 过 ”和 逢 尺 肛 11 二 时 十 1 开 11 十 11 革 人 于 和 脆 寻 因 未 灶 图 梭 筛 波 冰 时 昧 信 叭 迷 深 才 池 六 和 叹 敌 所 棉 电 玉 类 执 志 氢 诈 米 昌 笑 据 电 汉人 吕 屋 必 人 DD”NQ 和 其 执 杭 时 搬 人 于 加 《XPS8 羯 离 浊 并 城 六 匿 次 加 由 合 册 办 力也 和” 折 六 邮 靶 ”NeQ 柜 划 朋 好 磊 训 一 水 ” 钥 荣 州 干 尺 进 十 11 下 11 十 11 呈\n\n吓 长 加 闪 海 阔 肛 Cal Se XCd 人\n\nNe ~ <",
+      "quality_score": 0.534,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "ko"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_026_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.381108,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_30_s1",
+      "title": "Instrument de ratification du Japon",
+      "score": 0.358823,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_446b_s1",
+      "title": "Instrument de ratification japonais de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.352063,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

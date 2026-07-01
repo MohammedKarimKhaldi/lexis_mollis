@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_230_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9595,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 230 GOVERNMENT OF TUVALU DEPARTMENT OF FOREIGN AFFAIRS LIE AR LLE E SS eee VERNMENT OF TUVAL INSTRUCTION OF ACCESSION N WHEREAS the Convention relating to the International Exhibitions was done at Paris on 22 November 1928 : WHEREAS the Convention was amended and supplemented by the Protocol of 30 November 1972, the Amendments of 24 June 1982 and 31 May 1988 : AND WHEREAS Article 3 of the said Protocol prov…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_230_s1.pdf",
+  "source_filename": "19280002_230_s1.pdf",
+  "source_sha256": "661c03f5bebb42b386a86a3bf1d5038d65d95660c1c56e0ac228b76b564ca174",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "TUV001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 230",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "GOVERNMENT OF TUVALU\n\nDEPARTMENT OF FOREIGN AFFAIRS\n\nLIE AR LLE E SS eee\n\nVERNMENT OF TUVAL\n\nINSTRUCTION OF ACCESSION\n\nN\n\nWHEREAS the Convention relating to the International Exhibitions was done at Paris on 22 November 1928 :\n\nWHEREAS the Convention was amended and supplemented by the\n\nProtocol of 30 November 1972, the Amendments of 24 June 1982 and 31\n\nMay 1988 :\n\nAND WHEREAS Article 3 of the said Protocol provides that the\n\nProtocol shall remain open for accession by Governments Parties to the 1928\n\nConvention after 29 November 1973 :\n\nNOW THEREFORE, the Government of Tuvalu hereby accedes to the 1982 Convention and the 1972 Protocol, including the Amendments of 24 June 1982 and 31 May 1988, and undertakes faithfully to fulfill and carry out all the provisions therein contained.\n\nIN WITNESS WHEREOF, L Apisai lelemia, Prime Minister and\n\nMinister of Foreign Affairs, the Government of Tuvalu, have signed this\n\nInstrument of Accession and caused the Seal of the Government of Tuvalu to be hereunto affixed.\n\nDone at Funafuti, Tuvalu, on the sixth day of September of two thousand and seven. |\n\nCu\n\nHon. Apisai Ielemia\n\nPrime Minister and\n\nMinister of Foreign Affairs",
+      "quality_score": 0.9757,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_231_s1",
+      "title": "Instrument de ratification",
+      "score": 0.843792,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.842863,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_232_s1",
+      "title": "Pouvoirs",
+      "score": 0.838131,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_235_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification soviétique",
+      "score": 0.827478,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_236_s1",
+      "title": "Instrument d'adhésion du Vanuatu",
+      "score": 0.818321,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.810411,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_225_s1",
+      "title": "Instrument d'adhésion du Timor oriental",
+      "score": 0.808295,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_222_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.805227,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_234_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.796533,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.795032,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

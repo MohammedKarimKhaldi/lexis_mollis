@@ -1,0 +1,57 @@
+{
+  "document_id": "tra19170013_001",
+  "title": "Texte de la notification donnant pouvoir aux plénipotentiaires de demander la reconnaissance par la France de l'indépendance de la Finlande",
+  "year": 1917,
+  "doc_type": "Texte",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8487,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "1 ORDFORANDEN FINLANDS REGERING. Excellence onsieurl /1 inistre des Affaires Elmangeres De la Republique rançaise ayank proclame sa 1 Diete d ne Couvernement de La Sinlande Finlande (tak libre et indépendank et décide de nolifier cet ade aux Puissances, en Leur demandant de faciliter L'itablissement de rapports direc entie la finlande et Cellesci je soussigne President du (jouvernement dee Sinlande, donne par la pré…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Texte",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19170013_001.pdf",
+  "source_filename": "tra19170013_001.pdf",
+  "source_sha256": "bfd4f131cc5be3e02de226027a6318e3f0bc5cd9cdbfba358d39ff56622dcb10",
+  "treaty_id": "TRA19170013",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1\n\nORDFORANDEN\n\nFINLANDS REGERING.\n\nExcellence\n\nonsieurl /1\n\ninistre des Affaires Elmangeres\n\nDe la Republique\n\nrançaise\n\nayank proclame sa 1 Diete d ne Couvernement de La Sinlande\n\nFinlande (tak libre et indépendank\n\net décide de nolifier cet ade aux Puissances, en Leur demandant de faciliter L'itablissement de rapports direc entie la finlande et Cellesci je soussigne\n\nPresident du (jouvernement dee\n\nSinlande, donne par la\n\nprésente, conformément à la décision prise par ce (jouvernement,\n\nDiele et du (pousernemenk de Finlande à la connaissance du Gouvernement dela République française ck de Lui demander de Vouloir bien reconnaitre La Sinlande comme\n\nEtal Libre ek indépendank\n\nSait a Haringfor, le 15 décembre 1917.\n\nC. femenf\n\nDOME\n\nS\n\nND'S\n\nSENA",
+      "quality_score": 0.8487,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200032_12_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.350832,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

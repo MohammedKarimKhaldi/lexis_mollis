@@ -41,5 +41,62 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_007_s1",
+      "title": "Protocole relatif aux réserves émises par les puissances alliées en cas de non-exécution ou d'exécution incomplète par l'Autriche des clauses d'armistice, lors du premier dépôt des ratifications du traité de paix",
+      "score": 0.762722,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_003_s1",
+      "title": "Protocole relatif aux droits des Puissances alliées en cas de non-exécution ou d'exécution incomplètes des clauses d'Armistice par la Hongrie",
+      "score": 0.633068,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_006_s1",
+      "title": "Procès-Verbal de dépôt des instruments de ratification de l'accord",
+      "score": 0.367561,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_007_s1",
+      "title": "Procès-Verbal de dépôt des ratifications de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.360762,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_797_s1",
+      "title": "Procès verbal de dépôt de l'instrument du Royaume des Serbes, Croates, Slovènes",
+      "score": 0.35798,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_717_s1",
+      "title": "Procès verbal de dépôt de l'instrument portugais",
+      "score": 0.355339,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_448_s1",
+      "title": "Procès verbal de dépôt de l'instrument japonais",
+      "score": 0.351901,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_096_s1",
+      "title": "Instrument de ratification belge de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.351193,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_208_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9716,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 208 INSTRUMENT OF ACCESSION WHEREAS the Convention relating to International Exhibitions was done at Paris on 22 November 1928; WHEREAS the Convention was amended and supplemented by the Protocol of 30 November 1972, the Amendments of 24 June 1982 and 31 May 1988; AND WHEREAS Article 3 of the Protocol provides that the Protocol shall remain open for accession by Governments Parties to the 1928 Convention af…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_208_s1.pdf",
+  "source_filename": "19280002_208_s1.pdf",
+  "source_sha256": "6def619f5c9d97d12938c5a4005cdb206a5adc8b537d2d5f70c4b59d757985c2",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SWZ001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 208",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "INSTRUMENT OF ACCESSION\n\nWHEREAS the Convention relating to International Exhibitions was done at Paris on 22 November 1928;\n\nWHEREAS the Convention was amended and supplemented by the\n\nProtocol of 30 November 1972, the Amendments of 24 June 1982 and 31\n\nMay 1988;\n\nAND WHEREAS Article 3 of the Protocol provides that the Protocol shall remain open for accession by Governments Parties to the 1928\n\nConvention after 29 November 1973:\n\nNOW THEREFORE, the Government of the Kingdom of Swaziland, hereby accedes to the 1928 Convention and the 1972 Protocol, including the\n\nAmendments of 24 June 1982 and 31 May 1988, and undertakes faithfully to fulfill and carry out all the provisions therein contained.\n\nWITNESS WHEREOF, I, SENATOR DR._ MATHENDELE_MOS\n\nAMINI, Minister of Foreien Affairs and Trade of the Kingdom of Swazila have signed this Instrument of Accession and caused the Seal of the Minister of Foreign Affairs and Trade of the Kingdom of Swaziland to be hereunto affixed.\n\nDone at MBABANE on the fifth day of November in the year of two thousand and seven.\n\nSister of Foreign Atlair And Trade",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_204_s1",
+      "title": "Instrument de ratification",
+      "score": 0.878709,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_202_s1",
+      "title": "Instrument d'adhésion du Sri Lanka",
+      "score": 0.855492,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.850515,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_206_s1",
+      "title": "Instrument de ratification",
+      "score": 0.848446,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_207_s1",
+      "title": "Réserve sur l'exposition internationale des arts populaires",
+      "score": 0.840916,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_222_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.810488,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_225_s1",
+      "title": "Instrument d'adhésion du Timor oriental",
+      "score": 0.794904,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_230_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.772618,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_70_s1",
+      "title": "Instrument d'adhésion des Fidji",
+      "score": 0.770781,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_218_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.764863,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

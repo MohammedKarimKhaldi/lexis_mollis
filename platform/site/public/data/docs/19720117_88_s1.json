@@ -1,0 +1,128 @@
+{
+  "document_id": "19720117_88_s1",
+  "title": "Pouvoirs de signature de la Roumanie",
+  "year": 1972,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9935,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Le Ministère des Affaires Changères de la Républiquo Secialiste de Troumanie Certifie par les présentes que le Conseil des Ministres de la République Socialiste de Roumanie a donne pleins pouvoirs a M. Constantin FLITAN, ambassadeur extraordinaire et plénipotentiaire de la République Socialiste de Roumanie a Paris, pour signer, sous réserve de ratification, Le Protocole portant modification de la Convention signée a…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_88_s1.pdf",
+  "source_filename": "19720117_88_s1.pdf",
+  "source_sha256": "f2d93b2dc82560e38b90b0c7921bb9e03786c175e5af4b418f85364415ae9fd7",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "ROU001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Le Ministère des Affaires Changères\n\nde la\n\nRépubliquo Secialiste de Troumanie\n\nCertifie par les présentes que le Conseil des Ministres de la\n\nRépublique Socialiste de Roumanie a donne pleins pouvoirs a\n\nM. Constantin FLITAN, ambassadeur extraordinaire et plénipotentiaire de la République Socialiste de Roumanie a Paris, pour signer, sous réserve de ratification,\n\nLe Protocole portant modification de la Convention signée a\n\nParis le 22 novembre 1928 concernant les expositions internationales, fait a Paris, le 30 novembre 1972, avec la réserve suivante:\n\n\"La République Socialiste de Roumanie déclare, en s'ap- puyant sur les dispositions de l'article 34 paragraphe 5 de la Convention concernant les expositions internationales, signée a Paris le 22 novembre 1928, qu'elle ne se considère pas liée par les dispositions des para- graphes 3 et 4 de l'article 34 de la Convention.\n\nLa position de la Republique Socialiste de Roumanie est que les différends entre deux ou plusieurs Parties contractantes touchant",
+      "quality_score": 0.9871,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "- 2-\n\nl'interprétation ou l'application de la Convention qui n'auront pas été réglés par voie de négociations pourraient etre soumis a l'arbitrage seulement avec le consentement de toutes les parties en litige, pour chaque cas particulier\".\n\nBucarest, lel2, octobre 1973.-\n\nAMINISTRE DES AFFAIRES ETRANGERES,\n\nNo. 76",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_86_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et l'article 35",
+      "score": 0.414273,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_42_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.41138,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_27_s1",
+      "title": "Pouvoirs de signature du Protocole",
+      "score": 0.406041,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_11_s1",
+      "title": "Instrument d'adhésion de la République démocratique allemande",
+      "score": 0.399894,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_89_s1",
+      "title": "Instrument de ratification de la Roumanie",
+      "score": 0.396724,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_49_s1",
+      "title": "Pouvoirs de signature de la Roumanie",
+      "score": 0.393022,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_51_s1",
+      "title": "Pouvoirs de signature hongrois",
+      "score": 0.391298,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_39_s1",
+      "title": "Instrument d'adhésion de Cuba",
+      "score": 0.388974,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.384055,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_182_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.381609,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

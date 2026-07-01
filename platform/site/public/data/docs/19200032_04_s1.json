@@ -1,0 +1,64 @@
+{
+  "document_id": "19200032_04_s1",
+  "title": "Pouvoirs de dépôt de la ratification argentine",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.7817,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Agustin 8. Justo Presidente Sela Doación ligertina Autoriza a S% el Señor Embojador Osetcro dina tio y Blenipotenciario dela Repillica ar Satis, Doctor Tomao El Se Beston, para que ermonte yegrtosentación del Sobick no Argentino, proceda al sepisito solas ratificaciones Scla Con vención Entetinacional para la deación del Enstituto Entor. nacional del Srio, firmada en Sotts el ei de junio бe1020, Seacue So con alarti…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_04_s1.pdf",
+  "source_filename": "19200032_04_s1.pdf",
+  "source_sha256": "8c894fdf1ec1b3145f078be2be097c1b7efd2cb94ae13054cbb4ebab6a25ac8f",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "ARG001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Agustin 8. Justo\n\nPresidente Sela Doación ligertina\n\nAutoriza a S% el Señor Embojador Osetcro dina\n\ntio y Blenipotenciario dela Repillica ar Satis, Doctor Tomao\n\nEl Se Beston, para que ermonte yegrtosentación del Sobick no Argentino, proceda al sepisito solas ratificaciones Scla Con vención Entetinacional para la deación del Enstituto Entor.\n\nnacional del Srio, firmada en Sotts el ei de junio бe1020, Seacue\n\nSo con alarticulo 11 dela mionza y onociba el acto cortespondiente.\n\nLa presente Blenipotencia para refendada por elstoi\n\nnistro Ecretario Se Estado en el Deportaranto de Relaciones\n\nExteriores y Culto, Doctor Carlos Docvedra Lamas.\n\nDasar Oneros Olixes, alos 25 días del mes de\n\nOctubte Sel año 1972.\n\nSubir fest",
+      "quality_score": 0.7817,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.394946,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_015_s1",
+      "title": "Pouvoirs argentin",
+      "score": 0.353384,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

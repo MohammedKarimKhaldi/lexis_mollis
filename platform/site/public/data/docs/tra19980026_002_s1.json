@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19980026_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1998,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9555,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Francaise N° 51/98 POUVOIRS Au nom du Gouvernement de la République, NOUS. Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à : Monsieur Jean-Pierre CHEVENEMENT, Ministre de l'Intérieur. pour signer un Accord entre le Gouvernement de la République française et le Gouvernement de la République de Malte relatif à la coopération en matière d'affaires intéricures./ FAIT A PARIS, LE 6 mars…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19980026_002_s1.pdf",
+  "source_filename": "tra19980026_002_s1.pdf",
+  "source_sha256": "0e9dd50a28f4edd1e26bb766ef6ad15aabc6c959e1c82bb00309a986202be2dc",
+  "treaty_id": "TRA19980026",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Francaise\n\nN° 51/98\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS. Ministre des\n\nAffaires Etrangères, donnons POUVOIRS par ces présentes à :\n\nMonsieur Jean-Pierre CHEVENEMENT, Ministre de l'Intérieur.\n\npour signer un Accord entre le Gouvernement de la République française et le Gouvernement de la République de Malte relatif à la coopération en matière d'affaires intéricures./\n\nFAIT A PARIS, LE\n\n6 mars 1998\n\nLe Ministre des Affaires Etrangères",
+      "quality_score": 0.9555,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.684518,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.660595,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990206_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.648493,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.628566,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_325_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.591248,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960259_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.564188,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141368_002",
+      "title": "Pouvoirs français",
+      "score": 0.546357,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880315_325",
+      "title": "Pouvoirs français",
+      "score": 0.536157,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_002a_s1",
+      "title": "Pouvoirs pour l'accord",
+      "score": 0.472075,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070073_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.431376,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

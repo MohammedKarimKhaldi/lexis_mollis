@@ -1,0 +1,224 @@
+{
+  "document_id": "tra19700095_001_s1",
+  "title": "Accord",
+  "year": 1970,
+  "doc_type": "Accord",
+  "languages": [
+    "ca",
+    "en",
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.881,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "PATA E ie ACCORD COOPERATION CULTURELLE LE ENTRE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LEGOUVERNEMENT DE CEYLAN Le Gouvernement de la République Française et le Gouvernement de Ceylan désireux de conclure un accord pour le développement de la Coopération Culturelle entre les deux pays sont convenus des dispositions suivantes Article 1 Les Parties Contractantes renforceront et développeront de toutes les manière…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19700095_001_s1.pdf",
+  "source_filename": "tra19700095_001_s1.pdf",
+  "source_sha256": "ae92f4e4cad1d7c6104913b29aaa334329699a76aca6eae8d08ffd3c0bb1494a",
+  "treaty_id": "TRA19700095",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PATA E\n\nie",
+      "quality_score": 0.5438,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD\n\nCOOPERATION CULTURELLE\n\nLE\n\nENTRE\n\nGOUVERNEMENT DE LA REPUBLIQUE\n\nFRANCAISE\n\nET\n\nLEGOUVERNEMENT DE CEYLAN",
+      "quality_score": 0.9992,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Le Gouvernement de la République Française et le Gouvernement de\n\nCeylan désireux de conclure un accord pour le développement de la Coopération Culturelle entre les deux pays sont convenus des dispositions suivantes\n\nArticle 1\n\nLes Parties Contractantes renforceront et développeront de toutes les manières possibles la Coopération Culturelle entre les deux pays.\n\nArticle 2\n\nLes Parties Contractantes encourageront les échanges d'expériences et de réalisations dans les domaines de la littérature, de l'art, de la science, de la radiodiffusion, de l'éducation, de la santé publique, de l'éducation physique et des sports.\n\nArticle 3\n\nchacune\n\nLes Parties Contractantes favorisent/réciproquement dans leurs\n\nUniversités et autant que possible dans leurs Ecoles Supérieures l'enseignement de la langue, de la littérature et de la civilisation de l'autre pays; cet enseignement sera sanctionné par des examens.\n\nArticle 4\n\nChacune des Parties Contractantes favorise ie fonctionnement sur son territoire d'Etablissements culturels tels que Centres et Associations\n\nCulturels et Centres de Recherches que l'autre Partie désire y établir.\n\nCes Etablissements bénéficient pour leur fonctionnement de toutes les facilités compatibles avec la législation locale.\n\nArticle 5\n\nLes Parties Contractantes sont convenues de s'accorder une assistance mutuelle poui la formation... de leuspersonnelsscientifiques techniqueset culturelsnationaux.",
+      "quality_score": 0.9977,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "Article 6\n\nLes Parties Contractantes encourageront sur une base mutuellement acceptable la Coopération dans le domaine des échanges de films, de diapositives, d'oeuvres d'art et d'antiquités.\n\nArticle ?\n\nLes Parties Contractantes faciliteront sur leur territoire respectif\n\n(ou à but sportif)\n\ndes voyages culturels/individuels ou collectifs de leurs ressortissants.\n\nArticle 8\n\nChacune des Parties Contractantes facilite l'entrée sur son territoire, le séjour et la circulation des ressortissants de l'autre Partie exerçant leurs activités dans le cadre du présent accord, ainsi que l'entrée, le séjour et la circulation de leurs familles.\n\nArticle 9\n\nAfin de mettre en oeuvre les dispositions du présent accord, une\n\nCommission Mixte de Coopération Culturelle sera instituée et se réunira au moins une fois tous les deux ans en France ou à Ceylan. Cette Commis- sion Mixte sera composée de représentants dûment accrédités du Gouver- nement de l'Etat où la réunion se tiendra et de représentants dûment accrédités de mbassade de l'autre Etat. Les propositions formulées par la Commission Mixte seront soumies aux Gouvernements des Parties Contractantes pour appro- bation.\n\nArticle 10_\n\nCet accord entrera en vigueur à la date de sa signature. Il pourra être dénoncé à la requête de l'un ou l'autre Gouvernement au terme d'un préavis de six mois notifié par écrit, et cela à tout moment.\n\nFait à Paris, le 16 septembre 1970, en double exemplaire, en langues ançaise et anglaise, les deux textes faisant également foi.\n\nbur le Gouvernement de la publique Française,\n\nPour le Gouvernement de Ceylan,\n\nMaurice Schumann stre des Affaires Etrangères\n\nSirimavo Bandaranaike\n\nMinistre des Affaires Etrangères",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "AGNE\n\nCIE Et\n\nULTURAL\n\nCOOPERATIUN\n\nBIWE SI\n\nTHE\n\nGOVEKNKEEH\n\nOFNHEFEEE\n\n•C H\n\nKIPUBIIC\n\nAND\n\nGOVERNNENT OL COYLON",
+      "quality_score": 0.8175,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Ihe Government of the French Republic and the Government of ceylon desiring tu conclude an agreement for the promotion of cultural co-operation between the two countries have agreed as follows :\n\nArticle 1\n\nThe Contracting Parties will, in every way possible, stiengthen an develop cultural co-operation between the two countries.\n\nArticle 2\n\nThe Contracting Parties will promote the exchange of expecience and achievements in the fields of literature, art, scienc radio broadcasting, education, public health, physical health and sport.\n\nArticle 3\n\nThe Contracting Parties favour reciprocally in their Universities and as far as possible in their superio: schools, the teaching of the language, literature and the civilisation of the other country: sanctioned by adequate ezams.\n\nArticle 4\n\nPach of the Contracting Parties favouis the functioning on its own\n\nterritory of Cultural Institutions such as Cultural\n\ncentres\n\nand Associations, Research centres which the other\n\nParty will wish to establish.\n\nThese installations\n\nare entitled\n\nto the wider facilities\n\nfor\n\ntheii functioning in the framework of local legislation\n\nin\n\ntheir respective countries.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "AIticle 5\n\nThe Contracting Parties agree to render mutual assistance in training national, technical, scientific and cultural personnel.\n\nArtICLe O\n\nThe contracting Parties will, on a mutualiy acceptable basis.\n\nencourage co-operation in the ezchange of films, slides transparencies, and works of art and antiquities.\n\nArticle 7\n\nThe Contracting Parties will facilitate visits to each other' territory by cultural delegations (including sport) and by citizens of their respective countries;\n\nArticle a\n\nBach of the contracting farties facilitate the entry, the staying and the circulation of those belonging to the other larty, practising their activities within flamevork of the prese it agreement as well as their families.\n\nArticle 9\n\nin order to implement the provisions of this Agreement, a\n\nJoint Commission on Cultural co-operation will be established and will neet at least every two years in France or in deylon. This\n\nJoint Commission willbe composed of duly accredited representatives of the Goveinment of the State where the meeting will be held and of duly accredited representatives of the Embassy of the other state. Froposals formulated by the Joint Commission!\n\nwill be submitted to the Governements of the Contracting Parties:\n\nfoi approval.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "Article 10\n\nThis Agreement shall becone effective from the date on which it is thigned. It may be terminated at any time at the request of one or.. other Government upon six monts notice in writing.\n\nDone at Paris on this sixteen day of September on thousand ninehundred and seventy in the inglish and French Languages both texts being equally authentic.\n\nOn behalf\n\nof the Government\n\nof the French Republic\n\nMilitie.\n\nthen,\n\nOn behalf of the Governme of Ceylon\n\nMaurice Schumann\n\nMinister of Foreign Affairs\n\nSirimavo Bandaranaike\n\nMinister of External\n\nAffairs.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "E a R TaT TaT T\n\naa teei a DA. m wos eUT T Tha aate ma T PN, DTE r i yi et lee at oW ne a Ba T L TTE Doat mi ob tO da oA gian T J5 e e an Pu Seat mpa JT Lr. Aan MSS ma a TTA m re e n S a - E3 Bi tO DLS pentes e h Uul ee a’ P e i LAN\n\nah nRT Tara ee a e e r e aT a a a E Ta E eT e Upa ae ea e Ben a l CAAT TAA E e tar TURUA YIS a e a a E R E E A E A E R a E r\n\nT eaal as M IOAN F eno DORI Jy Walon D ea OUL ee TUe aa eae maa LOR RORTY S g TOUT e e y E LLA IANAO p Tu CE BREL E ape tiy ne Ca TR Re MAR e T IR LT AN TAT TATE PT Ta E A e d A eran i E aT U TA TAD e Ep LUO e pA eta Be T L\n\nLOOTA. Dm žne T eA A e ma e de UD e KaT u DT AN e tey. l Tepig TEL UMI AM hae Aea a Ea ye eL en TaT EaD im pT ye a Mp pei yna anI I t ovalan LAm D at TAT a TR E e E a AAI Ca a T ran T m Ee T PL aTa T i a e o T m a T\n\na NOT wN L hom Wa Ea a Ta, ot e a Jeda r w eta D einn a et T Ngoa o eny Bhet. Tepe Fa EAD e o r M Ire M p W Le ert eea T Dg Jwi Mah e a Ta aa W o de YBN e Lo a ai KOI oi L be a, a Taa O M CAW Te\n\nCen p uD Te SU TEON a E O O E L a a O E CE Tetele o Ln OhT foet. LIDE C Pe g U UTL L UA, a ie oa AR ATT a T Yea ga Ton e PL Tatte WMa T pU R NA BAD EI O e Cep EOD DAL w, MMT .\n\na E E E S E E E a E E A EA aa A TE E ' eT n L n T T E e A e D o A a Delmi oe DO mE e Bet eia T T T g aTe a a A Ta e a P A eTe e ar A L a erae D e e m U aup E a aag e ey GA En hant ADe aO M ra teL r aa A R L A a Taar o AET o\n\n- ana Te DAT ae Tawa e e a a ra E naa p eee er NOR aa UT ELN pae Te a L Nema M T R aah T LT n Th e TE oorp Te Tle B R e L Mo Velte L ee Tia, Na Dee CE Be T De aL e p U te EOW wa a e a a a a E E E a A e\n\nO T a a e S a PE MES TaD a Tea Cm Damn t e a Mgr a B ER aa D'e e Bat Taes T e t TE a an, a T TR L a p T T eal e D a Dear e eden e BaP camee T\n\nPa TEA e a A r aT ea i Den a T p a ap a De a p Ie a t ae TADA DOT R ETET DK Me Aea TT I n E AAD T a A EL Vea aaen e a a a A ea Tien eB T E E TR A TRA E e p AA A O\n\nTe Dago ea E a aea e aT a a E T a Te TLE a e a a L n eT TA TAa eoim a. TOe al O a m STe Dea Ue Hat, T LT PRS Dwm AT eR h Tet e n et L ma Tee L A NN T e e eig A T TB a O aae UT TN T Pa\n\nPPA a aa Aa raa E e N aag a a a E e aa a aa E E E r a a aE a aE a A E e E ER EEE E TE Pemper aT y L lsa D a T e ap Ea Tt P a a hate T w D Tu A T atala D\n\nm",
+      "quality_score": 0.5712,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "pt",
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20213110_001a_s1",
+      "title": "Accord",
+      "score": 0.708202,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19970011_001_s1",
+      "title": "Accord",
+      "score": 0.690186,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19950165_001_s1",
+      "title": "Accord",
+      "score": 0.662404,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_001_s1",
+      "title": "Accord",
+      "score": 0.630621,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_001_s1",
+      "title": "Accord avec un échange de lettres",
+      "score": 0.603191,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_001_s1",
+      "title": "Accord",
+      "score": 0.586152,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19770374_001_s1",
+      "title": "Texte de l'avenant (ensemble 4 annexes)",
+      "score": 0.461857,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19860200_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.457495,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19790195_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.457296,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19740101_001",
+      "title": "Convention (ensemble 1 protocole d'application et 4 annexes)",
+      "score": 0.457264,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

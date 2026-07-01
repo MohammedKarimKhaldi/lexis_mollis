@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19560090_695",
+  "title": "Pouvoirs néerlandais",
+  "year": 1956,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9657,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PLEINS POUVOIRS Le Ministre des Affaires Etrangères du Royaume des Pays-Bas; Eu égard à 1'Autorisation Royale du 6 mars 1950, no. 53; Considérant qu'11 est désirable qu'un traité portant modification au Traité signé à Paris le 18 avril 1951 instituant la Communauté Européenne du Charbon et de 1'Acier soit conclu entre le Gouvernement du Royaume des Pays-Bas et les Gouvernements des autres Hautes Parties au Traité du…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_695.pdf",
+  "source_filename": "tra19560090_695.pdf",
+  "source_sha256": "607594078a594d9b7249cd14cf9ded907ab3e5ba4bb02a1423cf4900440121a0",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "NLD001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PLEINS POUVOIRS\n\nLe Ministre des Affaires Etrangères du Royaume des\n\nPays-Bas;\n\nEu égard à 1'Autorisation Royale du 6 mars 1950, no. 53;\n\nConsidérant qu'11 est désirable qu'un traité portant modification au Traité signé à Paris le 18 avril 1951 instituant la Communauté Européenne du Charbon et de 1'Acier soit conclu entre le Gouvernement du Royaume des Pays-Bas et les\n\nGouvernements des autres Hautes Parties au Traité du 18 avril 1951;\n\nA DÉCIDÉ:\n\nde nommer et de désigner comme plénipotentiaire du Gouvernement du Royaume des Pays-Bas Jonkheer P.D.E. Teixeira de\n\nMattos, Ambassadeur extraordinaire et plénipotentiaire de sa\n\nMajesté la Reine des Pays-Bas à Luxembourg, afin de signer ledit traité conjointement avec tels autres plénipotentiaires, munis également de pleins pouvoirs des Gouvernements des autres\n\n- Hautes -",
+      "quality_score": 0.9573,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Hautes Parties Contractantes, et de certifier par la présente que les dispositions ainsi convenues, sous réserve de ratification par Sa Majesté la Reine, seront reconnues et acceptées intégralement par le\n\nGouvernement du Royaume des Pays-Bas.\n\nDonné et scellé à la Haye, le vingt-cinquième jour du mois d'octobre de l'an mil neuf cent cinquante-six.",
+      "quality_score": 0.9742,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_34_s1",
+      "title": "Instrument de ratification des Pays-Bas",
+      "score": 0.391234,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_165_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.385045,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_14_s1",
+      "title": "Instrument de ratification des Pays-Bas",
+      "score": 0.378307,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_520",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.376716,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_096",
+      "title": "Instrument de ratification belge",
+      "score": 0.375281,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.374003,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_521",
+      "title": "Instrument de ratification luxembourgeois",
+      "score": 0.373976,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.373874,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182491_001_s1",
+      "title": "Déclaration (ensemble liste des signataires)",
+      "score": 0.373393,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_081_s1",
+      "title": "Instrument de ratification des Pays-Bas",
+      "score": 0.372886,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

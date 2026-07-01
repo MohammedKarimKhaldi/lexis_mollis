@@ -1,0 +1,65 @@
+{
+  "document_id": "tra17130003_014_s1",
+  "title": "Article séparé relatif à la cession des Pays-Bas espagnols",
+  "year": 1713,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7978,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "avril hollande Arüde separe signe avrech prix entre la connue, es les Gat genicaiso., j'etaisememi al executi des conortions Shpulee Jaurleo. Cuite pau vapor ala costion den gajp bas lipagnoli conida Maion d'uerceho Devoi ebre musé eu portettion pouv-former la Bavures /. figne entro la prance \" Article Separe? bisini len? auril Comme les Saysbas Apagnols eulas villes euplaces cedeespar par le Roy tres Chresen par le…",
+  "tags": [
+    "century:c18",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra17130003_014_s1.pdf",
+  "source_filename": "tra17130003_014_s1.pdf",
+  "source_sha256": "455d881bfdd5af03007a35d2ca0de38b0e1519768720845f7a693c89aa053385",
+  "treaty_id": "TRA17130003",
+  "treaty_number": "014",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "avril\n\nhollande\n\nArüde separe signe avrech prix entre la connue, es les Gat genicaiso., j'etaisememi al executi des conortions Shpulee\n\nJaurleo. Cuite pau vapor ala costion den gajp bas lipagnoli conida Maion d'uerceho\n\nDevoi ebre musé eu portettion pouv-former la Bavures /.",
+      "quality_score": 0.8103,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "figne entro la prance\n\n\" Article Separe?\n\nbisini len? auril Comme les Saysbas Apagnols eulas villes euplaces cedeespar\n\npar le Roy tres Chresen par le trat conclu conner dhay appartone á la Manons d'Auche) Lesd Pergnaura\n\nCirat generaua rengagems eu prometteus que lad. Manons d'Austuche executera toutes les conditions tripules dans las mites par rapors aux Saybas Spagnol cer villes ciplaces cedes partes lay tris Chrestion apres grade ensauras este minale possessione:\n\nCes article repares aura laimenmo fora que l'en temps que le? maité.\n\nEn foy dequay nous ambassadeur lemaond\"\"en Semp.\"\n\ndichog tres Chiesten cudes lorgneuri bras generaua lercacher dernos arnes a Strechel onze durl de 1 713\n\nHurilly\n\nAbesnager\n\nWillem Bruys\n\nDe brenonos\n\nSingoflinga",
+      "quality_score": 0.7854,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

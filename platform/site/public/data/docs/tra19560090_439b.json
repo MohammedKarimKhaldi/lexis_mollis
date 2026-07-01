@@ -1,0 +1,119 @@
+{
+  "document_id": "tra19560090_439b",
+  "title": "Échange de notes entre l'Ambassade d'Italie en France et le ministère français des Affaires étrangères relatif à la date d'entrée en vigueur de l'accord: lettre française",
+  "year": 1956,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8332,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "13-4-59 OLasonton E nar70 p031TZQUB Sous-Direction des Organteati ong Europóennen Le Mindatoro des Affalres Itrangères présente ses complimente à 1 Ambassade d'Itelde et, en accusant récaption de as note 5074 du 21 Mara 1959, a 1'honneur de portez ce qui aust & sa connaissance. De Gouvornement Prangate a constaté 1'accord unanime des pays signataires poux fixer au 9 Octobre 1950 la date d'entrée en vigueur du traite…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_439b.pdf",
+  "source_filename": "tra19560090_439b.pdf",
+  "source_sha256": "16cea4baa6f2c712993c3d98e9e2221f87b3ce2176d17e596677b731d84d06cf",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "ITA004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "13-4-59\n\nOLasonton E nar70 p031TZQUB\n\nSous-Direction des Organteati ong\n\nEuropóennen\n\nLe Mindatoro des Affalres Itrangères présente\n\nses complimente à 1 Ambassade d'Itelde et, en accusant récaption de as note 5074 du 21 Mara 1959, a 1'honneur de portez ce qui aust & sa connaissance.\n\nDe Gouvornement Prangate a constaté 1'accord\n\nunanime des pays signataires poux fixer au 9 Octobre 1950 la date d'entrée en vigueur du traite signé & luxembourg Lo 27 Octobre 1956 • nodifiant le traité instituent la Commnauté\n\nSuropéenno du Charbon et de 1'Aotez.\n\nEn conséquence, le Gouvernement frangale -\n\ndépositaire du iraité - a prosorit à aos représentante diplonatiques d'inforner Les Gouvernenenta Intéressés de 1' entrée en vigueur du traité à la date précitéo.\n\nLe Mindatère des Affaires Strangores salait cotte\n\noccaad on pour conouvelos & l'Ambassade d'Italie les assurancon de sa haute considóration./•\n\nSigue laloy\n\nAMBASSADS d' TELLE",
+      "quality_score": 0.8332,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560090_439a",
+      "title": "Échange de notes entre l'Ambassade d'Italie en France et le Ministère français des Affaires étrangères relatif à la date d'entrée en vigueur de l'accord: lettre italienne",
+      "score": 0.421604,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.405781,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.398252,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_033_s1",
+      "title": "Note verbale du dépositaire à l'Ambassade d'Allemagne fédérale à Paris relative à la déclaration allemande du 17 décembre 1959",
+      "score": 0.39583,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19520040_103",
+      "title": "Note du dépositaire - signature du Venezuela",
+      "score": 0.385566,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.384337,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.384071,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.381032,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19680033_006_s1",
+      "title": "Note accusant réception de l'approbation française et transmettant l'instrument maltais",
+      "score": 0.380378,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.379348,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

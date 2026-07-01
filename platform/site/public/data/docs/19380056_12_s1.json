@@ -1,0 +1,116 @@
+{
+  "document_id": "19380056_12_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification de la Norvège",
+  "year": 1938,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9816,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES VERBAL DE DEPOT DES RATIFICATIONS DE LA NORVEGE SUR L'ACTE INTERNATIONAL CONCERNANT LA COOPERATION INTELLECTUELLE SIGNE A PARIS LE 3 DECEMBRE I938 CONFORMENENT AUX DISPOSITIONS DE L'ARTICLE 7 de 1'Acte International concernant la coopération intellectuelle signé a Paris le 3 Décembre 1938, le Ministre de Norvège & Paris s'est présenté aujgurd'hui au Ministère des Affaires Etrangères de la République Française…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380056_12_s1.pdf",
+  "source_filename": "19380056_12_s1.pdf",
+  "source_sha256": "1761ee5cc96f4fe122ab80432fad3244e1abe3055d0f8deab3fcd10faa3a065f",
+  "treaty_id": "TRA19380056",
+  "treaty_number": "NOR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES VERBAL DE DEPOT DES RATIFICATIONS DE LA NORVEGE\n\nSUR L'ACTE INTERNATIONAL CONCERNANT LA COOPERATION\n\nINTELLECTUELLE SIGNE A PARIS LE 3 DECEMBRE I938\n\nCONFORMENENT AUX DISPOSITIONS DE L'ARTICLE 7 de 1'Acte\n\nInternational concernant la coopération intellectuelle signé a\n\nParis le 3 Décembre 1938, le Ministre de Norvège & Paris s'est présenté aujgurd'hui au Ministère des Affaires Etrangères de la République Française et a déposé l'instrument des ratifications de Sa Majesté le Roi de Norvège sur cet Acte\n\nInternational .\n\nCet instrument ayant été, après examen, trouvé en bonne et due forme, a été confié au Gouvernement de la République pour rester déposé dans ses archives .\n\nUne expéditi on authentique du présent procès-verbal sera adressée aux Puissances Contractantes .\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procès - verbal qu'ils ont revêtu de leurs cachets .\n\nFait à Paris, 1e\n\n9\n\nJuin I939\n\nl'ue\n\nА. H. Barnke,",
+      "quality_score": 0.9816,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380056_24_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Suisse",
+      "score": 0.841194,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_22_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Roumanie",
+      "score": 0.83385,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_15_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification des Pays-Bas",
+      "score": 0.820404,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_19_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.811666,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_17_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Pologne",
+      "score": 0.805352,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_06_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Egypte",
+      "score": 0.777025,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_10_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Lettonie",
+      "score": 0.775656,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Grèce",
+      "score": 0.671579,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_54_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.653595,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_22_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification espagnol",
+      "score": 0.637075,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_isr003_s1",
+  "title": "Dénonciation de la convention",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9755,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "3x9 ต้ว ภาจรามม AMBASSADE D'ISRAEL NOTE : 068 TWEE DES PRET AS CAIRNIES RATIONS UNIES 26-FEV 1988 ET ORGAHISATIOS IHTERKAMONALES L'Ambassade d'Israël présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de l'infor- mer de ce qui suit : L'Ambassade d'Israël a reçu des instructions des Autorités compétentes en matière de Foires et d'Exposi- tions afin de notifier au Gouvernement de la Républiqu…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_isr003_s1.pdf",
+  "source_filename": "tra19280002_isr003_s1.pdf",
+  "source_sha256": "35a5223bff31fb2f6511f29ba06fbe9c0c027f4eb33f483d1eba169cf39f4bb6",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "ISR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "3x9 ต้ว ภาจรามม\n\nAMBASSADE D'ISRAEL\n\nNOTE : 068\n\nTWEE DES PRET AS CAIRNIES\n\nRATIONS UNIES\n\n26-FEV 1988\n\nET ORGAHISATIOS IHTERKAMONALES\n\nL'Ambassade d'Israël présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de l'infor- mer de ce qui suit :\n\nL'Ambassade d'Israël a reçu des instructions des Autorités compétentes en matière\n\nde Foires et d'Exposi-\n\ntions afin de notifier au Gouvernement de la République Fran- çaise, puissance Dépositaire de la Convention relative aux\n\nExpositions Internationales, qu'au terme de l'article 37 de ladite convention, Israël dénonçait son adhésion au Bureau\n\nInternational des Expositions.\n\n:'Ambassade d'Israël saurait gré au Ministère des lffaires Etrangères de mettre en oeuvre les disposition.\n\nnécessaires pour que cette notification prenne effet dans les délais prévus par ladite convention.\n\nL'Ambassade d'Israël saisit cette occasion pour renouveler au Ministère des Affaires Etrangères, les assuran- ces de sa haute considération. GA.\n\nPARIS, le 18 Février 1988\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nDIRECTION DES NATIONS UNIES ET\n\nORGANISATIONS INTERNATIONALES\n\nRARIS\n\n3. RUE RABELAIS • 75008 PARIS - TEL. 42.56.47.47",
+      "quality_score": 0.9755,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_53_s1",
+      "title": "Note verbale de transmission des pouvoirs de signature",
+      "score": 0.422959,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.399334,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_015_s1",
+      "title": "Note verbale d'acceptation de l'amendement de 1988",
+      "score": 0.396423,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_06_s1",
+      "title": "Note verbale d'adhésion de l'Afrique du Sud",
+      "score": 0.395591,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_924_s1",
+      "title": "Note verbale de dénonciation de la Turquie",
+      "score": 0.39549,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.394381,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_861_s1",
+      "title": "Note verbale d'accompagnement de l'instrument syrien",
+      "score": 0.394095,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_41_s1",
+      "title": "Lettre du Ministre de l'Agriculture de Jordanie de candidature à l'OEPP",
+      "score": 0.393936,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_61_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.393529,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_005b",
+      "title": "Second instrument qatari",
+      "score": 0.39312,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

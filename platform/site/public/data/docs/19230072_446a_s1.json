@@ -1,0 +1,111 @@
+{
+  "document_id": "19230072_446a_s1",
+  "title": "Instrument de ratification japonais du Traité de Paix et de 9 actes signés à Lausanne le 24 juillet 1923",
+  "year": 1923,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "ko",
+    "zh-cn"
+  ],
+  "quality_score": 0.5662,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "以 起 沾 崔 巡 和 和 扫 1 人 信 愉 尖 个 XR J 状 镶 8 雁 4 针 时 、 填 六 轨 2 红 堪 \" 旭 监 x 内 必 对 十 引 坟 时 开本 各 让 认 罗 2 一 3 关 小 民明 刀 识 内 虹 人才 关 奖 区 自负 痢 坟 时代 Xo 时 归 关 欧 尺 流 帘 直 :就 , 改 x3 光 响 / 喝 姑 送 六 | \"Tp-> 娄 REC 流水 入 ~、 家 <' 室 届 浴 坟 相 Ts、 归 吉 入 iN 直人 EE SE 7 ~ 区 馈 时\" 赛 问 VA 必 改过 最 \"如 属 儿 充填 哀 仁 B.",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_446a_s1.pdf",
+  "source_filename": "19230072_446a_s1.pdf",
+  "source_sha256": "4f3197b657c237608637b10c669265d8b7c3fe005a8e9a5da71aa21b73339b10",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "JPN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "以 起 沾 崔 巡 和 和 扫 1 人 信 愉 尖 个 XR\n\nJ 状 镶 8 雁 4 针 时 、 填 六 轨 2 红 堪 \" 旭 监 x 内 必 对 十 引 坟 时 开本 各 让 认 罗 2 一 3 关 小 民明 刀 识 内 虹 人才 关 奖 区 自负 痢 坟 时代 Xo 时 归 关 欧 尺 流 帘 直 :就 , 改 x3 光 响 / 喝 姑 送 六 | \"Tp-> 娄\n\nREC\n\n流水 入 ~、 家 <' 室 届 浴 坟 相 Ts、 归 吉 入 iN 直人\n\nEE SE\n\n7 ~ 区 馈 时\" 赛 问 VA 必 改过 最 \"如 属 儿 充填",
+      "quality_score": 0.4824,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "zh-cn",
+        "ko"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "哀 仁",
+      "quality_score": 0.56,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "B.",
+      "quality_score": 0.6562,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630223_001_s1",
+      "title": "Accord",
+      "score": 0.945018,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17680009_001a_s1",
+      "title": "Convention (ensemble Ratification avec réserves de la comtesse de Forbach, Deux-Ponts, 27/08/1768)",
+      "score": 0.945018,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19910098_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.356347,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_446b_s1",
+      "title": "Instrument de ratification japonais de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.354903,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19830281_010_s1",
+      "title": "Lettre japonaise",
+      "score": 0.351475,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "document_id": "tra17130003_026_s1",
+  "title": "Article séparé (évacuation de la ville de Rheinsberg)",
+  "year": 1713,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8758,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "1713 11 C2e2il Siusse . Ustice fepare? Signe en mene tonie) que de Traité de fait (onde a ertrecht? le 11: aviil 1713 Cute le chay at le cloy de Prune Le Dit astrale) forcessant l'Iracration delasile? de Abinberg... jorit au Traitt depaix le Roy de drune? Litide Separé avil: 1403 Es Imbassareirar Exraordin aires er Resiporentaires des himbiery dar Comate sertance ajano nesieró en consequence de cegui est) sipulé par…",
+  "tags": [
+    "century:c18",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra17130003_026_s1.pdf",
+  "source_filename": "tra17130003_026_s1.pdf",
+  "source_sha256": "cb1640f8fac1be890064d0d913e8374b74a947a7aa60b88f0b77c9937109989a",
+  "treaty_id": "TRA17130003",
+  "treaty_number": "026",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1713 11 C2e2il\n\nSiusse\n\n. Ustice fepare? Signe en mene tonie)\n\nque de Traité de fait (onde a ertrecht?\n\nle 11: aviil 1713 Cute le chay at le cloy de\n\nPrune\n\nLe Dit astrale) forcessant l'Iracration delasile? de Abinberg...",
+      "quality_score": 0.7747,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "jorit au Traitt depaix le Roy de drune?\n\nLitide Separé\n\navil: 1403\n\nEs Imbassareirar Exraordin aires er Resiporentaires\n\ndes himbiery dar Comate sertance ajano nesieró en consequence de cegui est)\n\nsipulé par le fecond anside du raico fignés aujouro huy as nom de fa. Majesté Ves Chrisienne fious quer edis- igneur (Roy de Pristo reirant.\n\nparellement des traripe de la Mille do Abinberg, a rerine marqués par (isit Arriole, les Chimbanidarie\n\nExtrao dinaires em Penaporentianes de Irade, jugeana\n\nparticulière a caufe qué la paix, de l'Empira nefipoina cucore, faires, déclarent par ies presenses auxdiati\n\nAbafadeuer (atra ordnares e Mem parentaires .\n\nse france, que le Roy eur Maiste, anacuera (adide vite der Rhinberg apres la conclerar de le paix?:\n\nprochines de (: Empines, one prejudice sei pocienciono que fa Majerné Gueniennes a conde l'arebenerbé refologne, lequel vera obligés d'entor ta senniens:\n\nmeme tempo enliquidarion.eraciarisfaires fart se > memerforces que fil arnie ménés mas pour mat fil",
+      "quality_score": 0.9259,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "rin lei (radó de paix, es len Rusifications en feronni celes busis Traité. On foy squay le Cembaffadeun\n\nExtraordinaiter er Plariporcuiiaires ous fouserik.\n\nde live mains propres le presein. articles en fais)\n\nd'Aviral miles Sept cerr traze\n\nHuxelly, isesnager\n\nUhleting",
+      "quality_score": 0.9269,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18020010_002",
+      "title": "tra18020010_002",
+      "score": 0.352314,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16970009_001a_s1",
+      "title": "Traité",
+      "score": 0.350685,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

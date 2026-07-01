@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20240055_002_s1",
+  "title": "Pouvoirs",
+  "year": 2024,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9892,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Française N°35/2024 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à : M. Jérôme BONNAFONT, ambassadeur, représentant permanent de la France auprès de l'Office des Nations unies à Genève et des organisations internationales en Suisse En vue de signer la convention de coopération judiciaire internationale entre le…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20240055_002_s1.pdf",
+  "source_filename": "tra20240055_002_s1.pdf",
+  "source_sha256": "ff12803469d8386150b69a26803bf2eefb042eed63f0490300354a11d6895450",
+  "treaty_id": "TRA20240055",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République Française\n\nN°35/2024\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à :\n\nM. Jérôme BONNAFONT, ambassadeur, représentant permanent de la France auprès de l'Office des Nations unies à Genève et des organisations internationales en Suisse\n\nEn vue de signer la convention de coopération judiciaire internationale entre le\n\nGouvernement de la République française et l'Organisation des Nations unies représentée par le\n\nMécanisme d'enquête indépendant pour le Myanmar./.\n\nFAIT À PARIS, le\n\n14 mai 2024",
+      "quality_score": 0.9892,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.396935,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.396414,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240048_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.396034,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230143_002_s1",
+      "title": "Lettre en réponse",
+      "score": 0.392518,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212835_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.392299,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.387584,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230011_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.384906,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.384192,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182432_002",
+      "title": "Pouvoirs français",
+      "score": 0.382706,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.381687,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

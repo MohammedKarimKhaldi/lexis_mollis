@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19760090_004_s1",
+  "title": "Instrument français",
+  "year": 1976,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9729,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": ".... Ripublique Frunguise Le Ministro des Relations Extérieures Paris, le 22 juin 1981 Monsieur le Ministre, Me référant à l'article VIII de l'Accord de Coopération en matière économique, monétaire et fiancière entre le Gouvernement de la République française et le Gouvernement de la République togolaise, signé à Lomé le 23 mars 1976, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitutio…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760090_004_s1.pdf",
+  "source_filename": "tra19760090_004_s1.pdf",
+  "source_sha256": "09b5a19aa8ac202a0f474c7a7d0921e74546b83001c7809aec3406eefde8b35d",
+  "treaty_id": "TRA19760090",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "....\n\nRipublique Frunguise\n\nLe Ministro des Relations Extérieures\n\nParis, le 22 juin\n\n1981\n\nMonsieur le Ministre,\n\nMe référant à l'article VIII de l'Accord de Coopération en matière économique, monétaire et fiancière entre le\n\nGouvernement de la République française et le Gouvernement de la République togolaise, signé à Lomé le 23 mars 1976, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République pour l'entrée en vigueur dudit Accord ont été accomplies.\n\nL'Instrument de Ratification de la République togolaise wetout déjà parvenu, l'Accord entrera en vigueur, conformément à son article VIII, le premier jour du deuxième mois suivant la date à laquelle vous m'aurez accuse réception de la présente lettre.\n\nJe vous serai en conséquence resonaissant de bien vouloir m'informer de cette date. /.\n\nJe vous prie de croire, Monsieur le Ministre, a l'assurance de ma haute considération.\n\nA Son Excellence\n\nPour copie certifiée conforme à l'original\n\nMonsieur Anoni Kuma AKAKPO-AMIANFOris,\n\nle. 22. juin 1981\n\nMinistre des Affaires Etrangères et de la Coopération\n\nL.L.\n\nLOME",
+      "quality_score": 0.9729,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.87847,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.835143,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.829412,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.782164,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.736009,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_006",
+      "title": "tra19760084_006",
+      "score": 0.695006,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.559501,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750189_004_s1",
+      "title": "Instrument français",
+      "score": 0.545535,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.482984,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.465153,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

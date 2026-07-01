@@ -1,0 +1,72 @@
+{
+  "document_id": "tra19620031_100_s1",
+  "title": "Note relative à la recherche du texte original de l'accord",
+  "year": 1962,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9792,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "EB/mtr 19520311 AMBASSADE DE FRANCE BONN, le 18 mars 1988 N° 128 /ARD (SECRET/DEFENSE/ Serge BOIDEVAIX Ambassadeur de France auprès de la République fédérale d'Allemagne à Son Excellence Monsieur Jean-Bernard RAIMOND Ministre des Affaires Etrangères DIRECTION DES ARCHIVES ET DE LA DOCUMENTATION CONSERVATION DES TRAITES a/s : Accord de procédure, pris en application de l'accord du 25 octobre 1960. Par lettre n° 97/AR…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19620031_100_s1.pdf",
+  "source_filename": "tra19620031_100_s1.pdf",
+  "source_sha256": "ae4b6fe0eec79a59a5b448a0781137f9e03a290b5516c6375f0008bb25f3cc37",
+  "treaty_id": "TRA19620031",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "EB/mtr\n\n19520311\n\nAMBASSADE DE FRANCE\n\nBONN, le 18 mars 1988\n\nN° 128 /ARD\n\n(SECRET/DEFENSE/\n\nSerge BOIDEVAIX\n\nAmbassadeur de France auprès de la\n\nRépublique fédérale d'Allemagne\n\nà\n\nSon Excellence Monsieur Jean-Bernard RAIMOND\n\nMinistre des Affaires Etrangères\n\nDIRECTION DES ARCHIVES ET DE LA DOCUMENTATION\n\nCONSERVATION DES TRAITES\n\na/s : Accord de procédure, pris en application de l'accord du 25 octobre 1960.\n\nPar lettre n° 97/ARD du 12 février 1988 le Département a demandé à cette Ambassade de rechercher le texte original d'un accord franco-allemand conclu le 26 février 1962.\n\nJ'ai fait procéder sans succès à des recherches approfondies tant au Centre d'Archives et de Documentation de ce poste, que dans les services de l'Attaché de Défense et à la\n\nMission de Liaison des Forces Française en Allemagne.\n\nSous réserve des recherches complémentaires qui doivent\n\nencore être effectuées dans les services du Cormandement en Chef des Forces Françaises\n\nen Allemagne installés à Baden Baden, il\n\nsemble donc bien\n\nque l'exemplaire original français de ce texte ne\n\nse trouve pas en\n\nRFA.\n\n.../...",
+      "quality_score": 0.9835,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "- 2-\n\nLes seuls documents en notre possession sont des copies soit de l'accord lui-même, soit de correspondances qui y sont liées.\n\nJe les communique ci-joint à la Direction des Archives et de la Documentation\n\nà toutes fins utiles./.\n\nF. Browne",
+      "quality_score": 0.975,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19910044_001",
+      "title": "Lettre française",
+      "score": 0.394309,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_100_s1",
+      "title": "Lettre de transmission de l'accusé de réception français de l'instrument émirati notifiant la non-réception de l'accusé de réception émirati de l'instrument français",
+      "score": 0.353097,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

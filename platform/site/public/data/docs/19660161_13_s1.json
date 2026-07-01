@@ -1,0 +1,47 @@
+{
+  "document_id": "19660161_13_s1",
+  "title": "Pouvoirs de signature",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.8478,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "C L 4 22 192 -<=251107 PARIS FE STadiation de rousS3 17 INSK \"P149 02 27 1 45 USSRGOVT = J AI IFONNEUR DE VOUS FAIRE SAVOIR QUE LE GOUVERNE IENT DE IA EPUBLIQUE SOVIETIQUE SOCIALISTE DE BIEIOUSSIE A DONNE LES POUVOIRS TAU E RESENTANT DE LAISS DE BIELORUSSIE AUPRES DE TUNESCO L JT UD LAVISEV DE SIGNE LE PROT COL SU 'LE CLANGEMENT DE LATTICIE 1. DE LA CONVENTION DU 22 NOVEIBRE 102 SU LES EXPOSITIONS CUTENATIONALES LES…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_13_s1.pdf",
+  "source_filename": "19660161_13_s1.pdf",
+  "source_sha256": "2ac968af53c1c23316599783a291d1da6ac079182c7cfa027f75088bd8c6b8c8",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "BLR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "C L\n\n4 22 192\n\n-<=251107\n\nPARIS FE\n\nSTadiation de rousS3\n\n17\n\nINSK \"P149 02 27 1 45 USSRGOVT =\n\nJ AI IFONNEUR DE VOUS FAIRE SAVOIR QUE LE GOUVERNE IENT DE IA\n\nEPUBLIQUE SOVIETIQUE SOCIALISTE DE BIEIOUSSIE A DONNE LES POUVOIRS\n\nTAU E RESENTANT DE LAISS\n\nDE BIELORUSSIE AUPRES DE TUNESCO L\n\nJT UD LAVISEV DE SIGNE LE PROT COL SU 'LE CLANGEMENT DE LATTICIE\n\n1.\n\nDE LA CONVENTION DU 22 NOVEIBRE 102 SU LES EXPOSITIONS\n\nCUTENATIONALES LES POUVOLES ECRITS SERONT ENVOYES PLUS TARDER\n\nJEU INOVITCH MINISTRE DES AFFAIRES IT ANGERES DE LARSS DE BIELOPUSSIE\n\nNº 700 dis. - J. S. 521677, =",
+      "quality_score": 0.8478,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

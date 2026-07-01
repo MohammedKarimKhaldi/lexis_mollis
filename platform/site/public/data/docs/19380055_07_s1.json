@@ -1,0 +1,118 @@
+{
+  "document_id": "19380055_07_s1",
+  "title": "Note verbale d'adhésion de l'Afrique du Sud",
+  "year": 1938,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9395,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "12 D/3/4. LÉGATION DE L'UNION SUD-AFRICAINE PARIS 51, Avenue Hoche, le 31 Juillet, 1939. Monsieur le Ministre, Conformément aux dispositions de l'Article 4 de la Convention portant modification a la Convention Sanitaire Internationale du 21 Juin 1926, signée à Paris le 31 Octobre 1938, J'ai l'honneur de notifier à Votre Excellence, par direction du Gouverne- ment de Sa Majesté dans l'Union de l'Afrique du Sud, l'acc…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380055_07_s1.pdf",
+  "source_filename": "19380055_07_s1.pdf",
+  "source_sha256": "94ca79e65492e20ad3cea8e7195b1cafb798080a27b6af07b49ffcac385aa081",
+  "treaty_id": "TRA19380055",
+  "treaty_number": "015",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "12 D/3/4.\n\nLÉGATION\n\nDE L'UNION SUD-AFRICAINE\n\nPARIS\n\n51, Avenue Hoche, le 31 Juillet, 1939.\n\nMonsieur le Ministre,\n\nConformément aux dispositions de l'Article 4 de la Convention portant modification a la Convention Sanitaire Internationale du 21 Juin 1926, signée à Paris le 31 Octobre 1938, J'ai l'honneur de notifier à Votre Excellence, par direction du Gouverne- ment de Sa Majesté dans l'Union de l'Afrique du Sud, l'accession de l'Union de l'Afrique du Sud audit Acte.\n\nde saisis cette occasion, Monsieur le Ministre, pour renouveler à Votre Excellence les assurances ae ma plus nauce consideratlon•\n\nSi Laleier)\n\nA Son Excellence\n\nMonsteur Georges BONTEE / Etrangeres,\n\nMinistre des Affaires\n\nQuai d'Orsay,\n\nPARIS.",
+      "quality_score": 0.9395,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.38312,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19380055_13_s1",
+      "title": "Notification d'adhésion de la Belgique",
+      "score": 0.382989,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_050_s1",
+      "title": "Instrument d'acceptation des Etats-Unis",
+      "score": 0.382203,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_067_s1",
+      "title": "Notification de l'adhésion de la Jordanie aux Etats-membres",
+      "score": 0.379669,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19380028_05_s1",
+      "title": "Note verbale ajoutant l'Australie à l'accession au traité",
+      "score": 0.376649,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_30_s1",
+      "title": "Lettre constituant instrument d'adhésion",
+      "score": 0.374544,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.37182,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.371559,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_150_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.371248,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.370743,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

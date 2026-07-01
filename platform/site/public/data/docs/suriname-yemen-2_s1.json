@@ -1,0 +1,116 @@
+{
+  "document_id": "suriname-yemen-2_s1",
+  "title": "Notification au BIE de l'adhésion du Suriname",
+  "year": 1928,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9904,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "CS/bs MINISTÈRE DES AFFAIRES ETRANGÈRES DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES Sous-Direction des Affaires Economiques NUOVE/Nº600 RÉPUBLIQUE FRANÇAISE PARIS, le 2 juin 1997 Monsieur le Secrétaire Général, J'ai l'honneur de vous faire savoir que le gouvernement de la République du Surinam, par note n° 3726 du 16 mai 1997 a décidé d'adhérer à la Convention sur les Expositions Internationales…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/suriname-yemen-2_s1.pdf",
+  "source_filename": "suriname-yemen-2_s1.pdf",
+  "source_sha256": "e52b349967cfee115131c5a3f58d19f33734df718bbf8c2a93dcbe2a981ec340",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SUR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CS/bs\n\nMINISTÈRE\n\nDES\n\nAFFAIRES ETRANGÈRES\n\nDIRECTION DES NATIONS UNIES\n\nET DES ORGANISATIONS\n\nINTERNATIONALES\n\nSous-Direction des Affaires Economiques\n\nNUOVE/Nº600\n\nRÉPUBLIQUE FRANÇAISE\n\nPARIS, le 2 juin 1997\n\nMonsieur le Secrétaire Général,\n\nJ'ai l'honneur de vous faire savoir que le gouvernement de la République du Surinam, par note n° 3726 du 16 mai 1997 a décidé d'adhérer à la Convention sur les Expositions Internationales signée à Paris le 22 novembre 1928, telle que modifiée par le Protocole du 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988.\n\nVous voudrez bien trouver ci-joint copie de la note sus-mentionnée.\n\nNous vous remercions de bien vouloir en informer les Etats membres du\n\nBureau des Expositions, dont le nombre s'élève désormais à 59.\n\nJe vous prie d'agréer, Monsieur le Secrétaire Général, l'expression de ma haute considération.\n\nMichel VANDEPOORTER\n\nMonsieur Vicente GONZALEZ LOSCERTALES\n\nSecrétaire Général du Bureau International des Expositions 56 avenue Victor-Hugo 75783 PARIS CEDEX 16",
+      "quality_score": 0.9904,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "nv_togo_s1",
+      "title": "Notification au BIE de l'adhésion du Togo",
+      "score": 0.839838,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.835673,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "seychelles_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion des Seychelles",
+      "score": 0.835192,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_vct002_s1",
+      "title": "Notification au BIE de l'adhésion de Saint-Vincent-et-les-Grenadines",
+      "score": 0.820647,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.433387,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.426982,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_86_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et l'article 35",
+      "score": 0.419011,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_49_s1",
+      "title": "Instrument d'adhésion de la Grèce au protocole",
+      "score": 0.416222,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.413822,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_65_s1",
+      "title": "Instrument de ratification de Monaco",
+      "score": 0.411589,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "19920190_030_s1",
+  "title": "Pouvoirs",
+  "year": 1992,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DER PRASIDENT DER BUNDESREPUBLIK DEUTSCHLAND VOLLMACHT Der Botschafter der Bundesrepublik Deutschland in Paris, Herr Dr. Jürgen Sudhoff. und der Bundesminister für Umwelt, Naturschutz und Reaktor- sicherheit, Herr Prof. Dr. Klaus Töpfer, werden hiermit bevollmächtigt, das Übereinkommen über den Schutz der Meeresumwelt des Nordostatlantiks für die Bundesrepublik Deutschland gemeinsam oder einzeln zu unterzeichnen. Bo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19920190_030_s1.pdf",
+  "source_filename": "19920190_030_s1.pdf",
+  "source_sha256": "e0fed47b686587563c1e83044520644a4b3cce3cbaf64c2eae042a7526af5884",
+  "treaty_id": "TRA19920190",
+  "treaty_number": "DEU001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DER PRASIDENT\n\nDER BUNDESREPUBLIK DEUTSCHLAND\n\nVOLLMACHT\n\nDer Botschafter der Bundesrepublik Deutschland in Paris,\n\nHerr Dr. Jürgen Sudhoff.\n\nund der Bundesminister für Umwelt, Naturschutz und Reaktor- sicherheit,\n\nHerr Prof. Dr. Klaus\n\nTöpfer,\n\nwerden hiermit bevollmächtigt, das\n\nÜbereinkommen über den Schutz der Meeresumwelt des Nordostatlantiks für die Bundesrepublik Deutschland gemeinsam oder einzeln zu unterzeichnen.\n\nBonn, den\n\n2. SEPTEMBER 1992\n\nDer Bundespräsident\n\nDer\n\nBundesminister des Auswärtigen",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19750012_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.402201,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.396583,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_02_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.377128,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690071_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.374355,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_255_s1",
+      "title": "Pouvoirs",
+      "score": 0.358586,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.356565,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.356047,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

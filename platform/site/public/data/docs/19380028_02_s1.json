@@ -1,0 +1,60 @@
+{
+  "document_id": "19380028_02_s1",
+  "title": "Pouvoirs espagnols",
+  "year": 1938,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9547,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Presisente 8e la Riepiblica Copaniola Don Luis Araquistain, Embajador de España en París, venio relativo a las reglas adoptadas en materia de salvamento de tor- pedos automóviles, firmado en Paris el 12 de Junio de 1.934, conferiros pleno poder para que así lo efectueis con los Plenipoten- ciarios nombrados por las otras Altas Partes contratantes, Y para que 1o podais acreditar y llevar a término, mando expe- dir la…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380028_02_s1.pdf",
+  "source_filename": "19380028_02_s1.pdf",
+  "source_sha256": "f59733aa1b0e7839f4ebb464538a1cddb62ebed309c4aadfd5b849979e270104",
+  "treaty_id": "TRA19380028",
+  "treaty_number": "ESP001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Presisente 8e la Riepiblica Copaniola\n\nDon Luis Araquistain, Embajador de España en París,\n\nvenio relativo a las reglas adoptadas en materia de salvamento de tor- pedos automóviles, firmado en Paris el 12 de Junio de 1.934, conferiros pleno poder para que así lo efectueis con los Plenipoten- ciarios nombrados por las otras Altas Partes contratantes,\n\nY para que 1o podais acreditar y llevar a término, mando expe- dir la presente Plenipotencia que firmo en Valencia a veibtibueve de noviembre de mil novecientos treinta y seis.\n\nManual ta\n\nEl Ministro de Estado,\n\nJulio Aevarer del bayo",
+      "quality_score": 0.9547,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.356418,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.354126,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

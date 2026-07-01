@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19800233_004_s1",
+  "title": "Instrument chypriote AVEC tampon arrivé le 30 oct 19980 de l'ambassade de France",
+  "year": 1980,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLIC OF CYPRUS MINISTRY OF FOREIGN AFFAIRS No.485/794 VERBALE The Ministry of Foreign Affairs of the Republic of Cyprus presents its compliments to the Embassy of France and has the honour to refer to the Frotocole Financier signed in Paris on the 29th August 1980 and to inform the Embassy that all the necessary requirements for the entry into force of the said Protocole have been completed by the Government of…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19800233_004_s1.pdf",
+  "source_filename": "tra19800233_004_s1.pdf",
+  "source_sha256": "d6ba7fc361ec80b014fcd9d082ddcaf44d903d48b80f38119eed2798152cbcf9",
+  "treaty_id": "TRA19800233",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLIC\n\nOF CYPRUS\n\nMINISTRY OF FOREIGN AFFAIRS\n\nNo.485/794\n\nVERBALE\n\nThe Ministry of Foreign Affairs of the Republic of\n\nCyprus presents its compliments to the Embassy of France and has the honour to refer to the Frotocole Financier signed in Paris on the 29th August 1980 and to inform the\n\nEmbassy that all the necessary requirements for the entry into force of the said Protocole have been completed by the\n\nGovernment of Cyprus.\n\nThe Ministry of Foreign Affairs of the Republic of\n\nCyprus avails itself of this opportunits to renew to the\n\nEmbasay of France the assurances of Ita highest consideration.\n\nNicosia, 27 October 1980\n\nThe Embassy of France\n\nNicosie.\n\n^!!. vE 1030-10-801 to 75\n\nK 13147",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19840174_005_s1",
+      "title": "Instrument chypriote",
+      "score": 0.464226,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_005_s1",
+      "title": "Instrument chypriote (avec tampon arrivée le 16 août 1982 à l'ambassade de France)",
+      "score": 0.442479,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_51_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Macédoine du Nord",
+      "score": 0.424697,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français",
+      "score": 0.424051,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.417436,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français : note verbale et lettre (avec, sur la note verbale, tampon arrivée le 4 février 1983 à l'ambassade de France)",
+      "score": 0.416606,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.40496,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.398273,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_006_s1",
+      "title": "Note accusant réception de l'approbation française et transmettant l'instrument maltais",
+      "score": 0.398085,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.395823,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_22_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification espagnol",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.935,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "eS PBOCES- VERGAL de depot des RATIFICATIONS de L'ESPAGNE sur L'Arranze nent international portant oreation % Paris d'un office international du Vin signe à Paris le 29 Novembre 1924, ‘ En exéoution de l'article 9 de l'arrangenent inter- national portant création à Paris d'un office international du Vin signé à Paris le 29 Novenbre 1924 entre la France , l'Autriche , le Chili l'Espagne , la Grèce, la Hongrie, l'Ital…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_22_s1.pdf",
+  "source_filename": "19240003_22_s1.pdf",
+  "source_sha256": "f54bd079a352ce73e1b9359633ca0effdf1976bf718a8920db95222cca057f62",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "ESP003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "eS\n\nPBOCES- VERGAL de depot des RATIFICATIONS de L'ESPAGNE sur L'Arranze nent international portant oreation % Paris d'un office international du Vin signe à Paris le 29\n\nNovembre 1924, ‘ En exéoution de l'article 9 de l'arrangenent inter- national portant création à Paris d'un office international du Vin signé à Paris le 29 Novenbre 1924 entre la France , l'Autriche , le Chili l'Espagne , la Grèce, la Hongrie, l'Italle , le Luxernbqur le Mexique et le Portugal , l'Ambassadeur d'Espagne à Paris s'est présenté aujourd'hui au Ministère des Affaires Etrange res de la Républigue française et a deposé l'instrument des ra- tifications de S.M. ls nol d'Espagne sur cet aote international\n\nCet instrument ayant été ,apres examen trouvé en bonne et due forme, a éte confié au Gouvernement de la Republique pour rester deposé dans ses archives.\n\nUne expedition authentique du y,resent proces = verbal sera adressée aux Puissances contractantes.\n\nEN FOI de QUOI, les soussiznes ont dresse le\n\nprésent proces -verbal qu'ils ont rev8su de leurs oacnets,\n\nFait à Paris le 77 pA 4744.",
+      "quality_score": 0.935,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_54_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.77635,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Grèce",
+      "score": 0.770541,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_38_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification italien",
+      "score": 0.717992,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_24_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Suisse",
+      "score": 0.669189,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_15_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification des Pays-Bas",
+      "score": 0.65346,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_17_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Pologne",
+      "score": 0.643848,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_12_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Norvège",
+      "score": 0.637075,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_210",
+      "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion comorienne",
+      "score": 0.621834,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_06_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Egypte",
+      "score": 0.5798,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_07_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification australien",
+      "score": 0.539839,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

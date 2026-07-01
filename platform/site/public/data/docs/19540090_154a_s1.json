@@ -1,0 +1,129 @@
+{
+  "document_id": "19540090_154a_s1",
+  "title": "Retrait de la réserve bulgare",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "bg",
+    "fr"
+  ],
+  "quality_score": 0.9523,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE MINISTRE DES AFFAIRES ETRANGERES Sofia, le 19 avril 1994 Monsieur le Ministre, J'ai l'honneur de déclarer au nom du Gouvernement de la République de Bulgarie que par Loi du 12 janvier 1994 l'Assemblée nationale a retiré la déclaration et la réserve sous-mentionnées concernant la juridiction obligatoire de la Cour internationale de Justice, formulées par la République de Bulgarie et relatives aux Traités internati…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_154a_s1.pdf",
+  "source_filename": "19540090_154a_s1.pdf",
+  "source_sha256": "419dc6947c5fbd3c46ed8386be49346f8bbb0f9e2b5c9446c63d078953a1d10f",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "BGR005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE MINISTRE DES AFFAIRES ETRANGERES\n\nSofia, le 19 avril 1994\n\nMonsieur le Ministre,\n\nJ'ai l'honneur de déclarer au nom du Gouvernement de la République de\n\nBulgarie que par Loi du 12 janvier 1994 l'Assemblée nationale a retiré la déclaration et la réserve sous-mentionnées concernant la juridiction obligatoire de la Cour internationale de Justice, formulées par la République de Bulgarie et relatives aux Traités internationaux pour lesquels le Gouvernement de la\n\nRépublique Française exerce les fonctions de dépositaire:\n\n1. Déclaration relative à l'article 6 de la Convention internationale pour l'unification des méthodes d'analyse et d'appréciation des vins, ouverte à la signature à Paris le 13 octobre 1954.\n\n2. Réserve relative à l'article 33 de la Convention internationale s ubstituant à la Convention du 21 juin 1920, modifiée le 31 mai 1937, relative :\n\n'Institut international du froid, signée à Paris le 1 décembre 1954.\n\nVeuillez recevoir, Monsieur le Ministre, l'assurance de mes sentiments distingués.\n\nLE MINISTRE DES AFFAIRES ETRANGERES\n\nDE LA REPUBLIQUE DE BULGARIE:\n\nS/ STANISLAV DASKALOV\n\nSON EXCELLENCE MONSIEUR ALAIN JUPPE\n\nMINISTRE DES AFFAIRES ETRANGERES\n\nDE LA REPUBLIQUE FRANCAISE\n\nPARIS\n\nPOPULARD\n\nPour traduction conforme:",
+      "quality_score": 0.9912,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "МИНИСТЪР НА ВЪНШНИТЕ РАБОТИ\n\nСофия, 19 април 1994\n\nУВАЖАЕМИ Г-Н МИНИСТЪР,\n\nИмам честта да заявя от името на Правителството на Република\n\nБългария, че със Закон от 12 януари 1994 г. Народното събрание оттегли следните декларация и резерва относно задъккителната юрисдикция на\n\nМеждународния съд, направени от Република България по международни договори, на Които Правителството на Френската република е депозитар:\n\n1. Декларация по член 6 от Международната Конбенция за унифициране методите за анализ и оценка на Вината, открита за посписване В Париж на 13 октомври 1954 г.\n\n2. Резерва по член 33 от Конвенцията 6ъ6 Връзка с Международния институт по хладилно дело, заменяща конвенцията от 21 юни 1920 г., изменена на 31 май 1937 г., подписана 6 Париж на 1 декември 1954 г.\n\nМоля приемете, г-н Министър, уберенията 6 отличната ми към Вас почит.\n\nСТАНИСЛАВ ДАСКАЛОВ\n\nдО\n\nН.Пр. Г-н АЛЕН ЖЮПЕ\n\nМИНИСТЪР НА ВЪНШНИТЕ РАБОТИ\n\nНА ФРЕНСКАТА РЕПУБЛИКА\n\nПАРИЖ .",
+      "quality_score": 0.9133,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "bg"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_029_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Bulgarie",
+      "score": 0.96343,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_154b_s1",
+      "title": "Note verbale type du service traitant à destination des chefs de Postes relative au retrait de la réserve bulgare",
+      "score": 0.421702,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_043_s1",
+      "title": "Instrument de Cuba",
+      "score": 0.405318,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.398931,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_031_s1",
+      "title": "Notification aux Etats-membres de l'adhésion du Cameroun",
+      "score": 0.390006,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_39_s1",
+      "title": "Instrument d'adhésion de Cuba",
+      "score": 0.389375,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_397_s1",
+      "title": "Réserve hongroise",
+      "score": 0.388667,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_07_s1",
+      "title": "Note d'information aux Etats-membres de la succession de l'Algérie",
+      "score": 0.386713,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_070_s1",
+      "title": "Lettre de retrait de la Mauritanie adressée à l'Institut du Froid",
+      "score": 0.385237,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_004_s1",
+      "title": "Instrument français",
+      "score": 0.384885,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

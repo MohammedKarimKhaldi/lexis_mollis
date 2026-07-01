@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_226_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9716,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 226 MINISTER FOR FOREIGN AFFAIRS NUKU'ALOFA KINGDOM OF TONGA INSTRUMENT OF ACCESSION WHEREAS the Convention relating to International Exhibitions was done at Paris on 22 November 1928, WHEREAS the Convention was amended and supplemented by the Protocols of 10 May 1948, 16 November 1966, 30 November 1972, the Amendments of 24 June 1982 and 31 May 1988, AND WHEREAS Article 3 of the 1972 Protocol provides to t…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_226_s1.pdf",
+  "source_filename": "19280002_226_s1.pdf",
+  "source_sha256": "64b3a0f87d0745ee333cde0ed7fcce8fd13a34ddfeea9ead9a2a2c6670bb8294",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "TON001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 226",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "MINISTER FOR FOREIGN AFFAIRS\n\nNUKU'ALOFA\n\nKINGDOM OF TONGA\n\nINSTRUMENT OF ACCESSION\n\nWHEREAS the Convention relating to International Exhibitions was done at Paris on 22 November 1928,\n\nWHEREAS the Convention was amended and supplemented by the Protocols of 10\n\nMay 1948, 16 November 1966, 30 November 1972, the Amendments of 24 June 1982 and 31 May 1988,\n\nAND WHEREAS Article 3 of the 1972 Protocol provides to the effect that the\n\nProtocol shall remain open for accession by Government Parties to the 1928\n\nConvention after 29 November 1973,\n\nNOW THEREFORE, the Government of the Kingdom of Tonga hereby accedes to the 1928 Convention and the 1972 Protocol, including the Amendments of 24\n\nJune 1982 and 31 May 1988, and undertakes faithfully to fulfil and carry out all the provisions therein contained,\n\nIN WITNESS WHEREOF, I, Sonatane Tu'akinamolahi Taumoepeau Tupou, Minister for Foreign Affairs, have hereunto set my hand and affixed my seal.\n\nDone at Nuku'alofa on this Fifteenth Day of November, Two Thousand and Seven.\n\not\n\nMinister for Foreign Affairs\n\nTEL: 23-600\n\nFAX: 23-360",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_225_s1",
+      "title": "Instrument d'adhésion du Timor oriental",
+      "score": 0.860801,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.856634,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_220_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.855487,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_222_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.837029,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_142_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.774615,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_216_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.738132,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_70_s1",
+      "title": "Instrument d'adhésion des Fidji",
+      "score": 0.73699,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.736016,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_236_s1",
+      "title": "Instrument d'adhésion du Vanuatu",
+      "score": 0.733694,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_232_s1",
+      "title": "Pouvoirs",
+      "score": 0.726844,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

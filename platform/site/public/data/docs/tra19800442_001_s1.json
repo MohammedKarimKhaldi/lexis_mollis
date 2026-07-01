@@ -1,0 +1,131 @@
+{
+  "document_id": "tra19800442_001_s1",
+  "title": "Convention d'assistance budgétaire",
+  "year": 1980,
+  "doc_type": "Convention",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8412,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "CONVENTION D'ASSISTANCE BUDGETAIRE conclue entre Le Gourernement de la République Française et Le Gouvernomoant de la République Fédérale Islamique des Comores GONVEITION D'ASSISTANCE BUDGEIAIRE Le Gouveraaront de la République Frangalao, roprésostó per Honsieur Robert GALLBY, Ministro de la Coopération d'uno part, Lo Gourozzement de la Républiquo Tódéralo Inlaniquo des Conoros, représenté par son excellence Sald Al…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Convention",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19800442_001_s1.pdf",
+  "source_filename": "tra19800442_001_s1.pdf",
+  "source_sha256": "ff560effa57c8cdee88f23768700bbfe827d3c779c084d01dd049ef8d01cddee",
+  "treaty_id": "TRA19800442",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CONVENTION D'ASSISTANCE BUDGETAIRE\n\nconclue entre\n\nLe Gourernement de la République Française\n\net\n\nLe Gouvernomoant de la République Fédérale Islamique des Comores",
+      "quality_score": 0.8569,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "GONVEITION D'ASSISTANCE BUDGEIAIRE\n\nLe Gouveraaront de la République Frangalao, roprésostó per Honsieur\n\nRobert GALLBY, Ministro de la Coopération\n\nd'uno part,\n\nLo Gourozzement de la Républiquo Tódéralo Inlaniquo des Conoros,\n\nreprésenté par\n\nson excellence Sald Ali Ed-din KEMAL, Ambassadeur de la République\n\nFédérale Islamique des Conores en France\n\nd'autre pert,\n\nSont conrenus de co qui suit ;\n\nARRICTE 10E. -\n\nLo Gorternement de la République Frençaise apporte on 1980, ai titro de 1979, à la République Pédérale Islamique dos Comoros, à la\n\ndemando de cette dornidro,\n\nano dide budgétaire sous la forne d'une sabrention d'us montant de 300.000 Pranos (trois cent allle ITAR0B).\n\nARTICLE 2. -\n\nLa aubrention visée à l'artiole 1 est destinée à pernettro à l'Ambassade de la République Yédóralo Islanique des Conores en Trance\n\nde faire faco à ses dépenses de loyer.\n\nta subrention sera versée directenent au conpte bazcairo de\n\n1'dabassado de la République Módérale Islanique des Conoros.\n\nARCIC7B 1•-\n\nTouto difficulté deas l'éréoution de la présento conrention\n\nBera soumiso à l'orenon de 1'Ambesardour de la République lódóralo\n\nIslanique des Conores en Franco et du Miristre do la Coopération de la\n\nRépublique Frangalse.\n\non toute de, 1 2H fun 1480\n\nen deable origiaal\n\nPour le Gozrerzonent de\n\nMaRin.\n\nPour le ConTerzoment de la Répablique Françalao,\n\nRobert GALLEY",
+      "quality_score": 0.8255,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19790372_001_s1",
+      "title": "Convention d'aide budgétaire",
+      "score": 0.845068,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19790373_001_s1",
+      "title": "Convention",
+      "score": 0.821644,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA19831903_001_s1",
+      "title": "Convention",
+      "score": 0.780338,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880131_001_s1",
+      "title": "Accord",
+      "score": 0.638458,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910276_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.615893,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800441_001_s1",
+      "title": "Convention d'assistance financière conclue entre le Gouvernement de la République française et le Gouvernement de la République fédérale islamique des Comores",
+      "score": 0.424933,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19800464_001_s1",
+      "title": "Avenant à la convention d'aide budgétaire du 26 juillet 1979",
+      "score": 0.418362,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19800443_001_s1",
+      "title": "Convention d'aide budgétaire",
+      "score": 0.413687,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19850033_001_s1",
+      "title": "Accord relatif à l'octroi d'une aide alimentaire",
+      "score": 0.409073,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19950119_001_s1",
+      "title": "Accord",
+      "score": 0.396072,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

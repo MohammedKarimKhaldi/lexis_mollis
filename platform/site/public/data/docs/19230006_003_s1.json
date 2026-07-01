@@ -1,0 +1,109 @@
+{
+  "document_id": "19230006_003_s1",
+  "title": "Déclaration d'accession",
+  "year": 1923,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE SOUSSIGNÉ, après avoir exhibé aux Représentants des Puissances signataires du Traité de Paix en date de ce jour ses pleins pouvoirs trouvés en bonne et due forme, déclare par les présentes accéder au nom du Portugal aux dispositions de la Section I de la Partie II (Clauses financières) et aux dispositions de la Partie III (Clauses écono- miques) dudit Traité de Paix. Cette accession qui rétablira l'état de paix e…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230006_003_s1.pdf",
+  "source_filename": "19230006_003_s1.pdf",
+  "source_sha256": "f20189c42b987e69b17fcc16b18846a93b331b8367289f52f769715b970c7fea",
+  "treaty_id": "TRA19230006",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE SOUSSIGNÉ, après avoir exhibé aux Représentants des Puissances signataires du Traité de Paix en date de ce jour ses pleins pouvoirs trouvés en bonne et due forme, déclare par les présentes accéder au nom du Portugal aux dispositions de la Section I de la Partie II (Clauses financières) et aux dispositions de la Partie III (Clauses écono- miques) dudit Traité de Paix.\n\nCette accession qui rétablira l'état de paix et les relations officielles, prendra effet au moment, dans les termes et dans les conditions prévus dans le Protocole en date de ce jour par lequel les Puissances signa- taires dudit Traité de Paix ont admis le Portugal à procéder à la présente accession.\n\nFAIT à Lausanne, le 24 juillet 1g23.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230006_002_s1",
+      "title": "Déclaration d'accession",
+      "score": 0.854891,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19230006_001_s1",
+      "title": "Protocole",
+      "score": 0.415883,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.372646,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230073_002_s1",
+      "title": "Protocole relatif à la libération par la Turquie, à la date de la signature du Traité de Paix, des hommes valides visés à l'Article 4 de la convention relative à l'échange des populations grecques et turques",
+      "score": 0.359774,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230002_002_s1",
+      "title": "Copie non signée du Convention",
+      "score": 0.358353,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_436c_s1",
+      "title": "Instrument de ratification italien de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.354953,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190039_001_s1",
+      "title": "Convention (ensemble protocole)",
+      "score": 0.353702,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230002_001_s1",
+      "title": "Convention",
+      "score": 0.35163,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_001_s1",
+      "title": "Traité",
+      "score": 0.35104,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

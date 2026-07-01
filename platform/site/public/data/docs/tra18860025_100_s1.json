@@ -1,0 +1,55 @@
+{
+  "document_id": "tra18860025_100_s1",
+  "title": "Ancienne fiche AR de récolement",
+  "year": 1886,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8524,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "COMORES 26 avil 1886 Titre: Trait de protechnat avec la sultan de l'il de Mobili Annexes: Ilea de signature: Tomboni Ratifications françaises: Ratifications: P.V. d'échange: cotes: lofin da chlop ghine caty. coforme par le Mr.ls colonis Modifications: Carton",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18860025_100_s1.pdf",
+  "source_filename": "tra18860025_100_s1.pdf",
+  "source_sha256": "c47f3428ffcc6f0e0d0c21263535128691064a7262966b4dcf917d2d0472943f",
+  "treaty_id": "TRA18860025",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "COMORES\n\n26 avil 1886\n\nTitre:\n\nTrait de protechnat avec la sultan de l'il de Mobili\n\nAnnexes:\n\nIlea de signature: Tomboni\n\nRatifications\n\nfrançaises:\n\nRatifications:\n\nP.V. d'échange:\n\ncotes: lofin da chlop ghine caty. coforme par le Mr.ls colonis\n\nModifications:\n\nCarton",
+      "quality_score": 0.8524,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18860026_100_s1",
+      "title": "Ancienne fiche AR de récolement",
+      "score": 0.384682,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "document_id": "tra19200016_351_s1",
+  "title": "Instrument de ratification hongrois du traité, du protocole et de la déclaration",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "it",
+    "pt"
+  ],
+  "quality_score": 0.8339,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "aporavivos nai año Diggacias agerçoo fundiuno Eióngna, no ió Voir texte 19200016 01 Sur bobine B256 (wodjoue igugyquen na iaugeic iny Sopan unraitng, eza zy waingquo wgurouooo nai dn. pooeo, uarà cápeo airno roio gogioo, iroopogenor yot engiiey aving worio, Ilucio ze uaici glrerega pge. pa uai Dicdoya, uai yá in cagafiue airi, und iorageyuues iny ag ay aiouhcre cagábaoi airno. Eio cicruchp riy agurego ieggajay iny e…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200016_351_s1.pdf",
+  "source_filename": "tra19200016_351_s1.pdf",
+  "source_sha256": "caf896b73f48c8a51bb12282716168f9ccaee3ce9e3b63759a6f5a1d43a39935",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "HUN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "aporavivos\n\nnai año Diggacias agerçoo fundiuno Eióngna, no ió",
+      "quality_score": 0.7227,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Voir texte 19200016 01\n\nSur bobine\n\nB256",
+      "quality_score": 0.9237,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "(wodjoue igugyquen na iaugeic iny Sopan unraitng, eza zy waingquo wgurouooo nai dn.\n\npooeo, uarà cápeo airno roio gogioo, iroopogenor yot engiiey aving worio, Ilucio ze uaici glrerega pge.\n\npa uai Dicdoya, uai yá in cagafiue airi, und iorageyuues iny ag ay aiouhcre cagábaoi airno.\n\nEio cicruchp riy agurego ieggajay iny ecnigwo\n\nJluerigou acion Sagagidoo.\n\nEjévero in Sbgovon inzgin Derzeubgico son xpcorri\n\nFrenin 83.\n\nmax rastr",
+      "quality_score": 0.729,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "(Traduit du grec)\n\nConstantin\n\nRoi des Hellènes\n\nNous déclarons que, après avoir convenu à Trianon, en France, le vingt-deux mai/quatre juin mil neuf cent vingt, entre la Grèce et les autres\n\nPuissances alliées et associées, d’une part, et la Hongrie, d’autre part, d’un\n\nTraité de paix dont le texte suit ;\n\nVoir texte 19200016_01\n\nsur bobine\n\nB256\n\nNous acceptons, approuvons et ratifions ledit Traité ainsi que le protocole et la déclaration qui y sont annexés, en toutes ses dispositions, et nous promettons d’observer fidèlement le traité en question, Nous et Nos\n\nSuccesseurs et Diadoques, de ne pas le violer et de ne permettre à quiconque d’autre de procéder à sa violation.\n\nEn foi de quoi, nous avons signé le présent instrument de ratification et nous avons ordonné que le Sceau de Notre Royaume y soit apposé.\n\nFait à Pruse, le trois septembre mil neuf cent vingt et un.\n\nSignature\n\nPBaltatzi-",
+      "quality_score": 0.9604,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200016_326_s1",
+      "title": "Instrument de ratification grec du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_731_s1",
+      "title": "Instrument de ratification britannique du traité, du protocole et de la déclaration",
+      "score": 0.993529,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_886_s1",
+      "title": "Instrument de ratification siamois du traité, du protocole et de la déclaration",
+      "score": 0.993529,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_726_s1",
+      "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_251_s1",
+      "title": "Instrument de ratification cubain du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_436_s1",
+      "title": "Pouvoirs (pour Mario Grassi)",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_396_s1",
+      "title": "Instrument de ratification français du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_196_s1",
+      "title": "Instrument de ratification chinois du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_096_s1",
+      "title": "Instrument de ratification belge du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_350_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919 [lieu et date seront renseignés après traduction]",
+      "score": 0.749271,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

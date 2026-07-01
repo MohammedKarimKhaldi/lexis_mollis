@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_36_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification",
+  "year": 1948,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9858,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERRAL DE DEPOT DE L'INSTRUMENT D'ADHESION DU JAPON AU PROTOCOLE PORTANT MODIFICATION DE LA CONVENTION SIGNEE A PARIS LE 22 NOVEMBRE 1928 CONCERNANT LES EXPOSITIONS INTERNATIONALES SIGNE A PARIS LE 10 MAI 1948 Son Excellence Monsieur Toru HAGUIWARA, Ambassadeur Extraordinaire et Plénipotentiaire du Japon, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Pierre SIRAUD…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_36_s1.pdf",
+  "source_filename": "19480001_36_s1.pdf",
+  "source_sha256": "20d80f584f9aaf49fc3d333681cd628823766bc2c76e2f4fb55f2e4e14f11817",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "JPN003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERRAL DE DEPOT\n\nDE L'INSTRUMENT D'ADHESION DU JAPON\n\nAU PROTOCOLE PORTANT MODIFICATION DE LA CONVENTION SIGNEE A PARIS\n\nLE 22 NOVEMBRE 1928 CONCERNANT LES EXPOSITIONS INTERNATIONALES\n\nSIGNE A PARIS LE 10 MAI 1948\n\nSon Excellence Monsieur Toru HAGUIWARA,\n\nAmbassadeur Extraordinaire et Plénipotentiaire du Japon, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Pierre SIRAUD, Ministre Plénipotentiaire,\n\nChef du Protocole, agissant au nom du Ministre des Affaires Etran- gères, au dépôt de l'instrument d'adhésion du Japon au Protocole portant modification de la Convention signée à Paris le 22 Novembre 1928, concernant les expositions internationales, signé à Paris le 10 Mai 1948, en exécution des dispositions de l'article 3 dudit\n\nProtocole.\n\nL'instrument avant été, après examen, trouve\n\nen bonne et due forme, a été déposé, pour y être conservé, dans les\n\nArchives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé\n\nle présent Procès-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, en double exemplaire\n\nle 8 Janvier 1965.%.\n\nFlinen\n\nDe lapides",
+      "quality_score": 0.9858,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_28_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'acceptation du Japon",
+      "score": 0.79203,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.756574,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_58_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.749089,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_67_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Monaco",
+      "score": 0.735494,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_55_s1",
+      "title": "Procès verbal de dépôt de ratification de l'instrument de ratification de l'Italie",
+      "score": 0.715328,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_018_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Corée du Sud",
+      "score": 0.712084,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.709735,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_27_s1",
+      "title": "Dépôt de l'instrument de ratification de Haïti",
+      "score": 0.702036,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_24_s1",
+      "title": "Dépôt de procès verbal de l'instrument de ratification",
+      "score": 0.701341,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_74_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de Panama",
+      "score": 0.701047,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

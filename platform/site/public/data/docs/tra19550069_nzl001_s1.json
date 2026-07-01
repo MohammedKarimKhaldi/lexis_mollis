@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19550069_nzl001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1955,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9022,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "3149 UNIONS 20 JAN 1959 12 0el 1955 NOUVELLE ZELANO سعيل hue 2/59 L'Ambasade de Nouvelle-Zélande présente ses complimente au Ministere dee Affatres Etrangères - Direction des Unions Internationeles - et a l'honneur de lui faire savoir que le Gouvernement néo-zélandais déstre adhérer à 1'Orgenisation Internationale de Métrologie Légale en tant que membre correspondant. L'Ambassade serait vivement reconnatesante au Mi…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19550069_nzl001_s1.pdf",
+  "source_filename": "tra19550069_nzl001_s1.pdf",
+  "source_sha256": "8b629b1bf4fed3ee64eefd81b21a28b4dc95fa4133596846bbf4ee614ac71834",
+  "treaty_id": "TRA19550069",
+  "treaty_number": "NZL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "3149\n\nUNIONS\n\n20 JAN 1959\n\n12 0el 1955\n\nNOUVELLE ZELANO\n\nسعيل hue\n\n2/59\n\nL'Ambasade de Nouvelle-Zélande présente ses complimente au Ministere dee Affatres Etrangères - Direction des Unions Internationeles - et a l'honneur de lui faire savoir que le Gouvernement néo-zélandais déstre adhérer à 1'Orgenisation Internationale de\n\nMétrologie Légale en tant que membre correspondant.\n\nL'Ambassade serait vivement reconnatesante au\n\nMindstère de bien vouloir prendre les mesuree nécessaires à cet effet.\n\nLAabascade de Nouvelle-Zélande saleit cette occasion pour renouveler au Ministère des Affaires #trangères des assurances de as haute considéretson. t\n\nA Parle, 18 19 Janvier 1959\n\nEthietère den Arfaires Strangersa,",
+      "quality_score": 0.9022,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_074_s1",
+      "title": "Déclaration de la Nouvelle-Zélande",
+      "score": 0.396361,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_054_s1",
+      "title": "Note verbale de transmission de la déclaration d'acceptation de la Finlande",
+      "score": 0.382742,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_035_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Canada",
+      "score": 0.377902,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.37294,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_111",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.370768,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_38_s1",
+      "title": "Note verbale de transmission de l'instrument d'adhésion de la Nouvelle-Zélande",
+      "score": 0.370624,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_150_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.370246,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_776",
+      "title": "Accusé de réception de l'instrument salvadorien",
+      "score": 0.368499,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_321_s1",
+      "title": "Instrument de ratification (et NV de transmission)",
+      "score": 0.368339,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_50_s1",
+      "title": "Note verbale de demande de transmission de la candidature des Pays-Bas aux autres Etats participants",
+      "score": 0.368134,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_63_s1",
+  "title": "Instrument de ratification de la Tunisie",
+  "year": 1948,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9891,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "RENE COTY PRESIDENT DE LA REPUBLIQUE FRANCAISE AU NOM DE SON ALTESSE SIDI MOHAMMED LAMINE PACHA BEY POSSESSEUR DU ROYAUME DE TUNIS • a l'honneur de faire savoir, en complément de la ratification intervenue à Paris le 16 juin 1949 au nom de la République Française, qu'il accepte, ratifie et confirme le Protocole du 10 mai 1948 sur le Bureau International des Expositions. EN FOI DE QUOI il a fait apposer à ces présent…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_63_s1.pdf",
+  "source_filename": "19480001_63_s1.pdf",
+  "source_sha256": "e740e16ef3bcf46ef2c7732be76c5bc71e6dc4f44ed2229ce6aaf0cf5bb1c8c1",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "TUN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RENE COTY\n\nPRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nAU NOM DE\n\nSON ALTESSE SIDI MOHAMMED LAMINE PACHA BEY\n\nPOSSESSEUR DU ROYAUME DE TUNIS •\n\na l'honneur de faire savoir, en complément de la ratification intervenue à Paris le 16 juin 1949 au nom de la République Française, qu'il accepte, ratifie et confirme le Protocole du 10 mai 1948 sur le Bureau International des\n\nExpositions.\n\nEN FOI DE QUOI il a fait apposer à ces présentes le Sceau de la République.\n\nFAIT A PARIS, le 20 Juillet 1955./.\n\nle Garde des Sceaux\n\nMinistre\n\nde la Justice.\n\nPrésident du Conseil des Ministres ad interin\n\nRivy\n\nPar le Président de la République\n\nLe Garde des Sceaux\n\nMinistre\n\nde la\n\nJustice,\n\nMinistre\n\ndes\n\nAffaires\n\nEtrangères ad interim,",
+      "quality_score": 0.9891,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_40_s1",
+      "title": "Instrument de ratification du Maroc",
+      "score": 0.854581,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_37_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification",
+      "score": 0.372221,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.371586,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_17_s1",
+      "title": "Pouvoirs de notification de l'adhésion de la Finlande",
+      "score": 0.370565,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_59_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification suisse",
+      "score": 0.370533,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.369219,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hti002_s1",
+      "title": "Procès verbal du dépôt de ratification de Haïti",
+      "score": 0.367777,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_62_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification panaméen",
+      "score": 0.366058,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_182_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.366026,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_325",
+      "title": "Pouvoirs italiens",
+      "score": 0.365863,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

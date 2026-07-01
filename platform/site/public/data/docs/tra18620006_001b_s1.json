@@ -1,0 +1,49 @@
+{
+  "document_id": "tra18620006_001b_s1",
+  "title": "Plan (annexe séparée)",
+  "year": 1862,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7919,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Vallée des Dappes. anneice n: 2 à la dépêche Politique de l'ambassade de France à Berne N$ 31 du ig septembre 1863. Boit Глянса. 3 Alan généralides nour le fontio dans la alline. Mormond tance ai tait dand indu 1862 appes Bois der Loges. der Bois Fais de la Givrinne. Taure, le 8. biembir 1862 LItaiptentaine he Hand: tu Minipotentiain strampti: Echelle: te Villie Bois des Petits Plats.",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18620006_001b_s1.pdf",
+  "source_filename": "tra18620006_001b_s1.pdf",
+  "source_sha256": "98b5cb7705443d40e8f0cd0bbf84801ed7dc48c4fe05a2ac5509bff938d78d70",
+  "treaty_id": "TRA18620006",
+  "treaty_number": "001b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Vallée des Dappes.\n\nanneice n: 2 à la dépêche Politique de l'ambassade de France à Berne\n\nN$ 31 du ig septembre 1863.\n\nBoit\n\nГлянса. 3\n\nAlan généralides nour le fontio dans la alline.\n\nMormond\n\ntance ai tait dand indu 1862\n\nappes\n\nBois der Loges.\n\nder\n\nBois\n\nFais de la Givrinne.\n\nTaure, le 8. biembir 1862\n\nLItaiptentaine he Hand:\n\ntu Minipotentiain strampti:\n\nEchelle: te\n\nVillie\n\nBois des Petits Plats.",
+      "quality_score": 0.7919,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

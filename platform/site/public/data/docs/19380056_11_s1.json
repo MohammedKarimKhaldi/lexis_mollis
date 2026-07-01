@@ -1,0 +1,116 @@
+{
+  "document_id": "19380056_11_s1",
+  "title": "Instrument de ratification de la Norvège",
+  "year": 1938,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9898,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NOUS HAAKON, Roi de Norrège, faisons savoir: Qu'ayant vu et examiné l'Acte International concernant la Coopération Intellectuelle, signé à Paris le 3 décembre 1938, Nous approuvons, ratifions et confirmons ladite Convention dans toutes ses parties, promettant de la faire observer selon sa forme et teneur. EN FOI DE QUOI Nous avons signé les présentes lettres de ratification et y avons fait apposer le sceau du Royaum…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380056_11_s1.pdf",
+  "source_filename": "19380056_11_s1.pdf",
+  "source_sha256": "291dad30ae5469e4ea0b6703bca932f6003468c342f9ba9d45fbf34471028c5e",
+  "treaty_id": "TRA19380056",
+  "treaty_number": "NOR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NOUS\n\nHAAKON,\n\nRoi de\n\nNorrège, faisons savoir:\n\nQu'ayant vu et examiné l'Acte International concernant la\n\nCoopération Intellectuelle, signé à Paris le 3 décembre 1938,\n\nNous approuvons, ratifions et confirmons ladite\n\nConvention dans toutes ses parties, promettant de la faire observer selon sa forme et teneur.\n\nEN FOI DE QUOI Nous avons signé les présentes lettres de ratification et y avons fait apposer le sceau du Royaume.\n\nPalais Royal\n\nOslo, le 26 mai 1939.\n\nLafont\n\nKeran obe",
+      "quality_score": 0.9898,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_28_s1",
+      "title": "Instrument de ratification norvégien",
+      "score": 0.630769,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_651_s1",
+      "title": "Instrument d'adhésion norvégien",
+      "score": 0.543848,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_023_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.499757,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_005_s1",
+      "title": "Instrument belge",
+      "score": 0.489723,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_072_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.404871,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_43_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.396889,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_56_s1",
+      "title": "Instrument d'adhésion de la Norvège",
+      "score": 0.383603,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_148_s1",
+      "title": "Lettres patentes d'adhésion",
+      "score": 0.383389,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_65_s1",
+      "title": "Instrument de ratification de Monaco",
+      "score": 0.380962,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_48_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.375795,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,1398 @@
+{
+  "document_id": "tra16630006_001_s1",
+  "title": "Texte du traité (ensemble texte des pouvoirs danois et des pouvoirs français)",
+  "year": 1663,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "nl",
+    "pt",
+    "ro",
+    "sq",
+    "sv"
+  ],
+  "quality_score": 0.8511,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Crite D'allan, de Confinion de Commerce entro le doo de France es lilloi de Danemarcho, du 10 es Eraitte Jackieraie et de conservation entre le Roy du, 101|v3 \"d wi o, tt » - - NE: u - . * a. + 2c ag a 0 4 . ^. . N \" Ld A - - - &- | | ? . - LA r= ‘ . E er - > 2 + ^ \"ai AL LL M . ¢ * \" , e ~~ ° ud i . c e n - - . $6? > - #0 1 + pa J x Me e. ~ | a \"m - p M - Im PF SUM v 2 4 ss + . M » - . - : PENJ cr\" AR Me +. x t. ;…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16630006_001_s1.pdf",
+  "source_filename": "tra16630006_001_s1.pdf",
+  "source_sha256": "c39656b2bcefb27d59a2e5f878c3d65d70437e04670dfaf9361cbfa3e7389656",
+  "treaty_id": "TRA16630006",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Crite D'allan, de Confinion de Commerce entro le doo de France es lilloi de Danemarcho, du 10 es",
+      "quality_score": 0.8562,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Eraitte Jackieraie et de conservation entre le Roy du, 101|v3",
+      "quality_score": 0.7328,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "\"d wi o, tt »\n\n-\n\n- NE:\n\nu - . * a.\n\n+ 2c ag a 0 4 . ^. .\n\nN \" Ld\n\nA\n\n-\n\n- - &- | | ? .\n\n-\n\nLA\n\nr= ‘ . E er\n\n- > 2 + ^ \"ai\n\nAL LL\n\nM . ¢ * \" , e ~~ ° ud i . c e n - - . $6? > - #0 1 + pa J x Me e. ~ | a \"m - p M - Im PF SUM v 2 4 ss + . M »\n\n- . - : PENJ cr\" AR Me +. x t. ; - \"A M\" | a ty TV\n\nx ee RP à T le Y ais\n\n94 or a. oot 4 « diuo.\n\n£^ 77 (a 4 ut 2 ;\n\n\" + uc TALL du er. 7 EM ' « te : . ‘ Am.\n\nus w .- L4 \" - »\n\nA\n\n.\n\nae\n\n| -",
+      "quality_score": 0.5737,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "In nomine Dei Greator notum sit universis profentibus al ecellentifsimies hominues\n\nHannibal a Sibifted\n\nPotentifsimi.\n\nDomini # ALDERSCI\n\nDei Eratia Dania el\n\nSatella delorens Segis tolsatia, @/tormaria 8a\n\nDitsmansic- (comitis in @oldenburg s6\n\nOrdinio lepbantini Caves, - Donsibrarines oftatues\n\nemmu\n\nPhesarerarines 8 Prefes in\n\nCamera ad Serenifoimi\n\nGrincip\n\nVARJUM. eadem\n\nGratia Trance Sharam\n\nStraordinariai groo infra",
+      "quality_score": 0.8837,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "ca"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "Dania manital car at per\n\nDominues de Chaville\n\naltémemorato Regi Shristianifsimo a lanctioribus Comptos arcanis 8, mandatis Regiorem Ordinzem commendatary Saltatus domingfr\n\nHugo de\n\nconne, conaresio de\n\nDominus de Berny, -\n\nSidem Regi a Sanctionibul\n\nRegiorum item\n\n=num Commendatarius dictatus\n\nAdminter do tobannes\n\nBaptista Colbert Baro de\n\nconsenserent, in for mate foederis instrementin profilente\n\nJerenzbimum Regem\n\nChristianifiming, Regem Franci",
+      "quality_score": 0.9224,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt",
+        "en",
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "=rato Peer storiem\n\nOf per unanimem cl unrum consen um, de\n\nHarifina tati poo mediale\n\nLace feliciter ab altememorat\n\nChen eine genen 2e",
+      "quality_score": 0.94,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "de"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "V3\n\n-lumenbum, majorémg, sciorem refer ne non mreteem subditorem commonem\n\nadangeret\n\nEmation veterat encin enem ad Regem Ohristianifimidm ablegavit.\n\nRese wero Spriftianis.\n\nhune chea\n\nfimies cropen se (Narie, in fe",
+      "quality_score": 0.7696,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "it",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "101| v3\n\nae probate, de teopentibes Artice\n\nJerenfrimum baredes se Sucesore rovincias, Legiones a\n\nPubditos ab una, se\n\nOhristia\n\nlubditi 8s Incole utriung Corona",
+      "quality_score": 0.7605,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es",
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Regno m\n\nIndigence ese\n\n& facrettatem habeant lam face\n\n2 М, стреста во- Pertus 86 Semina\n\nSite adeunci ibidétng commoranoi as commercia Sua exercendi\n\navirem utring Corone\n\nmerces Luas ibidem Penales.\n\nerenifsimi Regio Danie Chubditr in Galliam venientes ibigg nach ouafonem commorandi negotionem propriorum vel Trincipalizem corum mercaturai aut alined",
+      "quality_score": 0.931,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "01/v3\n\nLibero Lubberance Religionis exerert\n\nLaniam & eVorvegiam venientes, vie nacti ouafionem commoranes\n\nonorum, aud\n\nbanca orm merater gata confine lette\n\nRegy onimiffris bieles bero\n\nCatbolica\n\nReligionis esercitio in privatis.\n\nhis adibies concelso.\n\nrebeliti retrivese mare commeriza\n\nLillora alterutrius Regni Legentes,\n\nhabeant iter herem abig impedi =mento vel ulla detentione.!.\n\nquing volerno, prosequendi,",
+      "quality_score": 0.9538,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "й\n\nmeg sportion ungr ibidem g end\n\nJubsiffentes, cogantrer merce.\n\nexonerare, commutare, zel vendere,\n\nave's\n\nDanica\n\nultra Iincamn dopinoctialem.\n\nrecuerrentibus ocerenti trel ad continuian intentatam\n\nope df rebres aliapibre.\n\nindiquerin\n\nchrent aresrtio la\n\ncommodo. quantum.\n\nB99Y°\n\nпровститв.\n\n(Naves Tallica vel ad Gallos pertinentos, vel ab illis conducta\n\n,merres.\n\netiar apalerereng, forlaverint,",
+      "quality_score": 0.8523,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "101/v3\n\nApeciali ea de re fub dato 24 Septa nni 2645. confecto Inftrement qued kuin Gractatin Jub finem\n\nG4952\n\ncertis civitatum\n\npertinere.\n\nVilla aretigaliiem adlarecbio",
+      "quality_score": 0.906,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "ro",
+        "ca"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "incidet, finitis zero viginti tribus annis, chubditi alteratrius Regis in alterius Regnis de Ditio idem Solvent Rectigal as Rubditi\n\nRegis Anglic, neinon Ordinum\n\nIn faderati Belgy\n\nPrutatio Maviser de Meresion\n\ngropria pendica\n\nviginti trium annortem fpatzo.- momine concedentur, exhibuerint plenaria fides habebitur 8C blueto deitde Rectigali abse detentione aut moleftia cella.\n\nEti lin det a lett",
+      "quality_score": 0.9385,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "101| v3\n\n( cen drossen dirtines commorari.\n\ntenebentur, que fi zero inpofteriem.\n\nDanie in Pretigati\n\ndit\n\nantitanget in meeron\n\n= tem:",
+      "quality_score": 0.8576,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl",
+        "it",
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "de Jatis idoncam cautionem olsingora de dicta Solutione debito\n\nLoo deveni/simi\n\ni Danie Regis -\n\nsectigalium exactoribus in earundem Navium reditu, aut si mae be tune es preind adem guog naves transactionem\n\nmazibus cigueng, gentis ante predicta comen phit e praletie\n\nfresenter.\n\nHIII~\n\nOre Regis\n\nelitionibres Regis -\n\nhristidrizpimi bonis & mercibus",
+      "quality_score": 0.8135,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "1011\n\nque Jubditis terenipsimi Regis\n\nPanice proprice effe arris confirmathonibes demonstrabin = = furl, non majus vectigal five.\n\neundem\n\nDania bonis 86 gnercibus, ar\n\nDubditis Regis Christianıfsit pride esse veris confirmationi\n\nPus demonstrabuntien\n\n, non mape\n\nprectigal five importando five exportando imperabitier, quam.\n\nDania it centimi Regis\n\nFamen\n\nReee\n\naporendam è fus\n\nPubditis imita: pro pratu Balas =narum alioring anarinorum\n\nfolidorum, avo linquilis colits guarumbibet",
+      "quality_score": 0.9272,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "navium in Lallia conductarem\n\n, Sec vem illis agebrer -\n\n\"meu meus moda po agito.\n\narum gentire.\n\nprefertim bollandorum portus - Gallicos Juberentibus. Cremma grog potestas amborem Regum.\n\nm. corum refpective segnio, - Litionibus 86 Dominais ata portubus quectigalia 86 alid aprevis karo ve nata Hatuendi velimmutandi\n\nTalva 86 illafa permanebit, nibil innorthur, quod ara enti fractatui repugnet..\n\nZvoc\n\nrebditi Regis Costianifrimi pantum ad meniferationem navium, de act mentiram illam connotandam.\n\nmialis pro Singulis Lastis -",
+      "quality_score": 0.9412,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt",
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "aves\n\nLubditorum Regis →\n\nChristianifsimi cum mercibue 86 meritonys fuis, que\n\nMunimentum GlucAstadien vel relique les Espida fet.\n\n• fer. Regis Dania\n\nredeundo, Libera Simonienes\n\nmoreftra, excepto tantummodo.\n\ncale Jerutationis tempore.\n\nBelli quando Jererifrimies Rese s",
+      "quality_score": 0.7872,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es",
+        "ca",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "O Dania, bellum habet cum alio quaring Rege vel Statue.\n\nRelais Dania in Gallia commo =\n\npendant apari amnes religi\n\nDhristianißimi Regis Jebeiti\n\npoisg as int vendere sendlesg\n\nHabere\n\npretro etram qocring,\n\naolverint, Salvo Sempen\n\ni ten in conger , Sales\n\nricatue\n\nut Coetera nationes extera, 8 in fpecie Hollandi Solvere tenebuntur",
+      "quality_score": 0.9014,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "it",
+        "ca"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "เทนอ cent non iti\n\nтина ta\n\nLare\n\nXVII.\n\nSicilsim Jubditi Regis ahristianifsimi Regna, aut Dominia Serenafimi Regis\n\nDania adnavigantes, vel in podem meraturam facienites, atired\n\nBrectigal Solvere non teneantier,\n\nSolvent, atg cundo, redeundo- E commorando, nee non pycan\n\nE negoliando, coterisg selem entatibus, Immieriitatibus- & Privileğğs gardebuent,",
+      "quality_score": 0.9362,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "en",
+        "ro"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 21,
+      "text": "Serenifimus Rese\n\nDanic omnem\n\nReqice hire Majeftatis appules;\n\nGo inhem on alonging rifee upendo pio de Per in\n\nLignore Sutenfilies.\n\n\", ritg lid'\n\nde part destrangit, Baptis officiales Jues, fam Civiles, quam militares Literis, crerabit\n\nLet mercatores Galli ad fillora\n\nNoriegic acedentes, amice\n\npregudicrum incolarim.\n\nProvin=\n\nfrincipatibus age Terribore",
+      "quality_score": 0.8649,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "101 | V3\n\n- etiam Se illafis manentibus\n\n9, certis\n\nsensato in & opin, contin à Regiu Sua Mijestate\n\nconcefis\n\nmon fierint intriric\n\nวะบริริส um quog do concordatat\n\ninvabit\n\natg in omnibus fora dote de la ut hristianifimies Rese Febdi ae esvibus Serenissimi Regis ~\n\nDenia ea oneria concefirires → set, que upsorum, commercidin\n\nRegntis al Dominis Leis promove poterunt, fient etiam serenifi\n\n- mus Res Dania Jubdites 8 civibus Christiarifsimi Regis in omnibus rebres gribres i negotiationes argeni 8 promoveri poterent, favebit.",
+      "quality_score": 0.9247,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "Leem in finem Rex\n\n's in regnio al\n\n86 Noruegiam portent, Se vici/sim\n\nJerenifimus Hex Danice in .\n\nincrembet, ut Jubditi fei Similiten.\n\nmeres, fuas es Dania 8 Morregia.\n\nin, Galliam advebant:\n\nXIX.\n\nem concordata heldit\n\nJerenifimi Regis\n\nhabebrent\n\n→ Det, hive mestraldas alundi atg in fidem mercateram.\n\nexerendi, neg a Christianifsims.\n\nRegis Subditios corindem Navis pusdemg aret\n\nes cryuescrange\n\nilla generis ferint intereter moleftia aret um pedi= -menta querer tiam i",
+      "quality_score": 0.9146,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "inter notaresman Regene\n\nProvincias,\n\ndifsidia.\n\nInimicitias, art etiam bellim apertum exoriri, inpofterem\n\nBonerem 18 content apites onzefta errent versus iter Jurem intende\n\nTrint declarantia Se subseriptione",
+      "quality_score": 0.921,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 25,
+      "text": "plutnte id anfin esem mem\n\nApoterit~.\n\n*XI\n\nvod si Naves mercaboria.\n\nBanican Naves Gallicas Bellicas.\n\nJere Regias, fere privatas concefa.\n\n- adiel poteffate abrmatas obsiam.\n\n, ac zuce versa ti Naves.\n\nMercatorice Gallica naves Dani- = cas Bellicas Jer Regias Sere prizatas, concejsa\n\nad id poteftate\n\nArmatas obviam habuemint prédicta Naves Bellica art\n\nArmata ad mercatorias intra nomenti Belli jachum aul nes adeas mittent,\n\nLitera Salvi conducties -",
+      "quality_score": 0.9263,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it",
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 26,
+      "text": "nu\n\nere- state.\n\nexebibebenter modo de forma refitatis, are Jerlicet dafds non modi onus nautiven, led\n\ncomierly expris\n\nmant, uti lie ratione liquido.\n\nconftet, utrumne merczur probibitarem aliapid vebabir, vibus Salvi condiectus Literis 8\n\nDiplomatibus omnimoda fides adbebebities coreme gradri ne\n\nad id ipsum ab vetrog Prege dane\n\n(SExe S5~\n\nle ember segun fille.\n\n= torem Jeceritati ne ulla upss violentrd a predic\n\nNavibus Bellicis inferatier, omnibus Christiandssimi Resis\n\nNavium Bellicarm Prefetis",
+      "quality_score": 0.8966,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it",
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 27,
+      "text": "й\n\nnemoleftiá aut detrimentó velló- Jubditos, Serenifsimi Regis Danie afficians, secus si ficerin\n\ni ine\n\nbersonis d bonis ornibus tene=\n\nI bentur, donce de detrimentis al\n\nPeerit Satistactio 36 compenfatio.\n\nHimiliter ornibus Serenilsimi\n\nRegis\n\nDania Navium Bellicariem\n\npenis injungetuer do mandabi- Auer, ne m\n\nHeftia art detriments\n\nSubditos affician\n\nan\n\nGAIIII.\n\nLi indicts navibes Mercator\n\ninventa fierint bond quedam at emperor bond Ravibes exempta, coram s",
+      "quality_score": 0.9093,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 28,
+      "text": "01/v3\n\ntene whis ommi peru necrte infate,\n\ncompetentibus iftires to snatterie i de cates fises addicentier\n\nPreem quirifier sel mores alid.\n\nonta not por sfibita, in eoapplicari poterunt:\n\nri aut pisco - 1XXI7\n\nEvac si altorutrius Corona.\n\nvolati rim u/sim\n\ncilptas, tornas, darcinasue in ea contentas aperive vel refindere hegetiam nereium quid ransportare, vel alio\n\ndam tis\n\nmantimarum confortus Inventa -nus rifi forti he murcs benbi =bita totiu pans oredan fierint Domino lackun fuckit cas forte\n\nPrefecto tradere itirg Jurm",
+      "quality_score": 0.783,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 29,
+      "text": "V3\n\nprosegue, gribres ita\n\nHationte ulterines de feractis, rulla.\n\nineri aret ab-\n\nvnstituto itinere a apoquam retrab aut revocari poteri\n\nClub for verò murium architer.\n\n- rum numero intelligarturflemmodo comportin fa effe\n\nignifera precrint,\n\nSive alires generis ene appertinents utpote Tormenta\n\nBellica, Iclopeta, mortaria Bellica.\n\nmifsile\n\narmamenta lignea,\n\nHormentarius, rienzure nitrum, globuli, Jarifoa, alady\n\nSalee Thoraces Io\n\npume Lapa, fare male\n\ne pare autom del ata",
+      "quality_score": 0.9481,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 30,
+      "text": "zel compresendi debent tremes\n\nvincem, jal, de veno verbo ornne i fod ad alimention de vita oncumationeon pertinct\n\nTransve in em\n\ntransparlatio emper crit Licita.\n\nae aliarem\n\nLatim eft, ood qpacing a tubda\n\nDanic Navibu\n\nad holtes Christianiftimi Reepis pertinentibis importa reperien letiamsi merres contrebanda, i\n\nfisco adde\n\n=centres cren\n\nomnibus\n\nrebres\n\npete mafia Paint, percenge excepta. infrim iem dictrem",
+      "quality_score": 0.9134,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 31,
+      "text": "v3\n\nPiotreneio impopite reperite.\n\nmienes\n\nomnes ille merced apre in Navibrs ad Frebditos Jereni/simi Regis Dania.\n\npertinentibus nenientier, etiamfi?\n\nonues illarem. Havium. Sive\n\nmounes evunt omnes illa mere ve in Navibus àd fubditos\n\nPhristianifimi Keep's pertinen\n\nAi\n\nbus invenientur, ettamsi.\n\nonaes illarum Navium, five integrem five ppar; tantrem\n\nnae\n\nhoftes Sereniftims Danic Reg\n\nconfderabuenter...\n\ndentibus articrelis pofitam (AXVIII\"\n\nRaves Bellica utring Corone.",
+      "quality_score": 0.8449,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 32,
+      "text": "101/ v3\n\nBut nepala, bart numero dude vel tres omnes portus altery -trius Regri indrediantur, ibie встідні в\n\n일\n\nLictrem erit illis ibidem. tuto commorari dide is qure fiti necesaria ese popuns\n\nipprovidere\n\nmercatoria in pportubis alter =trius Regum inventa, non cogantics ad militian wel\n\nGeeteran. abg confenfe hite dicki Per in i am i hang\n\nTrefertres Navis confenferit.\n\nredictis yodem Navibus Bellio alterutrives Regis Liberrem erot",
+      "quality_score": 0.9126,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "it",
+        "ca"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 33,
+      "text": "alterines Stationes, flumina 8C\n\ndieterniore 8e non nuefsaria.\n\nquibres ebiam Navium Dfrefectr caufam deventues Lui 86 commovationis lignificare tenebuentrer.\n\nXXXI\n\nivium Trefecti carundem.\n\nLubernatores, milites, mareta davales, pace tiam Haves.\n\nevent.\n\nTive arrefto detineri poterunt ;\n\nunives ael alterius partis quidguam augerri poterit, nifi contentientibes yosis Avalentibus.",
+      "quality_score": 0.7814,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 34,
+      "text": "01\n\nabet mercium de antes lentis gonde tamen contrácter às aliensen, fegitimi\n\nXXXI~\n\n>/tem.con\n\ncordatum\n\nPerenifsini Regis cold cum navibres Tis vel\n\nbenign «.\n\nChois.\n\ntractabuentrer, Lisitum etiam",
+      "quality_score": 0.9165,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 35,
+      "text": "vel Scrutatione nullig por tors yea a retigalibus Jolutis Intere difedere dimmodo nibil mercium aret farcinarem ese Navi vel Navibus.\n\n=anifimi Regis cogantur crem\n\nNavibres le deem in Humina, aftiaria.\n\nmagistrate de,\n\nIn tabuntur, Licitum etiam deficiendis necefarid fierint files poetie la comparmen de se rectigalibus folutis, Libere..\n\ndifedera, dummodo nibul onercium,",
+      "quality_score": 0.9392,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it",
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 36,
+      "text": "sim hones em aren idi\n\nUns.\n\naut farinarum ex Navisel\n\nMavibus\n\nafferant ant venale\n\nLebus, marly fuerint\n\nis aret confretbredi\n\nnibus iftius fois art sportis ad quern appuleriot,\n\nrepugnet.\n\n1222933\n\nHegum neuter.\n\ntolerabit ellies ete la mid lies\n\n= bus, Itationibres aut flumini.\n\nNaves capiat Ladátue, id serò ji preter espectationem conti= genit Regio alteriter intere posita Cutboritate Laf -.\n\nveftitutionem art damni\n\nXXXI\n\nUt verò commercia inter utrama Coronam è trtius -",
+      "quality_score": 0.9213,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 37,
+      "text": "procedant, Rese Chriftians/rimus •fefe obstringit multim feconces=\n\nscipiat aut aliquo modo peret\n\nexontra operam\n\nim Jaberem,\n\ners Domina\n\neld arad probationibus appareat.\n\nmiliter Chriftlani/rimi.\n\nRegis Subditis in portubies",
+      "quality_score": 0.9672,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 38,
+      "text": "в К\n\nmaribus Reenorum al Dominionin.\n\nSue Regie Majeftatis Panic,\n\npotest, it-pritche\n\nСААХЧ\n\nnaves, five illa Bellica five mercatoria furint, vachs hierer\n\nSe mercibies,\n\n-be in dou matanana.\n\nhuberti etiam vel Incora yumoor",
+      "quality_score": 0.8848,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 39,
+      "text": "operam conferent ael ad\n\nnavem\n\n=treantur, in titum forum con - =vebenda, Solvendo tamen ex=\n\na recuperata de cuffodita fucrint:\n\nXXXII\n\ni alterutrines Regis Frebditiin\n\nIterices Serritorio injuria five detrimento affician.\n\ninjuria illata est, curabit it .\n\npafois pacienes,",
+      "quality_score": 0.7787,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ro",
+        "it",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 40,
+      "text": "OTIVS\n\n0xxxu55\n\nAmbobus. Regibus cure erit, uti pudicia 88 Sententia de rebro in mari captis ad juffitia de\n\nLon sudo і вта.\n\nunatuns •bretti.\n\nCons _ ex= recruent dita.\n\nformam 86 tenorem deum, uef\n\n→ ti alterubries Regis Legatos -\n\nficians\n\nAlitia debita nune\n\nconsilio fuo revideri se exami= =nari curabit\n\nm Leges -\n\nhaires foederis, debitig, ashibitis",
+      "quality_score": 0.9332,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 41,
+      "text": "contigerit, a dhabeantus remedia,\n\ndurante revifonis tempore, bona le quibus apastio eritte navibus exponere ahel vendere ss diftra= = here Licebit, nifi id forte.\n\n= rem se Operciaer correptionis.\n\ncasela fieri contingars\n\nGXXXIX.\n\nAlterietris Regis Jubditis 86 Incolis in Sois alterices Domi = no parentibus, Liberrem erif'",
+      "quality_score": 0.7916,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 42,
+      "text": "01/v3\n\nneg cam of carefam quisquam\n\nacessert a sele\n\nProvincias moriatier, tune omnid bond ab ipso relicta, ti mobilia live imobilia, crépio =creng conditionis fint, fideliter afervarenter, aty legitimas saredibus vel illis\n\npr in each\n\naty adèo fus Arubanice Salival",
+      "quality_score": 0.9582,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 43,
+      "text": "GXLI\n\nLegem\n\noncedethero a die quo moniti_.\n\na crint memerandorem, apo neves ineas sendere se bl\n\ne\n\nulla\n\nprivata injuria.\n\nfocous hor ello modo infirmabit, nega.\n\ndirem aut distidia inter precicta\n\nnationes Rescitabit,\n\nLed quilibet → Fas aut alias hipisma di abrofos.\n\nprocefres alter id tet in apo.\n\nalter alepid delaperit nifi Refti- fia denegabitier art plas jufto - 5 sifferitir, vin go cafi Regilli.",
+      "quality_score": 0.9153,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 44,
+      "text": "you put it liter nt i\n\nonventum etiam 86 conclufim eff, quod terenaftimes ResPani\n\nGo plactis aure inter Christianif -mom Redem 86 Ordines Genera\n\n•, adt omnibus O\n\nre, cousa compreseb\n\nMis aprouscine\n\nNationabies\n\nconcelhis, vel in futurem conce = dendis gavrferut fit codem planè amodo quo dictarum.\n\n=inciarem, unitarum Incola se memorata alice Nationes yo\n\nJardelent are yare debrend",
+      "quality_score": 0.9219,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "ca",
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 45,
+      "text": "iltememoratorem ter m alternes teti e.\n\nhabcat miniftros\n\n,mn certis\n\nportuebres aerò (consules, ues.\n\n=erint:\n\n(XL3\"\n\nBarem atmodim omaer.\n\nAoticuti cedunt an\n\nemotementer utrinsg lorona, earring Jubditorum, ita;\n\npreatte memorati Reges fpondens omnemn se datueros o ut omnes & tinguelit tincere.\n\nI6 bona tide observen\n\nuer neg\n\nillis din\n\netè selindirecte contra\n\nseriatir, practiam tioc- Fractatre ese prefè Hiprelatur alterutrius Regis habclulos in.\n\nalteries Regnis 86 Dominyo 4bn pr ilego sImientzn\n\ngarifenos, quibus popreli.\n\nOhoederatarum Belgu Frobin",
+      "quality_score": 0.8828,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 46,
+      "text": "101|v3\n\n-ationibe in gene deeme\n\nGractatus recurrendem curabient\n\n- mum hijus feders Vatihab tiones utrobial =rint",
+      "quality_score": 0.8638,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl",
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 47,
+      "text": "й\n\ns)eguitur 6 Sabella: Saxed.\n\narefendico esfolvefre tenebuntur\n\nShristian fimus Brancia & varme Rex, Frater, Consanqui= =neres, Amicus 86 confederaties\n\nMajestatis Tua Charifsimues 1 Serenafima Regina Mater Regens\n\nSibi\n\nlabendum cenfet, autam ut fide=\n\n- Lem fraternamg, flam operam",
+      "quality_score": 0.9603,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 48,
+      "text": "101| v3\n\npari officiorum do berevolentia baoppatuame per\n\nsenfet: Qvumg\n\n→ Domino de La Shuillerie Ch = Stianafsimi Regis Legato reb\n\npendatzer\n\ncertues aliquis de toserabilis i ftatreeretilge.\n\nita ret pari cum\n\nalas commoditate mercaturam\n\n, Majefta.\n\nd eNawarre Regis defideris han\n\nPriti prapan don 2 lins eft asena, talemg arectigali intoratens modern\n\nstatieit,\n\naurlin taratis heri oponp omnino illi, que Ordinibus\n\nFoederati Belgr (hristianopos tertia so decima dueefti cerren, -ho ai, conefa fet, Lo cupes sfectis hor Vectigal eseigi preffit,",
+      "quality_score": 0.8684,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "en",
+        "ca"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 49,
+      "text": "Enficit\n\nLalliarum.\n\nmonium animi. bene orerend\n\nem A\n\nftudium negotiatoribues Noftris\n\n=turien\n\n. Evoc Illuftorifsimo\n\n86 (suellentifsimo Domino - Legato, cués gratiam fuam 8C.\n\nSoft ce police, pon in",
+      "quality_score": 0.7591,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 50,
+      "text": "ROOLE ou\n\nTARIFSE Du PEASÉ\n\nTui a efté reglé\n\nYé rog au moi d'aout 16155 clan Tries se duber marchantozles Salées.\n\nUn Leth de beurre\n\nun Ristaller Sour quant\n\nUn lett depiel ou 8 ahmee - un Ristaller dun epark.\n\nUn chiffend ou fise vingt\n\nipes de Lard _\n\ncarts de Pistaller.\n\nUn chiffund ou 120 Liures de\n\nun demy Ristallen\n\nUn Lets de Jel d'Espagne\n\nUn fets de Sel de\n\nun demy Pistaller\n\nUn fets de chair l_\n\nvois quarts de Ristillere.\n\nUn Leth de harangs\n\nUni lets de molie on cableara inq\n\nin demy Ristaller.\n\nvin leth de roche - -\n\npeant de Ristaller.\n\n- - trois\n\nUn Lets de Aprerres - - \"\n\nqueants de Pistallen\n\n; Un feth d'angueilles ou 6 tonneause ni millier de poilsons Jees, -\n\ntrois apearte de Restallete\n\nfets d'eftourgions ou b tonneause.\n\nUn feth de Saulmons _\n\nin Kistaller Shun que",
+      "quality_score": 0.7977,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 51,
+      "text": "Ten let den rets on harnes\n\ntrois quants de istaller.\n\n- undemy Ristaller.\n\nStise Chaffind 120 Livres de\n\ntrois quarts de Fistaller.\n\nBLED.\n\nUn Lets de froment\n\n- - -\n\nun Ristaller.\n\nUn Lets de Perple -\n\ndemy Rixtall!.\n\nIn Lets d'orge - Una let! de farine - Un Lets de bmalte a faire bierre.\n\nin quant si demy de Ristall\n\nUn Leth d'avvine 1\n\n-\n\nun quart de deny de Bistalle\n\nUn Lets de pois -\n\n-\n\nan-Pett delare d'avoine.\n\nan Lett de Pbifereit de.\n\nIn Lett de pain de Sage int\n\nun quart de Rostall!\n\nin quart so derry Ristall.\n\nIn fith de bed meltail --\n\nun queart de Ristall?\n\nUn Lets de yris de meftail - -\n\nun queart s demy de Listall!\n\nIn Lets de grue de millet - -\n\nI quarts se demy de Aistall!\n\nUn Letb de noix\n\n-\n\nanageart de Ristall.\n\nIn lets de pommes\n\n- -\n\nven demy quart de Bistalle\n\nUn Lets de mouftarde\n\n2 quearts do demy de Ristall:\n\nou 48 tonnes -\n\n-\n\naen speart de Aritalle",
+      "quality_score": 0.9779,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 52,
+      "text": "Diverses fortes de marebandipes.\n\nd' harpis ou poise-\n\nUn Chaffund(920 Piver:) de\n\nOix Chiffund de plumes commu\n\n-nes -=\n\nQuatre chiffrend de fine Laine, shoe Chaffend de\n\nUn tonneau ou trente douzaines\n\nde cartes\n\n-\n\nUntonneau de feutres de\n\n-\n\nstwich cheffund de bourré.\n\nL'anifse ou de tonfere de\n\nUn lac de Colton de 200 1\n\nUn fets ou douse chiffen pollache ou netrom - 'Un fets de cendres\n\nUn tets depetit gouldrari ou poix-.\n\ntwict corveilles ou quarfses de verres de france de, Hefse, ou de\n\nTrente re façons maille pied de pierres --\n\ntrois quanto de Protall 2 quearts de dem, de Pista un quart soderny de Lista un quant de Ristati trois greants de Rista e trois sparts de Ristallers un Ristaller un ipeart de Pastill\n\nUn quart de demy de Rist 9 chille ou fols de Tubee 2 queants de derskete Miste 1 2 quarts si dern de Kibat.",
+      "quality_score": 0.8308,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 53,
+      "text": "sen tonnear ou deses pupes de.\n\nbouteilles - fo chi find joa fain droitel ten grant de statte.\n\nquarts de Rifball!\n\nLin & Chanvre\n\nair.\n\n'Un lith ou ha cheftend de ?\n\nQuatre Chiffuno de Lin ou\n\nun Ristalls,\n\ncharabe cred ou en mafse an chaffine de Lini Serifé ou 7\n\nAve ch prie ato de Charone a\n\n- -\n\ntrois\n\nearts de Ristatte\n\nKables se cordages 88 tacapels)\n\nUn chiffund de bedegarn ou\n\n- -\n\nEst chiffune de Helsengarn\n\ntrois quarts de Restates.\n\nhis Chibune de Pari oulde henthed in fets de Semence de Lin\n\ntrois apart de Ristaller\n\nUn fets de Semence de navette)\n\nan Lettrate Semence de Chenevis- isten tonneare de Semence de\n\nun quart de dery de Sistates\n\nTatiarie\n\nun demy apeart de Ristate\n\nCuivre, 'Estain; Plomb se Fer;\n\nen cheflina de Guivre - Un Chyfune ou Corberle deftaur\n\nun demy Pistatt\n\nvore Corteille de belogrie de Leton\n\nLa Chition ou changes de plomb)",
+      "quality_score": 0.8003,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 54,
+      "text": "LOI\n\nAvrit tonnearse de ferelles de)\n\nAix cater blane\n\nfund de fer en barre\n\nun fets ou 92: Chiffriend de fer\n\nTue chiffund de balles - - ise chiffer de forereaux -\n\nundery Pistall?\n\nHuiet chiftind on\n\ngolffinchus\n\nfise tonnes de aixieux de hollande -\n\n- -\n\nsix quantares d'acier - Une (corbeille ou tonneau d fil d'archal d'acier\n\nfixi Chiffreno de Cercles de fer\n\nun derny Pistats?\n\nintares d'aiseierese de\n\n-\n\nMunition de Guerre.\n\nLe cent de Lames d'épées - - in dery Ristatt.\n\nLe cent de gardes d'epres -- Luatre centr. bois de\n\nQuict Jale de Lubes.\n\npropees -\n\ninquante epees a deux.\n\nmains-\n\nun deing Ristaller.\n\nent corcelets -\n\nun Ristaller:",
+      "quality_score": 0.8341,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 55,
+      "text": "й\n\ncinquante morions int hallebarde.\n\nentfers de piquees\n\nUne lapeaife de Cent gnousapeets= ouatte douraines de lan\n\nà Carabines -\n\nun demy Listalle\n\nbuinze Guirafses -\n\n- -\n\nsix quintario de alpetre ou\n\nUn le poudre -\n\ntrois quarts de Protats\n\noue douze chiftino de\n\n- -\n\nun Ristaller.\n\nMarchandise de Bois.\n\nan gro Mast de Maigre de\n\n15 palmes 86 are defores\n\nun demy Ristaller.\n\nen partie ey a aien\n\nhuiet Sols de Puber.\n\nI quant se deme Rostaller un Rastaller.\n\ntonneares -\n\nUn cent de fois a Charioto de\n\ncoure -\n\n- -\n\nUn tas oie foixantaine de\n\n\"- un quart & demy de Listatt\n\nantal ou te planche de chepir... un fastallet\n\nl'ars de Prefse\n\nou fetin -\n\ntrois quant de Pistallero.",
+      "quality_score": 0.811,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 56,
+      "text": "E\n\nLe millier de Lattes\n\n- Dise grofses pouttres de Chefne -2\n\nbois de Platan fois d'Erable -\n\nUn tas ou bo de bois a Bale ore\n\ncoultreplanche.\n\nplanches de\n\n- Un mitter d'ais de Norvegues\n\nou de Suède - In tas bo. de bois de petit\n\nPlatan ou Arable\n\n4o tas bo ou\n\nfardearix de\n\nLo tas bo de Coffres ou ariges d\n\nUn gros unt de Lipeftabens.\n\nAo milliers de loli\n\n24 courbes de bois ou Creken\n\nQuich. fols de Pubee\n\na quant se demy de Kista le piant se deme de fis trois quants de Ristalez, un quart se derng de Fret un qart de Ristal.\n\nun Ristatt\n\ntrois quarts de Astatio huiet fol de Lubes.* trois quarts de Riftall!\n\ntoi quant de liens hurit oli de lube ane trois, quarts de Ritut",
+      "quality_score": 0.8185,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 57,
+      "text": "to picco de boi de barque ordeftre. trois quarts de Pistaller.\n\n40. 1pr iices de bois a chariot, cit vaquerschott - \"-\n\nun Pixtado.\n\nMarbandife Sauvage.\n\naza fumbe de perco de grante La alter de histe\n\nUn mullier de petit\n\nUn mallier logre\n\nde chats Jazeval vie douzarnes de romenfelle 2008 de peaux de commite 1000 de peaux. de connels. gris- Gent Ristallins de Lobelines t\n\nwirs & Peause.\n\nQuatre dequers de pharix de Cerf- imit de apiers de pleasse de Boue\n\ntroid quearto de Ristaller.\n\ntrois geants de Sistallie\n\ntovol peause del chamois jo00 pearix de Chevrotin - 4000 des ouir blanie - -",
+      "quality_score": 0.7975,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 58,
+      "text": "Vingt dequens de Guir de bafsainen 'Dise dequeers de cueir de Jehm\n\nLise degeers de Cordouan ou ving de lot de luir de lyfne, lixe dequeers de creir dit farteder-\n\n-\n\nQuatri faltos de sebes de\n\nOvelours i\n\nterre saIrlande\n\nlis\n\ntrois quarts de Ristallist.\n\nEstofts de Foye\n\nBreeps-\n\nfris guiants de Pastalles:",
+      "quality_score": 0.9545,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 59,
+      "text": "й\n\nSeize picies de gros drap dufineque l'Angfeterre ou d'Irlande a quatre\n\nUn tonneau de mercerie -\n\n--\n\nBoure fireris de Loye, franges,\n\nfratre dorezaines de Corereer- -tures 86 accommodements de\n\ntrois quarto de Riflaller\n\n2 quarts de demy de Siali",
+      "quality_score": 0.8248,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 60,
+      "text": "Quatre Douzaines de Couvertes?\n\nFrente pour chereares\n\nburaines de lisieres ou Liftes de drap -\n\nent parres des bas de titre\n\ncarifée -\n\nGrente douzaines des bas de bisante gros draps de bas de\n\ndouzain\n\nLainie\n\nCent chemistes di Croa\n\nvaleur de cent Riftallers\n\nDouxe paires de bas de Soye-\n\n2 quarts sodery de Rihat\n\nteinte nymife en ocure\n\nSOTICE\n\nUn tonneau de toile de bollande- Pouze prende du de filetic.\n\nEnt piece de leile le time\"\n\naulnes de Large --\n\nHuit pace de toile de\n\n2 quarts se ding de Nigha",
+      "quality_score": 0.8334,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 61,
+      "text": "-\n\nDEurct pieces ou rollearese de\n\nduarante pieus de pignoires se toiletes-\n\nни учет я\n\nde Camelot onde ore\n\nGingt pieces de treillis strente pieces de torle de Stetin soudrante pieces de toile ou\n\nbiere de Cracovie\n\nHuict pieces de toiles faites\n\neft noire, dite heden.\n\nUn millier d'aulnes de forte\n\ntoile\n\nJeize pieces de draps de Catsun?.\n\ninquante pieces de gros surail a lits)\n\na quant si dima de Sistati\n\n2 quarts so derny de Phili.",
+      "quality_score": 0.8034,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 62,
+      "text": "Une fille de trois cens fivres gurigembre confit -.\n\nCent Livres de clouds de girolles 'anelle, musquade fleur, de mrsqeade foho se -- Huict, fineres de Saffran.\n\nUn Lets de raifns de Corinthe,\n\noue 36 Cabats de, rue i boo fireres\n\nUn tonneau de long varfins,\n\nou 100 fivres\n\n100 Livres d'Amendes --\n\n800 Lireres de vis\n\n500 Liere de grains de laurion\n\n4. balles de faucon blan\n\nUn Leth de Savon -- 400 Livres de maniquette ou un a grani de andi - Le galles de quatre\n\nears fireres\n\n-\n\n400. liver de Petrin ou tabac -\n\ntrois quarts de Ristaller unquart 86 demy de Rist trois quarts de Raftall!",
+      "quality_score": 0.8357,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 63,
+      "text": "£\n\nQuatre balles de Corinte ou\n\nhuict cens Liveres -\n\n-\n\n400. Liver. de dattes - - Perise: boettes de princause.\n\nLimons capres de oues\n\nfboo. Liver. de pritnedure dits\n\nLuatre cens Livres de bifuit\n\nfuerin -\n\nsuatre iens\n\nlere de frecre candi ou Confitures\n\n-\n\nUn tonneau de\n\nHeatre beller on ito lares.\n\nanis ou cumin -\n\nwarfse de\n\nin torineau mad de 1oo fiers)\n\nUne double balle de cinobre de\n\n300. Liver.\n\nQuatre chiffin de rouge de\n\nBantrie -\n\ndix chifiend ou 9500 Luir. de\n\ngalamie -\n\ntrois greants de Ristaller\n\nun qeant de demy de histoi trois geants de Pistallerso\n\nun Ristaller & demy\n\ntrois qreants de Rritaller..",
+      "quality_score": 0.8323,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 64,
+      "text": "• Us tot Liu ou trois Chattend de Veftum - un queart de demy de Raftated \"Che cent Livenes de Calamus. trois quarto de Pastaller.\n\nUn Lets de rouge ou coulerer\n\nde fuede\n\nSix this lean to plent\n\nou glede, -\n\nTrois chiffend d'Allun each t draw thril tavros de rotstar ou\n\nAmbre mis en overe - i Quatre: chiffund de Limure\n\nd'Arkbre-\n\nCrois chifrend d'Antiroin...\n\nA0o frieres de payae.\n\ntoo Liver de\n\ns00. Lier de gummi ou gallan\n\nA Chitino deuce pri 300 Liveres d'amidon ou un noreare de Soo Lireres..\n\nParadis\n\nmil fireres de bois de brofil - l\n\ntoors ape art de Kistaller.\n\n2 quarts sidemy de Rifla",
+      "quality_score": 0.9254,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 65,
+      "text": "2o pipees de gulapel\n\n-\n\n300. Livres de colle -\n\n-\n\nEn tonneau de hurle de.\n\nloatintet theise de Chinereis ou de navette -\n\n-\n\n一\n\nUn Lets ou freict abnee d'huile\n\nde Lin -\n\nto Liures de ari argent .. - Un baril de Tucat -.\n\n-\n\n800 Luer de prunneaux de\n\nLongrie\n\n- -\n\nDen baril ou 200 Iveres dencens\n\nterebentine -\n\n-\n\ntrans preant de Fistaller.\n\nun quart is derny de Sistab trois apeants de Raftalles\n\ny autres.\n\nTout vin de",
+      "quality_score": 0.7999,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 66,
+      "text": "й\n\nI. ahnée d'eare de vie de Rhin-→ = ahner d'eau de vis de prance:\n\nin tonnelet de Vinaigre\n\n- -\n\nUn lets d'hydromel -\n\nun\n\n8. barils de fiere d'Angleterre, ref\n\nvinaigre de bier\n\nG. tonneause de double biere J\n\nun demy Rastaller, leret demy.\n\ntrois or\n\narts de Pistaller\n\n(. tonneaux de biere de Lubee.?\n\nUn fets de biere de Roftoco, 6 avilmarbe ou de Stralfinde\n\nTquart di demy de Sistast\n\nQuatre quearfses de verres de\n\nUne corbeitle de cruches 8e\n\nQuatre l\n\npons Pireres de dents\n\ncens\n\ntrois quarts de sistaller .\n\nd'Elepbants ou voire\n\nQuarante effris de flaçons re bouteillest- 1\n\n~\n\nst chages quane font ficies en to\n\nntre man comptées ains\n\nuit eft accoustrime s6 heireant quel a efté offerce de toute ancienneté Donné a Christiano de le lis.\n\nIn aprem omnium fidem hae, omafia de Singula it fupra fuent",
+      "quality_score": 0.784,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 67,
+      "text": "contenița manue noftra Jub =\n\narnilal e\n\n29",
+      "quality_score": 0.8836,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ro"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 68,
+      "text": "- Segeir mandatim\n\nRue Regia Marfathe\n\nFridericus Fertius Ber\n\n@Iden vod Slan\n\nPrapidem Notrum in\n\n= mum, Potentiftimum. ae\n\nContin docum\n\nfrinciper\n\nFrancice 86 lavarra Re",
+      "quality_score": 0.9277,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt",
+        "ca",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 69,
+      "text": "d ongoederatum Noftrum\n\nCharifstimum, ablegaverimus.\n\n?, u herenitatis fuc Predefio- = vibus regis goriosissimo memo = vid antiqvitus in\n\ntercefit, reno\n\nSecreritatem, com\n\n=",
+      "quality_score": 0.8937,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "it",
+        "pt"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 70,
+      "text": "nomine\n\narum Literarum Regia\n\n- vigon idabili fide in nos eci -\n\nNoftro muni\n\nDri 29. Marty etnno MDCIa\n\nfridlerich",
+      "quality_score": 0.9844,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 71,
+      "text": "copitur manda= -trimo Regis - hristianifsimi.\n\nouis par la Grace le Bien Rote de mance 8 de\n\nNavarre as tous feux que falut:\n\nrendad fottres serron\n\nNoltre tres Cher &6 tres ame trere d6 lousin Allié se\n\nPentederé Le Roy de Dennemark\n\nE de Nombege des Vandalles se des Gobe, Ayant juge an\n\nos d'envoyer\n\npar devers\n\nmouk\n\nLe fir\n\nattabnibal de\n\nSebeftett, Seignerer de\n\nFibring de fendóe se de Sheylegaard, C hevalier de ton Ordre, Ponfeiller\n\nSon jonsul d' stat, Grand\n\nThresorier\n\nse President de les-\n\nfinances po\n\norer en cealités de\n\n. ir",
+      "quality_score": 0.7996,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 72,
+      "text": "и t6\n\nleve bal\n\nTon Ambabsaderer sefrordinaire de note notem\n\n86 de Hos\n\nSoins\n\nLery de fere noftre tres cher &\n\nLe Roy de lhuede des Gote de des Grandalles, comme arefor\n\nmarago\n\nnen, aurait donné poussin de nom l'Amitie 86 aricienne\n\nAllianto qui a cy dereant efter\n\nbene plus effritte union.",
+      "quality_score": 0.7735,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 73,
+      "text": "Jujets 86 de la Liberté 8e commodite de commerce de eftimeroit convenir a ce\n\nDegroy Ledit I\" Ambalsaderer\n\nEetrion'\" ayant arit on it ouvertures Nous.\n\n=mens her\n\nG\n\nadjufter -",
+      "quality_score": 0.799,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 74,
+      "text": "101| v3\n\nLOS\n\nde ие, в qual lessein serer s.\n\nре, , Le.\n\nrité.\n\nPonde iltere cor.\n\nemerpin de louai Quel en Nos\n\nAmmendeurs de Nos ordon\n\nMiniftres de Decretaires\n\n, de\n\nnoftre stat dud.\" de Lyonn\n\nMarquers\n\nde fresne arify -\n\nonseiller en Hos Confele ommendeur de Nos ordres (\n\nMiniftre de Moftre (stat 86 c\n\nSte on ne sete kl\n\nSebert Baron de Feignela\n\ncités der\n\nSelia\n\nemportantes affe fiance\n\navons en crese.\n\nautres ace nous mourans de s\n\nL'adieis de nine Confel ou efloi\n\nLa Regne Nre tres honnorée\n\nDame d onere ave tres chen\n\n, Prine\n\nde nive Jang grands Se nolla, \"bles perfonnages de Core Con el se del N're certaine feience",
+      "quality_score": 0.7826,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 75,
+      "text": "й\n\nsifsance de Autborité\n\nSe depute de par ues prefenteslignetes de Mie main\n\n_ com= 1 Ponte de\n\nBrienne, Le Tillier, de Lyonne, 8 Colbert parer en Are nom.\n\nyoener,\n\nlest Por de cheffett.\n\nAmbalas:\n\ndit There.\n\nLe Roy de Denne-\n\n=mante mieni de\n\nporrioin a ce\n\nleffisant des confitions d'un vaitté d'Amitre, de Commerce\n\nNavigation 08 Bravine comme d'Alliance Es ponfedera\n\nMen utiles te Portables au\n\n'commun de Nos (etats\n\nretordre→\n\narretter 86 Conclaire Od'en Ligner\n\nLes Articles.\n\nOfromettant en\n\nfois a pare de Sy dans fouet",
+      "quality_score": 0.8179,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 76,
+      "text": "preable tenir forme If stabl\n\nMaratifore legitime, emp\n\nesche\n\naccordé So ligné avec Les:.\n\nAmbafsadeur (xtraordinaire d l'en faire delivrer Les Lettres latification ause termes Ss er\n\nCannibalo\n\naSuis\n\nSe plus bas\n\nPhilippotre",
+      "quality_score": 0.8024,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 77,
+      "text": "nt nc it tt et thé à sit\n\n^ los c Mea AP ye nf\n\nTria (tw \"PP\n\nt Let ee D we\n\nAPO DEL MO\n\nSR\n\n= v* +”\n\n+ aa:\n\n\\\n\nI^\n\n1\n\nLj ^» ver fite ENS LES ^\n\nf\n\nDo er RU. A Cle à ee o AK Reo I on Toe om ST Mb Setanta Semi A 1,\n\ne \"2\n\n92. HA D CAE\n\nn\"",
+      "quality_score": 0.6178,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 78,
+      "text": ">A\n\nP = RR\n\nADN a - a7\n\n, .\n\na > D 4 ; Ey y »\n\nY - .\n\nDTO \\ ia DRE * a Re, AASA DLA\n\nR t Ri Lg, > O E e “R\n\nRTI ,\n\ne Pt N TC TTEAN D - -",
+      "quality_score": 0.5337,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Fraktur:psm3",
+      "language": [
+        "en",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 79,
+      "text": "KPEE PEE E aP i CS EA ` Rh yra ., kJ p e : fi\n\nONR\n\n4\n\nDSS\n\nvt, pea",
+      "quality_score": 0.5975,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "sv",
+        "sq",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 80,
+      "text": "101/ v3",
+      "quality_score": 0.8325,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 81,
+      "text": "de",
+      "quality_score": 0.9033,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "no_text_on_nonblank_page"
+      ]
+    },
+    {
+      "page_number": 82,
+      "text": "PE\n\nww Bet 4, * * m\n\nLd\n\nET -r 1 a ^ .- oder EN Y rS M gas lo dier ed ee, 4 -P :\n\n57 e\" 2*4\n\nNE\n\ni]\n\ner “a +28\n\nP\n\n~ x .*\n\nEm.\n\n+ »\n\n^\n\nUr\n\nvos . . - E *.-. ent Y.\n\n. + T Fr 1 \"s ibis 4 - .*\n\n- P . Es \" \" i» 1 es : 74 ; Lr nit hd as » xS 6, v» p,\n\nPe. A , €",
+      "quality_score": 0.589,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "de",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230002_004_s1",
+      "title": "Protocole des conclusions de la commission de délimitation des zones démilitarisées des détroits",
+      "score": 0.431922,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_004_s1",
+      "title": "Annexe du traité (accords commerciaux)",
+      "score": 0.429746,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16630006_005_s1",
+      "title": "Ratification danoise",
+      "score": 0.427109,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_030_s1",
+      "title": "Traité de paix entre la France et la Savoie",
+      "score": 0.415884,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20110325_001_s1",
+      "title": "Accord",
+      "score": 0.40966,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20230094_001_s1",
+      "title": "Convention",
+      "score": 0.408144,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_005_s1",
+      "title": "Ratification japonaise",
+      "score": 0.405965,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_19_s1",
+      "title": "Pouvoirs de signature des délégués chinois : Lù Zhengxiáng (Lou Tseng Tsiang) ; Gù Wéijun (Wellington Koo Vi Kyun) ; Wei Chenzu (Wei Suntchou) ;  Shi Zhàoji (Sze Sao-Ke) ; Wang Zhengting -  Décrets présidentiels du 30 novembre de l'an VII, signatures : Xu Shichang (à droite), Qian Nengxun (à gauche) et traduction",
+      "score": 0.404446,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17630001_001_s1",
+      "title": "Accord (ensemble un article séparé) (ensemble texte des pouvoirs français, britanniques et espagnols)",
+      "score": 0.404108,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_880",
+      "title": "Ratification du traité",
+      "score": 0.395388,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

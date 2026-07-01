@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_slv002_s1",
+  "title": "Procès-verbal du dépôt de l'instrument d'adhésion au protocole de 1972",
+  "year": 1928,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES - VERBAL DE DEPOT DE L'INSTRUMENT D'ADHESION DE LA REPUBLIQUE D'EL SALVADOR AU PROTOCOLE DU 30 NOVEMBRE 1972 PORTANT MODIFICATION DE LA CONVENTION SIGNEE A PARIS LE 22 NOVEMBRE 1928 CONCERNANT LES EXPOSITIONS INTERNATIONALES Son Excellence Monsieur Armando CHAVEZ-VIAUD, Ambas- sadeur Extraordinaire et Plénipotentiaire d'EL SALVADOR s'est présenté aujourd'hui au Ministère des relations extérieures pour procéde…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_slv002_s1.pdf",
+  "source_filename": "tra19280002_slv002_s1.pdf",
+  "source_sha256": "f163b4315be4788c7b8cf2a9df677d63ac1b8276cb4c1998674b629b7f09a4b1",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SLV002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES - VERBAL DE DEPOT\n\nDE L'INSTRUMENT D'ADHESION\n\nDE LA REPUBLIQUE D'EL SALVADOR\n\nAU PROTOCOLE DU 30 NOVEMBRE 1972\n\nPORTANT MODIFICATION DE LA CONVENTION\n\nSIGNEE A PARIS LE 22 NOVEMBRE 1928\n\nCONCERNANT LES EXPOSITIONS INTERNATIONALES\n\nSon Excellence Monsieur Armando CHAVEZ-VIAUD, Ambas- sadeur Extraordinaire et Plénipotentiaire d'EL SALVADOR s'est présenté aujourd'hui au Ministère des relations extérieures pour procéder avec Monsieur Jean-Bernard de VAIVRE, Chef du Protocole adjoint, agissant au nom du Ministre des relations extérieures, au dépôt de l'Instrument d'Adhésion de la République d'El Salvador au protocole du 30 novembre 1972 portant modification de la conven- tion, signée à paris le 28 novembre 1928, concernant les expositions internationales.\n\nL'Instrument ayant été, après examen, trouvé en bonne et due forme, a été déposé, pour y 'être conservé, dans les Archives de la République française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent\n\nProcès-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, en double\n\nexemplaire\n\nle 7 décembre 1982",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion chilien",
+      "score": 0.881237,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_68_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion du Nicaragua",
+      "score": 0.856488,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.831663,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_63_s1",
+      "title": "Notification aux ambassadeurs auprès des pays membres de l'adhésion des États-Unis",
+      "score": 0.81133,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mex003_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Mexique",
+      "score": 0.81133,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_74_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de Panama",
+      "score": 0.795535,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_26_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de la Bolivie",
+      "score": 0.774405,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_108_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de l'Uruguay au protocole de 1972",
+      "score": 0.771677,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.758342,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_38_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Cuba",
+      "score": 0.756075,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

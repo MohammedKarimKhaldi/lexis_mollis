@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19690107_004_s1",
+  "title": "Instrument français",
+  "year": 1969,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9882,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE MINISTRE DE$ AFFAIRES ÉTRANGÈRES Paris, le 17 novembre 1969 Monsieur le Ministre, Me référant à l'article XVI, paragraphe 2 de l'Accord de coopération culturelle, scientifique et technique entre le Gouvernement de la République française et le Gouvernement de la République de Chypre, signé à Nicosie le 29 octobre 1969, j'ai l'honneur de vous faire connaître que les procédures requises par la Constitution de la Ré…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19690107_004_s1.pdf",
+  "source_filename": "tra19690107_004_s1.pdf",
+  "source_sha256": "331db17bb72bf4ddc860223d4415591982b0202cbc9f8a1d39728745edfd428c",
+  "treaty_id": "TRA19690107",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE\n\nMINISTRE\n\nDE$\n\nAFFAIRES ÉTRANGÈRES\n\nParis, le 17 novembre 1969\n\nMonsieur le Ministre,\n\nMe référant à l'article XVI, paragraphe 2 de\n\nl'Accord de coopération culturelle, scientifique et technique entre le Gouvernement de la République française et le\n\nGouvernement de la République de Chypre, signé à Nicosie le 29 octobre 1969, j'ai l'honneur de vous faire connaître que les procédures requises par la Constitution de la\n\nRépublique française pour la mise en vigueur dudit Accord ont été accomplies.\n\nLa présenle lellre conslilue la notification\n\nprévue par la disposition précilée./.\n\nJe vous prie d'agréer, Monsieur le Ministre,\n\nl'assurance de ma haute considération.\n\nSigné : Maurice SCHUMANN\n\nPour copie certifiée conforme à l'original\n\nParis, le 17 novembre 1969.\n\nA Son Excellence\n\nMonsieur Spyros KYPRIANOU\n\nMinislre des Affaires Etrangères de la République de Chypre\n\nNICOSIE",
+      "quality_score": 0.9882,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19710084_004b_s1",
+      "title": "Instrument français (notification du ministre des affaires étrangères français adressée à son homologue kenyan)",
+      "score": 0.726781,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.703806,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_005_s1",
+      "title": "Instrument chypriote",
+      "score": 0.673204,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.631695,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19970011_004_s1",
+      "title": "Instrument français",
+      "score": 0.618143,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.610518,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800128_004_s1",
+      "title": "Instrument français",
+      "score": 0.587512,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090247_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.585998,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.583954,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.417247,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

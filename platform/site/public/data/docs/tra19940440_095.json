@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940440_095",
+  "title": "Procès-verbal",
+  "year": 1994,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "nl"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DE MINISTER-PRESIDENT VAN DE VLAAMSE REGERING, VLAAMS MINISTER BEVOEGD VOOR EXTERNE BETREKKINGEN. Overwegende dat het wenselijk is dat het Verdrag inzake de be- scherming van de Schelde tussen het Vlaams Gewest, de Franse Republiek, het Koninkrijk der Nederlanden, het Waals Gewest en het Brussels Hoofdstedelijk Gewest wordt gesloten, BESLUIT : te benoemen als gevolmachtigde van de Vlaamse Regering Norbert DE BATSELI…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940440_095.pdf",
+  "source_filename": "tra19940440_095.pdf",
+  "source_sha256": "a77e814e48ef16e130a93665eebc69d384585054eb2c556890e896b2499833c4",
+  "treaty_id": "TRA19940456",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DE MINISTER-PRESIDENT VAN DE VLAAMSE REGERING,\n\nVLAAMS MINISTER BEVOEGD VOOR EXTERNE BETREKKINGEN.\n\nOverwegende dat het wenselijk is dat het Verdrag inzake de be- scherming van de Schelde tussen het Vlaams Gewest, de Franse\n\nRepubliek, het Koninkrijk der Nederlanden, het Waals Gewest en het Brussels Hoofdstedelijk Gewest wordt gesloten,\n\nBESLUIT :\n\nte benoemen\n\nals gevolmachtigde van de Vlaamse Regering\n\nNorbert DE BATSELIER, Vlaams minister van Leefmilieu en Huis- vesting, teneinde het\n\ngenoemde Verdrag mee te\n\nondertekenen.\n\nOndertekend\n\nen gezegeld\n\nte Brussel, op 16 januari 1995.\n\nLuc VAN\n\nDEN BRANDE -",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940439_095",
+      "title": "Pouvoirs flamands",
+      "score": 0.881159,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_096",
+      "title": "Instrument flamand",
+      "score": 0.401046,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_096",
+      "title": "Instrument flamand",
+      "score": 0.40071,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680230_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.368611,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620059_001_s1",
+      "title": "Convention",
+      "score": 0.368372,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_521",
+      "title": "Instrument de ratification luxembourgeois",
+      "score": 0.36837,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_096",
+      "title": "Instrument de ratification belge",
+      "score": 0.365812,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182495_001",
+      "title": "Déclaration",
+      "score": 0.365718,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620059_005_s1",
+      "title": "Instrument belge",
+      "score": 0.363584,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19150001_005_s1",
+      "title": "Lettres patentes portant ratification",
+      "score": 0.36297,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

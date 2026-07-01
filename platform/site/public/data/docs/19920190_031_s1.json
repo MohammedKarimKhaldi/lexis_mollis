@@ -1,0 +1,114 @@
+{
+  "document_id": "19920190_031_s1",
+  "title": "Instrument de ratification",
+  "year": 1992,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 0.9984,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ratifikationsurkunde der Bundesrepublik Deutschland zu dem Übereinkommen zum Schutz der Meeresumwelt des Nordostatlantiks Nachdem das in Paris am 22. September 1992 von der Bundesrepublik Deutschland unterzeichnete Übereinkommen zum Schutz der Meeresumwelt des Nordostatlantiks, dessen Wortlaut beigefügt ist, in gehöriger Gesetzesform die verfassungsmäßige Zustimmung gefunden hat, erkläre ich hiermit, daß ich das Übe…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19920190_031_s1.pdf",
+  "source_filename": "19920190_031_s1.pdf",
+  "source_sha256": "f6fada989a1519bbf1dfc17053960509bf446cbb075b97145f99e1dd71bbc370",
+  "treaty_id": "TRA19920190",
+  "treaty_number": "DEU002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ratifikationsurkunde der\n\nBundesrepublik Deutschland\n\nzu dem Übereinkommen zum Schutz der Meeresumwelt des Nordostatlantiks",
+      "quality_score": 0.9967,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Nachdem das in Paris am 22. September 1992 von der\n\nBundesrepublik Deutschland unterzeichnete\n\nÜbereinkommen zum Schutz der Meeresumwelt des Nordostatlantiks, dessen Wortlaut beigefügt ist, in gehöriger Gesetzesform die verfassungsmäßige Zustimmung gefunden hat, erkläre ich hiermit, daß ich das Übereinkommen bestätige.\n\nBerlin , den\n\n- 7. OKTOBER 1994\n\nDer Bundespräsident\n\nНашал Yuwn\n\nDer Bundesminister des Auswärtigen",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19920190_321_s1",
+      "title": "Instrument de ratification (et NV de transmission)",
+      "score": 0.389879,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_005_s1",
+      "title": "Instrument allemand/copie conforme signée par le directeur des Affaires juridiques du ministère des Affaires étrangères allemand et Protocole d'échange des notifications entre le Chancelier Konrad Adenauer et le président de la République René Coty",
+      "score": 0.369292,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_031_s1",
+      "title": "Instrument de ratification allemand",
+      "score": 0.364408,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_256_s1",
+      "title": "Instrument de ratification",
+      "score": 0.362872,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_297_s1",
+      "title": "Instrument de ratification (et NV de transmission)",
+      "score": 0.356978,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.355411,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_98_s1",
+      "title": "Notification aux Etats membres de l'adhésion de la Suède",
+      "score": 0.355287,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.352207,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

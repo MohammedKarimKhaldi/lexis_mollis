@@ -1,0 +1,119 @@
+{
+  "document_id": "19240003_36_s1",
+  "title": "Pouvoirs de négociation et de signature de l'Italie",
+  "year": 1924,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "it"
+  ],
+  "quality_score": 0.954,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Vittorio Emanuele III PER GRAZIA DI DIO E PER VOLONTÀ DELLA NAZIONE RE D'ITALIA Il Dillor Elisio Sallerini bommendatore del Nostro Ordine della Corona d'Italia, Cavaliero di quello dei Panti Maurixio e Larraro ete, eto Addetto Commerciale della Nostra Ambasciata in Taridi ed incaso di sua asfenra 1 Dollor Consalvo Summonte, Pefficiale del Nostr Ordim della Corona d'Itale Cavaliero di quello detenti - (aurizio e parr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_36_s1.pdf",
+  "source_filename": "19240003_36_s1.pdf",
+  "source_sha256": "5cba54c10d1deef6ff6b3e70ce6320feaf38489e46bbaf4f47e1c1012a7f207f",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Vittorio Emanuele III\n\nPER GRAZIA DI DIO E PER VOLONTÀ DELLA NAZIONE\n\nRE D'ITALIA\n\nIl Dillor Elisio Sallerini bommendatore del\n\nNostro Ordine della Corona d'Italia,\n\nCavaliero di quello dei\n\nPanti Maurixio e Larraro ete, eto Addetto Commerciale della Nostra Ambasciata in Taridi ed incaso di sua asfenra 1 Dollor Consalvo Summonte, Pefficiale del Nostr\n\nOrdim della Corona d'Itale Cavaliero di quello detenti\n\n- (aurizio e parraro ele, eto, Consiglino della predetta\n\nNostra Ambasciata i per le presenti, da Noe eletto e nominato Notro Penepotensiario per procedere coi\n\nNempotenziare delli altri rati interessati apla firma e lla Convenziono internarionalo per la istiturione in\n\nParigi di un Ufficio Internarionale del vino.\n\nI tale scopo conferiamo di predetti pieno potere ed ogni necessaria autorità con riserva delle Noitie ratificazioni. In fede di che Moi alliamo firmato le mesenti e vi abbiano fallo apporre il Mostro trale agillo .\n\nDato a I. Cosfore addi due Ottobre mille, uvecento ventiquattro\n\nsiono franes\n\nmutil",
+      "quality_score": 0.954,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_ita001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.415304,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_24_s1",
+      "title": "Pouvoirs de dépôt de la ratification italienne",
+      "score": 0.403539,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630134_003",
+      "title": "Pouvoirs italiens",
+      "score": 0.394889,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_061_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.389142,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_46_s1",
+      "title": "Pouvoirs (Rome, janvier, mai et juin 1919) et note des autorités italiennes relative au changement de plénipotentiaires (27 mai 1919)",
+      "score": 0.38707,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_435",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.383153,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_54_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.380842,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19520029_003_s1",
+      "title": "Pouvoirs monégasques",
+      "score": 0.372686,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_71_s1",
+      "title": "Pouvoirs de négociation et de signature du Venezuela",
+      "score": 0.37252,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_smr002_s1",
+      "title": "Pouvoirs à l'ambassadeur de Saint-Marin à Paris de dépôt de l'instrument d'adhésion",
+      "score": 0.371117,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "document_id": "19240003_45_s1",
+  "title": "Lettre d'adhésion de la Moldavie",
+  "year": 1924,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9325,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "je 7— GOVERNMENT GUVERNUL \"' REPUBLICII MOLDOVA of the REPUBLIC of MOLDOVA MINISTERE OFS AFFAIPES ETRANGERES] or. Chisinäue 11, iunie 199 2 Index nr. 0708-546 NATIONS UNIES tel. 23-33-46 telex 163151 [17 suit 1392] 1392 fax 24-26-96 17: ve Mm» ot €: a eee, LT APEABISATIONS INTERSATISHATS er df MONSIEUR LE MINISTRE DES AFFAIRES ETRANGERES Le Governement de la République de Moldova vous adresse la priere d'accepter no…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_45_s1.pdf",
+  "source_filename": "19240003_45_s1.pdf",
+  "source_sha256": "59b5e68e6d04cedfa8184bb198842a03143e3b162f42375abe31431d5231c3ff",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "MDA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "je 7—\n\nGOVERNMENT\n\nGUVERNUL \"'\n\nREPUBLICII MOLDOVA of the REPUBLIC of MOLDOVA\n\nMINISTERE OFS AFFAIPES ETRANGERES] or. Chisinäue 11, iunie 199 2\n\nIndex nr. 0708-546\n\nNATIONS UNIES\n\ntel. 23-33-46 telex 163151 [17 suit 1392] 1392 fax 24-26-96 17: ve Mm» ot €: a\n\neee,\n\nLT APEABISATIONS INTERSATISHATS\n\ner df\n\nMONSIEUR LE MINISTRE DES AFFAIRES ETRANGERES\n\nLe Governement de la République de Moldova vous adresse la priere d'accepter notre pays dans Ie cadre de l'Office International de la Vigne et du Vin comme membre permanent avec deux votes.\n\nActuellement la République de Moldova possede 170 mille ha de vignobles, produit 30 millions decalitres du vin, 11 millions bouteilles de mousseau et 1,2 millions decalitres de brandevin. La république a à sa disposition un haut poten- tiel technique ethumain, possede des specialistes et des savants dans le domai- ne vitl-vinicole.\n\nL'Institut viti-vinicole du Ministére de l'agriculture et de l'alimentation est bien réconnu dans le monde vinicole comme un important centre de selection des nouveaux cepages des plantes de vigne, comme centre des vastes rechér- ches oenologiques.\n\nLa participation de la République de Moldova à l'activité de l'O.I.V., permet- tra d'intensifier le developpement des branches viti-vinicoles et d'elargir la col- laboration entre les pays viti-vinicoles du monde.\n\nLe Premier-Ministre de la\n\nRepublique de Moldova Vi MURAVSKI",
+      "quality_score": 0.9325,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

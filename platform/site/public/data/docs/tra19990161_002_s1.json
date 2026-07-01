@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19990161_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1999,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9904,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "!:. République Fransaise N° 229/99 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à : Monsieur Christian SAUTTER, Ministre de l'Economie, des Finances et de l'Industrie, pour signer un Accord de conversion de dettes entre le Gouvernement de la République française et le Gouvernement du Royaume hachémite de Jordanie./. FAIT A PARIS, LE 15 N…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19990161_002_s1.pdf",
+  "source_filename": "tra19990161_002_s1.pdf",
+  "source_sha256": "c9498ea34d2de4c179578248dbca8c08a55f76d05e2d8c15b80db08c1ea410d7",
+  "treaty_id": "TRA19990161",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "!:.\n\nRépublique Fransaise\n\nN° 229/99\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre des\n\nAffaires Etrangères, donnons POUVOIRS par ces présentes à :\n\nMonsieur Christian SAUTTER, Ministre de l'Economie, des Finances\n\net de l'Industrie,\n\npour signer un Accord de conversion de dettes entre le Gouvernement de la\n\nRépublique française et le Gouvernement du Royaume hachémite de Jordanie./.\n\nFAIT A PARIS, LE 15 Novemhu 1999\n\nLe Ministre des Affaires Etrangères",
+      "quality_score": 0.9904,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.637077,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870226_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.634449,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.628566,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_002",
+      "title": "Pouvoirs français",
+      "score": 0.604961,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.604395,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19920387_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.58809,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070073_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.579758,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990082_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.578143,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.577636,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002b_s1",
+      "title": "Pouvoirs français (délivrés à Michel Vauzelle)",
+      "score": 0.576964,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

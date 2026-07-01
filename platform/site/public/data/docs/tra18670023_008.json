@@ -1,0 +1,119 @@
+{
+  "document_id": "tra18670023_008",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1867,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8992,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "France Procis Dabal d'échangep. Ses Soussignés s'étant reunis pour procéder à l'échange des Ratifications de da Majesté l'Empereur des Français es de da Abajesté le Roi de Ruase, sur la Convention conclue, le 18 juilles 1869 pour l'établissement d'un chemin de fer entre darreguemines es Darrebruck, - Ses instruments de ces Ratifications ons ete produits, es, ayans ete, après examen, trouvés en borne es dire forme, l…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18670023_008.pdf",
+  "source_filename": "tra18670023_008.pdf",
+  "source_sha256": "1e5e39d0d117ca9d3172f4b69b61f0b194977a4ee18193ba4befa6b903b4a169",
+  "treaty_id": "TRA18670023",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "France\n\nProcis Dabal d'échangep.\n\nSes Soussignés s'étant reunis pour procéder à l'échange des Ratifications de da Majesté l'Empereur des Français es de da Abajesté le Roi de Ruase, sur la\n\nConvention conclue, le 18 juilles 1869 pour l'établissement d'un chemin de fer entre darreguemines es Darrebruck,\n\n- Ses instruments de ces Ratifications ons ete produits, es, ayans ete, après examen, trouvés en borne es dire forme, l'échange en a été opéré. En foi de quoi, les donssignés ond dressé le présens Proces. Verbal\n\nes l'ors revêtu du caches de leurs armes.\n\nLe Mimistre de l'Intérieces\",\n\nChargé par interio du Cortefeuillo des Affaires tirangèree),\n\nTais on double expédition, à Paris, le 18 deptentre 1862.\n\nL'Ambafoa ders de Sa\n\nMajesté le Roi dep\n\nTrusse,\n\nPour l'Ambassadeur\n\nle\n\nfamtellolins",
+      "quality_score": 0.8992,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.373114,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.371737,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_73_s1",
+      "title": "Procès verbal d'échange des instruments de ratification du Venezuela",
+      "score": 0.364223,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19290031_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.363208,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.358467,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_352b_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de la convention entre la Bulgarie et la Grèce",
+      "score": 0.358376,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_10_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.357296,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_727_s1",
+      "title": "Procès-verbal de dépôt des ratifications du traité de paix, protocole et déclaration du 10 septembre 1919",
+      "score": 0.356024,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190005_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.354577,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_007_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.352047,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

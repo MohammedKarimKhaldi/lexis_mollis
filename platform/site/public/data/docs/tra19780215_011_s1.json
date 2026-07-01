@@ -1,0 +1,100 @@
+{
+  "document_id": "tra19780215_011_s1",
+  "title": "Échange de lettres a/s prorogation des dates limites de tirage sur le prêt du Trésor",
+  "year": 1978,
+  "doc_type": "Échange de lettres",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9689,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PARIS, le 29 Août 1980 Monsieur ie Président, Au cours de nos entretiens des 28 et 29 Août 198q nous sommes convenus de proroger du 31 décembre 198) au 31 décembre 1982 les dates limites de tirage sur le prêt du Trésor fixées par le protocole du 22 août 1978. Je vous serais reconnaissant de me confirmer ltaccord de votre Gouvernement sur ce qui précède, Je vous prie d'agréer, Monsieur le Président, l'assurance de ma…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Échange de lettres",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19780215_011_s1.pdf",
+  "source_filename": "tra19780215_011_s1.pdf",
+  "source_sha256": "c673a2a3f80e153673300140ea51bcd3aed9e7c87d7d765a808527ee037b7d50",
+  "treaty_id": "TRA19780215",
+  "treaty_number": "011",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PARIS, le 29 Août 1980\n\nMonsieur ie Président,\n\nAu cours de nos entretiens des 28 et 29 Août 198q\n\nnous sommes convenus de proroger du 31 décembre 198) au 31 décembre 1982 les dates limites de tirage sur le prêt du Trésor fixées par le protocole du 22 août 1978.\n\nJe vous serais reconnaissant de me confirmer\n\nltaccord de votre Gouvernement sur ce qui précède,\n\nJe vous prie d'agréer, Monsieur le Président,\n\nl'assurance de ma tròs haute considération.\n\nLe Président de ila Délógation\n\nFrançaise,\n\nPIE\n\nPhilippe LAGAYETTE\n\nMonsieur le Président de la Délégation Chypriote",
+      "quality_score": 0.9378,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "PARIS, le 29 Août 1980\n\nMonsieur le Président,\n\nVous avez bien voulu m'adresser ce jour une lettre\n\ndont 1e\n\ncontenu est le suivant :\n\n\"Aul cours de nos etretiens des 28 et 29 Août 1980,\n\nnous sommes convenus de proroger du 31 décembre 1981 au 31 décembre 1982 les dates limites de tirage sur le prêt du Trésor fixées par le protocole du 22 août 1978.\n\nle vous serais reconnaissant de me confirmer l'ac\n\nord de votre Gouvernement sur ce qui précède\"\n\nJ'ai 1'honneur de vous confirmer l'accord de mon\n\nGouvernement sur ce qui précède.\n\nvous prie d'agréer, Monsieur le Président,\n\nl'assurance de\n\nma très haute considération.\n\nLe Président de la Délégation\n\nChypriote,\n\nHaralambos\n\n• HADJIPANAYIOTOU\n\nMonsieur le Président de la Délégation Française",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19800233_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.543448,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_33_s1",
+      "title": "Lettre de transmission de l'instrument et brouillon manuscrit de son accusé de réception",
+      "score": 0.366078,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19780215_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.36356,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.355905,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750103_100_s1",
+      "title": "Publication au Journal officiel du",
+      "score": 0.35187,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.351591,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

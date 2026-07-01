@@ -1,0 +1,131 @@
+{
+  "document_id": "tra19280002_306",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.7609,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "| こき pp ジー = \\ ( VP 2 i \\ 4 NN Wl) 3 \\ “¢ SD a ほ き | \\ NZ AN CS \\ > A | NN | SL NN (DO A | “ N Ne ol (le / NR / ACCESSION ON BEHALF OF THE UNITED STATES OF AMERICA I, Rex W. Tillerson, Secretary of State of the United States of America, having seen and considered the Convention relating to international exhibitions signed at Paris on November 22, 1928, and supplemented by the Protocols of May 10, 1948, November 16,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_306.pdf",
+  "source_filename": "tra19280002_306.pdf",
+  "source_sha256": "f377850dea99860eba8e68881083ec6bf3ba7d307da2b2fbe609ba18a89402a3",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "USA006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "| こき pp ジー = \\ ( VP 2 i \\ 4 NN Wl) 3 \\ “¢ SD a ほ き | \\ NZ AN CS \\ > A | NN |\n\nSL NN (DO A |\n\n“ N Ne ol (le /\n\nNR /",
+      "quality_score": 0.5217,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm6",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCESSION ON BEHALF OF\n\nTHE UNITED STATES OF AMERICA\n\nI, Rex W. Tillerson, Secretary of State of the United\n\nStates of America, having seen and considered the Convention relating to international exhibitions signed at Paris on\n\nNovember 22, 1928, and supplemented by the Protocols of\n\nMay 10, 1948, November 16, 1966, and November 30, 1972, the\n\nAmendment of June 24, 1982, and the Amendment of May 31, 1988 (\"the Convention\"), do hereby approve accession of the\n\nUnited States of\n\nAmerica to the Convention, subject to the\n\nfollowing:\n\n1.\n\n2.\n\nA reservation with respect to paragraph (2) of\n\nArticle 10 of the Convention that the obligation of the United States thereunder will be to guarantee fulfillment of its own obligations and, with respect to juristic persons officially recognized by it for the purpose of organizing expositions,\n\nto make every reasonable effort to fulfillment by them of their\n\nobligations; and\n\nIn accordance with paragraph (5) of Article 34 of the Convention, the United states declares itself not bound by the provisions of paragraphs (3) and\n\n(4) of Article 34.\n\nDONE at Washington this ninth day of May, 2017.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_112_s1",
+      "title": "Instrument de ratification des Etats-Unis",
+      "score": 0.416339,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.398506,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_jam005_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.398197,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_ken001_s1",
+      "title": "Instrument d'adhésion du Kenya",
+      "score": 0.394421,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mhl001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.387001,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.384737,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_222_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.384423,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_70_s1",
+      "title": "Instrument d'adhésion des Fidji",
+      "score": 0.38429,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_68_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.383516,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_155_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.383404,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

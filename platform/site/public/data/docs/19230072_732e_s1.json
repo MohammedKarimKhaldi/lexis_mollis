@@ -1,0 +1,116 @@
+{
+  "document_id": "19230072_732e_s1",
+  "title": "Procès-verbal de dépôt de déclarations britanniques et franco-britanniques",
+  "year": 1923,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9771,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE 30 AOUT 1924 Conformément aux dispositions de l'articlo 19 de la Conven- tion relative à l'établissement et à la compétenco judiciaire et de l'article 16 de la Convention Comierciale signées à Lausanne 1o 24 Juillet 1923 par l'Hmpire Britannique, la Irance, l'Italie, le Japon, la Grèco la Rournario et la Iurquis, le Ministre de Sa Majesté Britannique à Paris s'est presenté au Ministère des Aífaires Etrangères et…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_732e_s1.pdf",
+  "source_filename": "19230072_732e_s1.pdf",
+  "source_sha256": "aad48c71abc3a3f9d3b015aad217e85b184f1aa0e13bf0d8fc3d32b187acbae7",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "GBR003e",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE 30 AOUT 1924\n\nConformément aux dispositions de l'articlo 19 de la Conven-\n\ntion relative à l'établissement et à\n\nla compétenco judiciaire et de\n\nl'article 16 de la Convention Comierciale signées à Lausanne 1o 24 Juillet 1923 par l'Hmpire Britannique, la Irance, l'Italie, le Japon, la Grèco la Rournario et la Iurquis, le Ministre de\n\nSa Majesté Britannique à Paris s'est presenté au Ministère des Aífaires Etrangères et a, conjointement avec le President du Conseil\n\nMinistre des Affaires Etrangères de la Republique française deposé\n\n1°) une déclaration aux termes de laquelle les disposi-\n\ntions de la Convention relative à l'etablissement et à la compéten eo judiciairo signée à Lausarne le 24 Julllet 1923 ne s'appliquent pas au Condominiun franco- britannigue des Nouvelles Hébrides.\n\n2°) Une déclaration aux tormes de laguelle les disposi-\n\ntions de la Convention Commereiale signee a Lausanne le 24 Julllet 1923 ne s'anpliquent pas au Condominium franco- britannique des\n\nNouvelles Hébrides;\n\nEn FOI de QUOI a éte dressé le présent procès -\n\nverbal dont une copie conforne sera adresséepar les soins du Gouverneuent de la République françaiso à chacuno des Puissarces signa taires desdites Conventions.\n\nFait à Paris 1a 30 Août 1924.",
+      "quality_score": 0.9771,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230072_732d_s1",
+      "title": "Déclaration franco-britannique relative à la non-application des dispositions de la Convention concernant l'établissement et la compétence judiciaire au territoire du condominium des Nouvelles-Hébrides",
+      "score": 0.420061,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_003_s1",
+      "title": "Procès-verbal de dépôt des instruments britanniques, italiens et japonais de certains actes signés à Lausanne le 24 juillet 1923 et le 23 novembre 1923, et à Sèvres le 10 août 1920",
+      "score": 0.417579,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_732b_s1",
+      "title": "Déclaration franco-britannique relative à la non-application des dispositions de la Convention commerciale au territoire du condominium des Nouvelles-Hébrides",
+      "score": 0.413426,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_352a_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec relatif à 12 actes signés à Lausanne",
+      "score": 0.403183,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_922_s1",
+      "title": "Procès-verbal de dépôt des instruments de ratification turcs",
+      "score": 0.391454,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_352b_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative aux modalités du remboursement par le gouvernement hellénique des dettes résultantes des actes des autorités helléniques en Turquie",
+      "score": 0.377252,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.376439,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_727_s1",
+      "title": "Note verbale roumaine demandant au dépositaire de rectifier la date du procès-verbal de dépôt des ratifications roumaines ainsi que le nombre d'actes conclus à Lausanne ratifiés par la Roumanie",
+      "score": 0.375941,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_732c_s1",
+      "title": "Déclaration britannique relative à la non application des dispositions de la convention  concernant l'établissement et la compétence judiciaire aux territoires des dominions britanniques",
+      "score": 0.374304,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_352c_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative à la Thrace",
+      "score": 0.368681,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

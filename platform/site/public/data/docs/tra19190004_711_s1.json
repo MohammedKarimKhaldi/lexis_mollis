@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19190004_711_s1",
+  "title": "Note verbale a/s transmission de la ratification et date du PV de son dépôt",
+  "year": 1919,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.942,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LEGATION DE lOLOGNXE EN FRANCE N, 2389 i &nnexe , la Légation de Pologne & l'honneur de transmettre ci-joint au Ministère des Affaires Etrangère: l'instrument de ratification du Traité de Paix entr ies Puissances alliées et associées et l'Autriche signé le 1G septembre I919 à Saint-Germain-en-Laye, et le prie de bien vouloir lui faire connaître la date qui sera fixée pour la signature du procès verbai du dépôt de ra…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190004_711_s1.pdf",
+  "source_filename": "tra19190004_711_s1.pdf",
+  "source_sha256": "cff7d83e9b3cf77447bf60017a72ace56619bd1c5f80debce066a1e5ca70b2d2",
+  "treaty_id": "TRA19190004",
+  "treaty_number": "711",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LEGATION DE lOLOGNXE\n\nEN FRANCE\n\nN, 2389\n\ni &nnexe ,\n\nla Légation de Pologne & l'honneur de transmettre ci-joint au Ministère des Affaires Etrangère:\n\nl'instrument de ratification du Traité de Paix entr ies Puissances alliées et associées et l'Autriche signé le 1G septembre I919 à Saint-Germain-en-Laye, et le prie de bien vouloir lui faire connaître la date qui sera fixée pour la signature du procès verbai du dépôt de ratification par 1e Ministre de\n\nPologne à Paris ,\n\nParis, la /YaAott 1924 ,\n\nMINISTERE DES AFFAI ETRANGERES\n\n= Service du ‘Pr tocole -",
+      "quality_score": 0.942,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_727_s1",
+      "title": "Procès-verbal de dépôt des ratifications du traité de paix, protocole et déclaration du 10 septembre 1919",
+      "score": 0.393121,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_631_s1",
+      "title": "Procès-verbal du dépôt de ratification du traité de paix du 10 septembre 1919",
+      "score": 0.390613,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.386592,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_727_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification roumain",
+      "score": 0.384425,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_23_s1",
+      "title": "Note verbale d'accompagnement de l'instrument grec",
+      "score": 0.379902,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_097_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.37985,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_33_s1",
+      "title": "Lettre de transmission de l'instrument et brouillon manuscrit de son accusé de réception",
+      "score": 0.378688,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.376022,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_46_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.37516,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.373607,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "document_id": "tra19760088_001_s1",
+  "title": "Accord",
+  "year": 1976,
+  "doc_type": "Accord",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.7723,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": ". - ` 7 -=m Hi 7 o ` . die o < # 11 0 ĈuT . . wo Jih De Hoy a O 7 ` ` n a e - . -E Tie E V a ` - : . Ja $ EL L Er er o Te < 7 . . B ANTE : . . p . - E . aTe a mie ` ` . 7 an Tis H i - = ACCORD PORTANT LE GOUVERNEMENT CREATION D'UNE GRANDE COMMISSION MIXTE ENTRE DE LA REPUBLIQUE FRANCAISE ET LEGOUVERNEMENT DE LA REPUBLIQUE TOGOLAISE -1- Le gouvernement de la République française, d'une part, Le: gouvernement de la Ré…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760088_001_s1.pdf",
+  "source_filename": "tra19760088_001_s1.pdf",
+  "source_sha256": "7dd797aa70724bebfd875619e1f30d7071fbffdf598bcfef85f3b8116a7bfed1",
+  "treaty_id": "TRA19760088",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ". - ` 7 -=m Hi 7 o ` . die o < # 11 0 ĈuT . .\n\nwo Jih De Hoy a O 7 ` ` n a e - .\n\n-E Tie E V a ` -\n\n: . Ja $ EL L Er er o Te < 7 . . B ANTE : . .\n\np . - E . aTe a mie ` ` . 7 an Tis H i\n\n- =",
+      "quality_score": 0.4575,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD\n\nPORTANT\n\nLE\n\nGOUVERNEMENT\n\nCREATION\n\nD'UNE GRANDE\n\nCOMMISSION\n\nMIXTE\n\nENTRE\n\nDE\n\nLA REPUBLIQUE FRANCAISE\n\nET\n\nLEGOUVERNEMENT\n\nDE\n\nLA REPUBLIQUE TOGOLAISE",
+      "quality_score": 0.9588,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "-1-\n\nLe gouvernement de la République française, d'une part,\n\nLe: gouvernement de la République togolaise, d'autre part,\n\nSoucieux de maintenir et d'accroître les liens traditionnels d'amitié qui unissent les peuples togolais et français ;\n\nAnimés par la volonté de consolider et de renforcer la coopération dars tous les domaines entre leurs deux Pays ;\n\nOnt résolu de conclure le présent accord.\n\n.../...\n\n-2 - ARTICLE PREMIER\n\nLes Parties contractantes décident de créer une commission mixte de coopération franco-togolaise de niveau ministériel dénommée \"Grande Gommission\".\n\nARTICLE IT\n\nLa Grande Commission veille à l'application des accords de coopération entre les deux pays et recherche les voies et moyens propres à améliorer et à renforcer cette coopération.\n\nElle a également compétence pour connaître des difficultés qui pourraient naître de l'interprétation ou de l'application de ces accords.\n\nARTICLE III\n\nElle examine les rapports et reconnandations qui lui sont soumis par les diverses commissions paritaires prévues dans les conventions et accords de coopération entre la République française et la République togolaises\n\nElle peut connaître de toute question de coopération non prévue par lesdits accords.\n\nARTICLE IV\n\nElle se réunit une fois par an, alternativement au Togo et en Frunce et en session extraordinaire à la demande de l'une ou l'autre des\n\nParties contractantes.\n\nARTICLE V\n\nLe prísent accord entrera en vigueur le premier jour du Zème mois suivant léchange des instruments constatant l'accomplissement des procédures requises à cet effet dans chacun des deux Etats.\n\n.../...",
+      "quality_score": 0.9984,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "- 3-\n\nCet échange aura lieu à Paris aussitôt que faire se\n\npourra.\n\nIl demeure en vigueur jusqu'à l'expiration d'une\n\nannée à compter du jour ou l'une des Parties contractantes aura déclaré vouloir en faire cesser les effets.\n\nFait à Lomé, le 23 Mars 1976\n\nEn deux exemplaires originaux,\n\nPour le gouvernement de la République française\n\nPour le gouvernement\n\nde la République togolaise\n\nJean de LIPKOWSKI\n\nMinistre de la Coopération\n\nAyi Houenou HUNLEDE\n\nMinistre des Affaires Etrangères",
+      "quality_score": 0.9781,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "E",
+      "quality_score": 0.4688,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760090_001_s1",
+      "title": "Accord",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19830254_001_s1",
+      "title": "Protocole",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20110325_001_s1",
+      "title": "Accord",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19650054_100_s1",
+      "title": "Texte du procès-verbal de la XIIe commission mixte franco-italienne pour l'application de la convention culturelle",
+      "score": 0.934369,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19930240_001_s1",
+      "title": "Accord",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_004_s1",
+      "title": "Protocole des conclusions de la commission de délimitation des zones démilitarisées des détroits",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760089_001_s1",
+      "title": "Convention",
+      "score": 0.410884,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_001_s1",
+      "title": "Convention",
+      "score": 0.41083,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20250001_001_s1",
+      "title": "Accord",
+      "score": 0.407067,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760086_001_s1",
+      "title": "Accord",
+      "score": 0.403332,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

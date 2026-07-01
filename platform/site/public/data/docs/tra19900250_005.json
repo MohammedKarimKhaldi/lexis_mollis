@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19900250_005",
+  "title": "Note de l’ambassade notifiant l’accomplissement des procédures constitutionnelles",
+  "year": 1990,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9606,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE SUÈDE RECTION JURIDIQUE! 23. 0U 1991 ARRIVEE Paris, le 21 août 1991 SPA No 97 L'Ambassade de Suède présente ses compliments au Ministère des affaires étrangères et, se référant à l'article 30 de la Convention entre le Gouvernement du Royaume de Suède et le Gouvernement de la République française en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu et…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19900250_005.pdf",
+  "source_filename": "tra19900250_005.pdf",
+  "source_sha256": "cffa79ac04e7ec36a669c665218af068c739beaa30325e5ba01f82641c96d61c",
+  "treaty_id": "TRA19900250",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DE SUÈDE\n\nRECTION JURIDIQUE!\n\n23. 0U 1991\n\nARRIVEE\n\nParis, le 21 août 1991\n\nSPA\n\nNo 97\n\nL'Ambassade de Suède présente ses compliments\n\nau Ministère des affaires étrangères et, se référant\n\nà\n\nl'article 30 de la Convention entre le Gouvernement du\n\nRoyaume de Suède et le Gouvernement de la République française en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Stockholm le 27 novembre 1990, a l'honneur de porter à Sa connaissance que les conditions, requises par la constitution suédoise pour l'entrée en vigueur de ladite convention, ont reçu satisfaction le 30 mai 1991.\n\nL'Ambassade de Suède saisit cette occasion\n\npour renouveler au Ministère des affaires étrangères les assurances de sa haute considération.\n\nMinistère des Affaires Etrangères\n\nDirection des Affaires juridiques\n\nParis\n\nBons\n\nYOUSSy!INA\n\nTeléphone 555 - 92.15\n\nTélégramme\n\nSvensk\n\nTelex 204675\n\n17, rue Barbet-de-Jouy 75007 Paris",
+      "quality_score": 0.9606,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19900250_006",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.437559,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.409976,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_004",
+      "title": "Instrument de ratification",
+      "score": 0.408098,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.40488,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_045_s1",
+      "title": "Note verbale d'acceptation de l'amendement de la Suède",
+      "score": 0.40413,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_037_s1",
+      "title": "Note verbale d'acceptation du Pérou",
+      "score": 0.400937,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220004_005_s1",
+      "title": "Note de l'ambassade signifiant l'approbation",
+      "score": 0.399726,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_696",
+      "title": "Pouvoirs néerlandais",
+      "score": 0.398894,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_258_s1",
+      "title": "Note verbale de l'Ambassade royale de Danemark notifiant le retrait de la réserve portant sur l'application de la Convention au territoire des Iles Féroé.",
+      "score": 0.398106,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_001_s1",
+      "title": "Texte de l'arrangement : note française (ensemble 3 plans annexés signés par le directeur général des douanes à Berne le 2 sept 1992 et par le directeur général des douanes et droits indirects à Paris le 30 mars 1993 )",
+      "score": 0.396575,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

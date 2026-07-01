@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19240002_250",
+  "title": "Recueil des traités des Nations Unies",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9563,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "388 United Nations — Treaty Series 1972 No. 1360. INTERNATIONAL AGREE- MENT FOR THE CREATION AT PARIS OF AN INTERNATIONAL OFFICE FOR DEALING WITH CONTAGIOUS DISEASES OF ANIMALS. SIGNED AT PARIS ON 25 JANUARY 1924! ACCESSION Instrument deposited with the Govern- ment of France on : 4 September 1972 CUBA Certified statement was registered at the request of France on 6 October 1972. 1 League of Nations, Treaty Series,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_250.pdf",
+  "source_filename": "tra19240002_250.pdf",
+  "source_sha256": "f87a3c6e7202f1d343300b1dcf53c271fa28e6d190e7aac874c3f502fd139da2",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "250",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "388\n\nUnited Nations — Treaty Series\n\n1972\n\nNo. 1360. INTERNATIONAL AGREE- MENT FOR THE CREATION AT\n\nPARIS OF AN INTERNATIONAL\n\nOFFICE FOR DEALING WITH\n\nCONTAGIOUS DISEASES OF\n\nANIMALS. SIGNED AT PARIS ON\n\n25 JANUARY 1924!\n\nACCESSION\n\nInstrument deposited with the Govern- ment of France on :\n\n4 September 1972\n\nCUBA\n\nCertified statement was registered at the request of France on 6 October 1972.\n\n1 League of Nations, Treaty Series, vol.\n\nLVIL p. 135; and United Nations, Treaty\n\nSeries, vol. 774, p. 380.\n\nN° 1360. ARRANGEMENT INTER-\n\nNATIONAL POUR LA CRÉATION,\n\nÀ PARIS, D'UN OFFICE INTER-\n\nNATIONAL DES EPIZOOTIES.\n\nSIGNÉ À PARIS LE 25 JANVIER\n\n19241\n\nADHÉSION\n\nInstrument déposé auprés du Gouverne- ment francais le :\n\n4 septembre 1972\n\nCUBA\n\nLa déclaration certifiée a été enregistrée à la demande de la France le 6 octobre 1972.\n\n4 Société des Nations, Recueil des Traités, vol. LVII, p. 135; et Nations Unies, Recueil des\n\nTraités, vol. 774, p. 381.",
+      "quality_score": 0.9563,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760088_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.381337,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.380304,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610286_100_s1",
+      "title": "Certificat ONU d'enregistrement du Traité",
+      "score": 0.379795,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.379514,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19860200_100_s1",
+      "title": "Certificat ONU d'enregistrement de l'accord",
+      "score": 0.377873,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820004_990_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.376078,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19720042_100",
+      "title": "tra19720042_100",
+      "score": 0.375489,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_101",
+      "title": "Publication au Journal officiel (extrait de recueil)",
+      "score": 0.37474,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.374612,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19570067_001_s1",
+      "title": "Convention",
+      "score": 0.374122,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

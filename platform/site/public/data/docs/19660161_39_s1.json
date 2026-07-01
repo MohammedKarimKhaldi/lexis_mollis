@@ -1,0 +1,128 @@
+{
+  "document_id": "19660161_39_s1",
+  "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": ". WHEREAS New Zealand is a party to the Convention relating to International Exhibitions, 1928, as amended by a Protocol signed at Paris on 10 May 1948, (hereinafter referred to as \"the Convertion\") AND WHEREAS a Protocol modifying Article IV of the Convention has been drawn up for signature on behalf of the Governments parties to the Convention AND WHEREAS the said Protocol is to be open for signature in Paris from…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_39_s1.pdf",
+  "source_filename": "19660161_39_s1.pdf",
+  "source_sha256": "911a64680a5cb9185670b19b307084b34ad00db1a1c136711e1f66e12f583228",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "NZL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ".\n\nWHEREAS New Zealand is a party to the Convention relating to International Exhibitions, 1928, as amended by a Protocol signed at Paris on 10 May 1948, (hereinafter referred to as \"the Convertion\")\n\nAND WHEREAS a Protocol modifying Article IV of the\n\nConvention has been drawn up for signature on behalf of the Governments parties to the Convention\n\nAND WHEREAS the said Protocol is to be open for signature in Paris from 16 November 1966 until 17 December 1966\n\nAND WHEREAS it is expedient that a fit person should be invested with full powers to sign the Protocol on behalf of the Government of New Zealand\n\nI, KEITH JACKA HOLYOAKE, Minister of External Affairs of New Zealand, HEREBY CERTIFY that RICHARD LEWIS HUTCHENS,\n\nAmbassador Extraordinary and Plenipotentiary of New Zealand to the Republic of France, is by these presents NAMED,\n\nCONSTITUTED AND APPOINTED to sign the Protocol modifying\n\nArticle IV of the Convention relating to International\n\nExhibitions, 1928, on behalf of the Government of\n\nNew Zealand\n\n• AND I HEREBY FURTHER CERTIFY that the Protocol, when signed by the said RICHARD LEWIS HUTCHENS WIll, subject to ratification by the Government of New Zealand, be acknowledged by the Government of New Zealand in the fullest manner.\n\n/IN",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "2.\n\nIN WITNESS WHEREOF I have signed these presents and affixed hereto the seal of the Minister of External\n\nAffairs of New Zealand.\n\nSIGNED AND SEALED at Wellington this day of October\n\n1966\n\n18th\n\nMinister of External Affairs of New Zealand",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_075_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.411574,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_ken001_s1",
+      "title": "Instrument d'adhésion du Kenya",
+      "score": 0.406253,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_005_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.405649,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_17_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.404189,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_009_s1",
+      "title": "Instrument d'acceptation de l'Australie",
+      "score": 0.402046,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.401924,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.401727,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_236_s1",
+      "title": "Instrument d'adhésion du Vanuatu",
+      "score": 0.401701,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_655_s1",
+      "title": "Pouvoirs indiens",
+      "score": 0.401157,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_142_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.399238,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

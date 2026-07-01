@@ -1,0 +1,331 @@
+{
+  "document_id": "TRA20172211_001_s1",
+  "title": "Accord",
+  "year": 2017,
+  "doc_type": "Accord",
+  "languages": [
+    "en",
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.8447,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "ACCORD ENTRE LA RÉPUBLIQUE FRANÇAISE ET LA RÉPUBLIQUE PORTUGAISE DE COOPÉRATION EDUCATIVE ET LINGUISTIQUE -3- La République française, d'une part, et la République portugaise, d'autre part, ciaprès dénommées les «Parties», Considérant l'Accord de coopération culturelle, scientifique et technique entre le Gouverement de la République française et le Gouverement de la République portugaise, signé à Lisbonne le 12 juin…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20172211_001_s1.pdf",
+  "source_filename": "TRA20172211_001_s1.pdf",
+  "source_sha256": "c15da8274d782c783e8e3bf36caacca3f3d5a20d3f7e36b4f76c6f698fbb8e2a",
+  "treaty_id": "TRA20172211",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ACCORD\n\nENTRE\n\nLA RÉPUBLIQUE FRANÇAISE\n\nET\n\nLA RÉPUBLIQUE PORTUGAISE\n\nDE COOPÉRATION EDUCATIVE ET LINGUISTIQUE",
+      "quality_score": 0.9786,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "-3-\n\nLa République française, d'une part, et la République portugaise, d'autre part, ciaprès dénommées les «Parties»,\n\nConsidérant l'Accord de coopération culturelle, scientifique et technique entre le\n\nGouverement de la République française et le Gouverement de la République portugaise, signé à Lisbonne le 12 juin 1970 ;\n\nConsidérant l'Accord entre le Gouvernement français et le Gouvernement portugais relatif à l'immigration, à la situation et à la promotion sociale des travailleurs portugais et de leurs familles en France, signé à Lisbonne le 11 Janvier 1972, notamment son article 37 relatif a l'enseignement aux enfants portugais de leurs langue et culture d'origine dans le système éducatif français;\n\nSe référant au Protocole de coopération éducative entre le Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche de la République française et le\n\nMinistère de l'éducation de la République portugaise, signé à Paris le 10 avril 2006 ;\n\nS'appuyant sur la Déclaration conjointe sur la coopération bilatérale en matière d'enseignement du français et du portugais, signée à Paris le 25 juillet 2016 par des représentants des deux États ;\n\nSoulignant la dimension internationale du portugais et du français comme langues de travail, de communication et de culture,\n\nRéaffirmant l'importance que revet pour chacun des deux Etats la connaissance de la langue et de la culture de l'autre et leur volonté de garantir la promotion de celles-ci sur leurs territoires respectifs,\n\nSont convenues de ce qui suit»",
+      "quality_score": 0.9774,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "-4- Article Ter\n\nObjet\n\nChaque Partie assure la promotion et la diffusion de la langue et de la culture de l'autre\n\nPartie dans son système éducatif et contribue au renforcement des dispositifs linguistiques et culturels déja mis en œuvre à cet égard\n\nArticle 2\n\nAutres modalités d'appui\n\nChaque Partie peut élargir, modifier ou établir de nouvelles modalités d'appui à l'enseignement de sa langue et de sa culture au-delà des dispositions du présent Aceord sur la base des orientations formulées par la commission bilatérale de suivi instituée par l'article 8.\n\nArticle 3\n\nEnseignement des langues française et portugaise\n\nLes Parties renforcent la visibilité et l'enseignement de la langue de l'autre Partie comme langue vivante étrangère dans leurs systèmes éducatifs respectifs en favorisant la continuité des apprentissages et en complétant l'offre d'enseignement ou des besoins ont été identifiés en vue d'accroître le nombre d' apprenants.\n\nArticle 4\n\nEnseignement de la langue française au Portugal\n\n1. Les sections européennes de langue française (SELE) sont un dispositif d'enseignement bilingue caractérisé par un horaire d'enseignement renforcé de la langue étrangère et l'apprentissage de contenus d'une ou deux disciplines non linguistiques (DNL) en langue française. La Partie portugaise :\n\na) favorise le développement de sections européennes de langue française, à partir du troisième cycle de l'enseignement élémentaire (ensino básico) :",
+      "quality_score": 0.9694,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "-3-\n\nb) favorise la continuité de l'apprentissage en sections européennes de langue française au niveau de l'enseignement secondaire:\n\nc) promeut la mobilité des enseignants des sections européennes de langue française\n\n2. Les autorités compétentes de la Partie portugaise coopèrent avec les autorités françaises compétentes dans le domaine de la formation continue des enseignants de français et des enseignants des sections curopéennes de langue française au Portugal.\n\n3. Les Parties renforcent le dispositif permettant à des élèves scolarisés au Portugal de présenter le diplôme d'études en langue française (DELE Scolaire) dans les établissements d'enseignement sous l'autorité des services d'éducation compétents.\n\nArticle S\n\nEnseignement de la langue portugaise en France\n\n1. L'enseignement de la langue portugaise dans le premier degré fait l'objet d'une concertation régulière entre les autorités compétentes des deux Parties.\n\n2. Un dispositif d'enseignement facultatif de la langue portugaise, intitulé Enseignements internationaux de langues étrangères (ElLE), est mis en cuvre par les deux Parties dans le premier degré. Il s'inscrit dans le cadre d'un temps scolaire augmenté en sus des 24 heures hebdomadaires habituelles, a raison d'une heure et demie par semaine. Les résultats obtenus par les élèves dans le cadre de cet enseignement sont pris en compte dans l'appréciation générale de leur travail scolaire et portés à la connaissance des familles. Cet enseignement est dispensé par des enseignants portugais que la partie portugaise recrute et rémunère.\n\n3. La Partie portugaise met à disposition de tous les élèves scolarisés en France l'acces aux examens de Certification du Portugais à l'Etranger (CEPE).\n\n4. Les sections européennes de langue portugaise au lycée sont un dispositif caractérisé par l'enseignement d'une ou deux disciplines non linguistiques (DNL) en langue portugaise. La\n\nPartie française :\n\n4) favorise le développement de sections européennes de langue portugaise;\n\nb) promeut des partenariats avec des établissements scolaires portugais, notamment avec ceux qui ont des sections curopéennes de langue française;",
+      "quality_score": 0.9677,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "- 6-\n\nc) promeut la mobilité des enseignants des sections européennes de langue portugaise.\n\n5. Les sections internationales de langue portugaise constituent un programme original de coopération éducative qui permet de former des élèves biculturels, dans le cadre de l'enseignement scolaire français, du niveau primaire Jusqu'au baccalauréat option internationale portugaise. La Partie portugaise est associée à l'ouverture de ces sections :\n\na) les sections internationales de langue portugaise offtent un enseignement spécifique de disciplines enseignées en langue portugaise dont les programmes et les aspects pédagogiques sont définis dans le cadre d'une concertation régulière entre les autorités compétentes des deux Parties ;\n\nb) la Partie portugaise met à la disposition des sections internationales de langue portugaise les enseignants de langue portugaise materelle dont la nomination est approuvée par le Ministre français chargé de l'éducation nationale.\n\n6. Les autorités compétentes de la Partie française coopèrent avec les autorités portugaises compétentes dans le domaine de la formation continue pour la langue portugaise, pour les enseignements du premier degré, pour les enseignants de portugais ainsi que pour les enseignants des sections européennes et internationales de langue portugaise en France.\n\nArticle 6\n\nProgrammes bilatéraux de mobilité\n\nE. Les Parties poursuivent la mise en œuvre des programmes bilatéraux de mobilité en cours, tels que )\n\na) le programme bilatéral d'échange d'assistants de langue vivante, en actualisant la documentation d'encadrement relative à leur activité ;\n\nb) le programme «Séjours professionnels» qui s'adresse aux enseignants de langue et de disciplines non linguistiques des sections européennes ;\n\n2 Les Parties réaffirment l'importance, le cas échéant, de la création de nouveaux programmes bilatéraux.",
+      "quality_score": 0.9643,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "473\n\nArticle 7\n\nActions de coopération éducative et linguistique\n\n1. Les Parties promeuvent et conduisent des actions de coopération éducative et linguistique en favorisant les échanges d'expertise, de bonnes pratiques et le développement d'autres actions dans les secteurs d'intérêt commun à définir conjointement.\n\n2. Les Parties créent les conditions nécessaires au développement de partenariats entre les\n\nAcadémies en France et les structures éducatives compétentes au Portugal.\n\n3. Les Parties coopèrent, dans la mesure du possible, au sein du programme européen\n\nErasmust, notamment via les actions du programme dédiées à l'enseignement scolaire dont la plateforme e Twinning.\n\nArticle 8\n\nCommission bilatérale de suivi\n\n1. Les Parties conviennent de la mise en place d'une commission bilatérale de suivi du présent Accord composée de représentants des ministères chargés des affaires étrangères et de l'éducation des deux Etats, et qui se réunit alternativement sur le territoire de chacune des\n\nParties une fois au moins tous les deux ans ou à la demande de l'une des deux Parties.\n\n2. Cette commission bilatérale de suivi a pour mission :\n\na) de coordonner, suivre et évaluer l'application des stipulations du présent Accord:\n\nb) de formuler des bilans et des orientations à l'issue de chacune de ses réunions ;\n\nc) de veiller à ce que les arrangements administratifs conclus en application du présent\n\nAccord solent mis en œuvre conformément à ses stipulations.\n\nArticle 9\n\nFiancement\n\nL'ensemble des coopérations mises en œuvre par l'une ou l'autre des Parties dans le cadre du présent Accord se réalise dans la limite des budgets annuels de fonctionnement courant des administrations concernées par le présent Accord.",
+      "quality_score": 0.9602,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "- 8.- Article 10\n\nEntrée en vigueur\n\nLe présent Accord entre en vigueur trente jours après la date de réception de la dernière notification écrite, transmise par la voie diplomatique, par laquelle chacune des deux Parties déclare avoir accompli les formalités requises par son droit interne à cet effet.\n\nArticle 12\n\nReglement des différends\n\nTout différend lé à l'interprétation ou à l'application du présent Accord est régié par négociation, par la voie diplomatique.\n\n•Article 12\n\nAmendement\n\nL. Le présent Accord peut être amendé à tout moment, par écrit, d'un commun accord entre les Parties.\n\n2. Les amendements entrent en vigueur conformément aux procédures prévues à l'article 10 du présent Accord\n\nArticle 13\n\nDurée et Dénonciation\n\n1. Le présent Accord demeure en vigueur pour une période indéterminée.\n\n2. Chacune des Parties peur, à tout moment, dénoncer le présent Accord, par notification écrite transmise par voie diplomatique.\n\n3. La dénonciation prend effet six mois après la date de réception de la notification.",
+      "quality_score": 0.9638,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "-9- Article 14\n\nAbrogation\n\nL'article 37 de l'Accord entre le Gouverement français et le Gouvernement portugais relatif à l'immigration, a la situation et à la promotion sociale des travailleurs portugais et de leurs familles en France, signé à Lisbonne le 11 janvier 1977, prendra fin aveo l'entrée en vigueur du présent Accord\n\nFait à Paris, le 28 mars 2017, en deux exemplaires originaux, en langues française et portugaise, les deux textes faisant également foi.\n\nPour la République française\n\nVelland\n\nNajat Vallaud-Belkacem\n\nMinistre de /'Éducation nationale, de 1 Enseignement supérieur et de la Recherche\n\nPour\n\nla République portugaise\n\nTiago Brandão Rodrigues\n\nMinistre de l'Éducation",
+      "quality_score": 0.9459,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "ACORDO\n\nENTRE\n\nA REPUBLICA FRANCESA\n\nA REPÚBLICA PORTUGUESA\n\nDE COOPERAÇÃO EDUCATIVA E LINGUÍSTICA",
+      "quality_score": 0.8896,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "A República Francesa, por um lado, e a República Portuguesa, por outro lado, doravante designadas por «Partes»,\n\nConsiderando o Acordo de Cooperação Cultural, Científica e Técnica entre o Governo da\n\nRepública Francesa e o Governo da República Portuguesa, assinado em Lisboa, a 12 de junho de 1970;\n\nConsiderando o Acordo entre o Governo Francês e e Governo Português relativo à\n\nImigração, a Situação e à Promoção Social dos Trabalhadores Portugueses e de Suas Familias em França, assinado em Lisboa, em 11 de janeiro de 1977, designadamente o seu artigo 37° relativo ao ensino às crianças portuguesas da sua língua e cultura de origem no sistema educativo francês;\n\nTendo como referência o Protocolo de Cooperação Educativa entre o Ministério da\n\nEducação Nacional, do Ensino Superior e da Investigação da República Francesa e o\n\nMinistério da Educação da República Portuguesa, assinado em Paris, a 10 de abril de 2006;\n\nBaseando-se na Declaração conjunta sobre a cooperação bilateral em matéria de ensino do francês e do português, assinada em Paris, em 25 de julho de 2016, por representantes dos dois Estados;\n\nSublinhando a dimensão internacional do português e do francês como línguas de trabalho, de comunicação e de cultura.\n\nReafirmando a importância que reveste, para cada um dos dois Estados, o conhecimento da língua e da cultura do outro e a sua vontade de garantir a promoção das mesmas nos seus respetivos territórios,\n\nAcordam no seguinte:",
+      "quality_score": 0.9259,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "Artigo 1°\n\nObjeto\n\nCada Parte assegura a promoção e a difusão da lingua e da cultura da outra Parte no respetivo sistema educativo e contribui para o reforço dos dispositivos linguísticos e culturais ja implementados para o efeito.\n\nArtigo 2ª\n\nOutras modalidades de apolo\n\nCada Parte pode alargar, modificar ou estabelecer novas modalidades de apoio ao ensino da sua língua e da sua cultura, para além do previsto nas disposições de presente Acordo, com base nas orientações formuladas pela comissão bilateral de acompanhamento instituida pelo artigo 8°\n\n- Artigo 3°\n\nEnsino das linguas francesa e portuguesa\n\nAs Partes reforçam a visibilidade e o ensino da língua da outra Parte como língua viva estrangeira nos seus respetivos sistemas educativos favorecendo a continuidade das aprendizagens e complementando a oferta de ensino onde sejam identificadas necessidades, com vista a aumentar o número de aprendentes.\n\nArtigo 4°\n\nEnsino da língua francesa em Portugal\n\n1. As Secções Europcias de Língua Francesa (SELF) são um dispositivo de Ensino bilingue caracterizado por um horário de ensino reforçado da língua estrangeira e pela aprendizagem de conteúdos de uma ou duas disciplinas não linguísticas (DNL) em língua francesa. A Parte portuguesa:\n\na) Favorece o desenvolvimento de secções europeias de língua francesa a partir do terceiro ciclo do ensino básico;",
+      "quality_score": 0.9373,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "=5-\n\nb) Favorece a continuidade da aprendizagem nas secções europeias de lingua francesa ao nível do ensino secundário;\n\n9) Promove a mobilidade dos professores das secções europeias de língua francesa.\n\n2, As autoridades competentes da Parte portuguesa cooperam com as autoridades competentes francesas no domínio da formação continua dos professores de francês e dos professores das secções europeias de língua francesa em Portugal.\n\n3. As Partes reforçam o dispositivo que permite aos alunos escolarizados em Portugal apresentar o Diploma de Estudos em Língua Francesa (DELE Scolaire) em estabelecimentos de ensino sob a responsabilidade dos serviços de educação competentes\n\nArtigo 5°\n\nEnsino da língua portuguesa em França\n\n1. O ensino da língua portuguesa no primeiro nivel será objeto de uma concertação regular entre as autoridades competentes das duas Partes.\n\n2. Um dispositivo de ensino facultativo da língua portuguesa, intitulado Ensinos\n\nInternacionais de Linguas Estrangeiras (EILE), é implementado pelas duas Partes no primeiro nivel, Inscreve-se no quadro de um periodo escolar alargado, que vai além das 24 horas semanais habituais, à razão de uma hora e meia por semana Os resultados obtidos pelos alunos no quadro deste ensino são tidos em conta na apreciação geral do seu aproveitamento escolar e são transmitidos às famílias. Este ensino é ministrado por professores portugueses que a Parte portuguesa recruta e remunera.\n\n3. A Parte Portuguesa coloca à disposição de todos os alunos escolarizados em França o acesso aos exames de Certificação do Português no Estrangeiro (CEPE).\n\n4. As secções europeias de língua portuguesa no lycée são um dispositivo caracterizado pelo ensino de uma ou duas disciplinas não linguísticas (DNL) em lingua portuguesa. A Parte francesa:\n\na) Favorece o desenvolvimento de scoções curopeias de lingua portuguesa;\n\nb) Promove parcerias com estabelecimentos de ensino portugueses, nomeadamente, com os que tenham secções europeias de língua francesa:",
+      "quality_score": 0.9518,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "-6-\n\ne) Promove a mobilidade dos professores das secções europeias de língua portuguesa.\n\n3. As secções internacionais de língua portuguesa constituem um programa original de cooperação educativa que permite a formação de alunos biculturais, no quadro do ensino escolar francês, desde o nível primário ao baccalauréat, opção internacional portuguesa. A\n\nParte portuguesa está associada à abertura dessas secções:\n\na) As secções internacionais de língua portuguesa oferecem um ensino específico de disciplinas ensinadas em língua portuguesa, cujos programas e aspetos pedagógicos são definidos no quadro de uma consulta regular entre as autoridades competentes das duas\n\nPartes.\n\nb) A Parte portuguesa coloca à disposição das secções internacionais de língua portuguesa os docentes de língua matema portuguesa cuja nomeação é aprovada pelo\n\nMinistro francês responsável pela área da Educação Nacional.\n\n6. As competentes autoridades da Parte francesa cooperam com as autoridades portuguesas responsáveis pela formação continua em língua portuguesa, para os professores de primeiro nivel, para os professores de língua portuguesa, bem como para os professores das secções curopeias e internacionais de lingua portuguesa em França.\n\nArtigo 6\"\n\nProgramas bilaterais de mobilidade\n\n1. As Partes darão continuidade à implementação dos programas bilaterais de mobilidade em curso, tais como:\n\na) O Programa bilateral de troca de Assistentes de língua viva atualizando a documentação de enquadramento relativa à sua atividade;\n\nb) O programa de \"Estadas Profissionais\", dirigido aos professores de lingua e de disciplinas não linguísticas das secções europeias;\n\n2. As Partes reafirmam a importância, quando necessário, da criação de novos programas bilaterais.",
+      "quality_score": 0.9453,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "27- Artigo 7º\n\nAções de cooperação educativa e linguística\n\n1. As Partes promovem e conduzem ações de cooperação educativa e linguística, favorecendo o intercâmbio de conhecimentos e boas práticas e o desenvolvimento de outras ações em áreas de interesse comum, a definir conjuntamente.\n\n2. As Partes criam as condições necessárias ao desenvolvimento de parcerias entre as\n\nAcademias em França e as estruturas educativas competentes em Portugal.\n\n3. As Partes cooperam, na medida do possivel, no âmbito do programa europeu Erasmus+.\n\nnomeadamente através de ações do programa dedicadas ao ensino escolar, entre as quais a plataforma eTwinning.\n\nArtigo 8°\n\nComissão bilateral de acompanhamento\n\n1. As Partes acordam no estabelecimento de uma Comissão bilateral de acompanhamento do presente Acordo, constitulda por representantes dos Ministérios responsáveis pelos\n\nNegócios Estrangeiros e pela Educação dos dois Estados e que se reúne alternativamente no território de cada uma das Partes, pelo menos, uma vez de dois em dois anos ou a pedido de uma das Partes\n\n2. Esta Comissão bilateral de acompanhamento tem por missão:\n\na) Coordenar, acompanhar e avaliar a aplicação das disposições constantes no presente\n\nAcordo:\n\nb) Elaborar pontos de situação e orientações ao término de cada uma das suas reuniões;\n\nc) Garantir que os acordos administrativos concluidos por via da aplicação do presente\n\nAcordo sejam implementados em conformidade com as suas disposições.\n\nArtigo 9°\n\nFinanciamento\n\nAs ações de cooperação implementadas por qualquer das Partes no âmbito do presente\n\nAcordo realizar-se-ão dentro dos limites dos orçamentos anuais de funcionamento das entidades visadas no presente Acordo.",
+      "quality_score": 0.9495,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "-8- Artigo 10°\n\nEntrada em vigor\n\nO presente Acordo entrará em vigor trinta dias após a data de receção da última notificação, feita por escrito e por via diplomática, na qual cada uma das duas Partes declara ter cumprido todas as formalidades exigidas pelo seu Direito interno para o efeito.\n\nArtigo 11°\n\nResolução de diferendos\n\nQualquer diferendo resultante da interpretação ou da aplicação do presente Acordo será resolvido por negociação e por via diplomática.\n\nArtigo 12°\n\nRevisão\n\n* O presente Acordo pode ser revisto, a qualquer momento, por escrito, de comum acordo entre as duas Partes.\n\n2. As emendas entram em vigor de acordo com os procedimentos previstos no artigo 10° do presente Acordo,\n\n:Artigo 13\"\n\nDuração e denúncia\n\n1. O presente Acordo permanecerá em vigor por um período indeterminado.\n\n2 Qualquer uma das Partes pode, a qualquer momento, denunciar o presente Acordo, através de notificação, por escrito e por vía diplomática.\n\n3. A denúncia produzirá efeitos seis meses após a data de receção da notificação.",
+      "quality_score": 0.9529,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 18,
+      "text": "Artigo 14°\n\nRevogação\n\nO artigo 37º do Acordo entre o Governo Francês e o Governo Português Relativo à\n\nImigração, à Situação e à Promoção Social dos Traballadores Portugueses e de Suas Famílias em França, assinado em Lisboa, em 11 de janeiro de 1977 cessa a sua vigência com a entrada em vigor do presente Acordo.\n\nAssinado em Paris, a 28 de março de 2017, em dois exemplares originais, em língua francesa e portuguesa, fazendo os dois textos igualmente fé\n\nPela\n\nRepública Francesa\n\nV. Sellacal\n\nNajat Vallaud-Belkacem\n\nMinistra da Educação Nacional, do Ensino Superior e da Investigação\n\nPela\n\nRepública Portuguesa\n\nTiago Irandal Rodrigues\n\nMinistro da Educação",
+      "quality_score": 0.9249,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20151494_001_s1",
+      "title": "Accord",
+      "score": 0.610503,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240072_001_s1",
+      "title": "Accord",
+      "score": 0.602917,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930030_001",
+      "title": "Traité",
+      "score": 0.554114,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940103_001_s1",
+      "title": "Traité",
+      "score": 0.551487,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240077_001_s1",
+      "title": "Convention",
+      "score": 0.547695,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930008_001",
+      "title": "Traité",
+      "score": 0.544839,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_100",
+      "title": "Protocole de signature",
+      "score": 0.535079,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192731_001_s1",
+      "title": "Convention-cadre",
+      "score": 0.496944,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630358_001a_s1",
+      "title": "Accord",
+      "score": 0.495861,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220120_100_s1",
+      "title": "Publication de l'accord au Journal officiel du",
+      "score": 0.456363,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

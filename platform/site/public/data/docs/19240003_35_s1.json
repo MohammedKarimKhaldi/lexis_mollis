@@ -1,0 +1,130 @@
+{
+  "document_id": "19240003_35_s1",
+  "title": "Note verbale de transmission de l'instrument d'adhésion d'Israël",
+  "year": 1924,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9163,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "AMBASSADE D'ISRAEL | Nate “aw | Le ok L'Ambessade d'Isreel présente ses compliments su Ministère des Affaires Etrangères et a l'honneur de lui envoyer ci-joint l'adhésion du Gouvernement d'Isresl à 1s Convention Internationale de la Vigne et du Vin. L'Ambassade d'Isrsel saisit cette occasion pour renouveler au Ministère des Affaires Etrangères les assurances ce sa haute AT TN “> Paris, le P novenbre 1969 1 Ministère…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_35_s1.pdf",
+  "source_filename": "19240003_35_s1.pdf",
+  "source_sha256": "1414db02a02d76242fa2c9a9075f6cb05ee305ed805f5315182a38f4ae96e3b5",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "ISR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE D'ISRAEL\n\n|\n\nNate “aw |\n\nLe ok\n\nL'Ambessade d'Isreel présente ses compliments su Ministère des Affaires Etrangères et a l'honneur de lui envoyer ci-joint l'adhésion du Gouvernement d'Isresl à 1s\n\nConvention Internationale de la Vigne et du Vin.\n\nL'Ambassade d'Isrsel saisit cette occasion pour renouveler au Ministère des Affaires Etrangères les assurances ce sa haute AT TN\n\n“>\n\nParis, le P novenbre 1969 1\n\nMinistère des Affaires Etrangères\n\nService du Protocole\n\nParis",
+      "quality_score": 0.8978,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "1. 26\n\nOFFICE INTERNATIONAL\n\nDE LA VIGNE ET DU VIN\n\n(Institution officielle créée par l'arrangement C international du 29 Novembre 1924) Paris, le 22 Septe bre 1960 Á\n\n11. RUE ROQUEFINE e\n\nPARIS (8*) NS\n\nTÉLÉPHONE 1 ANJ, 04-16 +\n\nOrr a\n\nUS\n\nLE DIRECTEUR\n\nN. Ré: 740947 RP/ ^W\n\nObjet :\n\nMonsieur le Ministre,\n\nPar votre lettre 929 du 14 septembre, vous avez bien voulu me faire connaftre que le Gouvernement français donnait son accord à l'adhésion vernement d* à l'Arrangement International du 19 novembre 1924 portant création de l'Office International du Ne\n\nEn v us re erciant de cette communication, j'ai l'honneur de vous faire savoir que la procédure prévue à l'article 6 de la Convention ay nt été strictement appli- quée et les conditions d'ad ésion d'Israël ayank été par- faltement remplies, le président de l'O,.I.V. a donné con- naissance à la 40° Session Plóniére du Comité de l'adhésion définitive de cet Etat à l'Office International de la Vigne et du Vin.\n\nL'assentiment du gouverne ent turc que vous avez bien voulu m'adresser par votre éiteukaire du 19 septembre, parvenue après la Session, ne ferait qu'augmenter la majo- rité déjà recueillie par le pays en question.\n\nVeuillez agréer, Monsieur le Ministre, l'expres- sion de ma haute considération.\n\nLe Directeur de LF Ve\n\nRe PROTIN\n\nLonsieur le Linistre des Affaires Etrangères\n\nDirection des Aff ires Administratives et Sociales\n\nUnion Internationale\n\nP RIS",
+      "quality_score": 0.9347,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_17_s1",
+      "title": "Lettre de l'OIVV transmettant la demande d'adhésion de Chypre",
+      "score": 0.402972,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_62_s1",
+      "title": "Notification à la Syrie de l'acceptation de sa candidature à l'adhésion",
+      "score": 0.401927,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_35_s1",
+      "title": "Note de l'OEPP sur le retrait de l'Iran",
+      "score": 0.390717,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_53_s1",
+      "title": "Note verbale de transmission des pouvoirs de signature",
+      "score": 0.388105,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19240003_43_s1",
+      "title": "Dépêche de notification aux ambassades auprès des Etats-parties de l'adhésion du Mexique",
+      "score": 0.383441,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_416_s1",
+      "title": "Instrument d'adhésion de l'Iran",
+      "score": 0.382111,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19240003_66_s1",
+      "title": "Lettre du Ministère des Douanes et des Monopoles confirmant le retrait de la Turquie",
+      "score": 0.381402,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_39_s1",
+      "title": "Instrument d'adhésion de Cuba",
+      "score": 0.380614,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.380329,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_296_s1",
+      "title": "Note verbale d'envoi de l'instrument espagnol",
+      "score": 0.380103,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

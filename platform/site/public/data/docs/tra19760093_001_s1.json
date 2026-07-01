@@ -1,0 +1,210 @@
+{
+  "document_id": "tra19760093_001_s1",
+  "title": "Accord",
+  "year": 1976,
+  "doc_type": "Accord",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.8584,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "AEDADE GARERIIIITAER REIT A E ARABAR tIRE LE GOTTENNAMENT DE LA RAPINI TUIT LE. CERSEHEN IE IA KEBLIU [ HANCAI.가 IOGOLAISE Le gouvernement de la République française, d'une part, Le gouvernement de la République togolaise, d'autre part, Sont convenus des dispositions ci-après : - 2- TITRE PREMIER Des personnels militaires français ARTICLE PREMIER A la demande du gouvernement de la République togolaise, le gouverneme…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760093_001_s1.pdf",
+  "source_filename": "tra19760093_001_s1.pdf",
+  "source_sha256": "3530afc24a8da7587fe9514e9d3e7620c6f27c32407200a122b5cac055eb15f3",
+  "treaty_id": "TRA19760093",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AEDADE GARERIIIITAER REIT A E ARABAR",
+      "quality_score": 0.5133,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "tIRE\n\nLE GOTTENNAMENT DE LA RAPINI TUIT\n\nLE. CERSEHEN IE IA KEBLIU\n\n[ HANCAI.가\n\nIOGOLAISE",
+      "quality_score": 0.8833,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Le gouvernement de la République française, d'une part,\n\nLe gouvernement de la République togolaise, d'autre part,\n\nSont convenus des dispositions ci-après :\n\n- 2- TITRE PREMIER\n\nDes personnels militaires français\n\nARTICLE PREMIER\n\nA la demande du gouvernement de la République togolaise, le gouvernement de la République française s'engage à apporter dans la mesure de ses moyens, une assistance en personnels militaires français pour l'organisation et l'instruction des Forces Armées togolaises.\n\nARTICLE II\n\nLe gouvernement de la République togolaise détermine chaque année et communique au gouvernement de la\n\nRépublique française la liste des postes à pourvoir, la description des emplois, les qualifications requises et les lieux d'affectation des personnels à mettre en place.\n\nLe gouvernement de la République française fait connaître au gouvernement de la République togolaise les postes qu'il est en mesure d'honorer.\n\nARTICLE III\n\nLes personnels français sont désignés par le gouvernement français après agrément du gouvernement de la\n\nRépublique togolaise pour une durée fixée conformément à la règlementation française sur les séjours à l'extérieur, cette durée peut être augmentée ou réduite d'un commun accord entre le gouvernements.\n\nTout changement d'affectation en cours de séjour est arrêté après consultation des autorités compétentes de la République française et des autorités compétentes de la\n\nRépublique togolaise.\n\nLe gouvernement de la République togolaise et le gouvernement de la République française peuvent l'un et l'autre, après consultation, prendre l'initiative de la.\n\nrelève d'un assistant militaire technique en cours de séjour.\n\n.../...",
+      "quality_score": 0.9975,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "- 3- ARTICLE IV\n\nLes personnels militaires français servent dans les Forces\n\nArmées togolaises avec le grade de la hiérarchie de ces Forces\n\nArmées correspondant à celui dont ils sont titulaires dans les\n\nForces Armées françaises; ils revêtent l'uniforme togolais ou la tenue civile suivant les instructions de l'autorité militaire\n\ntogolaise.\n\nIls sont tenus de se conformer aux règlements et directives\n\nen vigueur dans les Forces Armées togolaises.\n\nIls ne peuvent, en aucun cas, prendre part à l'exécution d'opérations de guerre ni de maintien ou de rétablissement de\n\nl'ordre ou de la légalité.\n\nARTICLE V\n\nLes personnels militaires français conservent le statut qui\n\nest le leur dans la règlementation française.\n\nA ce titre, ils sont affectés à une formation dite Bureau d'Aide Militaire qui relève de l'Ambassade de France et qui est placée sous l'autorité de l'Officier Français le plus ancien dans le grade le plus élevé mis à la disposition de la République togo-\n\nlaise.\n\nLes appréciations portées par les autorités togolaises sur la manière de servir des intéressés sont adressées au gouvernement français; en cas d'indiscipline ou de faute professionnelle, ils n'encourent de la part du gouvernement togolais d'autre sanction que la remise motivée à la disposition du gouvernement français, assortie s'il y a lieu d'une demande de sanction. Les dispositions du présent alinéa ne font pas obstacle à la mise en jeu par les\n\nAutorités françaises des procédures disciplinaires prévues par le statut des intéressés. Le gouvernement français est tenu de faire connaître aux Autorités togolaises la suite donnée auxdites procé-\n\ndures.\n\nToutes les décisions du Commandement togolais les concernant sont portées à la connaissance de 1'Ambassade de France en\n\nRépublique togolaise ; de même toutes dispositions les concernant prises par les Autorités françaises sont portées à la connaissance\n\nAutorités togolaises.\n\n.../...\n\n- 4-\n\nL'examen des problèmes concernant la situation des personnels militaires français au regard de leur sta- tut peut faire l'objet de missions des Autorités fran- çaises. Les conditions dans lesquelles s'accomplissent ces missions sont fixées par entente entre les deux\n\ngouvernements.\n\nARTICLE VI\n\nDans l'exercice de leur fonction, les person- nels militaires français mis à la disposition du gouvert nement de la République togolaise reçoivent de ce gou- vernement l'aide et la protection qu'il accorde aux personnels de ses propres Forces Armées.\n\nIls jouissent des droits et garanties dont bénéficient les experts internationaux pour leurs\n\nactes, paroles\n\net écrits ès qualité dans l'exercice ou à l'occasion de l'exercice de leurs fonctions.\n\nARTICLE VII\n\nLe gouvernement de la République togolaise prend à sa charge la réparation des dommages causés par les personnels militaires français dans l'exercice de leurs fonctions. En cas d'action judiciaire intentée à l'occasion de tels dommages, le gouvernement de la\n\nRépublique togolaise se substitue dans l'instance aux personnels militaires français mis en cause.\n\nAu cas où le dommage résulterait d'une faute personnelle, le gouvernement de la République togolaise pourra en demander réparation au gouvernement de la\n\nRépublique française.\n\nEn cas de dommages subis dans le service ou à l'occasion du service par des militaires français, hor- mis le cas de faute personnelle, le gouvernement de la\n\nRépublique togolaise versera des indemnités équitables.\n\nLes demandes d'indemnité seront transmises au gouverne- ment de la République togolaise à la diligence du .../٠٠٠٠",
+      "quality_score": 0.9665,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "-5-\n\ngouvernement de la République française.\n\nARTICLE VIII\n\nLes juridictions togolaises sont compétentes pour con- naître des infractions commises par les personnels militaires français placés sous le Commandement togolais.\n\nCependant, en cas d'infraction aux lois togolaises commise par les personnels militaires français dans le service ou à l'occasion du service, les auteurs desdites infractions sont remis immédiatement à l'Ambassade de France en République togolaise qui procède à leur rapatriement en France où seront engagées à leur encontre toutes poursuites utiles.\n\nLe gouvernement de la République française est tenu d'in- former le gouvernement de la République togolaise des suites judiciaires données à l'affaire.\n\nEn cas d'infraction aux lois togolaises passible d'une peine d'emprisonnement ou d'une peine plus grave commise en dehors du service par les personnels militaires français et les membres de leur famille, les auteurs déférés devant une juridic- tion togolaise et dont la détention est jugée nécessaire, sont assignés à résidence dans un lieu fixé d'un commun accord entre les autorités togolaises et les autorités françaises en vue de leur comparution devant les autorités judiciaires togolaises compétentes.\n\nLes personnels militaires français ou les membres de leur famille condamnés à des peines d'emprisonnement par les juri- dictions togolaises sont remis à l'Ambassade de France aux fins de rapatriement et purgeront leur peine dans les locaux péniten- tiaires français. Le gouvernement de la République française est tenu d'informer le gouvernement de la République togolaise des lieux et conditions d'exécution des peines.\n\nSont décidées | selon la législation française sur l'avis\n\ndu parquet établi près la juridiction togolaise qui a prononcé la condamnation les commutations, réductions et remises grâcieuses,\n\n./...\n\n- 6 -\n\nlibérations conditionnelles et autres modalités d'exécution des peines. Les décisions sont notifiées par le gouvernement français au parquet établi près la juridiction togolaise ayant prononcé la condamnation.\n\nARTICLE IX\n\nLe gouvernement de la République française prend à sa charge les droits acquis par les personnels militaires français: solde et accessoires, primes diverses, frais de transport de France à Lomé et retour.\n\nLes frais de déplacement prévus par la règlementation française et résultant de l'exécution de missions de service sont à la charge du gouvernement togolais.\n\nARTICLE X\n\nLe gouvernement de la République française prend à sa charge le logement des personnels militaires français;\n\nle gouvernement de la République togolaise verse à titre de contribution aux dépenses supportées par le gouvernement de la République française une allocation pour chaque assis.\n\ntant militaire technique dont le montant et les modalités de versement sont déterminés d'un commun accord par échange de lettres entre les deux gouvernements.\n\nLe gouvernement de la République togolaise assure à ces personnels et à leurs familles les soins médicaux et hospitaliers au même titre et dans les mêmes conditions qu'aux membres des Forces Armées togolaises.\n\nARTICLE XI\n\nLes personnels visés par le présent Accord peuvent importer en franchise leurs effets personnels qui doivent correspondre à leur rang social ; ils peuvent importer ou acquérir sous le régime de l'admission temporaire du mobilier et un véhicule privé à leur usage personnel. Ils peuvent le réexporter dans les mêmes conditions à leur départ définitif.\n\n.../...",
+      "quality_score": 0.9994,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "- 7-\n\nIls jouissent du droit de transférer librement sur la\n\nFrance le montant des économies réalisées sur les rémunérations et indemnités afférentes à leur emploi et, lors de leur rapa- triement définitif, le produit de la vente éventuelle en Répu- blique togolaise de leurs véhicules, biens mobiliers et effets personnels après acquittement des droits de Douane y afférents.\n\nARTICLE XII\n\nLes personnels de l'Assistance Militaire Technique sont redevables au Togo de la taxe progressive sur les traite- ments et salaires dans les conditions prévues à l'article 12 de l'Accord Général de Coopération Technique.\n\nTITRE II\n\nDe la formation en France des cadres des Forces Armées togolaises\n\nARTICLE XIII\n\nLe gouvernement de la République togolaise peut s'adres- ser pour la formation des Cadres de ses Forces Armées à la Répu- blique française qui lui apporte à cet égard son concours dans la mesure de ses moyens.\n\nLes nationaux togolais sont admis dans les grandes écoles et établissements militaires français soit par concours dans les mêmes conditions que les nationaux français soit dans la limite d'un contingent particulier comportant aménagement de ces conditions.\n\nDes nationaux togolais désignés par leur gouvernement, en accord avec le gouvernement français, peuvent être admis comme stagiaires dans les écoles et établissements français.\n\nARTICLE XIV\n\nLe gouvernement de la République française prend à sa charge les frais de transport et d'instruction des élèves et stagiaires togolais admis dans les écoles et établissements militaires français.\n\n.../٠٠٠\n\n- 8 - Le gouvernement de la République togolaise prend à sa charge les dépenses de solde et les frais d'entretien (alimentation, logement, sécurité sociale) de ses stagiaires.\n\nLe gouvernement de la République française assure aux stagiaires togolais et à leur famille en France les soins médicaux et hospitaliers au même titre et dans les mêmes conditions qu'aux membres des Forces Armées françaises.\n\nARTICLE XV\n\nLes stagiaires togolais en France sont justiciables des dispositions analogues à celles prévues aux articles 7, 8 et 11 pour les asistants militaires techniques français en service au Togo.\n\nTITRE III\n\nDe la fourniture de matériel et d'équipement militaire.\n\nARTICLE XVI\n\nLe gouvernement de la République togolaise peut s'adresser au gouvernement de la République française pour l'entretien et la fourniture à titre gratuit ou onéreux de matériels et d'équipements militaires.\n\nLes Forces Armées togolaises peuvent faire appel pour le soutien logistique au concours des Forces\n\nArmées françaises qui leur est accordé dans la limite de leurs possibilités.\n\n../...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "- 9- TITRE IV\n\nDes facilités de transit et d'escale\n\nARTICLE XVII\n\nLe gouvernement togolais peut autoriser 1o transit terrestre et aérien sur son territoire au personnel et ma- tériel des Forces Armées françaises.\n\nL'autorisation ne peut être accordée que sur la demande du gouvernement français comportant entre autres indications, l'origine et la nature, la destination, l'itiné- raire dans le pays de transit du personnel et du matériel mi- litaire français.\n\nElle n'est valable que pour une seule opération ;\n\nexceptionnellement elle peut être délivrée à titre permanent et couvrir plusieurs opérations de transit échelonnées dans le temps. Dans ce cas la demande du gouvernement français doit être accompagnée d'un plan de transit portant sur toutes ces opérations.\n\n-ARTICLE XVIII\n\nLe survol de l'espace aérien togolais par des aéronefs militaires français et les escales de ces appareils sont soumis à autorisation préalable cas par cas ; toutefois les liaisons régulières ou périodiques font l'objet d'auto- risations annuelles et renouvelables.\n\nCes autorisations peuvent être suspendues par le gouvernement togolais si celui-ci estime que ces liaisons sont de nature à porter atteinte à la souveraineté de l'Etat togo-\n\nARTICLE XIX\n\nLe gouvernement togolais s'engage à apporter le concours de ses services pour faciliter les opérations de\n\n.../٠٠\n\n- 10 -\n\ntransit et d'achat sur son territoire au profit des Forces\n\nArmées françaises.\n\nARTICLE XX\n\nLes dispositions prévues aux articles 17, 18 et 19 ci-dessus sont également applicables aux Forces Armées togolaises par le gouvernement de la République française.\n\nARTICLE XXI\n\nLe présent Accord remplace et abroge les\n\nAccords de Coopération Militaire des 26 et 30 Octobre 1961.\n\nIl est conclu pour une durée de deux ans renouvelable par tacite reconduction sauf dénonciation par l'une des Parties contractantes.\n\nLa dénonciation devra être notifiée par la voie diplomatique au moins six mois à l'avance.\n\nLe présent Accord entrera en vigueur le premier jour du deuxième mois suivant l'échange des instruments constatant l'accomplissement des procédures requises à cet effet dans chacun des deux Etats.\n\nCet échange aura lieu à Paris aussitôt que faire se pourra.\n\nFait à LOME, le 23 Mars 1976\n\nen deux exemplaires originaux.\n\nPour le gouvernement de la République français コンドし\n\nJean de LIPKOWSKI\n\nMinistre de la Coopération\n\nPour le gouvernement\n\nde la République togolaise\n\nAyi Houenou HUNLEDE\n\n• Ministre des Affaires Etrangères",
+      "quality_score": 0.9657,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "E\n\nG i i\n\na",
+      "quality_score": 0.5416,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19850175_101_s1",
+      "title": "Publication au JO de l'accord (ensemble 1 échange de lettres des 8 et 28 juillet 1986)",
+      "score": 0.673981,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760086_001_s1",
+      "title": "Accord",
+      "score": 0.445555,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.412187,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_100",
+      "title": "Protocole de signature",
+      "score": 0.401886,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001a_s1",
+      "title": "Accord général",
+      "score": 0.3991,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19800374_001_s1",
+      "title": "Pouvoirs français",
+      "score": 0.397325,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760092_001_s1",
+      "title": "Accord",
+      "score": 0.395383,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610286_005_s1",
+      "title": "Instrument nigérien (ensemble texte du Traité et de 10 Accords signés le même jour)",
+      "score": 0.395248,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_001_s1",
+      "title": "Accord",
+      "score": 0.394953,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20162392_001_s1",
+      "title": "Accord",
+      "score": 0.39297,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

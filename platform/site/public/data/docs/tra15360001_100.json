@@ -1,0 +1,73 @@
+{
+  "document_id": "tra15360001_100",
+  "title": "Traduction contemporaine du texte de Autre commandement de Sultan Mora pour les vaisseaux françois",
+  "year": 1536,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7775,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "23. .001525 bugiiio raduction Daure Pommandement Deditran Mora pour les v qui vom es viennes pardon Empiro afin quil nepayen pír comme \"la doutaien faire ux nies fameux valureux Magnanimes verueux, lignes derom honneus preeminence afelicité a eux concedéé pau lagrace Diune Les tres suofisans Sangiagbeyo qui de retremer aux marines ausquels (honneuo sat perperuct, et aux teo fameux ingeo e Lauricenos, magmaires dedci…",
+  "tags": [
+    "century:c16",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra15360001_100.pdf",
+  "source_filename": "tra15360001_100.pdf",
+  "source_sha256": "ad3e122c34560122903996aa27f8c5fb4b55abed3ef7d46c0afed8065a109dfe",
+  "treaty_id": "TRA15360001",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "23.\n\n.001525 bugiiio\n\nraduction Daure Pommandement\n\nDeditran Mora pour les v qui vom es viennes pardon Empiro afin quil nepayen pír comme \"la doutaien faire ux nies fameux valureux Magnanimes verueux, lignes derom honneus preeminence afelicité a eux concedéé pau lagrace Diune Les tres suofisans\n\nSangiagbeyo qui de retremer aux marines ausquels (honneuo sat perperuct, et aux teo fameux ingeo e\n\nLauricenos, magmaires dedciano, dochine et Cloquence ?\n\nLes Caddis que aux dusd. Sang jaguars de renouen ausquelot Lloquenco Soi perpetuelle, et aux fameux parron a durintendans qui cheminen pao lameo, les parvons\n\nUmperiana et les volontaires que a cux lagarde a tonnero\n\nSoir en augmentant et aix fait eux: Jentres Leurs lamblabler\n\nCon Crinives der cithdles a Cavrellan le chastaa Dr\n\nDetroit que laguide e honneu sou a ca enaugmenan apres la réception dures haut emperial Deng, vous sou navoiro queprescrement Lambassader de franco á s enaye norifie a notre caelso aileurude parce comme _ce nanires françois que pon marchandiser ampaye 2 0 mon Impises a (eno alter ei oenir tant en mer comme en ports quant sont roue par les dangjaczs e Cagno\n\nLours demandans dons apresens etaux eschelles cherer et.\n\nnavires quane veullane chargeo robbes has hommes de\n\nLenui Sont ensemble et des robber qui dechargen apres",
+      "quality_score": 0.7752,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "٢١٦١٩٦\n\nsonnes Allée delega qua conse la Juriso a a\n\nCanono leus prennem dargens, Plus nous an fui →\n\nScanon quedon (auailles erduo Cela ayam semande montres ham fommandemens, doue ceje Commande que quam les naures rancore arrurent au mon dubline Commandement pap les pays demonempire a le aller cevenir quequam ils y com pau lamer a aux porte en mariercocdon oupresens, nepermettres elma coupans aucuno choso, craux cheee ef onstantingle a autres pendans quile vaud rom chargeu robbes quels lefaum 2 remierememscanoir\n\nSuffirans et quance lencontainemen Machangemles abbel et delon la foutume et (anon gray enla Daur a les navires yuan ils derompren epartir Seulées pou compres demangeries denouman les Dacien erwyent chercheur disam vouloir denouncan en\n\nDecharger (enu nanire commedesus corder connelajuaio \" (anon, nepermetter) aaucun de le rien prendre et ceux qui nobeiront les charterer et cequi sera nessaire denoiffer escrimant ces nous ferer enrendro e anisier Saurere, le apreir avin veu fetay mesham\n\nToy anding dub limes errie a lafidela de Sune deSaban Lan ix\n\n56601\n\nregoman du doy enlenam",
+      "quality_score": 0.7799,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra17400002_003_s1",
+      "title": "Texte manuscrit traduit",
+      "score": 0.354525,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

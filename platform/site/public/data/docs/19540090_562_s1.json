@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_562_s1",
+  "title": "Note de transmission de l'instrument marocain",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9686,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DC/ OH T290as-She AMBASSADE DU MAROC EN FRANCE 3, RUE LE TASSE PARIS XVI* 1438= = TONes 1317y 1957 14 Nur. 1957 L'Ambassade du Maroc à Paris présente ses compliments au Ministère des Affaires Etran- gères et a l'honneur de lui transmettre ci-joint la demande d'adhésion du Maroc à la Convention Internationale pour l'unification des méthodes d'analyse et d'appréciation des vins du 13 octo- bre 1954. I'Ambassade du Mar…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_562_s1.pdf",
+  "source_filename": "19540090_562_s1.pdf",
+  "source_sha256": "0de674939a55457672ebbf9361d8f8c66e591e82cb98b6602ce5ffeb783e32b0",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "MAR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DC/ OH\n\nT290as-She\n\nAMBASSADE DU MAROC\n\nEN FRANCE\n\n3, RUE LE TASSE\n\nPARIS XVI*\n\n1438=\n\n= TONes 1317y 1957 14 Nur. 1957\n\nL'Ambassade du Maroc à Paris présente ses compliments au Ministère des Affaires Etran- gères et a l'honneur de lui transmettre ci-joint la demande d'adhésion du Maroc à la Convention\n\nInternationale pour l'unification des méthodes d'analyse et d'appréciation des vins du 13 octo- bre 1954.\n\nI'Ambassade du Maroc saurait gré au\n\nMinistère des Affaires Etrangères de bien vouloir faire parvenir cette note à son service des Unions\n\nInternationales, et saisit cette occasion pour lui renouveler l'assurance de sa haute considération .ly.\n\nPaccolonso\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nPARIS",
+      "quality_score": 0.9686,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_561_s1",
+      "title": "Instrument d'adhésion marocain",
+      "score": 0.424082,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.416179,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_06_s1",
+      "title": "Note verbale d'adhésion de l'Afrique du Sud",
+      "score": 0.409917,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.40802,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_030_s1",
+      "title": "Note verbale d'acceptation du Maroc",
+      "score": 0.405616,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.405037,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.40444,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_55_s1",
+      "title": "Instrument de ratification marocain",
+      "score": 0.40249,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.40088,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_652_s1",
+      "title": "Note de transmission de l'instrument norvégien",
+      "score": 0.399484,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

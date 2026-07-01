@@ -1,0 +1,130 @@
+{
+  "document_id": "19370052_11_s1",
+  "title": "Pouvoirs du Danemark",
+  "year": 1937,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9756,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Cheistian par la grâce de Dien Roi d'Iolande et de Danemark, des Vandales et des Goths. Duc de Sleorig, Holstein, Stormarn. des Dithmarses de Lavenbaurg et j'Oldenbourg SAVOIR FAISONS: qu'ayant résolu de signer la Convention Internationale du 21 juin 1920 revisée à Paris et relative à l'entretien de l'Insti- tut International du Frold, dont le siège est à ladite ville, Nous avons choisi, nommé et autorisé, comme par…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19370052_11_s1.pdf",
+  "source_filename": "19370052_11_s1.pdf",
+  "source_sha256": "71531c3c60a28f99b486e8e6bd93ed9314298f8a9db6331136fc6525ab6d95bd",
+  "treaty_id": "TRA19370052",
+  "treaty_number": "255",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Cheistian par la grâce de Dien Roi d'Iolande et de Danemark, des Vandales et des Goths.\n\nDuc de Sleorig, Holstein, Stormarn.\n\ndes Dithmarses\n\nde Lavenbaurg et\n\nj'Oldenbourg\n\nSAVOIR FAISONS: qu'ayant résolu de signer la Convention Internationale du 21 juin 1920 revisée à Paris et relative à l'entretien de l'Insti- tut International du Frold, dont le siège est à ladite ville, Nous avons choisi, nommé et autorisé, comme par les présentes Nous choisissons, nommons et autorisons Monsieur Tage Bull, Conseiller de la Légation Royale à Paris, Chevaller de Notre Ordre du Danebrog et décoré de la Croix d'Honneur du même Ordre, Grand-Chevaller de Notre\n\nOrdre du Faucon Islandais, Notre Plénipotentiaire, pour signer pour\n\nIe Danemark, saut Notre ratification, ladite Convention, promettant en fol et en parole de Rol d'avoir pour agréable et d'accomplir II- dèlement tout ce que Notre dit Plénipotentiaire aura signé en vertu",
+      "quality_score": 0.9552,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "de ces Pleins-Pouvoirs.\n\nEn foi de quo1 Nous avons signé de Notre propre main ces Pleins-Pouvoirs et y avons falt apposer Notre sceau Royal.\n\nDonnés à copenhague le 18 décembre de l'an mIl neur cent trente-six, de Notre règne le vingt-cinqulème.\n\ntomban\n\nPLEINS-POUVOIRS.",
+      "quality_score": 0.9959,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.459197,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.409131,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_022_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.402375,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_14_s1",
+      "title": "Note d'accompagnement de l'instrument de ratification du Danemark",
+      "score": 0.400973,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.39787,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_12_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.397774,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19380055_18_s1",
+      "title": "Pouvoirs de signature du Danemark",
+      "score": 0.39773,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_09_s1",
+      "title": "Traduction française de l'instrument danois",
+      "score": 0.396931,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19920190_095_s1",
+      "title": "Pouvoirs",
+      "score": 0.394266,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_095",
+      "title": "Pouvoirs belges",
+      "score": 0.390931,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

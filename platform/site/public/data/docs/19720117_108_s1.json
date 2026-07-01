@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_108_s1",
+  "title": "Procès verbal de dépôt de l'instrument d'adhésion de l'Uruguay au protocole de 1972",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9965,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "2463 FAUCE-VERBAL DE DEPOT DE L'INSTRUMENT D'ADHESION DE LA REPUBLIQUE ORIENTALE DE L'URUGUAY AU PROTOCOLE DU 30 NOVEMBRE 1972 PORTANT MODIFICATION DE LA CONVENTION DIGNE A LARIS LE 22 NOVEMBRE 1928 CONCERNANT LES EXPOSITIONS INTERNATIONALES Son Excellence Monsieur Daniel DARRACQ, Ambassadeur Extraordinaire et Plénipotentiaire de l'Uruguay, s'est présenté aujourd'hui au Ministère des relations extérieures pour procé…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_108_s1.pdf",
+  "source_filename": "19720117_108_s1.pdf",
+  "source_sha256": "771f7307a788a90dc8d970922d0fe019a5fd7268b84b22be238b35215b5f3aee",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "URY004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "2463\n\nFAUCE-VERBAL DE DEPOT\n\nDE L'INSTRUMENT D'ADHESION\n\nDE LA REPUBLIQUE ORIENTALE DE L'URUGUAY\n\nAU PROTOCOLE DU 30 NOVEMBRE 1972\n\nPORTANT MODIFICATION DE LA CONVENTION\n\nDIGNE A LARIS LE 22 NOVEMBRE 1928\n\nCONCERNANT LES EXPOSITIONS INTERNATIONALES\n\nSon Excellence Monsieur Daniel DARRACQ, Ambassadeur\n\nExtraordinaire et Plénipotentiaire de l'Uruguay, s'est présenté aujourd'hui au Ministère des relations extérieures pour procéder avec Monsieur Jacques GAULTIER de LA FERRIERE, Chef du Protocole agissant au nom du Ministre des relations extérieures au dépôt de l'Instrument d'adhésion de la République Orientale de l'Uruguay, au Protocole du 30 novembre 1978 portant modification de la Conven- tion signée à Paris le 28 novembre 1928 concernant les expositions internationales.\n\nL'Instrument ayant été, après examen,\n\ntrouvé en bonne\n\net que forme, a été déposé, pour y être conservé, dans les\n\nArchives de la République française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent\n\nProcès-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, en double\n\nle 10 Juin 1983.\n\nexemplaire\n\naver",
+      "quality_score": 0.9965,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.785724,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv002_s1",
+      "title": "Procès-verbal du dépôt de l'instrument d'adhésion au protocole de 1972",
+      "score": 0.771677,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion chilien",
+      "score": 0.768633,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_68_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion du Nicaragua",
+      "score": 0.767983,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_74_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de Panama",
+      "score": 0.76564,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_38_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Cuba",
+      "score": 0.739094,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.731135,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_63_s1",
+      "title": "Notification aux ambassadeurs auprès des pays membres de l'adhésion des États-Unis",
+      "score": 0.72385,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mex003_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Mexique",
+      "score": 0.72385,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_83_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.710152,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

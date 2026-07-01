@@ -1,0 +1,57 @@
+{
+  "document_id": "tra18800053_001_s1",
+  "title": "Procès-verbal",
+  "year": 1880,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8438,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Le Roi mokoko qui que a ca socurainete du pays situe entre les sources et l'embauchur de defini et nouna; ayant ratifie la ession de territoire faite par Ngampey pour l tablisement d'une station francaise et fait de plus cession ce son territoire a la France a la quelle il fait cession de ses areits hereditaires de ompremalie; desirant en signe de ce cession arbores les couleurs de la france je lui ai remis un paull…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18800053_001_s1.pdf",
+  "source_filename": "tra18800053_001_s1.pdf",
+  "source_sha256": "9ed92ba91f6991f7faf393c436659edec84d0bde42b1ab6cb5c2fe81e84e8262",
+  "treaty_id": "TRA18800053",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Le Roi mokoko qui\n\nque a ca\n\nsocurainete du pays situe entre les sources et l'embauchur de defini et nouna; ayant ratifie la ession de territoire faite par\n\nNgampey pour l tablisement d'une station francaise et fait de plus cession\n\nce son\n\nterritoire a la France\n\na la quelle il fait\n\ncession de ses areits hereditaires de ompremalie;\n\ndesirant en signe\n\nde ce cession arbores\n\nles couleurs de la france je lui ai remis un paullon francais\n\net par le present\n\ndocument fait en double et revche de son gigue et de ma signature donne acte des mesures que il a pris a mon egaro en me considerant comme le representant du\n\nGouvernement francais\n\nSait a nDuo au village\n\nMokoko afait ci contre son signe\n\nde mokoko de 10 Septembre 1880 d'Inseize a vou chet de la menion de logomme e du conso interam\n\nS. Laworguan de brasse\n\n.",
+      "quality_score": 0.8438,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18800054_001_s1",
+      "title": "Procès-verbal",
+      "score": 0.380265,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

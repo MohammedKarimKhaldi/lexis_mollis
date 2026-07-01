@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_715_s1",
+  "title": "Pouvoirs portugais",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "pt"
+  ],
+  "quality_score": 0.9809,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "francisco figino Craveiro Copes presidente da República Portuguesa Fazemos saber aos que as presentes Letras virem que o Governo Português há por bem nomear, como por estas nomela, sou Plenipotenctário o Senhor Dr. Marcollo Gonçalves Nunes Duarte Mathias, Embaixador de Por- tugal em Paris, para assinar a Convenção Internacional para a unificação dos métodos de análise o de apreciação dos vinhos, aprovada na 349, ses…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_715_s1.pdf",
+  "source_filename": "19540090_715_s1.pdf",
+  "source_sha256": "a304beb9e07da3a8ab5ac5b520d499e788b5daec1fbcd7c3e5fe5a02e7a824fe",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "715",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "francisco figino Craveiro Copes presidente da República Portuguesa\n\nFazemos saber aos que as presentes Letras virem que o Governo\n\nPortuguês há por bem nomear, como por estas nomela, sou Plenipotenctário o Senhor Dr. Marcollo Gonçalves Nunes Duarte Mathias, Embaixador de Por- tugal em Paris, para assinar a Convenção Internacional para a unificação dos métodos de análise o de apreciação dos vinhos, aprovada na 349, ses- são Plenária do Comité do Office InternatIonal du VIn.\n\nEm testemunho do que as presentos letras vão por nós assinadas e seladas com o selo branco da República Portuguesa.\n\nPalácio Nacional do Belêm em vinte o seis de Janeiro, de mil novecentos e cinquenta e cinco.",
+      "quality_score": 0.9809,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_47_s1",
+      "title": "Pouvoirs de vote et de signature du Portugal",
+      "score": 0.444837,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_084_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.417502,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_174_s1",
+      "title": "Pouvoirs pour déposer l'instrument de ratification",
+      "score": 0.397336,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380028_04_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.395031,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_716_s1",
+      "title": "Instrument de ratification portugais",
+      "score": 0.379301,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.362117,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_53_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.359349,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_295a_s1",
+      "title": "Pouvoirs espagnols en vue d'accomplir les formalités d'adhésion",
+      "score": 0.358847,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_032_s1",
+      "title": "Pouvoirs du Canada",
+      "score": 0.355832,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_15_s1",
+      "title": "Pouvoirs de signature du Brésil",
+      "score": 0.351272,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

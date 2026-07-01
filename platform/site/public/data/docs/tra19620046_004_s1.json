@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19620046_004_s1",
+  "title": "Instrument français",
+  "year": 1962,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9895,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MBASSADE DE FRANCE AU MALI 2667 Bamako, le 13 Décembre 1963.- eur BAREMA BOCOUM tre des Affaires Etrangères KOULOUBA Monsieur le Ministre, Les 2 Février et 9 Mars 1962 ont été signés entre le Gouvernement de la République française et le Gouvernement de la République du Mali, un accord de coopération culturelle, un accord général de coopération techni- que, un accord de coopération en matière économique, monétair et…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19620046_004_s1.pdf",
+  "source_filename": "tra19620046_004_s1.pdf",
+  "source_sha256": "b82b29e88460a0fb2a5e266c19b7dc43475690874b3dc53c5f9017028b180511",
+  "treaty_id": "TRA19620046",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MBASSADE DE FRANCE\n\nAU MALI\n\n2667\n\nBamako, le 13 Décembre 1963.-\n\neur BAREMA BOCOUM tre des Affaires Etrangères\n\nKOULOUBA\n\nMonsieur le Ministre,\n\nLes 2 Février et 9 Mars 1962 ont été signés\n\nentre le Gouvernement de la République française et le\n\nGouvernement de la République du Mali, un accord de coopération culturelle, un accord général\n\nde coopération techni-\n\nque, un accord de\n\ncoopération en matière économique, monétair\n\net financière, un accord de coopération en matière de justice une convention consulaire.\n\nChacun de ces actes comporte une clause finale\n\nprévoyant \"son entrée en vigueur\" à la date de l'échange des instruments d'approbation.\n\nD'ordre de mon Gouvernement, j'ai l'honneur de\n\nporter à votre connaissance que les procédures requises par la Constitution de la République française pour là mise en vigueur de ces accords ont été accomplies, et que la presente\n\nLettre constitue l'instrument d'approbation prévu par la disposition susvisée.\n\nJe vous serais obligé de vouloir bien me faire\n\nsavoir si le Gouvernement de la République du Mali est, pour sa part, en mesure de m'adresser une communication analogue.\n\nVeuillez agréer, Monsieur le Ministre, Ies\n\nassurances\n\nde ma très haute considération./.-\n\nSigné : F. WIBAUX\n\nCopie\n\nBamako tide contorme l'originsi\n\n20 janvier 1964.\n\nL'ambassadeur de France au Mali\n\nI• WIBAUX",
+      "quality_score": 0.9895,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19620053_004_s1",
+      "title": "Instrument français",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620251_004_s1",
+      "title": "Instrument français",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620047_004_s1",
+      "title": "Instrument français",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620054_004_s1",
+      "title": "Instrument français",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620054_005_s1",
+      "title": "Instrument malien",
+      "score": 0.43476,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620251_005_s1",
+      "title": "Instrument malien",
+      "score": 0.43476,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620053_005_s1",
+      "title": "Instrument malien",
+      "score": 0.43476,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620046_005_s1",
+      "title": "Instrument malien",
+      "score": 0.43476,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620047_005_s1",
+      "title": "Instrument malien",
+      "score": 0.43476,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620054_101_s1",
+      "title": "publication au JO de la Convention (ensemble 1 échange de lettres signées à Paris le 3 février 1962)",
+      "score": 0.41663,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

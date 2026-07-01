@@ -1,0 +1,119 @@
+{
+  "document_id": "19540090_976_s1",
+  "title": "Instrument de ratification yougoslave",
+  "year": 1954,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9941,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Populaire Fédérative de Yougoslavie Ratifications ---- CONVENTION INTERNATIONALE POUR L'UNIFICATION DES METHODES D'ANALYSE ET D'APPRECIATION DES VINS conclue le 13 octobre 1954 & Paris. Le Président de la République Populaire Fédérative de Yougoslavie, conformément à la Loi constitutionnelle, déclare et atteste que le Conseil Exécutif Fédéral de La République Populaire Fédérative de Yougoslavie, apres avo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_976_s1.pdf",
+  "source_filename": "19540090_976_s1.pdf",
+  "source_sha256": "ca806f4221dd666f408c08d05ad17b5dfc8b9749ce193a6ea08d8d891bf72386",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "YUG002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République Populaire Fédérative de Yougoslavie\n\nRatifications ----\n\nCONVENTION INTERNATIONALE POUR L'UNIFICATION DES\n\nMETHODES D'ANALYSE ET D'APPRECIATION DES VINS\n\nconclue le 13 octobre 1954 & Paris.",
+      "quality_score": 0.992,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Le Président de la République Populaire Fédérative de Yougoslavie, conformément à la Loi constitutionnelle, déclare et atteste que le Conseil Exécutif Fédéral de\n\nLa République Populaire Fédérative de Yougoslavie, apres avoir vu et examiné la Convention Internationale pour 1'Unification des Méthodes d'Analyse et d'Appréciation des Vins, conclue de 13 octobre 1954 à Paris, L'a approuvée, confirmée et ratifiée, promettant de l'observer conscien- cieusement.\n\nEN FOI DE QUOI Les présentes sont délivrées, munies",
+      "quality_score": 0.9996,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "du sceau d'Etat.\n\nFAIT à beograd, le deux octobre mil neuf cent cinquante sept.\n\nLe Président de la République Populaire\n\nFédérative de goslavie,",
+      "quality_score": 0.9907,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_151_s1",
+      "title": "Instrument de ratification bulgare (une réserve)",
+      "score": 0.654399,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_976_s1",
+      "title": "Instrument d'adhésion de la Yougoslavie",
+      "score": 0.438665,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_326_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.399011,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_351_s1",
+      "title": "Instrument de ratification grec",
+      "score": 0.376493,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_396_s1",
+      "title": "Pouvoirs français",
+      "score": 0.371605,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_651_s1",
+      "title": "Instrument d'adhésion norvégien",
+      "score": 0.35871,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_170_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.35592,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

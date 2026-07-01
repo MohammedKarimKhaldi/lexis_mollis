@@ -1,0 +1,102 @@
+{
+  "document_id": "tra19980155_030_s1",
+  "title": "Pouvoirs allemands",
+  "year": 1998,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 0.9893,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DER PRÄSIDENT DER BUNDESREPUBLIK DEUTSCHLAND VOLLMACHT Der Geschäftsträger ad interim der Bundesrepublik Deutschland in London, Herr Gesandter Peter von Butler, und der Staatssekretär im Bundesministerium der Verteidigung, Herr Gunnar Si m o n, werden hiermit bevollmächtigt, das Übereinkommen zur Gründung der Gemeinsamen Organisation für Rüstungskooperation für die Regierung der Bundesrepublik Deutschland gemeinsam…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19980155_030_s1.pdf",
+  "source_filename": "tra19980155_030_s1.pdf",
+  "source_sha256": "700ed56cc81366b6a9e632738f6ca286c5c962a899177d78c449779158a6677c",
+  "treaty_id": "TRA19980155",
+  "treaty_number": "DEU001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DER PRÄSIDENT\n\nDER BUNDESREPUBLIK DEUTSCHLAND\n\nVOLLMACHT\n\nDer Geschäftsträger ad interim der Bundesrepublik Deutschland in London,\n\nHerr Gesandter Peter von Butler,\n\nund der Staatssekretär im Bundesministerium der Verteidigung,\n\nHerr Gunnar Si m o n,\n\nwerden hiermit bevollmächtigt,\n\ndas Übereinkommen zur Gründung der Gemeinsamen\n\nOrganisation für Rüstungskooperation\n\nfür die Regierung der Bundesrepublik Deutschland gemeinsam oder einzeln zu unterzeichnen.\n\nBerlin, den\n\n- 7. SEPTEMBER 1998\n\nDer Bundespräsident\n\nКаши Yun\n\nDer Bundesminister des Auswärtigen",
+      "quality_score": 0.9893,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19750012_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.407185,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_030_s1",
+      "title": "Pouvoirs",
+      "score": 0.396583,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690071_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.38203,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600202_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.371876,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_02_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.370759,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.355193,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_030_s1",
+      "title": "Pouvoirs allemands pour la ratification de la convention",
+      "score": 0.353295,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_011_s1",
+      "title": "Pouvoirs ouest-allemands",
+      "score": 0.352013,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

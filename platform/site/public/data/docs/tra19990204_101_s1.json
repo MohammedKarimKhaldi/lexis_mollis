@@ -1,0 +1,140 @@
+{
+  "document_id": "tra19990204_101_s1",
+  "title": "Traduction non officielle en français de la ratification libanaise",
+  "year": 1999,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9357,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19 octobre 2021 Traduction non officielle de la pièce TRA19990204-005 Faite par PRO-LIT à la demande de AR-Traités (Traduit de l’arabe) Ratification par S.E. le Président de la République libanaise de la Convention d’établissement conclue entre la République libanaise et l’Agence française de développement (AFD) portant sur la création d’un Bureau permanent de l’Agence au Liban 1 Le Général Émile Lahoud, Président d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19990204_101_s1.pdf",
+  "source_filename": "tra19990204_101_s1.pdf",
+  "source_sha256": "16fc9353b3323dae98de2a0b22df3056c013014da3f88a1715455a8ca430c1d6",
+  "treaty_id": "TRA19990204",
+  "treaty_number": "101",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19 octobre 2021\n\nTraduction non officielle de la pièce TRA19990204-005\n\nFaite par PRO-LIT à la demande de AR-Traités\n\n(Traduit de l’arabe)\n\nRatification\n\npar S.E. le Président de la République libanaise\n\nde la Convention d’établissement conclue entre la République libanaise et l’Agence française de développement (AFD) portant sur la création d’un Bureau permanent de l’Agence au Liban\n\n1",
+      "quality_score": 0.9374,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Le Général Émile Lahoud, Président de la République libanaise\n\nÀ qui de droit\n\natteste que le Gouvernement libanais a signé à Beyrouth le 12/11/99 la Convention d’établissement portant sur la création d’un Bureau permanent de l’Agence française de développement (AFD)\n\ndont le texte figure ci-après :\n\n2",
+      "quality_score": 0.9331,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Après avoir examiné la Convention susmentionnée, nous l’avons approuvée et l’approuvons dans son ensemble ainsi que dans chacun de ses articles et paragraphes, et nous proclamons que ladite Convention est approuvée, signée et authentifiée conformément à la loi N°269 publiée le 30/12/2000,\n\net nous nous engageons à mettre en œuvre ses dispositions avec rigueur et loyauté.\n\nEn foi de quoi, nous y apposons le sceau de la République.\n\nPalais de de la présidence à Baabda, le 9 décembre 2002.\n\n[signature]\n\nLe Président du Conseil des ministres\n\n[signature]\n\nLe Ministre des Affaires étrangères et des Émigrés\n\n[signature]\n\n[sceau]\n\n3",
+      "quality_score": 0.9367,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990204_005_s1",
+      "title": "Ratification libanaise (ensemble copie de la convention)",
+      "score": 0.428064,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_326",
+      "title": "Instrument de ratification française",
+      "score": 0.419437,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_056_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.416888,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "fr-ratif_s1",
+      "title": "Ratification française",
+      "score": 0.415291,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_004",
+      "title": "Instrument français",
+      "score": 0.414783,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_326_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.408759,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610137_003",
+      "title": "Instrument français",
+      "score": 0.406797,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600199_004_s1",
+      "title": "Instrument français",
+      "score": 0.40633,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.404875,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600199_005_s1",
+      "title": "Instrument camerounais",
+      "score": 0.40095,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

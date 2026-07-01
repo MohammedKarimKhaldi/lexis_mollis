@@ -1,0 +1,139 @@
+{
+  "document_id": "19280002_220_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.8975,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "19280002 220 [li ia alent 5 INSTRUMENT OF ACCESSION t.na Convention relating to International Exhibitions was done at Paris on 22 November 1928; WHEREAS the Convention was amended and supplemented by the Protocol of 30 November 1972 and the Amendment of 24 June 1982 AND WHEREAS Article 3 of the above-mentioned Protocol provides to the effect that the Protocol shall remain open for accession; the OF THE KINGDOM OF TH…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_220_s1.pdf",
+  "source_filename": "19280002_220_s1.pdf",
+  "source_sha256": "be2c090aa2f2dc7773cc7fbdc28bbae85caddc042a0be30a814ca1a45eb0b9e2",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "THA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 220",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "[li ia alent 5",
+      "quality_score": 0.7494,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "INSTRUMENT OF ACCESSION\n\nt.na\n\nConvention relating to International\n\nExhibitions was done at Paris on 22 November 1928;\n\nWHEREAS\n\nthe Convention was amended and supplemented\n\nby the Protocol of 30 November 1972 and the\n\nAmendment of 24\n\nJune 1982\n\nAND WHEREAS Article 3 of the above-mentioned Protocol provides to the effect that\n\nthe Protocol shall remain\n\nopen for\n\naccession;\n\nthe\n\nOF THE KINGDOM OF THAILAND, having 1928 Convention, the 1972 Protocol and the 24 June 1982, hereby\n\naccedes to the same and\n\nto faithfully perform and carry stipulations contained therein.\n\nIN\n\nWITNESS\n\nWHEREOF, this Instrument\n\nof Accession is\n\nand sealed by the Minister of\n\nForeign\n\nAffairs of\n\nsigned\n\nThailand.\n\nDONE at the Ministry of Foreign Affairs, Saranrom\n\nPalace, Bangkok, this Jwenty-ninth. day of December in the Two thousand Five hundred and Thirty-fifth year of the Buddhist Era, corresponding to the\n\nOne thousand\n\nNine hundred\n\nand\n\nNinety-second year of the Christian Era.\n\nSquadron Leader\n\nProsonglossen.\n\n(Prasong Soonsiri)\n\nMinister of Foreign Affairs of Thailand",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.864533,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_226_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.855487,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_225_s1",
+      "title": "Instrument d'adhésion du Timor oriental",
+      "score": 0.850451,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_222_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.842283,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_210_s1",
+      "title": "Instrument d'adhésion de la Syrie",
+      "score": 0.749449,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.747786,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.742012,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_211_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.733057,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_212_s1",
+      "title": "Instrument d'adhésion de la Tanzanie",
+      "score": 0.731155,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_216_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.728782,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

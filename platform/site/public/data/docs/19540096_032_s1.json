@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_032_s1",
+  "title": "Pouvoirs du Canada",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9873,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Je, soussigne, LESTER BONLES PEARSON, Secrétaire d'Etat aux Affaires Exterieures dans le Gouvernement canadien, atteste par les présentes que JEAN DESY, Ambassadeur du Canada en France, est revêtu des pleins pouvoirs et de l'autorité nécessaires pour signer, au nom du Gouvernement canadien, la Convention relative à l'Institut Interna- tional du Frola, adoptée à Paris le ler décembre 1954. EN FOI DE QUOI J'ai apposé…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_032_s1.pdf",
+  "source_filename": "19540096_032_s1.pdf",
+  "source_sha256": "e5082b4bc1ba10b1545d8462823b20fba1f21ae4a3e5a83d4e552a94dc6fbe47",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "CAN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Je, soussigne, LESTER BONLES PEARSON,\n\nSecrétaire d'Etat aux Affaires Exterieures dans le Gouvernement canadien, atteste par les présentes que JEAN DESY, Ambassadeur du\n\nCanada en France, est revêtu des pleins pouvoirs et de l'autorité nécessaires pour signer, au nom du Gouvernement canadien, la Convention relative à l'Institut Interna- tional du Frola, adoptée à Paris le ler décembre 1954.\n\nEN FOI DE QUOI J'ai apposé aux présentes mon seing et sceau.\n\nFAIT à Ottawa le 30 mai 1955.\n\nPearaon\n\nSecrétaire d'Etat ux Affaires Extérieures\n\n:",
+      "quality_score": 0.9873,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_17_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.383487,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_175_s1",
+      "title": "Pouvoirs canadiens",
+      "score": 0.379223,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_29_s1",
+      "title": "Pouvoirs de signature du Canada",
+      "score": 0.375038,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.372061,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.371319,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_018_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.370178,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_47_s1",
+      "title": "Pouvoirs de vote et de signature du Portugal",
+      "score": 0.368546,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900276_003",
+      "title": "Pouvoirs australiens",
+      "score": 0.368374,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_005_s1",
+      "title": "Instrument allemand/copie conforme signée par le directeur des Affaires juridiques du ministère des Affaires étrangères allemand et Protocole d'échange des notifications entre le Chancelier Konrad Adenauer et le président de la République René Coty",
+      "score": 0.368158,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.36642,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

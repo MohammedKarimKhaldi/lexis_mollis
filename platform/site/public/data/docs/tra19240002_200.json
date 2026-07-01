@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_200",
+  "title": "Instrument d'adhésion",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9842,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTRE DES AFFAIRES ETRANGÈRES DE LA RÉPUBLIQUE SLOVAQUE Jozef Mora vă í k Bratislava, le 27 Avril 1993 No.: 1813/93 - KM Monsieur le Ministre d'Etat, J'ai l'honneur de porter à votre haute connaissance que le Gouvernement de la République Slovaque se considère comme lié par l'engagement donné par la Ichécoslovaquie en 1924 pour devenir partie à l'Arrangement international pour la création à Paris de l'Office inte…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_200.pdf",
+  "source_filename": "tra19240002_200.pdf",
+  "source_sha256": "1aada0d65df09e010c6ed07f4fe30f047a671994d72b8e33662cde399e5bc14c",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "CYP001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTRE DES AFFAIRES\n\nETRANGÈRES DE LA\n\nRÉPUBLIQUE SLOVAQUE\n\nJozef Mora vă í k\n\nBratislava, le 27 Avril 1993\n\nNo.: 1813/93 - KM\n\nMonsieur le Ministre d'Etat,\n\nJ'ai l'honneur de porter à votre haute connaissance que le Gouvernement de la République Slovaque se considère comme lié par l'engagement donné par la Ichécoslovaquie en 1924 pour devenir partie à l'Arrangement international pour la création à Paris de l'Office international des épizooties.\n\nLa République Slovaque participera aux frais de fonctionnement de l'Office sur la base de la 5e catégorie.\n\nLe délégué de la République Slovaque auprès de l'OIE sera le Dr. Jozef Sokol qui est le directeur général de la\n\nDirection du Service vétérinaire de la République Slovaque.\n\nJe vous\n\nprie d'agréer, Monsieur le Ministre d'Etat, les\n\nassurances de ma\n\nhaute considération.\n\nMonais\n\nMonsieur le Ministre d'Etat,\n\nMinistre des Affaires Etrangères de la République française\n\nP a\n\nI i\n\nCopie à Monsieur le Directeur général de l'OIE",
+      "quality_score": 0.9842,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.388816,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_57_s1",
+      "title": "Lettre du Ministre slovaque des AE confirmant le maintien de la Slovaquie en tant qu'Etat successeur de la Tchécoslovaquie",
+      "score": 0.385103,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_485",
+      "title": "Accusé de réception de l'instrument du Lesotho",
+      "score": 0.384165,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_76_s1",
+      "title": "Confirmation de la date d'adhésion de l'URSS",
+      "score": 0.382556,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_300",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.378086,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.378005,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_66_s1",
+      "title": "Note de transmission de la ratification tchécoslovaque",
+      "score": 0.37789,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_895",
+      "title": "Instrument d'adhésion",
+      "score": 0.377653,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_029_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Bulgarie",
+      "score": 0.376828,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_094_s1",
+      "title": "Notification au MAE de la succession de la Slovaquie à la Tchécoslovaquie",
+      "score": 0.375231,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

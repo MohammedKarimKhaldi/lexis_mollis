@@ -1,0 +1,132 @@
+{
+  "document_id": "19230072_151b_s1",
+  "title": "Instrument de ratification bulgare de la Convention concernant la liberté de passage dans les détroits",
+  "year": 1923,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9595,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Nous Boris III, par la gráce de Dien et la solote de la Nation, Roi des Bulgares, Ayant on et examiné la Convention concernant les frontières de Thrace, signée à Lausanne le 24. Juillet 1923, entre la Bulgarie et les Etats ci- dessous mentionnés, Nous approuvons, confirmons et ratifions la Corenti qui précède, promettant de la faire exécuter et observer selon sa forme et teneur. En foi de quoi, Nous avons signé les…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_151b_s1.pdf",
+  "source_filename": "19230072_151b_s1.pdf",
+  "source_sha256": "3f7ae0905dd207292a94d037106ae71d1c68f7cfd1890d7cfed1200f24e73a05",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "BGR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nous Boris III,\n\npar la gráce de Dien et la solote de la Nation,\n\nRoi des Bulgares,\n\nAyant on et examiné la Convention concernant les frontières de Thrace, signée à Lausanne le 24.\n\nJuillet 1923, entre la Bulgarie et les Etats ci- dessous mentionnés,",
+      "quality_score": 0.9715,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Nous approuvons, confirmons et ratifions la Corenti qui précède, promettant de la faire exécuter et observer selon sa forme et teneur.\n\nEn foi de quoi, Nous avons signé les présentes\n\nLettres de ratification et y avons fait apposer le sceau de l'Etat.\n\nDoré à Sophia, le quinzième jour du mois devril de l'an de gráce mil neuf cent vingt quatra, de Notre règne le sixième.\n\nPar le Roi,\n\nLe Ministre des Affaires étrangères et des Pultes:",
+      "quality_score": 0.9474,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_041",
+      "title": "Accusé de réception français de l'instrument d'adhésion andorran",
+      "score": 0.685688,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_151b_s1",
+      "title": "Instrument de ratification bulgare de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.431529,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_151a_s1",
+      "title": "Instrument de ratification bulgare du Traité de Paix",
+      "score": 0.430629,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19290044_005_s1",
+      "title": "Instrument belge",
+      "score": 0.423606,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19620059_005_s1",
+      "title": "Instrument belge",
+      "score": 0.421292,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_09_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.414894,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200016_726_s1",
+      "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+      "score": 0.406089,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19380056_05_s1",
+      "title": "Instrument de ratification de l'Egypte",
+      "score": 0.403973,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_023_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.400543,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_011_s1",
+      "title": "Instrument d'acceptation de la Belgique",
+      "score": 0.398237,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

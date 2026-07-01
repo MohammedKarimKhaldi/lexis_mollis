@@ -1,0 +1,102 @@
+{
+  "document_id": "19920190_255_s1",
+  "title": "Pouvoirs",
+  "year": 1992,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "FULL POWERS I, the undersigned, POUL SCHLÜTER, Acting Minister for Foreign Affairs of the Kingdom of Demark, do hereby authorize Mr. BENNY KIMBERG, Commander of the Order of the Dannebrog, Ambassador of the Kingdom of Demark in Paris to sign on behalf of the Kingdom of Demark subject to ratification and with reservation for application to Greenland and the Faroe Islands the Convention for the Protection of the Marin…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19920190_255_s1.pdf",
+  "source_filename": "19920190_255_s1.pdf",
+  "source_sha256": "ef1c366c1d99bb746236022b00c3d12697f6670c7ee38d008d3c9a733ee43a4b",
+  "treaty_id": "TRA19920190",
+  "treaty_number": "255",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "FULL POWERS\n\nI, the undersigned, POUL SCHLÜTER, Acting Minister for Foreign Affairs of the Kingdom of Demark, do hereby authorize Mr. BENNY KIMBERG,\n\nCommander of the Order of the Dannebrog, Ambassador of the Kingdom of\n\nDemark in Paris to sign on behalf of the Kingdom of Demark subject to ratification and with reservation for application to Greenland and the Faroe\n\nIslands the Convention for the Protection of the Marine Environment of the\n\nNorth-East Atlantic.\n\nCopenhagen, 22 September 1992\n\nPun kerit",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880315_255a_s1",
+      "title": "Pouvoirs danois pour la signature de la convention et de l'acte final",
+      "score": 0.378711,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_258_s1",
+      "title": "Note verbale de l'Ambassade royale de Danemark notifiant le retrait de la réserve portant sur l'application de la Convention au territoire des Iles Féroé.",
+      "score": 0.375711,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_18_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.365998,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_257_s1",
+      "title": "Note verbale de l'Ambassade royale de Danemark notifiant le retrait de la réserve portant sur l'application de la Convention au territoire du Groenland.",
+      "score": 0.360017,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_256_s1",
+      "title": "Instrument de ratification",
+      "score": 0.359198,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_030_s1",
+      "title": "Pouvoirs",
+      "score": 0.358586,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.357011,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_095_s1",
+      "title": "Pouvoirs",
+      "score": 0.355347,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

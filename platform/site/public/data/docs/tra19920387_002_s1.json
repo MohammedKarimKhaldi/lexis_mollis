@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19920387_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1992,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9991,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ripublique Française N°12/92 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre d'Etat, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à Monsieur Jean-François CIRELLI, Chef du Bureau de l'Endettement international à la Direction du Trésor du Ministère de l'Economie, des Finances et du Budget, pour signer un Accord entre le Gouvernement de la République française et le gestionnair…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19920387_002_s1.pdf",
+  "source_filename": "tra19920387_002_s1.pdf",
+  "source_sha256": "68b456163674fd42c7df033e8cf40a4a9a935d8f638afd456ea1a58da983210e",
+  "treaty_id": "TRA19920387",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ripublique Française\n\nN°12/92\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS,\n\nMinistre d'Etat,\n\nMinistre des Affaires Etrangères, donnons\n\nPOUVOIRS par ces présentes à Monsieur Jean-François CIRELLI,\n\nChef du Bureau de l'Endettement international à la Direction du Trésor du\n\nMinistère\n\nde l'Economie, des Finances et du\n\nBudget,\n\npour signer un Accord entre le Gouvernement de la\n\nRépublique française et le gestionnaire de la dette de 1'URSS et de ses successeurs\n\nagissant au nom des signataires du\n\nmemorandum du 28 octobre 1991 sur la dette de 1'URSS et de ses successeurs. /.\n\n: FAIT à PARIS, le 31 Janvier 1992\n\nLe Ministre d'Etat,\n\nMinistre des Affaires Etrangères\n\n.....................",
+      "quality_score": 0.9991,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.58809,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870226_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.572222,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.545193,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.515,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_002a_s1",
+      "title": "Pouvoirs pour l'accord",
+      "score": 0.454868,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.40821,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910044_002",
+      "title": "Pouvoirs français",
+      "score": 0.397135,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_002",
+      "title": "Pouvoirs",
+      "score": 0.391085,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.388815,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890169_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.388317,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

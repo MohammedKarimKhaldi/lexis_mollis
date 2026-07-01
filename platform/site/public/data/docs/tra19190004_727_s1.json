@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19190004_727_s1",
+  "title": "Procès-verbal de dépôt des ratifications du traité de paix, protocole et déclaration du 10 septembre 1919",
+  "year": 1919,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9921,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Le Ministre de Roumanie à Paris s'est présenté aujourd'hui au Minis- tère des Affaires Etrangères pour procéder, d'accord avec le Président du Conseil, Ministre des Affaires Étrangères de la République française, au dépôt de l'instrument des Ratifications de Sa Majesté le Roi de Rou- mane sur le Traité de Paix avec l'Autriche, signé à Saint-Germain-en- Laye, le 1o septembre 1gug, ainsi que sur le Protocole et la Déc…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190004_727_s1.pdf",
+  "source_filename": "tra19190004_727_s1.pdf",
+  "source_sha256": "7ac324c0eacbfddd757709db2b7f1601830d6adf0bd21eef79ff186371c02d24",
+  "treaty_id": "TRA19190004",
+  "treaty_number": "727",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Le Ministre de Roumanie à Paris s'est présenté aujourd'hui au Minis- tère des Affaires Etrangères pour procéder, d'accord avec le Président du Conseil, Ministre des Affaires Étrangères de la République française, au dépôt de l'instrument des Ratifications de Sa Majesté le Roi de Rou- mane sur le Traité de Paix avec l'Autriche, signé à Saint-Germain-en- Laye, le 1o septembre 1gug, ainsi que sur le Protocole et la Déclara- lion portant la même date.\n\nL'instrument ayant été, aprés examen, trouvé en bonne et due forme, a élé déposé pour être conservé daus les archives de la Répu- blique française.\n\nEN FOI DE QUOI, les soussignes onl dressé le présent procès- verbal qu'ils ont revêtu de leurs cachets.\n\nFAIT à Paris, en double exemplaire, le\n\n• 4 septembre 1920.\n\naMullera\n\nSaint-Germain. — Dépôt Batifications, — Roumanie.",
+      "quality_score": 0.9921,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_096_s1",
+      "title": "Procès-verbal de dépôt de l'instrument des ratifications",
+      "score": 0.784025,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_727_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification roumain",
+      "score": 0.782638,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_352b_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de la convention entre la Bulgarie et la Grèce",
+      "score": 0.696728,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_62_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification panaméen",
+      "score": 0.68247,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.579842,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.568362,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_27_s1",
+      "title": "Dépôt de l'instrument de ratification de Haïti",
+      "score": 0.548013,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_74_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de Panama",
+      "score": 0.540657,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_711_s1",
+      "title": "Note verbale a/s transmission de la ratification et date du PV de son dépôt",
+      "score": 0.393121,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_631_s1",
+      "title": "Procès-verbal du dépôt de ratification du traité de paix du 10 septembre 1919",
+      "score": 0.386197,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

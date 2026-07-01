@@ -1,0 +1,118 @@
+{
+  "document_id": "19240003_21_s1",
+  "title": "Instrument de ratification espagnol",
+  "year": 1924,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "quality_score": 0.9397,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "spécialement la Convention de Madrid de 1891 au sujet desquels, en tout cas, le Gouvernement de Sa Majesté le Roi d'Espagne se réserve le droit d'interprétation, jusqu'au moment où la question sera définitivement réglée, soit par des Accords bilatéraux, soit par une décision adoptée dans une Conférence générale par toutes les Hautes Parties signataires des Conventions Internationales en vigueur, Sous cette réserve r…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_21_s1.pdf",
+  "source_filename": "19240003_21_s1.pdf",
+  "source_sha256": "7fbdbf2dbaef497c458f3b056581a6e58d813ba2b10a39ded60d12b71525fb3b",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "ESP002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "spécialement la Convention de Madrid de 1891 au sujet desquels, en tout cas, le Gouvernement de Sa Majesté le Roi d'Espagne se réserve le droit d'interprétation, jusqu'au moment où la question sera définitivement réglée, soit par des Accords bilatéraux, soit par une décision adoptée dans une Conférence générale par toutes les Hautes Parties signataires des Conventions\n\nInternationales en vigueur,\n\nSous cette réserve relative à la portée du compromis établi dans les textes cités du présent\n\nArrangement et au caractère obligatoire des propositions que l'Office pourrait lui soumettre, méme dans le cas où il s'agirait de décisions adoptées par lui à la majorité des voix, le Gouver- nement de Sa Majesté le Koi d'Espague donne son adhésion aux numéros 1 et 3 du paragraphe ot de l’article premier du présent Arrangement.\n\nFait à Paris le 29 novembre 1924.\n\nPOR TANTO, habiendo visto y examinado los nueve artículos del preinserto\n\nAcuerdo, firmado por Francia, Grecia, Hungría, Italia, Luxemburgo y Tünez, Hemos venido en Aprobarlo y Ratificarlo, con la reserva consignada por Nuestro Plenipo- tenciario en el Protocolo de firma también transcrito, prometiendo cumplirlo y ob- servarlo y hacer que se cumpla y observe con la mencionada reserva, y para su mayor validación y firmeza Mandamos expedir la presente que firmada de Nuestra\n\nMano y debidamente sellada refrenda Nuestro Ministro de Estado.\n\nDada en Chfaeo a c) 1 PHACVE- S Je. wal. noveeenloó vemhaéié .\n\nEL MiNISTRO DE EsTADO,",
+      "quality_score": 0.9397,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr",
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_27_s1",
+      "title": "Pouvoirs de signature de la Grèce",
+      "score": 0.434925,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.39587,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_53_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.387877,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_296_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.383436,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_41_s1",
+      "title": "Instrument de ratification du Luxembourg",
+      "score": 0.383398,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_48_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.378742,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_051_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.378393,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290031_005_s1",
+      "title": "Instrument espagnol",
+      "score": 0.375727,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182468_001",
+      "title": "Accord",
+      "score": 0.374651,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_001_s1",
+      "title": "Convention (ensemble un acte final) (ensemble deux annexes)",
+      "score": 0.372375,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

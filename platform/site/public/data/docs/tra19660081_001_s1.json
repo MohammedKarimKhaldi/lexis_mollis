@@ -1,0 +1,239 @@
+{
+  "document_id": "tra19660081_001_s1",
+  "title": "Accord",
+  "year": 1966,
+  "doc_type": "Accord",
+  "languages": [
+    "en",
+    "fr",
+    "hu",
+    "ru",
+    "so"
+  ],
+  "quality_score": 0.8438,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "A js TO A D ANAN z ey h o S5; s i ” K: ` [3 A TRO, 7 z ONON | SNNN AN ; 7 A KRE A S ACCORD DE COOPERATION SCIENTIFIQUE, TECHNIQUE ET ECONOMIQUE ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEMENT DE L'UNION DES REPUBLIQUES SOCIALISTES SOVIETIQUES SIGNE A MOSCOU, LE 30 JUIN I966 ACCORD DE COOPERATION SCIENTIFIQUE, TECHNIQUE ET ECONOMIQUE ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEM…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19660081_001_s1.pdf",
+  "source_filename": "tra19660081_001_s1.pdf",
+  "source_sha256": "365d51ccdb8aef15f664bd144b36dadc8919f6331b17ce0638703810a80020b6",
+  "treaty_id": "TRA19660081",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "A\n\njs TO\n\nA D ANAN\n\nz ey h o\n\nS5;\n\ns i ” K:\n\n` [3\n\nA TRO,\n\n7 z\n\nONON |\n\nSNNN AN\n\n; 7\n\nA\n\nKRE A S",
+      "quality_score": 0.5277,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hu",
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD DE COOPERATION SCIENTIFIQUE, TECHNIQUE ET ECONOMIQUE\n\nENTRE LE\n\nGOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nET LE\n\nGOUVERNEMENT DE L'UNION DES REPUBLIQUES SOCIALISTES SOVIETIQUES\n\nSIGNE A MOSCOU, LE\n\n30 JUIN I966",
+      "quality_score": 0.951,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "ACCORD DE COOPERATION SCIENTIFIQUE, TECHNIQUE ET ECONOMIQUE\n\nENTRE LE\n\nGOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nET LE\n\nGOUVERNEMENT DE L'UNION DES REPUBLIQUES SOCIALISTES SOVIETIQUES\n\nLe Gouvernement de la République française et\n\nle Gouvernement\n\nde 1 'Union des Républiques Socialistes Soviétiques,\n\nConscients des avantages mutuels que présente pour les deux\n\npays\n\nle développement de leurs relations scientifiques, techniques et\n\néconomiques,\n\nDésireux de resserrer la coopération entre les deux pays,\n\nnotamment dans\n\nles domaines de la science et de la technique,\n\nExprimant leur satisfaction de l'établissement et du dévelop- pement croissant de rapports entre les organismes et entreprises in-\n\ntéressés: des deux pays,\n\nConsidérant qu'une telle coopération renforcera les relations d'amitié qui existent traditionnellement entre la France et l'Union\n\nSoviétique,\n\nSont convenus de ce qui suit :\n\nArticle 1\n\nLes Parties contractantes s'engagent à favoriser le développe- ment de la coopération scientifique, technique et économique entre les deux pays dans les domaines de la science et de la technique.\n\nElles définissent d'un commun accord les différents secteurs dans les- quels cette coopération est souhaitable en tenant compte de l'expérience acquise par leurs savants et techniciens et des possibilités offertes\n\ndans chaque domaine, particulièrement dans\n\nceux qui sont en liaison",
+      "quality_score": 0.975,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "- 2-\n\nétroite avec le développement des échanges économiques.\n\nArticle 2\n\nLa coopération qui fait l'objet du présent Accord\n\npeut notam-\n\nment prendre les formes suivantes :\n\nI°) Echanges de délégations scientifiques\n\net techniques, échanges\n\nindividuels de savants, de chercheurs, de\n\nspécialistes, d'ex-\n\nperts, de stagiaires et de conférenciers, échanges de documen- tation et d'informations techniques ;\n\n2°) Organisation de colloques scientifiques\n\net techniques bilaté-\n\nraux sur des problèmes\n\nintéressant les deux Parties ;\n\n3°) Travaux de recherche poursuivis en commun sur des problèmes de science fondamentale et de science appliquée et pouvant éventuellement mener à des applications industrielles ;\n\n4°) Elaboration en commun de certains procédés technologiques des- tinés notamment à la modernisation des entreprises ;\n\n5°) Etude en commun des techniques de productivité et d'organisa- tion des entreprises.\n\nArticle 3\n\nSur la base du présent Accord, les Parties contractantes favorisent la coopération entre les organismes ou entreprises intéressés des deux pays, notamment en vue de la conclusion d'arran- gements ou de contrats appropriés.\n\nLes arrangements ou contrats, qui régiront la coopération en- tre les organismes ou entreprises des deux pays, seront conclus en conformité avec la législation en vigueur dans les deux pays•\n\nEn particulier ces arrangements ou contrats prévoiront si nécessai- re :\n\na) la rémunération des apports de connaissance, notamment sous la forme de ventes de brevets ou de concessions de licences,\n\nb) les échanges ou le dépôt en commun des brevets ainsi que les conditions de délivrance des licences,\n\nc) les modalités de la production et de sa commercialisation.\n\n- 3 - Article 4\n\nAfin d'assurer la mise en oeuvre du présent Accord les Parties contractantes instituent une Commission mixte francosoviétique. La Commission se réunira alternativement à Paris et à Moscou au moins une fois par an.\n\nLa Commission est chargée de suivre l'exécution de l'Accord et d'examiner les domaines concrets dans lesquels la coopération peut se développer.\n\nArticle 5\n\nSi des livraisons de produits de l'industrie des deux pays sont effectuées en exécution du présent Accord, elles auront lieu conformément à l'accord commercial en\n\nvigueur.\n\nArticle 6\n\nChacune des Parties contractantes notifiera à l'autre l'accomplissement des procédures légales requises pour la mise en vigueur du présent Accord. Celui-ci prendra effet à la date de la dernière de ces notifications.\n\nArticle ?\n\nLe présent Accord demeurera en vigueur tant qu'il n'aura pas été dénoncé par l'une des Parties. En ce cas\n\nsa vali-\n\ndité prendra fin un an après la notification de la dénonciation.\n\nEn foi de quoi les représentants des deux Gouvernements ont signé le présent Accord et y ont apposé leur sceau.\n\nFat moscou le 30\n\nJuin I966, en deux exemplaires,\n\nen langue française et en langue russe, les deux textes faisant également foi./.\n\nPour le Gouvernement de la République Française :\n\nPour le Gouvernement\n\nde l'Union des Républiques\n\nSocialistes Soviétiques :\n\nIons haill\n\nА. Грамено",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "CㅇㄲㅍAWEHWE\n\nО НАУЧНО-ТЕХНИЧЕСКОМ И ЭКОНОМИЧЕСКОМ СОТРУДНИЧЕСТВЕ\n\nМЕЖДУ\n\nПРАВИТЕЛЬСТВОМ ФРАНЦУЗСКОЙ РЕСПУБЛИКИ\n\nПРАВИТЕЛЬСТВОМ СОЮЗА\n\nСОВЕТСКИХ\n\nСОЦИАЛИСТИЧЕСКИХ РЕСПУБЛИК,\n\nПОДПИСАННОЕ В МОСКВЕ 30 ИЮНЯ 1966 ГОДА",
+      "quality_score": 0.9322,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "СОГЛАШЕНИЕ\n\nо научно-техническом и экономическом сотрудничестве между\n\nПравительством Французской Республики\n\nи правительством\n\nСоюза\n\nСоветских Социалистических Республик\n\nПравительство Французской Республики и Правительство Союза\n\nСоветских Социалистических Республик, сознавая взаимную выгоду, которую представляет для обеих стран развитие их научно-технических и экономических отношений, желая укреплять сотрудничество между двумя странами, в частности, в области науки и техники, выражая удовлетворение в связи с установлением и дальнейшим развитием связей между заинтересованными организациями\n\nи\n\nпредприятиями обеих стран, принимая во внимание, что такое сотрудничество\n\nукрепит\n\nдружественные отношения, которые традиционно существуют между\n\nФранцией и Советским Союзом, согласились о следующем:\n\nСтатья І\n\nДоговаривающиеся стороны обязуются способствовать развитию научно-технического и экономического сотрудничества обеих стран в области науки и техники. С обоюдного согласия они определяют различные области, в которых это сотрудничество является желательным, учитывая опыт, приобретенный их учеными и специалистав областях, которые тесно связаны с развитием экономического обмена.",
+      "quality_score": 0.9423,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "2.\n\nСтатья 2\n\nСотрудничество, являющееся целью настоящего Соглашения, может, в частности, осуществляться в следующих формах:\n\nI) Обмен научными и техническими делегациями, обмен отдель- ными учеными, исследователями, специалистами, экспертами, ста- нерами, лекторами, обмен технической документацией и информа- Ime该； 2)\n\nОрганизация двусторонних научно-технических коллокви- умов по проблемам, интересующим обе стороны;\n\n3) Совместная разработка проблем в области фундаменталь- ной и прикладной науки, с возможным последующим внедрением ре- зультатов этих работ в промышленное производство;\n\n4) Совместная разработка отдельных технологических про- цессов, предназначенных, в частности, для модернизации пред- приятий;\n\n5) Совместное исследование методов производительности труда и организации производства на предприятиях.\n\nСтатья 3\n\nНа основе настоящего Соглашения Договаривающиеся стороны будут способствовать сотрудничеству между заинтересованными организациями или предприятиями обеих стран, в частности, с целью заключения соответствующих соглашений или контрактов.\n\nСоглашения или контракты, на основе которых будет разви- ваться сотрудничество между организациями или предприятиями обеих стран, будут заключаться в соответствии с существующим законодательством в обеих странах. В этих соглашениях или конт- рактах, в частности, будет предусматриваться, в случае необхо- а) Вознаграждение за передачу знаний, в частности, в виде продажи патентов или уступок лицензий;\n\n3.\n\nб) Обмен патентами или совместная заявка патентов, а также условия выдачи лицензий;\n\nв) Условия внедрения в производство и реализации продукции.\n\nСтатья 4\n\nДля выполнения настоящего Соглашения Договаривающиеся стороны создают Смешанную франко-советскую комиссию. Комиссия будет собираться попеременно в Париже и Москве не реже одного раза в год.\n\nКомиссии поручается следить за выполнением Соглашения из уча ть конкретные области, в которых может развиваться это сотрудничество.\n\nСтатья 5\n\nЕсли поставки продукции промышленного\n\nпроизводства обеих\n\nстран будут осуществляться в ходе выполнения настоящего Соглашения, то они будут производиться в соответствии с действующим торговым соглашением.\n\nСтатья 6\n\nКаждая из Договаривающихся сторон уведомит другую сторону о выполнении законодательной процедуры, необходимой для вступления в силу настоящего Соглашения. Соглашение вступит в силу со дня второго из этих уведомлений.\n\nСтатья ?\n\nНастоящее Соглашение останется в силе до тех пор, пока не будет денонсировано одной из сторон. В этом случае оно прекращает свое действие через год после уведомления о денонсации.",
+      "quality_score": 0.9597,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "4.\n\nВ удостоверение чего Представители двух Правительств подписали настоящее Соглашение и приложили и нему свои печати.\n\nСовершено в городе Москве 30 июня I966 года в двух экземплярах, на французском и русском языках, причем оба тек- ста имеют одинаковую силу.\n\nПо уполномочию\n\nПравительства Французской\n\nРеспублики\n\nNome hak\n\nПо уполномо чию\n\nПравительства Союза Советских\n\nСоциалистических Республик\n\nН- Громико",
+      "quality_score": 0.9409,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "me oee",
+      "quality_score": 0.6168,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "La a a a Zan T E\n\nKRK AE A ARSAN TSR",
+      "quality_score": 0.5928,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19660081_100_s1",
+      "title": "Texte non signé de l'accord",
+      "score": 0.92694,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19680088_001_s1",
+      "title": "Accord (ensemble un échange de lettres)",
+      "score": 0.594058,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19910098_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.424657,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750189_001_s1",
+      "title": "Accord",
+      "score": 0.423828,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20161969_001_s1",
+      "title": "Pouvoirs français",
+      "score": 0.423209,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20172401_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.41936,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_001_s1",
+      "title": "Accord",
+      "score": 0.418328,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182390_001_s1",
+      "title": "Accord",
+      "score": 0.416675,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20192685_001_s1",
+      "title": "Accord",
+      "score": 0.415318,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20132503_001_s1",
+      "title": "Arrangement",
+      "score": 0.413021,
+      "type": "translation",
+      "provisional": true
+    }
+  ]
+}

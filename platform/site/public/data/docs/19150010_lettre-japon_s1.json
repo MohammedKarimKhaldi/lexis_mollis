@@ -65,5 +65,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19150010_lettre-france_s1",
+      "title": "Copie conforme de la lettre française",
+      "score": 0.423013,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280028_100",
+      "title": "Recueil de trente pièces relatives à la préparation, à l'élaboration et à la conclusion du Traité",
+      "score": 0.380175,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880302_001",
+      "title": "Lettre française (accord par échange de lettre)",
+      "score": 0.368403,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19490009_100_s1",
+      "title": "Échange de lettres secret précisant certains points du Protocole",
+      "score": 0.367634,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.365141,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.364924,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630118_001_s1",
+      "title": "Publication au Journal officiel de l'échange de lettres sans le procès-verbal",
+      "score": 0.360876,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.360725,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630043_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.360008,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.35983,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

@@ -1,0 +1,144 @@
+{
+  "document_id": "19820018_027_s1",
+  "title": "Lettre d'acceptation de l'amendement par la France",
+  "year": 1982,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9432,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Il multa 24 juin 1982 République Transaise Le Ministre des relutions extéricures Paris, le ler décembre 1982 Le Gouvernement de la République donne son approbation à l'amendement au Protocole du 30 novembre 1972 portant modifica- tion de la Convention signée à Paris le 22 novembre 1928 concernant les expositions internationales que 1'Assemblée Générale du Bureau International des Expasitions a adopté le 24 juin 1982…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_027_s1.pdf",
+  "source_filename": "19820018_027_s1.pdf",
+  "source_sha256": "0154398522325dd80c3e337d0f77a5a12e8b5276f114b385683fd7ef75e5cbb2",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "FRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Il multa 24 juin 1982\n\nRépublique Transaise\n\nLe Ministre des relutions extéricures\n\nParis, le ler décembre 1982\n\nLe Gouvernement de la République donne son approbation à l'amendement au Protocole du 30 novembre 1972 portant modifica- tion de la Convention signée à Paris le 22 novembre 1928 concernant les expositions internationales que 1'Assemblée Générale du Bureau\n\nInternational des Expasitions a adopté le 24 juin 1982.\n\nLa présente lettre constitue l'approbation visée à l'article 28 alinéa 3,f dudit Protocole./.\n\nC. chugnan\n\nClaude CHEYSSON",
+      "quality_score": 0.9497,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "POUR COPIE CERTIFIÉE CONFORME:\n\nLe Ministre Plénipotentiaic@ ches du Protocala\n\n19 Septembre 1984.\n\nN° .\n\n230 /PRO\n\n:\".\n\nLe Ministère des Ielations extérieures, Protocole, présente ses compliments à l'Ambassade du MEXIQUE et a 1 'hon- , neur de se référer à la note verbale n° 65349 du 21 Mars 1984Ppax laquelle elle a bien voulu lul faire parvenir\n\nI'Instrument du Président du Mexique portant approbation '\"de 1'Ámendement à la Convention concernant les expositlons internationales signée à Paris le 22 Novembre 1928, telle que modifiée par le protocole du 30 Novembre 1972, adopté\n\nà paris le 24 Juin 1983,\n\nLe Mintstère fait savoir à l'Ambassade qu'11 a\n\nbian reçu cet Instrument pour y être conservé dans les Arbbives de la République française -\n\n21 Mars 1984,1.. ;\n\nJe Ministère des relations extór leures; Protocole, saisit cette occasion pour renouvèder à l'Ambassade du\n\nMEXIQUE les assurances de\n\nsa haute considération.\n\nAMBASSADE DU MEXIQUE\n\nLARIS",
+      "quality_score": 0.937,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "L'Ambassade du Mexique présente ses compliments au Ministère des Relations Extérieures, et a l'honneur de Lul remettre ci-joint le document par laquel le Président du Mexique confirme l'approbation du Senat de 1'Amendement de Juin 1982 au Protocole portant modification de la Convention de 1928 concernant les\n\nExpositions internationales, qui remplase la paragraphe 2\n\nde l'article V dudit Protocole.\n\nL'Ambassade du Mexique saisit cetta occasion pour renouveler au Ministère des Relations\n\nExtérieures, les assurances de sa haute consideration\n\nParis 18M8A]/ Mars à 2$384.\n\nPARE, FANCA\n\nMINISTERE DES RELATIONS EXTERISURES\n\n-Direction des Affaires Juridiques- Par 1 s",
+      "quality_score": 0.9429,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_037_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.83077,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_020_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.422955,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_031_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.422063,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.421232,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_033_s1",
+      "title": "accusé de réception du Nicaragua de la notification de l'amendement",
+      "score": 0.420515,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.418688,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.417537,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.416081,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19240002_700",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.414495,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.413073,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

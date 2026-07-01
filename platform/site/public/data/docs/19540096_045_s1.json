@@ -1,0 +1,128 @@
+{
+  "document_id": "19540096_045_s1",
+  "title": "Pouvoirs du Danemark",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9724,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "par la grâce de Dien Roi de Danemark, des Vandaleo ev des Sotho, Duc de Slessig. Holatein, Stormarn, des Dithmarses de Lanenbourg e DOldenbourg SAVOIR FAISONS: qu'ayant résolu de faire signer la Convention Internationale, adoptée à Iondres le 16 octobre 1952, avec mo- difications ultérieures, se substituant à la Convention du 21 Juin 1920 relative à l'Institut International du Froid, modi- 1160 le 31 mai 1937, Nous…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_045_s1.pdf",
+  "source_filename": "19540096_045_s1.pdf",
+  "source_sha256": "65c2bf744a2548c0df04ee04f92760cab42025a4964234ca3763224f14b5003c",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "255",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "par la grâce de Dien Roi de Danemark, des Vandaleo ev des Sotho, Duc de Slessig.\n\nHolatein, Stormarn, des Dithmarses de Lanenbourg e DOldenbourg\n\nSAVOIR FAISONS: qu'ayant résolu de faire signer la Convention\n\nInternationale, adoptée à Iondres le 16 octobre 1952, avec mo- difications ultérieures, se substituant à la Convention du 21\n\nJuin 1920 relative à l'Institut International du Froid, modi- 1160 le 31 mai 1937, Nous Avons choisi, nommé et autorisé, comme par les présentes Nous choisidions, nommons et autorisons, en qualité de Notre Plénipotentibire, Monsieur Ejnar Merum, Notre\n\nAmbassadeur Extraordinaire e Plénipotentiaire à Paris, Conman- deur de première classe de litre Ordre du Danebrog et décoré de la Croix d'Honneur du même care, à signer, pour le Danemark, saul Notre ratification, laite Convention, promettant en foi et parole do Roi, d'avoir purlagréable tout co que Notre dit",
+      "quality_score": 0.9577,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Plénipotentiaire aura signé en vertu des présents Pleins-Pouvoirs.\n\nEn foi de quoi Nous avons signé ces Pleins-Pouvoirs de Notre propre main et y avons fait apposer Notre sceau Royal,\n\nDonnés à\n\nAmalienborg\n\nle 3 janvier\n\nde l'an\n\nMil Neuf Cent Cinquante-Cinq\n\n, de Notre règne le huitième.\n\nPLEINS-POUVOIRS.\n\n#Efferser'",
+      "quality_score": 0.987,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380055_18_s1",
+      "title": "Pouvoirs de signature du Danemark",
+      "score": 0.572032,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.459197,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_24_s1",
+      "title": "Pouvoirs danois",
+      "score": 0.41761,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_14_s1",
+      "title": "Note d'accompagnement de l'instrument de ratification du Danemark",
+      "score": 0.408436,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.403614,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_12_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.403248,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.395535,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.39084,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.387381,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_09_s1",
+      "title": "Traduction française de l'instrument danois",
+      "score": 0.385179,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

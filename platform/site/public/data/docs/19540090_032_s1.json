@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_032_s1",
+  "title": "Procès-verbal de dépôt de l'instrument",
+  "year": 1954,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9856,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DES ISTRA DE RATIOATIONT EA RULTOUE REDSATE DATHEACNTE DE LA CONVENTION INTERNATIONALE POUR I UNIFICATION DES METHODES D'ANALYSE EI D'APPRECIATION DES VINS, SIGNEE A PARIS LE 13 OCTOBRE 1954 Monsieur 1e Docteur Gerhardt Josef JANSEN, Ministre Conseiller, Chargé d'Affaires de la République Fédérale \"'Allenagne, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Judovic CHANCEL…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_032_s1.pdf",
+  "source_filename": "19540090_032_s1.pdf",
+  "source_sha256": "b44f822090768e2a9a1872fd78a558b41bf930a8081f39c0240b6d8ed4fd1d9b",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "DEU005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DES ISTRA DE RATIOATIONT EA RULTOUE REDSATE DATHEACNTE\n\nDE LA CONVENTION INTERNATIONALE POUR I UNIFICATION\n\nDES METHODES D'ANALYSE EI D'APPRECIATION DES VINS,\n\nSIGNEE A PARIS LE 13 OCTOBRE 1954\n\nMonsieur 1e Docteur Gerhardt Josef JANSEN, Ministre\n\nConseiller, Chargé d'Affaires de la République Fédérale \"'Allenagne, s'est présenté aujourd'hui au Ministère des\n\nAffaires Etrangères pour procéder avec Monsieur Judovic\n\nCHANCEL, Ministre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépot des instruments de ratification de la République\n\nFédérale d'Allemagne de la Convention Internationale pour 1 'Unification des Méthodes d'Analyse et d'Appréciation des\n\nVine, signée à Paris le 13 octobre 1954, en exécution de l'article 8 de ladite Convention.\n\nIes instruments ayant été, après examen, trouvés en bonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent Procès-Verbal qu'Ils ont revêtu de leur sceau.\n\nFAIT A PARIS, en double exemplaire, le 24\n\nJuillet 1959 @hancel",
+      "quality_score": 0.9856,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.769379,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.729086,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.719392,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_922_s1",
+      "title": "Procès-verbal de dépôt de l'instrument turc",
+      "score": 0.715862,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_437_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.715349,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.711919,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.711319,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_297_s1",
+      "title": "Procès-verbal de dépôt de l'instrument espagnol",
+      "score": 0.684057,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_728_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion de la Roumanie",
+      "score": 0.662157,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_698",
+      "title": "Procès-verbal de dépôt de l'instrument néerlandais",
+      "score": 0.648387,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

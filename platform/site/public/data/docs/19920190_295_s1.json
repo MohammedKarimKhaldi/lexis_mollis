@@ -1,0 +1,53 @@
+{
+  "document_id": "19920190_295_s1",
+  "title": "Pouvoirs",
+  "year": 1992,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.941,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Tavier Solana Madariaga Ministro de Asuntos Exteriores en nombre de Su Majestad el Rey, q. D. g. Al Excmo. Cf. Don Dicente Albero Silla.- Secretario de Es- tado para las Politicas del Agua y del Medio Ambiente. Por cuanto se ha de proceder por parte del Gobierno Español a la firma \"ad referendum\" de la \"Convercior para la protección del Predio Ambiente Mariro del Attártico Moreste. Tor tanto, os confiero pleno poder…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19920190_295_s1.pdf",
+  "source_filename": "19920190_295_s1.pdf",
+  "source_sha256": "255e77249bb5de458b701c017413929ee90ee01ddaddb737aa9c900ac16e4919",
+  "treaty_id": "TRA19920190",
+  "treaty_number": "ESP001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Tavier Solana Madariaga\n\nMinistro de Asuntos Exteriores en nombre de Su Majestad el Rey, q. D. g.\n\nAl Excmo. Cf. Don Dicente Albero Silla.- Secretario de Es- tado para las Politicas del Agua y del Medio Ambiente.\n\nPor cuanto se ha de proceder por parte del\n\nGobierno Español a la firma \"ad referendum\" de la \"Convercior para la protección del Predio\n\nAmbiente Mariro del Attártico Moreste.\n\nTor tanto, os confiero pleno poder para que en nombre del Gobierno Español firmeis ad refe- rendum\" la referida Convención.\n\nI para que asi lo lleveis a felix término, mando?\n\nextender la presente Plenipotencia que firmo ero\n\nMadrid, a. 10 de refitiembre de 1992.",
+      "quality_score": 0.941,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18750001_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.353369,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

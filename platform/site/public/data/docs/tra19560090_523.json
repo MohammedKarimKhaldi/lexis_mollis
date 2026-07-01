@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560090_523",
+  "title": "Procès-verbal de dépôt de l'instrument luxembourgeois",
+  "year": 1956,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9696,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DES INSTRUMENTS DE RATIFICATION DU GRAND-DUCHE DE DUXEMBOURG SUR LE TRAITE PORTANT MODIFICATION AU TRAITE INSTITUANT LA COMMUNAUTE EUROPEENNE DU CHARBON ET DE L'ACIER, SIGNE A LUXEMBOURG IE 27 OCTOBRE 1956 Son Excellence Monsieur Robert ALS, Ambassadeur Extraordinaire et Plénipotentiaire de luxembourg, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_523.pdf",
+  "source_filename": "tra19560090_523.pdf",
+  "source_sha256": "da4c6f5fef723979a208e8557c1a131d773371bef341532e860fe24889584bfd",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "523",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nDE DEPOT DES INSTRUMENTS DE RATIFICATION DU GRAND-DUCHE\n\nDE DUXEMBOURG SUR LE TRAITE PORTANT MODIFICATION AU\n\nTRAITE INSTITUANT LA COMMUNAUTE EUROPEENNE DU CHARBON\n\nET DE L'ACIER, SIGNE A LUXEMBOURG IE 27 OCTOBRE 1956\n\nSon Excellence Monsieur Robert ALS, Ambassadeur\n\nExtraordinaire et Plénipotentiaire de luxembourg, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Edouard de LA CHAUVINIERE,\n\nMinistre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépôt des instruments de ratification du Grand-Duché de luxembourg sur le Traité portant modification au Traité instituant la Communauté Européenne du Charbon et de l'Acier, signé à Luxembourg le 27 octobre 1956, en exécution de l'article 3 dudit Traité.\n\nIes instruments ayant été, après examen, trouvés\n\nen bonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé le\n\nprésent Procès-Verbal, qu'ils ont revêtu de leur sceau.\n\nFAIT A PARIS, en double exemplaire, le 11 mars nasa\n\nra Chaminia",
+      "quality_score": 0.9696,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.852814,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_698",
+      "title": "Procès-verbal de dépôt de l'instrument néerlandais",
+      "score": 0.813684,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_438",
+      "title": "Pouvoirs français",
+      "score": 0.801752,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_033",
+      "title": "Procès-verbal de dépôt de l'instrument allemand",
+      "score": 0.73735,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.668096,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.646086,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_58_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.614823,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_297_s1",
+      "title": "Procès-verbal de dépôt de l'instrument espagnol",
+      "score": 0.613103,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.604025,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_11_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.599075,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

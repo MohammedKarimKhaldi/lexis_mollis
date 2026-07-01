@@ -53,5 +53,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190006_880a_s1",
+      "title": "Pouvoirs tchécoslovaques",
+      "score": 0.681859,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_68_s1",
+      "title": "Pouvoirs",
+      "score": 0.397978,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_055_s1",
+      "title": "Pouvoirs de signature grecs",
+      "score": 0.378619,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_051_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.371221,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_91_s1",
+      "title": "Pouvoirs de signature du Royaume-Uni",
+      "score": 0.369327,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.366346,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_001_s1",
+      "title": "Accord",
+      "score": 0.364965,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_51_s1",
+      "title": "Pouvoirs de négociation et de signature du Royaume-Uni",
+      "score": 0.364445,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_325_s1",
+      "title": "Pouvoirs grecs",
+      "score": 0.362528,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_715_s1",
+      "title": "Ratification du traité, protocole et déclarations annexes",
+      "score": 0.360752,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

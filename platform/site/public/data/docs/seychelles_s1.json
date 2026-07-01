@@ -1,0 +1,128 @@
+{
+  "document_id": "seychelles_s1",
+  "title": "Notification au bureau international des expositions de l'adhésion des Seychelles",
+  "year": 1928,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9917,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "sEycHeLLEs CS/SHM MINISTÈRE DES AFFAIRES ETRANGÈRES DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES Sous-Direction des Affaires Economiques NUOI/E/N° 642 RÉPUBLIQUE FRANÇAISE PARIS, le 5 juin 1997 122623 0: 6:6.97 Monsieur le Secrétaire Général, J'ai l'honneur de vous faire savoir que le gouvernement de la République de des Seychelles, par note verbale n° 01/97 du 5 juin 1997 a décidé d'adhérer à la…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/seychelles_s1.pdf",
+  "source_filename": "seychelles_s1.pdf",
+  "source_sha256": "b150dff0c96d3290287319555e555e4901ad298fba5b1c9796660282928cd96d",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SYC002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "sEycHeLLEs\n\nCS/SHM\n\nMINISTÈRE\n\nDES\n\nAFFAIRES ETRANGÈRES\n\nDIRECTION DES NATIONS UNIES\n\nET DES ORGANISATIONS\n\nINTERNATIONALES\n\nSous-Direction des Affaires Economiques\n\nNUOI/E/N° 642\n\nRÉPUBLIQUE FRANÇAISE\n\nPARIS, le 5 juin 1997\n\n122623\n\n0: 6:6.97\n\nMonsieur le Secrétaire Général,\n\nJ'ai l'honneur de vous faire savoir que le gouvernement de la République de des Seychelles, par note verbale n° 01/97 du 5 juin 1997 a décidé d'adhérer à la Convention sur les Expositions Internationales signée à Paris le 22 novembre 1928, telle que modifiée par le Protocole du 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988.\n\nVous voudrez bien trouver ci-joint copie de la note verbale susmentionnée.\n\nLe Ministère des Affaires Etrangère vous remercie de bien vouloir en informer les Etats membres du Bureau des Expositions, dont le nombre s'élève désormais à 68.\n\nJe vous prie d'agréer, Monsieur le Secrétaire Général, l'expression de ma haute considération.\n\nMichel VANDEPOORTER\n\nMonsieur Vicente GONZALEZ LOSCERTALES\n\nSecrétaire Général du Bureau International des Expositions 56 avenue Victor-Hugo 75783 PARIS CEDEX 16\n\n101123.57-60",
+      "quality_score": 0.9847,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "AMBASSADE DE LA REPUBLIQUE\n\nDES SEYCHELLES\n\nEMBASSY OF THE REPUBLIC\n\nOF SEYCHELLES\n\nNOTE NO 01/97\n\nL'Ambassade de la République des Seychelles présente ses compliments au Ministère des Affaires Etrangères Direction des Nations Unies et des Organisations Internationales et a l'honneur de lui faire savoir que le Gouvernement de la République des Seychelles a décidé d'adhérer à la convention concernant les expositions internationales signée à Paris le 22 novembre 1928, telle que modifiée par les Protocoles du 16 novembre 1966 et 30 novembre\n\nMonsieur Callixte d'OFFAY, Ambassadeur des Seychelles en France sera le représentant des Seychelles auprès de l'Organisation.\n\nL'Ambassade de la République des Seychelles saisit cette occasion pour renouveler au\n\nMinistère des Affaires Etrangères Direction des Nations Unies et des Organisations\n\nInternationales les assurances de sa haute considération.\n\nParis, le 05 juin 1997\n\nMinistère des Affaires Etrangères\n\nDirection des Nations Unies et des Organisations Internationales 37, Quai d'Orsay 75007 Paris\n\n51, Av. Mozart, 75016 Paris - Tél. 01.42.30.57.47 - Fax 01.42.30.57.40\n\nEmail ambsey@aol.com",
+      "quality_score": 0.9987,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.866804,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "suriname-yemen-2_s1",
+      "title": "Notification au BIE de l'adhésion du Suriname",
+      "score": 0.835192,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_togo_s1",
+      "title": "Notification au BIE de l'adhésion du Togo",
+      "score": 0.819365,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_vct002_s1",
+      "title": "Notification au BIE de l'adhésion de Saint-Vincent-et-les-Grenadines",
+      "score": 0.803597,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.618449,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.436418,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.425139,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.424725,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.413653,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_86_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et l'article 35",
+      "score": 0.413447,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

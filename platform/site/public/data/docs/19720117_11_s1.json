@@ -1,0 +1,156 @@
+{
+  "document_id": "19720117_11_s1",
+  "title": "Instrument d'adhésion de la République démocratique allemande",
+  "year": 1972,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "de",
+    "pt"
+  ],
+  "quality_score": 0.7656,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "E A O E o Coo iN SA EA R NO R vE S E i KOTI n S e a a E ET ONR Eai E E E DERVORSITZENDE DES STAATSRATES DER DEUTSCHEN DEMOKRATISCHEN REPUBLIK IN ANBETRACHT DESSEN, daß Artikel III des Protokolls vom 30. November 1972 zur Anderung der am 22. November 1928 in Paris unterzeichneten Konvention über Internationale Ausstellungen den Vertragsparteien des Abkommens den Beitritt zu diesem Proto- koll durch Hinterlegung einer…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_11_s1.pdf",
+  "source_filename": "19720117_11_s1.pdf",
+  "source_sha256": "287ab9c666c22002945045056eb8719d420bc02273478f7229ee61c30203b498",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "DDR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "E A O\n\nE o Coo iN SA EA R NO R vE S E i KOTI n S e a a E ET ONR Eai E E E",
+      "quality_score": 0.5566,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "DERVORSITZENDE DES STAATSRATES\n\nDER DEUTSCHEN DEMOKRATISCHEN REPUBLIK\n\nIN ANBETRACHT DESSEN, daß Artikel III des Protokolls vom\n\n30. November 1972 zur Anderung der am 22. November 1928 in\n\nParis unterzeichneten Konvention über Internationale Ausstellungen den Vertragsparteien des Abkommens den Beitritt zu diesem Proto- koll durch Hinterlegung einer Beitrittsurkunde bel der Regierung der Französischen Republik ermöglicht, d erklärt der Staatsrat der Deutschen Demokratischen Republik\n\nHIERMIT den Beltritt der Deutschen Demokratischen Republik zum bengenannten Protokoll und versichert, daß die darin enthaltenen\n\nBestimmungen mit Ausnahme des Artikels 34 Absatz 3 und 4 der durch das Protokoll geänderten Konvention, zu dem die Deutsche\n\nDemokratische Republik den beigefügten Vorbehalt erklärt, gewis- senhaft erfüllt werden.\n\n1 Artikel 35 der durch das Protokoll geänderten Konvention gil e Deutsche Demokratische Republik die beigefügte Erklärung al\n\nGeschehen zu Berlin, am 29. September neunzehnhundert- fünfundsiebzig.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Erklärung der Deutschen Demokratischen Republik\n\nzu Artikel 35 der durch das Protokoll vom 30. November 1972 geänderten Konvention über Internationale Aus- stellungen vom 22. November 1928\n\nDie Deutsche Demokratische Republik ist der Auffassung, daß die Bestimmungen des Artikels 35 der Konvention im\n\nWiderspruch zu dem Prinzip stehen, wonach alle Staaten, die sich in ihrer Politik von den Zielen und Grundsätzen der Charta der Vereinten Nationen leiten lassen, das\n\nRecht haben, Mitglied von Konventionen zu werden, die die Interessen aller Staaten berühren.\n\nー",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "DOED. D T T i",
+      "quality_score": 0.5059,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_08_s1",
+      "title": "Instrument d'adhésion de l'Allemagne démocratique",
+      "score": 0.415759,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_86_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et l'article 35",
+      "score": 0.402568,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_10_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion est-allemand",
+      "score": 0.402497,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_88_s1",
+      "title": "Pouvoirs de signature de la Roumanie",
+      "score": 0.399894,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_10_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la RDA",
+      "score": 0.393302,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.393251,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_idn001_s1",
+      "title": "Instrument d'adhésion de l'Indonésie",
+      "score": 0.393144,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_39_s1",
+      "title": "Instrument d'adhésion de Cuba",
+      "score": 0.391186,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_225_s1",
+      "title": "Instrument d'adhésion du Timor oriental",
+      "score": 0.390491,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_42_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.388236,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

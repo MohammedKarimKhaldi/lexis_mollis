@@ -1,0 +1,48 @@
+{
+  "document_id": "tra19150001_100_s1",
+  "title": "Procès-verbal d'échange des instruments",
+  "year": 1915,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8694,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Proces: Serbal d'Echange. Ratification der Misident-de la République Françaid eh deTa Majesti la Feino des Purpo Bas dur la Convention signe a Vario, le :30 Septerator 1915, colse to braver es leo Feys Bras freen fixer comeen.timellene lalimit ento le Colonieo de Cat payan frangaria en deferriname dano lapartie difler portiére comeris entir lies imidé septintrionale de lile melandaive Meetman, diter Helmonscitand; a…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19150001_100_s1.pdf",
+  "source_filename": "tra19150001_100_s1.pdf",
+  "source_sha256": "835e8ae6d8a1427bc963a1df2c829f9a8bf42eae619d94804e5955118a849fe8",
+  "treaty_id": "TRA19150001",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Proces: Serbal d'Echange.\n\nRatification der\n\nMisident-de la République Françaid eh deTa Majesti la Feino des Purpo Bas dur la Convention signe a Vario, le :30\n\nSepterator 1915, colse to braver es leo Feys Bras freen fixer comeen.timellene lalimit ento le Colonieo de Cat payan frangaria en deferriname dano lapartie difler portiére comeris entir lies imidé septintrionale de lile melandaive Meetman, diter\n\nHelmonscitand; a liatimité méridion ali de life françaiser\n\nPavlal; leo Anolsenmento ent été prodecito el eupant été, apaéó examon;\n\non foi de quoi; les sousaignéo, diment antonives à cetin effet, ond dresso le paévent frecio verbal qui ilo ant seride de louro\n\ncachets,\n\nSait a Saris, a double cacmplaire la 16 Septembre 1916.\n\naurians\n\nPitiess.",
+      "quality_score": 0.8694,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

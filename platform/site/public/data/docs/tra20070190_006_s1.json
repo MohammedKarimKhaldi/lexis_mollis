@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20070190_006_s1",
+  "title": "Accusé de réception kényan de l'instrument d'approbation français",
+  "year": 2007,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9972,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Telephone: +254-20-318888 Fax: +254-20-240066/341953/344333 E-mail communication@mfa.go.ke Website: www.mfa.go.kc When replying please quote Ref. No, and date MECO BE سن he MAT HARAMBEE AVENUE P.O. Box 30551-00100 NAIROBI, KENYA N6 7 MINISTRY OF FOREIGN AFFAIRS Ref. NMFA. TRA 18/8 ARRIVEE 15 JUL 2009 AMBASSADE DE FRANCE The Ministry of Foreign Affairs of the Republic of Kenya presents its compliments to the Embassy…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20070190_006_s1.pdf",
+  "source_filename": "tra20070190_006_s1.pdf",
+  "source_sha256": "09830c504db1e905b73dfb5b958d29a18d9b92a15e6c453e71ea65064c902952",
+  "treaty_id": "TRA20070190",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Telephone: +254-20-318888\n\nFax: +254-20-240066/341953/344333\n\nE-mail communication@mfa.go.ke\n\nWebsite: www.mfa.go.kc\n\nWhen replying please quote Ref. No, and date\n\nMECO\n\nBE سن\n\nhe MAT\n\nHARAMBEE AVENUE\n\nP.O. Box 30551-00100\n\nNAIROBI, KENYA\n\nN6 7\n\nMINISTRY OF FOREIGN AFFAIRS\n\nRef. NMFA. TRA 18/8\n\nARRIVEE\n\n15 JUL 2009\n\nAMBASSADE DE FRANCE\n\nThe Ministry of Foreign Affairs of the Republic of Kenya presents its compliments to the Embassy of France in Kenya and has the honour to acknowledge receipt of the Embassy's note no. 274 of 23rd June, 2009, forwarding a letter from Mr. Bernard Kouchner, French Minister for\n\nForeign and European Affairs, and wishes to inform as follows:\n\nThe Ministry of Foreign Affairs notes that the letter constitutes the instrument of approval, by the provision of article 14, of the Agreement between the French Government and the Government of the Republic of\n\nKenya on the reciprocal promotion and protection of investments, signed on 4th December, 2007, in Nairobi.\n\nThe Ministry further informs that a response to the letter from the\n\nFrench Minister for Foreign and European Affairs will follow in due course.\n\nThe Ministry of Foreign Affairs of the Republic of Kenya avails itself of this opportunity to renew to the Embassy of France in Kenya the assurances of its highest consideration.\n\nNairobi, 13th July, 2009\n\nEMBASSY OF FRANCE IN KENYA\n\nNAIROBI\n\nNAIROBI",
+      "quality_score": 0.9972,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20070190_101_s1",
+      "title": "Échange de notes verbales a/s date d'entrée en vigueur de l'accord : note verbale kényane",
+      "score": 0.433966,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_007b_s1",
+      "title": "Accusé de réception kenyan de l'instrument français daté du 17 novembre",
+      "score": 0.413962,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070190_100_s1",
+      "title": "Échange de notes verbales a/s date d'entrée en vigueur de l'accord : note verbale française",
+      "score": 0.412025,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_003_s1",
+      "title": "Pouvoirs kenyans",
+      "score": 0.410473,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_005_s1",
+      "title": "Instrument kenyan ET Accusé de réception de l'instrument français du 9 novembre",
+      "score": 0.410405,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_51_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Macédoine du Nord",
+      "score": 0.395392,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_005_s1",
+      "title": "Instrument d'approbation sud-africain",
+      "score": 0.391624,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.388815,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.388126,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.387039,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

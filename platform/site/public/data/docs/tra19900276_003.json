@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19900276_003",
+  "title": "Pouvoirs australiens",
+  "year": 1990,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "WHEREAS the Government of Australia and the Government of the Republic of France desire to conclude an Agreement concerning Collaboration on Defence Research and Technology: NOW THEREFORE THESE PRESENTS CERTIFY that the Honourable GORDON NEIL BILNEY, Minister of State for Defence Science and Personnel, has been duly named, constituted and appointed by the Government of Australia as its plenipotentiary and representa…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19900276_003.pdf",
+  "source_filename": "tra19900276_003.pdf",
+  "source_sha256": "a380861c35853cb91d8629c14573cce46082d7552d2dd7329c20eed0fb3774a9",
+  "treaty_id": "TRA19900276",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WHEREAS the Government of Australia and the Government\n\nof the Republic of France desire to conclude an Agreement concerning Collaboration on Defence Research and Technology:\n\nNOW THEREFORE THESE PRESENTS CERTIFY that the\n\nHonourable GORDON NEIL BILNEY, Minister of State for Defence\n\nScience and Personnel, has been\n\nduly named, constituted and\n\nappointed by the Government of Australia as its plenipotentiary and representative having full power and authority to sign the\n\nAgreement for and on behalf of the Government of Australia.\n\nIN WITNESS WHEREOE, I, GARETH JOHN EVANS, Minister of\n\nState for Foreign Affairs and Trade, have hereunto set my hand and affixed my seal.\n\nDoNE at (uber this 13\"\n\nOne thousand nine hundred and ninety.\n\nday of December,\n\nMinister\n\nof\n\nState for\n\nForeign Affairs\n\nand\n\nTrade\n\nof\n\nAustralia",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_018_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.407713,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_065_s1",
+      "title": "Pouvoirs australiens",
+      "score": 0.400291,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.394566,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_003_s1",
+      "title": "Pouvoirs",
+      "score": 0.38264,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_655_s1",
+      "title": "Pouvoirs indiens",
+      "score": 0.381684,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_008_s1",
+      "title": "Instrument d'acceptation de l'Australie",
+      "score": 0.377727,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800128_003_s1",
+      "title": "Pouvoirs sri-lankais",
+      "score": 0.368644,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_51_s1",
+      "title": "Pouvoirs de négociation et de signature du Royaume-Uni",
+      "score": 0.368618,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_032_s1",
+      "title": "Pouvoirs du Canada",
+      "score": 0.368374,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.367902,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

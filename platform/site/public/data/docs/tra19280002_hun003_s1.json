@@ -1,0 +1,66 @@
+{
+  "document_id": "tra19280002_hun003_s1",
+  "title": "accusé de réception de l'adhésion de la Hongrie",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr",
+    "it",
+    "pt"
+  ],
+  "quality_score": 0.9453,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "38/EI vi com. Gase Insone Intornatione3 s #° 300 Ur pas noto #'° 503/5 on dato du lor ava11 1960 roque 1o aiao four da lógation do da République Populairo Hongrolao e dion voulu falto porrante au finistèra des AssessoR Etrangères I'Inatruont d'adabason du GouTorna- mont do la République Populasto Iongrosso à la Convontion concarnant lar Exposltiona Int rnationalos dignéo d Parla lo 22 novembro 1,23 at au Protocado d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_hun003_s1.pdf",
+  "source_filename": "tra19280002_hun003_s1.pdf",
+  "source_sha256": "08bfc28812851192b8ab712a9de8558c0a95665895808bd21a7d44ae271c370e",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "HUN003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "38/EI\n\nvi com. Gase\n\nInsone Intornatione3 s #° 300 Ur\n\npas noto #'° 503/5 on dato du lor ava11 1960 roque 1o aiao four da lógation do da République Populairo\n\nHongrolao e dion voulu falto porrante au finistèra des\n\nAssessoR Etrangères I'Inatruont d'adabason du GouTorna- mont do la République Populasto Iongrosso à la Convontion concarnant lar Exposltiona Int rnationalos dignéo d Parla lo 22 novembro 1,23 at au Protocado du 10 mel 1948 portant ditorion d aortanos dopatione de asso convonson.\n\nConformémont 1 l'artlolo 35 do la convention ot d l'artiolo 3 du protodolo próoltóo, 1o Gouvernemons frangela traranet au Gouvornoment dos paye sigratatros et adbórenta la coplo certifido conforno do cetto notl- *lostion on indiquant le dato a lequollo allo a sté roquo /,\n\nIo MInlatiro dos Alfelras Etrangèros anlalt botto cocaBion pour ronouralor a la Iigetion do la Répua bllque Hongrolso los as uranone do sa heuto onnaldfration.\n\nLEGATIOH DE HONORIE\n\nLARIE",
+      "quality_score": 0.9453,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "fr",
+        "pt"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_24_s1",
+      "title": "Note du Protocole confirmant la date de dépôt de l'instrument de ratification de la Grèce",
+      "score": 0.364604,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_049_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'Egypte",
+      "score": 0.3513,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

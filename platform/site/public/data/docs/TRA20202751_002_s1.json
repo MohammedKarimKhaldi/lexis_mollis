@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20202751_002_s1",
+  "title": "Pouvoirs français",
+  "year": 2020,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9737,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Transaise Nº45/2020 POUVOIRS Aul nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à : M. Philippe VINOGRADOFF, Ambassadeur de France au Costa Rica en vue de signer l'Accord relatif à la coopération territoriale et régionale entro le Gouvernement de la République française et le Gouvernement de la République du Costa FAIT À PARI…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20202751_002_s1.pdf",
+  "source_filename": "TRA20202751_002_s1.pdf",
+  "source_sha256": "615c75fac2d5fcf8d41a924f098c54992f19795e228d7d95c4a1977fc0dc8839",
+  "treaty_id": "TRA20202751",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République Transaise\n\nNº45/2020\n\nPOUVOIRS\n\nAul nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des\n\nAffaires étrangères, donnons POUVOIRS par ces présentes à :\n\nM. Philippe VINOGRADOFF, Ambassadeur de France au Costa Rica en vue de signer l'Accord relatif à la coopération territoriale et régionale entro le\n\nGouvernement de la République française et le Gouvernement de la République du Costa\n\nFAIT À PARIS, LE 29 juin 202o\n\nLe Ministre de l'Europe et des Affaires étrangères\n\nM Le Drian",
+      "quality_score": 0.9737,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20212835_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.446393,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.425177,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.419455,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182691_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.41908,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213018_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.414996,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182365_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.413104,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220034_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.413057,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182432_002",
+      "title": "Pouvoirs français",
+      "score": 0.410935,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240048_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.407499,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230011_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.405934,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

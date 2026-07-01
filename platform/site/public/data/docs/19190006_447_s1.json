@@ -41,5 +41,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.383311,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.381589,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "63_lnta_387_-_exchange_of_letters_s1",
+      "title": "Adhésion de la Nouvelle-Zélande à la convention entre la République française et la Grande-Bretagne pour faciliter l'accomplissement des actes de procédure entre personnes résidant respectivement en France et en Grande-Bretagne",
+      "score": 0.377136,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.375277,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.374945,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.373119,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_21_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Belgique",
+      "score": 0.372925,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_727_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification roumain",
+      "score": 0.372838,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.372549,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.372215,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

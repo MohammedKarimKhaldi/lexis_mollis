@@ -1,0 +1,81 @@
+{
+  "document_id": "tra20010080_hun002_s1",
+  "title": "Lettre des autorités hongroises à l'Office international de la vigne et du vin induant que la Hongrie a ratifié l'accord en octobre 2002",
+  "year": 2001,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9904,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "s04/17 15:30 FAX +36 1 3014662 FVM NKF 001 MINISTERE DE L'AGRICULTURE ET DU DEVELOPPEMENT RURAL DE LA REPUBLIQUE DE HONGRIE DIRECTION GENERALE DES RELATIONS INTERNATIONALES 1860 Budapest, Pf. 1. 301-4661 Fax: 301-4662 M. Georges Dutruc-Rosset directeur général Office International de la Vigne et du Vin Paris Budapest, le 17 avril 2003 Objet: Ratification de l'Accord du 3 avril 2001 portant création de „l'Organisatio…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20010080_hun002_s1.pdf",
+  "source_filename": "tra20010080_hun002_s1.pdf",
+  "source_sha256": "e3e29aab37321082048bb30ee88b80b11750339388025dcd8a471e4582d2a723",
+  "treaty_id": "TRA20010080",
+  "treaty_number": "HUN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "s04/17 15:30\n\nFAX +36 1 3014662\n\nFVM NKF\n\n001\n\nMINISTERE DE L'AGRICULTURE\n\nET DU DEVELOPPEMENT RURAL DE LA\n\nREPUBLIQUE DE HONGRIE\n\nDIRECTION GENERALE DES RELATIONS INTERNATIONALES\n\n1860 Budapest, Pf. 1.\n\n301-4661 Fax: 301-4662\n\nM. Georges Dutruc-Rosset directeur général\n\nOffice International de la Vigne et du Vin\n\nParis\n\nBudapest, le 17 avril 2003\n\nObjet: Ratification de l'Accord du 3 avril 2001 portant création de „l'Organisation internationale de la vigne et du vin\"\n\nMonsieur le Directeur Général,\n\nJ'ai l'honneur de porter à votre connaissance que le Gouvernement de la République de Hongrie a ratifié de l'Accord du 3 avril 2001 portant création de \"'Organisation intemationale de la vigne et du vin\" au mois d'octobre 2002. Permettez-moi de Vous informer que la publication de l'Accord ne pourrait être mise en place dans lo Journal\n\nOfficiel qu'après que l'Accord entrera en vigeur.\n\nJe vous prie d'agréer, Monsicur lo Directeur Général, mes salutations distinguées.\n\nMme Maziann Kovacs directrice genetale",
+      "quality_score": 0.9904,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_57_s1",
+      "title": "Lettre du Ministre slovaque des AE confirmant le maintien de la Slovaquie en tant qu'Etat successeur de la Tchécoslovaquie",
+      "score": 0.360592,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_732_s1",
+      "title": "Note verbale type du service traitant à destination des chefs de Postes relative à l'adhésion britannique",
+      "score": 0.357801,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.356144,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19240003_14_s1",
+      "title": "Rappel aux Etats qui n'ont pas répondu de la demande d'adhésion de la Bolivie",
+      "score": 0.354168,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910064_325b_s1",
+      "title": "Lettre portant levée de la réserve relative à la Polynésie française",
+      "score": 0.352509,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

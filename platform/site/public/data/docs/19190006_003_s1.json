@@ -134,5 +134,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_002_s1",
+      "title": "Protocole précisant les conditions d'exécution de certaines clauses du traité",
+      "score": 0.392151,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200016_880",
+      "title": "Instrument de ratification tchécoslovaque du traité, du protocole et de la déclaration",
+      "score": 0.391101,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.387671,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_881_s1",
+      "title": "Ratification du protocole du 10 sept 1919",
+      "score": 0.382107,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_001_s1",
+      "title": "Accord",
+      "score": 0.366738,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19990090_001_s1",
+      "title": "Accord",
+      "score": 0.362283,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230074_001_s1",
+      "title": "Convention",
+      "score": 0.357612,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630134_005",
+      "title": "Instrument italien",
+      "score": 0.354828,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19950244_s1",
+      "title": "Accord pour l'établissement des textes en langues bosniaque, croate et serbe des annexes à l'accord-cadre général",
+      "score": 0.351559,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_002_s1",
+      "title": "Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
+      "score": 0.350947,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

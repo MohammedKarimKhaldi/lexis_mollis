@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_040_s1",
+  "title": "Formulaire d'adhésion de la Norvège",
+  "year": 1982,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9442,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "7451 NU Norvège A RETOURNER A LA DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES DATE : 0s10, le 30 novembre 1982 POSTE : Ambassade de France à OSLO REFERENCE A RAPPELER19/NUO1 \"amendement au protocole de 1972 modification de la convention de 1928 concernant les expositions internationales LETTRE DU DEPARTEMENT N° : 219 du 22 juillet 1982 A/S: Amendement au protocole de 1972 portant modification de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_040_s1.pdf",
+  "source_filename": "19820018_040_s1.pdf",
+  "source_sha256": "049962fc287f99c6a3a32e03b84000ec53e878b45483a125f6132440b0cd8d2e",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "NOR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "7451 NU\n\nNorvège\n\nA RETOURNER A LA DIRECTION DES NATIONS UNIES ET DES\n\nORGANISATIONS INTERNATIONALES\n\nDATE : 0s10, le 30 novembre 1982\n\nPOSTE : Ambassade de France à OSLO\n\nREFERENCE A RAPPELER19/NUO1\n\n\"amendement au protocole de 1972 modification de la convention de 1928 concernant les expositions internationales\n\nLETTRE DU DEPARTEMENT N° :\n\n219 du 22 juillet 1982\n\nA/S: Amendement au protocole de 1972 portant modification de la Convention de 1928, signée à Paris, concernant les expositions internationales.\n\nTexte de l'Amendement adopté par l'Assemblée Générale du\n\nBureau International des Expositions :\n\n\"Les dispositions de l'article 5.2 sont supprimées à partir des mots : les intervalles ci-dessus\".\n\nLe Gouvernement...... narvágian..\n\na accepté cet amendement te....soptesbee-1992...\n\n모로 15 ,\n\ncompin à late\n\nFRSER O5SAI（LN OKS EAERREO\n\nHATIONS UNIES\n\n(1) Au cas où le Gouvernenent du pays de votre résidence aurait fait des réserves, prière de joindre sa communication.",
+      "quality_score": 0.9442,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_045_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.737111,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_005_s1",
+      "title": "Formulaire d'acceptation de l'amendement au protocole",
+      "score": 0.725238,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_031_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.424596,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_038_s1",
+      "title": "Formulaire d'adhésion de Monaco à l'amendement",
+      "score": 0.423824,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.410737,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.410413,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_42_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.400512,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_98_s1",
+      "title": "Notification aux Etats membres de l'adhésion de la Suède",
+      "score": 0.399057,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_56_s1",
+      "title": "Instrument de ratification de l'Italie",
+      "score": 0.39579,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.393518,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -45,5 +45,13 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_20_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.355849,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

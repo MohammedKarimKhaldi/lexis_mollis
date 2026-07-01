@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19710084_007b_s1",
+  "title": "Accusé de réception kenyan de l'instrument français daté du 17 novembre",
+  "year": 1971,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9941,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "• Telegraphic Address: \"FOREIGN' HARAMBEE HOUSe HARAMBEE AVENUE Telephone: 27411 When replying please quote Rer. No. MFA. 171/09A/51 and date MINISTRY OF FOrEIGN AFFAIRS P.O. Box 30551 NAIROBI KENYA 19.... The Ministry of Foreign Affairs of the Republic of Kenya presents its compliments to the French Embassy and has the honour to acknowledge the receipt of the latter's note Ref. 148/11.12 of 8th December, 1971 enclo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19710084_007b_s1.pdf",
+  "source_filename": "tra19710084_007b_s1.pdf",
+  "source_sha256": "15a04a6141c661b6f2d9baee82d577ef8bb2e9fe9d47f145fd2eb74082a4193f",
+  "treaty_id": "TRA19710084",
+  "treaty_number": "007b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "•\n\nTelegraphic Address: \"FOREIGN'\n\nHARAMBEE HOUSe\n\nHARAMBEE AVENUE\n\nTelephone: 27411\n\nWhen replying please quote\n\nRer. No. MFA. 171/09A/51 and date\n\nMINISTRY OF FOrEIGN AFFAIRS\n\nP.O. Box 30551\n\nNAIROBI\n\nKENYA\n\n19....\n\nThe Ministry of Foreign Affairs of the Republic\n\nof Kenya presents its compliments to the French Embassy and has the honour to acknowledge the receipt of the latter's note Ref. 148/11.12 of 8th December, 1971 enclosing a note from His Excellency MI. Maurice Schumann,\n\nMinister for Foreign Affairs of the French Republic confirming that the relevant constitutional requirements of the French Republic for the coming into force of the agreement on Cultural and Technical relation of the exchange of letters annexed to it have been complied\n\nThe Ministry of Foreign Affairs of the Republic\n\nof Kenya avails itself of this opportunity to renew to the French Embassy the assurance of its highest consideration.\n\nARRIVEE\n\n29 DEC 1971\n\n24th December, 1971\n\nNAIROBI\n\nThe French Embassy,\n\nNAIROBI\n\nMAIROBI\n\nAFFAIRE\n\nService Culturel\n\nARRIVEE\n\nDate: 3-1-72\n\nNo: 04",
+      "quality_score": 0.9941,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19710084_005_s1",
+      "title": "Instrument kenyan ET Accusé de réception de l'instrument français du 9 novembre",
+      "score": 0.458454,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_003_s1",
+      "title": "Pouvoirs kenyans",
+      "score": 0.441024,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070190_006_s1",
+      "title": "Accusé de réception kényan de l'instrument d'approbation français",
+      "score": 0.413962,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.411274,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français",
+      "score": 0.407352,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_51_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Macédoine du Nord",
+      "score": 0.404046,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français : note verbale et lettre (avec, sur la note verbale, tampon arrivée le 4 février 1983 à l'ambassade de France)",
+      "score": 0.395286,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.394628,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.392771,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070190_100_s1",
+      "title": "Échange de notes verbales a/s date d'entrée en vigueur de l'accord : note verbale française",
+      "score": 0.391898,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

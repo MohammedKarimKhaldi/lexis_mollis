@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19490009_101_s1",
+  "title": "Procès-Verbal secret relatif à l'échange de lettre secret du 30 mai 1949",
+  "year": 1949,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9799,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES - VERBAL SECRET SECRET A la suite de la signature du Protocole final par les présidents des deux délégations française et italienne, ceux-ci se réunissent pour procéder à la signature et à l'échange de deux lettres secrétes en date du même jour à l'effet de préciser certains points laissés en suspens dans ledit protocole. Le président de la délégation italienne déclare que 1e gouvernement italien l'a autorisé…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19490009_101_s1.pdf",
+  "source_filename": "tra19490009_101_s1.pdf",
+  "source_sha256": "28bffeae8d4f681b6e8424d6fce4d4f928c4a7bfb24ea6d2079e4c84a1f52a27",
+  "treaty_id": "TRA19490009",
+  "treaty_number": "101",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES - VERBAL SECRET\n\nSECRET\n\nA la suite de la signature du Protocole final par les\n\nprésidents des deux délégations française et italienne, ceux-ci se réunissent pour procéder à la signature et à l'échange de deux lettres secrétes en date du même jour à l'effet de préciser certains points laissés en suspens dans ledit protocole.\n\nLe président de la délégation italienne déclare que 1e\n\ngouvernement italien l'a autorisé à signer la lettre qu'il adresse ce jour au président de la délégation française, dans le ferme espoir de voir le gouvernement français accueillir favorablement les propositions formulées par la délégation italienne dans le deuxième paragraphe de l'article IV du protocole final.\n\nIe président de la délégation française prend aote de\n\ncette déclaration et accepte d'appuyer auprès de son gouvernement les propositions de la délégation italienne.\n\nles deux lettres secrètes sont alors signées et échan-\n\ngées./.\n\nTurin le 30 mal I949 ( I8 1•30 )\n\nI de liber\n\nFerdin Chalil",
+      "quality_score": 0.9799,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19490009_100_s1",
+      "title": "Échange de lettres secret précisant certains points du Protocole",
+      "score": 0.379538,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_439a",
+      "title": "Échange de notes entre l'Ambassade d'Italie en France et le Ministère français des Affaires étrangères relatif à la date d'entrée en vigueur de l'accord: lettre italienne",
+      "score": 0.369098,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100139_s1",
+      "title": "Accord",
+      "score": 0.366771,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18580012_015_s1",
+      "title": "Traité et règlements commerciaux",
+      "score": 0.364028,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19490009_001_s1",
+      "title": "Echanges de notes relatif à l'accord",
+      "score": 0.362033,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.361702,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_165_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.360826,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182538_001",
+      "title": "Texte de la délibération",
+      "score": 0.35999,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_002_s1",
+      "title": "Procès-verbal de rectification de la convention",
+      "score": 0.358949,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_27_s1",
+      "title": "Pouvoirs de signature de la Grèce",
+      "score": 0.35622,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

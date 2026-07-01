@@ -1,0 +1,128 @@
+{
+  "document_id": "TRA19831903_001_s1",
+  "title": "Convention",
+  "year": 1983,
+  "doc_type": "Convention",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9918,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "CONVENFION d'AIDE BUDGETAIRE conclue entre le Gouvernement de la République Française et le Gouvernement de République l'édérale Islamique des Comores ・・ CONVSNTION d'AIDE BUDGHTAIRS Le Gouvernement de la République Française, représenté par Monsieur: Christian NUCCI, Ministre délégué auprès du Ministre des Kelation ixtérieures, chargé de la Coopération et du Développemen d'une part, Le Gouvernement de la République…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Convention",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA19831903_001_s1.pdf",
+  "source_filename": "TRA19831903_001_s1.pdf",
+  "source_sha256": "f677875464bc0cf7d67d7aa8c035fcfe10f8647d6ea66d075adc6df7b0a18068",
+  "treaty_id": "TRA19831906",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CONVENFION d'AIDE BUDGETAIRE\n\nconclue entre\n\nle Gouvernement de la République Française\n\net\n\nle Gouvernement\n\nde\n\nRépublique l'édérale Islamique des Comores\n\n・・",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "CONVSNTION d'AIDE BUDGHTAIRS\n\nLe Gouvernement de la République Française, représenté par Monsieur:\n\nChristian NUCCI, Ministre délégué auprès du Ministre des Kelation ixtérieures, chargé de la Coopération et du Développemen\n\nd'une part,\n\nLe Gouvernement de la République Fédérale Islamique des Comores, représenté\n\npar Monsieur Saïd KAFE, Ministre des Affaires Etrangères,\n\nde la Coopération et du Commerce Extérieur\n\nd'autre part,\n\nsont convenus de ce qui suit :\n\nArticle 1.-\n\nLe Gouvernement de la République Française apporte en 1983\n\nà la République fédérale Islamique des Comores, à la demande de cette dernière, une aide budgétaire sous la forme d'une subvention d'un montant de HUIT MILLIONS DE FRANCS FRANCAIS (8 MFF) représentant une subvention exceptionnelle d'équilibre budgétaire.\n\nArticle 2.-\n\nLa subvention visée à l'article précédent est destinée à\n\npermettre à l'Etat Comorien de faire face à ses dépenses prioritaires.\n\nArticle 3.\n\nLe Chef de la Mission française de Coopération à MORONI\n\nest chargé de l'exécution de la présente convention.\n\narticle 4.-\n\nToute difficulté dans l'exécution de la présente convention\n\nsera soumise à l'examen du iinistre des Finances de la République Fédérale\n\ndes Comores et du Ministre délégué auprès\n\ndu Ministre des Rela-\n\ntions Extórieures, chargé de la Coopération et du Développement de la\n\nRépublique Française.\n\nFait à Moroni le 20 décembre 1983 er double original\n\nPour le Gouvernement de la République Fédérale\n\nIslamique des\n\nComores,\n\nPour le Gouvernement de\n\nla République Française,\n\nChristian\n\nListion desi\n\nNUCCI\n\nSaid KAFE",
+      "quality_score": 0.9835,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19790372_001_s1",
+      "title": "Convention d'aide budgétaire",
+      "score": 0.912564,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19790373_001_s1",
+      "title": "Convention",
+      "score": 0.901322,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800442_001_s1",
+      "title": "Convention d'assistance budgétaire",
+      "score": 0.780338,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800443_001_s1",
+      "title": "Convention d'aide budgétaire",
+      "score": 0.673844,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20010237_001_s1",
+      "title": "Convention (ensemble 2 annexes)",
+      "score": 0.656065,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910276_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.637293,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800441_001_s1",
+      "title": "Convention d'assistance financière conclue entre le Gouvernement de la République française et le Gouvernement de la République fédérale islamique des Comores",
+      "score": 0.43499,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850033_001_s1",
+      "title": "Accord relatif à l'octroi d'une aide alimentaire",
+      "score": 0.428221,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630327_001_s1",
+      "title": "Convention [ensemble une annexe]",
+      "score": 0.422955,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19950119_001_s1",
+      "title": "Accord",
+      "score": 0.415773,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "tra18570026_008_s1",
+  "title": "Procès-verbal d'échange des instruments",
+  "year": 1857,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8066,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "7000. procéder à l'échange des ratificationo d'une Vraité Jinéral relatif mi rachat de frage de lund it des Balka, conchi et signé c Copenhague le 14 Abaro I85% embre la Abajesté l'Ompereur des Français tar Abajoadi lompa neur „l', tulniche . Toi de Hongrie et de Bahim La Ingrati o Moi des Bulgra, Sa Majesté la Kerme de Rorgaume Uni de la Irmarde Bretagne et d'Islande, la Mujuté h Roi de Hannone, Yon Allasse. Royale…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18570026_008_s1.pdf",
+  "source_filename": "tra18570026_008_s1.pdf",
+  "source_sha256": "c03d6dc7af2cea123bc65b39d292b1e41e7348d07fbf3198183d8068139f3509",
+  "treaty_id": "TRA18570026",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "7000.\n\nprocéder à l'échange des ratificationo d'une\n\nVraité Jinéral relatif mi rachat de frage de lund it des Balka, conchi et signé c\n\nCopenhague le 14 Abaro I85% embre la Abajesté l'Ompereur des Français tar Abajoadi lompa neur „l', tulniche .\n\nToi de Hongrie et de Bahim\n\nLa Ingrati o Moi des Bulgra, Sa Majesté la\n\nKerme de Rorgaume Uni de la Irmarde\n\nBretagne et d'Islande, la Mujuté h Roi de Hannone, Yon Allasse. Royale l. Crand- Due de Abanklembonng Thurin, Jan.\n\nfetesse\n\nHoyale h hand Due a Didearborrh\n\nMajesté le Roi des Pays Bas In Majesté 10\n\nFroi de A\n\nla Majesté ( Copenar de\n\ntoutes les Russies, la Majesté le Moi de\n\nLuide et de torvigo, et les finals des Villes\n\nPitres et torsintiques de huberto ,\n\nPrime et\n\nHambourg d'une part et la Hajusté la Roi\n\nde",
+      "quality_score": 0.7883,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "di Damemark de l'aute part. Ep lee→\n\nRatificatione du det tanité ayant été colla- dionnes soigneusmen* ,t honvés exortemst conformee l'iene ni l'antee,\n\n, le dit ichangi a\n\nen lieu mujandhni dano ls formes asitees.\n\nOn foi de quai ils ont signé li présent boris Tonhal d'inhange, at y ont approsé le cachet de leurs monred.\n\nFait à forenhaguo le tunte Maars 185%.\n\nsteele",
+      "quality_score": 0.8249,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18570026_005_s1",
+      "title": "Instrument danois (ratification)",
+      "score": 0.37447,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18390006_014",
+      "title": "Ratification par la Confédération germanique de l'acte d'accession de la Confédération germanique aux traités signés à Londres le 19 avril 1839",
+      "score": 0.367901,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_42_s1",
+      "title": "Instrument d'adhésion du Pérou",
+      "score": 0.353733,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_19_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.351833,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

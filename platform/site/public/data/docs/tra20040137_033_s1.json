@@ -1,0 +1,128 @@
+{
+  "document_id": "tra20040137_033_s1",
+  "title": "Accusé de réception par le dépositaire de l'instrument allemand",
+  "year": 2004,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9807,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Liberi : Egaliré • Fraternité RÉPURLIQUE FRANÇAISE MINISTÈRE DES AFFAIRES ÉTRANGÈRES N° 85/ ASD/ASP Note verbale Le Ministère des Affaires étrangères, Direction des Affaires Stratégiques, de Securité et du Désarmement, Sous-direction des Affaires stratégiques, présente ses compliments à l'Ambassade de la République fédérale d'Allemagne et, se référant à sa note n° 00013 du 9 janvier 2006, a l'honneur d'accuser récep…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20040137_033_s1.pdf",
+  "source_filename": "tra20040137_033_s1.pdf",
+  "source_sha256": "7043f505ece32353ff3829ffb5e622c9806ba0d2485f1ef9cf11cb3287e3e4d0",
+  "treaty_id": "TRA20040137",
+  "treaty_number": "DEU004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Liberi : Egaliré • Fraternité\n\nRÉPURLIQUE FRANÇAISE\n\nMINISTÈRE DES AFFAIRES ÉTRANGÈRES\n\nN° 85/ ASD/ASP\n\nNote verbale\n\nLe Ministère des Affaires étrangères, Direction des Affaires Stratégiques, de\n\nSecurité et du Désarmement, Sous-direction des Affaires stratégiques, présente ses compliments à l'Ambassade de la République fédérale d'Allemagne et, se référant à sa note n° 00013 du 9 janvier 2006, a l'honneur d'accuser réception de l'instrument de ratification de la République fédérale d'Allemagne du traité sur la protection des données classifiées au sein de l'OCCAR.\n\nConformément à son article 9, le traité susmentionné entrera en vigueur un mois après la date du dépôt du dernier instrument de ratification.\n\nEst annexée à la présente la liste, les Etats liés avec les dates de dépôt des instruments de ratification ou d'approbation.\n\nLe Ministère des Affaires étrangères, Direction des Affaires Stratégiques, de\n\nSécurité et du Désarmement, Sous-direction des Affaires stratégiques, saisit cette occasion pour renouveler à l'Ambassade de la République Fédérale d'Allemagne les assurances de sa haute considération./.\n\nLe 11 janvier 2006\n\nDES AFAR\n\n0.\n\nAmbassade de la République Fédérale d'Allemagne 13-15, avenue Franklin D. Roosevelt 75008 PARIS",
+      "quality_score": 0.9847,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Traité relatif à la protection des données classifiées au sein de l'OCCAR\n\n--- Liste des Etats parties\n\nEtats parties\n\nRépublique française\n\nRépublique fédérale d'Allemagne\n\nRoyaume de Belgique\n\nRépublique d'Italie\n\nRoyaume-Uni\n\nDate de signature 24.09.2004 24.09.2004 24.09.2004 24.09.2004 24.09.2004\n\nDate de dépôt de l'instrument de ratification ou d'approbation\n\n- 09.01.2006 -\n\n04.11.2005",
+      "quality_score": 0.9767,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20040137_733_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument britannique",
+      "score": 0.868197,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_098_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument belge",
+      "score": 0.705882,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_098_s1",
+      "title": "Accusé de réception par le dépositaire de l'instrument belge",
+      "score": 0.411956,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_097_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.387269,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.384559,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_099",
+      "title": "Notifications du dépositaire aux Parties relatives au dépôt de l'instrument wallon",
+      "score": 0.381753,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100261_007",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.381356,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_698",
+      "title": "Accord",
+      "score": 0.380111,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690071_005_s1",
+      "title": "Instrument allemand",
+      "score": 0.37899,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_697",
+      "title": "Instrument néerlandais",
+      "score": 0.378113,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "tra18710007_012_s1",
+  "title": "Carte allemande de la frontière de l'est de la France signée",
+  "year": 1871,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "de",
+    "fr"
+  ],
+  "quality_score": 0.9592,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Areal- und Bevölkerungs- Verhältnissi im Gebiete des General-Gouvernements im Elsass DAS GEBIET GENERAL - GOUV IM ELSASS EMENTS Pour la conformite marquée en vert sur. ziehen cations relatives à felfort i ama loses ve Vonaille etic Mari cun Chines, 4. trag Fars Міран",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18710007_012_s1.pdf",
+  "source_filename": "tra18710007_012_s1.pdf",
+  "source_sha256": "481b6e5aa15b3569fb061428284d77ed051a42d91c9d779daa92287ad4b6c379",
+  "treaty_id": "TRA18710007",
+  "treaty_number": "012",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Areal- und Bevölkerungs- Verhältnissi im Gebiete des General-Gouvernements im Elsass\n\nDAS GEBIET\n\nGENERAL - GOUV\n\nIM ELSASS\n\nEMENTS\n\nPour la conformite marquée en vert sur.\n\nziehen\n\ncations relatives à felfort i ama loses ve Vonaille etic Mari cun Chines,\n\n4. trag\n\nFars\n\nМіран",
+      "quality_score": 0.9592,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "ca",
+        "de"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

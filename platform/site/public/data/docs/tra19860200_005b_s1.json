@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19860200_005b_s1",
+  "title": "Lettre de l'ambassade de Chypre accompagnant l'instrument chypriote (avec date d'arrivée au cabinet du ministre)",
+  "year": 1986,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9846,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AFFAIRES ETRANGERES CABINET GU MINISTRE - 8. OCT. 1986 ARRIVEE AMBASSADE DE CHYPRE EN FRANCE L'AMBASSADEUR Réf: 375/83 23, RUE GALILÉE 75116 PARIs Paris, le 19 septembre 1986 Al a le 8110 - fect io per et ! Monsieur le Ministre, J'ai l'honneur de vous faire parvenir ci-joint la lettre de notification signée par le Ministre des Affaires Etrangères Monsieur IACOVOU, concernant l'entrée en vigueur de l'accord de coopér…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19860200_005b_s1.pdf",
+  "source_filename": "tra19860200_005b_s1.pdf",
+  "source_sha256": "3509d018d1fd410d01caf53f86911f734fe156203db15cdd70bbbeaba87c2633",
+  "treaty_id": "TRA19860200",
+  "treaty_number": "005b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AFFAIRES ETRANGERES\n\nCABINET GU MINISTRE\n\n- 8. OCT. 1986\n\nARRIVEE\n\nAMBASSADE DE CHYPRE\n\nEN FRANCE\n\nL'AMBASSADEUR\n\nRéf:\n\n375/83\n\n23, RUE GALILÉE\n\n75116 PARIs\n\nParis, le 19 septembre 1986\n\nAl a le 8110\n\n- fect io per et !\n\nMonsieur le Ministre,\n\nJ'ai l'honneur de vous faire parvenir ci-joint la lettre de notification signée par le Ministre des\n\nAffaires Etrangères Monsieur IACOVOU, concernant l'entrée en vigueur de l'accord de coopération dans le domaine du tourisme entre nos deux gouvernements.\n\nJe saisis cette occasion, Monsieur le Ministre, pour vous renouveler les assurances de ma très haute considération.\n\nPetros Michaelides\n\nSon Excellence\n\nMonsieur Jean-Bernard RAIMOND\n\nMinistre des Affaires Etrangères\n\nParis",
+      "quality_score": 0.9846,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19860200_005a_s1",
+      "title": "Instrument chypriote",
+      "score": 0.404381,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470022_001_s1",
+      "title": "Traité (ensemble 1 échange de lettres a/s rapports consulaires)",
+      "score": 0.393101,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.391257,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_010_s1",
+      "title": "Réponse du secrétaire général de l'Organisation mondiale du tourisme",
+      "score": 0.390964,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_30_s1",
+      "title": "Lettre constituant instrument d'adhésion",
+      "score": 0.39023,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_togo_s1",
+      "title": "Notification au BIE de l'adhésion du Togo",
+      "score": 0.385074,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.381653,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slb001_s1",
+      "title": "Notification de non-succession",
+      "score": 0.381319,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_007",
+      "title": "Accusé de réception togolais de l'instrument français",
+      "score": 0.379149,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18390006_016",
+      "title": "Échange de lettres relatives à un projet de révision des traités du 19 avril 1839 entre la Belgique et les Pays Bas",
+      "score": 0.378349,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

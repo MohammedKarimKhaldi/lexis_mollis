@@ -1,0 +1,49 @@
+{
+  "document_id": "tra18620006_001c_s1",
+  "title": "Protocole",
+  "year": 1862,
+  "doc_type": "Protocole",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7915,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Putusule. le Conseil fidial-terpe latifa la question de la Valli de appes, daté de e jour, le Sipotenaired der Conseil fédéral a réservé pour son payo la faculté de porter ledit traité à la connailance des suifoances sigualaires de l'acte du Congrès de lienne, afin dl obtenir, pout autant pu ily cobderogé à l'astich INIT du dihacte, qu'il soit reconne comme faisan partie intéguant de doit intonational mecopini ence…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18620006_001c_s1.pdf",
+  "source_filename": "tra18620006_001c_s1.pdf",
+  "source_sha256": "357a2ef13fc13515219d09064528cbf50c4daefb18e52e3b8c1103e8480d84fd",
+  "treaty_id": "TRA18620006",
+  "treaty_number": "001c",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Putusule.\n\nle Conseil fidial-terpe latifa la question de la\n\nValli de appes, daté de e jour, le Sipotenaired der\n\nConseil fédéral a réservé pour son payo la faculté de porter ledit traité à la connailance des suifoances sigualaires de l'acte du\n\nCongrès de lienne, afin dl obtenir, pout autant pu ily cobderogé à l'astich INIT du dihacte, qu'il soit reconne comme faisan\n\npartie intéguant de doit intonational mecopini ence\n\nqui concerne la Chipe, et le tiripotentiane de ta Festi l'Emparul accie\n\nà callé réserve.\n\nN dont il est donné acte\n\npar leprisent hotocole siqué à berne, la haid Décember Mil huit cend soirande deral 8 Ninembr\n\n1862./\n\nEe Plenipskentiaie de Prince:\n\nZuga\n\nSe Prinipsentaine de Snifee:\n\nriniati.",
+      "quality_score": 0.7915,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

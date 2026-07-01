@@ -1,0 +1,122 @@
+{
+  "document_id": "tra18570026_005_s1",
+  "title": "Instrument danois (ratification)",
+  "year": 1857,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7963,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Пой» Frederik Sept par la grâce de Dieu Roi de Danemark des Vandales et des Goths, Duc de Ples vig. Holstein, Stormaru, des Dithmarses, de Lanenbourg et d'Oldenbourg Genou factore: Garayant le et mermine le lenti annal alati au rachat du pra ge du rund et du Beth concuenho lous et les tirati des Villes libres et sensiatiques de rubeh, Brime/\" Hambourg, as Majate le toi de Hanson Far Afa layale le Grand Duc dar Aekla…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18570026_005_s1.pdf",
+  "source_filename": "tra18570026_005_s1.pdf",
+  "source_sha256": "dce48f3d6ea207a9248ae2fb10f62c8556c021f50402c1baeda254e1fe863050",
+  "treaty_id": "TRA18570026",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Пой» Frederik Sept par la grâce de Dieu Roi de Danemark des Vandales et des Goths, Duc de Ples vig. Holstein, Stormaru, des Dithmarses, de Lanenbourg et d'Oldenbourg\n\nGenou factore: Garayant le et mermine le lenti annal alati\n\nau rachat du pra\n\nge du rund et du Beth concuenho lous et les tirati des Villes libres et sensiatiques de rubeh, Brime/\"\n\nHambourg, as Majate le toi de Hanson Far Afa layale le Grand Duc dar Aeklabourg Tchererin, la lajeté la loi les Tan Bas, DoniAllefe). Rayale la Pand Dued Clamberg, la Majesté le Noi de fu, Ta Magite l'angerana londre\n\nLas Huforce, la Reagerté la keine de Kararme ni des la\n\nGranda Bretagna d'd'olande, la Hapelé le hui de lide\n\nMaidi",
+      "quality_score": 0.8102,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "baite a ill none le 14 de sean ourxad pran de laipilentara espodife et dont ta tenca suit mot à mit.\n\n-enteratur\n\nK'appamsu, cinirimane et)\n\nratifions do lasmanien la pliu effirace que faio s ponti, tant pora Aor que proset tor incefrens, furomettant entfo dt parole de thoi prore tou at bua d'obreever ot d'acomplir sampuleeuement lo dit braité dans tano eer proikti et alamas.\n\nm foida quai Nons avane signi cette ratificatinn de Aoteu\n\nAbain et f'avone smane de lebe pand leav egal\n\nPosnl à tote Chötnii Bagud an hemuitbong Le29 au M.\n\nprodus610% 5 pr Tw taeten onufane\n\nапре (hep deburan)",
+      "quality_score": 0.7824,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18070007_004_s1",
+      "title": "Lettres patentes de ratification",
+      "score": 0.375953,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18570026_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.37447,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17630001_001_s1",
+      "title": "Accord (ensemble un article séparé) (ensemble texte des pouvoirs français, britanniques et espagnols)",
+      "score": 0.358209,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18390006_014",
+      "title": "Ratification par la Confédération germanique de l'acte d'accession de la Confédération germanique aux traités signés à Londres le 19 avril 1839",
+      "score": 0.35389,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200018_013_s1",
+      "title": "Instrument de ratification",
+      "score": 0.352489,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_72_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.352268,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18480004_001b",
+      "title": "Copie du texte de l'alternat bavarois de la convention",
+      "score": 0.351755,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16630006_001_s1",
+      "title": "Texte du traité (ensemble texte des pouvoirs danois et des pouvoirs français)",
+      "score": 0.351587,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

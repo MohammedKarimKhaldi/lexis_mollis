@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20141211_006_s1",
+  "title": "Accusé de réception de l'instrument français.",
+  "year": 2014,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9788,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Co::ederalc: 50518 Confederaz ore Suzzera Confederal ur suera Département fédéral des affaires étrangères DFAE 654.1-FRANK-6:05 Le Département fédéral des affaires étrangères présente ses compliments à l'Ambassade de France et a l'honneur d'accuser réception de la lettre du Ministre des Affaires étrangères et du développement international n' 2017-16/PRO-CER du 20 mars 2017 informant l'accomplissement des procédures…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20141211_006_s1.pdf",
+  "source_filename": "TRA20141211_006_s1.pdf",
+  "source_sha256": "26328b0baaf11fa59b063759a58849ac66644609e01cee020ceb2b89d76732a4",
+  "treaty_id": "TRA20141211",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Co::ederalc: 50518\n\nConfederaz ore Suzzera\n\nConfederal ur suera\n\nDépartement fédéral des affaires étrangères DFAE\n\n654.1-FRANK-6:05\n\nLe Département fédéral des affaires étrangères présente ses compliments à l'Ambassade de\n\nFrance et a l'honneur d'accuser réception de la lettre du Ministre des Affaires étrangères et du développement international n' 2017-16/PRO-CER du 20 mars 2017 informant l'accomplissement des procédures requises en France pour la mise en vigueur de la Convention concernant la modernisation et l'exploitation de la ligne ferroviaire d'Annemasse à Genève, faite à\n\nParis le 19 mars 2014.\n\nSuite à la notification du 12 mai 2016 par laquelle la Suisse informait de l'accomplissement des procédures internes nécessaires de son côté et en application de l'article 17, paragraphe 1, de la\n\nConvention, celle-ci entrera en vigueur le premier jour du deuxième mois suivant le jour de réception de dit instrument le 5 avril 2017, soit le 1° juin 2017.\n\nLe Département fédéral des affaires étrangères saisit cette occasion pour renouveler à l'Ambassade de France l'assurance de sa haute considération. L,\n\n(S. Michel)\n\nBerne, le 6 avril 2017\n\nDES\n\nTRIUVORD Y\n\nAmbassade de France\n\nBerne",
+      "quality_score": 0.9788,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20141375_006_s1",
+      "title": "Accusé de réception de l'instrument français.",
+      "score": 0.670034,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20130965_007_s1",
+      "title": "Note de l'ambassade accusant réception de la notification canadienne",
+      "score": 0.423916,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20162165_006_s1",
+      "title": "Accusé de réception français de l'instrument allemand",
+      "score": 0.403513,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172185_006",
+      "title": "Accusé de réception français de l'instrument andorran",
+      "score": 0.397813,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20131050_006_s1",
+      "title": "Accusé de réception croate de l'instrument français",
+      "score": 0.392585,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_102",
+      "title": "Accusé de réception suisse de la dénonciation française",
+      "score": 0.392458,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20050255_100",
+      "title": "Résolution 5/2015 modifiant les annexes de la convention adoptée par l'Assemblée Générale réunie à Strasbourg le 16 septembre 2015",
+      "score": 0.38828,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20020159_004",
+      "title": "Accusé de réception par le dépositaire de l'instrument français (date de dépôt de la notification française : 8/07/2005)",
+      "score": 0.387786,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_pak004_s1",
+      "title": "Note accusant réception de la notification d'adhésion du Pakistan",
+      "score": 0.387699,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20020160_004",
+      "title": "Accusé de réception par le dépositaire de l'instrument français",
+      "score": 0.387266,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

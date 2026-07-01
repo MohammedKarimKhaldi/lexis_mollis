@@ -1,0 +1,129 @@
+{
+  "document_id": "tra18750001_irq001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1875,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "ar",
+    "fr"
+  ],
+  "quality_score": 0.978,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "بسم اللّٰه الرحمن الرحيم Ambassade de la République d'Irak Paris مفارة جمهورية العراق باريس INT 2013/10/1/146 20/08/2013 MINISTÈRE DES AFFARES ÉTRANGÈRES PI. DIPLOMATIQUES 23 AOUT 2013 : ARRIVÉE L'Ambassade de la République d'Irak à Paris présente ses compliments au Ministère des Affaires étrangères, Protocole et a l'honneur de l'informer de l'adhésion de la République d'Irak à « La Convention du mètre n°8 » émanant…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18750001_irq001_s1.pdf",
+  "source_filename": "tra18750001_irq001_s1.pdf",
+  "source_sha256": "d52345d93553f56b391e56e4db43ab5b00239a99b371a25d5f06235147e6954d",
+  "treaty_id": "TRA18750001",
+  "treaty_number": "IRQ001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "بسم اللّٰه الرحمن الرحيم\n\nAmbassade de la République d'Irak\n\nParis\n\nمفارة جمهورية العراق باريس\n\nINT 2013/10/1/146\n\n20/08/2013\n\nMINISTÈRE DES AFFARES ÉTRANGÈRES\n\nPI. DIPLOMATIQUES\n\n23 AOUT 2013 :\n\nARRIVÉE\n\nL'Ambassade de la République d'Irak à Paris présente ses compliments au Ministère des Affaires étrangères, Protocole et a l'honneur de l'informer de l'adhésion de la République d'Irak à « La Convention du mètre n°8 » émanant du Bureau\n\nInternational des Poids et Mesures.\n\nEn souhaitant au Ministère des Affaires étrangères, Protocole, une bonne réception de la présente/ l'Ambassade de la\n\nRépublique d'Irak saisit cette occasion pour lui renouveler les assurances de sa haute considération.\n\nMinistère des Affaires étrangères\n\nProtocole 57 Bvd des Invalides 75007 Paris\n\n6t, Avenue Foch - 75016 Paris Tél : 01 45 59 99 70 - Fax : 01 45 59 99 80\n\nwww.irak.fr, E-mail : info@irak.f",
+      "quality_score": 0.9837,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "رئاسة الجمهورية\n\nنؤكد بهذه الوثيقة قرار جمهورية العراق بالانضمام الى اتفاقية المتر\n\nرقم (٨) لسنة ٢٠٠٩.\n\nوإقراراً بذلك ، وقعنا على هذه الوثيقة ، وتم ختمها بالختم الجمهوري.\n\nكتب في بغداد في اليوم الرابع من شهر جمادي الآخرة لسنة ١٤٣٤ ه الموافق لليوم الزبع عشر من شهر نيسات لسنة ٢٠١٣ م\n\nسكالبد\n\n٤. رئيس الجمهورية د. خضير الخراعى\n\nوزير الخارجية",
+      "quality_score": 0.9723,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760120_003",
+      "title": "Pouvoirs irakiens",
+      "score": 0.414864,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_35_s1",
+      "title": "Note de l'OEPP sur le retrait de l'Iran",
+      "score": 0.404994,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.404627,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.403699,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_416_s1",
+      "title": "Instrument d'adhésion de l'Iran",
+      "score": 0.403072,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.401085,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_087_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.394074,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20080013_007_s1",
+      "title": "Accusé de réception français de l'instrument d'approbation saoudien",
+      "score": 0.393784,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_861_s1",
+      "title": "Note verbale d'accompagnement de l'instrument syrien",
+      "score": 0.390286,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_562_s1",
+      "title": "Note de transmission de l'instrument marocain",
+      "score": 0.389748,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

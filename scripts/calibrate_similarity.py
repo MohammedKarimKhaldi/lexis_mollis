@@ -80,8 +80,10 @@ def score_config(cases: list[dict[str, Any]], scores: dict[tuple[str, str], dict
                 if predicted is not None:
                     fp += 1
                     by_type[predicted]["fp"] += 1
+        elif label == "exclude":
+            continue
         else:
-            raise ValueError(f"{case.get('case_id', '<unknown>')}: label must be positive or negative")
+            raise ValueError(f"{case.get('case_id', '<unknown>')}: label must be positive, negative, or exclude")
 
     precision = tp / (tp + fp) if tp + fp else 0.0
     recall = tp / (tp + fn) if tp + fn else 0.0
@@ -140,12 +142,16 @@ def main() -> int:
 
     cases_payload = load_cases_payload(args.cases)
     cases = cases_payload.get("cases", [])
+    scored_cases = [case for case in cases if case.get("label") in {"positive", "negative"}]
+    excluded = sum(1 for case in cases if case.get("label") == "exclude")
     annotation_source = str(cases_payload.get("annotation_source") or "unknown")
     human_validated = annotation_source.startswith("human")
-    positive = sum(1 for case in cases if case.get("label") == "positive")
-    negative = sum(1 for case in cases if case.get("label") == "negative")
+    positive = sum(1 for case in scored_cases if case.get("label") == "positive")
+    negative = sum(1 for case in scored_cases if case.get("label") == "negative")
     report: dict[str, Any] = {
         "cases": len(cases),
+        "scored_cases": len(scored_cases),
+        "excluded": excluded,
         "positive": positive,
         "negative": negative,
         "minimum_positive": 30,
@@ -163,7 +169,7 @@ def main() -> int:
         report["status"] = "calibrated" if human_validated else "llm_draft_calibrated"
         if not human_validated:
             report["message"] = "Threshold sweep completed on LLM-draft labels. Treat as provisional; do not claim human-validated calibration until human annotations replace these cases."
-        report["best"] = sweep(cases, scores, chunks)
+        report["best"] = sweep(scored_cases, scores, chunks)
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

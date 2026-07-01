@@ -1,0 +1,74 @@
+{
+  "document_id": "tra19600242_001b_s1",
+  "title": "Lettre confidentielle n° 1 : lettre danoise a/s contingent tarifaire bovins et viandes bovines",
+  "year": 1960,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9874,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Le Président de la délégation danoise copenhague, le 18 Février 1960 lettre n° 1 (confidentielle) Monsieur le Président, J'ai l'honneur d'appeler votre attention sur les inconvéniants résultant de la suspension en 1959 du contingent tarifaire de bovins vivants et de viande bovines ouvert par le M. décret du 7 janvier 1959- Cette mesure affectant gravement un des postes les plus importants de l'exportation danoise ve…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19600242_001b_s1.pdf",
+  "source_filename": "tra19600242_001b_s1.pdf",
+  "source_sha256": "8edfb46d9a3d8a5da7019edfd7780467ea057de41bee320354ca99d300c1e5e3",
+  "treaty_id": "TRA19600242",
+  "treaty_number": "001b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Le Président de la délégation\n\ndanoise\n\ncopenhague, le 18 Février 1960\n\nlettre n° 1 (confidentielle)\n\nMonsieur le Président,\n\nJ'ai l'honneur d'appeler votre attention sur les inconvéniants résultant de la suspension\n\nen 1959 du contingent\n\ntarifaire de bovins vivants et de viande bovines ouvert par le M.\n\ndécret du 7 janvier 1959- Cette mesure affectant\n\ngravement un des postes les plus\n\nimportants de l'exportation danoise vers la\n\nt'rance, j'exprime\n\nle désir que de\n\nnouvelles\n\ndispositions\n\nsoient prises le plus tôt\n\npossible, dans\n\nle domaine\n\nconsidéré, en vue de renédier\n\nà cette\n\nsituation.\n\nVeuillez agréer, Monsieur\n\nle Frésident,\n\nles assurances\n\nde ma haute considération.\n\nMonsieur le Président de la délégation française.",
+      "quality_score": 0.9874,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560069_001_s1",
+      "title": "Procès-verbal (ensemble 4 échanges de lettres)",
+      "score": 0.396048,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600242_001c_s1",
+      "title": "Lettre confidentielle n° 2 : lettre française et son accusé de réception danois a/s tarif douanier danois applicable aux vins de table mousseux",
+      "score": 0.380085,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600242_001f_s1",
+      "title": "Échange de lettres confidentiel a/s validité de la lettre confidentielle n° 4 annexée à l'accord du 29 mai 1959",
+      "score": 0.369269,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600242_001d_s1",
+      "title": "Lettre française et son accusé de réception danois a/s contingent d'import de spiritueux au Danemark",
+      "score": 0.352678,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

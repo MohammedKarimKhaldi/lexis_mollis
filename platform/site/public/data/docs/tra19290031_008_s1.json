@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19290031_008_s1",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1929,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9617,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Plenielan: Perti O PROCES VERBAL D'EGHANGE Ies soussignés d'étant réunis pour procéder à l'échange des ratifications du Président de la République Française et de Son Excellence le Président de la République Espagnole sur le Traité d'Arbitrage signé à Paris le I0 Juillet 1929 entre la France et l'Espagne , les instruments ont été produits et ayant été , après examen, trouvés en bonne et due tome , l'échange en a été…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19290031_008_s1.pdf",
+  "source_filename": "tra19290031_008_s1.pdf",
+  "source_sha256": "b316d7c28ab04be9306cd64305e492c71188c29644be2d68ba72ef3f9ecb7cf9",
+  "treaty_id": "TRA19290031",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plenielan:\n\nPerti O\n\nPROCES VERBAL D'EGHANGE\n\nIes soussignés d'étant réunis pour procéder à l'échange des ratifications du Président de la République Française et de Son\n\nExcellence le Président de la République Espagnole sur le Traité d'Arbitrage signé à Paris le I0 Juillet 1929 entre la France et l'Espagne , les instruments ont été produits et ayant été , après examen, trouvés en bonne et due tome , l'échange en a été opéré.\n\nEN FOI DE QUOI , les soussignés, dûment autorisés à cet effet, ont dressé le présent procès -verbal qu'íls ont revêtu de leurs cachets .\n\nPait à pario, en double exemplaire 1e 27\n\nJuillet 1932\n\nC.\n\n!\n\ntiend\n\ndarmatons,",
+      "quality_score": 0.9617,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.626368,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.423422,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.420551,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19220022_006_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.411347,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190039_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.408328,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190005_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.396469,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610160_008",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.389827,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710031_100_s1",
+      "title": "Procès-verbal de l'échange des instruments",
+      "score": 0.38703,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530025_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.386703,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_32_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de l'Italie",
+      "score": 0.381067,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

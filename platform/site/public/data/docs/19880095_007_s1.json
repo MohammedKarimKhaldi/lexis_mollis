@@ -1,0 +1,141 @@
+{
+  "document_id": "19880095_007_s1",
+  "title": "Instrument d'acceptation de l'Allemagne démocratique",
+  "year": 1988,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "fr"
+  ],
+  "quality_score": 0.8478,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Annahmeurkunde HIERMIT erklärt der Staatsrat der Deutschen Demokratischen Republik die Annahme der von der Generalversammlung des Internationalen Ausstellungs- büros am 31. Mai 1988 beschlossenen Änderungen der Konvention über Internationale Ausstellungen vom 22. November 1928 in der Fassung der Änderungs- und Er- gänzungsprotokolle vom 10. Mai 1948, 16. November 1966 und 30. November 1972 und der Änderung vom 24. J…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_007_s1.pdf",
+  "source_filename": "19880095_007_s1.pdf",
+  "source_sha256": "d82fcdec5d5604a990adb51a826e470890176da149d72b1287b6c111d303effd",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "DDR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Annahmeurkunde\n\nHIERMIT erklärt der Staatsrat der Deutschen\n\nDemokratischen Republik die Annahme der von der\n\nGeneralversammlung des Internationalen Ausstellungs- büros am 31. Mai 1988 beschlossenen Änderungen der\n\nKonvention über Internationale Ausstellungen vom 22.\n\nNovember 1928 in der Fassung der Änderungs- und Er- gänzungsprotokolle vom 10. Mai 1948, 16. November 1966 und 30. November 1972 und der Änderung vom 24.\n\nJuni 1982.\n\nBerlin, den 23. Juni 1989\n\nDer Vorsitzende des Staatsrates der Deutschen Demokratischen Republik\n\nEtteranty\n\nDer Minister für\n\nAuswärtige Angelegenheiten",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "f Mn i: A, ae i S t- E\n\n, -i\n\nPa d iag",
+      "quality_score": 0.5524,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Tnstrument\n\nd'acceptation\n\nLe Conseil d'Etat de la République Démocratique\n\nAllemande confirme par la présente son acceptation de l'Amendement à la Convention concernant les expositions internationales du 22 Novembre 1928 modifiée et complé- tée par les Protocoles des 10 Mai 1948, 16 Novembre 1966 et 30 Novembre 1977 et par 1'Amendement du 24 Juin 1982, adopté par l'Assemblée Générale du Bureau International des Expositions le 31 Mai 1988.\n\nberlin, le 23 Juin 1989\n\nLe Président du Conseil d'Etat de la République Démocratique Allemande siane: Erich Honecker\n\npour le Ministre des\n\nAffaires Etrangères signé: Herbert Krolikowski",
+      "quality_score": 0.9911,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.626216,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_021_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.622047,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_040_s1",
+      "title": "Note verbale de transmission de l'instrument d'acceptation de la Roumanie",
+      "score": 0.548175,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_020_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.420786,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_026_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.417442,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.407254,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_034_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.404973,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_169_s1",
+      "title": "Instrument de ratification",
+      "score": 0.403433,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.400852,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_198_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.395666,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

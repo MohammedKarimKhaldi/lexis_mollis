@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_111",
+  "title": "Notification par le gouvernement français du dépôt de l'instrument",
+  "year": 1924,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9449,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DINDONÉSIE PARIS 12, ruo Dumont d'Urvillo-16: KLEbar 76-27 76-28 1.11.4 A0P69 UNIONS Wo:14781月2/54. L'Ambassade d'Indonésie présente ses compliments au Ministòre des Affaires Etrangères et a l'honneur de lui faire savoir que le Gouvernement Indonésion & décidó de devenir membre de l'Offioo International des Epizooties (bème catégorie) à dater du mois de Férries 1954. L'Ambassade d'Indonésie saisit cotte oc…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_111.pdf",
+  "source_filename": "tra19240002_111.pdf",
+  "source_sha256": "deeca92e967772a3c14718a1e21a621390b8145eaec56878e3473a6fa425aae1",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "BTN003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DINDONÉSIE\n\nPARIS\n\n12, ruo Dumont d'Urvillo-16:\n\nKLEbar 76-27 76-28\n\n1.11.4\n\nA0P69\n\nUNIONS\n\nWo:14781月2/54.\n\nL'Ambassade d'Indonésie présente ses\n\ncompliments au Ministòre des Affaires Etrangères et a l'honneur de lui faire savoir que le Gouvernement\n\nIndonésion & décidó de devenir membre de l'Offioo\n\nInternational des Epizooties (bème catégorie) à dater du mois de Férries 1954.\n\nL'Ambassade d'Indonésie saisit cotte\n\noccasion pour renouveler au linistère des Affaires\n\nEtrangères les assuranoes de sa très haute considération.\n\nParis,\n\nPINDO\n\nle 13 Mai 1954\n\nm\n\nARIS\n\n::\n\nMinistère des Affaires Etrangères\n\nService du Protocole 37 Quai d'Orsay\n\nPar 18 7e",
+      "quality_score": 0.9449,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_406_s1",
+      "title": "Instrument d'adhésion indonésien",
+      "score": 0.427804,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hnd001_s1",
+      "title": "Instrument d'adhésion du Honduras",
+      "score": 0.397519,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_776",
+      "title": "Accusé de réception de l'instrument salvadorien",
+      "score": 0.391773,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_562_s1",
+      "title": "Note de transmission de l'instrument marocain",
+      "score": 0.390001,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.387948,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv003_s1",
+      "title": "Note verbale de dénonciation du protocole de 1972",
+      "score": 0.38745,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_irq001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.386883,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.386507,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.384604,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_054_s1",
+      "title": "Note verbale de transmission de la déclaration d'acceptation de la Finlande",
+      "score": 0.383842,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

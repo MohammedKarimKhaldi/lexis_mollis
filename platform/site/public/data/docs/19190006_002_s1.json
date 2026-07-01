@@ -77,5 +77,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190006_351b_s1",
+      "title": "Instrument de ratification grec de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.826244,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_151b_s1",
+      "title": "Instrument de ratification bulgare de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.746868,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_009_s1",
+      "title": "Texte de la Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
+      "score": 0.4505,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_39_s1",
+      "title": "Instrument de ratification",
+      "score": 0.410224,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_002_s1",
+      "title": "Copie non signée du Convention",
+      "score": 0.409372,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_13_s1",
+      "title": "Instrument de ratification finlandais",
+      "score": 0.408595,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240075_001_s1",
+      "title": "Accord (ensemble sept annexes)",
+      "score": 0.405419,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19250001_160",
+      "title": "Instrument de succession ; deux réserves",
+      "score": 0.402717,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_25_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.401601,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200049_001_s1",
+      "title": "Traité",
+      "score": 0.398633,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

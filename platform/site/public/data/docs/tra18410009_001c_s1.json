@@ -1,0 +1,93 @@
+{
+  "document_id": "tra18410009_001c_s1",
+  "title": "Traité",
+  "year": 1841,
+  "doc_type": "Traité",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8481,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "• Traité condu, entre la France et Esimiaron, Roi du pays d'Anbara (Madagalear) et des iles qui en dépendenh. '') Moi, Estimiarou, fils de Otialau, Moi d'Antars de Nossi-Bé, de Nossi-Mittion, de Posti-Saca, de Nosti-Jaby et autres îles envirounant nos possestiond sur la grande terre, vous déchere en presence de mes Frères et de mes Grands que je cède à la majeste le Roi Lonis Philippe 13, Roi des Français, tous mes…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Traité",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18410009_001c_s1.pdf",
+  "source_filename": "tra18410009_001c_s1.pdf",
+  "source_sha256": "a9013570618373270486e1dd1702ba7599058d121a6bc31016ecccc8e2593c45",
+  "treaty_id": "TRA18410009",
+  "treaty_number": "001c",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "•\n\nTraité condu, entre la France et\n\nEsimiaron, Roi du pays d'Anbara (Madagalear)\n\net des iles qui en dépendenh. '')\n\nMoi, Estimiarou, fils de Otialau, Moi d'Antars de Nossi-Bé, de Nossi-Mittion, de Posti-Saca, de\n\nNosti-Jaby et autres îles envirounant nos possestiond sur la grande terre, vous déchere en presence de mes Frères et de mes Grands que je cède à la majeste le Roi Lonis Philippe 13, Roi des Français, tous mes droits Jur les terres de madagascar, les queto droit le les tiens de mes ancêtres; et que le lui,\n\nession\n\nde toutes les îles qui entourent mon\n\nrojaume d'Ankara.\n\nNoous demandons à être regardes par la Majesté le Grano Roi comme Sujeto français es à sta traites comme telo. Je luis persecadé yur ta Mageste l grand Roi, anquel a fais don de mes clato, ine considérera comme ton filo, me protégera contre tors ennemi. el éloignera de troi tout espèce de mal. Is trio percuadé cutti\n\nJa mangasti 1 Pai deo Français poudra bien ende\n\nLa bienocillana sur nos sujeto. Nous porterone quiconque dera\n\nl'ennemi du grano Poi Jera -\n\ndébormais le non de Français, 1 notre el nov emploierons nos armes contre lui; quiconque sero Donallié sera le notre et nons l'aiderons\n\nde tore les moyens en notre pouvoir.\n\nla Majesti le Roi des Français fait planter don pavillon sur un point quelcongue de ros Stato, nous surons par Dien eh par le\n\nIngement dermes que nous le défendrons jusqué la mort. Le prie Ja Majeité le grand Roi de nous essener des Joldato pour tester\n\n• \"')Ca traité, communigné fras le Ministre de La Mazina, ne porte\n\npas de date.- M3 de Clerco indique le mais de Juin 18h1.",
+      "quality_score": 0.8592,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "à Modsi-Miliou et un bâtimert de guerre pous nous protéger contre les Gras ou tous antre сплет.\n\nCes acte a été rédigé par moi Elimiaron, en présence. de Mº Passot, officier de la Majesti le Roi des Français es eniogé de N6: k Gouverneur de Bourbon, de M6- Jehenne; commandank la.\n\nGabarre du Roi la\n\nHiciers de ce bakiment\n\nPedroyante et de tous les ..'..\n\n\". :\n\nSigné: Esiniaion, Passot, Tcherne,\n\n⋯炒、\n\n4: Certifié conforme au teste.\n\nSigné: Noët, agent consulaire»\n\nde France à Zanibar. :'\n\n.，.\n\n..\n\n\".",
+      "quality_score": 0.837,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18410009_001a_s1",
+      "title": "Traité",
+      "score": 0.37852,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_033_s1",
+      "title": "Ratification du traité par Victor-Amédée II, duc de Savoie",
+      "score": 0.358696,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16940004_001",
+      "title": "Recueil de traités (1694-1820)",
+      "score": 0.352095,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18140003_001_s1",
+      "title": "Accord",
+      "score": 0.351839,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

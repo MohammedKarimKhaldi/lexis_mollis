@@ -1,0 +1,116 @@
+{
+  "document_id": "19230072_352b_s1",
+  "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative aux modalités du remboursement par le gouvernement hellénique des dettes résultantes des actes des autorités helléniques en Turquie",
+  "year": 1923,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9774,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Conformément aux dispositions de la Convention Bignée à Lausanne le 24 Juillet 1923, entre la Grèce, 1\" apire Britannique, la France et L'Italie ot relettre aux modalités du remboursement, par le Gouvernement Hel-' lénique, aux ressortissants des autres Pulasances contrac- tantes, des dettes résultant des actes des Autorités hel- léniques en Jurquie, le Ministre de Grèce à Paris; s'est présentó au Ministère des Affa…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_352b_s1.pdf",
+  "source_filename": "19230072_352b_s1.pdf",
+  "source_sha256": "32a52acff4bc1aeb9a68ce0a38b00b7969b002be35d3da91e198899e0ca9d351",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "GRE003b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Conformément aux dispositions de la Convention\n\nBignée à Lausanne le 24 Juillet 1923, entre la Grèce, 1\" apire Britannique, la France et L'Italie ot relettre aux modalités du remboursement, par le Gouvernement Hel-' lénique, aux ressortissants des autres Pulasances contrac- tantes, des dettes résultant des actes des Autorités hel- léniques en Jurquie, le Ministre de Grèce à Paris;\n\ns'est présentó au Ministère des Affaires Itrangères de la\n\nRépublique frangaise et a déposé les Ratifications de Sa\n\nMajesté le Roi des Hellènes sur ladite Convention ./•\n\nJait à Paria le 11 Février 1924\n\napomants.",
+      "quality_score": 0.9774,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230072_352a_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec relatif à 12 actes signés à Lausanne",
+      "score": 0.417654,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_352c_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec de la convention relative à la Thrace",
+      "score": 0.406,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200048_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.405196,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_003_s1",
+      "title": "Procès-verbal de dépôt des instruments britanniques, italiens et japonais de certains actes signés à Lausanne le 24 juillet 1923 et le 23 novembre 1923, et à Sèvres le 10 août 1920",
+      "score": 0.405179,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200049_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.40511,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_732e_s1",
+      "title": "Procès-verbal de dépôt de déclarations britanniques et franco-britanniques",
+      "score": 0.377252,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_732b_s1",
+      "title": "Déclaration franco-britannique relative à la non-application des dispositions de la Convention commerciale au territoire du condominium des Nouvelles-Hébrides",
+      "score": 0.369045,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_922_s1",
+      "title": "Procès-verbal de dépôt des instruments de ratification turcs",
+      "score": 0.367675,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_732d_s1",
+      "title": "Déclaration franco-britannique relative à la non-application des dispositions de la Convention concernant l'établissement et la compétence judiciaire au territoire du condominium des Nouvelles-Hébrides",
+      "score": 0.365526,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.356773,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

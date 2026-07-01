@@ -1,0 +1,380 @@
+{
+  "document_id": "tra19370087_005_s1",
+  "title": "Ratification siamoise",
+  "year": 1937,
+  "doc_type": "Autre",
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "th"
+  ],
+  "quality_score": 0.9577,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "EEEE EEEE EET ELORRI ERREN REPRESE RESETS RE E EE REE REE ในพระประมาภิเจสมเด็จนระเจ้าอยู่หัวอานันทามทิกล คณะผู้สงเราชายการมทนพระองกิ (ตามประกาศประสานสภาผู้แทนราบภร สิงหาคมี พุทธศักราชา๒๘๐) พล อ.เจ้าพระหทีมอพตป่ออัน ขอประกาศโดยหนังสือฉะบับนี้ ว่า โดยที่ได้ทำสนิสัญญาทางไมทรี พาณิชย์ และการเกินเรือ ระหว่างสยาม กับ ฝรังเศส พร้อมด้วยโปรโตคล ซึ่งได้ลงนาม กัน ณะกรุงเทพฯ เมื่อวันที่ เช็ก ธันวาคม พุทรศักราช สอง พันสี่ร้อยแปก…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19370087_005_s1.pdf",
+  "source_filename": "tra19370087_005_s1.pdf",
+  "source_sha256": "3881e0e8ac8145cbc94a27ac727eff6f88b1957d65a8631138d3b81f60c17f02",
+  "treaty_id": "TRA19370087",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "EEEE EEEE EET\n\nELORRI ERREN\n\nREPRESE RESETS RE E EE REE REE",
+      "quality_score": 0.6354,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ในพระประมาภิเจสมเด็จนระเจ้าอยู่หัวอานันทามทิกล\n\nคณะผู้สงเราชายการมทนพระองกิ\n\n(ตามประกาศประสานสภาผู้แทนราบภร\n\nสิงหาคมี พุทธศักราชา๒๘๐)\n\nพล อ.เจ้าพระหทีมอพตป่ออัน\n\nขอประกาศโดยหนังสือฉะบับนี้ ว่า โดยที่ได้ทำสนิสัญญาทางไมทรี พาณิชย์ และการเกินเรือ ระหว่างสยาม กับ ฝรังเศส พร้อมด้วยโปรโตคล ซึ่งได้ลงนาม กัน ณะกรุงเทพฯ เมื่อวันที่ เช็ก ธันวาคม พุทรศักราช สอง พันสี่ร้อยแปกสิบ ตรงกับ คริสตศักราช ขันเล้าร้อยสามสิบเจ็ก กังมีข้อความดังต่อเปนี้",
+      "quality_score": 0.7501,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "th"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "TRAITÉ D'AMITIÉ, DE COMMERCE\n\nET DE NAVIGATION\n\nENTRE\n\nLE SIAM\n\nET\n\nLA FRANCE",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "SA MAJESTÉ LE ROI\n\nDE SIAM et le PRÉSIDENT DE\n\nRÉPUBLIQUE FRANÇAISE,\n\nAnimés d'un égal désir de maintenir et de développer les rapports d'amitié et de coopération déjà heureusement établis entre les deux Etats et convaincus que ce but ne saurait être mieux atteint que par la revision des traités précédemment conclus entre les deux pays, ont résolu de procéder à cette revision dans un esprit d'équité et au bénéfice mutuel des\n\ndeux Parties en vue\n\nd'établir leurs rapports sur une base de réciprocité et ont nommé à cet effet pour leurs Plénipotentiaires :\n\nSA MAJESTÉ LE ROI DE SIAM:\n\nLuang Pradist Manudharm (Pridi Banomyong), Ministre des\n\nAffaires Etrangères ;\n\nLE PRÉSIDENT DE LA RÉPUBLIQUE FRANCAISE:\n\nMonsieur Guillaume Georges-Picot, Chargé d'Affaires de\n\nFrance à Bangkok;\n\nLesquels, après\n\nêtre communiqué leurs pleins pouvoir\n\ntrouvés\n\nonne et due torme. sont convenus des dispositio\n\nsuivantes :",
+      "quality_score": 0.997,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "1\n\nARTICLE Jer\n\nIl y aura paix constante et amitié perpétuelle entre le\n\nRoyaume de Siam et la République Française.\n\nARTICLE Il.\n\nLes ressortissants de chacune des Hautes Parties Contrac- tantes\n\npleine liberté, avec leurs familles, d'entrer sur le\n\nterritoire de l'autre\n\nPartie, d'y circuler, de s'y établir et d'en\n\nsortir ; ils bénéficieront à cet égard des mêmes droits et privilèges que ceux qui sont\n\nou qui seront accordés aux ressortissants de la\n\nnation la plus favorisée, sous la condition de se conformer aux lois du pays et\n\nsous réserve des dispositions de l'Article XVIII.\n\nIls pourront,\n\ndans les mêmes conditions et en quelque lieu\n\nque ce soit des territoires de l'autre Partie, exercer leurs profes- sions légitimes et tous métiers licites, — s'y livrer au commerce ou à l'industrie, — y faire le trafic, tant en gros qu'en détail, de tous produits et articles du commerce licite, soit en personne, soit par représentant, seuls ou en association avec des étrangers ou des nationaux, y prendre à leur\n\nservice dans tous emplois telles\n\npersonnes qu il leur\n\nconviendra. Ils pourront, dans les conditions\n\nfixées par la législation locale, y acquérir et posséder en toute propriété, occuper, vendre et transmettre par succession, testament, donation et\n\nde toute autre manière que ce soit, prendre ou céder\n\nà bail tous immeubles, bâtis ou non bâtis, destinés à l'habitation ou à un usage licite quelconque, commercial, industriel, agricole\n\nou\n\nréserve des dispositions prévues dans l'intérêt\n\nde\n\nla sécurité nationale par les lois du pays. Ils pourront y acquérir, posséder\n\ntransmettre des biens, valeurs et effets mobiliers\n\ntoute sorte,\n\nde toute manière que ce soit, notamment par succes-\n\nsion, testament à des droits, taxes\n\nIls ne seront pas assujets, sur le teritoire de l'autre Partie,\n\nsous quelque\n\nsoit, autres ou plus élevés que ceux qui\n\nsont ou qui seront perçus\n\nsur les nationaux.\n\ndisposition ne fait\n\npas obstacle à la\n\nperception, le cas\n\nde taxes dites\n\nde séjour, soit de\n\nà l'accomplissement de formalités de police.\n\nce qui concerne ces dispositions, les ressortissants\n\ndes deux Etats\n\ndu traitement accordé\n\naux ressortissants\n\nde la nation la\n\nplus favorisée.",
+      "quality_score": 0.9963,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "2\n\nLes ressortissants de chacune des Hautes Parties Contrac- jouiront, dans les territoires de l'autre, de la protection et\n\npour leurs personnes et pour\n\nleurs biens, et ils bénéficieront à cet égard des mêmes droits et privilèges que ceux qui sont ou qui seront accordés aux nationaux de l'Etat de résidence, lois du pays et sous réserve de l'observation et de l'application des lois et des règlements concernant les étrangers.\n\nseront exempts sur les territoires de l'autre Partie de\n\ntout service militaire dans les armées régulières, les gardes ou les milices et de toutes prestations militaires personnelles ainsi que de toute contribution en argent ou en nature perçue en remplacement\n\n• de ce service ou\n\nde ces prestations.\n\nIls seront de même exempts\n\nde tout emprunt forcé et de toute contribution extraordinaire.\n\nIls\n\nne\n\net en temps\n\nde guerre,\n\nsous les réserves ci-dessus, qu'aux réquisitions militaires imposées aux nationaux et ils auront réciproquement droit aux indemnités établies en faveur des nationaux par les lois en vigueur dans les pays respectifs.\n\nPour ce qui précède, les ressortissants de chacune\n\ndes Hautes Parties Contractantes ne seront\n\npas\n\nsur les\n\nterritoires de l'autre moins bien que ne le sont ou ne le seront les ressortissants de la nation la plus favorisée.\n\nLes ressortissants\n\nde chacune des Hautes Parties Contrac-\n\ntantes jouiront, dans toute l'étendue du territoire de l'autre Partie, d'une entière liberté de conscience. Ils pourront élever et posséder des églises, se livrer à l'exercice privé\n\nou public de leur culte,\n\ninstaller, posséder et entretenir des cimetières suivant leurs coutumes religieuses\n\nd'éducation\n\net des\n\nœuvres religieuses,\n\nhospitalières et charitables, en se conformant\n\naux lois, ordonnances et règlements du pays.\n\nARTICLE III.\n\nLes habitations,\n\nentrepôts, manufactures et magasins et toute ressortissants de\n\ndes Hautes Parties\n\nContractantes dans les territoires de l'autre,\n\nque tous les\n\nlocaux en dépendant et utilisés soit comme résidence, soit pour\n\nseront respectés.\n\nIl ne sera point permis d'y\n\ncéder à des visites domiciliaires ou à des perquisitions, que d'examiner ou d'inspecter livres, papiers ou comptes, sauf sous les conditions et dans les formes prescrites par les lois, ordonnances et règlements applicables aux nationaux de l'Etat de résidence.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "3\n\nARTICLE IV.\n\nLes ressortissants de chacune des Hautes Parties Contrac- tantes pourront librement se rendre avec leurs navires et leurs cargaisons dans tous les lieux, ports et rivières des territoires de l'autre, qui sont ou seront ouverts à la navigation extérieurs, toujours sous réserve des lois\n\ndu pays où ils se sont\n\nParties Contractantes n'établira ni ne\n\nmaintiendra des prohibitions ou des restrictions sur les importations en provenance des territoires de l'autre Partie ou sur les exportations\n\nsoient pas appliquées\n\nà\n\nl'importation ou à l'exportation de tous articles similaires provenant de quelque autre pays\n\nou destinés\n\nà celui-ci.\n\nTout retrait de\n\nprohibition\n\nou restriction concernant l'importation ou l'exportation\n\nqui est accordé même temporairement par l'une des Hautes Parties\n\nContractantes en faveur des articles d'un pays tiers s'appliquera immédiatement et sans condition aux articles similaires provenant de quelque autre pays ou destinés à celui-ci.\n\nEn cas de contin-\n\ngentements titative établis à l'importation et à l'exportation d'articles soumis à restriction, chacune des Hautes Parties Contractantes convient d'accorder, pour les importations en provenance des territoires de l'autre Partie ou pour les exportations à destination des ces ter- ritoires, une part équitable dans l'allocation de la quantité de marchandises soumises\n\nrestriction qui peut être autorisée pour\n\nl'importation\n\nou l'exportation.\n\nRien dans ce Traité ne sera interprété de façon à restreindre le droit de chacune des Hautes Parties Contractantes d'imposer, dans les conditions qu'Elle jugera convenables et sous réserve du principe du traitement non\n\ndiscriminatoire:\n\ndes prohibitions,\n\ndes restrictions ou des règlements\n\npour la mise en vigueur des lois de police ou fiscales, y compris les lois prohibant ou restreignant l'importation, l'exportation ou la vente de l'opium, de la feuille de coca, de leurs dérivés et de toutes autres substances narcotiques, ainsi que toutes autres lois visant des articles dont la production, la ou le transport intérieurs, sont par la loi nationale;",
+      "quality_score": 0.9969,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "4\n\n2) des prohibitions ou restrictions concernant le commerce ou le trafic des armes et munitions de guerre, et dans les circonstances exceptionnelles de tout autre\n\nmatériel exigé par la guerre, étant\n\nentendu que chacune des Hautes Parties Contractantes peut, le cas où Elle est engagée dans une guerre, mettre\n\nen vigueur toute\n\nrestriction à l'importation ou à l'exportation qui peut être exigée par l'intérêt national ;\n\n3) des prohibitions ou restrictions nécessaires pour la protec-i tion de la sécurité ou de la santé nationales ou publiques, ou pour la protection de la vie animale ou végétale contre les maladies, les\n\nAléaux nuisibles ou la disparition ;\n\ndes prohibitions ou restrictions affectant les articles qui,\n\nen qui concerne la production\n\nou le\n\nsont\n\npourront être par la suite l'objet dans le pays d'un monopole exercé par l'Etat ou sous son contrôle.\n\nARTICLE V.\n\nLes ressortissants de chacune des Hautes Parties Contrac- auront libre accès aux Cours de Justice de l'autré pour la poursuite et la défense de leurs droits; ils seront libres, au même titre que les nationaux de l'Etat de résidence et les ressortissants de la nation la plus favorisée, dans le choix et l'emploi d'hommes de loi, avocats et mandataires chargés\n\nde poursuivre et défendre\n\nleurs droits devant ces Cours.\n\nucune condition ni obligation ne seront imposées au assortissants de l'une des Hautes Parties Contractantes en ce qu concerne cet accès aux Cours de Justice de l'autre, qui ne s'ap- pliqueraient pas aux nationaux de l'Etat de résidence ou aux ressortissants de la nation la plus favorisée.\n\nARTICLE VI.\n\nLes sociétés de caractère économique de toute nature, civiles, industrielles,\n\nfinancières et d'assurances, constituées\n\nconformément à la législation\n\nde l'une des Hautes Parties Contrac- par l'autre comme\n\nexistant régulièrement,\n\nsous réserve que rien\n\nou leur objet ne soit\n\ncontraire à l'ordre public sur le territoire de cette dernière Partie.\n\nEn ce qui concerne leur capacité et le droit d'ester en",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "5\n\njustice, comme en ce qui concerne leur constitution, elles seront traitées d'après leur loi nationale.\n\nainsi que leurs filiales, succursales\n\net agences, à s'établir sur le territoire de l'autre pays et, sous la\n\nconformer aux lois de ce pays, à y exercer leur\n\nindustrie et tous les droits reconnus aux personnes physiques par les dispositions du présent Traité.\n\nLes Sociétés ainsi que leurs succursales et agences ne\n\nseront\n\npas soumises sur le territoire des Hautes Parties Contractantes des droits, taxes,\n\nimpôts et contributions, sous quelque dénomina-\n\ntion que ce soit et sans égard pour le compte de qui ils sont perçus, autres ou plus élevés que ceux supportés par les sociétés du pays.\n\nEn ce qui concerne les impôts calculés sur le capital, les revenus ou bénéfices, les\n\nsociétés, leurs filiales, succursales\n\nagences ne seront taxées dans ce pays, selon la nature des impôts, qu'à raison de la part d'actif qui y est investie, des biens qu'elles y possèdent,\n\ndes titres qui y circulent, des bénéfices qu'elles y\n\nréalisent ou des affaires qu'elles y font.\n\nLes dispositions du présent Article s'appliqueront aux établis- sements industriels ou commerciaux appartenant à des particuliers.\n\nARTICLE VII.\n\nLes ressortissants de chacune des Hautes Parties Contrac- tantes jouiront, dans les territoires de l'autre, d'une parfaite égalité de traitement\n\navec les nationaux de l'Etat\n\nde résidence et avec\n\nles ressortissants de la nation la plus favorisée, en tout ce qui concerne les taxes de transit, l'entreposage, les facilités, l'examen et l'évaluation des marchandises et des drawbacks.\n\nARTICLE VIII.\n\nde pilotage, de phare,\n\nde quarantaine\n\nsoit ou de quelque dénomination que\n\nce soit prélevée\n\nau nom du Gouvernement,\n\ndes fonctionnaires\n\npublics, des personnes\n\nprivées, des corporations\n\nou établissements\n\nports des territoires de chacun des Pays aux\n\nvaisseaux de l'autre",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "Pays qui ne serait\n\npas également et\n\ndans les mêmes conditions\n\nimposée dans des cas similaires sur les vaisseaux d'une tierce puissance.\n\nCette égalité de traitement s'appliquera réciproquement aux vaisseaux respectifs, quel que\n\nsoit le port ou le lieu d'où ils arrivent et\n\nquel que soit le lieu de leur destination.\n\nARTICLE IX.\n\nIl est convenu que les tarifs douaniers applicables aux produits naturels ou fabriqués de chacune des Hautes Parties Contractantes importés sur le territoire de l'autre seront\n\nrèglementés par les\n\n• lois intérieures du pays d'importation.\n\nChacune des Hautes Parties Contractantes s'oblige, en tout ce qui concerne le montant et la perception\n\ndouaniers\n\net des taxes sur les importations et les exportations de tout genre, à accorder aux ressortissants, vaisseaux ou marchandises de l'autre, le bénéfice de toute faveur, privilège ou immunité qu'Elle accorde ou pourra accorder par la suite aux ressortissants,\n\nou\n\nmarchandises de tout autre Etat, sans considérer si\n\ncet autre Etat\n\naura bénéficié de ce traitement à titre gratuit\n\nretour de\n\ncompensations réciproques.\n\nARTICLE X.\n\nEn ce qui\n\nconcerne la protection de la propriété industri-\n\nelle, l'enregistrement international des marques\n\nde fabrique ou de\n\ncommerce, les noms commerciaux, les dessins, la\n\nrépression des\n\nfausses indications de provenance sur les marchandises et la pro- des œuvres littéraires et artistiques, chacune des Hautes Parties Contractantes jouiront sur le territoire de l'autre Partie de la même protection que les nationaux.\n\nARTICLE XI.\n\nChacune des Hautes\n\nParties Contractantes\n\npermettra\n\nsous\n\nréserve des dispositions de l'Article IV, l'importation ou l'exportation de toute marchandise qui peut légalement être importée ou exportée, et également le transport des voyageurs venant de leurs territoires respectifs ou s'y rendant, sur les vaisseaux de l'autre; ces vaisseaux, leurs cargaisons et leurs passagers jouiront des mêmes\n\nprivilèges\n\nque les vaisseaux de la nation la plus favorisée, leurs cargaisons et leurs passagers et ils ne\n\nseront pas soumis à d'autres taxes ou à\n\ndes taxes plus élevées.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "7\n\nLes ressortissants de chacune des Hautes Parties Contractantes jouiront aussi du même traitement pour le transport par chemins de fer de leurs personnes, de leurs effets et de leurs marchandises.\n\nARTICLE XII.\n\nLes Hautes Parties Contractantes appliqueront dans leurs relations réciproques les dispositions de la Convention et du Statut de Genève du 9 Décembre 1923 sur le Régime international des\n\nPorts maritimes, y compris ses Annexes et Protocole.\n\nLa nationalité des navires\n\nreconnue\n\nar les Hautes\n\narties Contractantes, conformément aux lois et règlements de cha- cune d'Elles et sera constatée d'après les documents et patentes se trouvant à bord et établis par les autorités compétentes.\n\nARTICLE XIII.\n\nTout navire de l'une des Hautes Parties Contractantes, qui contraint par la\n\ntempête ou par tout autre cas de force\n\nmajeure à chercher refuge dans un port de l'autre Partie, sera libre de s'y faire réparer, de s'y procurer tous les approvisionne- ments nécessaires et de reprendre la mer, sans payer d'autres droits que ceux dont devraient s'acquitter, dans les mêmes circon- stances, les navires nationaux.\n\nToutefois, dans le cas où le capi-\n\ntaine d'un navire de commerce se trouverait dans la nécessité, pour s'acquitter des dépenses\n\nfaites à cette occasion,\n\ntout ou partie de sa cargaison, il sera tenu de se\n\nconformer aux\n\nrèglements et aux tarifs en vigueur dans le lieu où il a dû s'arrêter.\n\nAu cas où un navire de l'une des Hautes Parties Contrac- tantes viendrait à s'échouer ou à faire naufrage sur les côtes de lautre Partie, les\n\nautorités locales devront\n\nimmédiatement en\n\naviser l'Officier consulaire de la Partie intéressée, dans la circon- scription duquel a eu lieu l'évènement, ou son Officier consulaire le plus proche\n\net veiller à ce\n\nque le navire reçoive secours et\n\nassistance.\n\nCe navire échoué ou naufragé, tous ses débris ou\n\naccessoires,\n\ntoutes fournitures lui appartenant et tous les effets et marchandises qui en seront sauvés, y compris toutes choses qui auront été jetées mer, ou le produit desdits objets en cas de vente, ainsi que tous les papiers trouvés\n\nà bord, seront remis à leurs propriétaires\n\nou aux représentants de ces derniers sur la demande qu'ils en",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "8\n\nferont.\n\nSi ces propriétaires ou leurs représentants ne\n\ntrouvent\n\npas sur les lieux, le reliquat des biens énumérés ci-dessus ou du produit de leur vente, après paiement\n\nde sauvetage,\n\nde conservation et de vente, et les papiers trouvés\n\nà bord seront\n\nremis à l'Officier consulaire compétent de\n\ncelle des Hautes Parties\n\nContractantes à laquelle appartient le navire échoué ou naufragé, à condition que cet Officier consulaire\n\nen fasse la demande dans\n\nle délai fixé par les lois, ordonnances et règlements du pays où a eu lieu le naufrage ou l'échouement.\n\nEn tout cas, cet Officier\n\nconsulaire, ces propriétaires ou leurs représentants acquitteront seu- lement les dépenses\n\nengagées pour la conservation de la propriété,\n\nainsi que les frais\n\noccasionnés\n\npar les opérations de sauvetage et\n\ntous autres qu'auraient payés en pareil cas les navires nationaux.\n\nLes biens et\n\nles marchandises sauvés du naufrage ou de\n\nl'échouement seront exempts de tous\n\ndroits de douane, à moins\n\nque ces biens et marchandises ne soient livrés à la consommation intérieure, auquel cas ils acquitteront les droits ordinaires.\n\nEn cas de refuge, de naufrage ou d'échouement, l'Officier consulaire de l'Etat auquel appartient le navire en cause sera, en l'absence des propriétaires ou de leurs représentants, ou, si ceux-ci sont présents, sur leur requête, autorisé\n\nà intervenir en vue\n\nsurer les secours nécessaires aux ressortissants de cet Etat.\n\nARTICLE XIV.\n\nLes bâtiments de guerre de chacune des Hautes Parties\n\nContractantes pourront entrer, séjourner et procéder à des répara- tions dans tous les ports et autres lieux dépendant de l'autre\n\nPartie, où il est donné accès\n\naux bâtiments de guerre de toute\n\nautre nation. Ils y seront soumis aux mêmes règlements et joui- ront des mêmes honneurs, avantages, privilèges et immunités ceux qui\n\nactuellement\n\nou qui pourront ultérieurement être\n\naccordés aux bâtiments de guerre de toute autre nation.\n\nARTICLE XV.\n\nLes Officiers consulaires de chacune des Hautes Parties Contrac- tantes seront chargés exclusivement du maintien de l'ordre intérieur à bord des navires marchands de leur nation.\n\nIls règleront eux-mêmes\n\nles contestations de toute\n\nnature qui surviendraient entre le capi-\n\ntaine, les officiers du navire et les matelots et, spécialement, celles relatives à l'accomplissement du contrat d'engagement. Les au-",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "9\n\ntorités locales ne pourront intervenir que lorsque les désordres survenus à bord des\n\nnavires seront de nature à troubler la tran-\n\nquillité et l'ordre public, à terre ou dans le port, ou quand une personne du pays ou ne faisant pas partie de l'équipage s'y trouvera\n\nDans tous les autres cas, les autorités locales se borneront à prêter leur appui à l'autorité consulaire pour faire\n\narrêter tout\n\nmarin inscrit sur le rôle d'équipage contre qui elle jugerait con- venable de requérir cette mesure.\n\nLes Officiers\n\nconsulaires\n\nde chacune des Hautes Parties\n\nContractantes pourront faire arrêter et renvoyer\n\nsoit à bord, soit\n\ndans leur patrie, les marins ou toute autre personne faisant partie, à quelque titre que ce\n\néquipages des navires de guerre\n\nde leur nation, qui auraient déserté sur le territoire de l'autre Partie.\n\nA cet effet, ils devront s'adresser par écrit aux autorités locales compétentes et justifier, en produisant les registres du bâti- ment ou le rôle d'équipage\n\nou, à défaut de ces documents, un\n\nextrait authentique, que les personnes réclamées faisaient réellement partie de l'équipage.\n\ncette demande ainsi justifiée, la remise des déserteurs\n\nne pourra être refusée.\n\nOn donnera, en outre, auxdits Officiers consulaires tout se- cours et toute assistance pour la recherche et l'arrestation de ces déserteurs, qui seront conduits dans les prisons du pays et y seront détenus à la demande écrite et aux frais\n\nde lautorité\n\nconsulaire\n\njusqu'au moment où ils seront réintégrés à bord, ou jusqu'à ce qu'une occasion\n\nse présente\n\nde les rapatrier.\n\nSi toutefois cette\n\noccasion ne se présentait pas dans le délai de deux mois, à compter du jour de l'arrestation,\n\nou si les frais de leur détention n'étaient\n\npas régulièrement acquittés, moyennant un avis donné à l'Officier consulaire trois jours à l'avance, lesdits déserteurs seront remis en liberté sans qu'ils puissent être arrêtés à nouveau pour la même cause.\n\nSi le déserteur\n\na commis quelque crime ou\n\ndélit à terre,\n\nl'autorité locale pourra\n\nsurseoir à la remise jusqu'à ce que les\n\ntribunaux aient rendu leur sentence et que celle-ci ait reçu pleine et entière exécution.\n\nARTICLE XVI.\n\nChacune des Hautes Parties Contractantes aura la faculté d'établir des Consuls généraux, Consuls, Vice-Consuls et Agents",
+      "quality_score": 0.9985,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "10\n\nconsulaires dans les villes et les ports de l'autre Partie où cela lui paraîtra utile, et où les Officiers consulaires d'autres puissances pourraient être autorisés à résider.\n\nLes chefs de Consulats généraux, Consulats, Vice-Consulats et Agences consulaires sur la présentation\n\nde leurs provisions,\n\nseront admis et reconnus selon les règles et formalités établies dans le pays de leur résidence.\n\nL'exequatur\n\nnécessaire pour le\n\nlibre exercice des fonctions desdits agents leur retard et sans frais.\n\nSous condition de réciprocité ils exerceront tous les pouvoirs et attributions\n\njouiront de tous les honneurs, privilèges,\n\nexemptions et immunités qui sont généralement admis par le Droit\n\nInternational ou qui seront accordés par ledit Gouvernement aux\n\nOfficiers consulaires de la nation la plus favorisée.\n\nARTICLE XVII.\n\nEn cas de décès d'un ressortissant de l'une des Hautes\n\nParties Contractantes dans les territoires de l'autre, si le défunt ne laisse dans le pays où il est décédé ni héritier connu ni teur testamentaire nommé par lui les autorités locales compétentes devront immédiatement donner avis de son décès à l'Officier consu- laire de l'Etat dont le défunt est ressortissant, dans la circonscription duquel le décès a eu lieu. A la demande des Officiers consulaires intéressés, l'autorité locale compétente complétera ledit avis par la remise d'une expédition, en due forme et sans frais, de l'acte de\n\nSi, après décès, un ressortissant français laisse des biens au Siam, ou si un sujet siamois laisse des biens en France,\n\net\n\nque les ayants-droit à la succession, ou certains d'entre eux, soient inconnus, ou\n\nsoient absents ou incapables et non représentés, les\n\nOfficiers consulaires intéressés auront le droit de requérir l'apposition ainsi que la levée des scellés sur tous meubles, effets et\n\npapiers\n\ndu défunt et d'assister à l'accomplissement de cette formalité.\n\nIls\n\nveilleront à ce que l'autorité compétente recherche s'il y a un testament et ils recevront\n\ncommunication\n\nde tous renseignements\n\net documents qui leur permettront de retrouver les ayants-droit.\n\nIls pourront, conformément aux lois de leurs\n\npays respectifs et\n\ndans la mesure où la législation locale le permet, procéder eux- mêmes à la liquidation de la succession,\n\nou nommer un adminis-\n\ntrateur pour y procéder. Dans tous les cas où quelque contestation",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "11\n\nsoulevée, il\n\nsera statué\n\nsur celle-ci par les tribunaux com-\n\npétents du pays où les biens sont situés.\n\nL'intervention consulaire\n\nne sera plus admise dès qu'il aura été constaté\n\nqu'il n'y a pas\n\nd'ayants-droit de la nationalité de l'Officier consulaire.\n\nLorsque\n\nressortissants de l'une des Hautes\n\nParties\n\nContractantes, absents ou\n\nincapables et non représentés,\n\nseront\n\nintéressés dans une succession ouverte sur le territoire de l'autre\n\nPartie, les Officiers consulaires intéressés, si le défunt n'est pas leur ressortissant, auront qualité pour requérir l'apposition des scellés sur tous meubles, effets, papiers du défunt, pour assister à l'inventaire et pour provoquer la nomination par l'autorité locale compétente d'un administrateur de la succession, qui\n\nsera choisi\n\nsur leur présentation parmi les\n\npersonnes désignées par la loi ou\n\npar l'usage pour\n\nremplir cette fonction.\n\nIls auront le droit de\n\ncet administrateur\n\ncommuniquer tous renseigne-\n\nments concernant la liquidation de la succession.\n\nLeur intervention\n\nsera plus\n\nadmise dès\n\ntous les ayants-droit de même\n\nnationalité qu'eux seront présents ou représentés.\n\nLorsque les ressortissants de l'une ou de l'autre des Hautes\n\nParties Contractantes seront intéressés dans la succession d'un national d'une tierce puissance, les stipulations de l'alinéa précédent ne pourront porter atteinte aux droits reconnus par le Gouvernement local aux Officiers consulaires de l'Etat auquel appartenait le défunt.\n\nARTICLE XVIII.\n\nIl est entendu par les Hautes Parties Contractantes que les stipulations du présent Traité n'affectent, ne remplacent\n\nne\n\nmodifient en aucune manière les lois, ordonnances et règlements concernant le commerce, la naturalisation, l'immigration, le séjour et l'admission au travail et à l'artisanat des étrangers, la police et la sécurité publique qui\n\nsont en vigueur ou qui pourront être\n\nédictés dans chacun\n\ndes deux Pays pourvu qu'ils ne constituent de discrimination particulièrement dirigée contre\n\nles ressortissants de l'autre Partie.\n\nARTICLE XIX.\n\nSont exemptés des dispositions des Articles IX, XI et XII et demeurent exclusivement régis par la législation nationale :\n\n1° le cabotage\n\nnational :",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "12\n\n2°) l'exercice de la pêche et de la chasse des animaux de mer dans les eaux territoriales et les avantages particuliers dont les produits de la péche nationale sont ou seront l'objet ;\n\n3?) les avantages que chacune des Hautes Parties Con- tractantes accorde ou pourrait accorder à ses ressortissants en vue de favoriser le développement de sa marine marchande à titre, soit de primes ou de subventions pour la construction ou l'acqui- sition de navires de commerce, soit de primes ou engagements quelconques à la marine marchande ;\n\n40) le service maritime des ports, des rades et des plages, y compris le pilotage, le remorquage et l'organisation des services de sauvetage et d'assistance maritime ;\n\n59 a) le trafic entre la France et la Tunisie, la France et les colonies françaises, ces colonies entre elles et avec la Tunisie;\n\ntoutefois, pour ces trafics, les navires siamois jouiront du traitement de la nation la plus favorisée ;\n\nb) les avantages particuliers qui seraient accordés en\n\nmatière de navigation en France, en Tunisie et dans les colonies françaises, aux transports en provenance du Maroc et des Pays sous mandat.\n\nLes dispositions du présent Traité relatives au traitement de la nation la plus favorisée ne s'appliqueront pas:\n\n|. aux avantages accordés ou qui pourraient être accordés à un Etat limitrophe pour faciliter le trafic frontalier ;\n\n2. aux avantages accordés ou qui pourraient être accordés à un Etat tiers, en vertu d'une union douanière;\n\n3. aux avantages accordés ou qui pourraient être accordés en raison d'accords particuliers, à un Etat tiers, en vue d'éviter les cas de double imposition ou d'assurer une protection récipro- que en matiere fiscale ;\n\n: . !\n\n4. aux avantages accordés ou qui pourraient être accordés à un Etat limitrophe en ce qui concerne la navigation sur des voies d'eau frontières sans communication avec la mer ou à leur utilisation.",
+      "quality_score": 0.9705,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "13\n\nARTICLE XXI.\n\nonformement aux principes énoncés dans le Pacte de\n\nSociété des\n\nations les Hautes Parties Contractante\n\nconviennent\n\nd'appliquer les dispositions\n\nde l'Acte général pour le règlement\n\npacifique des différends internationaux, adopté le 26 Septembre 1928 par l'Assemblée de la Société des Nations, au règlement des questions litigieuses qui surgiraient entre Elles dans l'avenir et qui ne pourraient être résolues par la voie diplomatique.\n\nARTICLE XXII.\n\nLe présent Traité sera, à partir de la date de sa mise en vigueur, substitué au Traité d'Amitié, de Commerce et de Navigation\n\nIl annulera, en outre, à\n\ndater du même jour, les autres Traités, Conventions et Arrange- ments passés entre le Siam et la France, exception faite toutefois des clauses relatives à la définition et à la délimitation des fron- tières à leur garantie et à la démilitarisation\n\nde la frontière du\n\nMékong (contenues dans le Traité du 3 Octobre 1893, la Convention du 13 Février 1904, le Traité du 23 Mars 1907 et son Protocole annexe et le Traité du 14 Février 1925) ainsi que de la Convention relative à l'Indochine, signée à Bangkok le 25 Août 1926, et des\n\nArrangements prévus par elle. Il est entendu d'ailleurs que le présent\n\nTraité sera,\n\nà dater de sa mise en vigueur, substitué au Traité\n\ndu 14 Février 1925\n\nen ce qui concerne les relations du Siam et\n\nde l'Indochine, dans la mesure où ses dispositions ne seront pas incompatibles avec celles de la Convention dont il s'agit et des\n\nArrangements\n\nprévus par elle.\n\nes dispositions du présent lraité pourront être ultérieure ent etendues en tout ou en partie aux Colonies et Possession françaises ainsi qu'aux Pays placés sous le Protectorat ou le Mandat de la France par une déclaration concertée entre les deux\n\nGouvernements.\n\nARTICLE XXIII.\n\ndes ratifications et restera e présent Traité produira seur pendant our de l'échange cinq ans à partir de cette date.\n\nDans le\n\naucune des Hautes Parties Contractantes douze mois avant l'expiration des dites cinq années,\n\nson intention d'y mettre fin, le présent Traité continuera",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 18,
+      "text": "14\n\nobligatoire jusqu'à l'expiration d'une année à partir du jour où l'une ou l'autre des Hautes Parties Contractantes l'aura dénoncé.\n\nCette dénonciation ne saurait avoir pour effet de faire revivre aucun des Traités, Conventions, Arrangements ou Accords abrogés par le présent Traité.\n\nARTICLE XXIV.\n\nLe présent Traité sera ratifié et les ratifications en seront échangées à Bangkok dans le plus bref délai possible.\n\nEN FOI DE QUOI, les Plénipotentiaires respectifs ont signé le présent Traité et y ont apposé leurs cachets.\n\nFAIT en double, en français, à Bangkok, le septième jour du neuvième mois de la deux mille quatre cent quatre-vingtième année de l'ére bouddhique, correspondant au septiéme jour du mois de Décembre de la mil neuf cent trente-septième année de l'ère chrétienne.\n\nET) Luang Tradist Manudharm (L.S) G. Georges- Picot",
+      "quality_score": 0.9689,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 19,
+      "text": "PROTOCOLE\n\nAu moment de\n\nprocéder ce jourd'hui à la signature du\n\nnouveau Traité d'Amitié, de Commerce et de Navigation, conclu entre le ROYAUME DE SIAM et la RÉPUBLIQUE FRANÇAISE, les Plénipoten- tiaires des deux Hautes Parties Contractantes conviennent de ce qui suit :\n\nI\n\nAd Article Il alinéa 2.\n\n\" employés à la\n\npremière digme de raine 2 de ricenl se rapportent au raite- ment de la nation la plus favorisée comme à l'obligation de se con- former aux lois du pays et à l'effet des dispositions de l'Article XVIII.\n\nAd Article XII paragraphe 2.\n\nPour l'application de l'Article 9 du Statut de Genève, les\n\nHautes Parties Contractantes conviennent que les navires de chacun des Pays pourront se rendre dans un ou plusieurs ports de l'autre qui sont ou seront ouverts à la navigation et au commerce exté- rieurs, soit pour débarquer tout ou partie de leurs passagers de leur cargaison en provenance de l'étranger, soit pour y embarquer tout ou partie de leurs passagers ou de leur cargaison à destina- tion de l'étranger.\n\nAd Articles XI et XII.\n\nLes stipulations de la Convention et du Statut de Genève du 9 Décembre 1923 sur le Régime international des Ports mari- times n'étant pas applicables aux Colonies\n\net Possessions françaises\n\nainsi qu'aux Pays placés sous le Protectorat\n\nou le Mandat de la\n\nFrance, il est entendu que pour ce qui est de l'application en\n\nIndochine et éventuellement dans les autres territoires d'Outre-Mer des stipulations des Articles XI et XII du présent Traité et du transport des émigrants les navires siamois bénéficieront du traite- ment de la nation la plus favorisée.\n\nIV\n\nLe présent Protocole entrera en vigueur le jour de l'échange ratifications\n\ndu Traité auquel il est annexé.\n\nEN FOI DE QUOI, les Plénipotentiaires respectifs\n\nont\n\nsigné le présent Protocole et y ont apposé leurs cachets.\n\nFAIT en double, en français, à Bangkok, le septième jour\n\nquatre-vingtième\n\nannée de l'ère bouddhique, correspondant au septième jour du mois de\n\nDécembre de la mil neuf cent trente-septième année de l'ère chrétienne.\n\n(L.S.) Luang Pradist Manudbarm (L.S.) G. Georges - Picot",
+      "quality_score": 0.9909,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 20,
+      "text": "และโดยที่สนธิสัญญา และโปรโตคลนั้น ได้รับความเห็น เราได้คุสหริสัญญา และโปริโตคลที่ว่านี้ และได้พิจารณา และเห็นเป็นที่พอใจแล้ว จึ่งรับรอง เห็นชอบด้วย และสัตยาบัน\n\nพระราชสัญการสำหรับไผ่นสิน ไว้ในหนังสือนี้ ที่ กรุงเทพมหานคร นะ วันที่ ส มีนาคม พุทธศักราช์ สมงพันสิ่ร้อยแปดสิบ เป็นปีที่สีในรัชกาลปัจจุบัน.\n\nผู้รับสนลงพระนมราชิโองการ พ.จ.พระฯ ทานผลพอหเร็น\n\nนายกรฐมนรี.",
+      "quality_score": 0.7647,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "th"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "Original\n\nON\n\nAN\n\n510 N\n\nIN THE NAME OF HIS MAJESTY KING ANANDA MAHIDOL\n\nTHE COUNCIL OF REGENCY\n\n(By Notification of the President of the Assembly of the People's Representatives dated 4th August\n\nB.E. 2480)\n\n(Signature) ADITYA DIBABHA (Signature) GENERAL CHAO PHYA BIJAYENDRA\n\nYODHIN\n\nBy these Presents make known that\n\nWhereas a Treaty of Friendship, Commerce and Navigation between Siam and France, together with a Protocol, was concluded and signed at\n\nBangkok on the seventh day of December in the year of Our lord the Buddha two thousand four hundred and eighty, corresponding to one thousand nine hundred and thirty seventh year of\n\nthe\n\nChristian Era, which Treaty and Protocol being word for word\n\nas follows:-",
+      "quality_score": 0.9999,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 22,
+      "text": "And whereas the said Treaty and Protocol\n\nhave received the approval of the Assembly of the\n\nPeople's Representatives.\n\nVie, having seen, considered and found the\n\nabove Treaty and Protocol agreeable, do hereby approve, confirm and ratify the said Treaty and\n\nProtocol, promising to have them executed and ob- served according to their form and tenour without so far as it lies in Our power, allowing any con- travention of any kind or manner whatsoever.\n\nIn proof whereof, we have signed these\n\nPresents and affixed hereunto the Great Seal of the Kingdom at Bangkok on the fourth day of March in the year of Our Lord the Buddha two thousand four hundred and eighty, being the Fourth Year of the Present Reign.\n\n(Counter-Signature) COLONEL PHYA PHAHOL PHOL-\n\nPHAYUHA-SEN A\n\nPresident of the Council.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19510061_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.443064,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640081_005",
+      "title": "Instrument de ratification iranien",
+      "score": 0.437794,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_42_s1",
+      "title": "Instrument de ratification de la Thaïlande",
+      "score": 0.434953,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_001_s1",
+      "title": "Accord",
+      "score": 0.428166,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_001_s1",
+      "title": "Traité",
+      "score": 0.426888,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230004_001_s1",
+      "title": "Convention",
+      "score": 0.426622,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19220022_005_s1",
+      "title": "Instrument estonien",
+      "score": 0.426604,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230005_001_s1",
+      "title": "Convention",
+      "score": 0.423938,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220148_001_s1",
+      "title": "Accord",
+      "score": 0.420466,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220147_001a_s1",
+      "title": "Accord",
+      "score": 0.420466,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19810111_004_s1",
+  "title": "Lettre constituant instrument d'approbation",
+  "year": 1981,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8626,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "D A A A - - A, . le 16 Juin 1983. Monstsur le Mintetre, Me référant à L'artiole 11 de L'Aaocord antre le Gouvernement de la République frangatse at le Gouvernement de la République Fédérale d'Allemagne au sujet du recouvrement ou du recouvrement foraê de ceotiasattons de sécurité soatale, signé à Parts le 838 Nat 1981, jJ'’at L'honneur de voua fatre savotr que les prooċdures requises par la Constitutton de la Républ…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810111_004_s1.pdf",
+  "source_filename": "tra19810111_004_s1.pdf",
+  "source_sha256": "440b91ab000b7ba13fc6e9d2219d2ad96485673e50d2099ed0c30d756fbe83a6",
+  "treaty_id": "TRA19810111",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "D A A\n\nA - - A, .\n\nle 16 Juin 1983.\n\nMonstsur le Mintetre,\n\nMe référant à L'artiole 11 de L'Aaocord antre le\n\nGouvernement de la République frangatse at le Gouvernement de la République Fédérale d'Allemagne au sujet du recouvrement ou du recouvrement foraê de ceotiasattons de sécurité soatale, signé à Parts le 838 Nat 1981, jJ'’at L'honneur de voua fatre savotr que les prooċdures requises par la Constitutton de la République pour L'entrée en vigueur dudit Aacord ont čté acoompltes.\n\nLa présente Lattre constitue la nottiftoatton prévue\n\npar la disposition précitée,\n\nJe vous serate reconnatasant de bten vouloir m'in-\n\nformer de la date à laquelle oeslle-ot vous sera parvenus, /.\n\nJa vous prte, Monsieur Le Mintetra, d'agréer l'ez-\n\npression de ma kaute oonstdédatton.\n\nPOUR COPIE CERTIFIEE CONFORME A L'ORIGINAL\n\nFAIT à PARIS, le 16 Juin 1983.\n\nA fon Ezoellence\n\nMonsteur Hans-Dtetrioh GENSCRER\n\nVtae-Chanoelter .\n\nMinietre dae Affatres Etrangères",
+      "quality_score": 0.8626,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19810140_004_s1",
+      "title": "Instrument français",
+      "score": 0.414731,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810111_005_s1",
+      "title": "Lettre notifiant de l'accomplissement des procédures internes",
+      "score": 0.406189,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.40321,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.402145,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.397689,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.397048,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.396772,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.390724,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.390253,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.388199,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

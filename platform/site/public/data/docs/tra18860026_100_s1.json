@@ -1,0 +1,55 @@
+{
+  "document_id": "tra18860026_100_s1",
+  "title": "Ancienne fiche AR de récolement",
+  "year": 1886,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8921,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "COMORER- 21 avil 1886 litre: avic Trak d'amiki it di protechorch l sultan d'Anjman Annexes: Lieu de signature: Moussa Moudon Ratifications françaises: Ratifications: P.V. d'échange: cotes: Cor i dachylagolis cartfice coforma pa le 1. Is Colone Modifications: Canton afrique",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18860026_100_s1.pdf",
+  "source_filename": "tra18860026_100_s1.pdf",
+  "source_sha256": "f5ee133b5e04bd2775fa875627a2343ffa3df9cc6f556cababc24f7a52779a27",
+  "treaty_id": "TRA18860026",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "COMORER-\n\n21 avil 1886\n\nlitre:\n\navic\n\nTrak d'amiki it di protechorch l sultan d'Anjman\n\nAnnexes:\n\nLieu de signature: Moussa Moudon\n\nRatifications françaises:\n\nRatifications:\n\nP.V. d'échange:\n\ncotes: Cor i dachylagolis\n\ncartfice coforma pa le 1. Is Colone\n\nModifications:\n\nCanton afrique",
+      "quality_score": 0.8921,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18860025_100_s1",
+      "title": "Ancienne fiche AR de récolement",
+      "score": 0.384682,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

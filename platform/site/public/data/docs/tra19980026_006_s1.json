@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19980026_006_s1",
+  "title": "Accusé de réception maltais de l'instrument français : cf. 2ème paragraphe de la pièce /005 (notice-pièce /005)",
+  "year": 1998,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9628,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTERU TAIL-AFFARUIET BARRANIN U TA L-AMBUENT MINISTRY OE FOREIGN AFFAIRS AND THE ENVIRONMENT I-Vic Prim Minisee The Depwy Prime Minisier Excellency, I, George W. Vella, Deputy Prime Minister and Minister of Foreign Affairs and the Environment of the Republic of Malta, hereby confirm that the required constitutional procedures have now been completed, in accordance with Article 12 of the Agreement on Co-operation…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19980026_006_s1.pdf",
+  "source_filename": "tra19980026_006_s1.pdf",
+  "source_sha256": "d501940e9bad660197910ebdf70bdea3c9faf155f829da6d67f14fa5aaa0919e",
+  "treaty_id": "TRA19980026",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTERU\n\nTAIL-AFFARUIET BARRANIN\n\nU TA L-AMBUENT\n\nMINISTRY\n\nOE FOREIGN AFFAIRS\n\nAND THE ENVIRONMENT\n\nI-Vic Prim Minisee\n\nThe Depwy Prime Minisier\n\nExcellency,\n\nI, George W. Vella, Deputy Prime Minister and Minister of Foreign Affairs and the\n\nEnvironment of the Republic of Malta, hereby confirm that the required constitutional procedures have now been completed, in accordance with Article 12 of the Agreement on\n\nCo-operation in Internal Matters between the Government of the Republic of Malta and the Government of the Republic of France signed in Paris on 9* March 1998.\n\nYour letter dated 2° June 1998 and this reply thereto constitute the completion of exchange of instruments of ratification. The Agreement will enter into force on the first day of the month following the receipt of this Note.\n\nSigned and sealed with the Seal of the Ministry of Foreign Alfairs and the Environment in Vallerta, Malta, this 2 6 day of\n\na me one thousand mine hundred and ninety eight.\n\ncollele\n\nGeorge W. Vella\n\nHis Excellency\n\nMr. Hubert Vedrine\n\nMinister of Foreign Affairs\n\nParis",
+      "quality_score": 0.9628,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19980026_005_s1",
+      "title": "Instrument maltais ET Accusé de réception maltais de l'instrument français",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.415129,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_005_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.391539,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr008_s1",
+      "title": "Extension de l'adhésion aux Bahamas",
+      "score": 0.391089,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_067_s1",
+      "title": "Notification de l'adhésion de la Jordanie aux Etats-membres",
+      "score": 0.383821,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19980026_007_s1",
+      "title": "Date de réception français de l'instrument maltais",
+      "score": 0.38031,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.377901,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_004_s1",
+      "title": "Instrument français",
+      "score": 0.377697,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slb001_s1",
+      "title": "Notification de non-succession",
+      "score": 0.377124,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_006_s1",
+      "title": "Note accusant réception de l'approbation française et transmettant l'instrument maltais",
+      "score": 0.376659,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

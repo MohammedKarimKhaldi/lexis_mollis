@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_164_s1",
+  "title": "Note verbale d'adhésion",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9544,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 164 AMBASSADE DES PAYS-BAS 1.101 no. 14.470 MINISTELE DES AFF AFFAIRES ETRONGERES 81 12 JIW 1951) SERICE DE L'UNESCO L'Ambassade Royale des Pays-Bas présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui faire savoir que le Gouverne- ment des Paya-Bas désire adhérer, pour le territotre en Europe, à la Convention concernant les Expositions Internationales aignée à Paria le 22 nov…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_164_s1.pdf",
+  "source_filename": "19280002_164_s1.pdf",
+  "source_sha256": "aaf3637b32eb086cdc882d1f8ca1bcc44b7981faeb70e6b82af1c280049d157f",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "NLD004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 164",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "AMBASSADE\n\nDES PAYS-BAS\n\n1.101 no. 14.470\n\nMINISTELE DES AFF AFFAIRES ETRONGERES\n\n81\n\n12 JIW 1951)\n\nSERICE DE L'UNESCO\n\nL'Ambassade Royale des Pays-Bas présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui faire savoir que le Gouverne- ment des Paya-Bas désire adhérer, pour le territotre en Europe, à la Convention concernant les Expositions\n\nInternationales aignée à Paria le 22 novembre 1928, et depula modifiée par le protocole du 10 mal 1948.\n\nI'Ambassade saurait gré au Minlatère de bien vouloir lul accuser réception de cette adhésion, en lul communiquant les noms des pays faisant partie de ladite convention et du protocole.\n\nElle saisit cette occasion pour lul renouveler les assurances de sa haute considération.\n\nParis, 1e 6 Janvier 1951\n\nNARI9\n\nMiniatère des Affaires Etrangères\n\nPar1g. -",
+      "quality_score": 0.9655,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.867748,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_166_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion des Pays-Bas",
+      "score": 0.848319,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.841179,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_165_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.834037,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_169_s1",
+      "title": "Instrument de ratification",
+      "score": 0.832243,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.813269,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_160_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.809949,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_184_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.752254,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_158_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.741723,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_174_s1",
+      "title": "Pouvoirs pour déposer l'instrument de ratification",
+      "score": 0.738387,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

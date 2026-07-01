@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_371",
+  "title": "Instrument d'adhésion",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9892,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PAYÉ 12 DEC. 2003 Liberré - Egalité • Fracerié RÉPUBLIQUE FRANÇAISE MINISTÈRE DES AFFAIRES ÉTRANGÈRES Direction des Nations Unles & des Organisations Internationales Sous-direction des affaires économiques NUOVE nº2372 28 Sven-Erik SJODEN +33 (0)1 43174659 2 + 33 (0)1 43 17 5558 Paris, le 9 décembre 2003 Monsieur le Directeur Général, J'ai l'honneur de vous faire savoir que, par lettre en date du 6 août 2003, le Min…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_371.pdf",
+  "source_filename": "tra19240002_371.pdf",
+  "source_sha256": "2a8c50c7e5e65a02c0311f7eaa3967e8e2c551f9b2de4c2b6ec4727cd1978725",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "BDI001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PAYÉ 12 DEC. 2003\n\nLiberré - Egalité • Fracerié\n\nRÉPUBLIQUE FRANÇAISE\n\nMINISTÈRE DES AFFAIRES ÉTRANGÈRES\n\nDirection des Nations Unles & des Organisations Internationales\n\nSous-direction des affaires économiques\n\nNUOVE nº2372\n\n28 Sven-Erik SJODEN +33 (0)1 43174659 2 + 33 (0)1 43 17 5558\n\nParis, le 9 décembre 2003\n\nMonsieur le Directeur Général,\n\nJ'ai l'honneur de vous faire savoir que, par lettre en date du 6 août 2003, le Ministre\n\ndes Affaires étrangères de la République de Guinée-Bissau a fait part au gouvernement français de l'intention de son gouvernement d'adhérer à l'Arrangement international portant création de l'Office international des épizooties signé à Paris le 25 janvier 1924.\n\nCette adhésion a pris effet le 7 août 2003.\n\nLa République de Guinée-Bissau a choisi de s'inscrire dans la sixième catégorie des\n\nÉtats membres prévue à l'article 11 des statuts organiques de l'Office.\n\nLes dispositions ont été prises pour la notification de cette adhésion aux États\n\nparties à cet Acte international.\n\nVeuillez agréer, Monsieur le Directeur Général, l'assurance de ma haute\n\nconsidération.\n\nMonsieur Bernard VALLAT\n\nDirecteur Général de l'Office International des Epizooties.\n\n12, rue de Prony 75017 PARIS",
+      "quality_score": 0.9892,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_375",
+      "title": "Notification française à l'OIE",
+      "score": 0.791404,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_510",
+      "title": "Accusé de réception de l'adhésion liechtensteinoise",
+      "score": 0.739812,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_081",
+      "title": "Note verbale des autorités grecques accusant réception de la notification du dépôt de l'instrument de Bahreïn",
+      "score": 0.413899,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_131",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.411801,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_605",
+      "title": "Accusé de réception français de l'adhésion monténégrine",
+      "score": 0.409395,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_287",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument d'adhésion équatorien",
+      "score": 0.399125,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_485",
+      "title": "Accusé de réception de l'instrument du Lesotho",
+      "score": 0.397785,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_370",
+      "title": "Instrument d'adhésion",
+      "score": 0.396891,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_49_s1",
+      "title": "Instrument d'adhésion de la Grèce au protocole",
+      "score": 0.39478,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_031_s1",
+      "title": "Notification aux Etats-membres de l'adhésion du Cameroun",
+      "score": 0.392394,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

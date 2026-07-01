@@ -1,0 +1,129 @@
+{
+  "document_id": "TRA20192733_001_s1",
+  "title": "Déclaration",
+  "year": 2019,
+  "doc_type": "Déclaration",
+  "languages": [
+    "de",
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DECLARATION D'ENTENTE ENTRE LE SECRETARIAT GENERAL DU GOUVERNEMENT DE LA REPUBLIQUE FRANÇAISE ET LE SECRETARIAT GENERAL DU GOUVERNEMENT DU ROYAUME DU MAROC Le Secrétariat général du Gouvernement de la République française et Le Secrétariat général du Gouvernement du Royaume du Maroc ci-après désignés les Signataires, Considérant la Convention de partenariat pour la coopération culturelle et le développement signé en…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20192733_001_s1.pdf",
+  "source_filename": "TRA20192733_001_s1.pdf",
+  "source_sha256": "f84e6a5387eec6f1fabc09e1e8f30c61bd93699417dcee83e690a3477b240f24",
+  "treaty_id": "TRA20192733",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DECLARATION D'ENTENTE\n\nENTRE\n\nLE SECRETARIAT GENERAL DU GOUVERNEMENT DE LA\n\nREPUBLIQUE FRANÇAISE\n\nET\n\nLE SECRETARIAT GENERAL DU GOUVERNEMENT DU\n\nROYAUME DU MAROC",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Le Secrétariat général du Gouvernement de la République française et\n\nLe Secrétariat général du Gouvernement du Royaume du Maroc ci-après désignés les Signataires,\n\nConsidérant la Convention de partenariat pour la coopération culturelle et le développement signé entre le Gouvernement de la République française et le Gouvernement du Royaume du\n\nMaroc le 25 juillet 2003 ;\n\nReconnaissant le rôle du Mémorandum d'entente signé en avril 2009 entre le Secrétariat général du Gouvernement de la République française et le Secrétariat général du\n\nGouvernement du Royaume du Maroc;\n\nSoulignant la richesse de la coopération bilatérale et des relations mutuellement profitables déjà établies entre les deux institutions ;\n\nConsidérant leur volonté commune de consolider et d'élargir leur partenariat d'exception ;\n\nConvaincus de l'utilité de développer de nouveaux échanges et d'élargir leur coopération ;\n\nConfirment, par la présente Déclaration, leur intérêt à consolider leur coopération dans les champs de compétences attribués aux Secrétariat généraux des Gouvernements de la\n\nRépublique française et du Royaume du Maroc.\n\nA cette fin, les Signataires déclarent que ce partenariat portera essentiellement sur les échanges d'expertises méthodologiques en matière de codification, d'élaboration d'études d'impact des projets de textes législatits et réglementaires, de diffusion du droit, de formation et perfectionnement continus des conseillers juridiques du Secrétariat général du\n\nGouvernement du Royaume du Maroc.\n\nLes Signataires marquent également leur souhait de définir d'un commun accord le contenu spécifique et les modalités pratiques de réalisation de leur coopération dans chacun des domaines précités.\n\nFait à Paris, le 19 décembre 2019, en double exemplaire, en langue française.\n\nMaro\n\nGUILLAUME\n\nSecrétaire général du Gouvernement de la République\n\nfrançaise\n\nMohamed HAJOUI -Secrétaire gónéral de Gouvernement du Royaume du\n\nMaroc\n\n2",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20192732_001_s1",
+      "title": "Lettre d'intention",
+      "score": 0.425229,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20080067_001_s1",
+      "title": "Accord",
+      "score": 0.410208,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172416_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.408249,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172406_001_s1",
+      "title": "Déclaration d'intention",
+      "score": 0.404859,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172408_001_s1",
+      "title": "Accord-cadre (ensemble une annexe)",
+      "score": 0.403914,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172410_001_s1",
+      "title": "Accord-cadre (ensemble 2 annexes)",
+      "score": 0.399797,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192640_001_s1",
+      "title": "Déclaration",
+      "score": 0.39963,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172241_001_s1",
+      "title": "Accord (ensemble une annexe)",
+      "score": 0.398912,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "20030103_001_s1",
+      "title": "Convention (ensemble 2 annexes et 2 protocoles administratifs et financiers)",
+      "score": 0.398051,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240045_001_s1",
+      "title": "Plan d'action (ensemble une annexe)",
+      "score": 0.396297,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

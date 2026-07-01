@@ -1,0 +1,144 @@
+{
+  "document_id": "19230012_001_s1",
+  "title": "Protocole",
+  "year": 1923,
+  "doc_type": "Protocole",
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "quality_score": 0.7741,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "LES SOUSSIGNÉS, ayant signé à Lausanne, à la date de ce jour, au nom de leurs Gouvernements respectifs, les Actes ci-après énumérés ou certains d'entre eux, savoir Traité de Paix; Convention concernant le Régime des Détroits; Convention concernant la frontière de Thrace; Convention relative à l'établissement et à la compélence judiciaire; Convention commerciale; Déclaration relative à l'Amnistie et Protocole; Protoc…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230012_001_s1.pdf",
+  "source_filename": "19230012_001_s1.pdf",
+  "source_sha256": "453d81dec684135078eb990d33d675732ecfef67b1b3f0cef142d0a7ba51035c",
+  "treaty_id": "TRA19230012",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LES SOUSSIGNÉS, ayant signé à Lausanne, à la date de ce jour, au nom de leurs Gouvernements respectifs, les Actes ci-après énumérés ou certains d'entre eux, savoir\n\nTraité de Paix;\n\nConvention concernant le Régime des Détroits;\n\nConvention concernant la frontière de Thrace;\n\nConvention relative à l'établissement et à la compélence judiciaire;\n\nConvention commerciale;\n\nDéclaration relative à l'Amnistie et Protocole;\n\nProtocole relatif à certaines concessions accordées dans l'Empire ottoman;\n\nProtocole relatif à l'accession de la Belgique et du Portugal à certaines dispositions d'Actes signés à Lausanne, sont d'accord, chacun en ce qui concerne les Actes dont il est signa- taire, pour reconnaître à l'Etat Serbe-Croate-Slovène la faculté de faire procéder à Paris, par tel ou tels de ses Plénipotentiaires mentionnés dans l'Acte final de la présente Conférence de Lausanne, à la signature de l'ensemble des Actes ci-dessus visés, tant que le Traité de Paix ne sera pas entré en vigueur.\n\nFAIT à Lausanne, le 24 juillet 1923.\n\nHorace Rumbold\n\nOuley.",
+      "quality_score": 0.9826,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "1 gibanane\n\nA Archias\n\nEDeniselos\n\nCour. Alamauly.\n\nlame lady,\n\nD: Reza Otro\n\nFarsans",
+      "quality_score": 0.6746,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Maurof",
+      "quality_score": 0.665,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19250001_01_s1",
+      "title": "Protocole. Contient aussi : protocole de signature",
+      "score": 0.410846,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_436c_s1",
+      "title": "Instrument de ratification italien de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.401448,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230006_001_s1",
+      "title": "Protocole",
+      "score": 0.394742,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230009_001_s1",
+      "title": "Protocole",
+      "score": 0.38799,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_731b_s1",
+      "title": "Instrument de ratification britannique de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.386385,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.38619,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_03_s1",
+      "title": "Épreuve avant tirage définitif (s. d.)",
+      "score": 0.384912,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_630_s1",
+      "title": "Ratification du traité du 10 septembre 1919",
+      "score": 0.383287,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230010_002_s1",
+      "title": "Protocole",
+      "score": 0.382674,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_006_s1",
+      "title": "Procès-Verbal de dépôt des instruments de ratification de l'accord",
+      "score": 0.381302,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

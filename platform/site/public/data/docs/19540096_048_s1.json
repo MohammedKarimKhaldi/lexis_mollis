@@ -1,0 +1,133 @@
+{
+  "document_id": "19540096_048_s1",
+  "title": "Instrument de l'Egypte",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "en",
+    "fr",
+    "id"
+  ],
+  "quality_score": 0.7449,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "t so - N P T Hia. Fi r ; A EE m ' ` wS REE: Y S Pt E TAEE AE t PEET T PAET PET a E A T EE E EEE ERLAR E Te a P P za dF ` i, o A a h a Ss K SAVIE My a S7 F. BERERE Era BETEREN SECETEI rE sa GARE m CA ah h e g ge OTCA NONN UIONE N IDO o at . Ț W k ` ` kl ` Li 9 INSTRUMENI D'ADHESION Conformément aux stipulations de l'Article III alinéa \"C\" de la Convention Internationale relative à l'Institut International du Froid si…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_048_s1.pdf",
+  "source_filename": "19540096_048_s1.pdf",
+  "source_sha256": "5593903774c8bcb4379fe56001d10cab793e1e08f7117d8b149a261e600eda6c",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "275",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "t\n\nso -\n\nN P T Hia. Fi r ; A EE m ' ` wS REE: Y S\n\nPt E TAEE AE t PEET T PAET PET a E A T EE E EEE ERLAR E Te a P P za dF ` i, o A a h a Ss\n\nK SAVIE My a S7 F. BERERE Era BETEREN SECETEI rE sa GARE m CA ah h e g ge OTCA NONN UIONE N IDO o at\n\n. Ț\n\nW\n\nk ` ` kl\n\n`\n\nLi 9",
+      "quality_score": 0.5193,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "en",
+        "id"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "INSTRUMENI D'ADHESION\n\nConformément aux stipulations de l'Article III alinéa \"C\" de la Convention Internationale relative à l'Institut International\n\ndu Froid signée à Paris le ler\n\ndécembre 1954, le Gouvernement\n\nde la République\n\nArabe\n\nUnie a pris la décision par\n\ncet instrument d'adhérer à\n\nla dite Convention.\n\nFait au Caire, le 6 mai 1967.\n\nLe Ministre des Affaires Etrangères\n\nOn. Reed\n\nBAHLOUD RIAD",
+      "quality_score": 0.9705,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19900276_001",
+      "title": "Accord",
+      "score": 0.394336,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_044_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de Cuba",
+      "score": 0.373726,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820089_001_s1",
+      "title": "Convention",
+      "score": 0.372257,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19770374_001_s1",
+      "title": "Texte de l'avenant (ensemble 4 annexes)",
+      "score": 0.369753,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810127_001a_s1",
+      "title": "Convention en français",
+      "score": 0.368414,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_059_s1",
+      "title": "Instrument d'accession de l'Irlande",
+      "score": 0.367455,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930030_001",
+      "title": "Traité",
+      "score": 0.361435,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_060_s1",
+      "title": "accusé de réception par l'Institut international du Froid de l'adhésion d'Israël",
+      "score": 0.360227,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_094_s1",
+      "title": "Notification au MAE de la succession de la Slovaquie à la Tchécoslovaquie",
+      "score": 0.358949,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810127_001b_s1",
+      "title": "Convention en cingalais",
+      "score": 0.358179,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

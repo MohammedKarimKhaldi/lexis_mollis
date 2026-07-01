@@ -1,0 +1,128 @@
+{
+  "document_id": "costa_rica_instrument__bie_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9801,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Luis Alberto Monge Alvarez Presidente de la República de Costa Rica A TODOS LOS QUE LA PRESENTE VIEREN HACE SABER: Que por considerarlo conveniente a los Altos Intereses de la Na_ ción, en uso de las facultades que le confieren la Constitución y las Leyes de la República, ha tenido a bien conferir Plenos PO_. deres al señor Fabio Rosabal Conejo, Encargado de Negocios a.i. de la República de Costa Rica en Francia, pa…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/costa_rica_instrument__bie_s1.pdf",
+  "source_filename": "costa_rica_instrument__bie_s1.pdf",
+  "source_sha256": "061a93dfe0841c85f3595851d13aa05d8b3241436ef79810a9874d4c4d7b63f7",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "CRI001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Luis Alberto Monge Alvarez\n\nPresidente de la República de Costa Rica\n\nA TODOS LOS QUE LA PRESENTE VIEREN HACE SABER:\n\nQue por considerarlo conveniente a los Altos Intereses de la Na_ ción, en uso de las facultades que le confieren la Constitución y las Leyes de la República, ha tenido a bien conferir Plenos PO_.\n\nderes al señor Fabio Rosabal Conejo, Encargado de Negocios a.i.\n\nde la República de Costa Rica en Francia, para que en representa_ ción del Gobierno de Costa Rica, firme ad-referendum El Convenio de París 1928 del Bureau International des Expositions, cuya fir_ ma se llevará a cabo en París, Francia, en el mes de noviembre de 1982.\n\nEN FE DE LO CUAL, se extiende el presente Documento, firmado de Su\n\nMano, refrendado por el Ministro de Relaciones Exteriores y Culto y autorizado con el Sello de la Nación, en la Presidencia de la Re_ pública, San José a los veintiun días del mes de octubre de mil no_ vecientos ochenta у dos.\n\nAvio\n\nFernando Voljo Jiménez\n\nMinistro de Relaciones Exteriores y Culto",
+      "quality_score": 0.9896,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Luis Alberto Monge Aluarez\n\nPresidente de la República de Costa Rica\n\nExcelentísimo Señor Ministro:\n\nTengo el Alto Honor de dirigirme a Vuestra Excelencia con el propó_ sito de comunicarle el deseo del Gobierno de la República de Costa\n\nRica de adherirse al Convenio firmado en París el 22 de noviembre de 1928, y modificado el 30 de noviembre de 1972, relativo a las exposi ciones y, en consecuencia, adquirir la condición de miembro de la O_ ficina Internacional de Exposiciones (Bureau International des Expo_ sitions).\n\nHago propicia la ocasión para reiterarle las muestras de mi más alta consideración y estima.\n\nMutilaria\n\nLUIS ALBERTO MONOF\n\nPresidente de la República\n\nEXCELENTISIMO\n\nCLAUDE CHEYSSON\n\n-MINISTRO DE RELACIONES EXTERIORES\n\nDE FRANCIA.",
+      "quality_score": 0.9705,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.987623,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.479349,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_30_s1",
+      "title": "Lettre constituant instrument d'adhésion",
+      "score": 0.440878,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_13_s1",
+      "title": "Instrument de ratification de l'Argentine",
+      "score": 0.411336,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_mex002_s1",
+      "title": "Pouvoir remis au chargé d'affaires à Paris pour déposer l'instrument d'adhésion",
+      "score": 0.4101,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.40589,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.403264,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.402932,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mex001_s1",
+      "title": "Lettre notifiant l'adhésion",
+      "score": 0.399575,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.397759,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

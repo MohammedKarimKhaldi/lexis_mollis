@@ -1,0 +1,160 @@
+{
+  "document_id": "TRA20192744_001_s1",
+  "title": "Texte du memorandum (Protocole d'accord entre le ministère de l'Europe et des affaires étrangères de la République française et le ministère des affaires étrangères du gouvernement du Népal pour la mise en place d'un mécanisme de consultation bilatérale)",
+  "year": 2019,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "en",
+    "ro"
+  ],
+  "quality_score": 0.754,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "1 TRAUT o a AC AA A e TENAN pA Mime Magt y ng ant MM pini pme et ae Rag tpai i e mear mea epe ta an ` . oe MEMORANDUM OF UNDERSTANDING BETWEEN THE MINISTRY OF EUROPE AND FOREIGN AFFAIRS OF THE REPUBLIC OF FRANCE • AND THE MINISTRY OF FOREIGN AFFAIRS OF THE GOVERNMENT OF NEPAL ON THE ESTABLISHMENT OF A BILATERAL CONSULTATION MECHANISM The Ministry of Europe and Foreign Affairs of the Republic of France and the Minist…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20192744_001_s1.pdf",
+  "source_filename": "TRA20192744_001_s1.pdf",
+  "source_sha256": "16d332da607e4dc7902a93fb55afc72607b039e7cc390e8900ee5ffaa7d1db69",
+  "treaty_id": "TRA20192744",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1\n\nTRAUT o a AC AA A e TENAN pA Mime Magt y ng ant MM pini pme et ae Rag tpai i e mear mea epe ta an ` . oe",
+      "quality_score": 0.5978,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "en",
+        "ro",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "MEMORANDUM OF UNDERSTANDING\n\nBETWEEN\n\nTHE MINISTRY OF EUROPE AND FOREIGN AFFAIRS OF\n\nTHE REPUBLIC OF FRANCE\n\n• AND\n\nTHE MINISTRY OF FOREIGN AFFAIRS OF\n\nTHE GOVERNMENT OF NEPAL\n\nON\n\nTHE ESTABLISHMENT OF A BILATERAL CONSULTATION MECHANISM\n\nThe Ministry of Europe and Foreign Affairs of the Republic of France and the Ministry of\n\nForeign Affairs of the Goverment of Nepal hereafter referred to as the \"Parties\" collectively and 'Party' individually,\n\nBeing desirous of strengthening the existing relations between the two countries,\n\nDetermined to enhance bilateral consultations and exchanges of information in all areas of mutual cooperation,\n\nConvinced that a sincere and constructive dialogue on all aspects of the bilateral relations and on international issues of common interest will contribute to a better mutual understanding to further development of friendly relations berween the two countries,\n\nHave reached the following understanding:\n\nArticle 1\n\na. The objective of this Memorandum of Understanding (MoU) is to establish a bilateral consultations mechanism for the Parties.\n\nb. In order to carry out their consultations, the Parties will hold meetings to review their bilateral relations and to exchange views on regional and international issues of common interest.\n\nArticle 2\n\nThe bilateral consultations meetings shall be held alternatively in Kathmandu and Paris annually at mutually convenient dates determined through diplomatic channels.\n\nArticle 3\n\nThe consultative meetings shall be held at the Foreign Secretary or Director\n\nGeneral/Joint Secretary level.\n\n1",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Article 4\n\nThe agenda of the meeting will be jointly determined in advance through diplomatic\n\n• channels.\n\nArticle 5\n\nThis MoU may be amended upon mutual consent of the Parties.\n\nArticle 6\n\nThis MoU will come into effect on the date of its signature by the Parties and will remain valid for a period of 5 (five) years. It will be automatically extended for consecutive periods of 5 (five) years unless either Party notifies in writing otherwise.\n\nEither Party may terminate this MoU by giving 6 (six) months' prior notice to the other\n\nParty through diplomatic channels.\n\nDone in Kathmandu on 13 December 2019 in two originals, each in English language.\n\nFor\n\nThe Ministry of Europe and Foreign Affairs\n\nThe Republic of France\n\nFrancois- Xavier Leger\n\nAmbassador of France to Nepal\n\nFor\n\nThe Ministry of Foreign Affairs\n\nThe Government of Nepal\n\nPable:\n\nNirmal Raj Kafte\n\nJoint Secretary\n\n2",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "n ` : . -= .",
+      "quality_score": 0.4184,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19970195_001_s1",
+      "title": "Texte de le l'accord",
+      "score": 0.4131,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_001_s1",
+      "title": "Accord",
+      "score": 0.406946,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182650_001_s1",
+      "title": "Texte du plan d'action (ensemble 1 annexe)",
+      "score": 0.405294,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192671_001_s1",
+      "title": "Lettre d'intention",
+      "score": 0.402795,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182434_001_s1",
+      "title": "Texte du memorandum",
+      "score": 0.401365,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20142478_001_s1",
+      "title": "Texte du memorandum",
+      "score": 0.400578,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19950244_s1",
+      "title": "Accord pour l'établissement des textes en langues bosniaque, croate et serbe des annexes à l'accord-cadre général",
+      "score": 0.398933,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182431_001_s1",
+      "title": "Accord",
+      "score": 0.398805,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20142481_001_s1",
+      "title": "Texte du memorandum",
+      "score": 0.397924,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182627_001_s1",
+      "title": "Accord (ensemble 4 annexes)",
+      "score": 0.395617,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

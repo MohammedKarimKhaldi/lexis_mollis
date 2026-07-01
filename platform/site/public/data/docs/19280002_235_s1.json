@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_235_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification soviétique",
+  "year": 1928,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9656,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 235 URSS 上ROCLD - VERBAL DE DEPOT DES RATIFICATIONS DE L'UNION DES REPUBLIQUES SOVIETIQUES-SOCIALISTES SUR LA CONVENTION CONGERNANT LES EXPOSITIONS INTERNATIONALES SIGNEE A PARIS LE 22 NOVEMBRE 1928 CONFORMEMENT aux dispositions finales de la Convention concernant les expositions internationales signée à Paris le 22 Norembre 1928 , 1'Ambassadeur de l'Union des Républiques Soriétiques Socia- listes à Paris s…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_235_s1.pdf",
+  "source_filename": "19280002_235_s1.pdf",
+  "source_sha256": "8d88040894e6e406b5fd2026521e8f2a46f51ab9572a0ecf05ad2d9d270b2609",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SUN003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 235",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "URSS\n\n上ROCLD\n\n- VERBAL DE DEPOT DES RATIFICATIONS DE\n\nL'UNION DES REPUBLIQUES SOVIETIQUES-SOCIALISTES\n\nSUR\n\nLA CONVENTION\n\nCONGERNANT\n\nLES EXPOSITIONS\n\nINTERNATIONALES SIGNEE A PARIS LE 22 NOVEMBRE 1928\n\nCONFORMEMENT aux dispositions finales de la Convention concernant les expositions internationales signée à Paris le 22 Norembre 1928 , 1'Ambassadeur de l'Union des Républiques Soriétiques Socia- listes à Paris s'est présenté aujourd'hui au Ministère des Affaires\n\nEtrangères pour procéder au dépôt des ratifications du Comité\n\nCentral Exécutif de l'Union des Républiques Soriétiques Socialiates sur ledit Accord et les remettre au Gourernement de la République\n\nL'instrunent des ratificationa a été produit et ayant été, après examen, trouré en bonne et due forme, a été confié au Gouvernement de la République Française pour rester déposé dans ses archites.\n\nLe Gourernement françaie donnera avis aux\n\nPuissances contractantes des dépôta des instrunents de ratifications ultérieurement effectués par les\n\nautres Itats signataires .\n\nEN FOI DE QUOI\n\nles soussignés ont dressé le présent\n\nprocès-verbal et y ont apposé leur cachet\n\nFait à Paris le 1z\n\nNovembre I935\n\nitalie",
+      "quality_score": 0.988,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_231_s1",
+      "title": "Instrument de ratification",
+      "score": 0.859556,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_232_s1",
+      "title": "Pouvoirs",
+      "score": 0.858194,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_236_s1",
+      "title": "Instrument d'adhésion du Vanuatu",
+      "score": 0.855074,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.851001,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_234_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.841455,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_230_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.827478,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.82364,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.814599,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_225_s1",
+      "title": "Instrument d'adhésion du Timor oriental",
+      "score": 0.743414,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.742569,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "document_id": "19880095_014_s1",
+  "title": "Note verbale d'acceptation du Canada",
+  "year": 1988,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.987,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Erpartment of External Affairs Ministère des Affaires exterieures Canada Centre Archives et Documentation 2 1989 AMBASSADE DE FRANCE ottawa, le 19 avril 1989 N° JLA-5118 Monsieur 1'Ambassadeur, J'ai l'honneur de me référer à la Note de votre Ambassade N° 166 / AE, en date du 22 septembre 1988 concernant la Convention relative aux expositions internationales. Je tiens à communiquer à Votre Excellence que le gouvernem…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_014_s1.pdf",
+  "source_filename": "19880095_014_s1.pdf",
+  "source_sha256": "55482d91c346dc7f0fd3d8af14b10e14091fa008c5f4db335b0e63b34adbe0d0",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "CAN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Erpartment of External Affairs\n\nMinistère des Affaires exterieures\n\nCanada\n\nCentre Archives et Documentation 2 1989\n\nAMBASSADE DE FRANCE\n\nottawa, le 19 avril 1989\n\nN° JLA-5118\n\nMonsieur 1'Ambassadeur,\n\nJ'ai l'honneur de me référer à la Note de votre\n\nAmbassade N° 166 / AE, en date du 22 septembre 1988 concernant la\n\nConvention relative aux expositions internationales.\n\nJe tiens à communiquer à Votre Excellence que le gouvernement du Canada accepte 1'amendement à la Convention du 22 novembre 1928 (telle que modifiée et complétée par les Protocoles de 1948, 1966 et 1972 et par l'amendement du 24 juin 1982), amendement adopté le 31 mai 1988 par 1'Assemblée Générale du\n\n2/. ..\n\nSon Excellence Monsieur François Bujon de 1 'Estanç\n\nAmbassadeur de France ottawa.",
+      "quality_score": 0.974,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "..\n\n-2-\n\nBureau international des Expositions et qui modifie certaines règles et procédures concernant les expositions internationales.\n\nJe vous prie d'agréer, Excellence, les assurances de ma très haute considération.\n\nLe secrétaire d'État aux\n\nAffaires extérieures,",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_035_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.416892,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.416565,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_050_s1",
+      "title": "Instrument d'acceptation des Etats-Unis",
+      "score": 0.405838,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_032_s1",
+      "title": "Notification au Bureau international des expositions de l'acceptation du Maroc",
+      "score": 0.40544,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_togo_s1",
+      "title": "Notification au BIE de l'adhésion du Togo",
+      "score": 0.405082,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.40443,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.400382,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_033_s1",
+      "title": "accusé de réception du Nicaragua de la notification de l'amendement",
+      "score": 0.399897,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_016_s1",
+      "title": "Note verbale d'acceptation du Danemark",
+      "score": 0.396796,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_037_s1",
+      "title": "Note verbale d'acceptation du Pérou",
+      "score": 0.395083,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19200018_492",
+  "title": "Lettre de transmission de l'instrument",
+  "year": 1920,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9992,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "COTE 7 1 8 Ambassade de Lettonie en France NV 4.7 - 602 L'Ambassade de Lettonie en France présente ses compliments au Ministère des Affaires étrangères et du Développement international - Direction des affaires juridiques - et a l'honneur de lui transmettre l'Instrument de Ratification du Traité concernant le Spitzberg du 9 février 1920 ratifié par la République de Lettonie. L'Ambassade de Lettonie en France saisit…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200018_492.pdf",
+  "source_filename": "tra19200018_492.pdf",
+  "source_sha256": "7ad353c467cf2861bf0a7b80b47377746215337f5ffddabc1e2ca9e56d41f9a2",
+  "treaty_id": "TRA19200018",
+  "treaty_number": "492",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "COTE 7 1 8\n\nAmbassade de Lettonie en France\n\nNV 4.7 - 602\n\nL'Ambassade de Lettonie en France présente ses compliments au Ministère des Affaires étrangères et du Développement international - Direction des affaires juridiques - et a l'honneur de lui transmettre l'Instrument de Ratification du Traité concernant le Spitzberg du 9 février 1920 ratifié par la République de Lettonie.\n\nL'Ambassade de Lettonie en France saisit cette occasion pour renouveler au Ministère des\n\nAffaires étrangères et du Développement international - Direction des affaires juridiques- les assurances de sa haute considération.\n\nParis, le 31 mai 2016\n\nFranc\n\nrassade\n\nMinistère des Affaires étrangères et du Développement international\n\nDirection des affaires juridiques 37 quai d'Orsay 75351 Paris Cedex 07\n\nCopie à : Sous-direction de l'Europe centre-orientale et balte",
+      "quality_score": 0.9992,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200018_103",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.532694,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600149_491_s1",
+      "title": "note verbale de transmission de l'instrument à la France",
+      "score": 0.438209,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_46_s1",
+      "title": "Lettre du Président de Lituanie au 1er ministre Lionel Jospin sur l'adhésion de la Lituanie à l'OEPP",
+      "score": 0.402279,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_31_s1",
+      "title": "Pouvoirs de signature du Liban",
+      "score": 0.399863,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.397407,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20050255_100",
+      "title": "Résolution 5/2015 modifiant les annexes de la convention adoptée par l'Assemblée Générale réunie à Strasbourg le 16 septembre 2015",
+      "score": 0.397354,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.396419,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.396137,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_76_s1",
+      "title": "Note verbale d'accompagnement des pouvoirs de signature",
+      "score": 0.395605,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.394058,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

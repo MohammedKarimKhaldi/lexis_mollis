@@ -1,0 +1,47 @@
+{
+  "document_id": "19200016_009_s1",
+  "title": "Télégramme du président de la commission serbo-hongroise au secrétariat de la conférence des ambassadeurs relatif à l'érection d'un monument indiquant le point commun ungaro-roumano-serbe",
+  "year": 1920,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "en"
+  ],
+  "quality_score": 0.856,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "-Gepis- Télégramme, B02/3 SECERMTARIAT CONFXEENCE INS AMPASSADEURS [40 RUE I GRENELLE PARIS TRAVAUX ENTIARIMENT THRMINES & L'HXOEPTION IE La POSH IU MONUMENT INDIQUANT LS POINT COMMUN UNGARO ~ RCUMANOe SERBE CECI EN RAISON OPPOSITION AUTORITSS HOUMAINSS, STOP. SAUF ORIRE CONTRAIRE JN COMPTE CONFIER À COMMISS SION HUNCARO-BOUMAINE LH SOIN D'ELEVLR CE MONUMENT IHPOSE ACTUELLEMENT A S4SGED, STOP, PRESI ESN? COMMISSION…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200016_009_s1.pdf",
+  "source_filename": "19200016_009_s1.pdf",
+  "source_sha256": "1b8bc2d02e0b6648c52e5c0e59fe4ec2d48e4e46bbad772fede93eef078789f9",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "009",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "-Gepis-\n\nTélégramme,\n\nB02/3\n\nSECERMTARIAT CONFXEENCE INS AMPASSADEURS\n\n[40 RUE I GRENELLE\n\nPARIS\n\nTRAVAUX ENTIARIMENT THRMINES & L'HXOEPTION IE La POSH\n\nIU MONUMENT INDIQUANT LS POINT COMMUN UNGARO ~ RCUMANOe\n\nSERBE CECI EN RAISON OPPOSITION AUTORITSS HOUMAINSS,\n\nSTOP. SAUF ORIRE CONTRAIRE JN COMPTE CONFIER À COMMISS\n\nSION HUNCARO-BOUMAINE LH SOIN D'ELEVLR CE MONUMENT\n\nIHPOSE ACTUELLEMENT A S4SGED, STOP,\n\nPRESI ESN? COMMISSION\n\nSERBO-HONGROISE,\n\n4 juillet 1924.",
+      "quality_score": 0.856,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "ca"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

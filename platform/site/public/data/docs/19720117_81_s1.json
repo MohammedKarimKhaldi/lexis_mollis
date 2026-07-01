@@ -1,0 +1,116 @@
+{
+  "document_id": "19720117_81_s1",
+  "title": "Pouvoirs de signature de la Pologne",
+  "year": 1972,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "pl"
+  ],
+  "quality_score": 0.9736,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Rada Ministrów Polskiej Rzeczypospolitej Ludowej podaje do powszechnej wiadomości : W celu zawarcia Protokołu zmieniającego Konwencię o wystawach międzynarodowych, podpisaną w Paryżu dnia 22 listopada 1928 roku, Pismem niniejszym upoważnia się Obywatela Michała KAJZERA Prezesa Polskiej Izby Handlu Zagranicznego, do podpisania w imieniu Rządu Polskiej Rzeczypospolitei Ludowej wyżej wymienionego Protokołu, z zastrzeże…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_81_s1.pdf",
+  "source_filename": "19720117_81_s1.pdf",
+  "source_sha256": "6ae2a0cf66113c04d09376267a56711895a3e4c844b99abdad2a478dfdd1ae9b",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "POL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Rada Ministrów\n\nPolskiej Rzeczypospolitej Ludowej podaje do powszechnej wiadomości :\n\nW celu zawarcia Protokołu zmieniającego Konwencię o wystawach międzynarodowych, podpisaną w Paryżu dnia 22 listopada 1928 roku, Pismem niniejszym upoważnia się Obywatela\n\nMichała KAJZERA\n\nPrezesa Polskiej Izby Handlu Zagranicznego, do podpisania w imieniu Rządu Polskiej Rzeczypospolitei Ludowej wyżej wymienionego Protokołu, z zastrzeżeniem ratyfikacji.\n\nNa dowód czego wydany zostat Akt niniejszy.\n\nSporzadzono w Warszawie, dnia 2 fristopada 1972 roku.\n\nlunarnemu\n\nREZES RADY MINISTROW\n\n- MINISTER SPRAW ZA GRANICZNYCH",
+      "quality_score": 0.9736,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pl"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_45_s1",
+      "title": "Pouvoirs de signature de la Pologne",
+      "score": 0.399265,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_169_s1",
+      "title": "Instrument de ratification",
+      "score": 0.394083,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.390661,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.389595,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.388788,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.381308,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.375534,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_13_s1",
+      "title": "Instrument de ratification de l'Argentine",
+      "score": 0.372075,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19550069_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.371364,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_100_s1",
+      "title": "Pouvoirs de signature de la Suisse",
+      "score": 0.368385,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

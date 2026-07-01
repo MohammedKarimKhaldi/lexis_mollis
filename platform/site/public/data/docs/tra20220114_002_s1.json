@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20220114_002_s1",
+  "title": "Pouvoirs",
+  "year": 2022,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9931,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Française N°186/2022 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à : Mme Sylvie RETAILLEAU, ministre de l'Enseignement supérieur et de la Recherche En vue de signer l'Accord entre le Gouvernement de la République française et le Gouvernement de la République du Sénégal relatif à la mise en place de Classes prép…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20220114_002_s1.pdf",
+  "source_filename": "tra20220114_002_s1.pdf",
+  "source_sha256": "ed56ba473c7dfd4a811dd5a141ded8e789b5e87de366dc5102ab2cec9cd0ef9d",
+  "treaty_id": "TRA20220114",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République Française\n\nN°186/2022\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à :\n\nMme Sylvie RETAILLEAU, ministre de l'Enseignement supérieur et de la Recherche\n\nEn vue de signer l'Accord entre le Gouvernement de la République française et le\n\nGouvernement de la République du Sénégal relatif à la mise en place de Classes préparatoires aux grandes écoles (CPGE), le 8 décembre 2022 à Champs-sur-Marne, lors du sème séminaire intergouvernemental France-Sénégal./.\n\nFAIT À PARIS, LE 5 décembre 2022\n\nLa Ministre de l'Europe et des Affaires étrangères\n\nCallour",
+      "quality_score": 0.9931,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20240048_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.568146,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213018_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.566933,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_002",
+      "title": "Pouvoirs français",
+      "score": 0.556874,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213116_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.550903,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230011_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.539648,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182365_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.418729,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.410511,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.403209,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230143_002_s1",
+      "title": "Lettre en réponse",
+      "score": 0.394593,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.394107,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

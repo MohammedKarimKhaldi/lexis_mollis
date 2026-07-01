@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_740",
+  "title": "Accusé de réception de l'instrument rwandais",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.982,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ministère des affaires étrangères NUOIE N° 785 Paris, le 21 mai 2002 Le Ministère des Affaires Etrangères présente ses compliments au Ministère des Affaires Etrangères de la République du Rwanda et a l'honneur d'accuser réception de la lettre du Ministère rwandais de l'Agriculture en date du 6 mai 2002 relative à l'Office International des Epizooties. L'adhésion de la République du Rwanda à l'Office International de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_740.pdf",
+  "source_filename": "tra19240002_740.pdf",
+  "source_sha256": "1627ec3be5c041b7b315c2bc90710c4b95ec605dfa4124e548d65d6ee8f6c899",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "RWA003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministère des affaires étrangères\n\nNUOIE N° 785\n\nParis, le 21 mai 2002\n\nLe Ministère des Affaires Etrangères présente ses compliments au Ministère\n\ndes Affaires Etrangères de la République du Rwanda et a l'honneur d'accuser réception de la lettre du Ministère rwandais de l'Agriculture en date du 6 mai 2002 relative à l'Office International des Epizooties.\n\nL'adhésion de la République du Rwanda à l'Office International des\n\nEpizooties a pris effet le 7 mai 2002.%.\n\nLe Ministère des Affaires Etrangères saisit cette occasion pour renouveler\n\nau Ministère des Affaires Etrangères de la République du Rwanda les assurances de sa haute considération.f\n\nMinistère des Affaires Etrangères\n\nRépublique du RWANDA",
+      "quality_score": 0.982,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_855",
+      "title": "Accusé de réception français de l'instrument surinamien",
+      "score": 0.780045,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_785",
+      "title": "Accusé de réception français de l'instrument santoméen",
+      "score": 0.756092,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_033_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.460901,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_605",
+      "title": "Accusé de réception français de l'adhésion monténégrine",
+      "score": 0.384617,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_050_s1",
+      "title": "Note verbale d'acceptation du Venezuela",
+      "score": 0.384477,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_005_s1",
+      "title": "Ratification",
+      "score": 0.379962,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.379222,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_386",
+      "title": "Accusé de réception de l'instrument haïtien",
+      "score": 0.378758,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_41_s1",
+      "title": "Lettre du Ministre de l'Agriculture de Jordanie de candidature à l'OEPP",
+      "score": 0.377007,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_043_s1",
+      "title": "Note verbale confirmant l'adhésion du Pérou à l'amendement de 1982",
+      "score": 0.376663,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_776",
+  "title": "Accusé de réception de l'instrument salvadorien",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9629,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ministère des affaires étrangères NUOI/E/ 1263 Le Ministère des Affaires Etrangères présente ses compliments à l'Ambassade d'EL Salvador et a l'honneur de se référer à sa note verbale n° A.741D.198 du 21 octobre 1997 relative à l'adhésion d'El Salvador à l'Arrangement portant création de l'Office International d'Epizooties signé à Paris le 25 janvier 1924. Le Ministère a l'honneur de faire savoir à l'Ambassade qu'il…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_776.pdf",
+  "source_filename": "tra19240002_776.pdf",
+  "source_sha256": "599fb453aa437558a9febaeac12b42bbb8d2f15bf621ebab2d74141f3f6fcff7",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "776",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministère des affaires étrangères\n\nNUOI/E/ 1263\n\nLe Ministère des Affaires Etrangères présente ses compliments à l'Ambassade d'EL\n\nSalvador et a l'honneur de se référer à sa note verbale n° A.741D.198 du 21 octobre 1997 relative à l'adhésion d'El Salvador à l'Arrangement portant création de l'Office International d'Epizooties signé à Paris le 25 janvier 1924.\n\nLe Ministère a l'honneur de faire savoir à l'Ambassade qu'il a pris bonne note de cette adhésion qui est en cours de communication aux Etats membres de l'OIE! Jo\n\nLe Ministère des Affaires Etrangères saisit cette occasion pour renouveler à l'Ambassade d'El Salvador les assurances de sa haute considération.\n\n30 067. 1697\n\nAMBASSADE D'EL SALVADOR\n\n12, rue Galilée 75116 PARIS.",
+      "quality_score": 0.9629,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.689588,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_700",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.637853,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv006_s1",
+      "title": "Instrument d'adhésion du Salvador",
+      "score": 0.438335,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv003_s1",
+      "title": "Note verbale de dénonciation du protocole de 1972",
+      "score": 0.437814,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_046_s1",
+      "title": "Note verbale d'adhésion du Salvador",
+      "score": 0.430762,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_296_s1",
+      "title": "Note verbale d'envoi de l'instrument espagnol",
+      "score": 0.41557,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.414223,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.413621,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "seychelles_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion des Seychelles",
+      "score": 0.409556,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.408069,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

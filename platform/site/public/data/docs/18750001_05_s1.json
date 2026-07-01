@@ -311,8 +311,71 @@
     {
       "document_id": "18750001_0012_s1",
       "title": "Accord",
-      "score": 0.402344,
+      "score": 0.808666,
       "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_14_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.803496,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_31_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.799561,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_19_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.756063,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_26_s1",
+      "title": "Instrument de ratification de la Grèce",
+      "score": 0.706605,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_46_s1",
+      "title": "Instrument d'adhésion du Portugal",
+      "score": 0.561074,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200069_001_s1",
+      "title": "Texte du Traité",
+      "score": 0.512373,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230004_001_s1",
+      "title": "Convention",
+      "score": 0.470469,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_25_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.460738,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_27_s1",
+      "title": "Pouvoirs de signature de la Grèce",
+      "score": 0.443173,
+      "type": "semantic_kin",
       "provisional": false
     }
   ]

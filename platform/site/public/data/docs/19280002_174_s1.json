@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_174_s1",
+  "title": "Pouvoirs pour déposer l'instrument de ratification",
+  "year": 1928,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "pt"
+  ],
+  "quality_score": 0.9576,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 174 ANTONIO OSCAR DE FRAGOSO CARMONA Presidente da Republica Portuguêsa Fazemos saber aos que as presentes letras virem que o Governo de Republica Portuguêsa ha por bem nomear, como por estas nomela, por seu Plenipotenciario, o Senhor Armando da Gama ochoa, Ministro de Portugal em Paris, para electuar o deposito da Carta de Ratificação de Portugal à convenção relativa a exposiçãoe Intornacional, rospotros P…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_174_s1.pdf",
+  "source_filename": "19280002_174_s1.pdf",
+  "source_sha256": "d7b742cdc15dc7bd45003e707671a463a722281d80ea3b23533733d6ba0f0e36",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "PRT002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 174",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "ANTONIO OSCAR DE FRAGOSO CARMONA\n\nPresidente da Republica Portuguêsa\n\nFazemos saber aos que as presentes letras virem que o Governo de Republica Portuguêsa ha por bem nomear, como por estas nomela, por seu Plenipotenciario, o Senhor Armando da Gama ochoa, Ministro de Portugal em Paris, para electuar o deposito da Carta de Ratificação de\n\nPortugal à convenção relativa\n\na exposiçãoe Intornacional, rospotros Protocolo o Protocoso de assinatura, fimados en Paria em vinte e dois de Novembro de mil novecentos e vinte e oito:\n\nEm testemunho do que as presentes Letras vão por nós assinadas e seladas com o sêlo da Republica Portuguêsa.\n\nPaços do Governo da Republica, em\n\ndora de Dezembro\n\nde mil novecentos e trinta e um.",
+      "quality_score": 0.9719,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.868149,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_177_s1",
+      "title": "Déclaration des autorités portugaises relative à Macao",
+      "score": 0.857198,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.852124,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_176_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.842094,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_175_s1",
+      "title": "Instrument de ratification",
+      "score": 0.839929,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_172_s1",
+      "title": "Dépôt de l'instrument d'adhésion de la Pologne",
+      "score": 0.839263,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_171_s1",
+      "title": "Instrument de ratification",
+      "score": 0.8387,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_170_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.814561,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_184_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.75652,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.747964,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

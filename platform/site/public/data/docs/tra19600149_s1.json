@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19600149_s1",
+  "title": "Instrument d'adhésion lituanien",
+  "year": 1960,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Licturos Respublikos Prexidentas INSTRUMENT OF ACCESSION WHEREAS the Convention on the Organisation for Economic Co-operation and Development was done at Paris on 14 December 1960, AND WHEREAS pursuant to Article 16 of the said Convention the Council of the Organisation for Economic Co-operation and Development by its decision of 3 May 2018 invited the Republic of Lithuania to accede to the said Convention, NOW THER…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19600149_s1.pdf",
+  "source_filename": "tra19600149_s1.pdf",
+  "source_sha256": "567599307093c0da5c242846e15be101ad0e2e1b02481badcc75725058ddc7c6",
+  "treaty_id": "TRA19600149",
+  "treaty_number": "LTU002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Licturos Respublikos Prexidentas\n\nINSTRUMENT OF ACCESSION\n\nWHEREAS the Convention on the Organisation for Economic Co-operation and\n\nDevelopment was done at Paris on 14 December 1960,\n\nAND WHEREAS pursuant to Article 16 of the said Convention the Council of the\n\nOrganisation for Economic Co-operation and Development by its decision of 3 May 2018 invited the Republic of Lithuania to accede to the said Convention,\n\nNOW THEREFORE I, Dalia GRYBAUSKAITE, President of the Republic of Lithuania, hereby formally declare that the Seimas of the Republic of Lithuania, having considered the said Convention, ratified the same and the Republic of Lithuania accedes to the said\n\nConvention and undertakes faithfully to perform and carry out the stipulations contained therein.\n\nIN WITNESS WHEREOF, I have signed this Instrument of Accession and affixed the seal of the President of the Republic of Lithuania.\n\nDONE at Vilnius on 2 July 2018\n\nStra GRYBAUSKAITE\n\nLinas LINKEVIČIUS\n\nMinister of Foreign Affairs of the Republic of Lithuania",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19600149_490_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.456693,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_45_s1",
+      "title": "Instrument de ratification de la Lituanie",
+      "score": 0.396726,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lva001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.390793,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200018_491",
+      "title": "Instrument d'adhésion",
+      "score": 0.377671,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910247_846",
+      "title": "Instrument de ratification",
+      "score": 0.370249,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_brn001_s1",
+      "title": "Instrument  d'adhésion",
+      "score": 0.369864,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.367024,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_21_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.359706,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.35722,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_46_s1",
+      "title": "Lettre du Président de Lituanie au 1er ministre Lionel Jospin sur l'adhésion de la Lituanie à l'OEPP",
+      "score": 0.354868,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "tra19660198_003b_s1",
+  "title": "Pouvoirs soviétiques (pour les recommandations de maintenance et d'exploitation)",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "ru"
+  ],
+  "quality_score": 0.7627,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "- MINISTRE DES COMMUNICATIONS POSTALES ET ÉLECTRIQUES DE L'U.R.S.S. 7. RUE GORKI MOSCOU. K-9 Nº 12689 пизмочерстзо сзпзи COCO дротоящим уполномочивает ачальника Зловного управления «олдугородом телоронно-телографно\" связи ГОБА Тепра терасовича на ведение поротоворов и примой Овлам \"рень - ЕлисСіскиї НИсурця, 28.7.66",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19660198_003b_s1.pdf",
+  "source_filename": "tra19660198_003b_s1.pdf",
+  "source_sha256": "bb1bdc4286534439cf5f934c7e437170087db93c866e3c6269fdb75a15b3108f",
+  "treaty_id": "TRA19660198",
+  "treaty_number": "003b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "-\n\nMINISTRE DES COMMUNICATIONS\n\nPOSTALES ET ÉLECTRIQUES\n\nDE L'U.R.S.S.\n\n7. RUE GORKI\n\nMOSCOU. K-9\n\nNº 12689\n\nпизмочерстзо сзпзи COCO дротоящим уполномочивает\n\nачальника Зловного управления «олдугородом телоронно-телографно\" связи ГОБА Тепра терасовича на ведение поротоворов и\n\nпримой Овлам \"рень - ЕлисСіскиї\n\nНИсурця,\n\n28.7.66",
+      "quality_score": 0.7627,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

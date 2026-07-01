@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20040137_325_s1",
+  "title": "Pouvoirs italiens",
+  "year": 2004,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9753,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Fransaise N° 088/2004 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires étrangères, donnons POUVOIRS par ces présentes à : Monsieur François LUREAU, Délégué général pour l'Armement, pour signer un Accord de sécurité de l'OCCAR (Organisme Conjoint de Coopération en matière d'Armement./. LANTA PARIS, IB 08 JUiPPer 2004 Le Ministre des Affaires étrangères annal:",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20040137_325_s1.pdf",
+  "source_filename": "tra20040137_325_s1.pdf",
+  "source_sha256": "862c497d0139c1d636298094d42f507b08f4902af89c5b182e3fb3f32afc8670",
+  "treaty_id": "TRA20040137",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République\n\nFransaise\n\nN° 088/2004\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre des\n\nAffaires étrangères, donnons POUVOIRS par ces présentes à :\n\nMonsieur François LUREAU, Délégué général pour l'Armement, pour signer un Accord de sécurité de l'OCCAR (Organisme Conjoint de\n\nCoopération en matière d'Armement./.\n\nLANTA PARIS, IB 08 JUiPPer 2004\n\nLe Ministre des Affaires étrangères annal:",
+      "quality_score": 0.9753,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.591248,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_325_s1",
+      "title": "Pouvoirs italiens (s.d.)",
+      "score": 0.42499,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990206_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.399068,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990144_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.394415,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.393317,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990082_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.385564,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070073_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.384433,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810248_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.381772,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230143_002_s1",
+      "title": "Lettre en réponse",
+      "score": 0.380298,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.378327,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19240002_118_jamaique_adhesion_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1924,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9939,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "15.0CT 1997 EG... .. 31 J0I 1997 17840002 25.1.1924 VETERINARY SERVICES DIVISION MINISTRY OF AGRICULTURE & MININ HOPE GARDENS, KINGSTON 6. JAMAICA July 10, _ 19 97 PI FAST QUOTT RIVEKENCENA V3/118 The Right Honourable Minister of Foreign Affairs of the Republic of France Direction Generale des Affaires Politiques et de Securite Direction des Nations Unies et des Organisations Internationales 37, quai d'Orsay 75351 P…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240002_118_jamaique_adhesion_s1.pdf",
+  "source_filename": "19240002_118_jamaique_adhesion_s1.pdf",
+  "source_sha256": "7af9e27e7ad56bd999f348b950961af585c5369829b9d95ae1e44df1d5bcfcc0",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "JAM001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "15.0CT 1997\n\nEG... ..\n\n31 J0I 1997\n\n17840002 25.1.1924\n\nVETERINARY SERVICES DIVISION\n\nMINISTRY OF AGRICULTURE & MININ\n\nHOPE GARDENS,\n\nKINGSTON 6.\n\nJAMAICA\n\nJuly 10, _ 19 97\n\nPI FAST QUOTT\n\nRIVEKENCENA V3/118\n\nThe Right Honourable\n\nMinister of Foreign Affairs of the Republic of France\n\nDirection Generale des Affaires Politiques et de Securite\n\nDirection des Nations Unies et des Organisations Internationales 37, quai d'Orsay 75351 Paris\n\nFRANCE\n\nSir\n\nI have the honour to advise you that Jamaica has decided to become a member of the Office International des Epizootics.\n\nThe Government of Jamaica has examined the provisions of the Intermational\n\nAgreement and of the Internal Statutes of 25 January, 1924 and agrees to participate in the working costs of the Office under the conditions stated, especially with regards to Article IT of the International Agreement and Article 11 of the Internal Statutes.\n\nThe 6th contribution category has been selected by my Government.\n\nThe official Delegate of Jamaica to the OIE will be Dr. George. H. Grant who is the\n\nDirector of the Veterinary Services Division, Ministry of Agriculture and Mining.\n\nYours faithfully\n\nHonourable Horace Clarke\n\nMinister of Agriculture & Mining c.c. The Director General, OIE 12, rue de Prony 75017 Paris\n\nFRANCE",
+      "quality_score": 0.9939,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_545",
+      "title": "Instrument d'adhésion",
+      "score": 0.640179,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_425",
+      "title": "Instrument d'adhésion",
+      "score": 0.596745,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_380",
+      "title": "Instrument d'adhésion guyanais",
+      "score": 0.448777,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_220",
+      "title": "Courrier relatif aux contributions à l'OIE",
+      "score": 0.433959,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_41_s1",
+      "title": "Lettre du Ministre de l'Agriculture de Jordanie de candidature à l'OEPP",
+      "score": 0.428158,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_685",
+      "title": "Instrument d'adhésion",
+      "score": 0.420835,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_090",
+      "title": "Instrument d'adhésion",
+      "score": 0.415229,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_705",
+      "title": "Instrument d'adhésion",
+      "score": 0.404384,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_230",
+      "title": "Instrument d'adhésion",
+      "score": 0.403882,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_56_s1",
+      "title": "Lettre du Ministre des AE demandant l'adhésion de Singapour",
+      "score": 0.391674,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

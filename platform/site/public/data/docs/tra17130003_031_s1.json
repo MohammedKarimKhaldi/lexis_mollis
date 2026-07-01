@@ -1,0 +1,129 @@
+{
+  "document_id": "tra17130003_031_s1",
+  "title": "Article séparé",
+  "year": 1713,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.809,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "1715. i1. Aural Caroye separé figné AVacho bers avril orsenmemetessesquele (vente Jepaex dela pans. On Die devaroye avec da Frances par lequel ce frime j'enguge de nebainni nebatio aucun fortifications a bignanes conformemen au trácó dario. figne atheet.le17. auril 1713 pour les fortiff?\"' de drynerol refanonz 1. Antide separé (le as comornue pas cet aride liposé, qui criva la mesme force que sil estoit inderé mot a…",
+  "tags": [
+    "century:c18",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra17130003_031_s1.pdf",
+  "source_filename": "tra17130003_031_s1.pdf",
+  "source_sha256": "569847221c88e13d321a407e1373b75861a3587a927d04d95ceafddc6be97719",
+  "treaty_id": "TRA17130003",
+  "treaty_number": "031",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1715.\n\ni1. Aural\n\nCaroye\n\nseparé figné AVacho bers avril orsenmemetessesquele (vente Jepaex dela pans.\n\nOn Die devaroye avec da Frances par lequel ce frime j'enguge de nebainni nebatio aucun fortifications a bignanes conformemen au trácó dario.",
+      "quality_score": 0.7807,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "figne atheet.le17. auril 1713 pour les fortiff?\"' de drynerol\n\nrefanonz\n\n1.\n\nAntide separé\n\n(le as comornue pas cet aride liposé, qui criva la mesme force que sil estoit inderé mot a mot danie en traité, que, quoy que par l'article mair du traité la liberté ait esté reservéé a Son e Altesse Royale de Savoye de faire telles fortifications que Con luy\n\nSemblera dans tous les lieus qui luy ons esté ceder de part et d'aute, Meantmoino Son Attesse Royale promet et Séngage de ne bastin, ni rebastir aucunes des fortifications ey devans construites a lignerol e et dans Son territoire conformemens au Traite de Turin.\n\nEn fos de quoy nous Ambassadeuro Coran dinaires et Penipotentiaires du Roy tres Chrestien es de Sor\n\nAlesse Royale de Sarago et en vertu de noie pleinpouvoirs avons ligne le present article reparé el y avons fais apposer les cachets de nos armat.\n\nFait a Htrecks longieme, Avrit anel Peps-cem lacine\n\nHurelly\n\nLemeri\n\nIMellareder",
+      "quality_score": 0.8372,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16970010_005b_s1",
+      "title": "Lettres patentes portant ratification de l'article séparé",
+      "score": 0.366735,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16970009_005a_s1",
+      "title": "Promesse de ratification",
+      "score": 0.365028,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_034_s1",
+      "title": "Ratification de l'article séparé par Victor-Amédée II, duc de Savoie",
+      "score": 0.363239,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16630006_005_s1",
+      "title": "Ratification danoise",
+      "score": 0.362974,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17680005_004",
+      "title": "Instrument français",
+      "score": 0.361879,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16590001_001a_s1",
+      "title": "Traité (ensemble texte des pouvoirs français et espagnols) (ensemble attestation de conformité à l'original délivrée par les archives nationales)",
+      "score": 0.352128,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_016_s1",
+      "title": "Déclaration relative à la neutralité du duché du Luxembourg",
+      "score": 0.351843,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_030_s1",
+      "title": "Traité de paix entre la France et la Savoie",
+      "score": 0.351656,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_013_s1",
+      "title": "Article séparé relatif notamment aux avantages commerciaux accordés par le Roi Catholique",
+      "score": 0.351294,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

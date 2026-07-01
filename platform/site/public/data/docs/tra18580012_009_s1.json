@@ -1,0 +1,88 @@
+{
+  "document_id": "tra18580012_009_s1",
+  "title": "Déclaration explicative concernant les articles 7 et 19 du traité",
+  "year": 1858,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8581,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "CONSULAT GÉNÉRAL DE FRANCE à Yeddo (NAPON) Heldode. 17 Aste 1559 Declaration explicative concernant les anticler Tet 19 du Craité condu entre la france esle fapon. Attendu que Dand len lexter enlangued hollandaide ek Taponale annexés aux instrumead Du Eraité! Concle entra la France in Gallapon leg octobre 1998, il exista der errone le Cogré Senatore! à attéror la dend der assider Jept et dix neuf Da Dit Traite, il e…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18580012_009_s1.pdf",
+  "source_filename": "tra18580012_009_s1.pdf",
+  "source_sha256": "bd5f9b9bdf36f02b710ee204c8db0c498d5b75238204f5d01bc141cf64471b51",
+  "treaty_id": "TRA18580012",
+  "treaty_number": "009",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CONSULAT GÉNÉRAL\n\nDE FRANCE\n\nà Yeddo (NAPON)\n\nHeldode. 17 Aste 1559\n\nDeclaration explicative concernant les anticler Tet 19 du Craité condu entre la france esle fapon.\n\nAttendu que Dand len lexter enlangued\n\nhollandaide ek Taponale annexés aux instrumead Du Eraité! Concle entra la\n\nFrance in Gallapon leg octobre 1998, il exista der errone le Cogré Senatore!\n\nà attéror la dend der assider Jept et dix neuf Da Dit Traite, il ent\n\nDactaré por lan pietonter qual'astica Septim de Dit Traité Jerea tonjout avoin mot pour not la mame",
+      "quality_score": 0.9588,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Signification que l'anticle Sirin de Paité anglais et que de mena l'article Dip -\n\n- haquend de traité frauçais ausa toujour mot pour not la mème lignification que\n\nL'asside Vingt tintième Du Traita' anglais.\n\nEn foi de qui de Singentricier les\n\nDeus Emprien ont ligné à Jedo la précente\n\nDélation al y ont appidé la cacher. le leury armed le Dix Topt octobre 185g correspondant au 22º jour Du ginois Daté D'amnéé de\n\nAnxei-Jtroute.\n\narie Délaration ont également lignéé\n\npar Leur Gelancas les Ministe Der saie,\n\nFringsier Del'Empire apon afin que les",
+      "quality_score": 0.8113,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Dites rectification Soient Conférés par la deup\n\nNation comme ayant temme force et valow que\n\nSi alles étaient apparier. In le Traiten Dont les ratifications viannent d'atre échangeé.\n\nBathan d Belle on fait a Gado, le 1l sete 181g.\n\nparaphe de\n\nSakaï\n\nFRANCH\n\noukino\n\nKami\n\nSlénipotentinine\n\nJaponais\n\nAU TAPLA\n\nCe qui précède est judé et bédaré par nous en bonna et Due forme.\n\n(2.S.)\n\nManade Sinoorano Rami\n\nWarisaka hakatrukasarotaja.\n\nMinistres des affaiss frangies",
+      "quality_score": 0.8041,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18580012_008_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification en japonais, accompagné d'une traduction en français  conforme et certifiée",
+      "score": 0.353372,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

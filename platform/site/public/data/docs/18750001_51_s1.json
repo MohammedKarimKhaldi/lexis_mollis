@@ -91,5 +91,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_50_s1",
+      "title": "Acte d'accession de la Roumanie",
+      "score": 0.390207,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_10_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.380004,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_002_s1",
+      "title": "Copie non signée du Convention",
+      "score": 0.365643,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.3632,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_53_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Russie",
+      "score": 0.360565,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.358467,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200018_001_s1",
+      "title": "Traité",
+      "score": 0.35777,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_182_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.357169,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_29_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion israélien",
+      "score": 0.356776,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_48_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.356652,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

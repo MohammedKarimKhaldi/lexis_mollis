@@ -1,0 +1,128 @@
+{
+  "document_id": "19480001_47_s1",
+  "title": "Pouvoirs de vote et de signature du Portugal",
+  "year": 1948,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "pt"
+  ],
+  "quality_score": 0.9876,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "- ANTONIO OSCAR DE FRAGOSO CARMIONA Presidente da República Portuguesa Fazemos saber aos que as presentes Letras virem que o Governo Português há por ben nonear, como por estas nomeia, por seu Delegado na Sessão do Bureau Internacional das Exposições que se realiza em Paris, no dia dez de Maio, o Senhor AUGUSTO RATO POTIER, Conselheiro Comercial da Embaixada de Portugal e Cônsul Geral em Paris, para assistir às reun…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_47_s1.pdf",
+  "source_filename": "19480001_47_s1.pdf",
+  "source_sha256": "ad9b5458196b5023bdf9a65f207f1ac7de1cf882008b5abb5c80978955844361",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "715",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "-\n\nANTONIO OSCAR DE FRAGOSO CARMIONA\n\nPresidente da República Portuguesa\n\nFazemos saber aos que as presentes Letras virem que o\n\nGoverno Português há por ben nonear, como por estas nomeia, por seu Delegado na Sessão do Bureau Internacional das Exposições que se realiza em Paris, no dia dez de Maio, o Senhor AUGUSTO RATO\n\nPOTIER, Conselheiro Comercial da Embaixada de Portugal e Cônsul\n\nGeral em Paris, para assistir às reuniões e tomar parte nos de- bates, votando e assinando os diplomas que da referida Sessão resultarem.\n\nEn testemunho do que as presentes Letras vão por nós assinadas e seladas com o selo branco da República Portuguesa;\n\nPalácio Nacional de Belém, aos seis dias do mês de Maio, de mil norecentos o quarenta e oito.\n\nCam da Pa.\n\nwNY",
+      "quality_score": 0.985,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "francisco figino Craveiro Lopes\n\npresidente da República Portuguesa\n\nFazemos saber aos que as presentes Letras virem que o Gover-\n\nno Português há por bem nomear, como por estas nomela, seu Plenipotenciário o Senhor Dr. Marcello Gongalres Nunes Duarte Mathias, Embaixador do Portugal em Paris para que deposite, nos arquivos do Ministério dos Negócios Estrangeiros francês, a Carta de Confiruação e Ratificação do Protocolo de modificação da Convenção assinada em Paris, em 22 de Novembro de 1928 relativo às Exposiçõos Internacionais.\n\nEm testemunho do que as presentes Letras vão por nós assina-\n\ndas e seladas com o selo branco da República Portuguesa.\n\nPalácio Nacional de Belém, em dois de Julho de mil novecen-\n\ntos e cinquenta o cinco.",
+      "quality_score": 0.9903,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_715_s1",
+      "title": "Pouvoirs portugais",
+      "score": 0.444837,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_174_s1",
+      "title": "Pouvoirs pour déposer l'instrument de ratification",
+      "score": 0.439706,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_084_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.434733,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380028_04_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.4185,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_47_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.385539,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.382564,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.382343,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.382007,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.379126,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_82_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.376594,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

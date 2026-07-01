@@ -1,0 +1,120 @@
+{
+  "document_id": "19200032_33_s1",
+  "title": "Instrument de ratification norvégien",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7929,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Nous Haakon va, Roi de tarrige, faisons sartir: quagents et etaminé la cornente internationale pars la création, à Paris, d'un Instided dodemalional de Foid, segmée ie Paris le 21 juin 1920 par les Pléni patentinines \" deffisendes Puisvanses, acunis is cam férence à Faris, et pour ce qui concerne la vannère pas Mansieu Smeth, Tristanher, vicker délique plinizatertiaire à ladide conférence, Nous apperaurans, ratifian…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_33_s1.pdf",
+  "source_filename": "19200032_33_s1.pdf",
+  "source_sha256": "4c0a20c93d432a832b6e5c9e216c624da038289bfc1c03dbfcdccd8fcd320c90",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "NOR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nous Haakon va, Roi de tarrige, faisons sartir:\n\nquagents et etaminé la cornente\n\ninternationale pars la création, à Paris, d'un\n\nInstided dodemalional de Foid, segmée ie\n\nParis le 21 juin 1920 par les Pléni patentinines \" deffisendes Puisvanses, acunis is cam férence à\n\nFaris, et\n\npour ce qui concerne la vannère\n\npas Mansieu Smeth, Tristanher, vicker délique plinizatertiaire à ladide conférence,\n\nNous apperaurans, ratifians el con fis-\n\nmens ladile convention dans toules se parties, prometlant de la faire observer selan da forme et denerer,\n\n\"pa fas de qui bes avons tiré\n\nles puisentes deffres de salification et a asans fait\n\nVre de scene de Magasze.\n\nDanné au Palais Pagat de Prisleania-\n\nle factadre mil neuf cent vingt.\n\net Michire.",
+      "quality_score": 0.7929,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_28_s1",
+      "title": "Instrument de ratification norvégien",
+      "score": 0.38145,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_14_s1",
+      "title": "Note d'accompagnement de l'instrument de ratification du Danemark",
+      "score": 0.37864,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.376333,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.365564,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_09_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.365061,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_20_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.363569,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.358547,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_10_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.355872,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.353994,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19240003_65_s1",
+      "title": "Instrument de ratification de la Turquie",
+      "score": 0.353646,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

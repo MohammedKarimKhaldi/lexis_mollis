@@ -41,5 +41,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_28_s1",
+      "title": "Instrument d'adhésion israélien",
+      "score": 0.402979,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mlt002_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.393876,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.38914,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_075_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.388493,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_10_s1",
+      "title": "Pouvoirs de négociations et de signature",
+      "score": 0.382101,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_236_s1",
+      "title": "Instrument d'adhésion du Vanuatu",
+      "score": 0.381164,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.377718,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "australie_denonciation_s1",
+      "title": "Dénonciation",
+      "score": 0.377172,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.377063,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_077_s1",
+      "title": "Instrument de ratification de la Nouvelle-Zélande",
+      "score": 0.376808,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_166_s1",
+  "title": "Procès-verbal de dépôt de l'instrument d'adhésion des Pays-Bas",
+  "year": 1928,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9714,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 166 PROCES VERBAL DE DEPOT DES RATIFICATIONS DES PAYS - BAS sur la CONVINTION CONCERNANT LES EXFOSITIONS INTERNATIONALES SIGNEE 4 PARIS LE 22 NOVEMBRE I928 et sur le PROTOCOLE DE SIGNATURE PORTANT IA MEME DATE Conformément aux dispositions finales de la Convention concernant les Expositions Internationales signée à Paris le 22 Novembre 1928, le Ministre des Pays-Bas à Paris s'est présenté aujourd'hui au Min…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_166_s1.pdf",
+  "source_filename": "19280002_166_s1.pdf",
+  "source_sha256": "1864da4fce388310aab2970817123e9d583cee970e4ee7ace3523f77d0149894",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "NLD002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 166",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "PROCES VERBAL DE DEPOT DES RATIFICATIONS\n\nDES PAYS\n\n- BAS sur la CONVINTION CONCERNANT\n\nLES EXFOSITIONS INTERNATIONALES SIGNEE 4 PARIS\n\nLE 22 NOVEMBRE I928 et\n\nsur le PROTOCOLE\n\nDE SIGNATURE PORTANT IA MEME DATE\n\nConformément aux dispositions finales de la Convention concernant les Expositions Internationales signée à Paris le 22\n\nNovembre 1928, le Ministre des Pays-Bas à Paris s'est présenté aujourd'hui au Ministère des Affaires Etrangères de la République\n\nFrançaise pour procéder au dépôt des ratifications de Sa Majesté la REINE DES PAYS - BAS sur la Convention et le Protocole de signature et les remettre au Gourernement de la République .\n\nLes inatrunents de ratifications ont été produite et ayant été , après examen, trouvés en bonne et que forme, sont confiés au Gouvernement de la République Française pour rester déposés dana ses archives .\n\nIe Gourernement français donnera avis aux Puissances contractantes dea dépôta des instrumenta de ratificationa ultérieurement effectués par les autres Itats signataires .\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procès - verbal et y ont apposé leurs cacheta\n\nFait à Paris le 24 Décembre I932\n\nHoudes",
+      "quality_score": 0.9995,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.880928,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.871082,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_165_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.86115,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_169_s1",
+      "title": "Instrument de ratification",
+      "score": 0.860383,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.858555,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_164_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.848319,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_160_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.839048,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_85_s1",
+      "title": "Procès-verbal de dépôt de la ratification de la Grèce",
+      "score": 0.778606,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.772678,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_176_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.75429,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

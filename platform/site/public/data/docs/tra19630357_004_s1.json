@@ -1,0 +1,160 @@
+{
+  "document_id": "tra19630357_004_s1",
+  "title": "Instrument français",
+  "year": 1963,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "nl"
+  ],
+  "quality_score": 0.9362,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "RATTFICATIONS DU PRESIDENT DE LA REPUBLIQUE FRANCAISE PRESIDENI DE LA COMTUNAUTE DE LA CONVENTION DIPLOMATIQUE, DE L'ACCORD DE DEFENSE, DE LA CONVENTION JUDICIAIRE, DE LA CONVENTION D'ETABLISSEMENT, DE L'ACCORD DE COOPERATION CULTURELLE, DE L'ACCORD GENERAL DE COOPERATION TECHNIQUE, DE L'ACCORD DE COOPERATION EN MATIERE ECONOMIQUE, MONETAIRE ET FINANCIERE, DE LA CONVENTION RELATIVE AUX RELATIONS ENTRE LE TRESOR FRAN…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19630357_004_s1.pdf",
+  "source_filename": "tra19630357_004_s1.pdf",
+  "source_sha256": "31fe0978b66d9f390b09a8f25fde11e69e4a1961a8ff1419120151df854d4346",
+  "treaty_id": "TRA19630356",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RATTFICATIONS\n\nDU PRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nPRESIDENI DE LA COMTUNAUTE\n\nDE LA CONVENTION DIPLOMATIQUE,\n\nDE L'ACCORD DE DEFENSE,\n\nDE LA CONVENTION JUDICIAIRE,\n\nDE LA CONVENTION D'ETABLISSEMENT,\n\nDE L'ACCORD DE COOPERATION CULTURELLE,\n\nDE L'ACCORD GENERAL DE COOPERATION TECHNIQUE,\n\nDE L'ACCORD DE COOPERATION EN MATIERE ECONOMIQUE,\n\nMONETAIRE ET FINANCIERE,\n\nDE LA CONVENTION RELATIVE AUX RELATIONS\n\nENTRE LE TRESOR FRANCAIS ET LE TRESOR TOGOLAIS,\n\nENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE DU TOGO,\n\nSIGNES A PARIS LE 10 JUILLET 1963",
+      "quality_score": 0.9992,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "CHARLES de GAULLE\n\nPRESIDENT DE LA REPUBLICUE FRANCAISE\n\nPRESIDENT DE LA COMMUNAUTE\n\nA TOUS CEUX QUI CES PRESENTES LETTRES VERRONT\n\nSALUT :\n\nUNE CONVENTION DIPLOMATIQUE,\n\nUN ACCORD DE DEFENSE,\n\nUNE CONVENTION JUDICIAIRE,\n\nUNE CONVENTION D'ETABLISSEMENT,\n\nUN ACCORD DE COOPERATION CULTURELLE,\n\nUN ACCORD GENERAL DE COOPERATION TECHNIQUE,\n\nUN ACCORD DE COOPERATION EN MATIERE ECONOMIQUE,\n\nMONETAIRE ET FINANCIERE,\n\nUNE CONVENTION RELATIVE AUX RELATIONS\n\nENTRE LE TRESOR FRANCAIS ET LE TRESOR TOGOLAIS,\n\nENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE DU TOGO\n\nAYANT ETE SIGNES A PARIS LE 10 JUILLET 1963\n\nCONVENTIONS ET ACCORDS DONT LA TENEUR SUIT :",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": ".-\n\nAyant vu et examiné les dits Conventions et\n\nAccords Nous lesavons approuvés et approuvons en toutes et chacune\n\nde leursparties,\n\nen vertu des dispositions qui y sont contenues\n\net conformément à l'Article 52 de la Constitution.\n\nDECLARONS qu'ils sont acceptés, ratifiés\n\net confirmés et PROMETTONS qu'ils seront inviolablement observés.\n\nEN FOI DÉ QUOI, Nous avons donné les\n\nprésentes, revêtues du Sceau de la république.\n\nA PARIS, le 21 Janvier 1964\n\nSigné : Charles de GAULLE\n\nPar le Président de la République\n\nLe Premier Ministre\n\nLe Ministre des Affaires Etrangères\n\nContresigné : Georges POMPIDOU\n\nContresigné : Maurice COUVE de MUR VILLE",
+      "quality_score": 0.9959,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "POED COFIE CERTIFIÉE CORFCAME :\n\nChet de terrier\n\nde Frotocole.\n\nDe lisant\n\n产 2",
+      "quality_score": 0.7496,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl",
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630134_004",
+      "title": "Instrument français",
+      "score": 0.825564,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710031_004_s1",
+      "title": "Lettres patentes de ratification",
+      "score": 0.782352,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600199_004_s1",
+      "title": "Instrument français",
+      "score": 0.777435,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610137_003",
+      "title": "Instrument français",
+      "score": 0.747903,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "fr-ratif_s1",
+      "title": "Ratification française",
+      "score": 0.73664,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.729405,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_056_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.711754,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_004",
+      "title": "Instrument français",
+      "score": 0.67102,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000072_004",
+      "title": "Instrument français",
+      "score": 0.657299,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000089_004_s1",
+      "title": "Instrument de ratification",
+      "score": 0.640956,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560200_001_s1",
+  "title": "Accord (lettre française)",
+  "year": 1956,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.997,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Paris, le 2 mars 1956 Monsieur le Président, Par lettre en date de ce jour, vous avez bien voulu. me communiquer ce qui suit : \"En application de l'article III du Protocole du 2 mars 1956, j'ai l'honneur de vous proposer qu'une Çommission composée de représentants français et marocains se réunisse le 10 mars 1956 à Rabat pour examiner la question du : transfert des pouvoirs de gestion jusqu'ici réservés, à l'excepti…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560200_001_s1.pdf",
+  "source_filename": "tra19560200_001_s1.pdf",
+  "source_sha256": "c95638ec8ee2b8a019c9debd6d01ddb4ae3c471ba1e57bdc6f9a6dc69ee05f34",
+  "treaty_id": "TRA19560200",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Paris, le 2 mars 1956\n\nMonsieur le Président,\n\nPar lettre en date de ce jour, vous avez bien voulu.\n\nme communiquer ce qui suit :\n\n\"En application de l'article III du Protocole du 2 mars 1956, j'ai l'honneur de vous proposer qu'une Çommission composée de représentants français et marocains se réunisse le 10 mars 1956 à Rabat pour examiner la question du :\n\ntransfert des pouvoirs de gestion jusqu'ici réservés, à l'exception des problèmes monétaires, financiers, militaires et diplomatiques qui seront traités soit à Rabat soit à\n\nParis \".\n\nJ'ai l'honneur de vous faire connaître l'accorá du\n\nGouvernement français sur' les dispositions qui précèdent.\n\nVevillez agréer, Monsieur le Président, J'assurance de ma très haute considération.\n\nA Son Excellence\n\nEmbarek BEKKAI\n\nPrésident du Gouvernement marocain\n\nPrésident de la Délégation marocaine\n\nCopie certifiée conforme.\n\nhaiten",
+      "quality_score": 0.997,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560200_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.795982,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560201_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.441037,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.43219,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560203_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.422494,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.42105,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560203_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.397185,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640106_011_s1",
+      "title": "Publication de l'accord au Journal officiel du",
+      "score": 0.396678,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630118_001_s1",
+      "title": "Publication au Journal officiel de l'échange de lettres sans le procès-verbal",
+      "score": 0.389807,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_001b_s1",
+      "title": "Lettre française sur l'article 6",
+      "score": 0.386199,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290061_001d_s1",
+      "title": "Lettre de dénonciation",
+      "score": 0.384935,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

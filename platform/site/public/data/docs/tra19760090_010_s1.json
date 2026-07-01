@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19760090_010_s1",
+  "title": "Certificat d'enregistrement à l'ONU",
+  "year": 1976,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.952,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "~: 꼭 UNITED NATIONS - ORGANISATION DES NATIONS UNIES No. 29870 CERTIFICATE of REGISTRATION The SECRETARY-GENERAL of the UNITED NATIONS hereby certifies that the following international agreement been registered with the secretariat. in accordance with rticle 102 of the Charter of the United Nations CERTIFICAT d'ENREGISTREMENT Le SECRETAIRE GENERAL de M'ORGANISATION des NATIONS UNIES certifie part enrésente que seacc…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760090_010_s1.pdf",
+  "source_filename": "tra19760090_010_s1.pdf",
+  "source_sha256": "9e8c3b2103a7824cf1c94a582b89fc7770c8a752bfb27a9447dac697d574a18b",
+  "treaty_id": "TRA19760090",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "~: 꼭\n\nUNITED NATIONS - ORGANISATION DES NATIONS UNIES\n\nNo. 29870\n\nCERTIFICATE of REGISTRATION\n\nThe SECRETARY-GENERAL of the UNITED NATIONS hereby certifies that the following international agreement been registered with the\n\nsecretariat.\n\nin accordance with\n\nrticle 102 of the Charter of the United Nations\n\nCERTIFICAT d'ENREGISTREMENT\n\nLe SECRETAIRE GENERAL de M'ORGANISATION des NATIONS UNIES certifie part enrésente que seaccord internat tommend iqué ci-après a été enregistré\n\nau Secrétariat,\n\nconformément\n\nl'Article 102 de la Charte des Nations Unies :\n\nNo. 21836. FRANCE AND TOGO:\n\nAgreement concerning economic,\n\nmonetary and financial\n\nco-operation.\n\nSigned at Lomé on 23 March 1976\n\nRegistered by France on 12 Aor il 1983.\n\nNO 21836. FRANCE ET TOGO\n\nAccordi cooperation tomat\n\nen mattère économ|que. monétaire et le 23 mars\n\nEncegistré par la France le 12 avril 1983.\n\nTINTED NATIONS\n\nLe Conseiller juridique:\n\nDone at\n\nNew York on 11 November 1986\n\nFor the\n\nSECRETARY-GENERAL\n\nThe Legal Counsel\n\nFait à New York le 11 novembre 1986\n\nPour le\n\nSECRETAIRE GENERAL",
+      "quality_score": 0.952,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.697449,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19680088_101_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.648002,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820004_990_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.583514,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.459566,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760088_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.453778,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.450367,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810127_011_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.446777,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_100_s1",
+      "title": "Certificat ONU d'enregistrement du Traité",
+      "score": 0.442032,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_100_s1",
+      "title": "Certificat ONU d'enregistrement de la convention",
+      "score": 0.44174,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810111_100_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.439539,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

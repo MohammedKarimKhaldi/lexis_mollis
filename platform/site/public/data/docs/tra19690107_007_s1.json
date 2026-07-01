@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19690107_007_s1",
+  "title": "Accusé de réception chypriote de l'instrument français",
+  "year": 1969,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLIC OF CYPRUS MINISTRY OF FOREIGN AFFAIRS ARN 4.12.69 85 No. 1485/69 The Hinistry of Foreign Affalrs presents Its compliments to the Embassy of france and has the honour to acknowledge recelpt of the bassy's Mote lo. 100 of Morember 29, 1969, enclosing a letter from Hob. the Minister of Foreles Affairs of the french Republlo addressed to the Mintster of Foreign Affairs of the Republie of Cyprus by which the lat…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19690107_007_s1.pdf",
+  "source_filename": "tra19690107_007_s1.pdf",
+  "source_sha256": "a34d8dbe23bf9054c4af5b9feb0281212c76879c0726fce95aa462f3c8e04f07",
+  "treaty_id": "TRA19690107",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLIC\n\nOF CYPRUS\n\nMINISTRY OF FOREIGN AFFAIRS\n\nARN\n\n4.12.69 85\n\nNo. 1485/69\n\nThe Hinistry of Foreign Affalrs presents Its\n\ncompliments to the Embassy of france and has the honour to acknowledge recelpt of the bassy's Mote lo. 100 of Morember 29, 1969, enclosing a letter from Hob. the Minister of Foreles\n\nAffairs of the french Republlo addressed to the Mintster of\n\nForeign Affairs of the Republie of Cyprus by which the latter is notifled Is accordance with Article XVI, para. 2, of the\n\nAgreement on Cultural, Sclentifie and Technical Co-operation between the tro Governents that the procedure required by the\n\nConstitution of the French Republic for bringing into force the said Agreement has been completed.\n\n2. In this connection, the Ministry wishes to intors the Embassy that the procedure required by the Constitution of Cyprus 1s expected to be completed by the end of January 1970.\n\nThe Winlatry of Forelen Affairs aralls Itself\n\nof this opportunity to renew to the Babassy of France the assurances of its highest consideration.\n\n11 costa, December Z\n\n1969\n\nThe Embassy of Frances\n\nNicostea\n\n★",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19810140_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français : note verbale et lettre (avec, sur la note verbale, tampon arrivée le 4 février 1983 à l'ambassade de France)",
+      "score": 0.431808,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_005_s1",
+      "title": "Instrument chypriote (avec tampon arrivée le 16 août 1982 à l'ambassade de France)",
+      "score": 0.428842,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_51_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Macédoine du Nord",
+      "score": 0.426158,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840174_005_s1",
+      "title": "Instrument chypriote",
+      "score": 0.424301,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800233_004_s1",
+      "title": "Instrument chypriote AVEC tampon arrivé le 30 oct 19980 de l'ambassade de France",
+      "score": 0.424051,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_005_s1",
+      "title": "Instrument kenyan ET Accusé de réception de l'instrument français du 9 novembre",
+      "score": 0.407596,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_007b_s1",
+      "title": "Accusé de réception kenyan de l'instrument français daté du 17 novembre",
+      "score": 0.407352,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800128_010_s1",
+      "title": "accusé de réception sri-lankais de l'instrument français",
+      "score": 0.406794,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_006_s1",
+      "title": "Note accusant réception de l'approbation française et transmettant l'instrument maltais",
+      "score": 0.403199,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_003_s1",
+      "title": "Pouvoirs kenyans",
+      "score": 0.39868,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

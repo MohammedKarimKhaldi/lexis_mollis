@@ -1,0 +1,129 @@
+{
+  "document_id": "tra19280002_hun001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr",
+    "hu"
+  ],
+  "quality_score": 0.9078,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "A Magyar Népkéztarsagdig Kormánya ezennel csatlakozik a Kidllitdsok Nemzet+:ôzi Irodájét létrehozó, Parisban, 1928. évi november hó 22. napjan kelt és 1948-ban médositott egyez- ményhez. Ennek hiteléül a Magyar Népkoztarseság Kormdnyanak elntke és a Magyar Népküztérsasäig külugyminisztere a jelen esatlakogdgi nyilatkozatot aléiräsukkal és pecséttel ellátva kiadjék. x Kelt Budapesten az 1960. évi március ho 31. nepjë…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_hun001_s1.pdf",
+  "source_filename": "tra19280002_hun001_s1.pdf",
+  "source_sha256": "ca81f48f5f1ee43de9c961284be06c3d74d3e574f2c721465143e594e5ab1163",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "HUN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "A Magyar Népkéztarsagdig Kormánya ezennel csatlakozik a Kidllitdsok Nemzet+:ôzi Irodájét létrehozó, Parisban, 1928.\n\névi november hó 22. napjan kelt és 1948-ban médositott egyez- ményhez.\n\nEnnek hiteléül a Magyar Népkoztarseság Kormdnyanak elntke és a Magyar Népküztérsasäig külugyminisztere a jelen esatlakogdgi nyilatkozatot aléiräsukkal és pecséttel ellátva kiadjék.\n\nx\n\nKelt Budapesten az 1960. évi március ho 31. nepjën.\n\name\n\na Magy Népkoztérsaség Kormin a NN NépkBztüársaság elnoxe kiiligyminisztere",
+      "quality_score": 0.854,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "hu"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "TRADUCTION AUTHENTIQUE\n\nLe Gouvernement de la République Populaire\n\nHongroise adhère par la présente & la Convention instituant le Bureau International des Expositions, faite à Paris le 22 novembre 1928, et modifiée en 1948.\n\nEn fol de quoi le Président du Gouvernement de la\n\nRépublique Populaire Hongroise et le Ministre des Affaires\n\nEtrangères ont émis la présente déclaration d'adhésion munie de leur signature et sceau.\n\nFait à Budapest, le 31 mars 1960.\n\nDr. Ferenc MUNICH I.p.\n\nPrésident du Gouvernement de la République Populaire\n\nHongroise\n\nDI. Endre SIK I.p.\n\nMinistre des Affaires Etrangères de la République Populaire\n\nHongroise\n\nPour l'authenticité de la traduction:\n\nHanna Boleor\n\nHanna BOKOR\n\nPrenier Secrétaire au,\n\nEtrangères\n\nLUG\n\nVIDEN Y",
+      "quality_score": 0.9616,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_24_s1",
+      "title": "Dépôt de procès verbal de l'instrument de ratification",
+      "score": 0.394164,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_31_s1",
+      "title": "Instrument d'adhésion de la Hongrie",
+      "score": 0.391788,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_007_s1",
+      "title": "Instrument d'acceptation de l'Allemagne démocratique",
+      "score": 0.386707,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_018_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Corée du Sud",
+      "score": 0.383784,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_034_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.383206,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_031_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.382842,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.382674,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_65_s1",
+      "title": "Instrument de ratification de Monaco",
+      "score": 0.380416,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_058_s1",
+      "title": "Pouvoirs français",
+      "score": 0.380391,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.3801,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

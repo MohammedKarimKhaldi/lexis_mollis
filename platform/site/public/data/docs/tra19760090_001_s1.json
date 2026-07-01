@@ -1,0 +1,177 @@
+{
+  "document_id": "tra19760090_001_s1",
+  "title": "Accord",
+  "year": 1976,
+  "doc_type": "Accord",
+  "languages": [
+    "ca",
+    "en",
+    "et",
+    "fr",
+    "so"
+  ],
+  "quality_score": 0.7479,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "F i = ni - ` erta ~ Lra -.. E E .. ssw -r.a + dmn maa . ` O me T . ¿o r a aa + g . g À an e E CT l eaa e g DS POMI Desis oana. r E ete 1 ii aaki prU ` b ` - E - ACCORD DE COOPERATION ECONOMIULE. MONETAINE ENTRE É I LE GOIVERNEMENT DE LA REPUBLIQUE FRANCAISE EXMATIKH FIA | : HE LE GOIVERNEMENT DE LA HEPLBLIQLE TUGOLAISE - 1 - Le gouvernement de la République française d'une part, Le gouvernement de la République togo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760090_001_s1.pdf",
+  "source_filename": "tra19760090_001_s1.pdf",
+  "source_sha256": "a7438335cdb4825498db587c5f88c016e73d88746c9569c05da72e2e841f15b0",
+  "treaty_id": "TRA19760090",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "F i = ni - ` erta ~ Lra -.. E E .. ssw -r.a + dmn maa .\n\n` O me T .\n\n¿o r a aa + g . g\n\nÀ an e E\n\nCT l eaa e g\n\nDS POMI Desis oana. r E ete 1 ii aaki prU `\n\nb ` - E -",
+      "quality_score": 0.4956,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "ca",
+        "et",
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD\n\nDE COOPERATION\n\nECONOMIULE. MONETAINE\n\nENTRE\n\nÉ I\n\nLE GOIVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nEXMATIKH\n\nFIA | : HE\n\nLE GOIVERNEMENT DE LA HEPLBLIQLE TUGOLAISE",
+      "quality_score": 0.8167,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "- 1 -\n\nLe gouvernement de la République française d'une part,\n\nLe gouvernement de la République togolaise, d'autre part,\n\nDésireux de développer les relations amicales existant entre leurs deux pays, dans un esprit de compréhension mutuelle, de confiance réciproque et de coopération,\n\nSoucieux d'établir entre les deux pays, sur la base d'une complète égalité entre partenaires, une coopération étroite dans un esprit de solidarité agissante,\n\nConscients de l'importance que revêt le développement\n\nde la coopération entre les deux pays en matière économique, monétaire et financière sur la base du respect des principes d'égalité en droit et avantages mutuels, de la souveraineté et de l'indépendance nationale,\n\nRésolus d'instaurer entre les deux pays un nouveau modèle de relations, compatible avec les aspirations de la\n\nCommunauté internationale vers un ordre économique plus juste, plus humain et plus équilibré,\n\nSont convenus des dispositions ci-après,\n\n.../...\n\n-2- ARTICLE PREMIER\n\nLa République française et la République togolaise conviennent de favoriser le développement de leurs relations économiques compte tenu de leurs obligations internationales et notamment de leur participation à la Convention de Lomé.\n\nARTICLE II\n\nLa coopération monétaire entre la République fransaise et la République togolatse s'inscrit dans le cadre de l'accord de coopération entre la République française et les Républiques membres de 1'Union Monétaire Ouest\n\nAfricaine signé le 4 décembre 1973 à Dakar.\n\nARTICLE III\n\nA la demande du gouvernement de la République togolaise, le gouvernement de la République française, dans la mesure de ses moyens, apporte à celui-ci, soit directement, soit par l'intermédiaire d'organismes spécialisés, une aide pour la réalisation des projets et programmes ayant pour objet le développement économique:\n\net social de la République togolaise.\n\nCette aide consiste notamment dans l'envoi d'experts ou de personnel d'assistance technique, dans la fourniture de matériels ou matériaux, dans la réalisation de travaux, dans la participation - sous quelque forme que ce soit au financement d'opérations ou groupes d'opérations inscrites au plan de développement économique et social de la République togolaise.\n\nLes modalités de cette aide feront l'objet de conventions particulières.\n\n.../..٠",
+      "quality_score": 0.9889,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "- 3-\n\n- 4 -\n\nARTICLE\n\nIV\n\nEn ce qui concerne les perceptions effectuées par les services douaniers et fiscaux, le gouvernement de la République togolaise fera bénéficier les biens visés à l'article 3 ci-dessus, importés pour l'exécution des opérations prévues au présent accord, du régime de la nation la plus favorisée.\n\nLa dénonciation devra être notifiée par la voie diplomatique au moins six mois à l'avance.\n\nLe présent accord entrera en vigueur le premier jour du deuxième mois suivant l'échange des instruments constatant l'accomplissement des procédures requises à cet effet dans chacun des deux Etats.\n\ncet échange aura lieu à Paris aussitôt que faire se pourra.\n\nARTICLE V\n\nLes ressortissants français chargés d'étudier et d'exécuter les opérations financées sur fonds français bénéficieront des garanties accordées aux personnels français de l'assistance technique mis à la disposition de la République togolaise en vertu de 1'Accord général de coopération technique franco-togolais.\n\nARTICLE VI\n\nLes relations entre le Trésor français et le\n\nTrésor togolais demeurent régies par la convention du\n\nI0 juillet 1963.\n\nARTICLE VII\n\nEn vue de faciliter l'application du présent accord et d'en suivre l'exécution, les deux Parties conviennent d'organiser, conformément aux usages inter- nationaux, des rencontres périodiques entre dólégués français et togolais au sein d'une commission paritaire créée à cet effet.\n\nFait à Lomé, le 23 mars I976\n\nen deux exemplaires originaux.\n\nPour le gouvernement de la République française\n\nPour le gouvernement\n\nde la République togolaise\n\nJean de LIPKOWSKI\n\nMinistre de la Coopération\n\nAyi Houenou HUNLEDE\n\nMinistre des Affaires\n\nEtrangères\n\nARTICLE VIII\n\nLe présent accord est conclu pour une période de deux ans renouvelable par tacite reconduction sauf dénonciation par l'une des Parties contractantes.\n\n.../٠.٠",
+      "quality_score": 0.9697,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "E",
+      "quality_score": 0.4688,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760088_001_s1",
+      "title": "Accord",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19830254_001_s1",
+      "title": "Protocole",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20110325_001_s1",
+      "title": "Accord",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19650054_100_s1",
+      "title": "Texte du procès-verbal de la XIIe commission mixte franco-italienne pour l'application de la convention culturelle",
+      "score": 0.934369,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19850080_001_s1",
+      "title": "Accord",
+      "score": 0.519912,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19930240_001_s1",
+      "title": "Accord",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_004_s1",
+      "title": "Protocole des conclusions de la commission de délimitation des zones démilitarisées des détroits",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610160_100",
+      "title": "Protocole de signature",
+      "score": 0.437043,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_001_s1",
+      "title": "Convention",
+      "score": 0.427899,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630107_001_s1",
+      "title": "Accord",
+      "score": 0.425716,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

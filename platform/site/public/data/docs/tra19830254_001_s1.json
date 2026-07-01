@@ -1,0 +1,185 @@
+{
+  "document_id": "tra19830254_001_s1",
+  "title": "Protocole",
+  "year": 1983,
+  "doc_type": "Protocole",
+  "languages": [
+    "af",
+    "fr",
+    "pt",
+    "so"
+  ],
+  "quality_score": 0.8119,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "ee e E EE E E EE s. --- -n o - . ann oo l. . +o g 2 G afie iii LE e waa on e ienai 2e ja CIE HADO o) E . poo i PROTOCOLE FINANCIER entre LE GOUVERNEMENI DE LA REPUBLIQUE FRANCAISE et LE GOUVERNEMENI DE LA REPUBLIQUE DE CHYPRE ARTICLE Ler - MONTANT ET OBJET DES CONCOURS FINANCIERS. e Gouvernement français consent au Gouvernement de la Républig e Chypre des facilités de crédit d'un montant maximum de CENT MILLIONS L F…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19830254_001_s1.pdf",
+  "source_filename": "tra19830254_001_s1.pdf",
+  "source_sha256": "dbd2a40a6d59bb20face87ccb38224dc40dbfb36f893756e4abdde6a015c4a7d",
+  "treaty_id": "TRA19830254",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ee e E EE E E EE s. --- -n o - . ann oo\n\nl.\n\n. +o g 2 G afie iii LE e\n\nwaa on e ienai 2e ja CIE HADO o)\n\nE\n\n. poo\n\ni",
+      "quality_score": 0.5782,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "so",
+        "af",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "PROTOCOLE FINANCIER\n\nentre\n\nLE GOUVERNEMENI DE LA REPUBLIQUE FRANCAISE\n\net\n\nLE GOUVERNEMENI DE LA REPUBLIQUE DE CHYPRE",
+      "quality_score": 0.9728,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "ARTICLE Ler - MONTANT ET OBJET DES CONCOURS FINANCIERS.\n\ne Gouvernement français consent au Gouvernement de la Républig\n\ne Chypre des facilités de crédit d'un montant maximum de CENT MILLIONS L\n\nFRANCS (100 MF) pour financer l'achat en France d'un projet de centraux élec troniques.\n\nCes concours financiers prennent la forme :\n\n- de prêts du Trésor Public Français d'un montant maximum de\n\nTRENTE MILLIONS DE FRANCS (30 MF) :\n\nfrançais.\n\nARTICLE 2 - MECANISME D'UTILISATION DES CONCOURS FINANCIERS.\n\nLe financement des contrats financés en application de ce proto\n\npole de canué par l'utilisation enjointe du prêt du irésor et des crédits\n\nLes acomptes versés à la commande sont fixés à 10 % au minimum\n\ndu montant des contrats: ils sont payés par tirage sur le seul prêt du Trésor.\n\nous les autres paiements sont effectues par tirage simultané sur le prêt o résor et les crédits privés garantis\n\nà hauteur de 70 % de la part rapatriable des contrats.\n\nTA",
+      "quality_score": 0.9672,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "ARTICLE 3 - MODALITES EI CONDITIONS DES CONCOURS FINANCIERS.\n\na) Les prêts du Trésor portent intérêt à 2 8 sur le montant restant dü et sont amortissables en 30 ans en 38 semestrialites égales et successives, la première échéant 138 mois après le dernier jour du trimestre calendaire au cours duquel aura été\n\nle premier tirage quel qu'en ait été le montant.\n\nb) Les intérêts courent à partir de la date de chaque tirage et sont liquidés et payés à la fin de chaque miers venant à échéance six mois après le dernier jour du tri- mestre calendaire au cours duquel le premier tirage aura été effectué.\n\nc) Une convention d'application entre le Crédit National, agissant\n\nd) Les crédits commerciaux garantis seront amortis en vingt semes- trialités égales et successives, la première intervenant sis mois à compter de la réception provisoire (\"connissioning\") des installations.\n\nde dayre go. Le comite du Gouvernements de Ta Républiq centrale\n\ne) La monnaie de compte et de paiement utilisée est le franc français.\n\nARTICLE 4 - DELAI DE MISE EN OEUVRE.\n\nour ouvrir droit aux crédits définis à l'Article 1, le contra\n\npassé avec le fournisseur français devra être conclu au plus tard le 31 Ma 1984.\n\nAucun tirage sur le prêt du Trésor ouvert par le présent protocole\n\nne pourra intervenir postérieurement au 31 Mai 1987.\n\nTA",
+      "quality_score": 0.9735,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "ARTICLE 5 - MODALITES D'IMPUTATION.\n\nARTICLE 6 - TRANSPORI ET ASSURANCE.\n\nLes contrats financés au titre du présent protocole sont facturés\n\nau prix FOB, le financement du prêt et de l'assurance\n\nest effectué par utili-\n\nsation du prêt du Trésor et des crédits cormerciaux dans les proportions dé- finies à l'Article 2 quand :\n\n- le transport est effectué avec un connaissement français et est certifié conne service français par les services français de la\n\nMarine Marchande ;\n\n- l'assurance est contractée auprès d'une compagnie française.\n\nMICLE Z - ENTREE EN APPLICATION.\n\n•lique de sente pora ne entrer on vigueur de nat are ent ités requises à cet effet.\n\nFait à PARIS, le 8 Décembre 1,002\n\nPour le Gouvernement de la\n\nRépublique Française\n\nJULA\n\nThierry AULAGNON\n\n-ment de la\n\nRépi marque de Chypre,\n\nHaralambos HADJIPANAYIOTOU",
+      "quality_score": 0.9544,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "E",
+      "quality_score": 0.4256,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760090_001_s1",
+      "title": "Accord",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760088_001_s1",
+      "title": "Accord",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20110325_001_s1",
+      "title": "Accord",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19650054_100_s1",
+      "title": "Texte du procès-verbal de la XIIe commission mixte franco-italienne pour l'application de la convention culturelle",
+      "score": 0.934369,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19800233_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.870502,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19780215_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.870502,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "20090260_s1",
+      "title": "Protocole financier entre le Gouvernement de la République française et le Gouvernement de la République socialiste du Vietnam",
+      "score": 0.75373,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "20090267_s1",
+      "title": "Protocole financier entre le gouvernement de la République française et le gouvernement de la République socialiste du Vietnam relatif au projet de la ligne pilote de transport ferré urbain de la ville de Hanoï",
+      "score": 0.75373,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192724_001_s1",
+      "title": "Protocole",
+      "score": 0.749789,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810248_001_s1",
+      "title": "Protocole",
+      "score": 0.697618,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

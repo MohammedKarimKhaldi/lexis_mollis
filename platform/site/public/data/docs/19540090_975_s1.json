@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_975_s1",
+  "title": "Pouvoirs yougoslaves",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9684,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PIEINS POUVOIRS \" Le Secrétaire d'Etat aux Affaires Etrangeres de la République Populaire Fedérative de Yougoslavie autorise par les présentes, au nom au Gouvernement de la République Populaire Fédérative de Yougoslavie, Son Excellence Lorsieur Sergije MAKIEDO, Ministre Plénipotentiaire, Conseiller à l'Ambassade de la République Populaire Fedérative de Yougoslavie a Paris, à signer, au nom du Gouvernement de la Répu…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_975_s1.pdf",
+  "source_filename": "19540090_975_s1.pdf",
+  "source_sha256": "bf1d00723fe675a66006f545d57ef9f4de3675f5682e65fecdb660dd0ad853dc",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "YUG001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PIEINS POUVOIRS \"\n\nLe Secrétaire d'Etat aux Affaires Etrangeres de la République Populaire Fedérative de Yougoslavie autorise par les présentes, au nom au Gouvernement de la République\n\nPopulaire Fédérative de Yougoslavie,\n\nSon Excellence Lorsieur Sergije MAKIEDO, Ministre\n\nPlénipotentiaire, Conseiller à l'Ambassade de la République\n\nPopulaire Fedérative de Yougoslavie a Paris, à signer, au nom du Gouvernement de la République\n\nPopulaire Fédérative de Yougoslavie, la Convention Internationale pour l'unification des méthodes d'analyse et d'appréciation des vins, sous réserve d'approbation ultérieure conformément aux prescriptions constitutionnelles en vigueur dans la République\n\nPopulaire Fédérative de Yougoslavie.\n\nEN FOI DE QUUI les présents Pleins Pouvoirs sont délivrés à Son Excellence Monsieur MAKIEDO.\n\nFAIT au Secrétariat d'Etat des Affaires Etrangères à Beogrid le six avril mil neuf cent cinquante cina. UW\n\nKora Poporio\n\nPun. No. 49/IX-55.",
+      "quality_score": 0.9684,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_975_s1",
+      "title": "Instrument yougoslave",
+      "score": 0.43431,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_79_s1",
+      "title": "Pouvoirs yougoslaves",
+      "score": 0.381389,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_18_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.376744,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.371455,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.369774,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720042_003",
+      "title": "tra19720042_003",
+      "score": 0.369366,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_795_s1",
+      "title": "Pouvoirs Serbes-Croates-Slovènes",
+      "score": 0.367907,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470022_001_s1",
+      "title": "Traité (ensemble 1 échange de lettres a/s rapports consulaires)",
+      "score": 0.36475,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230143_002_s1",
+      "title": "Lettre en réponse",
+      "score": 0.364607,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240055_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.363787,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

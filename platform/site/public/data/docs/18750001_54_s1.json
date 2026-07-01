@@ -83,5 +83,13 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra16480001_001",
+      "title": "Traité de paix, dit 'traité de Westphalie'",
+      "score": 0.356912,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

@@ -1,0 +1,244 @@
+{
+  "document_id": "tra19800233_001_s1",
+  "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+  "year": 1980,
+  "doc_type": "Protocole",
+  "languages": [
+    "en",
+    "fr",
+    "pt",
+    "ro"
+  ],
+  "quality_score": 0.8875,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "L Aii A E ean PROTOCOLE FINANCIER entre le Gouvernement de la République Française et le Gouvernement de la République de Chypre. Afin de renforcer les liens traditionnels d'amitié et de coopération qui les unissent, le Gouvernement de la Républi- que Française et le Gouvernement de la République de Chypre sont conclure un protocole, dont les dispositions sont ARTICLE ler - Montant et objet des concours financiers.…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19800233_001_s1.pdf",
+  "source_filename": "tra19800233_001_s1.pdf",
+  "source_sha256": "4236443700e947306b010c0871ffde9f382deb2aa03c62b65fb9a5bd5b83d91e",
+  "treaty_id": "TRA19800233",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "L Aii A E ean",
+      "quality_score": 0.5437,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "PROTOCOLE FINANCIER\n\nentre le Gouvernement de la République Française et le Gouvernement de la République de Chypre.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "Afin de renforcer\n\nles liens traditionnels d'amitié et\n\nde coopération\n\nqui les unissent, le Gouvernement de la Républi-\n\nque Française et le Gouvernement de la République de Chypre sont\n\nconclure un protocole, dont les dispositions sont\n\nARTICLE ler - Montant et objet des concours financiers.\n\nLe Gouvernement français consent au Gouvernement de la\n\nRépublique de Chypre\n\ndes facilités de crédit\n\nd'un montant\n\nde SOTXANTE MILLIONS\n\n(60 M.F.), pour\n\n1'achat\n\nen France de biens et services français destinés à la\n\nréalisa.\n\nd'équipements industriels agréés par les\n\nfigurant sur une liste annexée au présent protocole.\n\nCes concours financiers prennent la forme :\n\n- de prêts du Trésor Public français d'un montant maximum de\n\nQUINZE MILLIONS DE FRANCS (15 M.F.) ;\n\n- de crédits commerciaux d'un montant maximum de QUARANTE CINQ\n\nMILLIONS DE FRANCS (45 M.F.) garantis par 1'Etat français.\n\nARTICLE 2 - Mécanisme d'utilisation des concours financiers.\n\nLe financement des projets figurant\n\nest assut\n\nré par l'utilisation conjointe de prêts du Trésor, d'une part, des crédits commerciaux garantis, d'autre part.\n\na) Le montant des droits de tirage\n\nsur les prêts du Trésor\n\nfrançais est fixé à 25 % du montant rapatriable en France des commandes de biens et services français ;\n\nb) l'utilisation des prêts du Trésor Public français est réservée au financement des acomptes versés aux fournisseurs français,\n\nqui seront égaux à 25 % du montant des biens\n\net ser-\n\nvices d'origine française. Le montant des acomptes versés à la commande devra être égal à 10 % au moins du montant rapatriable en France des commandes de biens et services français.\n\nc) Les crédits commerciaux garantis couvrent le solde du financement des projets à concurrence de\n\n75 % de la part rapa-\n\ntriable.\n\nARTICLE 3 - Modalités et conditions des concours financiers.\n\ni) Les prêts du Trésor portent intérêt à 3,5 % sur Le mon ant restant dû et sont amatissables er\n\n22 ans\n\nen 30 semestria-\n\nlités égales et successives, la première\n\néchéant 90 mois après\n\nla fin du trimestre au cours duquel aura été effectué le prenier tirage quel qu'en ait été le montant ;\n\nge et b)\n\nles intérêts courent liquidés\n\net payés à\n\npartir de la date\n\nde chaque\n\ntira-\n\nla fin de chaque semestre ;\n\n.../...",
+      "quality_score": 0.992,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "c) une convention d'application entre le Crédit National agissant pour le compte du Gouvernement français, et la\n\nBanque\n\nCentrale\n\nde Chypre, agissant pour le compte du Gouvernement\n\nde\n\nla République de Chypre, précisera les modalités d'utilisation et de remboursement des prêts du Trésor français.\n\nd) Les crédits commerciaux garantis seront amortis en vingt\n\nsemesrialités égales et\n\nsuccessives, la première intervenant six\n\nmois à compter de la mise en service des\n\ninstallations ou des 1ut\n\nvraisons d'équipements ou de la fin des prestations de\n\nservices,\n\nselon les stipulations du\n\ncontrat commercial ou de la convention\n\nbancaire.\n\nu:\n\n…\n\ni: :\n\n照\n\nLe même contrat ou la même convention fixeront le déla\n\nmaximum\n\nséparant la signature du contrat\n\net le point de départ\n\nde l'amortissement des crédits. Ils fixeront également les\n\ntaux\n\nd'intérêt de ces crédits, qui seront les taux usuels des crédits de l'espèce, auxquels s'ajoute la prime\n\nd'assurance-crédit de la\n\nCOFACE. Ces\n\ncrédits seront garantis\n\npar la Banque Centrale de\n\nChypre pour le compte du Gouvernement de la République de Chypre\n\ne) La monnaie de compte et de paiement utilisée est le franc français.\n\nARTICLE 4 - Délai de mise en oeuvre.\n\nPour ouvrir droit aux crédits définis à l'article 1,\n\nles contrats particuliers passés avec les fournisseurs français devront\n\nêtre conclus au plus tard le 31 décembre 1981. Ils de-\n\nvront atteindre un montant minimum de TROIS MILLIONS DE FRANCS.\n\nAucun tirage sur le prêt du Trésor ouvert par le\n\nprésent protocole ne pourra intervenir postérieurement au\n\n31 dé-\n\ncembre 1984.\n\nARTICLE 5 - Modalités d'imputation.\n\nL'imputation définitive sur le\n\nprésent protocole des\n\ncontrats\n\nafférents aux projets visés à l'article ler\n\nsera déci-\n\ndée par échange de lettres entre le Conseiller Commercial près l'Ambassade de France à Chypre, agissant sur délégation torités françaises compétentes\n\net le Ministère des Finances de\n\nla République de Chypre.\n\nLa même procédure d'échange de lettres pourra autori-\n\nser la substitution\n\nde nouveaux projets à ceux qui figurent sur\n\nla liste annexée au présent protocole.\n\nARTICLE 6 - Transport et Assurance.\n\nLes contrats financés au titre du présent protocole\n\nsont facturés au prix\n\nF.O.B.\n\nToutefois le financement du frêt\n\net de l'assurance\n\nest assuré dans les proportions visées à l'ar-\n\nicle 2 ci-dessus, par utilisation du prêt du Trésor et des crédits commerciaux\n\ngarantis, lorsque le transport est effectué\n\nsous pavillon frangais\n\nou sous connaissement émis par un arma-\n\nteur français et l'assurance contractée auprès d'une société\n\n.../...",
+      "quality_score": 0.9971,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "ARTICLE Y - Entrée en application.\n\nLe présent protocole entrera en vigueur dès que le\n\nGouvernement\n\nde la République de Chypre aura notifié au Gou-\n\nvernement\n\nfrançais\n\nl'accomplissement des formalités requises\n\nà cet effet.\n\nFait à PARIS, Ie L9aour 1980 en deux exemplaires originaux,\n\nlangue française,\n\nen\n\nPour le Gouvernement de la\n\nRépublique Française,\n\net,\n\nPour le Gouvernement de 1a\n\nRépublique de Chypre,\n\nPhilippe LAGAYETTE\n\nHaralambos HADJIPANAYIOTOU\n\n' fit",
+      "quality_score": 0.9672,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "ANNEXE\n\nListe indicative des projets prévus à l'article 1er du présent protocole\n\nFrojets\n\nEquipement d'aide à l'attérissage\n\nEquipement portuaire de manutention\n\nEquipements médicaux\n\nAbattoir\n\nRadars de surveillance\n\nMontant approximatif de la dépens 4\n\nmilłions F,",
+      "quality_score": 0.9134,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "g E a 7 T ` aT mra T ta tlu zoel o e oarl’ Toate ten e Teal a T aa e E a fa pl aT o a Ayaat ee Taa ate 2r. oor +a ` : aaa Ka La. oa . a MO Li . A a a’ ao mo e - Diar = Er e Dh Tato Jt To Aole a 7 T E a a eO S a\n\nS mo’ BOO TITULLIN = e.. LO Jatra’ vos'n = t Te oe ear t le e a A D T e Te ea S Pape t T OTURA L au",
+      "quality_score": 0.5416,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "pt",
+        "en",
+        "ro"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "PARIS, 1o 29 Août 1980\n\nMonsieur 1e Président,\n\nAu cours dos entretiens du 28 et 29 août nous\n\navons ótabłii ensemble une liste de projəta susceptibles d'être financés au titre du protocole finacier du 29 août 1980 signé au nom dọ nos deux gouvernements, Cette listo əst annexéəo au protocole.,\n\nDeux autres projets d'équipement pourraient éga-\n\nlement tre éligibles au financement şur protocole si leur état d'avancement permettait la signatura du contamet avant le 3t décembre 1981 :;\n\n~ Equipement də studios de télévision sesrasesses 10 MaF\n\n— Usine de dossalement d'eau de mèr sasasrensssseo 10 MF,\n\nNous aommes convenus què le financemont de ces\n\nprojets au titre du protocole du 29 août 1980 ne pourrait dtre obtenu que par substitution à un ou plusieurs projets figurant sur la liste anneréo au protocole, Cotte substitution serait déidéo d'un commun accord sous forme d'un échange de lettres,\n\nJe vous serais reconnaissant de me confirmer l'ac-\n\ncord də votre gouvernement sur ce qui précède.\n\nJo vous prio d'agréer, Monsieur le Président,\n\nl'assurance doe ma haute considération,\n\nLo Président de la Délégation\n\nFrançaise, be\n\nPhilippe LAGAYETTE\n\nMonsieur le Président do ta Délégation ČChypriote\n\n-ari mg m a",
+      "quality_score": 0.9077,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "PARIS, le 29 Août 1980\n\nMonsieur le Président,\n\nVous avez bien voulu m'adresser ce jour une\n\nlettre dont le contenu est le suivant :\n\n\"Au cours des entretiens du 28 et 29 août nous\n\navons établi ensemble une liste de projets susceptibles d'être financés au titre du protocole financier du 29 août 1980 signé au nom de nos deux gouvernements. Cette liste est annexée\n\nDeux autres projets d'équipement pourraient éga-\n\nlement être éligibles au financement sur protocole si leur état d'avancement permettait la signature du contrat avant le 31 décembre\n\n1981 :\n\n- Equipement de studios de télévison .......... 10 M.F.\n\n- Usine de dessalement d'eau de mer ........... 10 M.F.\n\nsommes convenus que le financement de ces\n\nprojets au titre du protocole du 29 août 1980 ne pourrait être obtenu que par substitution à un ou plusieurs projets figurant sur la liste annexée au protocole, Cette substitution serait décidée d'un commun accord sous forme d'un échange de lettres• cord de votre\n\nJe vous serais reconnaissant de me confirmer l'acgouvernement sur ce qui précède\".\n\nJ'ai l'honneur de vous confirmer l'accord de mon\n\ngouvernement sur ce qui précède.\n\nl'assurance\n\nJe vous prie d'agréer, Monsieur le Président, ma haute considération.\n\nLe Président de la Délégation\n\nChypriote,\n\nHaral ambos HADJIPANAYIOTOU\n\nMonsieur le Président de la Délégation\n\n• Française\n\n1机IH 時小洋年体个",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "FARIS, le 29 Août 1980\n\nMonsieur łe Président, àu cours de la négociation du protocole financier\n\nsigné ce jour, nous avons prévu à iftarticle 4 dudit protocole que, pour ouwir droit aux crédits définis à l'article 1, les contrats particuliers passés avec les fournisseurs français devraient atteindre un montant minimum de troie millions F,\n\nJ'ai 1'h nneur de vous confirmer mon accord pour\n\nque, dans des cas exceptionnels, cette limite puisse être réduite à deux millions F, par échange de lettres entre le\n\nConsoilier Commercial près 1l’Ambasaesde de France à Chypre agis.\n\nmimmin o oo o Bant sur délégation des autorités françaises compétentes et le\n\nMinistère dos Finances de la République de Chypre.\n\nJo vous serais reconnalssant de bien vouloir me\n\ndonner votre accord sur ce qui prócède,\n\nVeuillez agréer, Monsieur io Président, l'assu-\n\nrances do ma haute considération,\n\nLe Président de la Délégation\n\nFrançaise,\n\nLa\n\nPhilippe LAGATETTE\n\nMonsieur le Président de 1a Délégation Chypriote",
+      "quality_score": 0.9051,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "PARIS, le 29 Août 1980\n\nMonsieur le Président,\n\nVous avez bien voulu me faire parvenir ce jour\n\nune lettre dont les termes sont les suivants :\n\n\"Au cours de la négociation du protocole financier\n\nsigné ce jour, nous avons prévu à l'article 4 dudit protoque, pour ouvrir droit aux crédits définis à l'article 1, les contrats particuliers passés avec les fournisseus français devraient atteindre un montant minimum de trois millions F.\n\nJ'ai l'honneur de vous confirmer mon accord pour\n\nque, dans\n\ndes cas exceptionnels, cette limite puisse être\n\nréduite à\n\ndeux millions F. par\n\néchange de lettres entre 1e\n\nMinistère des Finances de la République de Chypre et 1e\n\nConseiller Commercial près l'Ambassade de France à Chypre\n\ndélégation des autorités françaises compéten- Je vous serais reconnaissant de bien vouloir me\n\ndonner votre\n\naccord sur ce qui précède\".\n\nJ'ai l'honneur de vous confirmer l'accord de mon\n\nGouvernement sur ce qui précède.\n\nVeuillez agréer, Monsieur le Président, l'assu-\n\nrance\n\nhaute considération.\n\nLe Président de la Délégation\n\nChypriote,\n\nHaralambos HADJIPANAYIOTOU\n\nMonsieur le Président de la Délégation Française",
+      "quality_score": 0.9948,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19780215_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830254_001_s1",
+      "title": "Protocole",
+      "score": 0.870502,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "20090260_s1",
+      "title": "Protocole financier entre le Gouvernement de la République française et le Gouvernement de la République socialiste du Vietnam",
+      "score": 0.786088,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "20090267_s1",
+      "title": "Protocole financier entre le gouvernement de la République française et le gouvernement de la République socialiste du Vietnam relatif au projet de la ligne pilote de transport ferré urbain de la ville de Hanoï",
+      "score": 0.786088,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192724_001_s1",
+      "title": "Protocole",
+      "score": 0.778405,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182297_001_s1",
+      "title": "Protocole (entrée en vigueur à la date de sa signature)",
+      "score": 0.718341,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810248_001_s1",
+      "title": "Protocole",
+      "score": 0.707327,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182294_001_s1",
+      "title": "Protocole",
+      "score": 0.672464,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202747_001_s1",
+      "title": "Accord",
+      "score": 0.647617,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840174_001_s1",
+      "title": "Protocole (ensemble 1 annexe)",
+      "score": 0.633078,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

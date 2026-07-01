@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19470022_012_s1",
+  "title": "Échange de lettre (lettre philippine) a/s échanges commerciaux, culturels et relations de bon voisinage",
+  "year": 1947,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Confidenticl Paris, June 26, 1947 Excellency: In your letter of even date and following our recent conversations, Your Excellency was so good as to convey to me the desire of the French Government to foster commercial and cul- tural relations ketween the Philippines and France and more specifically to promote good neighbor intercourse between the Republic of the Philippines and Indochina. I have the honor to confirm…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19470022_012_s1.pdf",
+  "source_filename": "tra19470022_012_s1.pdf",
+  "source_sha256": "e20263a95dfd9ba1d5b0b73ea30c1cf28fc9d11270acc439fc350f3acac21e7e",
+  "treaty_id": "TRA19470022",
+  "treaty_number": "012",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Confidenticl\n\nParis, June 26, 1947\n\nExcellency:\n\nIn your letter of even date and following our recent conversations, Your Excellency was so good as to convey to me the desire of the\n\nFrench Government to foster commercial and cul- tural relations\n\nketween the Philippines and\n\nFrance and more\n\nspecifically to promote good\n\nneighbor intercourse between the Republic of the Philippines and Indochina.\n\nI have the honor to confirm to Your Ex- cellency my personal view that due to the pro- ximity of Indochina and the Philippines the initial\n\nstudy at an early date of your sugges-\n\ntion is acceptable to my Government.\n\nAccept, Excellency, the assurances of my highest consideration.\n\nELPIDIO QUIRINO\n\nVice-President and concurrently\n\nSecretary of Foreign Affairs\n\nHis Excellency\n\nMonsieur Georges Fidault\n\nMinister\n\nfor Foreign Affairs\n\nParis,\n\nFrance",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19470022_011_s1",
+      "title": "Échange de lettre (lettre française) a/s échanges commerciaux, culturels et relations de bon voisinage",
+      "score": 0.446184,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470022_001_s1",
+      "title": "Traité (ensemble 1 échange de lettres a/s rapports consulaires)",
+      "score": 0.441024,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470022_100_s1",
+      "title": "Publication La Documentation française (texte du traité ensemble son échange de lettres)",
+      "score": 0.40298,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.389508,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19780215_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.374217,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610054_001",
+      "title": "Lettre britannique",
+      "score": 0.373204,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630043_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.372273,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr008_s1",
+      "title": "Extension de l'adhésion aux Bahamas",
+      "score": 0.369061,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_012_s1",
+      "title": "Dénonciation siamoise du traité",
+      "score": 0.367959,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.367914,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

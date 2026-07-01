@@ -1,0 +1,116 @@
+{
+  "document_id": "19660161_22_s1",
+  "title": "Pièces dans 19280002",
+  "year": 1966,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9824,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTÈRE DES AFFAIRES ÉTRANGÈRES LIBERTÉ - ÉGALITÉ - FRATERNITÉ RÉPUBLIQUE FRANÇAISE PARIS. LE POUVOIRS Au nom du Gouvernement de la République Françalse, Nous, Ministre des Affaires Etrangères, donnons pouvoirs par ces présentes à Monsieur Léon BARETT ancien Ministre, Premier Délégué auprès du Bureau Inter- national des Expositions pour signer à Paris le Protocole portant modification de l'Article IV de la Convent…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_22_s1.pdf",
+  "source_filename": "19660161_22_s1.pdf",
+  "source_sha256": "04ed35518ebb3532d87ed3d2c890a03999b4d6b1c6ec13d1a0e445e4dd540669",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "GBN",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTÈRE\n\nDES\n\nAFFAIRES ÉTRANGÈRES\n\nLIBERTÉ - ÉGALITÉ - FRATERNITÉ\n\nRÉPUBLIQUE FRANÇAISE\n\nPARIS. LE\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République\n\nFrançalse, Nous, Ministre des Affaires Etrangères, donnons pouvoirs par ces présentes à Monsieur Léon\n\nBARETT\n\nancien Ministre, Premier Délégué auprès du Bureau Inter- national des Expositions pour signer à Paris le Protocole portant modification de l'Article IV de la Convention\n\nsignée &\n\nParis le 22 Novembre 1928, concernant les Expositions Inter - nationales./\n\nFAIT & PARIS, le 14 novembre 1966\n\nLe Ministre Des Affaires Etrangères.)\n\n窗RANEg 52경",
+      "quality_score": 0.9824,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.500524,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860069_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.496767,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810034_002",
+      "title": "Pouvoirs français",
+      "score": 0.4839,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.435518,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_12_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.406195,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_39_s1",
+      "title": "Note verbale d'adhésion du Liban",
+      "score": 0.397164,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_31_s1",
+      "title": "Pouvoirs de signature du Liban",
+      "score": 0.396881,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_11_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.390688,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.390043,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_37_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification",
+      "score": 0.389695,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

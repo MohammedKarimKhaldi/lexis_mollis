@@ -1,0 +1,73 @@
+{
+  "document_id": "tra18800054_001_s1",
+  "title": "Procès-verbal",
+  "year": 1880,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7982,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Au nom de la France et en vertu des drorts qui m'ont che conferes le 1o septembre 1880 par le Roi makoko, le 3 octobre 1840j ai pris passession chu territaire qui i stend entre la riviere Ojue . et Impita. En signe de cette prise de pamini, ¡ ci plante le pavellon prancais a Okila en presence de Naba - Scanho Vegackala - ngaeko ma suite et anan de mai don autorite en ette circonstance. Lai umis a chaun des chets que…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18800054_001_s1.pdf",
+  "source_filename": "tra18800054_001_s1.pdf",
+  "source_sha256": "78fc78976686edc01db34bbfa828e9a81ce224efad1f92a9c82f489a9473ec57",
+  "treaty_id": "TRA18800054",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Au nom de la\n\nFrance\n\net en vertu\n\ndes drorts qui m'ont che conferes le 1o septembre 1880 par le Roi makoko, le 3 octobre 1840j ai pris passession\n\nchu\n\nterritaire qui i stend entre la riviere Ojue .\n\net Impita. En signe de cette prise de pamini, ¡ ci plante le pavellon prancais a Okila en presence de Naba - Scanho Vegackala - ngaeko ma suite et anan de mai don autorite en ette circonstance. Lai umis a chaun des chets que occupent cotte partu de territoir un parition Franenis; a fin\n\nSes l'arborent sur leurs sillages in sigas de ma paire de possession\n\nas nom de la\n\nFrance. les chefs officiellement informes par\n\nAgalième de la deision De Makoko s'incent devant son autorite et acceptent le pavillon et par leur signe fait cy Dessous Donnent ache De lava athesion a la cession de herriterre faite par mokoko. Le sergent malamine aver e mateloto\n\n-reste\n\na la garde can",
+      "quality_score": 0.8125,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "pavillon et est nomme prouvesairement thet de la station francaise de Mouna .\n\nPar l'envoi a Makoko de ce document fait en tuple et ruche de ma signature et du signe des chefs ses\n\nvasaus je Domn\n\nmokoka acte de ma prise\n\nde passerion\n\nde cette partia de son territaire paus échabinemen à une station francaise\n\nFait a\n\nnecouna dans les chats\n\nmakoko le 3 Odabre 1880 2 T. . V° 6. Jaunguan de Brasse\n\nde chet Agalieme representant de mokoko a fait y Dessous son\n\nSigne. M de chet scianh\n\nNgaekala qui\n\nporte le ballier D'investiture Domai\n\nde chit ngacko a fait y dessous a mm signa l\n\npar mobako es commande a nicoume\n\nSous la sanuscunche de mokako a\n\nde chet Juma Vues\n\nlais ly dessou son ligne\n\na fait cy 'enam son bigna. /.\n\nLe chet niaba don digue fre\n\na fait en densa",
+      "quality_score": 0.7838,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18800053_001_s1",
+      "title": "Procès-verbal",
+      "score": 0.380265,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -45,5 +45,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_22_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.596014,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_35_s1",
+      "title": "Dépôt de l'instrument de ratification",
+      "score": 0.587382,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_53_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Russie",
+      "score": 0.436385,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_43_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Pérou",
+      "score": 0.433252,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_32_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de l'Italie",
+      "score": 0.427011,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_15_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.423306,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_20_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.419754,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_47_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion portugais",
+      "score": 0.409555,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_10_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.398206,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_73_s1",
+      "title": "Procès verbal d'échange des instruments de ratification du Venezuela",
+      "score": 0.375588,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940335_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1994,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9886,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Française Nº 286/94 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministr des Affaires Etrangères, donnons POUVOIRS par ces présentes à Madame Isabelle RENOUARD, Directeur des Français l'Etranger et des Etrangers en France, i pour signer entre le Gouvernement de la République française et 1‹ Gouvernement de la Confédération suisse un Accord sous form‹ d'échange de notes confirmant la création d'…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940335_002_s1.pdf",
+  "source_filename": "tra19940335_002_s1.pdf",
+  "source_sha256": "1eb39ba0f9881ca91e54f58bdeb1529657f661547d57a940623b6f7ba645c339",
+  "treaty_id": "TRA19940335",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République Française\n\nNº 286/94\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministr\n\ndes Affaires Etrangères, donnons POUVOIRS par ces présentes à\n\nMadame Isabelle RENOUARD, Directeur des Français\n\nl'Etranger et des Etrangers en France,\n\ni\n\npour signer entre le Gouvernement de la République française et 1‹\n\nGouvernement de la Confédération suisse un Accord sous form‹ d'échange de notes confirmant la création d'un bureau à contrôle:\n\nnationaux juxtaposés à l'aéroport de Genève Cointrin./.\n\nFAIT\n\nà PARIS, le\n\n10 NOVEMBRE 1994\n\nLe Ministre\n\ndes Affaires Etrangères\n\nMani fugi",
+      "quality_score": 0.9886,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19890267_002",
+      "title": "Pouvoirs français",
+      "score": 0.685944,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182365_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.530523,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910044_002",
+      "title": "Pouvoirs français",
+      "score": 0.409884,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19920387_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.40821,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.407257,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_002",
+      "title": "Pouvoirs",
+      "score": 0.40466,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.404614,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910242_002",
+      "title": "Pouvoirs français",
+      "score": 0.403909,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.400506,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.396605,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

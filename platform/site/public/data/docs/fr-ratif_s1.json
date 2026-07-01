@@ -1,0 +1,140 @@
+{
+  "document_id": "fr-ratif_s1",
+  "title": "Ratification française",
+  "year": 1960,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9738,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ratifications du Président de la République Française, Président de la Communauté, DE LA CONVENTION ENTRE LA FRANCE ET LA SUISSE RELATIVE AUX BUREAUX A CONTRÔLES NATIONAUX JUXTAPOSES ET AUX CONTRÔLES EN COURS DE ROUTE SIGNEE A BERNE LE 28 SEPTEMBRE 1960 Charles de Gaulle Président de la République Française, Président de la Communauté, A tous ceux qui ces présentes Lettres verront, Salut : UNE CONVENTION ENTRE LA FR…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/fr-ratif_s1.pdf",
+  "source_filename": "fr-ratif_s1.pdf",
+  "source_sha256": "a627db5e4a8977029390f2edca02022a4fc7d3bfde2b9d831a1d9c49b9d5e0bc",
+  "treaty_id": "TRA19600124",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ratifications\n\ndu Président de la République Française,\n\nPrésident de la Communauté,\n\nDE LA CONVENTION ENTRE LA FRANCE ET LA SUISSE\n\nRELATIVE AUX BUREAUX A CONTRÔLES NATIONAUX JUXTAPOSES\n\nET AUX CONTRÔLES EN COURS DE ROUTE\n\nSIGNEE A BERNE LE 28 SEPTEMBRE 1960",
+      "quality_score": 0.9599,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Charles de Gaulle\n\nPrésident de la République Française,\n\nPrésident de la Communauté,\n\nA tous ceux qui ces présentes Lettres verront,\n\nSalut :\n\nUNE CONVENTION ENTRE LA FRANCE ET LA SUISSE\n\nRELATIVE AUX BUREAUX A CONTRÔLES NATIONAUX JUXTAPOSES\n\nET AUX CONTRÔLES EN COURS DE ROUTE\n\nAYANT ETE SIGNEE A BERNE LE 28 SEPTEMBRE 1960\n\nCONVENTION DONT LA TENEUR SUIT :",
+      "quality_score": 0.9782,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "AYANT vu et examiné la dite\n\nCONVENTION NOUS L'avons approuvés et approuvons en toutes et chacune de sEs parties, en vertu des dispositions qui y sont contenues et conformément à l'article 52 de la Constitution.\n\nDÉCLARONS qu'ELLE EST acceptée, ratifié et confirmés et PROMETTONS qU'ELLE SERA inviolablement observés •\n\nEN FOI DE QUOI, Nous avons donné les présentes, revêtues du Sceau de la\n\nRépublique.\n\nLe Premier Ministre\n\nA Paris, le 6 DECEMBRE 1960\n\nY a fail\n\nPar le Président de la République,\n\nLe Ministre des Affaires\n\nEtrangères",
+      "quality_score": 0.9834,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.878513,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_056_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.859121,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_004",
+      "title": "Instrument français",
+      "score": 0.834131,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_326_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.815636,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_326_s1",
+      "title": "Instrument de ratification",
+      "score": 0.799017,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730140_004",
+      "title": "Instrument français",
+      "score": 0.788519,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530025_004",
+      "title": "Instrument français",
+      "score": 0.761906,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.760557,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_004",
+      "title": "Instrument français",
+      "score": 0.749477,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_004_s1",
+      "title": "Instrument français",
+      "score": 0.7456,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

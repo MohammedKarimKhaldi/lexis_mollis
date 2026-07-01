@@ -41,5 +41,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.573869,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_352b_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de la convention entre la Bulgarie et la Grèce",
+      "score": 0.427167,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_727_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification roumain",
+      "score": 0.416501,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_85_s1",
+      "title": "Procès-verbal de dépôt de la ratification de la Grèce",
+      "score": 0.416212,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Grèce",
+      "score": 0.412827,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_54_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.411445,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_42_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Luxembourg",
+      "score": 0.399296,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_22_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification espagnol",
+      "score": 0.397705,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.393807,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_631_s1",
+      "title": "Procès-verbal du dépôt de ratification du traité de paix du 10 septembre 1919",
+      "score": 0.392153,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

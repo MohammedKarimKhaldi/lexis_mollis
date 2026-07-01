@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19980155_731_s1",
+  "title": "Instrument de ratification britannique",
+  "year": 1998,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9941,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "WHEREAS a Convention between the Government of the United Kingdom of Great Britain and Northern Ireland, the Government of the French Republic, the Government of the Federal Republic of Germany and the Government of the Italian Republic on the Establishment of the Organisation for Joint Armament Cooperation (Organisation Conjointe de Cooperation en Matiere d'Armement) OCCAR was signed at Farnborough on 9 September 1…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19980155_731_s1.pdf",
+  "source_filename": "tra19980155_731_s1.pdf",
+  "source_sha256": "5b4b31ff45f1704d8639fbb74570e96a3a206aac2994c2489e67f2ff9d913ac3",
+  "treaty_id": "TRA19980155",
+  "treaty_number": "GBR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WHEREAS a Convention between the Government of the United Kingdom of Great Britain and Northern\n\nIreland, the Government of the French Republic, the\n\nGovernment of the Federal Republic of Germany\n\nand\n\nthe Government of the Italian\n\nRepublic on the\n\nEstablishment of the Organisation for Joint\n\nArmament Cooperation (Organisation Conjointe de\n\nCooperation en Matiere d'Armement) OCCAR was signed at Farnborough on 9 September 1998;\n\nNOW THEREFORE the Government of the United\n\nKingdom of Great Britain and Northern Ireland, having considered the Convention aforesaid, hereby confirm and ratify the\n\nsame\n\nand\n\nundertake\n\nfaithfully to perform and\n\ncarry out all the\n\nstipulations therein contained.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "In witness\n\nwhereof\n\nthis Instrument\n\nof\n\nRatification is signed and sealed by Her Majesty's\n\nPrincipal Secretary of State for Foreign Affairs.\n\nof\n\nDone\n\nMay at\n\nLondon the\n\nTwo thousand.\n\nthird\n\nday\n\nMoon Coch",
+      "quality_score": 0.9883,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19980155_031_s1",
+      "title": "Instrument de ratification allemand",
+      "score": 0.422075,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_436_s1",
+      "title": "Document-cadre",
+      "score": 0.410313,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_096_s1",
+      "title": "Instrument d'adhésion belge",
+      "score": 0.403718,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_296_s1",
+      "title": "Instrument d'adhésion espagnol (et traduction)",
+      "score": 0.397531,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_326_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.389019,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "20220216_np_can_mlsa_veng_s1",
+      "title": "Accord",
+      "score": 0.387389,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100269_001_s1",
+      "title": "Traité",
+      "score": 0.377224,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_001_s1",
+      "title": "Convention",
+      "score": 0.375229,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182469_001_s1",
+      "title": "Accord (ensemble 3 annexes)",
+      "score": 0.375175,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.374293,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

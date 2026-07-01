@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19190005_008_s1",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1919,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9011,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "PROCES - VERBAL d'ECHANGE Les scussignés s'étunt réunis pout irocéder à l'échange des Ratifications du président de la Répulique Franguise et de Sa Majesté la Roi d'Italle sur le Truité d'i nigration et d'érierotion, de travail, d'asouranco et de Prévoyance soci-les signé à Rome, le 30 septentre 1919 ,entre ia France ot l'Italie, los Instruments ont été produits et ayant été, près exaren, trouvés en tonne et de frie…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190005_008_s1.pdf",
+  "source_filename": "tra19190005_008_s1.pdf",
+  "source_sha256": "ba21e1a98a9507362b4dcf90ca1c4462bdb135627ed4e5874fc28a6f71c67771",
+  "treaty_id": "TRA19190005",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES - VERBAL d'ECHANGE\n\nLes scussignés s'étunt réunis pout irocéder à l'échange\n\ndes Ratifications\n\ndu président de la Répulique Franguise et de Sa\n\nMajesté la Roi d'Italle sur le Truité d'i nigration et d'érierotion, de travail, d'asouranco et de Prévoyance soci-les signé à Rome, le 30 septentre 1919 ,entre ia France ot l'Italie, los Instruments ont été produits et ayant été, près exaren, trouvés en tonne et de frie, l'échenge en i été opéré.\n\nIM TOI de QUCI, les soussignés , durent autorisís\n\nà cet ailet, ont drassé le présent procès - Varbol qu'ils ont revêtu de leurs cechets.\n\nSetis Daeris",
+      "quality_score": 0.9011,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.400604,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19290031_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.396469,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.393577,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.376955,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190039_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.374789,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19220022_006_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.374775,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19530025_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.374142,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630134_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.372621,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18670023_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.354577,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19320073_100_s1",
+      "title": "Protocole d'échange de ratifications",
+      "score": 0.352162,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

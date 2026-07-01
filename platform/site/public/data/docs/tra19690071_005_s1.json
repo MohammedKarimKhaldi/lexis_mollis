@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19690071_005_s1",
+  "title": "Instrument allemand",
+  "year": 1969,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9787,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "1). Ambassade d'Allemagne Wi III A 4 - 83.75/2 - 2 copies - Schlut • Dient N. loster Note Verbale L'Ambassade de la République Fédérale d'Allemagne présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de porter à sa connaissance ce qui suit: L'accord franco-allemand sur la réalisation de l'airbus A 300 B signé à Paris le 29 mai 1969 prévoit dans l'article 13 pour son entrée en vigueur 1 'écha…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19690071_005_s1.pdf",
+  "source_filename": "tra19690071_005_s1.pdf",
+  "source_sha256": "826edc875668b43b1f406b12eba3738053d149e4d93def4d3c97a691323302d2",
+  "treaty_id": "TRA19690071",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1).\n\nAmbassade d'Allemagne\n\nWi III A 4 - 83.75/2\n\n- 2 copies -\n\nSchlut\n\n• Dient\n\nN. loster\n\nNote Verbale\n\nL'Ambassade de la République Fédérale d'Allemagne présente ses compliments au Ministère des Affaires\n\nEtrangères et a l'honneur de porter à sa connaissance ce qui suit:\n\nL'accord franco-allemand sur la réalisation de l'airbus A 300 B signé à Paris le 29 mai 1969 prévoit dans l'article 13 pour son entrée en vigueur 1 'échange de notifications de l'accomplissement des formalités constitutionnelles requises.\n\nL'Ambassade fait cette notification par la présente note et reste à l'attente de la notification correspondante du Ministère des Affaires Etrangères.\n\nL'Ambassade de la République Fédérale d'Allemagne\n\nsaisit cette occasion pour renouveler au Ministère des\n\nAffaires Etrangères les assurances de sa très haute considération.\n\nParis, le 8\n\naoût 1969\n\nMinistère des Affaires Etrangères\n\nParis\n\nBOTSCHA Y\n\nPARIS",
+      "quality_score": 0.9787,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19690071_004_s1",
+      "title": "Instrument français",
+      "score": 0.426777,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_05_s1",
+      "title": "Extension de la validité de la convention au Land de Berlin",
+      "score": 0.414315,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_009_s1",
+      "title": "Note verbale d'acceptation de l'Autriche",
+      "score": 0.400946,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.389112,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.388465,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_10_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion est-allemand",
+      "score": 0.384403,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.383416,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_07_s1",
+      "title": "accusé de réception de la note d'adhésion de l'Allemagne",
+      "score": 0.383113,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.380148,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.379908,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

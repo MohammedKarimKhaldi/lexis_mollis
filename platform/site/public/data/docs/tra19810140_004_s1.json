@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19810140_004_s1",
+  "title": "Instrument français",
+  "year": 1981,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9705,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ripublique Francaise- Le. Ministre des chations entérieures Paris, le 19 janvier 1983 Monsieur le Ministre, Me référant à l'article 31 de la Convention entre le Gouvernement de la République française et le Gouvernement de la République de Chypre en vue d'éviter les doubles impositions et de prévenir l'évasion fiacale en matière d'impôts sur le revenu et sur la fortune (ensemble un Protocole) signé à Nicosie le 18 d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810140_004_s1.pdf",
+  "source_filename": "tra19810140_004_s1.pdf",
+  "source_sha256": "0915c8db8440d4750c720fffc11ee28654421bbcbed53c16256751e95a8aba76",
+  "treaty_id": "TRA19810140",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ripublique Francaise-\n\nLe. Ministre des chations entérieures\n\nParis, le\n\n19 janvier\n\n1983\n\nMonsieur le Ministre,\n\nMe référant à l'article 31 de la Convention entre\n\nle Gouvernement de la République française et le Gouvernement de la République de Chypre en vue d'éviter les doubles impositions et de prévenir l'évasion fiacale en matière d'impôts sur le revenu et sur la fortune (ensemble un Protocole) signé à Nicosie le 18 décembre 1981, J'ai l'honneur de vous faire savoir que los procédures requises par la Constitution de la République pour l'entrée en vigueur deladite Convention ont été accomplies.\n\nLa présente lottre constitue la notification prévue\n\npar la disposition précitée.\n\nJe vous serais reconnaissant de bien vouloir m'informer\n\nde la date à laquelle celle-ci vous sera parvenue./.\n\nJe vous prie, Monsieur le Ministre, d'agréer\n\nl'expression de ma hauts considérntion.\n\nPour copie certifiée conforme à l'original\n\nParis, le...19.. janvier\n\n1983\n\nClaude CHEYSSON\n\nA Son Excellence\n\nMonsieur Nicos A. ROLANDIS\n\nMiniatre des Affaires Etrangères\n\nNICOSIE\n\nFENET OU B",
+      "quality_score": 0.9705,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19960061_004_s1",
+      "title": "Instrument français",
+      "score": 0.714337,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.56028,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_004_s1",
+      "title": "Instrument français",
+      "score": 0.532238,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français : note verbale et lettre (avec, sur la note verbale, tampon arrivée le 4 février 1983 à l'ambassade de France)",
+      "score": 0.431448,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810127_004_s1",
+      "title": "Instrument français",
+      "score": 0.422983,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.419982,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_004",
+      "title": "Instrument de ratification",
+      "score": 0.416626,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810111_004_s1",
+      "title": "Lettre constituant instrument d'approbation",
+      "score": 0.414731,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.413836,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.409647,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19320073_100_s1",
+  "title": "Protocole d'échange de ratifications",
+  "year": 1932,
+  "doc_type": "Protocole",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9957,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Brat cale change Les soussignés s'étant réunis dans le but de procéder à l'échange des ratifications de la Convention relative aux Biens Turcs en Syrie et aux Biens Syriens en Turquie conclue à Ankara le 27 Octobre 1932, entre : Son Excellence le Président de la République Française d'une part, et Son Excellence le Président de la République Turque d'autre part; Et les ratifications respectives de ladite Convention…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19320073_100_s1.pdf",
+  "source_filename": "tra19320073_100_s1.pdf",
+  "source_sha256": "ad19711275c0353676ffe75c220d1403e72851af7cb369267112078bb6ad7513",
+  "treaty_id": "TRA19320073",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Brat\n\ncale\n\nchange\n\nLes soussignés s'étant réunis dans le but de procéder\n\nà l'échange des ratifications de la Convention relative aux Biens\n\nTurcs en Syrie et aux Biens Syriens en Turquie conclue à Ankara le 27 Octobre 1932, entre :\n\nSon Excellence le Président de la République Française\n\nd'une part,\n\net\n\nSon Excellence le Président de la République Turque\n\nd'autre part;\n\nEt les ratifications respectives de ladite Convention\n\nayant été soigneusement collationnées et trouvées conformes.\n\nLedit échange s'est effectué aujourd'hui entre la Fran-\n\nce d'une part et la Turquie d'autre\n\npart dans les formes usitées.\n\nEN FOI DE QUOI, ils ont signé le présent Protocole et\n\ny ont apposé leurs cachets.\n\nFait à Ankara, en double expédition le 30 Mai 1933.\n\nЖима",
+      "quality_score": 0.9957,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19320073_005_s1",
+      "title": "Instrument turc",
+      "score": 0.401051,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.389966,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290031_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.379435,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930199_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.371202,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640081_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.369887,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19330035_008_s1",
+      "title": "Procès verbal d'échange des ratifications",
+      "score": 0.36725,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_008_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification du Traité",
+      "score": 0.366845,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.366551,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19510061_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.357154,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_008",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.355856,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

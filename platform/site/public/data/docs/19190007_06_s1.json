@@ -400,5 +400,55 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190007_07_s1",
+      "title": "Exemplaire de l'Illustration du 17 janvier 1920",
+      "score": 0.629147,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_001_s1",
+      "title": "Convention",
+      "score": 0.368515,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19290031_001_s1",
+      "title": "Traité (ensemble un protocole A)",
+      "score": 0.355268,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18250002_005_s1",
+      "title": "Instrument de ratification bavarois",
+      "score": 0.355133,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190005_005_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.354449,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18250001_005_s1",
+      "title": "Instrument de ratification bavarois",
+      "score": 0.352066,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200049_351_s1",
+      "title": "Instrument de ratification grec",
+      "score": 0.350857,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

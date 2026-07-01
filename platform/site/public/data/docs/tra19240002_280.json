@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_280",
+  "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion émiratie",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9691,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MMM/CK MINISTÈRE DES AFFAIRES ETRANGERES DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES Nº 235 RÉPUBLIQUE FRANÇAISE PARIS, LE - 8 OCT. 1980 LE MINISTRE DES AFFAIRES ETRANGERES A MONSIEUR L'AMBASSADEUR DE FRANCE A A/S : Adhésion des Emirats Arabes Unis à l'arrangement portant création d'un Office International des Epizooties. Le Gouvernement du pays de votre résidence étant partie à l'Arrangement du…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_280.pdf",
+  "source_filename": "tra19240002_280.pdf",
+  "source_sha256": "31506ab21b23ad0dd677677204a1ea6e3abd854784380a428b63a497cc2aca91",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "ARE006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MMM/CK\n\nMINISTÈRE\n\nDES\n\nAFFAIRES ETRANGERES\n\nDIRECTION DES NATIONS UNIES\n\nET DES ORGANISATIONS\n\nINTERNATIONALES\n\nNº 235\n\nRÉPUBLIQUE FRANÇAISE\n\nPARIS, LE\n\n- 8 OCT. 1980\n\nLE MINISTRE DES AFFAIRES ETRANGERES\n\nA\n\nMONSIEUR L'AMBASSADEUR DE FRANCE\n\nA\n\nA/S : Adhésion des Emirats Arabes Unis à l'arrangement portant création d'un Office International des\n\nEpizooties.\n\nLe Gouvernement du pays de votre résidence étant\n\npartie à l'Arrangement du 25 janvier 1924 portant création d'un Office International des Epizooties, dont le Gouvernement français est dépositaire, je vous serais obligé de bien vouloir lui faire part de la communication suivante :\n\n\"Le Gouvernement des Emirats Arabes Unis a déposé\n\nle 14 avril 1980 auprès du Gouvernement français l'instrument d'adhésion des Emirats Arabes Unis à l'Arrangement portant création d'un Office International des Epizooties signé à\n\nParis le 25 janvier 1924\".\n\nVous voudrez bien me faire connaître par le moyen\n\ndu formulaire ci-joint, la date à laquelle les autorités du pays de votre résidence auront accusé réception de cette communication./.\n\nPOUR LE MOIR ET PAR AUTORISATION\n\nLe Directemes Altares des Nations-Unies et des Orgenitatione Internationales\n\n'André LEWIN",
+      "quality_score": 0.9691,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_506",
+      "title": "Demande des autorités françaises d'une notification de dépôt de l'instrument d'adhésion",
+      "score": 0.793484,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_131",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.744573,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_05_s1",
+      "title": "Accusés-réception de divers pays de l'adhésion de l'Albanie",
+      "score": 0.633041,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_44_s1",
+      "title": "accusé de réception de l'Allemagne à la notification d'adhésion de la Lettonie",
+      "score": 0.592784,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_305",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.44457,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_081",
+      "title": "Note verbale des autorités grecques accusant réception de la notification du dépôt de l'instrument de Bahreïn",
+      "score": 0.444126,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_290",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.439209,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_286",
+      "title": "Notification par le gouvernement français de la dénonciation équatorienne",
+      "score": 0.434723,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_300",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.433233,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_026",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.432447,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

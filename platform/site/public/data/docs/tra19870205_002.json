@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19870205_002",
+  "title": "Pouvoirs français",
+  "year": 1987,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9607,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Arduires 9 dir Afaires atomi dues a spatiales a. Dju mne N°162/87 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires Etrangères, donnons pouvoirs par ces présentes à Monsieur Jacques-Louis LIONS, Président du Centre National d'Etudes Spatiales pour signer un Accord entre le Gouvernement de la République française et 1'Agence Spatiale Européenne relatif au centre Spatial Guyanais (CSG)./. l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19870205_002.pdf",
+  "source_filename": "tra19870205_002.pdf",
+  "source_sha256": "8e95f29f3250763271729ad3864d7368313973a1a1e1a1ebb4654309d87aedae",
+  "treaty_id": "TRA19870205",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Arduires 9 dir Afaires atomi dues a spatiales\n\na. Dju mne\n\nN°162/87\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS,\n\nMinistre des Affaires Etrangères, donnons pouvoirs par ces\n\nprésentes à Monsieur Jacques-Louis LIONS,\n\nPrésident du Centre National d'Etudes Spatiales pour signer un Accord entre le Gouvernement de la\n\nRépublique française et 1'Agence Spatiale Européenne relatif\n\nau centre Spatial Guyanais (CSG)./.\n\nler juillet 1987\n\nFAIT à PARIS, le\n\nLe Ministre des Affaires Etrangères",
+      "quality_score": 0.9607,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19850253_002",
+      "title": "Pouvoirs français",
+      "score": 0.75629,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070193_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.550194,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880302_002",
+      "title": "Pouvoirs français",
+      "score": 0.540605,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810034_002",
+      "title": "Pouvoirs français",
+      "score": 0.491404,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860069_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.489395,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_07_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.410863,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910242_002",
+      "title": "Pouvoirs français",
+      "score": 0.386145,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850080_002",
+      "title": "Pouvoirs",
+      "score": 0.382487,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890267_002",
+      "title": "Pouvoirs français",
+      "score": 0.377732,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.377074,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

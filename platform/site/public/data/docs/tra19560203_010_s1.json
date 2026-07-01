@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560203_010_s1",
+  "title": "Accord (lettre marocaine)",
+  "year": 1956,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Paris, le 2 Mars 1956 Monsieur le Président, Je tiens à vous confirmer l'accord du Gouver- nement marocain pour n'apporter, dans les domaines monétaire et financier, aucun changement au régime actuel en attendant que les modalités nouvelles de la coopération de nos deux pays dans ces domaines aient été définies conformément à la Déclaration commune et au Protocole en date de ce jour. Veuillez agréer, Monsieur le Pré…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560203_010_s1.pdf",
+  "source_filename": "tra19560203_010_s1.pdf",
+  "source_sha256": "b473ab4f81fe5580c8767ccdd88efbc6ae0875fe6a72afc86b780d56bb10a13c",
+  "treaty_id": "TRA19560203",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Paris, le 2 Mars 1956\n\nMonsieur le Président,\n\nJe tiens à vous confirmer l'accord du Gouver-\n\nnement marocain pour n'apporter, dans les domaines monétaire et financier, aucun changement au régime actuel en attendant que les modalités nouvelles de la coopération de nos deux pays dans ces domaines aient été définies conformément à la Déclaration commune et au Protocole en date de ce jour.\n\nVeuillez agréer, Monsieur le Président, l'assu-\n\nrance de ma très haute\n\nconsidération;\n\nA Son Excellence,\n\nMonsieur Christian PINEAU\n\nMinistre des Affaires Etrangères\n\nPrésident de la Délégation française",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560203_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.7374,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.589705,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560202_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.543328,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560200_010_s1",
+      "title": "Accord (lettre marocaine)",
+      "score": 0.39996,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560200_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.397185,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800233_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.378596,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560201_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.374306,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.37086,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.370339,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290061_001d_s1",
+      "title": "Lettre de dénonciation",
+      "score": 0.369483,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560090_033",
+  "title": "Procès-verbal de dépôt de l'instrument allemand",
+  "year": 1956,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9336,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES- VERBAL DE DEPOT DES INSTRUMENTS DE RATTFICATION DE LA REPUBDIQUE FEDERALE D'ALDENAGNE SUR LE TRAITE PORTANT MODTRICATION AU TRAITE INSTTTUANT LA COMMUNAUTE EUROPEENNER DU CHARBON ET DE L'ACIER, SIGNE A LUXEMBOURG LE 27 OCTOBRE 1956. ----.- Son Excellence Monsieur le Baron Vollrath von MALIZAN, Ambassadeur Extraordinaire et Plénipotentiaire de la République Fédérale d'Allemagne, s'est présenté aujourd'hui au…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_033.pdf",
+  "source_filename": "tra19560090_033.pdf",
+  "source_sha256": "ef216ab50016e49e98046c641dcd713a3d96c016ccf69d4d81180b0c61b32840",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "DEU003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES- VERBAL\n\nDE DEPOT DES INSTRUMENTS DE RATTFICATION DE LA REPUBDIQUE\n\nFEDERALE D'ALDENAGNE SUR LE TRAITE PORTANT MODTRICATION AU\n\nTRAITE INSTTTUANT LA COMMUNAUTE EUROPEENNER DU CHARBON ET\n\nDE L'ACIER, SIGNE A LUXEMBOURG LE 27 OCTOBRE 1956.\n\n----.-\n\nSon Excellence Monsieur le Baron Vollrath von MALIZAN,\n\nAmbassadeur Extraordinaire et Plénipotentiaire de la République\n\nFédérale d'Allemagne, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder, avec Monsieur René STABLO\n\nSous-Directeur du Protocole, agissant au nom du Ministre des\n\nAffaires Etrangères, au dépôt des instruments de ratification de la République Fédérale d'Allemagno sur le Tratté portant modification au Traité instituant la Communauté Européenne du\n\nCharbon ot de l'Aoler signé à Iuxembourg le 27 Octobre 1956, en exécution de l'article 3 dudit Traité.\n\nLes instruments ayant été, après examen, trouvés en bonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignós ont dressé le présent\n\nProcès-Verbal, qu'ils ont revêtus de leur sceau.\n\nPAIT A PARIS, en double exemplaire, le 28 Décembre 1956./.\n\nملده ارى\n\nМистри.",
+      "quality_score": 0.9336,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560090_523",
+      "title": "Procès-verbal de dépôt de l'instrument luxembourgeois",
+      "score": 0.73735,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_698",
+      "title": "Procès-verbal de dépôt de l'instrument néerlandais",
+      "score": 0.727872,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.718002,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_438",
+      "title": "Pouvoirs français",
+      "score": 0.710667,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_013_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification ouest-allemand",
+      "score": 0.601235,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_58_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.575867,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.567646,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_11_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.555172,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.542192,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_436",
+      "title": "Instrument de ratification italien",
+      "score": 0.390896,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

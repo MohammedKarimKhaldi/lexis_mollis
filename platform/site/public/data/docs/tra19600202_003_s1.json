@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19600202_003_s1",
+  "title": "Pouvoirs allemands",
+  "year": 1960,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DER BUNDESMINISTER DES AUSWARTIGEN VOLLMACHT Der Botschafter der Bundesrepublik Deutschland in Paris, Herr Herbert Blankenhorn, wird hiermit bevollmächtigt, im Namen der Fegierung der Bundesrepublik Deutschland mit dem bevollmächtigten Vertreter der Regierung der Französischen Fepublik das Abkommen über das deutsche logistische System in Frankreich zu unterzeichnen. Bonn, den 24. Oktober 1960 Antian",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19600202_003_s1.pdf",
+  "source_filename": "tra19600202_003_s1.pdf",
+  "source_sha256": "b4b3168050d5acd88b7043ed1d53392d3530039855b95c684cc07d3619b5c285",
+  "treaty_id": "TRA19600202",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DER BUNDESMINISTER DES AUSWARTIGEN\n\nVOLLMACHT\n\nDer Botschafter der Bundesrepublik Deutschland in Paris,\n\nHerr Herbert Blankenhorn,\n\nwird hiermit bevollmächtigt, im Namen der Fegierung der\n\nBundesrepublik Deutschland mit dem bevollmächtigten Vertreter der Regierung der Französischen Fepublik das\n\nAbkommen über das deutsche logistische System in Frankreich zu unterzeichnen.\n\nBonn, den 24. Oktober 1960\n\nAntian",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.395607,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_030_s1",
+      "title": "Pouvoirs allemands pour la ratification de la convention",
+      "score": 0.381588,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_011_s1",
+      "title": "Pouvoirs ouest-allemands",
+      "score": 0.377289,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690071_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.374693,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19750012_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.373276,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_02_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.372565,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.371876,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_04_s1",
+      "title": "Pouvoir de signature de la ratification",
+      "score": 0.365976,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_096",
+      "title": "Instrument de ratification belge",
+      "score": 0.355055,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_05_s1",
+      "title": "Extension de la validité de la convention au Land de Berlin",
+      "score": 0.352479,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

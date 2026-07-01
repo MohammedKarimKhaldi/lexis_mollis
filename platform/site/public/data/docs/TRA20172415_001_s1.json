@@ -1,0 +1,53 @@
+{
+  "document_id": "TRA20172415_001_s1",
+  "title": "Lettre d'intention",
+  "year": 2017,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9928,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "RÉPUBLIQUE FRANCAISE Culture FONDATION NATIONALE DES MUSÉES Lettre d'intention En application de la convention de partenariat signée à Rabat, en date du 18 avril 2016, entre la Fondation nationale des Musées du Royaume du Maroc et le Centre national d'art et de culture Georges Pompidou, les deux parties signataires sont convenues d'organiser en collaboration une exposition intitulée « La Méditerranée et l'art modern…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20172415_001_s1.pdf",
+  "source_filename": "TRA20172415_001_s1.pdf",
+  "source_sha256": "31fca4c7439c8b98ab567872ef8774a36f3df4ac84dc0914920e62a5b414ee32",
+  "treaty_id": "TRA20172415",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RÉPUBLIQUE FRANCAISE\n\nCulture\n\nFONDATION\n\nNATIONALE DES\n\nMUSÉES\n\nLettre d'intention\n\nEn application de la convention de partenariat signée à Rabat, en date du 18 avril 2016, entre la\n\nFondation nationale des Musées du Royaume du Maroc et le Centre national d'art et de culture\n\nGeorges Pompidou, les deux parties signataires sont convenues d'organiser en collaboration une exposition intitulée « La Méditerranée et l'art moderne ».\n\nCette exposition, constituée d'œuvres issues de la collection du Musée national d'art moderne- Georges Pompidou et organisée sous le commissariat de Monsieur Christian Briend, chef du service des collections modernes, sera présentée au Musée Mohamed VI d'art moderne et contemporain, à\n\nRabat, du 24 avril au 27 août 2018.\n\nLes parties signeront à cet effet un contrat d'exposition.\n\nFait à Rabat, en deux exemplaires, le 16 novembre 2017.\n\nFoysson\n\nFrançoise NYSSEN\n\nMinistre de la Culture\n\nRépublique française\n\n=0537",
+      "quality_score": 0.9928,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19660221_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.358395,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

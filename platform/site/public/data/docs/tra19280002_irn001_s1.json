@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_irn001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTRY OF FOREIGN AFFAIRS OF THE ISLAMIC REPUBLIC OF IRAN IN THE NAME OF GOD THE COMPASSIONATE, THE MERCIFUL No. 641/1153 WHEREAS, the Convention relating to International Exhibitions, done at Paris on 28 November 1928; and supplemented by the Protocols of 10 May 1948, 16 November 1966, 30 November 1972 and the Amendment of 24 June 1982 and the Amendment of 31 May 1988, remains open for the accession of states; AN…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_irn001_s1.pdf",
+  "source_filename": "tra19280002_irn001_s1.pdf",
+  "source_sha256": "8b2db64994c85cfbf741dd9869258eb41aef0e643bcc93681cced16adb6b026a",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "IRN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTRY OF FOREIGN AFFAIRS\n\nOF THE ISLAMIC REPUBLIC OF IRAN\n\nIN THE NAME OF GOD\n\nTHE COMPASSIONATE, THE MERCIFUL\n\nNo. 641/1153\n\nWHEREAS, the Convention relating to International Exhibitions, done at\n\nParis on 28 November 1928; and supplemented by the Protocols of 10\n\nMay 1948, 16 November 1966, 30 November 1972 and the Amendment of 24 June 1982 and the Amendment of 31 May 1988, remains open for the accession of states;\n\nAND WHEREAS, the formalities of accession to the said Convention as revised, have been completed in conformity with the Constitution of the\n\nIslamic Republic of Iran;\n\nNOW THEREFORE, the Government of the Islamic Republic of Iran, having considered and approved the aforementioned Convention as revised, hereby accedes to the same and undertakes faithfully to fulfil and carry out the stipulations therein contained;\n\nIN WITNESS WHEREOF, 1, Kamal Kharrazi, Minister of Foreign\n\nAffairs of the Islamic Republic of Iran, have signed this Instrument of\n\nAccession.\n\nTehran, 29 May 2002\n\nDr. Kamał Kharrazi\n\nMistero Foreign Appairs of the Islamic Republic/of Iran",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_70_s1",
+      "title": "Instrument d'adhésion des Fidji",
+      "score": 0.416158,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_142_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.413708,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_222_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.413294,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_ken001_s1",
+      "title": "Instrument d'adhésion du Kenya",
+      "score": 0.412961,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_brn001_s1",
+      "title": "Instrument  d'adhésion",
+      "score": 0.407633,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_79_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.406063,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.403137,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.402128,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.399334,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mhl001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.399188,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

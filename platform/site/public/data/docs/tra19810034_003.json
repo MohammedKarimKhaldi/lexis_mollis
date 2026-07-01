@@ -1,0 +1,49 @@
+{
+  "document_id": "tra19810034_003",
+  "title": "Pouvoirs",
+  "year": 1981,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "de",
+    "en",
+    "pt"
+  ],
+  "quality_score": 0.9539,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLICA DE GUINEA ECUATORIAL CONSEJO MILITAR SUPREMO PRESIDENCIA CONCEDO PODERES AL EXCMO. SEÑOR DON JULIAN ESONO ABAHA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE GUINEA ECUA- TORIAL EN LA REPUBLICA FRANCESA, PARA QUE PUEDA FIRMAR EN -- NOMBRE DEL GOBIERNO EL PROTOCOLO CORRESPONDIENTE AL DONATIVO DE 200 TONELADAS DE HARINA DE TRIGO QUE EL GOBIERNO FRANCES HACE AL DE GUINEA ECUATORIAL PARA COMPENSAR LAS 50 TON…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810034_003.pdf",
+  "source_filename": "tra19810034_003.pdf",
+  "source_sha256": "089cdc5bfc2115480faeb3e22c15459dfb51a3a25e11dcf944a14d25265a1956",
+  "treaty_id": "TRA19810034",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLICA DE GUINEA ECUATORIAL\n\nCONSEJO MILITAR SUPREMO\n\nPRESIDENCIA\n\nCONCEDO PODERES AL EXCMO. SEÑOR DON JULIAN ESONO ABAHA,\n\nEMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE GUINEA ECUA-\n\nTORIAL EN LA REPUBLICA FRANCESA, PARA QUE PUEDA FIRMAR EN --\n\nNOMBRE DEL GOBIERNO EL PROTOCOLO CORRESPONDIENTE AL DONATIVO\n\nDE 200 TONELADAS DE HARINA DE TRIGO QUE EL GOBIERNO FRANCES\n\nHACE AL DE GUINEA ECUATORIAL PARA COMPENSAR LAS 50 TONELADAS\n\nQUE HAN FALTADO EN LA ENTREGA ANTERIOR.\n\nDADO EN MALABO, A VEINTINUEVE DE MAYO DE MIL NOVECIEN-\n\nTOS OCHENTA Y UNO.\n\nGUITA\n\n*POR UNA GUINEA\n\nMEJOR,\n\nCONGES9\n\nCORDNEE\n\nOBIANG NGUENA MBASOGO\n\nPRESIDENTE\n\nDEL CONSEJO MILITAR SUPREMO.",
+      "quality_score": 0.9539,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt",
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

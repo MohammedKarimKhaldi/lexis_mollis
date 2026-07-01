@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_437_s1",
+  "title": "Procès-verbal de dépôt de l'instrument italien",
+  "year": 1954,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9883,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-TERBAL DE DEPOI DES INSTRUMENIS DE RATIFICATION DE L'ITALIE SUR LA CONVENTION INTERNATIONALE POUR I 'UNIFICATION DES METHODES D'ANAIYSE EI D'APPRECIATION DES VINS, SIGNÉE A PARIS, LE 13 OCTOBRE 1954 - Son Excellence Monsieur Pietro QUARONI, Ambassadeur Extraordinaire et Plénipotentiaire d'Italle, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Edouard de IA CHAUVINI…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_437_s1.pdf",
+  "source_filename": "19540090_437_s1.pdf",
+  "source_sha256": "8a533d835a9a8e21bc3851503278fd4dd96ac7ee6dbe9348fe8c8223f7260cec",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "ITA003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-TERBAL\n\nDE DEPOI DES INSTRUMENIS DE RATIFICATION DE L'ITALIE\n\nSUR LA CONVENTION INTERNATIONALE POUR I 'UNIFICATION\n\nDES METHODES D'ANAIYSE EI D'APPRECIATION DES VINS,\n\nSIGNÉE A PARIS, LE 13 OCTOBRE 1954\n\n-\n\nSon Excellence Monsieur Pietro QUARONI, Ambassadeur\n\nExtraordinaire et Plénipotentiaire d'Italle, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Edouard de IA CHAUVINIDRE, Ministre Plénipoten- tiaire, Chef du Protocole, agissant au nom du Ministre des\n\nAffaires Etrangères, au dépôt des instruments de ratification de l'Italie sur la Convention Internationale pour 1'Unification des Méthodes d'Analyse et d'Appréciation des Vins, signée à\n\nParis, le 13 octobre 1954, en exécution de l'article 8 de ladite Convention.\n\nIes instruments ayant été, après examen, trouvés en bonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé le pré- sent Procès-Verbal, qu'ils ont revêtu de leur cachet.\n\nFATT A PARIS, en double exenplaire, 1e 8 mazs 1957\n\nLa Chaminin",
+      "quality_score": 0.9883,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.838066,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.826075,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.814488,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_922_s1",
+      "title": "Procès-verbal de dépôt de l'instrument turc",
+      "score": 0.800022,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.798134,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_297_s1",
+      "title": "Procès-verbal de dépôt de l'instrument espagnol",
+      "score": 0.755602,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.74665,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.715349,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_438",
+      "title": "Pouvoirs français",
+      "score": 0.646081,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.619109,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

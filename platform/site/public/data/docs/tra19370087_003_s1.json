@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19370087_003_s1",
+  "title": "Pouvoirs siamois",
+  "year": 1937,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "TRANSLATION. IN THE NAME OF HIS MAJESTY KING ANANDA MAHIDOL THE COUNCIL OF REGENCY (Signature) ADITYA DIBABHA (Signature) CHAO PHYA YOMARAJ (Signature) GENERAL CHAO PHYA BIJAYENDRA YODHIN come, To all and singular to whom these Presents shall Greeting Being desirous of concluding a Treaty revising the treaties hitherto existing between Siam and France. We have, with that object in view, invested Luang Pradist Manudh…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19370087_003_s1.pdf",
+  "source_filename": "tra19370087_003_s1.pdf",
+  "source_sha256": "701cd20f06ea00b563a0123142b4b00d0efa6edc111949792cddff50776731ff",
+  "treaty_id": "TRA19370087",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TRANSLATION.\n\nIN THE NAME OF HIS MAJESTY KING ANANDA MAHIDOL\n\nTHE COUNCIL OF REGENCY\n\n(Signature) ADITYA DIBABHA (Signature) CHAO PHYA YOMARAJ (Signature) GENERAL CHAO PHYA BIJAYENDRA YODHIN\n\ncome,\n\nTo all and singular to whom these Presents shall\n\nGreeting\n\nBeing desirous of concluding a Treaty revising the\n\ntreaties hitherto existing between Siam and France.\n\nWe have, with that object in view, invested Luang\n\nPradist Manudharm, Minister of Foreign Affairs in whose wisdom, loyalty and diligence We repose trust and confidence, with full power to conduct negotiation on our part with such representative of the French Government as may be empowered to do the same and to conclude and sign a treaty of agreement as shall have for the effect the fulfilment of Our wish.\n\nIn the Name of the King We also hereby pledge Ourselves\n\nto approve, if agreeable, whatsoever Our representative shall have in pursuance of the present Power and in accordance with\n\nOur instructions, agreed upon and signed.\n\nIn witness whereof We have signed these Presents at\n\nBangkok, this twenty-fifth day of November in the year of\n\nOur Lord the Buddha Two Thousand Four Hundred and Eighty, being the fourth year of His Majesty's Reign.\n\n(Signature) COLONEL PHYA PHAHOL-PHOL-PHAYUHA-SENA\n\nPresident of the Council.\n\nCertified true copy.\n\nnilov\n\nОБТЕБОВЕТОА",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19370087_005_s1",
+      "title": "Ratification siamoise",
+      "score": 0.410085,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_45_s1",
+      "title": "Pouvoirs",
+      "score": 0.403132,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19040040_002_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.39754,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.396796,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_400_s1",
+      "title": "Pouvoirs français",
+      "score": 0.395651,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.39435,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_10_s1",
+      "title": "Pouvoirs (Londres, 01/01/1919 et 14/10/1919)",
+      "score": 0.393639,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_75_s1",
+      "title": "Pouvoirs délivés à Alfred Viscount Milner",
+      "score": 0.393025,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_655_s1",
+      "title": "Pouvoirs indiens",
+      "score": 0.389385,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800128_003_s1",
+      "title": "Pouvoirs sri-lankais",
+      "score": 0.389005,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

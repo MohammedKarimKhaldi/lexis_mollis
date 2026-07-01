@@ -1,0 +1,67 @@
+{
+  "document_id": "tra19930186_003_s1",
+  "title": "Pouvoirs russe",
+  "year": 1993,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "ru"
+  ],
+  "quality_score": 0.9594,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "МИНИСТЕРСТВО ИНОСТРАННЫХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ УДОСТОВЕРЯЕТ, ЧТО ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ уполномочило СЕЛИВАНОВА Игоря Андреевича, K заместителя министра финансов Российской Федерации, на подписание Соглашения между Правительством Российской Федерации и Правительством Французской Республики о консолидации внешнего долга Российской Федерации и _бывшего Союза Советских Социалистических Республик. Москва…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19930186_003_s1.pdf",
+  "source_filename": "tra19930186_003_s1.pdf",
+  "source_sha256": "55165ffaf043e051781006ded72375092aa3787ea13ca4b93ad2f9425b39188a",
+  "treaty_id": "TRA19930186",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "МИНИСТЕРСТВО ИНОСТРАННЫХ ДЕЛ\n\nРОССИЙСКОЙ ФЕДЕРАЦИИ\n\nУДОСТОВЕРЯЕТ, ЧТО ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ\n\nуполномочило\n\nСЕЛИВАНОВА\n\nИгоря Андреевича, K заместителя\n\nминистра финансов Российской Федерации, на подписание Соглашения между Правительством Российской Федерации и Правительством\n\nФранцузской Республики о консолидации внешнего долга Российской\n\nФедерации и\n\n_бывшего Союза Советских Социалистических Республик.\n\nМосква \"11 \"\n\nоктября 1 1993 года.\n\nЗа иност\n\nостранных Дел\n\nФедерации\n\nректор\n\nПравового Департамента",
+      "quality_score": 0.9594,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19660198_003a_s1",
+      "title": "Pouvoirs soviétiques (pour l'accord)",
+      "score": 0.386684,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19920387_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.359316,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19320077_003",
+      "title": "Pouvoirs soviétiques",
+      "score": 0.352235,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940439_098",
+  "title": "Accusé de réception par le dépositaire de l'instrument wallon",
+  "year": 1994,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9617,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ENV 8-1-5 Liberto Esalules caternue RÉPUBLIQUE FRANÇAISE, MINISTERE DES AFFAIRES ÉTRANGERES N912 DE Le Ministère des Affaires Etrangères présente ses compliments à l'Ambassade de Belgique et a l'honneur, se référant à la note J 22 n° 1284 du 24 janvier 2003, d'accuser réception des instruments de ratification de la Région wallonne relatifs aux accords entré la Région flamande, la Région Bruxelles-capitale, la Région…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940439_098.pdf",
+  "source_filename": "tra19940439_098.pdf",
+  "source_sha256": "0c9d64a0d13cb311211b57cf797dcf9058ab183d59fea67041b2da9bfa07a788",
+  "treaty_id": "TRA19940439",
+  "treaty_number": "BEL004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ENV 8-1-5\n\nLiberto Esalules\n\ncaternue\n\nRÉPUBLIQUE FRANÇAISE,\n\nMINISTERE DES AFFAIRES\n\nÉTRANGERES\n\nN912 DE\n\nLe Ministère des Affaires Etrangères présente ses compliments à l'Ambassade de Belgique et a l'honneur, se référant à la note J 22 n° 1284 du 24 janvier 2003, d'accuser réception des instruments de ratification de la Région wallonne relatifs aux accords entré la Région flamande, la\n\nRégion Bruxelles-capitale, la Région wallonne, la République française et le Royaume des Pays-Bas concernant la protection de la Meuse et de l'Escaut, signés à Charleville-Mézières, le 26 avril 1994, déposés auprès de ce Ministère le 5 février 2003.\n\n- Le Ministère des Affaires Etrangères saisit cette occasion pour renouveler à l'Ambassade de\n\nBelgique l'assurance de sa haute considération\n\nParis, le 4 avril 2003\n\nAmbassade de Belgique 9, rue de Tilsitt 75017 PARIS\n\nAFFA\n\nRE\n\nCNSTERE S6\n\nATANCERES",
+      "quality_score": 0.9617,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940440_100",
+      "title": "Note relative aux pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.447321,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_099",
+      "title": "Notifications du dépositaire aux Parties relatives au dépôt de l'instrument wallon",
+      "score": 0.444082,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_097",
+      "title": "Pouvoirs wallons",
+      "score": 0.439846,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_100",
+      "title": "Note relative à la transmission des pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.434084,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_096",
+      "title": "Instrument flamand",
+      "score": 0.421731,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_101",
+      "title": "Instrument de la Région Bruxelles-Capitale",
+      "score": 0.419133,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_101",
+      "title": "Instrument de la Région Bruxelles-Capitale : notification de l'assentiment de l'Accord par ordonnance du 15 mai 1997",
+      "score": 0.418662,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_696",
+      "title": "Pouvoirs néerlandais",
+      "score": 0.413926,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_697",
+      "title": "Instrument néerlandais",
+      "score": 0.41006,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_698",
+      "title": "Accord",
+      "score": 0.408925,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19840174_003_s1",
+  "title": "Pouvoirs chypriotes",
+  "year": 1984,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLIC OF CYPRUS FULL POWERS I, Christodoulos VENIAMIN, Acting Minister of Foreign Affairs of the Republic of Cyprus, do hereby authorise Mr. Haralambos HADJIPANAYIOTOU, Director-General of the Ministry of Finance, to negotiate and sign on behalf of the Government of the Republic of Cyprus the Financial Protocol between the Government of the Republic of Cyprus and the Government of the French Republic. Done in Nic…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19840174_003_s1.pdf",
+  "source_filename": "tra19840174_003_s1.pdf",
+  "source_sha256": "b958260ce6d53a3096121ea46e459e04ab08be86de5631f4d3fb711a4f8df9e7",
+  "treaty_id": "TRA19840174",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLIC OF CYPRUS\n\nFULL POWERS\n\nI, Christodoulos VENIAMIN, Acting Minister of Foreign Affairs of the Republic of Cyprus, do hereby authorise Mr. Haralambos HADJIPANAYIOTOU,\n\nDirector-General of the Ministry of Finance, to negotiate and sign on behalf of the Government of the Republic of Cyprus the Financial Protocol between the Government of the Republic of Cyprus and the Government of the French Republic.\n\nDone in Nicosia, this 26 Day of November\n\nOne Thousand Nine Hundred and Eighty Four.\n\n(CHRISTODOULOS VENIAMIN)\n\nActing Minister of Foreign Affairs",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19800233_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.420264,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810248_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.38664,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830254_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.377275,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182473_002",
+      "title": "Pouvoirs français",
+      "score": 0.36085,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.359669,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19920387_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.358231,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840174_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.357217,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.356158,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_005a_s1",
+      "title": "Instrument chypriote",
+      "score": 0.352202,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800233_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.350907,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

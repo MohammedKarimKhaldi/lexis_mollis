@@ -1,0 +1,67 @@
+{
+  "document_id": "tra19940440_326",
+  "title": "Pouvoirs flamands",
+  "year": 1994,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9658,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ripublique Transaise Le Ministre des Affaires Etrangères Paris, le 26 DéCembre 1997 Le Gouvernement de la République donne son approbation à l'Accord concernant la protection de l'Escaut, fait à Charleville-Mézières le 26 avril La présente lettre constitue l'Approbation dudit Accord./. Hu... Hubert VEDRINE",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940440_326.pdf",
+  "source_filename": "tra19940440_326.pdf",
+  "source_sha256": "c19ba42fb7aad08e11d45932c8e1617fe2d5cf7b65ef3b7b69c73a3dd9296991",
+  "treaty_id": "TRA19940440",
+  "treaty_number": "BEL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ripublique Transaise\n\nLe Ministre des Affaires Etrangères\n\nParis, le 26 DéCembre 1997\n\nLe Gouvernement de la République donne son approbation à l'Accord concernant la protection de l'Escaut, fait à Charleville-Mézières le 26 avril\n\nLa présente lettre constitue l'Approbation dudit Accord./.\n\nHu...\n\nHubert VEDRINE",
+      "quality_score": 0.9658,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940439_326",
+      "title": "Accusé de réception par le dépositaire de l'instrument néerlandais",
+      "score": 0.801313,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_325",
+      "title": "Accusé de réception par le dépositaire de l'instrument néerlandais : ratification reçue le 3 avril 1996",
+      "score": 0.367014,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_325",
+      "title": "Instrument néerlandais",
+      "score": 0.357148,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

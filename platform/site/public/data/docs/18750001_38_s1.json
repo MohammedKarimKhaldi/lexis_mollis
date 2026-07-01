@@ -41,5 +41,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.419961,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_074_s1",
+      "title": "Déclaration de la Nouvelle-Zélande",
+      "score": 0.419497,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.418996,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.40741,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.40657,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_164_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.404927,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.404624,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_76_s1",
+      "title": "Note verbale d'accompagnement des pouvoirs de signature",
+      "score": 0.403896,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.403797,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_col002_s1",
+      "title": "Accusé réception de l'instrument d'adhésion",
+      "score": 0.402238,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
 }

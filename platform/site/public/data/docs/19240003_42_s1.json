@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_42_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification du Luxembourg",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9426,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES- VERBAL de DEPOT des RATIFICATIONS du LUXEMBOURG sur l'Arrangement international portant création à Paris d'un Office international du Vin signé à Paris le 29 Novembre 1924 Poe D as Ÿ aus ot * * rs os ee mam Ima m ma ut m. mm En exécution de l'article 9 de l'arrangement ihter- national portant création à Paris d'us Office international du Vin signé à Paris le 29 Novembre 1924 entre la France, l'Espa- gne , la…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_42_s1.pdf",
+  "source_filename": "19240003_42_s1.pdf",
+  "source_sha256": "40339398d5b7492662f4df504e9bf79c45e768ec13191aa651d0699ce2f9a3b4",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "522",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES- VERBAL de DEPOT des RATIFICATIONS du LUXEMBOURG sur l'Arrangement international portant création à Paris d'un Office international du Vin signé à Paris le 29\n\nNovembre 1924\n\nPoe D as Ÿ aus ot\n\n* * rs os ee mam Ima m ma ut m. mm\n\nEn exécution de l'article 9 de l'arrangement ihter- national portant création à Paris d'us Office international du\n\nVin signé à Paris le 29 Novembre 1924 entre la France, l'Espa- gne , la Grèce, la Hongrie,l'Italie , le Luxembourg, le Portugal et la Tunisie , le Chargé d'Affaires de Luxembourg à Paris s'est présenté aujourd'hui au Ministère des Affaires Etrangères de la\n\nRépublique française et a déposé l'instrument des ratifications de 3.A.R. Madame la Grande Duchesse de Luxembourg sur cet acte international:\n\nCet instrument gmt été , après examen trouvé en bonne et due forme, a été confié au Gouvernement de la Républi- que pour rester déposé dans ses archives.\n\nUne expédition authentique du présent procès - verbal sera adressée aux Puissances contractantes.\n\nEN FOI de QUOI, les soussignés ont dressé le pré- sent procès -verbal qu'ils ont revêtu de leurs cachetse\n\nFait à Paris le 24 PPDA 1 e.",
+      "quality_score": 0.9426,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_54_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.804736,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Grèce",
+      "score": 0.803219,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_210",
+      "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion comorienne",
+      "score": 0.660125,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_15_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification des Pays-Bas",
+      "score": 0.649049,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_22_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Roumanie",
+      "score": 0.648027,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_19_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.64544,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_17_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Pologne",
+      "score": 0.640812,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_10_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Lettonie",
+      "score": 0.624821,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_06_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Egypte",
+      "score": 0.600838,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mar002_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Maroc",
+      "score": 0.581668,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

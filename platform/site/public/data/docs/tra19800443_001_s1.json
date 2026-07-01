@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19800443_001_s1",
+  "title": "Convention d'aide budgétaire",
+  "year": 1980,
+  "doc_type": "Convention",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9681,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "CONVENTION D'AIDE BUDGETAIRE conclue entre la République Prangaise et 1e République Islanique des Comores CONVENTION D'AIDE BUDGETAIRE Le Gouvernement de la République Frangaise Inprésenté par Monaleur Bobort GALLEY, Miniatre de la Coopération d'uno part Le Gouvernement de la République Inlamique des Conores représenté par Monsieur Abmed ABDALLAH, Président de la République d'autre part sont convenus de ce qui sult…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Convention",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19800443_001_s1.pdf",
+  "source_filename": "tra19800443_001_s1.pdf",
+  "source_sha256": "4eb5499a8d2ab17e3a184edf7cc41775b305c0eab55e7d491287fc33facf06b1",
+  "treaty_id": "TRA19800443",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CONVENTION D'AIDE BUDGETAIRE\n\nconclue entre la République Prangaise et 1e\n\nRépublique Islanique des Comores",
+      "quality_score": 0.9683,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "CONVENTION D'AIDE BUDGETAIRE\n\nLe Gouvernement de la République Frangaise Inprésenté par Monaleur Bobort GALLEY,\n\nMiniatre de la Coopération\n\nd'uno part\n\nLe Gouvernement de la République Inlamique des Conores représenté par Monsieur\n\nAbmed ABDALLAH, Président de la République\n\nd'autre part\n\nsont convenus de ce qui sult :\n\nAxticle 1: Le Gouvernesont de la République Françaiao apporto en 1980 & la République\n\nFédéralo Islanique des Conores, à la denando de cotte dernièro, une aide budgétaire sous la forme d'une subvention d'un montant de 10 000 000 I (diz millions de france françaia).\n\nArticlo 2: la subvention visée à l'articlo précédent est destinée à permettre à 1'stat conorien de faire face à ses dépenses prioritaires.\n\nArticlo 3: L'affectation dos fonds fera l'objet d'un échange de lettres entre les deux parties.\n\nInticle 4 : Toute difficulté dans l'application de la présonte convention sera souria a l'examen du Ministre Conorien dea Financea de l'Econorio et du Plan et du Miniatzi\n\nPrançais de la Coopération.\n\nPalt à PARi 10 7 Aout 1980 en double original\n\nPour le Gouvernenent de 1a\n\nRépublique Prançaise\n\nPour le Gouvernement de la\n\nRépublique Islanique dos Conores",
+      "quality_score": 0.9679,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19790372_001_s1",
+      "title": "Convention d'aide budgétaire",
+      "score": 0.690148,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA19831903_001_s1",
+      "title": "Convention",
+      "score": 0.673844,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19790373_001_s1",
+      "title": "Convention",
+      "score": 0.658321,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800441_001_s1",
+      "title": "Convention d'assistance financière conclue entre le Gouvernement de la République française et le Gouvernement de la République fédérale islamique des Comores",
+      "score": 0.5969,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800442_001_s1",
+      "title": "Convention d'assistance budgétaire",
+      "score": 0.413687,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19800465_001_s1",
+      "title": "Avenant à la convention d'assistance financière du 18/01/1980",
+      "score": 0.409849,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800464_001_s1",
+      "title": "Avenant à la convention d'aide budgétaire du 26 juillet 1979",
+      "score": 0.403833,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630327_001_s1",
+      "title": "Convention [ensemble une annexe]",
+      "score": 0.381615,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20010237_001_s1",
+      "title": "Convention (ensemble 2 annexes)",
+      "score": 0.369855,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630326_001_s1",
+      "title": "Avenant",
+      "score": 0.369798,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

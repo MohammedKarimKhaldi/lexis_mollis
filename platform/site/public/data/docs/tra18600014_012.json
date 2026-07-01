@@ -1,0 +1,74 @@
+{
+  "document_id": "tra18600014_012",
+  "title": "Pouvoirs italiens pour la remise de l'arrondissement de l'arrondissement de Nice à la France",
+  "year": 1860,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "ca",
+    "fr"
+  ],
+  "quality_score": 0.765,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "١٣٥٥ منسع ١١ пІСТОВ ВИНОГР ДІ ETG EIG ETC./ شد ت in imit Us trition it made it signine crite t Mars •trances fros bortinion de la tavares dilemodis. univandel, blast faroonies de parade wries 9 - du Chivalier aple Lixinoi Compandende Notre Ordre de s asare, Vice Youverneur de Provincel. Commipair chaige par la Majeste C'omperus endennom .Noud donnond condéquemmen Connifaise disdatiplin fionvais, mandonant et comis=…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18600014_012.pdf",
+  "source_filename": "tra18600014_012.pdf",
+  "source_sha256": "22887deaa101bb97846c508a1ebc44b4ea322009b60b2542c3b2cf5a281efb45",
+  "treaty_id": "TRA18600014",
+  "treaty_number": "012",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "١٣٥٥ منسع ١١\n\nпІСТОВ ВИНОГР ДІ\n\nETG EIG ETC./\n\nشد ت\n\nin imit\n\nUs trition it made it signine crite t Mars •trances fros bortinion de la tavares dilemodis.\n\nunivandel, blast faroonies de parade\n\nwries 9 -",
+      "quality_score": 0.7597,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "du Chivalier aple Lixinoi Compandende Notre Ordre de s\n\nasare, Vice Youverneur de Provincel.\n\nCommipair chaige par la Majeste C'omperus endennom .Noud donnond condéquemmen\n\nConnifaise disdatiplin fionvais, mandonant et comis=\n\nMajeste Empersur ded raizais tutes ba formalites relatives ataremise du dis territorse si ararinan?\n\nconstater par un froces verbal diesé en do te expeditionf quar pais avons signé les présentes qui posteron leScan de Mod armes et le Contrescin\n\nLaring - e cuvone",
+      "quality_score": 0.7702,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra18600014_011",
+      "title": "Pouvoirs italiens pour la remise de la Savoie à la France",
+      "score": 0.362777,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19940440_101",
+  "title": "Instrument de la Région Bruxelles-Capitale",
+  "year": 1994,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9843,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ministère de la Région de Bruxelles-Capitale 1000 Bruxelles Rue Royale 2 Tél.: 02/ 518.17.11 Fax: 02/ 518.17.39 Bruxelles, le 15 mars 1999 Son Excellence Monsieur J. RUMMELHARDT Ambassadeur de la République Française Rue Ducale 65 1000 BRUXELLES Monsieur l'Ambassadeur, J'ai l'honneur de vous faire savoir que, en date du 15 mai 1997, le Gouvernement de la Région de Bruxelles-Capitale, a sanctionné l'ordonnance portan…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940440_101.pdf",
+  "source_filename": "tra19940440_101.pdf",
+  "source_sha256": "5ec10fa5962e1633bfc6c77235f892e9b292052ab10e4f00faa99912dcf6a047",
+  "treaty_id": "TRA19940440",
+  "treaty_number": "101",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministère de la Région de\n\nBruxelles-Capitale\n\n1000 Bruxelles\n\nRue Royale 2\n\nTél.: 02/ 518.17.11\n\nFax: 02/ 518.17.39\n\nBruxelles, le 15 mars 1999\n\nSon Excellence Monsieur J. RUMMELHARDT\n\nAmbassadeur de la République Française\n\nRue Ducale 65 1000 BRUXELLES\n\nMonsieur l'Ambassadeur,\n\nJ'ai l'honneur de vous faire savoir que, en date du 15 mai 1997, le Gouvernement de la Région de Bruxelles-Capitale, a sanctionné l'ordonnance portant assentiment à l'Accord concernant la protection de l'Escaut et à l'Accord concernant la protection de la Meuse, faits à Charleville-Mézières, le 26 avril 1994.\n\nPar cet acte formel, la procédure interne en matière d'entrée en vigueur des deux\n\nTraités, en ce qui concerne la Région de Bruxelles-Capitale, a été exécutée.\n\nLe document ci-joint a pour objet la notification officielle de cet acte au\n\nGouvernement de la République française, dépositaire desdits Traités.\n\nJe vous prie de croire, Monsieur l'Ambassadeur, à l'expression de ma plus haute considération.\n\nN.\n\nDE COOMAN\n\nSecrétaire général adjoint\n\nCe dossier a été traité par Monsieur F. LELON, Secrétaire d'administration,\n\nMinistère de la Région de Bruxelles-Capitale, Service des Relations extérieures\n\nRue Royale 2 à 1000 Bruxelles, @ 02/518.19.81 E 02/518.19.8",
+      "quality_score": 0.9819,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "NOTE VERBALE\n\nLe Ministère de la Région de Bruxelles-Capitale de la Belgique présente ses compliments à l'Ambassade de la République française et a l'honneur de lui communiquer que la Région de Bruxelles-Capitale accompli les procedures visées à l'article 9 des Actes internationaux ci-après:\n\nl'Accord concernant la protection de l'Escaut, fait à Charleville- Mézières le 26 avril 1994 l'Accord concernant la protection de la Meuse, fait à Charleville-Mézières le 26 avril 1994.\n\nLe Ministère de la Région de Bruxelles-Capitale de la Belgique saisit cette occasion pour renouveler à l'Ambassade de la République française l'assurance de sa trés haute considération.\n\nN\n\nDE\n\nCOOMAN\n\nSecrétaire général adjoint",
+      "quality_score": 0.9866,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940439_101",
+      "title": "Instrument de la Région Bruxelles-Capitale : notification de l'assentiment de l'Accord par ordonnance du 15 mai 1997",
+      "score": 0.999269,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_100",
+      "title": "Note relative aux pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.422516,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_098",
+      "title": "Accusé de réception par le dépositaire de l'instrument wallon",
+      "score": 0.419133,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_696",
+      "title": "Pouvoirs néerlandais",
+      "score": 0.417453,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_099",
+      "title": "Notifications du dépositaire aux Parties relatives au dépôt de l'instrument wallon",
+      "score": 0.417327,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_097",
+      "title": "Pouvoirs wallons",
+      "score": 0.415662,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_100",
+      "title": "Note relative à la transmission des pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.412295,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_697",
+      "title": "Instrument néerlandais",
+      "score": 0.397755,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_096",
+      "title": "Instrument flamand",
+      "score": 0.397367,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_698",
+      "title": "Accord",
+      "score": 0.396378,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

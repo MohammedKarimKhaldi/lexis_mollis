@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_375",
+  "title": "Notification française à l'OIE",
+  "year": 1924,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9744,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTERE DES AFFAIRES ETRANGERES DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES --0000- Sous-Direction des Affaires Economiques Nº NUO1/E/ 78H Rédacteur :Sven-Erik SJODEN #：01 43 1746 59 圓：0143 175558 République Française Paris, le 21 mai 2002 Monsieur le Directeur Général, J'ai l'honneur de vous faire savoir que, par lettre recue le 19 avril 2002, le Ministère de l'Agriculture de la République de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_375.pdf",
+  "source_filename": "tra19240002_375.pdf",
+  "source_sha256": "7620ced5b7dd06c4b1c3a0247468503b13bc6567e7498fe89c2db84581ff4180",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "375",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTERE\n\nDES\n\nAFFAIRES ETRANGERES\n\nDIRECTION DES NATIONS UNIES\n\nET DES ORGANISATIONS\n\nINTERNATIONALES\n\n--0000- Sous-Direction des Affaires Economiques\n\nNº NUO1/E/ 78H\n\nRédacteur :Sven-Erik SJODEN #：01 43 1746 59 圓：0143 175558\n\nRépublique Française\n\nParis, le 21 mai 2002\n\nMonsieur le Directeur Général,\n\nJ'ai l'honneur de vous faire savoir que, par lettre recue le 19 avril 2002, le\n\nMinistère de l'Agriculture de la République de Guinée Equatoriale a fait part au gouvernement français de l'intention de son gouvernement d'adhérer à l'arrangement\n\nInternational portant création de l'Office international des Epizooties signé à Paris le 25 janvier 1924.\n\nCette adhésion a pris effet le 20 avril 2002.\n\nLa République de Guinée Equatoriale a choisi de s'inscrire dans la sixième catégorie des Etats membres prévue à l'article 11 des statuts organiques de l'Office.\n\nLes dispositions ont été prises pour la notification de cette adhésion aux Etats parties à cet Acte international.\n\nVeuillez agréer, Monsieur le Directeur Général, l'assurance de ma haute considération.\n\nMonsieur Bernard VALLAT\n\nDirecteur Général de l'Office International des Epizooties.\n\n12, rue de Prony 75017 PARIS",
+      "quality_score": 0.9744,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_371",
+      "title": "Instrument d'adhésion",
+      "score": 0.791404,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_510",
+      "title": "Accusé de réception de l'adhésion liechtensteinoise",
+      "score": 0.767668,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_300",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.424238,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_485",
+      "title": "Accusé de réception de l'instrument du Lesotho",
+      "score": 0.419467,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_245",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.409639,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_391",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument d'adhésion hondurien",
+      "score": 0.409119,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_136",
+      "title": "Accusé de réception français de l'adhésion camerounaise",
+      "score": 0.407347,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_131",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.407066,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_286",
+      "title": "Notification par le gouvernement français de la dénonciation équatorienne",
+      "score": 0.404431,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_51_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Macédoine du Nord",
+      "score": 0.404226,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

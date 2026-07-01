@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_026_s1",
+  "title": "Note verbale d'acceptation de l'Espagne",
+  "year": 1982,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9734,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NISTÈRE DES AFFAIRES ÉTRANGÈR かての 03.03.83 N° 31389 Le Ministère des Affaires Etrangères présente ses compliments à l'Ambassade de France et se référant à la note verbale N° 149 de 1 'Ambassade en date du 3 août 1982 a l'honneur de Lui faire savoir que le Président de la République de Finlande a le 25 janvier 1983 approuve l'amendement à l'article 5.2 de la Convention sur les expositions internationales fait à la se…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_026_s1.pdf",
+  "source_filename": "19820018_026_s1.pdf",
+  "source_sha256": "a9e5b81821c6609f80841903cf0ea8f37721f6746a1ce4690e6082b94621d9c7",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "ESP001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NISTÈRE DES AFFAIRES ÉTRANGÈR\n\nかての 03.03.83\n\nN° 31389\n\nLe Ministère des Affaires Etrangères présente ses compliments à l'Ambassade de France et se référant à la note verbale N° 149 de 1 'Ambassade en date du 3 août 1982 a l'honneur de Lui faire savoir que le Président de la République de Finlande a le 25 janvier 1983 approuve l'amendement à l'article 5.2 de la Convention sur les expositions internationales fait à la session du 24 juin 1982 de l'Assemblée\n\nGénérale du Bureau International des Expositions. |\n\nCette note doit être considérée comme une notification d'acceptation prévue par l'article 33.3 de la Con- vention.\n\nLe Ministère des Affaires Etrangères saisit cette occasion pour renouveler à l'Ambassade de France les assurances de sa haute considération.\n\nHelsinki, le 28 février 1983\n\nH e 1 sinki\n\nUM 472: A4 8402-75127",
+      "quality_score": 0.9734,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_029_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.423588,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_015_s1",
+      "title": "Note verbale d'acceptation de l'amendement de 1988",
+      "score": 0.417565,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.413341,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.413106,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_033_s1",
+      "title": "accusé de réception du Nicaragua de la notification de l'amendement",
+      "score": 0.402143,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_007_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.401164,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.400981,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_045_s1",
+      "title": "Note verbale d'acceptation de l'amendement de la Suède",
+      "score": 0.392014,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_009_s1",
+      "title": "Note verbale d'acceptation de l'Autriche",
+      "score": 0.390712,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_006_s1",
+      "title": "Note verbale de l'Allemagne fédérale confirmant l'acceptation de l'amendement de 1982",
+      "score": 0.390288,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

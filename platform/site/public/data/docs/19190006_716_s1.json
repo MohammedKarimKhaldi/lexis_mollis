@@ -59,5 +59,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_715_s1",
+      "title": "Ratification du traité, protocole et déclarations annexes",
+      "score": 0.432777,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200016_716_s1",
+      "title": "Instrument de ratification portugais du traité, du protocole et de la déclaration",
+      "score": 0.426007,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19710031_005_s1",
+      "title": "Instrument de ratification",
+      "score": 0.379769,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_63_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.377437,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_84_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.367144,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_436c_s1",
+      "title": "Instrument de ratification italien de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.363264,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_39_s1",
+      "title": "Instrument de ratification",
+      "score": 0.360298,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_030_s1",
+      "title": "Traité de paix entre la France et la Savoie",
+      "score": 0.353556,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_630_s1",
+      "title": "Ratification du traité du 10 septembre 1919",
+      "score": 0.351423,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_31_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.351116,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

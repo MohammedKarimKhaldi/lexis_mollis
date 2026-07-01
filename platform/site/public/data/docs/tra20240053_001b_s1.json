@@ -1,0 +1,95 @@
+{
+  "document_id": "tra20240053_001b_s1",
+  "title": "Lettre en réponse",
+  "year": 2024,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Monsieur l'Ambassadeur, J'ai l'honneur d'accuser réception de votre lettre en date du 27 mai 2024 relative au renouvellement du Traité instituant un partenariat de défense entre la République française et la République gabonaise signé le 24 février 2010 et renouvelé par lettres signées respectivement les 30 et 31 mai 2019, dont la teneur est la suivante : « Pour répondre au désir conjoint exprimé d'actualiser notre…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20240053_001b_s1.pdf",
+  "source_filename": "tra20240053_001b_s1.pdf",
+  "source_sha256": "9b850ef96a15e9f2a28691a27bddb2bddfe5139cddb08a43c0827ee07829601f",
+  "treaty_id": "TRA20240053",
+  "treaty_number": "001B",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Monsieur l'Ambassadeur,\n\nJ'ai l'honneur d'accuser réception de votre lettre en date du 27 mai 2024 relative au renouvellement du Traité instituant un partenariat de défense entre la République française et la\n\nRépublique gabonaise signé le 24 février 2010 et renouvelé par lettres signées respectivement les 30 et 31 mai 2019, dont la teneur est la suivante :\n\n« Pour répondre au désir conjoint exprimé d'actualiser notre cadre juridique bilatéral en matière de défense tout en tenant compte des délais associés à cette actualisation, il vous est proposé d'une part de renouveler le Traité actuellement en vigueur afin de ne pas priver de base juridique notre coopération en matière de défense et d'autre part, sur la base de la proposition de Traité révisé remise par la Partie gabonaise le 13 mai 2024, d'engager prochainement des négociations visant à la conclusion d'un nouveau Traité qui abrogera le Traité existant.\n\nJ'ai donc l'honneur, sur instruction de mon Gouvernement, de vous proposer de remplacer, à la deuxième phrase du point 2 de l'article 22 du Traité, les mots : « cinq ans » par les mots : « deux ans ». Ainsi, le Traité instituant un partenariat de défense entre la République française et la\n\nRépublique gabonaise (et son annexe), restera en vigueur pour une nouvelle période de deux ans à compter du 1° juin 2024, conformément au nouveau point 2 de l'article 22.\n\nJe vous serais obligé de bien vouloir me faire savoir si les dispositions qui précèdent recueillent l'agrément de votre Gouvernement. Dans ce cas, la présente lettre ainsi que votre réponse auront pour effet d'amender et de renouveler le Traité, pour une nouvelle période de deux ans, soit jusqu'au 31 mai 2026. »\n\nJ'ai l'honneur de vous faire part de l'accord de mon Gouvernement sur les dispositions qui précèdent.\n\nEn conséquence, votre lettre en date du 27 mai 2024 ainsi que la présente lettre ont pour effet d'amender et de renouveler le Traité à compter du 1ª juin 2024 pour une nouvelle période de deux ans, soit jusqu'au 31 mai 2026.\n\nJe vous prie d'agréer, monsieur l'Ambassadeur, l'assurance de ma haute considération.\n\n27 MAI 2024\n\nPour le Gouvernement de la République\n\ngabonaise,\n\nGénéral de division Brigitte ONKANOWA,\n\nMinistre de la Défense Nationale",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20240053_001a_s1",
+      "title": "Lettre",
+      "score": 0.45341,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192687_001_s1",
+      "title": "Texte de l'accord (lettre française)",
+      "score": 0.417317,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192687_010_s1",
+      "title": "Texte de l'accord (lettre gabonaise)",
+      "score": 0.411901,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230084_001a_s1",
+      "title": "Lettre",
+      "score": 0.372769,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230149_001a_s1",
+      "title": "Lettre",
+      "score": 0.364353,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630043_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.36076,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230081_006_s1",
+      "title": "Lettre accusant réception de la notification d'approbation française",
+      "score": 0.356305,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

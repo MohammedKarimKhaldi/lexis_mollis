@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19990206_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1999,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9892,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "N° 133/99 Republique Transaise POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à : Monsieur Alain RICHARD, Ministre de la Défense, pour signer un accord entre le Gouvernement de la République française et le Gouvernement de l'Etat des Emirats arabes unis relatif à la coopération dans le domaine des missiles de type Black Shaheen./. FARTA PA…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19990206_002_s1.pdf",
+  "source_filename": "tra19990206_002_s1.pdf",
+  "source_sha256": "c483c7c741a3ea54341d93af47417b4a3805636fec5a5a87d3e1b746ff88da08",
+  "treaty_id": "TRA19990206",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "N° 133/99\n\nRepublique Transaise\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre des\n\nAffaires Etrangères, donnons POUVOIRS par ces présentes à :\n\nMonsieur Alain RICHARD, Ministre de la Défense,\n\npour signer un accord entre le Gouvernement de la République française et le\n\nGouvernement de l'Etat des Emirats arabes unis relatif à la coopération dans le domaine des missiles de type Black Shaheen./.\n\nFARTA PARIS, LE 5 juillet 1999\n\nLe Ministregdes Affaires Etrangères",
+      "quality_score": 0.9892,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990082_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.692186,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.648493,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_325_s1",
+      "title": "Pouvoirs italiens (s.d.)",
+      "score": 0.64125,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.623065,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.622263,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880315_325",
+      "title": "Pouvoirs français",
+      "score": 0.510643,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070073_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.402443,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_002_s1",
+      "title": "Pouvoir français",
+      "score": 0.40045,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_325_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.399068,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.392616,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

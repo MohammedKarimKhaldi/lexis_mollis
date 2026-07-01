@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19550092_100_s1",
+  "title": "Note de transmission de l'accord à AR par le service traitant -avec informations sur les conditions de mise en vigueur-",
+  "year": 1955,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9914,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PB/SF MINISTÈRE DES AFFAIRES ÉTRANGÈRES Direction des Affaires Administratives et sociales N° Dossier 18 C.A.3 7-6 . 29 FEY 353 LIBERTÉ - ÉGALITÉ - FRATERNITÉ RÉPUBLIQUE FRANÇAISE PARIS, LE 23 rEV 1895 In Du prie ..... NOTE POUR LE SERVICE DES ARCHIVES Echange de lettres prévoyant l'exemption reciproque des impôts sur les bénéfices des entreprises de navigation aérienne par les Gouvernements français et belge La Dir…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19550092_100_s1.pdf",
+  "source_filename": "tra19550092_100_s1.pdf",
+  "source_sha256": "6a3871b2827ee7eae67f71a41623b41640a396adb0036038699a49f04160b740",
+  "treaty_id": "TRA19550092",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PB/SF\n\nMINISTÈRE\n\nDES\n\nAFFAIRES ÉTRANGÈRES\n\nDirection des Affaires\n\nAdministratives et sociales\n\nN°\n\nDossier 18\n\nC.A.3\n\n7-6\n\n. 29 FEY 353\n\nLIBERTÉ - ÉGALITÉ - FRATERNITÉ\n\nRÉPUBLIQUE FRANÇAISE\n\nPARIS, LE\n\n23 rEV 1895\n\nIn Du prie\n\n.....\n\nNOTE\n\nPOUR LE SERVICE DES ARCHIVES\n\nEchange de lettres prévoyant l'exemption reciproque des impôts sur les bénéfices des entreprises de navigation aérienne par les Gouvernements français et belge\n\nLa Direction des Affaires Administratives et sociales a l'honneur de faire savoir au Service des Archives que le 10 décembre 1955 a eu lieu entre M. Philippe MONOD et l'Ambassadeur de Belgique à Paris, un échange de lettres par lequel le Gouvernement français et le Gouvernement\n\n3 p.il.\n\nbelge s'engagent, sous condition de réciprocité, à exonérer de tout impôt sur les bénéfices ou revenus, les profits réalisés par une société ou autre personne morale française ou belge, dans l'exploitation, en trafic international, d'aéronefs immatriculés en Belgique ou en France.\n\nLe Service des Archives voudra bien trouver ci-joint\n\n1.1. 7\n\nl'original de la lettre signée par le Baron Guillaume, ainsi que la copie en double exemplaire de la lettre signée par M. Philippe MONOD.\n\nAux termes du 2ème alinéa de l'article 246 du Code\n\n.../",
+      "quality_score": 0.9828,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "général des Impôts,\n\nl'accord dont il s'agit fera l'objet\n\nd'un décret contresigné par le Ministère des Affaires\n\nEconomiques et Financières et ensuite sera soumis dans un délai de trois mois à l'approbation parlementaire./-",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19550092_001_s1",
+      "title": "Texte de l'accord (lettre française)",
+      "score": 0.417411,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19550092_010_s1",
+      "title": "Texte de l'accord (lettre belge)",
+      "score": 0.397458,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_005_s1",
+      "title": "Instrument belge",
+      "score": 0.390996,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra1950149_001_s1",
+      "title": "Lettre française",
+      "score": 0.388943,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540005_010_s1",
+      "title": "Accord (lettre sud-africaine)",
+      "score": 0.386497,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19500149_102_s1",
+      "title": "Note n° 000032 de la Dtion des conventions administratives et des affaires consulaires (ensemble 2 pièces jointes : copie de la note n° 353 du 25/08/1955 et copie du texte de la lettre grecque de l'accord) au Sce des archives diplomatiques a/s original de la lettre grecque de l'accord",
+      "score": 0.386014,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_103",
+      "title": "Echange de notes relatif à Guernesey",
+      "score": 0.374312,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19650073_010_s1",
+      "title": "Accord : lettre belge (ensemble copie de l'arrangement)",
+      "score": 0.373713,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_001_s1",
+      "title": "Convention",
+      "score": 0.373681,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540005_001_s1",
+      "title": "Accord (lettre française)",
+      "score": 0.372718,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

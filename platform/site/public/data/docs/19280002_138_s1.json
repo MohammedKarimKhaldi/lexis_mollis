@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_138_s1",
+  "title": "Note verbale d'adhésion",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9675,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 138 2959 ・・ PRINCIPAUTÉ DE MONACO SERVICE DES RELATIONS EXTÉRIEURES 1.341/58 le 23 Avril I958 Monsieur le Président du Conseil, Me référant aux dispositions de l'article 35 de la Convention concernant les expositions interna- tionales, signée à Paris le 22 novembre I928, l'honneur de demander au nom du Gouvernement de Son Altesse Sérénissime le Prince de Monaco son adhésion à ladite Convention. \"Je vous ser…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_138_s1.pdf",
+  "source_filename": "19280002_138_s1.pdf",
+  "source_sha256": "f11a71f38b805e36fe2816ba24572dadf05f7526678bc44c12344db5246970d1",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MCO001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 138",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "2959 ・・\n\nPRINCIPAUTÉ DE MONACO\n\nSERVICE DES RELATIONS EXTÉRIEURES\n\n1.341/58\n\nle 23 Avril I958\n\nMonsieur le Président du Conseil,\n\nMe référant aux dispositions de l'article 35 de la Convention concernant les expositions interna- tionales, signée à Paris le 22 novembre I928, l'honneur de demander au nom du Gouvernement de Son\n\nAltesse Sérénissime le Prince de Monaco son adhésion à ladite Convention.\n\n\"Je vous serais reconnaissant de bien vouloir faire part de cette adhésion à tous les Etats contrac- tants.\n\nVeuillez croire, Monsieur le Président, aux assurances de ma très haute considération.\n\nMonsieur le Président\n\nConseil des Ministrea du Gouvernement de la République Française\n\nBart트",
+      "quality_score": 0.9917,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_158_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.789616,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_148_s1",
+      "title": "Lettres patentes d'adhésion",
+      "score": 0.78171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_198_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.776492,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_142_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.772244,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.765578,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_144_s1",
+      "title": "Instrument d'adhésion du Niger",
+      "score": 0.759389,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_180_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.758881,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_149_s1",
+      "title": "Acte d'adhésion",
+      "score": 0.756047,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_152_s1",
+      "title": "Notification aux Etats parties de la dénonciation de la Nouvelle-Zélande",
+      "score": 0.756004,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_183_s1",
+      "title": "Instrument de ratification",
+      "score": 0.747995,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

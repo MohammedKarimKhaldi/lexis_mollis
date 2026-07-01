@@ -1,0 +1,53 @@
+{
+  "document_id": "19540096_030_s1",
+  "title": "Instrument d'adhésion du Cameroun",
+  "year": 1954,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9641,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "El Hadj AFLADOU ALIDJO PRESIDENT DE LA REPUBLIQUI FEDERALE DU CALEROUN Ayant vu et examiné la Convention Internationale relative à l'Institut International du Froid, signée à PARIS le ler Décenbre 1954, déclarons y adhérer et promettons qu'elle sera inviol blenent observée. En foi de quoi nous avons donné les présentes revêtues du Sceau de la République. A YAOUNDE, 1C 23 MAI 1972 LE PRESIDENT DE LA REPUBLIQUE FEDERA…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_030_s1.pdf",
+  "source_filename": "19540096_030_s1.pdf",
+  "source_sha256": "481fa10ae80fe3aa40d2182eb74cf5fdb08f409423a05fea000a214c8c80570f",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "CMR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "El Hadj AFLADOU ALIDJO\n\nPRESIDENT DE LA REPUBLIQUI FEDERALE DU CALEROUN\n\nAyant vu et examiné la Convention Internationale relative à l'Institut International du Froid, signée à\n\nPARIS le ler Décenbre 1954, déclarons y adhérer et promettons qu'elle sera inviol blenent observée.\n\nEn foi de quoi nous avons donné les présentes revêtues du Sceau de la République.\n\nA YAOUNDE, 1C 23 MAI 1972\n\nLE PRESIDENT DE LA REPUBLIQUE FEDERALE\n\nDU CLEROUN,\n\nEl Jadj ARMADOU ALIDJO\n\n7to",
+      "quality_score": 0.9641,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_072_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.375683,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

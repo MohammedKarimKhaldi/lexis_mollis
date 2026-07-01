@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_034_s1",
+  "title": "Instrument de ratification du Canada",
+  "year": 1954,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9882,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPÔT DE L'INSTRUMENT DE RATIFICATION DU CANADA DE LA CONVENTION INTERNATIONALE DU ler DECEMBRE 1954 SE SUBSTITUANI A LA CONVENTION DU 21 JUIN 1920, MODIFIEE LE 31 MAI 1937, RELATIVE A L'INSTITUT INTERNATIONAL DU FROID Son Excellence Monsieur Pierre DUPUY, C. M. G., Ambassadeur Extraordinaire et Plénipotentiaire du Canada, s'est présenté aujourd'hui au Ministère des Affaires Etrangères, pour procéde…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_034_s1.pdf",
+  "source_filename": "19540096_034_s1.pdf",
+  "source_sha256": "fe2e2db7f9c4ab230dfee653200341d1f69d3e6499e9fca6111a4b0c634497b9",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "CAN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nDE DEPÔT DE L'INSTRUMENT DE RATIFICATION DU CANADA\n\nDE LA CONVENTION INTERNATIONALE DU ler DECEMBRE 1954\n\nSE SUBSTITUANI A LA CONVENTION DU 21 JUIN 1920, MODIFIEE LE 31 MAI 1937,\n\nRELATIVE A L'INSTITUT INTERNATIONAL DU FROID\n\nSon Excellence Monsieur Pierre DUPUY,\n\nC. M. G., Ambassadeur Extraordinaire et Plénipotentiaire du\n\nCanada, s'est présenté aujourd'hui au Ministère des Affaires\n\nEtrangères, pour procéder avec Monsieur Pierre SI R A UD,\n\nMinistre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépôt de l'instrument de ratification du Canada de la Convention Internationale du ler Décembre 1954 se substituant à la Convention du 21 Juin 1920, modifiée le 31 Mai 1937, relative à l'Institut Internatio- nal du Froid, en vertu de l'Article 34 de Ladite Convention.\n\nL'instrument ayant été, après\n\nexamen,\n\ntrouvé en bonne et due forme, a été déposé pour y être conservé dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont\n\ndressé le présent procès-Verbal qu'ils ont revêtu de leur\n\nSceau.\n\nFAIT à PARIS, en double exemplaire,\n\nle 14 Juin 1962./.\n\nTierre\n\nr. lilaur",
+      "quality_score": 0.9882,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_076_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Nouvelle-Zélande",
+      "score": 0.864111,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_089_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification britannique",
+      "score": 0.845967,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_085_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.833359,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_024_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Belgique",
+      "score": 0.785678,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_019_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Australie",
+      "score": 0.783383,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_080_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification néerlandais",
+      "score": 0.769029,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_047_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification danois",
+      "score": 0.764658,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_073_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Norvège",
+      "score": 0.729195,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_013_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification ouest-allemand",
+      "score": 0.717289,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_063_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Italie",
+      "score": 0.715741,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

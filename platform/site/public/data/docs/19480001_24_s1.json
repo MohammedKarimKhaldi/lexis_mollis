@@ -1,0 +1,75 @@
+{
+  "document_id": "19480001_24_s1",
+  "title": "Note du Protocole confirmant la date de dépôt de l'instrument de ratification de la Grèce",
+  "year": 1948,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "fr",
+    "it"
+  ],
+  "quality_score": 0.7734,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "IS/30 Protocole 481 eurs Multil Io Mail Protocole aver ardu o GRECE défit du ratif, 23 JUIN 1958 at 8 o du 23 jum 958 au S Archand =0II POUS IL DIRECTION DIS ATTAIRIS AISEINISTIATIVIS IT SOCIALES - Endons Intorsatlanalos - 22-3 Parto lo 10 met 1948. Pax noto no 231 da 24 février 1953, La Ilroctios das Attripaa divinistrativos et socialos a bion Touta à la Compention paypelto el contrai o Barrice du Protocolo a 1 bor…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_24_s1.pdf",
+  "source_filename": "19480001_24_s1.pdf",
+  "source_sha256": "7f3858f0e9a7449e913e3758cfba1aeb1b0fe9173c67c3eb5f9dc8aa43592d75",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "GRE003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "IS/30\n\nProtocole 481 eurs\n\nMultil\n\nIo Mail\n\nProtocole\n\naver ardu o\n\nGRECE\n\ndéfit du ratif, 23 JUIN 1958\n\nat 8 o du 23 jum 958 au S\n\nArchand\n\n=0II\n\nPOUS IL DIRECTION DIS ATTAIRIS AISEINISTIATIVIS IT SOCIALES\n\n- Endons Intorsatlanalos -\n\n22-3\n\nParto lo 10 met 1948.\n\nPax noto no 231 da 24 février 1953, La Ilroctios das Attripaa divinistrativos et socialos a bion Touta à la Compention paypelto el contrai o Barrice du Protocolo a 1 borneur do Ju tadre muroit, apado vérification, gu'il est d'accusa ur lao dates Indigatos concernent la ratiílaation 01 l'édbónton par la Iranco, la Républiqua pédéfalo d'Allo passo, I'lutricho, Jou Inymias et Inradl, été déposda le 6 mai 1953.\n\n- La rection des Atteszus douintetretiros ot socialea voudra bloz trourez el-joint la lottro da 23 avrIl 2953 de Vintatro d'ftat do la Principautó do Monaco et le note 1° 10556/58 du 26 AVILI 1958 do La Jégation do Fornoo à Parta fatrant pert do l'adhérios du Dourozza meat prinedoz à la Compention du 22 novarbro 2928 et en",
+      "quality_score": 0.7865,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "CORIOT COmAlasBACe auI Etats contractants. to\n\nSerViCo da Protocole Intaso la DOLa d lA IlrOtIOn des Affatros Aluttotratives et Doctales 6'02 donDes acte à la IlEstion de MorIscoal à",
+      "quality_score": 0.7603,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_hun003_s1",
+      "title": "accusé de réception de l'adhésion de la Hongrie",
+      "score": 0.364604,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

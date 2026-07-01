@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19910179_006_s1",
+  "title": "Accusé de réception émirati de l'instrument français",
+  "year": 1991,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9265,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "EMERALS ARABES UNIS Ministère des Affaires Etrangères Direction des Affaires Juridiques et des Etudes n° 9 d 3/1/7 I1 1956 date 18/4/1414 hégire 4/10/1993 Le Ministère des Affaires Etrangères de 1'Etat des Emixats Arabes Unis présente ses compliments à l'Ambassade de France et a l'honneur de se référer à la note verbale de l'Ambassade n°18/92 SM. Cransmettant l'instrument d'approbation français à l'accord de transpo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19910179_006_s1.pdf",
+  "source_filename": "tra19910179_006_s1.pdf",
+  "source_sha256": "995ca89729360a918e89d0302071b228ad5fb480dacbd3ed64e680cf3cc79daf",
+  "treaty_id": "TRA19910179",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "EMERALS ARABES UNIS\n\nMinistère des Affaires Etrangères\n\nDirection des Affaires Juridiques\n\net des Etudes\n\nn° 9 d 3/1/7 I1 1956 date 18/4/1414 hégire 4/10/1993\n\nLe Ministère des Affaires Etrangères de 1'Etat des Emixats\n\nArabes Unis présente ses compliments à l'Ambassade de France et a l'honneur de se référer à la note verbale de l'Ambassade n°18/92 SM.\n\nCransmettant l'instrument d'approbation français à l'accord de transport aérien entre les deux pays, signé à Paris le 9 septembre 199/\n\nLe Ministère prie 1'Anbassade de considérer la présente note verbale come accusant réception du message du Ministre français des Attaires Etrangères.\n\nLe Ministère des Affaires Etrangères saisit cette occasion afin de renouveler a 1' Ambassade de France 1 expression de sa haute considération /-\n\nAmbassade de la République française\n\nABOU DHABI\n\nsceau :\n\nEtat des Enirats Arabes Uris\n\nDirection des Affaires Juridiques\n\net des Ecudes",
+      "quality_score": 0.9265,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.447556,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_005_s1",
+      "title": "Instrument émirati",
+      "score": 0.443766,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_006b_s1",
+      "title": "Note de transmission de la lettre de M. Al Nahyan et de l'instrument émirati",
+      "score": 0.435232,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_007_s1",
+      "title": "Accusé de réception français de l'instrument émirati, de la lettre de M. Al Nahyan et de la note de transmission",
+      "score": 0.433411,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.42111,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_006",
+      "title": "Accusé de réception qatari de l'instrument français",
+      "score": 0.418695,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.417332,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_005b",
+      "title": "Second instrument qatari",
+      "score": 0.414027,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_030_s1",
+      "title": "Note verbale d'acceptation du Maroc",
+      "score": 0.412332,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760120_003",
+      "title": "Pouvoirs irakiens",
+      "score": 0.409996,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

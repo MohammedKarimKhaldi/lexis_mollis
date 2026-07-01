@@ -1,0 +1,132 @@
+{
+  "document_id": "19230072_732b_s1",
+  "title": "Déclaration franco-britannique relative à la non-application des dispositions de la Convention commerciale au territoire du condominium des Nouvelles-Hébrides",
+  "year": 1923,
+  "doc_type": "Déclaration",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9803,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "In accordance with the provisions of Article 16 of the Commercial convention, signed at Jausanne on July 24th, 1923, the Undersigned, duly authorised, declaro respectively in the name of the Government of the French Republio and of the Government of His Britannio Majesty that the provisions of the said Convention do not apply to the Franco-British Condominium of the New Hebrides. It is understood that in accordanoe…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230072_732b_s1.pdf",
+  "source_filename": "19230072_732b_s1.pdf",
+  "source_sha256": "f51fcc010530d519f061a43f3029e03000bce75cc34605437d3d8215a589f79c",
+  "treaty_id": "TRA19230072",
+  "treaty_number": "GBR003b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "In accordance with the provisions of Article 16 of the Commercial convention, signed at Jausanne on July 24th, 1923, the Undersigned, duly authorised, declaro respectively in the name of the Government of the French\n\nRepublio and of the Government of His Britannio Majesty that the provisions of the said Convention do not apply to the Franco-British Condominium of the New Hebrides.\n\nIt is understood that in accordanoe with the same article the Governments of the French Republio and of His Britannie Majesty reserve the right of adhering later, in the name of the franco-British Condominium of the New Hebrides, to the above-mentioned convention, from which this condominium is excluded by virtue of the present declaration.\n\nDone at paris, this thirtieth day of angust, 1924.\n\ntheref\n\nEric Phippo\n\nIn Presetend du Consul",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "conformément à l'article 16 de la convention commerciale signée à lausanne, le 24 juillet 1923, par l'Empire Britannique, la France, l'Italie, le Japon, la\n\nGrece, la Roumanie et la Turquie, les soussignes, dûment autorisés, déclarent, au nom du Gouvernement de la République trangaise et du Gouvernement de sa Majeste Britannique, que les dispositions de ladite vonvention ne s'appliqueront pas au condominium franco-britannique des Nouvelles-Hébrides.\n\nIl reste entendu que, conformement au même article, les Gouvernements Britannique et Français se réservent d'adhe rer ultérieurement, au nom du condominiun franco-britannique des Nouvelles-Hébrides, à la convention precitee, dont ce condominium se trouve exclu en vertu de la présente déclara-\n\ntion./.\n\nFact à Pares, le 30 Aout 1924\n\npour le Président de la Republiqua Franaise,\n\npour le Gouvernement de sa Majeste Britannique,\n\nEricPripps",
+      "quality_score": 0.9605,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230072_732d_s1",
+      "title": "Déclaration franco-britannique relative à la non-application des dispositions de la Convention concernant l'établissement et la compétence judiciaire au territoire du condominium des Nouvelles-Hébrides",
+      "score": 0.811625,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_732e_s1",
+      "title": "Procès-verbal de dépôt de déclarations britanniques et franco-britanniques",
+      "score": 0.413426,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_732c_s1",
+      "title": "Déclaration britannique relative à la non application des dispositions de la convention  concernant l'établissement et la compétence judiciaire aux territoires des dominions britanniques",
+      "score": 0.398179,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_003_s1",
+      "title": "Procès-verbal de dépôt des instruments britanniques, italiens et japonais de certains actes signés à Lausanne le 24 juillet 1923 et le 23 novembre 1923, et à Sèvres le 10 août 1920",
+      "score": 0.396745,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_733_s1",
+      "title": "Note de transmission britannique de plusieurs instruments et d'une déclaration britannique concernant les actes signés à Lausanne les 24 juillet et 23 novembre 1923 et certains actes signés à Sèvres le 10 août 1923",
+      "score": 0.377935,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_s1_s1",
+      "title": "Convention",
+      "score": 0.37595,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19040040_001_s1",
+      "title": "Accord",
+      "score": 0.372489,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_03_s1",
+      "title": "Épreuve avant tirage définitif (s. d.)",
+      "score": 0.371924,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_001_s1",
+      "title": "Texte de l'acte final",
+      "score": 0.371044,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230072_446b_s1",
+      "title": "Instrument de ratification japonais de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.370972,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

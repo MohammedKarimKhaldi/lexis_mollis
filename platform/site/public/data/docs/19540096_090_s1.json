@@ -1,0 +1,150 @@
+{
+  "document_id": "19540096_090_s1",
+  "title": "Instrument de ratification du Royaume-Uni",
+  "year": 1954,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "WHEREAS an Agreement concerning the International Institute of Refrigeration replacing the Convention of 21st June 1920 as modified on 31st May 1937, was done at Paris on the First day of December, One thousand Nine hundred and Fifty-four, by representatives of the Government of the United Kingdom of Great Britain and Northern Ireland and of the Governments of certain other Powers and States, Member Countries the In…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_090_s1.pdf",
+  "source_filename": "19540096_090_s1.pdf",
+  "source_sha256": "bce1c4f8655a6be08f351894a71d3b1224edd4671de58ee05f98cf55de5b9a17",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "GBR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WHEREAS\n\nan Agreement concerning the\n\nInternational\n\nInstitute\n\nof Refrigeration\n\nreplacing the Convention of 21st June 1920 as modified on 31st May 1937, was done at Paris on the First day of December, One thousand Nine hundred and Fifty-four, by representatives of the Government of the United Kingdom of Great\n\nBritain and Northern Ireland and of\n\nthe\n\nGovernments of certain other Powers and States,\n\nMember\n\nCountries\n\nthe\n\nInternational\n\nInstitute of Refrigeration, which Agreement\n\nis",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "is, word for word, as follows:-",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "The Goverrment of the United Kingdom\n\nof Great Britain and Northern Ireland, having considered the Agreement aforesaid,\n\nhereby\n\nconfirm and ratify the same and undertake faithfully to perform and carry out all the stipulations therein contained.\n\nIn witness whereof this Instrument of\n\nRatification is signed and sealed by Her\n\nMajesty's Principal Secretary of State for\n\nForeign Affairs.\n\nDone",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "Done at London the Iwenty-first day\n\nOne thousand\n\nNine hundred and\n\nof June,\n\nSixty-two.\n\nHame",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_04_s1",
+      "title": "Instrument de ratification de l'Afrique du Sud",
+      "score": 0.58158,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_37_s1",
+      "title": "Instrument de ratification de l'Irlande",
+      "score": 0.404703,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_074_s1",
+      "title": "Déclaration de la Nouvelle-Zélande",
+      "score": 0.389676,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_059_s1",
+      "title": "Instrument d'accession de l'Irlande",
+      "score": 0.38118,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_053_s1",
+      "title": "Déclaration d'acceptation de la Finlande",
+      "score": 0.381085,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_04_s1",
+      "title": "Instrument de ratification de l'Afrique du Sud",
+      "score": 0.380025,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_66_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.377568,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_006_s1",
+      "title": "Instrument de ratification sud-africain",
+      "score": 0.377233,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_09_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.376692,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_002_s1",
+      "title": "Procès-verbal de rectification de la convention",
+      "score": 0.373835,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

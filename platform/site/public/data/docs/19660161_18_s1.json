@@ -1,0 +1,116 @@
+{
+  "document_id": "19660161_18_s1",
+  "title": "Pouvoirs de signature",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9613,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PLEINS POUVOIRS Je, soussigné, PER CHRISTEN HÆKKERUP, Ministre des Affaires Etrangères du Royaume de Danemark, autorise par les présentes Monsieur MOGENS RIIGHSBRIGHT HER- MANNSEN, Conseiller à l'Ambassade de Danemark à Paris, et en son absence Monsieur PER THORELL, Chef de Service adjoint au Ministère du Commerce de Dane- mark, à signer, au nom du Gouvernement danois, le Frotocole portant mođification de I'article…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_18_s1.pdf",
+  "source_filename": "19660161_18_s1.pdf",
+  "source_sha256": "bdeb84442cda94326a311dae39f571fa175ad4a9a496c3dabc72e926d84b27ed",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "DNK001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PLEINS POUVOIRS\n\nJe, soussigné, PER CHRISTEN HÆKKERUP, Ministre des\n\nAffaires Etrangères du Royaume de Danemark, autorise par les présentes Monsieur MOGENS RIIGHSBRIGHT HER- MANNSEN, Conseiller à l'Ambassade de Danemark à\n\nParis, et en son absence Monsieur PER THORELL, Chef de Service adjoint au Ministère du Commerce de Dane- mark, à signer, au nom du Gouvernement danois, le\n\nFrotocole portant mođification de I'article IV de la Convention signée à Paris le 22 novembre 1928 concernant les Expositions Internationales.\n\nCopenhague, le 9 novembre 1966.\n\nBa Mete hen.\n\nMinistre đes Affaires Etrangères",
+      "quality_score": 0.9613,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_56_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.418872,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_40_s1",
+      "title": "Pouvoirs de signature du Danemark",
+      "score": 0.411668,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.399514,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_255a_s1",
+      "title": "Pouvoirs danois pour la signature de la convention et de l'acte final",
+      "score": 0.39093,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.385491,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_97_s1",
+      "title": "Pouvoirs de signature de la Suède",
+      "score": 0.384459,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.38413,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_51_s1",
+      "title": "Pouvoirs de signature hongrois",
+      "score": 0.377949,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_04_s1",
+      "title": "Pouvoir de signature de la ratification",
+      "score": 0.377209,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_19_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.374675,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

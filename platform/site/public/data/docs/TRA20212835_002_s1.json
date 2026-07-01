@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20212835_002_s1",
+  "title": "Pouvoirs",
+  "year": 2021,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9315,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Française 烧区≥。 N°151/2020 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à : M. Jean-Christophe LARROQUE, Premier conseiller, Ambassade de France en Angola française le de siemement de la Republique daniette entre le Gouvermement de la République FAIT À PARIS, LE 14 décembre 2020 Le Ministre de l'Europe et des Aff…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20212835_002_s1.pdf",
+  "source_filename": "TRA20212835_002_s1.pdf",
+  "source_sha256": "ea3d7a54f44daa4c6db2fe8200779f20b20f48474ee7c94295106a67fbf5099a",
+  "treaty_id": "TRA20212835",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Française\n\n烧区≥。\n\nN°151/2020\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à :\n\nM. Jean-Christophe LARROQUE, Premier conseiller, Ambassade de France en Angola\n\nfrançaise le de siemement de la Republique daniette entre le Gouvermement de la République\n\nFAIT À PARIS, LE 14 décembre 2020\n\nLe Ministre de l'Europe et des Affaires étrangères\n\nM le Drian",
+      "quality_score": 0.9315,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20182522_002",
+      "title": "Pouvoirs français",
+      "score": 0.633417,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.627875,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.621703,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.446393,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182691_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.42638,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213018_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.41581,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240048_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.406598,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182469_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.405995,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182432_002",
+      "title": "Pouvoirs français",
+      "score": 0.405195,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230011_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.404519,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

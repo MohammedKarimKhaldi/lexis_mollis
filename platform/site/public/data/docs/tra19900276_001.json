@@ -1,0 +1,343 @@
+{
+  "document_id": "tra19900276_001",
+  "title": "Accord",
+  "year": 1990,
+  "doc_type": "Accord",
+  "languages": [
+    "ca",
+    "en",
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.9315,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": ". pi ; j ORP O G Pa a a a a a a a pegar n ACCORD ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEMENT D'AUSTRALIE RELATIF A LA COOPERATION EN MATIERE DE RECHERCHE ET DE TECHNOLOGIE DE DEFENSE ......... 2. Le gouvernement de la République française et le gouvernement d'Australie (ci-après dénommés \"les Parties\"), reconnaissant qu'il est de leur intérêt commun de développer leurs relations et d'échanger…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19900276_001.pdf",
+  "source_filename": "tra19900276_001.pdf",
+  "source_sha256": "4a9c761a1c23e21e1d3768ccbff8c4d3ea37405465bb93d901bc2c689149ae1d",
+  "treaty_id": "TRA19900276",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ". pi ;\n\nj ORP O G Pa a a a a a a a pegar n",
+      "quality_score": 0.533,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "ca",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ACCORD\n\nENTRE\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE\n\nET\n\nLE GOUVERNEMENT D'AUSTRALIE\n\nRELATIF A\n\nLA COOPERATION EN MATIERE DE RECHERCHE\n\nET DE TECHNOLOGIE DE DEFENSE\n\n.........",
+      "quality_score": 0.9969,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "2.\n\nLe gouvernement de la République française et le gouvernement d'Australie (ci-après dénommés \"les Parties\"), reconnaissant qu'il est de leur intérêt commun de développer leurs relations et d'échanger des informations dans le domaine de la recherche et de la technologie de défense, désirant coopérer de manière générale pour leux bénéfice mutuel, en entreprenant cette coopération dans le domaine de la recherche de base, de la recherche appliquée, des développements exploratoires et des\n\nessais,\n\nconviennent des dispositions suivantes:\n\nARTICLE I\n\nOBJET DE L'ACCORD\n\n(1)\n\nDans les activités de recherche et de technologie de\n\ndéfense, à l'exception du domaine nucléaire, conduites sous leux autorité, les Parties tâchent d'entreprendre, pour leur bénéfice mutuel:\n\n(a) des échanges équilibrés d'informations sux des programmes prévus, en cours ou déjà xéalisés de recherches de base, recherches appliquées, essais et développements exploratoires;\n\n(b) des échanges d'informations sur leurs installations de recherche et d'essais de défense et l'examen des possibilités d'utilisation, par chacune des Parties, des installations de l'autre\n\nPartie;",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "3.\n\n(c)\n\nl'examen des possibilités de coopération dans des programmes communs et du partage des ressources\n\nLange reds aines des che des d de oppe, 223 exploratoires de matériels et d'équipements de défense, (ci-après désignés\n\n\"Programmes de\n\nrecherche en coopération\").\n\n(2)\n\nQuand des Programmes de recherche en coopération sont\n\nenvisagés, ils font l'objet d'arrangements séparés au titre du présent accord, entre le ministère de la Défense du gouvernement de la République française et le ministère de la\n\nDéfense du gouvernement d'Australie.\n\n(3)\n\nLorsque cela est opportun, les Parties encouragent et\n\nfacilitent la démarche vers le développement et la mise au point de matériel militaire spécifique, ainsi que la production de ce dernier. L'on considère qu'il est préférable d'envisager une telle démarche dans le cadre d'arrangements séparés.\n\nARTICLE 2\n\nPOUVOIRS COMPETENTS ET DIRECTION\n\n(1)\n\nPour le gouvernement de la République française, le\n\nministre de la Défense est l'autorité responsable de l'application du présent accord et le Directeur des recherches, études et techniques (DRET), ou son représentant, est chargé de sa mise en oeuvre.\n\n(2)\n\nPour le gouvernement d'Australie, le ministre de la\n\nDéfense est l'autorité responsable de l'application du présent accord et le Chief Defence Scientist (CDS), Defence Science and\n\nTechnology Organisation (DSTO), ou son représentant, est chargé de sa mise en oeuvre.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "4.\n\n(3)\n\nLe DRET et le CDS se réunissent une fois par an,\n\nalternativement en France et en Australie,\n\nou à tout moment qui\n\npeut être décidé en commun, pour évaluer les progrès réalisés, faire la revue des arrangements proposés et en cours et prendre toutes les mesures nécessaires pour un fonctionnement efficace du présent accord.\n\n(4)\n\nLe DRET et le CDS :\n\n(a) approuvent la liste initiale des sujets ou des thèmes qui font l'objet d'échanges d'informations et tout complément à cette liste;\n\n(b) pour chaque sujet ou thème, définissent les procédures d'échange d'informations;\n\n(c)\n\nproposent des projets pouvant faire l'objet de programmes de recherche en coopération et les modalités et conditions correspondantes pour chaque programme;\n\n(d) mettent en place, si nécessaire, des groupes de travail chargés d'élaborer les modalités et conditions pour de tels programmes en coopération.\n\nARTICLE 3\n\nFINANCEMENT\n\nA moins qu'il en soit décidé conjointement autrement dans un arrangement établi conformément à l'article 1 paragraphe 2, chaque Partie supporte ses propres coûts pour les activités entreprises au\n\ntitre du présent accord.",
+      "quality_score": 0.9993,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "5.\n\nARTICLE 4\n\nSECURITE\n\nLes informations portant un niveau de classification jusqu'au et y compris le niveau SECRET DEFENSE pour la France et SECRET pour l'Australie peuvent être échangées au titre du présent accord. Les informations, échangées au titre du présent accord sont soumises à l'accord entre le gouvernement de la République française et le\n\ngouvernement d'Australie relatif à l'échange et\n\nla communication d'informations classifiées, conclu à Paris le 15 juillet 1985 et, à moins qu'il en soit conjointement décidé autrement, l'arrangement entre le Secrétaire général de la\n\nDéfense de la République française et le Secrétaire du\n\nDépartement de la Défense d'Australie, relatif à l'échange et la communication d'informations classifiées, signé le 15 juillet 1985.\n\nARTICLE 5\n\nPROPRIETE INTELLECTUELLE\n\n(1)\n\nDans le présent\n\naccord, \"les droits de propriété\n\nintellectuelle\" signifient les droits sur les brevets, les dessins enxegistrés, les marques de fabrique enregistrées ou non (y compris les marques de service), les droits d'auteurs et toutes les autres propriétés intellectuelles telles que définies à l'article 2 de la convention établissant l'organisation mondiale de la propriété intellectuelle conclue à Stockholm le 14 juillet 1967, et les droits sur la topographie des semi-conducteurs.\n\n(2)\n\nLes informations échangées au titre du présent accord\n\nou dans le cadre de tout programme s'y rapportant, sont communiquées à titre confidentiel et, à moins qu'il en soit décidé conjointement autrement, doivent être utilisées pour des besoins de défense pour information et évaluation, et, dans le cadre d'un programme en coopération, recherche et développement, selon les dispositions fixées dans l'arrangement établi conformément à l'article 1, paragraphe 2.",
+      "quality_score": 0.9977,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "6.\n\n(3)\n\nAvant tout échange et toute utilisation d'informations\n\nsoumises à des droits de propriété intellectuelle, les droits des propriétaires sont examinés conformément aux lois de chaque pays.\n\n(4)\n\nLes arrangements pour les programmes de recherche en\n\ncoopération établis au titre du présent accord comprennent des conditions relatives aux droits de propriété intellectuelle, appropriés à la situation et établis cas par cas.\n\n(5)\n\nToute information échangée dans le cadre du présent\n\naccord, à laquelle sont attachés des droits de propriété intellectuelle, est annotée par la Partie qui fournit l'information au moyen\n\nd'une légende qui indique les droits de\n\npropriété intellectuelle auxquels elle est sujette et les restrictions d'utilisation et de diffusion qui en découlent.\n\nSi la Partie qui fournit l'information n'a pas annoté ainsi cette information, cette Partie indemnise l'autre Partie à laquelle l'information est fournie contre toute réclamation, demande ou poursuite qui peuvent être faites à l'encontre de le\n\nPartie qui a reçu l'infornation par tout propriétaire de droit de propriété intellectuelle pour une violation de ces droits en conséquence de l'absence de telles annotations.\n\nARTICLE 6\n\nREGLEMENT DES DOMMAGES\n\nA moins qu'il en soit décidé conjointement autrement dans un arrangement établi conformément à l'article 1 paragraphe\n\n2,\n\nchaque Partie renonce à recourir contre l'autre pour toute perte, dommage ou blessure résultant de la coopération au titre du présent\n\naccord, autre que des pertes, dommages ou blessures\n\ncausés par une faute intentionnelle d'une Partie, ses employés ou agents, et le coût de réparation de toute perte, dommage aux biens communs des deux Parties et de toute perte, dommage ou blessure subis par un tiers\n\nest partagé en parts égales entre\n\nles Parties.",
+      "quality_score": 0.9996,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "7.\n\nARTICLE 7\n\nPARTICIPATION DE GOUVERNEMENTS TIERS\n\n(1)\n\nPar consentement mutuel des Parties, des gouvernements\n\ntiers peuvent être invités à participer à des projets en coopération bilatérale établis dans le cadre du présent accord.\n\nUne telle participation est soumise à un accord écrit,\n\nconclu entre le gouvernement de la République française, le gouvernement d'Australie et les gouvernements tiers.\n\n(2)\n\nLes informations échangées ou résultant de programmes\n\nde recherche en commun au titre du présent accord ne sont pas transmises à un tiers ou publiées sans l'accord préalable écrit de la Partie d'origine.\n\nARTICLE 8\n\nREGLEMENT DE DIFFERENDS\n\nTout différend pouvant naître de l'interprétation ou la mise en oeuvre du présent accord est résolu par consultation entre les\n\nParties et ne donne pas lieu à l'intervention d'un tiers.\n\nARTICLE 9\n\nENTREE EN VIGUEUR ET DUREE DE L'ACCORD\n\nLe présent accord\n\nentre en vigueur à la date de la signature et\n\nreste en vigueur pour une période initiale de cinq (5) ans et ultérieurement jusqu'à\n\nce qu'il soit dénoncé. Il peut être\n\ndénoncé à tout moment par accord écrit ou par l'une des Parties après qu'elle ait donné à l'autre Partie un préavis écrit de douze (12) mois. Les responsabilités et engagements de chaque\n\nPartie concernant les dispositions de sécurité, la protection des droits de propriété intellectuelle, et le règlement des dommages restent applicables nonobstant la cessation.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "8.\n\nARTICLE 10\n\nSIGNATURE\n\nEn foi de quoi, les sous-signés, dûment autorisés par leurs gouvernements respectifs, ont signé le présent accord.\n\nFait en deux exemplaires à CAMBERRA le dix-sept\n\ndécembre\n\n1990 dans les langues\n\nfrançaise et anglaise, les deux textes faisant également foi.\n\nPoux le gouvernement de la République française\n\nRogeuzer\n\nPour le gouvernement d'Australie",
+      "quality_score": 0.9948,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "AGREEMENT BETWEEN\n\nTHE GOVERNMENT OF THE REPUBLIC OF FRANCE\n\nAND\n\nTHE GOVERNMENT OF AUSTRALIA\n\nCONCERNING\n\nCOLLABORATION ON DEFENCE RESEARCH AND TECHNOLOGY",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "2.\n\nThe Government of the Republic of France and the Government of\n\nAustralia (hereinafter referred to as \"the Parties\"),\n\nRecognising a common interest in the development of their relations and the exchange of information in the field of defence research and technology,\n\nDesiring generally to collaborate to their mutual benefit by way of basic and applied defence research, early concept development and tests,\n\nHave agreed as follows:\n\nARTICLE 1\n\nOBJECT\n\n(1)\n\nThe Parties shall, in activities related to non-nuclear\n\ndefence research and technology carried out under their authority, endeavour for their mutual benefit to undertake:\n\n(a)\n\nbalanced exchanges of information on planned, current or past defence programs relating to basic research, applied research, tests and early concept development;\n\n(b)\n\nexchanges of information on their defence research and test facilities, and the consideration of possible use by each Party of the facilities of the other; and",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "3.\n\n(c)\n\nconsideration of possible collaboration in joint programs and sharing of resources in basic research, applied research and early concept development of defence materials and equipment (hereinafter referred to as \"collaborative research programs\").\n\n(2)\n\nWhen collaborative research programs are envisaged,\n\nsuch programs shall be the subject of separate arrangements under this Agreement between the Department of Defence Of the\n\nGovernment of Australia and the Ministry of Defence of the\n\nGovernment of the French Republic.\n\n(3)\n\nWhere appropriate, the Parties shall encourage and\n\nfacilitate progression to the development and engineering of specific military hardware and associated production. Such progression is considered to be more suitably undertaken under separate arrangements.\n\nARTICLE 2\n\nAUTHORITIES AND MANAGEMENT\n\n(1)\n\nFox the Government Of the Republic of France, the\n\nMinister for Defence shall be the authority responsible for the implementation of the Agreement, and the Directeur des\n\nRecherches, Etudes et Techniques (DRET), or his or her representative, shall be charged with putting the Agreement into effect.\n\n(2)\n\nFor the Government of Australia, the Minister for\n\nDefence shall be the authority responsible for the implementation of the Agreement, and the Chief Defence Scientist (CDS), Defence Science and Technology Oxganisation (DSTO), or his or her representative, shall be charged with putting the\n\nAgreement into effect.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "4.\n\n(3)\n\nCDS and DRET shall meet annually, alternately in\n\nAustralia and France, or at such times as may be mutually decided, to evaluate the progress, review the initiated and proposed arrangements and give effect to all\n\nsteps necessary for\n\nthe efficient operation of this Agreement.\n\n(4)\n\nCDS and DRET shall:\n\n(a) approve an initial list of, and any addition to, topics or themes to be the subject of exchange of information;\n\n(b) for each topic or theme, define the procedures for the exchange of information;\n\n(c) propose which projects are to be the subject of collaborative research programs and the associated terms and conditions for each program; and (d) create, if required, working groups tasked to prepare particular terms and conditions to be used in such collaborative programs.\n\nARTICLE 3\n\nFINANCE\n\nUnless otherwise jointly determined in an arrangement pursuant to Article 1 paragraph 2, each Party shall bear its\n\nown cost for\n\nactivities under this Agreement.\n\n.i\"....\"....",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "5.\n\nARTICLE 4\n\nSECURITY\n\nInformation bearing security classifications up to and including the level of SECRET for Australia and SECRET DEFENSE for France may be exchanged under this Agreement. Information exchanged under this Agreement shall be subject to the Agreement between the Government of Australia and the Government of the French\n\nRepublic relating to the Exchange and Communication of\n\nClassified Information done at Paris on 15 July 1985, and, unless otherwise jointly determined, the Arrangement between the\n\nSecretary, Department of Defence of Australia and the Secretary\n\nGeneral of Defence of the French Republic relating to the\n\nExchange and Communication of Classified Information signed on 15 July 1985.\n\nARTICLE 5\n\nINTELLECTUAL PROPERTY\n\n(1)\n\nIn this Agreement \"intellectual property rights\" means\n\nthe rights in patents, registered designs, registered or unregistered trade marks (including service marks), copyright and all other intellectual\n\nproperty as defined by Article 2 of\n\nthe Convention Establishing the World Intellectual Property\n\nOrganization done at Stockholm on 14 July 1967 and the rights in semiconductor topography.\n\n(2)\n\nThe information exchanged under this Agreement or\n\nwithin any program arranged under its auspices shall be disclosed in confidence and unless otherwise jointly determined is to be used for defence purposes for information, evaluation, and within a collaborative program of research and development according to the provisions of the arrangements pursuant to\n\nArticle 1 paragraph 2.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "6.\n\n(3)\n\nBefore any exchange and any use is made of information\n\nwhich is subject to intellectual property rights due regard according to the laws of each country shall be paid to the owners of such intellectual property.\n\n(4)\n\nArrangements for collaborative research programs set up\n\nunder the auspices of this Agreement shall include conditions relating to intellectual property rights appropriate to the situation\n\non a case by case basis.\n\nAny information exchanged under this Agreement which is\n\nsubject to intellectual property rights shall be marked by the\n\nParty furnishing the information with a legend indicating the intellectual property rights to which it is subject and any\n\nfurnished from and against any claim, demand or proceeding that may be brought against the Party to which the information is furnished by any owner of intellectual property rights in the information in relation to a breach of those rights as a consequence of the information not being so marked.\n\nARTICLE 6\n\nLIABILITY\n\nUnless otherwise jointly determined in an axxangement pursuant to Article 1 paxagraph 2, in relation to any loss, damage or injury arising from collaboration under this Agreement, other than loss, damage or injury caused by wilful misconduct of a\n\nParty, its servants or agents, each Party shall waive any claim against the other and the cost of any loss of or damage to property jointly owned by the Parties and of any loss, damage or injury incurxed by a third party shall be shared equally by the\n\nParties.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "7.\n\nARTICLE 7\n\nPARTICIPATION BY OTHER GOVERNMENTS\n\nBy mutual consent of the Parties, other Governments may\n\nbe invited to participate in the bilateral collaborative research programs under this Agreement. Such participation shall be the subject of an agreement in writing by the\n\nGovernment of the French Republic, the Government of Australia and the other Governments.\n\n(2)\n\nInformation exchanged or resulting from collaborative\n\nresearch programs under this Agreement shall not be disclosed to third parties or published without the prior written consent of the originating Party.\n\nARTICLE 8\n\nDISPUTES\n\nAny dispute which may arise from the interpretation or implementation of this Agreement shall be resolved by consultation between the Parties and shall not be subject to intervention from a third party.\n\nARTICLE 9\n\nFORCE AND DURATION\n\nThis Agreement shall come into force on the date of signature and remain in force initially for a period of five (5) years and thereafter until terminated. It may be terminated at any time by mutual consent in writing or by either Party giving the other twelve (12) months prior written notice of termination.\n\nThe\n\nresponsibilities and obligations of each Party regarding security of information, the\n\nprotection of intellectual property\n\nrights and liability shall continue to apply irrespective of termination.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "8.\n\nARTICLE 10\n\nSIGNATURES\n\nIN WITNESS WHEREOF the undersigned, duly authorized thereto by their respective Governments, have signed this Agreement.\n\nDone in duplicate at CANBERRA\n\non the 17TH\n\nday of DECEMBER\n\n1990 in the French and English languages, both texts being equally authentic.\n\nFox the Government of the Republic of France\n\nRageduser\n\nFor the Government of\n\nAustralia\n\nSalon de;\n\n.....",
+      "quality_score": 0.9959,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 18,
+      "text": "arnam.",
+      "quality_score": 0.6326,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "A E a ee ee ar a a a e\n\nz E eE EEEE a e ne aine e e m m manam n mI A man n a e e m remme aa a anae e eaa o e TES\n\nf . . < eo a e t F . . . . Epaia a > = F leo e E ooo . e a E i ae Ts A 3 a Eanus E . .\n\n} i ` To Ei a o a E e = L O TIo ana’ F Toate a oma arae so aoro 2u r eaor Taaa L’ 0o . eTa a Dooa’ .\n\n= : ro T a e A o- C - al P Doro p ` - E -2 - aloa r] Auon ooe . r, . i . `. . - ooo .\n\nE e . . Toa . r o; pa Toa -n Iopa Po Sopar S Oran O n f . Pap o a7 -7i . g Ot Ta - emo, . -.\n\na oo o a f ena dut. oS A T ` ea tp a Lra’ ` AA, eo a aa eloa a o e eZen DTT i , Do Droo 3 . + a -o . G ooo t + e 1 - fial p zobpao pua T s rir Ya - TaT o sT are . - g Tetror eTo oon ` : eono M = i na oa SE T, SoA T ee l Ta e EA oa E a e e e a a a Ta a e Ta t e a a an ror - D aa aa eam a a - % i i i r T ' t an T A p TT 5 -7 Pa Pat Po o oz ooa F -ooo Soo o a ` . eTA a a Da a - eeo s aoa o a n o E eo oaeo o - < oOo =. - Pa Foe ta na P s rper 2 ro . oo v v .. . a ` an Ee Tatae Poa‘ y ae - oa Ts of, Catr =, ai F EE a T eat a o e A nE e a a POA DA T D eae ya .- at, a L otio TOL. i a aoe prO era e TD SEPETE aoe ala p A e a EROE L c a ET Pe n n a a De a o a ` - . e T . i ]\n\nE g . roat A a u, AS eo O r n7 poa Aat opipa a ‘ate AFT e A T TT r a’ r o a JI- -= ATTE T T e a L T soro Choa toa Taoa s e ot s o :l SeT ata e” CEPE at e al i r A a aL D O 2- O O n, r Cert e - j o. n i , . , 3 H rr, Cor, P E R a AA ate ET A p T p TET A AE t TA meta l L ia r So , EOF aoo o fa Pg atA Pp Te a aT T E Paata l ayp a A E o Pa ER A E oT e ea e e pZ IEE t Sar e aA r ra a STS eati ; .. A e LN eo pt a E e A 2. . ero i Aa EO te A F t a Sauzi tal Sa n Aa Togt’ P a Sote S - E o e CeDo a .\n\noyr - : r e o aE e A - OE RETE E e gea Aa u r zoia EOS T amre p ATEA e a TT OIT n e arao e T aa o a S ae f ` Zori, or e ET a O T EGEE e a TEE AONE ta t a Da e r A Tera Cagepa TTO Taer T tiraa . i e7. ao te A ra a eT i to Soo i E Sa eo e Ga AT l Tw TOA i aT lO Pota a sat T Tr = te o e A Cra T o o = a aT ` t . G Caa nara a‘ nE oo a A AT Sle Paa aoo‘ , soo) eo lan T Loa e te F aa P5 To A PE AS Ter, T eai w a a o TT ` Too e Ean -7 ear, e . eeo ip F eo payo AT gte ena E a p ea m E a a aea Pe aape a D R Soe a aat E Saa w e a Taa eL t a T . aeoo ToT ` BE f 3 ooa ita c eeta + TEREP sora AA a = i P PEE : - roe Cr e = a =. r f Ee eL a: a , .\n\nDEE otr EE e o a EA A Te ploa A Aal pt A T Gmer EURE A E a e Da a e ET A a at te L Upe e e emca ie o l TeL o eta ye e a T .. 2T, . Ean erlo ; -r a Cann CESE ro r - eor -\" - - r- - eti a‘ T a a Toa - p L~ p eoa A Pa f ONT ' nolre” Ae C epia a erat Fa tT arat ao U eA y a - AA Feta a a r-o T T ha en rO laj os +L Be a a L 7 a paraan G i a . er : a T cfo Ke Sga Ea E a Tor eoio = 5 -A EAE n G A soo IT o eF Datta : Pa a bor .*, r-o opo sA ae a T aa T a e Da o ran Or P Pagato eo To a a -7 potr ar r a mS e A o a o oa Ta t ao a F tlan aT] T a BoT ee Do v 1 poa -i CE i PaRa oe poa Praa a fa T a GTa l e a Ta a e t T EAI I a E A E e Ten STET a Doane oa AA Poarte o T aTa T aT Toa ` e 4 eL oopa F A r E E S aaraa pE Ta e a a a e L ga adet p AP D T e -7 A Tea E BaMa D Taa Joea e 3 TO F eoo G porat or o r S. r pa, . a jaAa - Boas, e A C . > a PEPES g 2 ite oo S : S .\n\nCe PADO T a iL ERa T g A E ra PREE, Ey pto IA e e ZEL Saan DA O P R ALT p Tn a E E aT aen T e e a aet oo i E p SERTA OA PE a DO A at E paa R a G o E are T R M E E EATA TLA a e erT T E, E BoTT T aA a T T p ! i a PTT ee E tig A epa Tege haran mp ETA p E O o . Ii e e TaT ea a oe L L a a a Sa opal ao To Jacat eE T e o’\n\nD Cra t BaT A, Toat A ag. Pr, r a E Padt AE epa Ee Tta a ef Pa p E E E e a romia oe mn a Mitea -A -0 le papra o DA EE e LT n Ere Pe aia po e t e Prae pF DnE AP p ea E A EE A a E A e Aa a E A e T aa L D het a D e et O\n\nT E T Sanu i Ftp e E E gE a EPA OLEO a Pe p E IpO AE e e sear alet PA are okete DD ro D e ee TAT ea UD :\n\n3 ` eaa poA a n, aL tpa EOT TEL at a aa r a MR T -o < fetet ` Ae a L l, p l ha ut . aial =.\n\n. a, mt; ʻ 2”. > žre’ o’! n P Far É . DO fuda -.. f r Pi C r t \". e n A - Seri 7 i i CORT LAOA TAP r a T E D aa e A T ET A P A PETA Poe w Te peo F Boita a Cr ea O A a ra ao a E epe taa oa - a Shoo oca ` oO f - eorr DaS TAT TL o 4a n D a! AT a haea T a e a e Tat G p p ae t Aa aA maa T EA A Aaa a p Teee GE S a E T ta pe T e e e T DeD T tan 3 ` . e l ELAP EEE a Da pa Ea a E A aT a Paa o e p e e a o EA a E aT a a ap ITD A, EE pe T EEEn paee a Aa e Tr, z |\n\nPE a u r Ca o e f e u on m, a e A aO UAEA EO g ata L L E Aa a Pepet T MAIA DE aa DTe E a T e AT E TE EA TD AE A .\n\nr r e a tp oy mata a l a a E r a a sar’ EE T e ae t e - e e Zo; . Deoa Te ee T e ala ra Ta A eor aG eu roo Pat tT Plae Sa tr. A A. Pa zr Aet p o gA t G a a = Sa Tr. 2A AO g ON h a i U ; i . . z . POOP E A ya Ea Sa Te pO” pO pla, Ž DAA A te meaa an e e T T E, a at Tt T U e e e M oe ae e =..\n\n] re E EASE aTe i rer Pe Epy ga o rl ttio Te er e pa e a T ade tor ar A Da nay Tia Snae T ae A e . ea Ta aT ao .\n\nE Tcp” eta tota ni ro ta FO Cap o AL e o S A Jorie- a To n poe T -> - aoc ow orae S ea ta e a a a oc ar - a T a r . - - ear aor ” ” . aan Foor e P ' pi rate m sr S rw E ʻ ` eao P Sla :\n\nro + r Eon ao : ; . AF, . EF EE r,e ze tao eor oy e ao LEL spa” owa Dl trr e Paa v ETL r Pi: T .\n\nTARE o gaje afp A p eo aT ra T Ao RSE RE A T a T, E B ort eT r e a eTo t ie a Do e egaa a aa L - ]\n\neoa eo’ >z pA DS La a O aono a = r r 2a ao te pG aT OT AE e t o e pt uL” Cacar eie T EEE a D T a a”. aoo l te DeoeTta L oo\n\nPopat oa ‘ae. a E, a e - -A Daf oef. e sat os noca A aars roģa o Sea z + I a COP -5 a; b-n F Ie oraria K i =r. TT a Dian : T e a eto a’ -fpe na a S r retr Pa ALT At -d Pa Partio sleat s a AZT PET TEREA ea em e A a e LTN aan r , r EO a T ar SEDGE, h T p IIO EL TE Da E a a aa Ae o EE A Tea A e a L E A T p eT a e L l Ser DOSa aa a ea o g ei T .\n\nof, Cota e: pet Aan ar CT aa O r E E Bea o g Laa e o Ten am DTe oo a e z P a An Cat e S ee L-E para i Fa Aa’ ` OO la oo ehr, Polfa” E rtt, a t a Ty Ae PPT Tr a Tet t e Tarpo 2 T r Bar GTE e a e Toe) . yoe o TaT -05 o Or ota a aa y Pa a e sa ae prre E P r F’ PeF Po ae o a oe ate E E R PaRa Ee A AA r De F Polene T T a T yo Pr Soot . ela TERU eL Ei : . CO a E E pagia air 7 it, o Fotr Piia Oat Fan a AA, eTe T 2o f\n\n- Fä . 2 eroa irt’ ea aota r r C r S a Ta 2r 7, - wo AE T e ` EO T TE EL a r-i j . e L ., f g -, oo f o det eeit f a pfeg UE A anr E w Eny o e a e eate a 2 mne t apa E S e a A a T A oTe tT. o oo Ao Toate a’ e i i Tena ALTUG MEE ESA a TS DPR epa eh Tent eat EOP O, Aa “afal oS Ta a Ar eT aaa pa E aa a o EL A er et e t aI E e a a e N T a’\n\nSooo ; w a r ato r eoep Ta ela r Da -r o, pta ta T z- r f U, a Fa Tue oaDt py a iet a Aa aE g a am A tta -a ae tT II h a S\n\nCERE e'a eat, poor N 1r SELER ` at a An ate aa PPa Te e Pe a a Poari ' eal a G a GE a T Doten Li e A’ : A r Lot ef! o g Toar ara . =. i K Toe H a aS T a A a Rat Ca T DT oo as e a ZAT =.\n\n- cao a a a a aa E am an a a a a a a aaea a i Ea mirt a E a a a a a e - aai T ` o .",
+      "quality_score": 0.548,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20050030_001_s1",
+      "title": "Accord",
+      "score": 0.688912,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172268_001_s1",
+      "title": "Accord",
+      "score": 0.680165,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20250003_001_s1",
+      "title": "Accord",
+      "score": 0.678735,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182508_001_s1",
+      "title": "Accord",
+      "score": 0.653174,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192672_001_s1",
+      "title": "Accord (ensemble une annexe)",
+      "score": 0.636153,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800128_001_s1",
+      "title": "Accord",
+      "score": 0.60795,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "20090252_001_s1",
+      "title": "Accord",
+      "score": 0.588043,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172195_001_s1",
+      "title": "Accord",
+      "score": 0.572064,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141292_001_s1",
+      "title": "Accord",
+      "score": 0.556835,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660198_001a_s1",
+      "title": "Accord",
+      "score": 0.543166,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20100322_102_s1",
+  "title": "Procès-verbal",
+  "year": 2010,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9735,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCÈS-VERBAL DE RECTIFICATION DE L'ACCORD EURO-MÉDITERRANÉEN RELATIF AUX SERVICES AÉRIENS ENTRE L'UNION EUROPÉENNE ET SES ÉTATS MEMBRES, D'UNE PART, ET LE ROYAUME HACHÉMITE DE JORDANIE, D'AUTRE PART, SIGNE A BRUXELLES LE 15 DECEMBRE 2010 LE SECRÉTARIAT GÉNÉRAL DU CONSEIL DE L'UNION EUROPÉENNE, faisant office de dépositaire de l'accord euro-méditerranéen relatif aux services aériens entre l'Union européenne et ses É…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20100322_102_s1.pdf",
+  "source_filename": "TRA20100322_102_s1.pdf",
+  "source_sha256": "a24168a1176916fe4343a8c5bb6bb95aa8eaa2ef59cf2714c11f21d432770c9c",
+  "treaty_id": "TRA20100322",
+  "treaty_number": "102",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCÈS-VERBAL DE RECTIFICATION\n\nDE L'ACCORD EURO-MÉDITERRANÉEN RELATIF AUX SERVICES AÉRIENS\n\nENTRE L'UNION EUROPÉENNE ET SES ÉTATS MEMBRES, D'UNE PART,\n\nET LE ROYAUME HACHÉMITE DE JORDANIE, D'AUTRE PART,\n\nSIGNE A BRUXELLES LE 15 DECEMBRE 2010\n\nLE SECRÉTARIAT GÉNÉRAL DU CONSEIL DE L'UNION EUROPÉENNE, faisant office\n\nde dépositaire de l'accord euro-méditerranéen relatif aux services aériens entre l'Union européenne\n\net ses États membres, d'une part, et le Royaume hachémite de Jordanie, d'autre part,\n\nsigné à Bruxelles le 15 décembre 2010, ci-après dénommé \"l'accord\",\n\nAYANT CONSTATÉ que le texte de l'accord, dont copie conforme a été notifiée aux parties\n\nsignataires le 27 janvier 2011, contenait certaines erreurs dans la version hongroise,\n\nAYANT PORTÉ À LA CONNAISSANCE des parties signataires de l'accord ces erreurs ainsi que\n\nles propositions de correction,\n\nAYANT CONSTATÉ qu'aucune des parties signataires n'a fait d'objection,\n\nA PROCÉDÉ ce jour à la correction des erreurs en question et a dressé le présent procès-verbal de\n\nrectification, les corrections de la version hongroise y étant annexées, dont une copie sera\n\ncommuniquée aux parties contractantes.\n\nPV/EU/JO/fr 1",
+      "quality_score": 0.9735,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20131111_001_s1",
+      "title": "Texte du procès-verbal",
+      "score": 0.74846,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202705_001_s1",
+      "title": "Accord",
+      "score": 0.390056,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100141_s1",
+      "title": "Accord",
+      "score": 0.376989,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100322_001_s1",
+      "title": "Accord",
+      "score": 0.374285,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100322_101_fr_s1",
+      "title": "Accord",
+      "score": 0.370843,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100139_s1",
+      "title": "Accord",
+      "score": 0.370631,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220148_001_s1",
+      "title": "Accord",
+      "score": 0.368637,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220147_001a_s1",
+      "title": "Accord",
+      "score": 0.368637,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20090286_s1",
+      "title": "Accord",
+      "score": 0.365846,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213116",
+      "title": "Accord",
+      "score": 0.356171,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

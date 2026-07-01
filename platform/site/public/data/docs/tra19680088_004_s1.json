@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19680088_004_s1",
+  "title": "Instrument d'approbation",
+  "year": 1968,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9958,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "- -- LE MINISTRE DES AFFAIRES ÉTRANGÈRES Paris, le 25 avril 1970 Monsieur le Ministre, Me référant à l'article 11 de l'Accora de coopération technique et scientifique entre le Gouvernement de la République Française et le Gouvernement de la République de Turquie signé à Ankara le 29 octobre 1968, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République Française pour la mi…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19680088_004_s1.pdf",
+  "source_filename": "tra19680088_004_s1.pdf",
+  "source_sha256": "ca7046e0522f8f8b4ed741eca26d4249ce3a1a0b38e49bda059d7903a89c02c3",
+  "treaty_id": "TRA19680088",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "-\n\n--\n\nLE MINISTRE\n\nDES\n\nAFFAIRES ÉTRANGÈRES\n\nParis, le 25 avril 1970\n\nMonsieur le Ministre,\n\nMe référant à l'article 11 de l'Accora\n\nde coopération technique et scientifique entre le Gouvernement de la République Française et le Gouvernement de la République de Turquie signé à Ankara le 29 octobre 1968, j'ai l'honneur de vous faire savoir que les procédures requises par la\n\nConstitution de la République Française pour la mise en vigueur dudit Accord ont été accomplies.\n\nLa présente lettre constitue la notification\n\nprévue par la disposition précitée./.\n\nJe vous prie d'agréer, Monsieur le Ministre,\n\nl'assurance de ma haute considération.\n\nSigné : Maurice SCHUMANN\n\nPour copie certifiée conforme à l'original\n\nParis, le 25 avril 1970\n\nA Son Excellence\n\nMonsieur Ihsan Sabri CAGLAYANGIL\n\nMinistre des Affaires Etrangères\n\nANKARA",
+      "quality_score": 0.9958,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19660081_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.712919,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_004_s1",
+      "title": "Instrument français",
+      "score": 0.703806,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.683855,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.680063,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750189_004_s1",
+      "title": "Instrument français",
+      "score": 0.657147,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800128_004_s1",
+      "title": "Instrument français",
+      "score": 0.645804,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.563297,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.559501,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_004b_s1",
+      "title": "Instrument français (notification du ministre des affaires étrangères français adressée à son homologue kenyan)",
+      "score": 0.422047,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940256_004",
+      "title": "Instrument d'approbation français",
+      "score": 0.421704,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19920190_257_s1",
+  "title": "Note verbale de l'Ambassade royale de Danemark notifiant le retrait de la réserve portant sur l'application de la Convention au territoire du Groenland.",
+  "year": 1992,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9992,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "•AMBASSADE ROYALE DE DANEMARK Ref: 82.B.17 No 31/96 NOTE VERBALE L'Ambassade Royale de Danemark présente ses compliments au Ministère des Affaires Etrangères de la France et, complétant sa note du 19 décembre 1995, relative au dépôt de l'instrument de ratification de la Convention pour la Protection du milieu marin de l'Atlantique du Nord-Est, signée à Paris le 22 septembre 1992, a l'honneur de lui communiquer que l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19920190_257_s1.pdf",
+  "source_filename": "19920190_257_s1.pdf",
+  "source_sha256": "ccca1c74472cbd9b13794e4d100a3a54244f108b5e451419ebc126d60ae30ac1",
+  "treaty_id": "TRA19920190",
+  "treaty_number": "257",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "•AMBASSADE ROYALE DE DANEMARK\n\nRef: 82.B.17\n\nNo 31/96\n\nNOTE VERBALE\n\nL'Ambassade Royale de Danemark présente ses compliments au Ministère des Affaires\n\nEtrangères de la France et, complétant sa note du 19 décembre 1995, relative au dépôt de l'instrument de ratification de la Convention pour la Protection du milieu marin de l'Atlantique du\n\nNord-Est, signée à Paris le 22 septembre 1992, a l'honneur de lui communiquer que la réserve établie à l'occasion de la signature par le Royaume de Danemark portant sur l'application de la\n\nConvention au territoire du Groenland est retirée.\n\nLe Royaume de Danemark espère retirer également la réserve concernant le territoire des îles\n\nFéroé avant l'entrée en vigueur de la Convention, dépendant de l'assentiment des autorités des\n\nÑles Féroé.\n\nl'Ambassade Royale de Danemark saisit cette occasion pour renouveler au Ministère des Affaires\n\nEtrangères de la France les assurances de sa très haute considération.\n\nParis, le 17 avril 1996\n\nÀ PARIS\n\nMinistère des Affaires Etrangères\n\nQuai d'Orsay\n\nPARIS",
+      "quality_score": 0.9992,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19920190_258_s1",
+      "title": "Note verbale de l'Ambassade royale de Danemark notifiant le retrait de la réserve portant sur l'application de la Convention au territoire des Iles Féroé.",
+      "score": 0.717023,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_256_s1",
+      "title": "Instrument de ratification",
+      "score": 0.464554,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_321_s1",
+      "title": "Instrument de ratification (et NV de transmission)",
+      "score": 0.424701,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_006",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.402966,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_421_s1",
+      "title": "Instrument de ratification",
+      "score": 0.400773,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_298_s1",
+      "title": "Accusé de réception de l'instrument de ratification",
+      "score": 0.398709,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_016_s1",
+      "title": "Note verbale d'acceptation du Danemark",
+      "score": 0.397606,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_697",
+      "title": "Instrument néerlandais",
+      "score": 0.396827,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_100",
+      "title": "Note relative à la transmission des pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.394778,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_698",
+      "title": "Accord",
+      "score": 0.393919,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

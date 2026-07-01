@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19710084_005_s1",
+  "title": "Instrument kenyan ET Accusé de réception de l'instrument français du 9 novembre",
+  "year": 1971,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9974,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Telegraphic Address: \"Foe.ox' HARAMBEE HOUSE HARAMBES AVINUE \"Telephone: 27411 When replying picase quorc Ref. No. MF.A. and 127/094/45 ARRIVE Dato b. 11. 71 MINISTRY OF FOREIGN AFFAIRS POP 30551 NAIROBI KENYA 19. cloner The Ministry of Foreign Affairs of the Republic of Kenya presents its compliments to the French Embassy and with reference to the latter's Note N.141/II.12 dated 9th November 1971 concerning the com…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19710084_005_s1.pdf",
+  "source_filename": "tra19710084_005_s1.pdf",
+  "source_sha256": "12012f58d56605a1ef1b3e88be31bd92d7b4ec1cfd4e25bb3b53b2fe5856b14b",
+  "treaty_id": "TRA19710084",
+  "treaty_number": "005 ET /007a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Telegraphic Address: \"Foe.ox'\n\nHARAMBEE HOUSE\n\nHARAMBES AVINUE\n\n\"Telephone: 27411\n\nWhen replying picase quorc\n\nRef. No. MF.A.\n\nand 127/094/45\n\nARRIVE\n\nDato b. 11. 71\n\nMINISTRY OF FOREIGN AFFAIRS\n\nPOP 30551\n\nNAIROBI\n\nKENYA\n\n19.\n\ncloner\n\nThe Ministry of Foreign Affairs of the Republic of Kenya presents its compliments to the French Embassy and with reference to the latter's Note N.141/II.12 dated 9th November 1971 concerning the coming into force of the Agreement on Cultural and Technical\n\nCo-operation between the Government of the Republic of Kenya and the Government of the French Republic, signed in Nairobi on 14th Septerber, 1971 has the honour to inform the Embassy that the relevant constitutional requirements of Kenya have been complied with. Accordingly the Agreement may now be construed to come into effect from the date of the present Note pursuant to Article XVI thereof.\n\nThe Ministry of Foreign Affairs of the Republic\n\nof Kenya avails itself of this opportunity to renew to the French Embassy the assurances of its highest consideration.\n\nFrench Embassy,\n\nNAIROBI.\n\nMINISTRY\n\n22nd November, 1971\n\nNATROBI\n\nAFFAIRS:\n\nFORTE",
+      "quality_score": 0.9974,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19710084_007b_s1",
+      "title": "Accusé de réception kenyan de l'instrument français daté du 17 novembre",
+      "score": 0.458454,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_003_s1",
+      "title": "Pouvoirs kenyans",
+      "score": 0.448318,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070190_006_s1",
+      "title": "Accusé de réception kényan de l'instrument d'approbation français",
+      "score": 0.410405,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français",
+      "score": 0.407596,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070190_100_s1",
+      "title": "Échange de notes verbales a/s date d'entrée en vigueur de l'accord : note verbale française",
+      "score": 0.400935,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.395151,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.394125,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840174_005_s1",
+      "title": "Instrument chypriote",
+      "score": 0.386858,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_004a_s1",
+      "title": "Instrument français (notification de l'ambassade de France adressée au ministère kenyan des affaires étrangères)",
+      "score": 0.386796,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_005_s1",
+      "title": "Instrument chypriote (avec tampon arrivée le 16 août 1982 à l'ambassade de France)",
+      "score": 0.38643,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

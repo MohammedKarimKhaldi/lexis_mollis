@@ -1,0 +1,140 @@
+{
+  "document_id": "TRA20213032_001_s1",
+  "title": "Texte français de l'accord",
+  "year": 2021,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9948,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ACCORD DE SECURITE SOCIALE ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LA BANQUE DES REGLEMENTS INTERNATIONAUX Le Gouvernement de la République française (ci-après dénommé la « France »), d'une part, et la Banque des Règlements Internationaux (ci-après dénommée la « Banque » ou la « BRI »), d'autre part, sont convenus des dispositions suivantes : Article 1 1. La Banque en tant qu'employeur et les membres du…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20213032_001_s1.pdf",
+  "source_filename": "TRA20213032_001_s1.pdf",
+  "source_sha256": "514df46d4995239fdf55f93dbaa139d1c255ea1c641b9c5a596bae0408d91582",
+  "treaty_id": "TRA20213032",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ACCORD DE SECURITE SOCIALE ENTRE\n\nLE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET\n\nLA BANQUE DES REGLEMENTS INTERNATIONAUX\n\nLe Gouvernement de la République française (ci-après dénommé la « France »), d'une part, et la\n\nBanque des Règlements Internationaux (ci-après dénommée la « Banque » ou la « BRI »), d'autre part, sont convenus des dispositions suivantes :\n\nArticle 1\n\n1. La Banque en tant qu'employeur et les membres du personnel de la Banque travaillant en\n\nFrance bénéficient d'une exemption d'affiliation au régime obligatoire de sécurité sociale française pour la couverture des risques vieillesse, prestations familiales, maladie, maternité, paternité et invalidité, et accidents du travail et maladies professionnelles, sous réserve que le personnel soit couvert pour ces risques par une couverture assurée par la Banque. La Banque et son personnel sont exemptés des cotisations obligatoires afférentes aux risques pris en charge par le régime particulier mis en place par la Banque sur les salaires et revenus issus de leur activité.\n\n2. L'exemption visée au paragraphe 1 s'applique également aux membres de famille à la charge du personnel, sauf si les membres de famille exercent en France une activité salariée pour un employeur autre que la Banque ou s'ils sont réellement et effectivement travailleurs indépendants en France, et sont affiliés à ce titre au régime de sécurité sociale française.\n\n3. Le personnel visé au paragraphe 1 et les membres de famille à leur charge qui sont couverts par le régime particulier mis en place par la Banque ne bénéficient pas des prestations prévues par la législation et la règlementation françaises.\n\nArticle 2\n\nLes membres du personnel travaillant en France qui ne sont pas couverts par le régime particulier obligatoire de la Banque, sont soumis, à l'ensemble de la législation française de la sécurité sociale.\n\nIls sont affiliés au régime général par les soins de la Banque.\n\nArticle 3\n\nLe personnel de la Banque de France mis à disposition auprès de la BRI en France reste soumis à la législation de la sécurité sociale française et à son régime spécial de retraite.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Article 4\n\n1. Les personnels des banques centrales membres de la BRI, détachés auprès de la BRI en\n\nFrance, restent soumis au système de sécurité sociale auquel ils sont affiliés dans leurs pays d'envoi.\n\n2. Sauf s'ils sont couverts pour l'ensemble des risques mentionnés dans l'article 1 §1 du présent accord par le régime de la BRI, les personnels mentionnés au 1er alinéa qui résident hors de l'Union européenne, de la Suisse ou d'un pays membre de l'Espace économique européen et dans des Etats qui n'ont pas signés d'accord bilatéral de sécurité sociale avec la France, devront être affiliés au régime général de sécurité sociale française par la Banque.\n\nArticle 5\n\nLes difficultés relatives à l'application du présent Accord seront réglées directement entre les autorités françaises compétentes et le Directeur Général de la Banque.\n\nArticle 6\n\nLe présent Accord entrera en vigueur le premier jour du premier mois qui suit la notification par chacune des Parties de l'accomplissement des formalités requises.\n\nArticle 7\n\nLe présent Accord est conclu pour une période d'une année à partir de la date de son entrée en vigueur. Il sera renouvelé tacitement d'année en année sauf dénonciation notifiée, par une des parties, trois mois avant l'expiration du terme.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "EN FOI DE QUOI les soussignés, dûment autorisés par la France et la BRI, ont signé le présent\n\nAccord.\n\nFAIT à Bâle, le 13 septembre 2021, en deux exemplaires originaux.\n\nPour la France Pour la BRI\n\nFrédéric Journès stín Carstens\n\nAmbassadeur de France ecteur Général en Suisse et au Liechtenstein\n\nBenoît Cœuré\n\nChef du pôle d'innovation de la BRI (BIS Innovation Hub)",
+      "quality_score": 0.9845,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20213031_001_s1",
+      "title": "Accord",
+      "score": 0.818214,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192551_s1",
+      "title": "Accord",
+      "score": 0.396137,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_005_s1",
+      "title": "Instrument monégasque",
+      "score": 0.388512,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990204_005_s1",
+      "title": "Ratification libanaise (ensemble copie de la convention)",
+      "score": 0.38516,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_001_s1",
+      "title": "Convention",
+      "score": 0.381545,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202784_001_s1",
+      "title": "Protocole",
+      "score": 0.381346,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240100_001_s1",
+      "title": "Accord",
+      "score": 0.378895,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19780215_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.37716,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192695_001_s1",
+      "title": "Accord-cadre",
+      "score": 0.376886,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_001",
+      "title": "Convention ET de son protocole",
+      "score": 0.375922,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

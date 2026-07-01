@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_mco003_s1",
+  "title": "Note accusant réception de la notification d'adhésion",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9385,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JM/YS DIRECTION DES AFFAIRES ADMINISTRATIVES & SOCIALES 16 juillet 1958. Unions Internstionales Par note N? 10,556/58 en date du 26 avril; reçus le 29 avril 1958, la Lógation de Monsco a bien voulu faire parvenir au Ministère des Affaires Etran- gères les instruments d'adhésion du Gouvernement prinoier de Monaco à la Convention comernant les Expositions Internationales, signée à PARIS le 22 novembre 1928, | Conformé…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_mco003_s1.pdf",
+  "source_filename": "tra19280002_mco003_s1.pdf",
+  "source_sha256": "ac29ff01b6ba475044da05316e5deed0788ab1f4eff0489da873e3495e364b26",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MCO003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JM/YS\n\nDIRECTION DES AFFAIRES\n\nADMINISTRATIVES & SOCIALES\n\n16 juillet 1958.\n\nUnions Internstionales\n\nPar note N? 10,556/58 en date du 26 avril;\n\nreçus le 29 avril 1958, la Lógation de Monsco a bien voulu faire parvenir au Ministère des Affaires Etran- gères les instruments d'adhésion du Gouvernement prinoier de Monaco à la Convention comernant les Expositions\n\nInternationales, signée à PARIS le 22 novembre 1928, | Conformément à l'article 35 de la convention, cette adhésion a ótó notifiée à tous les pays contractants à cette convention, ainsi qu'au protocole signé à Paris le 10 mai 1948./.\n\nLe Ministère des Affaires Etrangères saisit cette occasion pour renouveler à la Légation de Monaco les assurances de sa haute considération,\n\nJ.P GASCUEL\n\nLEGATION DE MONACO\n\nPARIS",
+      "quality_score": 0.9385,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.410483,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_07_s1",
+      "title": "accusé de réception de la note d'adhésion de l'Allemagne",
+      "score": 0.408719,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.407247,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_049_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.404792,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.40046,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.399274,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.398733,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.396191,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_irn002_s1",
+      "title": "Notification au Bureau international des expositions de l'adhésion de l'Iran",
+      "score": 0.395346,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_73_s1",
+      "title": "Pouvoirs de dépôt d'instrument d'adhésion",
+      "score": 0.393265,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

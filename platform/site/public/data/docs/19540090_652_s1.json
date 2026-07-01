@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_652_s1",
+  "title": "Note de transmission de l'instrument norvégien",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9877,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19540050 Reçu l1 5-01-1997 AMBASSADE ROYALE DE NORVEGE L'Ambassade Royale de Norvège présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de Lui faire parvenir, sous ce pli, la lettre d'adhésion de la Norvège à la Convention internationale pour l'unification des méthodes d'analyses et d'appréciation de vins, adoptée à Paris le 13 octobre 1954. L'Ambassade de Norvège saisit cette occasion pour…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_652_s1.pdf",
+  "source_filename": "19540090_652_s1.pdf",
+  "source_sha256": "f9a5f9ad9616ca227d0f85e33aadcda3612482bab2baa6dcea1168c31567a152",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "NOR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19540050\n\nReçu l1 5-01-1997\n\nAMBASSADE ROYALE DE NORVEGE\n\nL'Ambassade Royale de Norvège présente ses compliments au Ministère des\n\nAffaires Etrangères et a l'honneur de Lui faire parvenir, sous ce pli, la lettre d'adhésion de la Norvège à la Convention internationale pour l'unification des méthodes d'analyses et d'appréciation de vins, adoptée à Paris le 13 octobre 1954.\n\nL'Ambassade de Norvège saisit cette occasion pour renouveler au Ministère des\n\nAffaires Etrangères les assurances de sa haute considération. OAL\n\nParis, le 6 janvier, 1997\n\nPARIE\n\nMinistère des Affaires Etrangères,\n\nParis",
+      "quality_score": 0.9877,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.403307,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_562_s1",
+      "title": "Note de transmission de l'instrument marocain",
+      "score": 0.399484,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_25_s1",
+      "title": "Note verbale de demande d'adoption d'un statut d'Etat observateur pour la Finlande",
+      "score": 0.390717,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_561_s1",
+      "title": "Instrument d'adhésion marocain",
+      "score": 0.390226,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_025_s1",
+      "title": "Note verbale de dénonciation de la Belgique",
+      "score": 0.387963,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_321_s1",
+      "title": "Instrument de ratification (et NV de transmission)",
+      "score": 0.387045,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_009_s1",
+      "title": "Note verbale d'acceptation de l'Autriche",
+      "score": 0.384599,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151444_006_s1",
+      "title": "Accusé de réception français de la notification allemande",
+      "score": 0.383568,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910247_652",
+      "title": "Instrument de ratification",
+      "score": 0.382321,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_421_s1",
+      "title": "Instrument de ratification",
+      "score": 0.38198,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

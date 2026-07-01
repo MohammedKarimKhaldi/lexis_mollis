@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20100139_s1",
+  "title": "Accord",
+  "year": 2010,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9716,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "QUATRIÈME PROCÈS-VERBAL DE RECTIFICATION DU TRAITÉ SUR L'UNION EUROPÉENNE, SIGNÉ À MAASTRICHT LE 7 FÉVRIER 1992 Attendu que des erreurs ont été relevées dans le texte original des versions danoise, française et irlandaise du traité sur l'Union européenne, signé à Maastricht le 7 février 1992 et dont le gouvernement de la République italienne est dépositaire; attendu que ces erreurs ont été portées à la connaissance…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20100139_s1.pdf",
+  "source_filename": "TRA20100139_s1.pdf",
+  "source_sha256": "b722d19d37f1068cf8fbfe1425963c55246f56d7896be6405f7278bb56bdbae9",
+  "treaty_id": "TRA20100139",
+  "treaty_number": "01",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "QUATRIÈME PROCÈS-VERBAL DE RECTIFICATION\n\nDU TRAITÉ SUR L'UNION EUROPÉENNE,\n\nSIGNÉ À MAASTRICHT LE 7 FÉVRIER 1992\n\nAttendu que des erreurs ont été relevées dans le texte original des versions danoise, française et\n\nirlandaise du traité sur l'Union européenne, signé à Maastricht le 7 février 1992 et dont le\n\ngouvernement de la République italienne est dépositaire;\n\nattendu que ces erreurs ont été portées à la connaissance des États signataires du traité par lettre du\n\njurisconsulte du Conseil de l'Union européenne aux représentants permanents des États membres de\n\nl'Union européenne en date du 4 mars 2010;\n\nattendu que les États signataires n'ont pas formulé d'objections à l'encontre des corrections\n\nproposées dans cette lettre avant l'expiration du délai y indiqué;\n\nil a été procédé aujourd'hui, au ministère des affaires étrangères de la République italienne, à la\n\nrectification de ces erreurs dans le sens indiqué en annexe.\n\nEn foi de quoi, le présent procès-verbal a été établi, dont copie sera adressée aux gouvernements des\n\nÉtats signataires dudit traité.\n\nPV4/TEU/fr 1",
+      "quality_score": 0.9716,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20100141_s1",
+      "title": "Accord",
+      "score": 0.827428,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20090286_s1",
+      "title": "Accord",
+      "score": 0.759095,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182494_001_s1",
+      "title": "Convention (ensemble 2 annexes)",
+      "score": 0.370669,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100322_102_s1",
+      "title": "Procès-verbal",
+      "score": 0.370631,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_001_s1",
+      "title": "Convention (ensemble un acte final) (ensemble deux annexes)",
+      "score": 0.367511,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19490009_101_s1",
+      "title": "Procès-Verbal secret relatif à l'échange de lettre secret du 30 mai 1949",
+      "score": 0.366771,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230074_001_s1",
+      "title": "Accord",
+      "score": 0.366297,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100261_007",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.366009,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240077_001_s1",
+      "title": "Convention",
+      "score": 0.364477,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240060_001b_s1",
+      "title": "Note en réponse",
+      "score": 0.363368,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

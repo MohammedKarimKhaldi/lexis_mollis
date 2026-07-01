@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19280002_smr002_s1",
+  "title": "Pouvoirs à l'ambassadeur de Saint-Marin à Paris de dépôt de l'instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "it"
+  ],
+  "quality_score": 0.9771,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "O Capitune Reggente della Serenissima Republicado Tan Mearino « tutti coloro che le Presenti vedranno, Salute ValendoCi delle Nostre facoltà per le Presenti CONFERIAMO al Signor Maurizio Borletti, Ministro Consigliere presso l'Ambasciata della Repubblica di San Marino a Parigi, i PIENI POTERI ed ogni altra necessaria autorità allo scopo di procedere, a nome e per conto della Repubblica di San Marino, al deposito del…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_smr002_s1.pdf",
+  "source_filename": "tra19280002_smr002_s1.pdf",
+  "source_sha256": "0fa56081eafa90d4c4ef30053e48d84cc3e02024f28f453e06a01ec7c4a38512",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "SMR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "O Capitune Reggente della Serenissima\n\nRepublicado Tan Mearino « tutti coloro che le Presenti vedranno, Salute\n\nValendoCi delle Nostre facoltà per le Presenti\n\nCONFERIAMO\n\nal Signor Maurizio Borletti, Ministro Consigliere presso l'Ambasciata della Repubblica di\n\nSan Marino a Parigi, i PIENI POTERI ed ogni altra necessaria autorità allo scopo di procedere, a nome e per conto della Repubblica di San Marino, al deposito dello strumento di adesione alla seguente Convenzione:\n\nConvenzione sulle esposizioni internazionali, fatta a Parigi il 22 novembre 1928, modificata e completata dai protocolli del 10 maggio 1948, 16 novembre 1966 e del 30 novembre 1972 e dagli emendamenti del 24 giugno 1982 e del 31 maggio 1988.",
+      "quality_score": 0.9718,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "In fede di che, Noi abbiamo di Nostra mano firmato le Presenti e vi abbiamo fatto apporre il\n\nSigillo dello Stato.\n\nDate a San Marino, addì 5 del mese di agosto duemilaquattro e millesettecentotre dalla\n\nFondazione della Repubblica\n\nI CAPITANI REGGENTI\n\n(Paolo Bollini - Marino Riecardi 1 Bollini /Mateo Trewo\n\nIL SEGRETARIO DI STATO\n\nPER GLI AFFARI ESTERI\n\n(Fabig Berardi) A",
+      "quality_score": 0.9824,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_54_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.387879,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.387843,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_73_s1",
+      "title": "Pouvoirs de dépôt d'instrument d'adhésion",
+      "score": 0.382783,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_003",
+      "title": "Pouvoirs italiens",
+      "score": 0.378481,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_011_s1",
+      "title": "Instrument d'acceptation de la Belgique",
+      "score": 0.372074,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_19_s1",
+      "title": "Pouvoirs de signature de la Belgique",
+      "score": 0.371727,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_13_s1",
+      "title": "Instrument de ratification de l'Argentine",
+      "score": 0.371553,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19240003_36_s1",
+      "title": "Pouvoirs de négociation et de signature de l'Italie",
+      "score": 0.371117,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.371044,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_435",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.370742,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

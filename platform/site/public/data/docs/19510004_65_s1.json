@@ -1,0 +1,72 @@
+{
+  "document_id": "19510004_65_s1",
+  "title": "Instrument de ratification de la Roumanie",
+  "year": 1951,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9634,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Le Presidium de la Grande Vasemblée Nationale de lox, Republique Topulaire Roumeine fait savoir quo : La République Populaire Roumaine a adhéré à la Convention pour 1'Etablissement de l'Organisation Européenne pour la Protection des Plantes, signée à Paris le 18 avril 1951. Le Présidium de la Grande Assemblée Nationale de la République Populaire Roumaine déclare que les prévi- sions de cette Convention seront accomp…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_65_s1.pdf",
+  "source_filename": "19510004_65_s1.pdf",
+  "source_sha256": "12dfb5405fb49e354cc4aa6b09ff4b5295b2bab92db62ea0c54b86bdbc5ce7ef",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "ROU002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Le Presidium\n\nde la Grande Vasemblée Nationale\n\nde lox,\n\nRepublique Topulaire Roumeine\n\nfait savoir quo :\n\nLa République Populaire Roumaine a adhéré à la\n\nConvention pour 1'Etablissement de l'Organisation\n\nEuropéenne pour la Protection des Plantes, signée à Paris le 18 avril 1951.",
+      "quality_score": 0.9269,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Le Présidium de la Grande Assemblée Nationale de la République Populaire Roumaine déclare que les prévi- sions de cette Convention seront accomplies.\n\nEn foi de quoi, le Président du Présidium de la\n\nGrande Assemblée Nationale de la République Populaire Roumaine a signé le présent Acte d'adhésion revêtu du sceau de l'Etat.\n\nBucarest, le vingt-six décembre mil neuf cent cinquante bult.\n\nLE PRESIDENT DU PRESIDIUM DE LA GRANDE ASSEMBLEE NATIONALE\n\nDE LA\n\nREPUBLIQJE POPULAIRE ROUMAINE\n\nenaunghe laure,\n\nLE MINISTRE DES AFFAIRES ETRANGERES\n\nDE LA\n\nREPUBLIQUE POPULAIRE ROUMAINE",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_726_s1",
+      "title": "Instrument d'adhésion de la Roumanie",
+      "score": 0.810623,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.370507,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

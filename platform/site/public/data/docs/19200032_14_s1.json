@@ -1,0 +1,151 @@
+{
+  "document_id": "19200032_14_s1",
+  "title": "Instrument de ratification grec",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8502,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Paul Deschanel Président de la République Française. à tous ceux qui ses présentes Lettres verront. lalut: Une Conferonce İnternationale se réunissant en vue de la création à Paris d'un Instilut International du Ficie, Nois avons charge MM Ricard Poin. Honoré: Ministre de l Agriculture Chevalier de l'Ordre e National de la Légion d' Hinneur: - Sebono, Andres. anciena llinistre. Désident de l'Asso ciation Française d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_14_s1.pdf",
+  "source_filename": "19200032_14_s1.pdf",
+  "source_sha256": "7281991beee624fdad3a23e5c01ad94337cce65d5f722bb99aaae872b77ae828",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "GRE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Paul Deschanel\n\nPrésident de la République Française.\n\nà tous ceux qui ses présentes Lettres verront.\n\nlalut:\n\nUne Conferonce İnternationale se réunissant en vue de la création à\n\nParis d'un Instilut International du Ficie,\n\nNois avons charge MM Ricard Poin.\n\nHonoré: Ministre de l Agriculture\n\nChevalier de l'Ordre e\n\nNational de la\n\nLégion d' Hinneur: -\n\nSebono, Andres.\n\nanciena llinistre. Désident de l'Asso ciation Française du Froid. Chevalier",
+      "quality_score": 0.87,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "de l'Crdre, Valional de lao d'Honneur et asage, Jean i\n\nCinéral de l'Hariculture,\n\nOfficie de l Ordre National de la légione d-Honneur d'étudier toutes les questions quifont lobjet de celle réunion internalionale et par les piésentes, les mernmons et constiluons Nos Ninipolentiaires i leffet.\n\nde négocier, conclure et signer au nom der la France avec le vu les Nénipotentiaires également munis de pleins piucis de la aut des Puissances contractantes, tele→ trangement Cenvention Déclaralions re Actes quelconques qui seront juger\" nécessaires pour atteindre les résultats\n\ndésiré.o\n\nPromettant d'accomplit et\n\nd'exécuter loul ce que Nos dits \"\n\nPeripo- tendiaires cuvent stipule et digre au nom",
+      "quality_score": 0.8462,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "de la République Françaises sans 0 jamais y contrevenir ne parmellie → indictement-pire perena prétente el que Nos ferons délivrer ono bonne et due forme pour étre échangées dans les délai qui sera convenu. Enfoi de quoi tores avons fait apposer à caro présentes le Sceau de la Républiques.\n\nfait à la Montelleni 619 Juen 1920\n\nParle Resident de la Prépublique:\n\nle Président du Conseil,\n\nMinistre de Affaires Etrangèrer, avilleron",
+      "quality_score": 0.8343,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200032_15_s1",
+      "title": "Pouvoirs français pour l'Algérie",
+      "score": 0.390547,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_16_s1",
+      "title": "Pouvoirs français pour les colonies",
+      "score": 0.385709,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_022_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.381727,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.376089,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17630001_001_s1",
+      "title": "Accord (ensemble un article séparé) (ensemble texte des pouvoirs français, britanniques et espagnols)",
+      "score": 0.375287,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19330035_003_s1",
+      "title": "Pleins pouvoirs britanniques",
+      "score": 0.373504,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_325",
+      "title": "Pouvoirs italiens",
+      "score": 0.371568,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_325_s1",
+      "title": "Pouvoirs grecs",
+      "score": 0.370757,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_18_s1",
+      "title": "Pouvoirs du Royaume-Uni",
+      "score": 0.366069,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510075_325_s1",
+      "title": "Pouvoirs néozélandais",
+      "score": 0.365065,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

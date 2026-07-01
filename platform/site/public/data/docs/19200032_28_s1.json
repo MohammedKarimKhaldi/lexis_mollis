@@ -1,0 +1,48 @@
+{
+  "document_id": "19200032_28_s1",
+  "title": "Pouvoirs de signature",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8859,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "GOUVERNEMENT. A. Qgrroutture er Prévoyance PP ANNEXES, — Luxembourg, le 15 juin 1920. Le Directeur Général de l'Agriculture e$ de la Prévoyance Sociale, Confhre & Monsieur Ph.WAGNER,professeur hon. À ETTELBRUCK,pleins pouvoirs à l'effet de prendra part su qualité de délégué officiel du Grand- Dwehá de Luxembourg,aux travaux et délibérations de la Conférence internationale du Froid,qui se tiendra À PARIS,le 21 juin s…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_28_s1.pdf",
+  "source_filename": "19200032_28_s1.pdf",
+  "source_sha256": "b5707684c2a9b6f58033e0710dac002ef2fc16d5cebc71ae694cbfab48bc7bd0",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "520",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GOUVERNEMENT.\n\nA.\n\nQgrroutture er\n\nPrévoyance PP\n\nANNEXES,\n\n—\n\nLuxembourg, le 15 juin 1920.\n\nLe Directeur Général de l'Agriculture e$ de la Prévoyance Sociale,\n\nConfhre & Monsieur Ph.WAGNER,professeur hon.\n\nÀ ETTELBRUCK,pleins pouvoirs à l'effet de prendra part su qualité de délégué officiel du Grand- Dwehá de Luxembourg,aux travaux et délibérations de la Conférence internationale du Froid,qui se tiendra À PARIS,le 21 juin srt,et de signer au nom du Gourernement du Luxembourg 1s eonvention ~ telle qu'elle sortira des délibérations de ta dite Conférence,\n\nLe Directeur Général\n\nde l'Agriculture où de la Prévoyance Sociale,",
+      "quality_score": 0.8859,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

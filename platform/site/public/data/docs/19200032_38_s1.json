@@ -1,0 +1,128 @@
+{
+  "document_id": "19200032_38_s1",
+  "title": "Procès verbal de dépôt de l'instrument polonais",
+  "year": 1920,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.936,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "—rr *. ‘PROCES -VERBAL. de Eípot des Ratifications de la Pologne sur la Convention Internationale pour la création à Paris d'un inatitut inter national du Froid ,en date à Paris du 21 Juin — — — HT © =! = Imm = === En exécution de l'article LL de ia Convention Internationale pour la création, à Paris, d'un Institut fnternstional du Froid, en date à Paris du 21 Juin 1920, conclue entre la République Argentine, la Bel…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_38_s1.pdf",
+  "source_filename": "19200032_38_s1.pdf",
+  "source_sha256": "ad41e28781c1681363b6f63b3940f95546b1681d13ab780a44780dbac7ee6922",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "POL003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "—rr *.\n\n‘PROCES -VERBAL.\n\nde Eípot des Ratifications de la Pologne sur la Convention\n\nInternationale pour la création à Paris d'un inatitut inter\n\nnational du Froid ,en date à Paris du 21 Juin\n\n— — — HT © =! = Imm = ===\n\nEn exécution de l'article LL de ia Convention\n\nInternationale pour la création, à Paris, d'un Institut fnternstional du Froid, en date à Paris du 21 Juin 1920, conclue entre la République Argentine, la Belgique, ie Chili, la Chins, coata-Rica,,cuba, le Danemark, l'Espagre, la Fintan.\n\nde, le Francs, l'Algérie, les Colonies de l'Afrique occidentale française, les Colonies et Protectorats français de 1'Indo-Chine\n\nMadagascar, la Grands — Bretagne et les Dominions de l'Afrique du Sud, le Commonwealth d'Australie, la Houveile —Zélande, les Indes, la Grèce, Haiti, l'Italie et mes Colonies d'Erythrée, de Tripolitains et Ses Somalis, le Japon, le Luxembourg, lé\n\nMaroc, Monaco , la Norvège, Panama, les Pays -pas et Leura\n\nColonies des Indes Néerlandaises, le Pérou, la Pologne, le\n\nPortugal, Le Hounsnie, l'Etat- Serbe- Croate-Slorène, le Siam la Subde, la Suisse, la République Tchéco-Slovaque, la Tunisie et l'Uruguay, le Ministre de Pologne à Paris s'eat présenté au Ministère des Affaires Etrangères, pour procéder au dépot des ratifications de son Gouvernemant aur ladits Convention at les remettre au Gouvernement de la République française.\n\nCet instrument ayant été ,après examen, trouvé\n\nen borne et dus forme, a été confié au Gouvernement de la Bépu",
+      "quality_score": 0.9387,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "blique française pour rester déposé dans seg archives.\n\nConformément aux termes de l'article 11 précité, le | Gouvernement français donnera avis du présent dépôt aux\n\nPuiasences contractantes.\n\nEn FOI de QUOI, les soussignés ont dresaé le pré\n\nsent Procas— Verbal et y ont appoas leurs cacheta.\n\nPait à Paris ,le / UG (732.",
+      "quality_score": 0.9332,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200032_08_s1",
+      "title": "Procès verbal de dépôt de l'instrument danois",
+      "score": 0.775894,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_43_s1",
+      "title": "Procès verbal  de dépôt de l'instrument de ratification siamois",
+      "score": 0.7727,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_35_s1",
+      "title": "Procès verbal de dépôt de l'instrument néerlandais",
+      "score": 0.758301,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_27_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification japonais",
+      "score": 0.749901,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_47_s1",
+      "title": "Traduction de courtoisie de l'instrument suédois",
+      "score": 0.732549,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_22_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification grec",
+      "score": 0.710004,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_02_s1",
+      "title": "Procès verbal de dépôt de ratifications sur la convention",
+      "score": 0.694708,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_13_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Danemark",
+      "score": 0.660454,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_07_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification australien",
+      "score": 0.619552,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_40_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification portugais",
+      "score": 0.469062,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "document_id": "19540096_092_s1",
+  "title": "Instrument d'adhésion de la République tchèque",
+  "year": 1954,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "cs",
+    "en"
+  ],
+  "quality_score": 0.9648,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "VLADA CESKE REPUBLIKY Dne 1. prosince 1954 byla v Pařiži sjednána Mezinárodní úmluva o Mezinárodním ústavu chladírenském, nahrazující Omluvu z 21. června 1920, pozměněnou dne 31. května 1937 Vláda České republiky tuto Smlouvu prozkoumala a v souladu s českými ústavními předpisy k ní přistu- puje podle ustanovení jejího článku III písm. c). Dáno v Praze dne 4. března 1993. Gastroene /UNOFFICIAL TRANSLATION/ The Agree…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_092_s1.pdf",
+  "source_filename": "19540096_092_s1.pdf",
+  "source_sha256": "c5949093973f13294a2966a7861440c5da0a3705b67f0599d7b592368c5b222e",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "CZE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "VLADA CESKE REPUBLIKY\n\nDne 1. prosince 1954 byla v Pařiži sjednána\n\nMezinárodní úmluva o Mezinárodním ústavu chladírenském, nahrazující Omluvu z 21. června 1920, pozměněnou dne 31. května 1937",
+      "quality_score": 0.964,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "cs"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Vláda České republiky tuto Smlouvu prozkoumala a v souladu s českými ústavními předpisy k ní přistu- puje podle ustanovení jejího článku III písm. c).\n\nDáno v Praze dne\n\n4. března 1993.\n\nGastroene",
+      "quality_score": 0.9305,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "cs"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "/UNOFFICIAL TRANSLATION/\n\nThe Agreement concerning the International\n\nInstitute of Refrigeration replacing the Convention of 21st June 1920 as modified on 31st May 1937\n\nlet December 1954\n\nThe Government of the Czech Republic has examined the Agreement and, in accordance with the Czech consti- tutional regulations, accedes to it according to the pro- vision of its Article III par. cl.\n\nDone at Prague, March 4th, 1993\n\nJosef Zieleniec\n\nMinister of Foreian Affairs",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_059_s1",
+      "title": "Instrument d'accession de l'Irlande",
+      "score": 0.390616,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_053_s1",
+      "title": "Déclaration d'acceptation de la Finlande",
+      "score": 0.387105,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_198_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.381275,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_218_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.380997,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_48_s1",
+      "title": "Instrument d'adhésion de la République Tchèque",
+      "score": 0.369758,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_090_s1",
+      "title": "Instrument de ratification du Royaume-Uni",
+      "score": 0.360703,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_056_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.36055,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_002_s1",
+      "title": "Procès-verbal de rectification de la convention",
+      "score": 0.356766,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_062_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.35592,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_006_s1",
+      "title": "Instrument de ratification sud-africain",
+      "score": 0.353807,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

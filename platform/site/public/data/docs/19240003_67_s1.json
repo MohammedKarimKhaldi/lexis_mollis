@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_67_s1",
+  "title": "Note verbale d'adhésion de l'Uruguay",
+  "year": 1924,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9513,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "*AMBASSADE DE LURUGUAY 1400/83-1430 JSC/nd MISIERE LES 114 e TONS FA 06. SEP. 1983 ET CRGANSATIOKS IN FAMATIONALE L'Ambassade de l'Uruguay presente ses compilmenta au Ministère des Relations Extérieures et a l'honneur de porter à sa connaissance que, par Lol n' 15.347 du 16 novembre 1982, le Pouvoir Exécutif uruguayen a décidé de solliciter l'adhésion de la République à l'Office Internattonal de la Vigne et du Vin.…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_67_s1.pdf",
+  "source_filename": "19240003_67_s1.pdf",
+  "source_sha256": "db70fec06a69d92f81b973f659fa15ea7740a5747bd2e07adc92e4a267276b65",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "URY001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "*AMBASSADE DE LURUGUAY\n\n1400/83-1430\n\nJSC/nd\n\nMISIERE LES 114 e\n\nTONS FA\n\n06. SEP. 1983\n\nET CRGANSATIOKS IN FAMATIONALE\n\nL'Ambassade de l'Uruguay presente ses compilmenta au Ministère des Relations Extérieures et a l'honneur de porter à sa connaissance que, par Lol n'\n\n15.347 du 16\n\nnovembre 1982, le Pouvoir Exécutif uruguayen a décidé de solliciter l'adhésion de la République à l'Office\n\nInternattonal de la Vigne et du Vin.\n\nEn ventu de cette déciston. l'Ambagsade ge permet.\n\npar la présente, de transmettre au Ministère des Relations\n\nExtérieurea la demande du Gouvernement uruguayen, en vue de ga soumisellagsentiment des Etats signatalres de 1'Arranzement.\n\nL'Ambassade de l'Uruguay salsit cette occasion pour renouveler au Miniatère des Relations Extérieures les assurances de sa haute considération.\n\nParis, le ler septembre 1983\n\nFRANCIA\n\nDirection des Nations Unies et des Organisations Internationales\n\nMINISTERE DES RELATIONS EXTERIEURES\n\nPARIS",
+      "quality_score": 0.9513,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.406555,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.403059,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_921_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.399993,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_046_s1",
+      "title": "Note verbale d'adhésion du Salvador",
+      "score": 0.396502,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_562_s1",
+      "title": "Note de transmission de l'instrument marocain",
+      "score": 0.393296,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_043_s1",
+      "title": "Note verbale confirmant l'adhésion du Pérou à l'amendement de 1982",
+      "score": 0.3927,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_561_s1",
+      "title": "Instrument d'adhésion marocain",
+      "score": 0.392215,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.390793,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_005_s1",
+      "title": "Ratification",
+      "score": 0.386387,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.386049,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

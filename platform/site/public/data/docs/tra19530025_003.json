@@ -1,0 +1,75 @@
+{
+  "document_id": "tra19530025_003",
+  "title": "Pouvoirs télégraphiques italiens",
+  "year": 1953,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en",
+    "it",
+    "pt"
+  ],
+  "quality_score": 0.8861,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Ministerodegli Affaribsteri TELESPRESSO N Indirissato a Tosizione. Oggetto Riferimento Cesto) Poma, addi 19 Alleg STITUTO POLIGRAFICO DELLO STATO Indications de réception. ORIGINE INUMÉRO NOMBRE DE MOTS DATE HEURE DE DÉPOT , MENTIONS DE SERVICE 118 319 S S ROMA 0144 28 11 2315 ETAT = 117 PER DOTTOR EUGENIO PRATO S VEST AUTORIIZATA FIRMARE CONVENZIONE TRA ITALIA E FRANCIA RELATIVA TRAFORO MONTE BIANCO SEGUE STRUMENTO…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19530025_003.pdf",
+  "source_filename": "tra19530025_003.pdf",
+  "source_sha256": "49b32283325d2b1f721ff67e2762728486a107d8134a07062e5bab3cadb429b2",
+  "treaty_id": "TRA19530025",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministerodegli Affaribsteri\n\nTELESPRESSO N\n\nIndirissato a\n\nTosizione.\n\nOggetto\n\nRiferimento\n\nCesto)\n\nPoma, addi\n\n19\n\nAlleg\n\nSTITUTO POLIGRAFICO DELLO STATO",
+      "quality_score": 0.9312,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Indications de réception.\n\nORIGINE\n\nINUMÉRO\n\nNOMBRE\n\nDE MOTS\n\nDATE\n\nHEURE\n\nDE DÉPOT\n\n, MENTIONS DE SERVICE\n\n118\n\n319\n\nS S ROMA 0144 28 11 2315 ETAT =\n\n117 PER DOTTOR EUGENIO PRATO S VEST AUTORIIZATA FIRMARE\n\nCONVENZIONE TRA ITALIA E FRANCIA RELATIVA TRAFORO MONTE\n\nBIANCO SEGUE STRUMENTO FORMALE PIENI POTERI = DE GASPERI\n\nNº 700 bis\n\n17.2. 2\n\nb发",
+      "quality_score": 0.9672,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "유용\n\n•PARHSDOENT\n\nnl\n\nRARIS\n\n12\n\nW\n\nTORE NEN\n\nTÉLÉGRAMME\n\nOFFICIEL\n\nITALDIPL PARTS\n\nITALDIPL\n\n44\n\nAmbasaado d'Italio & Parto 47 rue de verano 1994987\n\nA DÉCHIRER",
+      "quality_score": 0.7598,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

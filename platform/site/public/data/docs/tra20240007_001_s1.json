@@ -1,0 +1,202 @@
+{
+  "document_id": "tra20240007_001_s1",
+  "title": "Déclaration",
+  "year": 2024,
+  "doc_type": "Déclaration",
+  "languages": [
+    "ar",
+    "fr"
+  ],
+  "quality_score": 0.7999,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Déclaration d'intention entre le Gouvernement de la République française et le Gouvernement de l'État du Qatar relative à la coopération bilatérale en matière de lutte contre le terrorisme, contre le financement du terrorisme et contre la radicalisation v Le Gouvernement de la République française, représenté par le ministre de l'Europe et des Affaires étrangères et le Gouvernement de l'État du Qatar représenté par…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20240007_001_s1.pdf",
+  "source_filename": "tra20240007_001_s1.pdf",
+  "source_sha256": "63cb4e0cbcdc56627124b18ad6ef5321472fc20e25e8431b1f88c952cabacdae",
+  "treaty_id": "TRA20240007",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Déclaration d'intention\n\nentre le Gouvernement de la République française\n\net\n\nle Gouvernement de l'État du Qatar relative à la coopération bilatérale en matière de lutte contre le terrorisme, contre le financement du terrorisme et contre la radicalisation",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "v",
+      "quality_score": 0.4652,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Le Gouvernement de la République française, représenté par le ministre de l'Europe et des\n\nAffaires étrangères et le Gouvernement de l'État du Qatar représenté par le Premier ministre et ministre des Affaires étrangères, ci-après dénommés individuellement « le Signataire » et collectivement les « Signataires »,\n\nRappelant la Déclaration d'intention entre les gouvernements de la République française et l'État du Qatar relative à la coopération bilatérale en matière de lutte contre le terrorisme, le financement du terrorisme et la radicalisation, signée le 7 décembre 2017, dans laquelle le\n\nPrésident de la République française et l'Émir du Qatar ont réaffirmé leur attachement aux efforts communs en matière de lutte contre le terrorisme, le financement du terrorisme et la radicalisation, ainsi que leur volonté de renforcer le dialogue sur l'ensemble des menaces en lien avec le terrorisme, le financement du terrorisme et la radicalisation.\n\nCompte tenu également des liens deja existants entre les agences et les services des deux pays,\n\nDéclarent leur intention de :\n\n1. Mettre en place un dialogue bilatéral de haut niveau consacré à la lutte contre le terrorisme, le financement du terrorisme et la radicalisation pour appréhender ensemble l'évolution des phénomènes dans ce domaine et favoriser la coopération bilatérale ;\n\n2. Instituer le dialogue bilatéral de haut niveau une fois par an. Ce dialogue bilatéral sera conduit par le préfet Pascal MAILHOS, Coordonnateur national du renseignement et de la lutte contre le terrorisme, pour la France et Cheikh Mohammed bin Abdulrahman bin\n\nJassim AL THANI, Premier ministre et ministre des Affaires étrangères pour le Qatar ;\n\n3. Ce dialogue pourra porter sur l'évaluation de la menace terroriste dans les régions d'intérêt commun, sur le financement du terrorisme, sur la radicalisation et sur les moyens de détecter, prévenir et contrer ces menaces. Il pourra par ailleurs compléter la coopération ancienne qui s'est nouée entre les deux pays en matière de sécurité des grands événements sportifs, notamment en dernier lieu à l'occasion de la Coupe du monde de football 2022 et en vue de la préparation des Jeux olympiques et paralympiques de Paris 2024 ;\n\n4. Ce dialogue pourra associer les agences et services de renseignement français et qatariens ainsi que les autres agences et services impliqués dans la lutte contre le terrorisme et la radicalisation ;\n\n5. Le Gouvernement de la République française et le Gouvernement de l'Etat du Qatar s'efforceront de prendre en charge toutes les activités de dialogue et de coopération prévues dans le cadre de la présente déclaration d'intention, dans le respect des normes internationales et conformément aux lois et règlements respectifs de leurs Etats respectifs.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "Signée à Paris, le 28 février 2024, en deux exemplaires, en langues française et arabe.\n\nPour le Gouvernement de la République Pour le Gouvernement de l'Etat du Qatar française\n\nStéphane SÉJOURNÉ\n\nMinistre de étrangères\n\nl'Europe\n\net des\n\nCheikh Mohammed bin Abdulrahman bin\n\nJassim AL THANI\n\nAffaires\n\nPremier ministre et ministre des Affaires\n\nétrangères",
+      "quality_score": 0.9828,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "إعلان نوايا بين\n\nحكومة الجمهورية الفرنسية\n\nو حكومة دولة قطر بشأن التعاون الثنائي في مجال مكافحة الإرهاب وتمويل الإرهاب والتطرف",
+      "quality_score": 0.9775,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "إنّ حكومة الجمهورية الفرنسية ويمثلها وزير أوروبا والشؤون الخارجية، وحكومة دولة قطر ويمثلها رئيس مجلس الوزراء\n\nوزير الخارجية، المشار إليهما على حدة فيما بعد ب \"الموقّع\" ومعًا ب \"الموقّعان\"،\n\nتذكيرا منهما بإعلان النوايا بين حكومة الجمهورية الفرنسية وحكومة دولة قطر بشأن التعاون الثنائي في مجال مكافحة الإرهاب وتمويل الإرهاب والتطرف الذي وُقع في 7 ديسمبر 2017 والذي أعاد فيه التأكيد حضرة فخامة رئيس الجمهورية لفرنسية وصاحب السمو أمير دولة قطر التزامهما بذل الجهود المشتركة في مجال مكافحة الإرهاب وتمويل الإرهاب والتطرف وأعربا عن رغبتهما في تعزيز الحوار بخصوص جميع التهديدات المرتبطة بالإرهاب وتمويل الإرهاب والتّطرّف.\n\nوبالنظر إلى العلاقات القائمة بالفعل بين الوكالات والأجهزة التابعة للبلدين،\n\nنعلنان نيّتهما فيما يلي:\n\nالظاهر ذات الصلة بها المجر ولتعزيز التعلون الثقان الإرهاب وتمويل الإرهاب والتطرف وليدرك معا تطور\n\n2. إقامة الحوار الثنائي رفيع المستوى بوتيرة سنويّة. وسيدير هذا الحوار الثنائي كل من معالي السيد/ بأسكال ميلوس، محافظ المنطقة والمنسق الوطني للاستخبارات ومكافحة الإرهاب، عن فرنسا والشيخ محمد بن عبد الرحمن آل ثاني\n\nرئيس مجلس الوزراء ووزير الخارجية، عن دولة قطر؛\n\n3. وقد يشمل الحوار ايضا تقييم التهديدات الإرهابية في المناطق ذات الاهتمام المشترك وتمويل الإرهاب والتّطرّف ووسائل رصد هذه التهديدات والحد منها والتصدي لها. ويمكن للحوار أن يستكمل التعاون القديم القائم بين البلدين في مجال أمن الاحداث الرياضية الكبرى والتي كان آخرها لمناسبة بطولة كأس العالم لكرة القدم لعام 2022 وأن يكونتمهيدًا لتحضيرات الألعاب الأولمبية والألعاب الأولمبية والبار المبية التي تقام في باريس في عام 2024؛\n\n4. وسيمكن للحوار أيضًا أن يجمع وكالات وجهازي الاستخبارات الفرنسي والقطري ووكالات واجهزة أخرى المعنية\n\nبمكافحة الإرهاب والتّطرّف؛\n\nا وستطر عن أو المية وكة وة ل لى الا ة الحوار والتعاون المقررا\n\nي إطار إعلان النوايا هذا، وبما يتوافق مع بالمعايير الدولية ووف\n\n2",
+      "quality_score": 0.9734,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "وقع في باريس، بتاريخ 28 فبراير 2024، من نسختين باللغتين الفرنسية والعربية.\n\nعن حكومة الجمهورية الفرنسية\n\nعن حكومة دولة قطر\n\nستيفان سيجورني\n\nوزير أوروبا والشؤون الخارجية\n\nالشيخ محمد بن عبد الرحمن بن جاسم آل ثاني رئيس مجلس الوزراء وزير الخارجية\n\n3",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230002_004_s1",
+      "title": "Protocole des conclusions de la commission de délimitation des zones démilitarisées des détroits",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20172628_001_s1",
+      "title": "Déclaration",
+      "score": 0.764269,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960176_001_s1",
+      "title": "Contrat (ensemble 1 annexe)",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19990204_005_s1",
+      "title": "Ratification libanaise (ensemble copie de la convention)",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240006_001_s1",
+      "title": "Déclaration",
+      "score": 0.473048,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090208_001_s1",
+      "title": "Accord.",
+      "score": 0.409718,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192630_001_s1",
+      "title": "Original de la déclaration",
+      "score": 0.406554,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151839_001_s1",
+      "title": "Accord",
+      "score": 0.40501,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192608_001_s1",
+      "title": "Texte de l'avenant",
+      "score": 0.402959,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240029_001_s1",
+      "title": "Déclaration",
+      "score": 0.401336,
+      "type": "translation",
+      "provisional": false
+    }
+  ]
+}

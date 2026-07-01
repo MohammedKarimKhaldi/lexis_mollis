@@ -1,0 +1,116 @@
+{
+  "document_id": "19570067_026_s1",
+  "title": "Instrument d'adhésion de l'Algérie",
+  "year": 1957,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9991,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Instrument d'adhésion de la République Algérienne Démocratique et Populaire à la Convention instituant la Commission Séricicole Internationale. Nous, Abdelaziz BOUTEFLIKA, Ministre des Affaires Etrangères de la République Algérienne Démocratique et Populaire, par délégation de Monsieur Houari BOUMEDIENE, Président du Conseil de la Révolution et du Conseil des Ministres, Ayant vu et éxaminé le texte de la Convention…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_026_s1.pdf",
+  "source_filename": "19570067_026_s1.pdf",
+  "source_sha256": "9f76913111eb5d0ee8204cfb18f7f0a2cec7583c4f74858daa500a48f8bbb006",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "025",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Instrument d'adhésion de la République Algérienne Démocratique et Populaire à la Convention instituant la Commission Séricicole\n\nInternationale.\n\nNous, Abdelaziz BOUTEFLIKA, Ministre des Affaires\n\nEtrangères de la République Algérienne Démocratique et Populaire, par délégation de Monsieur Houari BOUMEDIENE, Président du\n\nConseil de la Révolution et du Conseil des Ministres,\n\nAyant vu et éxaminé le texte de la Convention instituant une Commission Séricicole Internationale,\n\nDéclarons par les présentes, au Nom du Gouvernement de la République Algérienne Démocratique et Populaire, adhérer à ladite Convention, conformément aux dispositions de son titre III, article 4,\n\nEn foi de quoi, Nous avons signé le présent instrument d'adhésion pour être déposé auprès du Gouvernement de la Républi- que Française.",
+      "quality_score": 0.9991,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19320077_005",
+      "title": "Instrument de ratification soviétique",
+      "score": 0.369349,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.3669,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19320077_100",
+      "title": "Copie de la convention non signée, manuscrite, et accompagnée d'annotations",
+      "score": 0.366395,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_186_s1",
+      "title": "Instrument d'adhésion du Centrafrique",
+      "score": 0.365421,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_131",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.364517,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19550069_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.361801,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_006a_s1",
+      "title": "Lettre du Sous-Secrétaire d'État aux Affaires étrangères émirati M. Al Nahyan accusant réception de l'instrument français et transmettant l'instrument émirati",
+      "score": 0.361196,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_058_s1",
+      "title": "Pouvoirs français",
+      "score": 0.360221,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_14_s1",
+      "title": "Pouvoirs de signature du Luxembourg",
+      "score": 0.359108,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_005_s1",
+      "title": "Instrument émirati",
+      "score": 0.357548,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_485",
+  "title": "Accusé de réception de l'instrument du Lesotho",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.976,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "12 FEV 1985 JMT/EN MINISTÉRE DES RELATIONS EXTÉRIEURES DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES RÉPUBLIQUE FRANÇAISE PARIS, LE Monsieur le Directeur Général, J'ai l'honneur de vous confirmer que mon Département a reçu 1'instrument d'adhésion du Gouvernement du Royaume du LESOTHO à 1 'Arrangement du 25 janvier 1924 portant création de l'Office International des Epizooties. Cette adhésion a pri…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_485.pdf",
+  "source_filename": "tra19240002_485.pdf",
+  "source_sha256": "9d46dab272f2b0b3a64caec47b1070486badeeadc5ab31891606c79f7de7e8ec",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "LSO003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "12 FEV 1985\n\nJMT/EN\n\nMINISTÉRE\n\nDES\n\nRELATIONS EXTÉRIEURES\n\nDIRECTION DES NATIONS UNIES\n\nET DES ORGANISATIONS\n\nINTERNATIONALES\n\nRÉPUBLIQUE FRANÇAISE\n\nPARIS, LE\n\nMonsieur le Directeur Général,\n\nJ'ai l'honneur de vous confirmer que mon\n\nDépartement a reçu 1'instrument d'adhésion du Gouvernement du Royaume du LESOTHO à 1 'Arrangement du 25 janvier 1924 portant création de l'Office International des Epizooties.\n\nCette adhésion a pris effet le 22 juin 1984.\n\nPour l'application de l'article Il des Statuts\n\norganiques de l'Office, le Royaume du LESOTHO a choisi de s'inscrire dans la catégorie N°6.\n\nVeuillez agréer, Monsieur le Directeur Général,\n\nl'expression de ma considération distinguée.\n\nPOUR LE MINISTRE STEAR AUTORISATION\n\neide Orgentlions arenaisonale thenel\n\nmonsieur Louis BLAJAN\n\nDirecteur Général de\n\nI'Office International des Epizooties 12 Rue de Prony 25017\n\n- PARIS -",
+      "quality_score": 0.976,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_895",
+      "title": "Instrument d'adhésion",
+      "score": 0.498783,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_510",
+      "title": "Accusé de réception de l'adhésion liechtensteinoise",
+      "score": 0.435365,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_375",
+      "title": "Notification française à l'OIE",
+      "score": 0.419467,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_136",
+      "title": "Accusé de réception français de l'adhésion camerounaise",
+      "score": 0.405362,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_506",
+      "title": "Demande des autorités françaises d'une notification de dépôt de l'instrument d'adhésion",
+      "score": 0.399377,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_300",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.399008,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_371",
+      "title": "Instrument d'adhésion",
+      "score": 0.397785,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_870",
+      "title": "Courrier français",
+      "score": 0.397355,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_310",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.396068,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_081",
+      "title": "Note verbale des autorités grecques accusant réception de la notification du dépôt de l'instrument de Bahreïn",
+      "score": 0.39569,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19530025_008",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1953,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9972,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES VERBAL Les soussignés, Représentants de la République Ita- lienne et de la République Française, dûment autorisés, se sont réunis aujourd'hui pour procéder à l'échange des ratifi- cations de la Convention entre l'Italie et la France relative à la construction et à l'exploitation d'un tunnel sous le Mont- Blanc, signée à Paris le 14 mars 1953. Les instruments de ratification ayant été trouvés en bonne et due f…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19530025_008.pdf",
+  "source_filename": "tra19530025_008.pdf",
+  "source_sha256": "f28f947de0e95b7f71d769bf5adaa77fdc19b40c740909bd50de1a5e49614d0a",
+  "treaty_id": "TRA19530025",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES VERBAL\n\nLes soussignés, Représentants de la République Ita-\n\nlienne et de la République Française, dûment autorisés, se sont réunis aujourd'hui pour procéder à l'échange des ratifi- cations de la Convention entre l'Italie et la France relative à la construction et à l'exploitation d'un tunnel sous\n\nle Mont-\n\nBlanc, signée à Paris le 14 mars 1953.\n\nLes instruments de ratification ayant été trouvés en\n\nbonne et due forme, leur échange a été effectué.\n\nEn foi de quoi les soussignés ont dressé le Présent\n\nProcès Verbal en deux expéditions.\n\nFait à Rome, le 22 juin 1957\n\nPour l'Italie\n\nPour la France",
+      "quality_score": 0.9972,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19530025_004",
+      "title": "Instrument français",
+      "score": 0.481219,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.389867,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290031_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.386703,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.381528,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190039_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.377375,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190005_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.374142,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.373638,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.37153,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_15_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.368743,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_32_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de l'Italie",
+      "score": 0.36394,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "document_id": "19200032_45_s1",
+  "title": "Pouvoirs suédois",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr",
+    "sv"
+  ],
+  "quality_score": 0.8535,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Fott oak nytti bt faser rammande regeringar fot avslutande ao en konvention angaende apartend a al intentione det felmet ni altene ; alltsà have republiken grove han faka (ilhest Ehrensvärd, Sli termera vibbo hava denna fullmakt underskrivit oeh mod DORI Rangliga sigill betralta latit som bladde à A'tockholms Stott dem I1 oktober 1920, Öppen Fullmakt Sistamineina ago norad . Enmal o o itin on tmode. internationalit…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_45_s1.pdf",
+  "source_filename": "19200032_45_s1.pdf",
+  "source_sha256": "8e2f9032121abedb42ba4152b3359c85c6ef23033766d09df8c44ad6f51f5ce8",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "SWE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Fott oak nytti bt faser rammande regeringar fot avslutande ao en konvention angaende apartend a al intentione det felmet ni altene\n\n; alltsà have\n\nrepubliken grove han faka (ilhest Ehrensvärd, Sli termera vibbo hava\n\ndenna fullmakt underskrivit oeh mod\n\nDORI Rangliga sigill betralta latit som bladde à\n\nA'tockholms Stott dem I1 oktober 1920,\n\nÖppen Fullmakt\n\nSistamineina\n\nago norad . Enmal o o itin on tmode.\n\ninternationalit frysinstitet i Paris.",
+      "quality_score": 0.7893,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "sv"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Traduction,\n\nNOUS GUSTAF, par la Grèce 4*5 DIEU,\n\nRoi de Bud à *, ges Goths et des Vende s, savoir faisons qu'ayant jugé bon et utile d'entrer en négociations avac cortains autres Gouvernements pour 1a conclusion d’uné convention relative à la création d'un Institut International du froid &\n\nParis; aces fine NOUS avons nommé et autorisé par les présentes, et en vertu de oss pleins pouvoirs, comme NOTRE Plénipotentiaire pour conclure et signer ladite convention le Conte E hrensvürd( Joren, Jakob,\n\nAlbert), NOTRE Envoyé Extraordinaire et Ministre Plénipotentiaire prés la République Frangaise, Bn foi de quoi NOUS avons signé la présente de\n\nNOTRE propre main et y avons fait appoenr NOTRE Ecsau Royal. Fait au\n\nCrêteau de Stockholm, le 11 octobre 1920,\n\n(M.R,) GUSTAF, R.\n\nON\n\nErik Palnstierna.",
+      "quality_score": 0.9176,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.428316,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_40_s1",
+      "title": "Pouvoirs de signature du Luxembourg",
+      "score": 0.390696,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.387238,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.386765,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_48_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.385643,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.385205,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.382876,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.381723,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_70_s1",
+      "title": "Instrument de ratification de la Suède",
+      "score": 0.380803,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.380788,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

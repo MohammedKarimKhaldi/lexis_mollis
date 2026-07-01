@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_mli001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9877,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "• ANONS MA ET FERNELOUS DU MALI EN FRANCE 89, rue du Cherche-Midi Tel. 01 45 48 58 43 Fax 01 45 48 55 34 ADRESSER TOUTE CORRESPONDANCE B. P. 175 75263 PARIS CEDEX 0G RÉPUBLIQUE DU MALI UN PEUPLE • UN BUT - UNE FOI INSTRUMENTS D'ADHESION Le Gouvernement de la République du Mali déclare qu'il adhère à la Convention concernant les Expositions Internationales signée à Paris le 22 novembre 1928, telle que modifiée par le…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_mli001_s1.pdf",
+  "source_filename": "tra19280002_mli001_s1.pdf",
+  "source_sha256": "ebd7951e0fc41d6e64be86b71f60113ed96db3c33e8d5f058a479852432fc438",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MLI001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "• ANONS MA ET FERNELOUS\n\nDU MALI EN FRANCE\n\n89, rue du Cherche-Midi\n\nTel. 01 45 48 58 43\n\nFax 01 45 48 55 34\n\nADRESSER TOUTE CORRESPONDANCE\n\nB. P. 175\n\n75263 PARIS CEDEX 0G\n\nRÉPUBLIQUE DU MALI\n\nUN PEUPLE • UN BUT - UNE FOI\n\nINSTRUMENTS D'ADHESION\n\nLe Gouvernement de la République du Mali déclare qu'il adhère à la\n\nConvention concernant les Expositions Internationales signée à Paris le 22 novembre 1928, telle que modifiée par le Protocole du 16 novembre 1966, 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988, conformément aux dispositions de l'Article 3 du protocole, et qu'il acquittera de bonne foi de toutes les obligations qui sont prévues dai\n\nConvention et le Protocol\n\nEn foi de quoi, j'ai signé les présents instruments.\n\nPour le Gouvernement de la République du Mal\n\nMonsieur Mohamed Salia SOKONA\n\nAmbassadeur du Mali en France\n\nFait à Paris, le 12 NOV. 2007",
+      "quality_score": 0.9877,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_lbr001_s1",
+      "title": "Instrument d'adhésion.",
+      "score": 0.705336,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_160_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.690169,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.680441,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_144_s1",
+      "title": "Instrument d'adhésion du Niger",
+      "score": 0.673755,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.665841,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_201_s1",
+      "title": "Instrument d'adhésion du Soudan",
+      "score": 0.661774,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lao001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.655616,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_74_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.654138,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.612587,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_jor001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.558654,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

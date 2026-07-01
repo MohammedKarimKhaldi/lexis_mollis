@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_213_s1",
+  "title": "Instrument d'adhésion du Tanganyika",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9716,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 213 EAC.209/021 REPUBLIC OF TANGANYIKA Instrument of Accession International Convention relating to International Exhibitions, 1928. WHEREAS a Convention was drawn up at Paris on the 22nd of November, 1928, and amended by a Protocol on the 10th of May, 1948, and mas siened by representatives of the Goverrments of certain Powers and States; WHEREAS the Government of the Republic of Tanganyika, having seen an…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_213_s1.pdf",
+  "source_filename": "19280002_213_s1.pdf",
+  "source_sha256": "523cc17cd59ac2ebfb7fef8d9a9afc4261da4dc45c1b832e57ed9d9c7a2a67b9",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "TZA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 213",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "EAC.209/021\n\nREPUBLIC OF TANGANYIKA\n\nInstrument of Accession\n\nInternational Convention relating to International Exhibitions, 1928.\n\nWHEREAS a Convention was drawn up at Paris on the 22nd of\n\nNovember, 1928, and amended by a Protocol on the 10th of May, 1948, and mas siened by representatives of the Goverrments of certain Powers and States;\n\nWHEREAS the Government of the Republic of Tanganyika, having seen and considered the said Convention and Protocol, deem it expedient to accede thereto;\n\nNOW THEREFORE the undersigned JULIUS K. NYERERE, Fresident of the Republic of Tanganyika, hereby declares that the\n\nGoverrment of the Republic of Tanganyika accede to the aforesaid Convention under Article 35 thereof, and the Protocol under Article 3 thereof and undertake faithfully to perforn and carry out all the stipulations and provisions therein contained.\n\nIN WITNESS whereof the undersigned, duly authorised, has signed and sealed this instrument.\n\nDone in Der es Salaam on the ..28!\n\n..... day of February,\n\n1963.\n\nJulie Klan\n\nJulius K. Nyerere\n\nPresident,",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_214_s1",
+      "title": "Note verbale de dénonciation",
+      "score": 0.883547,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_217_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion",
+      "score": 0.853497,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_218_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.849638,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_211_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.848007,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_212_s1",
+      "title": "Instrument d'adhésion de la Tanzanie",
+      "score": 0.84668,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_216_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.843483,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_236_s1",
+      "title": "Instrument d'adhésion du Vanuatu",
+      "score": 0.760585,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_231_s1",
+      "title": "Instrument de ratification",
+      "score": 0.760006,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_232_s1",
+      "title": "Pouvoirs",
+      "score": 0.754205,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_204_s1",
+      "title": "Instrument de ratification",
+      "score": 0.749391,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19810127_004_s1",
+  "title": "Instrument français",
+  "year": 1981,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8614,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "HKpabligue hançaise SL Mlnishedes relalond ealsriered à Bon Excellence Monsieur A.C.S. HAMEED Ministre des Affaires Etrangères COLONBO Paris, 1e 28 juillet 1982 Honsieur le Ministre, Me référabh à l'article 27 e la Convention entre le Gouvernement de la République frangaise əet le Gouvernement de la République démocratique socialiste de Sri Lanka en vue d'éviter les doubles impositions et de prévenir 1'évasion fisca…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810127_004_s1.pdf",
+  "source_filename": "tra19810127_004_s1.pdf",
+  "source_sha256": "c5ce2e4fdc02cdbfafecef94a359d507d92d565a07c2199e3bf8ccf7eb9fd433",
+  "treaty_id": "TRA19810127",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "HKpabligue hançaise\n\nSL Mlnishedes relalond ealsriered\n\nà Bon Excellence\n\nMonsieur A.C.S. HAMEED\n\nMinistre des Affaires Etrangères\n\nCOLONBO\n\nParis, 1e 28 juillet 1982\n\nHonsieur le Ministre,\n\nMe référabh à l'article 27 e la Convention entre le Gouvernement de la République frangaise əet le Gouvernement de la République démocratique socialiste de\n\nSri Lanka en vue d'éviter les doubles impositions et de prévenir 1'évasion fiscala en matières á'impôts sur le revenu signée à Colonbo le 17 septembre t901, j'ai 1'honneur de vous faire savoir que les procáduras requises par la Constitution de la République pour l'entrée ən vigueur de ladite Convention ont été acoomplies.\n\nLa présente lettre constitue la notification prévue par la äisposition précitée.\n\nJe vous serais reconnaissant de bien vouloir m'infagmer če la date à laquelle celle-ci vous sera parvenue. /. i\n\nJe vous prie, Monsieur le Ministre, ä'agréer l'expression de ma haute considération.\n\nFour copie certifiée conforme à l'original\n\nA Paris, le. Z8, juillet 1982",
+      "quality_score": 0.8614,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19810127_005_s1",
+      "title": "Instrument sri-lankais",
+      "score": 0.428687,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_004_s1",
+      "title": "Instrument français",
+      "score": 0.422983,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810127_010_s1",
+      "title": "accusé de réception sri-lankais de l'instrument français",
+      "score": 0.421924,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.419127,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.418071,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.415317,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.415237,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800128_004_s1",
+      "title": "Instrument français",
+      "score": 0.414683,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.41441,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.411896,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

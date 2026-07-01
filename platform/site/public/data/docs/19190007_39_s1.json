@@ -1,0 +1,63 @@
+{
+  "document_id": "19190007_39_s1",
+  "title": "Pouvoirs de signature du Prince Fayçal",
+  "year": 1919,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "ar"
+  ],
+  "quality_score": 0.8704,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "فليعتمد منطوقه ٢٧ ربع الت فى ٢٣٧ السلطة التامة بمعتضى أمرنا هذا وموافقة مجلسي وكلاء وشيوخ حكوتنا العربن الهاشمية قد عينا وليا الدبر فصل قاته لليت البيق الية لذن يكون مندريا عن حكومتنا العربيه وفوضناه بأن يكون مثلالنا فى مؤتمر الصلح الدولى الذي سينعقد للنظر فى مصالح العالم بعد حربا المدم ومرخصاً بالمتوقيع على قراراه ونحرها من العروب النيابة عناون لكوات ل الرخصة التامه فى المفاوضات العائدة للبلاد العربية خاصه ومصالح ا…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_39_s1.pdf",
+  "source_filename": "19190007_39_s1.pdf",
+  "source_sha256": "6b2e91ba75f4a9b8f6614c7d46b3c701e9da19935191a1bf32851bf89fa9f695",
+  "treaty_id": "TRA19190007",
+  "treaty_number": "390c",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "فليعتمد منطوقه ٢٧ ربع الت فى ٢٣٧\n\nالسلطة التامة\n\nبمعتضى أمرنا هذا وموافقة مجلسي وكلاء وشيوخ حكوتنا العربن الهاشمية قد عينا وليا الدبر فصل قاته لليت البيق الية لذن يكون مندريا عن حكومتنا العربيه وفوضناه بأن يكون مثلالنا فى مؤتمر الصلح الدولى الذي سينعقد للنظر فى مصالح العالم بعد حربا المدم ومرخصاً بالمتوقيع على قراراه ونحرها من العروب النيابة عناون لكوات ل الرخصة التامه فى المفاوضات العائدة للبلاد العربية خاصه ومصالح العموم ومنافعها عامة كسائر أعضاء المؤتمر العالي المذكور ترخيصا تاماً وحررة أم الترى في يوم الأربا لثلاث ليال بتين من\n\nشهر ربيع الأخر من سته سبقه وثلاثين وثلاثماية بعد الألف ؟\n\nنائب رئيس وكلاء الحكومة العربية الهاستمين قاضى القضاة",
+      "quality_score": 0.8704,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19190007_38_s1",
+      "title": "Pouvoirs de signature de Awni Abdul-Hadi",
+      "score": 0.452941,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_37_s1",
+      "title": "Pouvoirs de Rustem Haïdar",
+      "score": 0.44564,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

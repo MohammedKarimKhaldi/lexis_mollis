@@ -1,0 +1,62 @@
+{
+  "document_id": "19660161_14_s1",
+  "title": "Pouvoirs de signature",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "ru",
+    "uk"
+  ],
+  "quality_score": 0.8622,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "МІНІСТЭРСТВА ЗАМЕЖНЫХ СПРАЎ БЕЛАРУСКАЙ САВЕЦКАЙ САЦЫЯЛІСТЫЧНАЙ РЭСПУБЛІКІ сведчыць, што Урад Беларускай Савецкай Сацыялістычнай Рэспублікі ўпаўнаважыў ЕЎДРАЎЦАВА Барнса Васільевіча, Гастаяннага Прадстаўніка Беларускай ССР прн ЮНЕСКО, падпі саць Пратакол аб змяненні артыкула 4 Банвенцні ад 09 дістапада 1928 года аб Міжнароднік выстаўках. Мінск, „_217*_6нежня __1966 года НМ стр Замежных Спраў Беларускай ССР 22и ж Ийча…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_14_s1.pdf",
+  "source_filename": "19660161_14_s1.pdf",
+  "source_sha256": "af69b5a7edd3115dbac05ca53eb8c37aae09149be6dfdc62d28e47af708b9680",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "BLR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "МІНІСТЭРСТВА ЗАМЕЖНЫХ СПРАЎ\n\nБЕЛАРУСКАЙ САВЕЦКАЙ САЦЫЯЛІСТЫЧНАЙ РЭСПУБЛІКІ\n\nсведчыць, што Урад Беларускай Савецкай Сацыялістычнай\n\nРэспублікі ўпаўнаважыў ЕЎДРАЎЦАВА Барнса Васільевіча,\n\nГастаяннага Прадстаўніка Беларускай ССР прн ЮНЕСКО, падпі саць Пратакол аб змяненні артыкула 4 Банвенцні ад 09 дістапада 1928 года аб Міжнароднік выстаўках.\n\nМінск, „_217*_6нежня __1966 года\n\nНМ стр Замежных Спраў\n\nБеларускай ССР 22и ж Ийчальнік Пратаколона-онгулинава р Гс\n\nСШ = 06972\n\nАддзела",
+      "quality_score": 0.8622,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "uk",
+        "ru"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_24_s1",
+      "title": "Pouvoirs de signature de la Biélorussie",
+      "score": 0.368955,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_232_s1",
+      "title": "Pouvoirs",
+      "score": 0.351795,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

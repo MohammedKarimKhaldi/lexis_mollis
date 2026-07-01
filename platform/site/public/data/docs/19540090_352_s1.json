@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_352_s1",
+  "title": "Procès-verbal de dépôt de l'instrument grec",
+  "year": 1954,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAI DE DEPOI DES INSTRUMENTS DE RATIFICATION DE LA GRECE SUR IA CONVENTION INTERNATIONALE POUR I UNIFICATION DES METHODES D'ANALISE ET D'APPRECIATION DES VINS, SIGNÉE A PARIS, LE 13 OCTOBRE 1954 Son Excellence Monsieur Raphaël RAPHAEI, Ambassadeur Extraordinaire et Plénipotentiaire de Grèce, s'est présenté aujourd'hui au Ministère des Affaires Etrangères, pour procé- der, avec Monsieur Edouard de IA CHAUVI…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_352_s1.pdf",
+  "source_filename": "19540090_352_s1.pdf",
+  "source_sha256": "3c33a4618fea78d339d39e9a1693fa44765b6cb0354e46789d0aae0a845d7607",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "GRE003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAI\n\nDE DEPOI DES INSTRUMENTS DE RATIFICATION DE LA GRECE\n\nSUR IA CONVENTION INTERNATIONALE POUR I UNIFICATION\n\nDES METHODES D'ANALISE ET D'APPRECIATION DES VINS,\n\nSIGNÉE A PARIS, LE 13 OCTOBRE 1954\n\nSon Excellence Monsieur Raphaël RAPHAEI, Ambassadeur\n\nExtraordinaire et Plénipotentiaire de Grèce, s'est présenté aujourd'hui au Ministère des Affaires Etrangères, pour procé- der, avec Monsieur Edouard de IA CHAUVINIERE, Ministre Pléni- potentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépôt des instruments de ratifi- cation de la Grèce sur la Convention internationale pour\n\nI'Unification des méthodes d'Analyse et d'Appréciation des\n\nVins, signée à Paris, le 13 octobre 1954, en exécution de l'article 8 de ladite Convention.\n\nIes instruments ayant été, après examen, trouvés en bonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent\n\nProcès-Verbal, qu'ils ont revêtu de leur cachet.\n\nFAIT A PARIS, en double exemplaire, le 14 décembre 1956.\n\nLa Chaunnine",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.826614,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.823532,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_437_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.814488,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_922_s1",
+      "title": "Procès-verbal de dépôt de l'instrument turc",
+      "score": 0.807918,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_297_s1",
+      "title": "Procès-verbal de dépôt de l'instrument espagnol",
+      "score": 0.794246,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.783686,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.743327,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.729086,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_30_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification grec",
+      "score": 0.719711,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_523",
+      "title": "Procès-verbal de dépôt de l'instrument luxembourgeois",
+      "score": 0.646086,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

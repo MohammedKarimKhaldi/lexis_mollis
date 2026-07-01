@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_855",
+  "title": "Accusé de réception français de l'instrument surinamien",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9905,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Fax reçu de : Ministère des affaires étrangères 21/05/02 17:41 Py: 3 NUOIE Nº 780 Paris, le 21 mai 2002 Le Ministère des Affaires Etrangères présente ses compliments au Ministère des Affaire Etrangères de la République du Suriname et a l'honneur d'accuser réception de Sa lettre du 9 janvier 2002 relative à l'Office International des Epizooties. L'adhésion de la République du Surinam à l'Office International des Epiz…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_855.pdf",
+  "source_filename": "tra19240002_855.pdf",
+  "source_sha256": "901363cf3343853904078c8c777c727e2c5a53c3d51c3b78e9a9487c65a42a2a",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "SUR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Fax reçu de :\n\nMinistère des affaires étrangères\n\n21/05/02\n\n17:41\n\nPy: 3\n\nNUOIE Nº 780\n\nParis, le 21 mai 2002\n\nLe Ministère des Affaires Etrangères présente ses compliments au Ministère\n\ndes Affaire Etrangères de la République du Suriname et a l'honneur d'accuser réception de Sa lettre du 9 janvier 2002 relative à l'Office International des Epizooties.\n\nL'adhésion de la République du Surinam à l'Office International des\n\nEpizooties a pris effet le 10 janvier 2002./.\n\nLe Ministère des Affaires Etrangères saisit cette occasion pour renouveler\n\nau Ministère des Affaires Etrangères de la République du Suriname les assurances de sa haute considération. Dy/\n\nMinistère des Affaires Etrangères\n\nRépublique du SURINAME",
+      "quality_score": 0.9905,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_740",
+      "title": "Accusé de réception de l'instrument rwandais",
+      "score": 0.780045,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_785",
+      "title": "Accusé de réception français de l'instrument santoméen",
+      "score": 0.738138,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_776",
+      "title": "Accusé de réception de l'instrument salvadorien",
+      "score": 0.394523,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20020081_006",
+      "title": "Accusé de réception roumain de l'instrument d'approbation français",
+      "score": 0.386006,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_700",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.384075,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_050_s1",
+      "title": "Note verbale d'acceptation du Venezuela",
+      "score": 0.383352,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_005_s1",
+      "title": "Ratification",
+      "score": 0.382455,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.380622,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_258_s1",
+      "title": "Note verbale de l'Ambassade royale de Danemark notifiant le retrait de la réserve portant sur l'application de la Convention au territoire des Iles Féroé.",
+      "score": 0.380347,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.380302,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

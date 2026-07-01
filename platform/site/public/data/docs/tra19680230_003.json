@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19680230_003",
+  "title": "Pouvoirs suisses",
+  "year": 1968,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9786,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE CONSEIL FEDERAL SUISSE FAIT SAVOIR PAR LES PRESENTES qu'il a autorisé Monsieur le Ministre E. Die z, Chef du service juridique du département politique et chef de la délégation suisse aux négociations relatives ala conclusion d'un accord franco-suisse concernant la station d'épuration des eaux usées des régions de Bâle et de Saint-Louis-Huningue, à signer l'accord susmentionné au nom du canton de Bale-Ville, sous…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19680230_003.pdf",
+  "source_filename": "tra19680230_003.pdf",
+  "source_sha256": "2e7b83cbcb560e1dc1e5d006a69be969c86887b61da700a4465124ca39126953",
+  "treaty_id": "TRA19680230",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE CONSEIL FEDERAL SUISSE\n\nFAIT SAVOIR PAR LES PRESENTES\n\nqu'il a autorisé\n\nMonsieur le Ministre E. Die z,\n\nChef du service juridique du département politique et chef de la délégation suisse aux négociations relatives ala conclusion d'un accord franco-suisse concernant la station d'épuration des eaux usées\n\ndes régions de Bâle et de Saint-Louis-Huningue,\n\nà signer l'accord susmentionné au nom du canton de Bale-Ville, sous réserve de l'approbation dudit accord par les autorités compétentes de ce canton.\n\nEn foi de quoi, les présentes ont été signées par le Président et le Chancelier de la Confédération Suisse et munies du sceau du\n\nConseil fédéral.\n\nBerne, le 10 août 1968.\n\nAU NOM DU CONSEIL FEDERAL SUISSE :\n\nLe Président de la Confédération,\n\nLe Chancelier de la Confédération,\n\nlulm\n\nIGUI\n\n11760/6",
+      "quality_score": 0.9786,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_850_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.411913,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_003_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.41178,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_850a_s1",
+      "title": "Pouvoirs belges",
+      "score": 0.391592,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.381028,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.378671,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.371447,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_40_s1",
+      "title": "Pouvoirs de signature du Luxembourg",
+      "score": 0.369912,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_436",
+      "title": "Instrument de ratification italien",
+      "score": 0.369475,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_095",
+      "title": "Pouvoirs flamands",
+      "score": 0.369336,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_095",
+      "title": "Procès-verbal",
+      "score": 0.368611,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

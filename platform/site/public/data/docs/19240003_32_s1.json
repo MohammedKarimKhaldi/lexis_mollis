@@ -1,0 +1,60 @@
+{
+  "document_id": "19240003_32_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9038,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "par lui à la majorité des voix, le Gouvernement de Sa Majesté le Roi d'Espagne donne son adhésion aux numéros l et 3 du peregraphe e de l'article ^t du présent Arrangement. Fait à Paris, le 29 Novembre 1924. Pour l'Espazne L.S.signé: ad referendum le Comte de Las Mirandas Pour la France L.S.signé: Herriot H.Queuïille Pour la Hongrie L.S.signé: Georges de Barkéczi Pour l'Italie L.S.signé: Ballerini Pour le Luxembourg…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_32_s1.pdf",
+  "source_filename": "19240003_32_s1.pdf",
+  "source_sha256": "82f71ceb7a4fd09c6ff44bcf7b05b2a8903e3a8455802f9d1763b520289b3f5a",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "396",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "par lui à la majorité des voix, le Gouvernement de Sa Majesté le Roi d'Espagne donne son adhésion aux numéros l et 3 du peregraphe e de l'article ^t du présent Arrangement.\n\nFait à Paris, le 29 Novembre 1924.\n\nPour l'Espazne\n\nL.S.signé: ad referendum\n\nle Comte de Las Mirandas\n\nPour la France\n\nL.S.signé: Herriot\n\nH.Queuïille\n\nPour la Hongrie\n\nL.S.signé: Georges de Barkéczi\n\nPour l'Italie\n\nL.S.signé: Ballerini\n\nPour le Luxembourg\n\nL.S.signé: Bastin",
+      "quality_score": 0.9038,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_37_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.356177,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_27_s1",
+      "title": "Pouvoirs de signature de la Grèce",
+      "score": 0.352392,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

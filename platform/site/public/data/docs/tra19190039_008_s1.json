@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19190039_008_s1",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1919,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9675,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAI D'ECHANGE ::::: Ies goussignés g'étant réunis pour procéder à l'échange des Ratifications du Président de la République Française et du Chef de l'I- tat Polonais sur la Convention relative à l'émigration et à l'immigration signée à Varaorie le 3 Septembre I9I9 entre la France et la Pologne ainsi que sur le protocole, les instrments ont été prodults et ayant été, après examen, trouvés en bonne et due fo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190039_008_s1.pdf",
+  "source_filename": "tra19190039_008_s1.pdf",
+  "source_sha256": "eeb65b50163012a243d218ed50101b125dc01ff7c82c610dea738ad4b8f7e780",
+  "treaty_id": "TRA19190039",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAI D'ECHANGE\n\n:::::\n\nIes goussignés g'étant réunis pour procéder à l'échange des\n\nRatifications du Président\n\nde la République Française et du Chef de l'I-\n\ntat Polonais sur la Convention relative à l'émigration et à l'immigration signée à Varaorie le 3 Septembre I9I9 entre la France et la Pologne ainsi que sur le protocole, les instrments ont été prodults et ayant été, après examen, trouvés en bonne et due forme, l'échange en a été opéré.\n\nEN FOI DE QUOI, les\n\nsoussignés, dûment autorisés à cet effet,\n\nont dressé le présent procès-verbal qu'ils ont revêtu de leurs cachets.\n\nFait à Pario, en double exemplaire le 15 AVrIl I920.\n\nDlerm\n\nMaurice Kamag",
+      "quality_score": 0.9675,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.685858,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.632812,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_15_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.521485,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19290031_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.408328,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.404414,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_008",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.391247,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.379063,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19220022_006_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.378907,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19530025_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.377375,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19550235_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.376308,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

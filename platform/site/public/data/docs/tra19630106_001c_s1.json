@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19630106_001c_s1",
+  "title": "Lettre en réponse sur l'article 6",
+  "year": 1963,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9815,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE LA RÉPUBLIQUR TOGOLAISE PARIS, 1e 10 JuiLlet 1063. Monsieur le Président, Vous avez bien voulu m'adresser, en date de ce jour, la lettre suivante : \"J'ai I'honneur de vous faire savoir que mon Gou- vernement souhaiterait obtenir l'assurance que la référence à la législation en vigueur figurant à l'article 6 alinéa ler de la Convention d'établissement en dato de de jour, ne peut avoir pour effet de subor…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19630106_001c_s1.pdf",
+  "source_filename": "tra19630106_001c_s1.pdf",
+  "source_sha256": "18a38249f69d39b9b3854b78a895020278764752503116903c4f08ce2ffa58e9",
+  "treaty_id": "TRA19630106",
+  "treaty_number": "001c",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE\n\nDE LA\n\nRÉPUBLIQUR TOGOLAISE\n\nPARIS, 1e 10\n\nJuiLlet 1063.\n\nMonsieur le Président,\n\nVous avez bien voulu m'adresser, en date de ce jour, la lettre suivante :\n\n\"J'ai\n\nI'honneur de vous faire savoir que mon Gou-\n\nvernement souhaiterait obtenir l'assurance que la référence à la législation en vigueur figurant à l'article 6 alinéa ler de la Convention d'établissement en dato de de jour, ne peut avoir pour effet de subordonner au\n\nTogo, à l'octroi d'une autorisation la transission de biens par la voie successorale aux ressortissants frangais, qu'il s'agisse de dévolution successorale ab intestat ou testamentaire.\n\nJe vous serais reconnaissant de vouloir bien m'indiquer si votre Gouvernement est d'accord pour préciser ainsi qu'il précède, la portée de l'alinéa ler de l'article 6.j.\"\n\nJ'ai I'honneur de vous faire part de l'accord de mon Gouvernement pour préciser\n\nainsi qu'il précode\n\nla\n\nportée de l'alinéa ler de l'article 6./.\n\nVeuillez agréer, Monsieur le Président,\n\nles a3 su-\n\nrances de ma haute considération.\n\nA Son Excellence Monsieur Nichel HABIB-DELONCLE\n\nSecrétaire d'itat aux Affaires Etrangères\n\nPrésident de\n\nLa Délégation Française.",
+      "quality_score": 0.9815,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630106_001b_s1",
+      "title": "Lettre française sur l'article 6",
+      "score": 0.773095,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001f_s1",
+      "title": "Lettre en réponse sur la subordination des personnels de coopération",
+      "score": 0.399784,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_001e_s1",
+      "title": "Lettre en réponse sur l'article 15",
+      "score": 0.389093,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.384142,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_001d_s1",
+      "title": "Lettre togolaise sur l'article 15",
+      "score": 0.379375,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760094_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.375534,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001d_s1",
+      "title": "Lettre en réponse sur la rémunération des agents de coopération",
+      "score": 0.375126,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_100",
+      "title": "Protocole de signature",
+      "score": 0.374136,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760094_001a_s1",
+      "title": "Lettre française",
+      "score": 0.373783,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001e_s1",
+      "title": "Lettre française sur la subordination des personnels de coopération",
+      "score": 0.368258,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

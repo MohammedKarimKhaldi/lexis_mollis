@@ -1,0 +1,118 @@
+{
+  "document_id": "19480001_09_s1",
+  "title": "Pouvoirs de négociation et de signature de la Belgique",
+  "year": 1948,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.965,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "CHARLES, PRINCE DE BELGIQUE, REGENT DU ROYAUME, désirant arrêter de concert avec les Souverains et Chefs des Etats représentés à la Session du Bureau International des Expositions, tenue à Paris, le 10 mai 1948, un Protocole modifiant la Convention concernant les Expositions Internationales, signée à Paris, le 22 novembre 1928, à ces causes et Nous confiant entlèrement en la capa- cité, le zèle et le dévouement du B…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_09_s1.pdf",
+  "source_filename": "19480001_09_s1.pdf",
+  "source_sha256": "9a943e9b7cd063bc56c3e88d6f0bd64fb9a504b54f31e3bf19b160e824b3f8ef",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "BEL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CHARLES,\n\nPRINCE DE BELGIQUE,\n\nREGENT DU ROYAUME,\n\ndésirant arrêter de concert avec les Souverains et Chefs des Etats représentés à la Session du Bureau International des Expositions, tenue à Paris, le 10 mai 1948, un Protocole modifiant la Convention concernant les Expositions Internationales, signée à Paris, le 22 novembre 1928, à ces causes et Nous confiant entlèrement en la capa- cité, le zèle et le dévouement du Baron Jules GUILLAUME, Commandeur des Ordres de Léopold et de la Couronne, Ambassadeur de Belgique à Paris, l'avons nommé, commis et député et, par ces présentes, le nommons, commettons et députons Plénipotentiaire à l'effet d'entrer en pourparlers avec celui ou ceux qui auront été autorisés de la part des Souverains et Chefs des Etats représentés à la Session du\n\nBureau International des Expositions, tenue à Paris, le 10 mal 1948, pour négocier, établir et conclure ledit Protocole, Nous réservant d'approuver et de ratifier ce que ledit Plénipotentiaire aura st1- pulé, promis et signé, en vertu des présents pleins pouvoirs, con-\n\nformément aux instructions dont 11 est muni.\n\nEn foi de quo1, Nous avons ordonné que les présentes fussent\n\nrevêtues du sceau de l'Etat.\n\nDonné à Bruxelles, le 6 juillet 1948.\n\nPAR LE REGENT :\n\nLe Premier Ministre,\n\nMinistre des Affaires Etrangères,\n\nへ",
+      "quality_score": 0.965,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.435895,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_19_s1",
+      "title": "Pouvoirs de signature de la Belgique",
+      "score": 0.432726,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.431436,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_095",
+      "title": "Pouvoirs belges",
+      "score": 0.427824,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_022_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.418323,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.406986,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.404396,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19920190_095_s1",
+      "title": "Pouvoirs",
+      "score": 0.389846,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_797_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919",
+      "score": 0.388184,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_170_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.385418,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

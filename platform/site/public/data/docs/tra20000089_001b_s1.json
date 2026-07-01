@@ -1,0 +1,84 @@
+{
+  "document_id": "tra20000089_001b_s1",
+  "title": "Plan de délimitation (ensemble une note annexe)",
+  "year": 2000,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "fr"
+  ],
+  "quality_score": 0.949,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "FCHANGE TERRITORIAI FNTRE LA REPUBLIQUE FRANCAISE LA PRINCIPAUTE D'ANDORRE PLAN DE DELIMITATION Certifié conforme le : 71 m. 2000 REF:99178SU + + Actuel tracé de la frontière ! Axe rivière, Ariège ) PRINCIPAT D'ANDORRA com se pareite 472 FRANCE Liberté • Egalité • Fraternité RÉPUBLIQUE FRANÇAISE Perpignan, le 2 1 JUIL. 2000 DIRECTION GÉNÉRALE DES IMPOTS CENTRE DES IMPOTS FONCIER 24 AVENUE DE LA COTE VERMEILLE 6601B…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20000089_001b_s1.pdf",
+  "source_filename": "tra20000089_001b_s1.pdf",
+  "source_sha256": "102bb80045802b1a007158f513f7ff7dfda4f8e41a801b806a50c8bff8211da5",
+  "treaty_id": "TRA20000089",
+  "treaty_number": "001b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "FCHANGE TERRITORIAI FNTRE\n\nLA REPUBLIQUE FRANCAISE\n\nLA PRINCIPAUTE D'ANDORRE\n\nPLAN DE DELIMITATION\n\nCertifié conforme le : 71 m. 2000\n\nREF:99178SU\n\n+ + Actuel tracé de la frontière ! Axe rivière, Ariège )\n\nPRINCIPAT D'ANDORRA\n\ncom se pareite 472\n\nFRANCE",
+      "quality_score": 0.8862,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Liberté • Egalité • Fraternité\n\nRÉPUBLIQUE FRANÇAISE\n\nPerpignan, le 2 1 JUIL. 2000\n\nDIRECTION GÉNÉRALE DES IMPOTS\n\nCENTRE DES IMPOTS FONCIER\n\n24 AVENUE DE LA COTE VERMEILLE\n\n6601B PERPIGNAN CEDEX\n\n8 0468864130 衡. 94 $$151\n\nNOTE ANNEXE AU PLAN DE DELIMITATION\n\nD'ECHANGE TERRITORIAL ENTRE\n\nLA FRANCE ET LA PRINCIPAUTE D'ANDORRE\n\n:\n\nLe plan de délimitation n'appelle aucune observation sauf à faire remarquer que son application entraînera la modification de la limite frontalière représentée sur le plan cadastral en vigueur établi en 1934 sur la base du plan napoléonien.\n\nL'Inspecteur divisionnaire\n\nResponsable de centre\n\nMINISTÉRE\n\nDE L'ÉCONOMIE\n\nDES FINANCES ET DE L'INDUSTRIE",
+      "quality_score": 0.9837,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "INTERCANVI TERRITORIAL ENTRE\n\nLA REPÚBLICA FRANCESA\n\nEL PRINCIPAT D'ANDORRA\n\nPLÀNOL DE DELIMITACIÓ\n\nTerritori de FRANÇe atectat per fintercanvi Suporficie = 15595 m2.\n\nCorticat de conformitat gi: 21 l 2000\n\nFRANCA\n\nDirection des Services Fiscaux deservices constres\n\nESCALA: 1/1000\n\nBRENDA\n\n++++++ Tragat actual de la frontera (EX del rid ariege)\n\nPRINCIPAT\n\nD'ANDORRA\n\nFRANÇA I\n\nCome Parole!",
+      "quality_score": 0.9382,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "Liberté - Égalité •Fraternicé\n\nRÉPUBLIQUE FRANÇAISE\n\nPerpignan, le 2 1 JUIL.\n\n. 2000\n\nDIRECTION GÉNÉRALE DES IMPÖTS\n\nCENTRE DES IMPOTS FONCIER\n\n24 AVENUE DE LA COTE VERMEILLE\n\n66018 PERPIGNAN CEDEX\n\n8. 04 65 66 41 30 ：04 68 66 15 1B\n\nNOTE ANNEXE AU PLAN DE DELIMITATION\n\nD'ECHANGE TERRITORIAL ENTRE\n\nLA FRANCE ET LA PRINCIPAUTE D'ANDORRE\n\nLe plan de délimitation n'appelle aucune observation sauf à faire remarquer que son application entraînera la modification de la limite frontalière représentée sur le plan cadastral en vigueur établi en 1934 sur la base du plan napoléonien.\n\nL'Inspecteur divisionnaire\n\nResponsable de centre\n\nMINISIÈRE DE L'ÉCONOMIE\n\nDES FINANCES\n\nET DE L'INDUSTRIE",
+      "quality_score": 0.988,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": []
+}

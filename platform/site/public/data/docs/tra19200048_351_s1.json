@@ -1,0 +1,170 @@
+{
+  "document_id": "tra19200048_351_s1",
+  "title": "Instrument de ratification grec",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "en",
+    "fr",
+    "pl",
+    "pt",
+    "tl"
+  ],
+  "quality_score": 0.8215,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Srioggros B! Baoys sing Spingay Dryoguro or aurougagndrions is belgar iny 28 Boraguñs lizonparagiao, ins Sappias, ens bia. Açanna i} dodowy 16, is zó minayoy losion: «tooderóurda, ¿guoivours nai tomogaines rio Proding raviny nazá cárras airies rois opronovo, dá eño coi Suerioo Baonion Soppagidos. ч00 (Traduit du grec) GEORGES II Roi des Hellènes Nous déclarons que, après avoir convenu à Sèvres, le 28juillet/10 août…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200048_351_s1.pdf",
+  "source_filename": "tra19200048_351_s1.pdf",
+  "source_sha256": "ea307948b927e4e6d45c3502de26b025a36433d7f9c2f9d780e13f2c29944a96",
+  "treaty_id": "TRA19200048",
+  "treaty_number": "GRE002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Srioggros B!\n\nBaoys sing Spingay\n\nDryoguro or aurougagndrions is belgar iny 28\n\nBoraguñs lizonparagiao, ins Sappias, ens bia.",
+      "quality_score": 0.7784,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "tl",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Açanna i} dodowy 16, is zó minayoy losion:",
+      "quality_score": 0.7619,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pl",
+        "tl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "«tooderóurda, ¿guoivours nai tomogaines rio\n\nProding raviny nazá cárras airies rois opronovo,\n\ndá eño coi Suerioo Baonion Soppagidos.\n\nч00",
+      "quality_score": 0.7786,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "(Traduit du grec)\n\nGEORGES II\n\nRoi des Hellènes\n\nNous déclarons que, après avoir convenu à Sèvres, le 28juillet/10 août mil neuf cent vingt, entre la Grèce, d’une part et l'Empire britannique, la\n\nFrance, l'Italie et le Japon, principales Puissances alliées et associées, d’autre part, d’un Traité à propos de la Thrace composé de 16 articles, dont le texte suit :\n\nNous acceptons, approuvons et ratifions ledit Traité en toutes ses dispositions, et nous promettons d’observer fidèlement le Traité en question,\n\nNous et Nos Successeurs et Diadoques, de ne pas le violer et de ne permettre à quiconque d’autre de procéder à sa violation.\n\nEn foi de quoi, nous avons signé le présent instrument de ratification et nous avons ordonné que le Sceau de Notre Royaume y soit apposé.\n\nFait à Athènes, le 8 octobre mil neuf cent vingt-trois.\n\nSignature (illisible)\n\n(illisible)",
+      "quality_score": 0.9669,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_350_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919 [lieu et date seront renseignés après traduction]",
+      "score": 0.715687,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200049_351_s1",
+      "title": "Instrument de ratification grec",
+      "score": 0.604563,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_351_s1",
+      "title": "Instrument de ratification hongrois du traité, du protocole et de la déclaration",
+      "score": 0.433358,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.372344,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_797_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919",
+      "score": 0.368568,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.368265,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_48_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.36752,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200048_731_s1",
+      "title": "Instrument de ratification britannique du traité entre les Alliés et la Grèce relatif au statut de la Grèce et à la protection des minorités ethniques, du Traité entre les Alliés et la Grèce à propos de la Thrace et du Protocole relatif au traité conclu à Sèvres entre les principales puissances alliées et la Grèce le 10 août 1920 et au traité conclu à la même date entre les mêmes puissances relativement à la Thrace",
+      "score": 0.362146,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_885_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919",
+      "score": 0.362025,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_726_s1",
+      "title": "Instrument d'accession roumain au Traité relatif aux frontières entre les nouveaux États issus de la dissolution de l'Empire austro-hongrois et au Traité entre l'Italie, la Pologne, la Roumanie, l'État serbe-croate-slovène et la Tchécoslovaquie relatif aux relations entre ces États suite à la dissolution de l'Empire austro-hongrois",
+      "score": 0.358928,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

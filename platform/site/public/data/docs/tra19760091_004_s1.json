@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19760091_004_s1",
+  "title": "Instrument français",
+  "year": 1976,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9875,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ripubliquo Fransaise Le Ministre des Relutions Extérieures Paris, le 22 juin 1981 Monsieur le Ministre, Me référant à l'article XIII de l'Accord de Coopération en matière d'information entre le Gouvernement de la République française et le Gouvernement de la République togolaise, signé à Lomé le 23 mars 1976, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République pour l'…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760091_004_s1.pdf",
+  "source_filename": "tra19760091_004_s1.pdf",
+  "source_sha256": "453890901aa048bfef9de26461f9e4cfa1bcd1ab133b3614f9673062feedbdb9",
+  "treaty_id": "TRA19760091",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ripubliquo Fransaise\n\nLe Ministre des Relutions Extérieures\n\nParis, le\n\n22 juin\n\n1981\n\nMonsieur le Ministre,\n\nMe référant à l'article XIII de l'Accord de Coopération\n\nen matière d'information entre le Gouvernement de la République française et le Gouvernement de la République togolaise, signé à Lomé le 23 mars 1976, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République pour l'entrée en vigueur dudit Accord ont été accomplies.\n\nL'instrument de Ratification de la République togolaise\n\nm'étant déjà parvenu, l'Accord entrera en vigueur, conformément à son article XIII, le premier jour du deuxième mois suivant la date à laquelle vous m'aurez accusé réception de la présente lettre.\n\nJe vous serai en conséquence recomaissant de bien\n\nvouloir m'informer de cette date. /.\n\nJe vous prie de croire, Monsieur le Ministre,\n\nl'assurance de ma haute considération.\n\nPour copie certifiée conforme à l'original\n\nA Son Excellence\n\nA Paris, le\n\n....22 juin 1981\n\nMonsieur Anani Kuma AKAKPO-AHIANYO\n\nMinistre des Affaires Etrangères et de la Coopération\n\nLOME",
+      "quality_score": 0.9875,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.87847,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.858343,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.857644,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.844172,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.812474,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.777462,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_006",
+      "title": "tra19760084_006",
+      "score": 0.714569,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.62217,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.588365,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.563297,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

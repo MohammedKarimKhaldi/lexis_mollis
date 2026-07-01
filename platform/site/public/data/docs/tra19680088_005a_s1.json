@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19680088_005a_s1",
+  "title": "Note verbale n° 560-102 portant approbation",
+  "year": 1968,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9996,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "- --: - →- AMBASSADE DE LA REPUBLIQUE DE TURQUIE 560-102 L'Ambassade de Turquie présente ses compliments au Minis- tère des Affaires Etrangères, Direction des Relations Culturelles, Scientifiques et Techniques, et se référant au projet d'accord qui a rencontré l'agrément des délégations turques et françaises réunies à Ankara le 10 Mars 1992, a l'honneur de Lui rappeler que l'Accord de Coopération Technique et Scient…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19680088_005a_s1.pdf",
+  "source_filename": "tra19680088_005a_s1.pdf",
+  "source_sha256": "10f476f7ddc3e97f7506bf910dff9d92dfc1d6ea73ebab1ba2022e8b5879bcca",
+  "treaty_id": "TRA19680088",
+  "treaty_number": "005a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "- --:\n\n- →-\n\nAMBASSADE DE LA REPUBLIQUE\n\nDE TURQUIE\n\n560-102\n\nL'Ambassade de Turquie présente\n\nses compliments au Minis-\n\ntère des Affaires Etrangères, Direction des Relations Culturelles,\n\nScientifiques et Techniques, et se référant au projet d'accord qui a rencontré l'agrément des délégations turques et françaises réunies à Ankara le 10 Mars 1992, a l'honneur de Lui rappeler que l'Accord de Coopération Technique et Scientifique du 29 Octobre 1968 a été ratifié par le Gouvernement turc en date du 4 Avril 1969 et est entré en vigueur à partir du ler Août 1969 suivant sa publication dans le Journal Officiel.\n\nL'Ambassade de Turquie saisit cette occasion pour renouveler au Ministère des Affaires Etrangères, Direction des Relations Culturelles, Scientifiques et Techniques, les assurances de sa haute considération.\n\nParis, le 18 Mars 1992\n\n~\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nDirection des Relations Culturelles, Scientifiques et Techniques\n\nPARIS",
+      "quality_score": 0.9996,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19680088_005b_s1",
+      "title": "Note verbale constituant instrument d'approbation",
+      "score": 0.430069,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_921_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.412243,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.407092,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.399973,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19680088_007_s1",
+      "title": "Accusé de réception de l'instrument français",
+      "score": 0.390576,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_015_s1",
+      "title": "Note verbale d'acceptation de l'amendement de 1988",
+      "score": 0.387026,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_049_s1",
+      "title": "Note verbale d'acceptation de la Tunisie",
+      "score": 0.386904,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.386549,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_006",
+      "title": "Accusé de réception qatari de l'instrument français",
+      "score": 0.38635,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.383823,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

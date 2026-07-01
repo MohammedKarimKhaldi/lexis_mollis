@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19630106_001d_s1",
+  "title": "Lettre togolaise sur l'article 15",
+  "year": 1963,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9645,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE LA RÉPUBLIQUE TOGOLAISE Paris, le 10 Juillet 1965. Monsieur le frésident, J'ai l'honneur de vous faire savoir que non Gouvernement interprète les dispositions de l'article 15 de la Convention d Giablissement on date de ce jour, comme ne portant pas atteinte à la faculté pour chacun des doux Etats de conclure, le cas échéant, avea des pays tiers des accords prévoyant des droits ou avantages analogues à c…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19630106_001d_s1.pdf",
+  "source_filename": "tra19630106_001d_s1.pdf",
+  "source_sha256": "f036aa768b7416c6613fc8c7a7a409de2434303d0fab0b4c9a4973bb87a7daae",
+  "treaty_id": "TRA19630106",
+  "treaty_number": "001d",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE\n\nDE LA\n\nRÉPUBLIQUE TOGOLAISE\n\nParis, le 10 Juillet 1965.\n\nMonsieur le frésident,\n\nJ'ai l'honneur de vous faire savoir que non\n\nGouvernement interprète les dispositions de l'article 15 de la Convention d Giablissement on date de ce jour, comme ne portant pas atteinte à la faculté pour chacun des doux Etats de conclure, le cas échéant, avea des pays tiers des accords prévoyant des droits ou avantages analogues à ceux privus par la présente Convention.\n\nJe vous serais reconnaissant de voulcir bien me faire part de votro accord sur ce qui précède...\n\nVeuillez arréer, onsieur le irésident, les assurances de ma haute considération.\n\n越～人\n\nA Son Excellence consieur Michel ABIR-DELONGLE\n\nSecrétairo d'itat aux Affaires Etrangèros\n\nPrésident de la Délégation Francaise.",
+      "quality_score": 0.9645,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630106_001e_s1",
+      "title": "Lettre en réponse sur l'article 15",
+      "score": 0.456962,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_001b_s1",
+      "title": "Lettre française sur l'article 6",
+      "score": 0.411699,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001e_s1",
+      "title": "Lettre française sur la subordination des personnels de coopération",
+      "score": 0.403595,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_001f_s1",
+      "title": "Lettre en réponse sur la subordination des personnels de coopération",
+      "score": 0.394548,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.385069,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.383995,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.383649,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750103_100_s1",
+      "title": "Publication au Journal officiel du",
+      "score": 0.38346,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470022_001_s1",
+      "title": "Traité (ensemble 1 échange de lettres a/s rapports consulaires)",
+      "score": 0.382572,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.382257,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

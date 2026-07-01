@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19640081_008",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1964,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9941,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": ": PROCES-VERBAL D'ECHANGE DES INSTRUMENTS DE RATIFICATION DE LA CONVENTION D'ETABLISSEMENT ET DE NAVIGATION ENTRE LA FRANCE ET L'IRAN SIGNEE A TEHERAN LE 24 JUIN 1964 Son Excellence Monsieur Massoud DJAHANBANI, Ambassadeur Extraordinaire et Plénipotentiaire d'Iran, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Jacques SENARD, Ministre Plénipotentiaire, Chef du Protocole,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19640081_008.pdf",
+  "source_filename": "tra19640081_008.pdf",
+  "source_sha256": "959e968e06f4da465a6d8edf21b349a29b5e40426a36ecf15da3d86b94172f3f",
+  "treaty_id": "TRA19640081",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ":\n\nPROCES-VERBAL D'ECHANGE\n\nDES INSTRUMENTS DE RATIFICATION\n\nDE LA CONVENTION D'ETABLISSEMENT ET DE NAVIGATION\n\nENTRE LA FRANCE ET L'IRAN\n\nSIGNEE A TEHERAN LE 24 JUIN 1964\n\nSon Excellence Monsieur Massoud DJAHANBANI,\n\nAmbassadeur Extraordinaire et Plénipotentiaire d'Iran, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec\n\nMonsieur Jacques SENARD, Ministre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, à l'échange des\n\nInstruments de vatification de Monsieur le Président de la République\n\nFrançaise Président de la Communauté, et de Sa Majesté Impérial e le Chahinchah Arvamehr, de la Convention d'établissement et de navigation entre la France et l'Iran, signée à Téhéran le 21 juin 1964.\n\nLes Instruments avant été, après examen,\n\ntrouvés en bonne et due forme, il a été procédé à leur échange.\n\nEN FOI DE QUOI, les soussignés ont dressé le\n\nprésent Procès-Verbal qu'ils ont revêtu de leur Sceau.\n\nFAIT à PARIS, en double exemplaire,\n\nle 4 septembre 1969.%\n\nu. trahanbau",
+      "quality_score": 0.9941,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19610286_008_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification du Traité",
+      "score": 0.607468,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_698",
+      "title": "Procès-verbal de dépôt de l'instrument néerlandais",
+      "score": 0.569515,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_36_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.555699,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.504893,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_008",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.410821,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.394672,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000089_006_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.391235,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640081_005",
+      "title": "Instrument de ratification iranien",
+      "score": 0.386772,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_403_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Inde",
+      "score": 0.380132,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19550235_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.376047,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

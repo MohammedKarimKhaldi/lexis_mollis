@@ -1,0 +1,70 @@
+{
+  "document_id": "tra19520029_103_s1",
+  "title": "Lettre française précisant la portée de l'accord",
+  "year": 1952,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8449,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "MELZES 15 MARS 1977, 1245 Le Ministère des Alfatres Cerangères prísente ses compl toenta à la Légation de Monaco et a Ithonneur de se rAfrer À la Convention gin/ralo de s/curité soclale du 28 février 1952 guí a 6bÁ conclue entre la Franco et 1u Légation de Menaco. Conne Le palt la L/gation de Monaco, M'artiete 2 (pac. 3b) de la Convention précitfo dispose que celle-ci ne •tapplique aux actes 1/g4slatirs ou reglement…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19520029_103_s1.pdf",
+  "source_filename": "tra19520029_103_s1.pdf",
+  "source_sha256": "daa37bd26e921bf51ebbd35881dea297d5401a485050a819f2872f7fcd56bf44",
+  "treaty_id": "TRA19520029",
+  "treaty_number": "103",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MELZES\n\n15 MARS 1977, 1245\n\nLe Ministère des Alfatres Cerangères prísente ses\n\ncompl toenta à la Légation de Monaco et a Ithonneur de se rAfrer À la Convention gin/ralo de s/curité soclale du 28 février 1952 guí a 6bÁ conclue entre la Franco et 1u\n\nLégation de Menaco.\n\nConne Le palt la L/gation de Monaco, M'artiete 2\n\n(pac. 3b) de la Convention précitfo dispose que celle-ci ne •tapplique aux actes 1/g4slatirs ou reglementatres qui étendent les régines existants & de nouvelles cat/jortes de bendriciaires que s'il n'y a pas & cet égard opposition de l'une ou l'autre des partles contractantes notfrife dans\n\nLes trois nola à compter de la publication officlelle desdita actee.\n\nUsant de la faculté qui lui est ouverte par cette\n\ndisposttion, le Ministère des Afatres Etrangères a 1 'hond neur de fatre savote à da bigation de Monaco que 1a\n\nConvention g/nérale de sécuritf socialo du 20 Mevefer 0952 ne s'appliquera pas à la Iot nº76-1267 du 31 décembre 1976 publiée au Journal orficlel de la Mpublique frangaise 20\n\nLECATION DE TONACO\n\n2 Rue du Consolller Collionon 750 18, BARLS",
+      "quality_score": 0.8222,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ter Janvier 1977, relative à la situation au regard de la sécurité sociale des travallleurs frangals a 2 4tranger./•\n\nte Miniature des Affatres Etrangères saisie\n\ncette occasion pour cenouveler à la Légation de Monaco 1ca assurances de sa haute considération.\n\nSA750 D",
+      "quality_score": 0.8676,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19520029_102_s1",
+      "title": "Lettre monégasque précisant la portée de l'accord",
+      "score": 0.411959,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

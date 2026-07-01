@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_25_s1",
+  "title": "Note verbale de demande d'adoption d'un statut d'Etat observateur pour la Finlande",
+  "year": 1924,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9826,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE FINLANDE MINISTERE DES AFFAIRES I TEAMULRES NATIONS UNIES 23. JUIN 1932] ET ORSAMISATOKS LTERMATIGHALES R7 L'Ambassade de Finlande présente ses compliments au Ministère des Affaires Etrangères et, se référant à l'article 6 l'arrangement portant sur la création, à Paris, d'un Office International de la Vigne et du Vin du 29 novembre 1924, a l'honneur, au nom du Gouvernement finlandais, de présenter la de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_25_s1.pdf",
+  "source_filename": "19240003_25_s1.pdf",
+  "source_sha256": "55d33a5c15add06ed700e74400b610810fa83f8573a81f950a7cb3ef4af5d23f",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "FIN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DE FINLANDE\n\nMINISTERE DES AFFAIRES I TEAMULRES\n\nNATIONS UNIES\n\n23. JUIN 1932]\n\nET ORSAMISATOKS LTERMATIGHALES\n\nR7\n\nL'Ambassade de Finlande présente ses compliments au Ministère des\n\nAffaires Etrangères et,\n\nse référant à l'article 6\n\nl'arrangement portant sur la création, à Paris, d'un Office\n\nInternational de la Vigne et du Vin du 29 novembre 1924, a l'honneur, au nom du Gouvernement finlandais, de présenter la demande d'adhésion de la Finlande à ladite organisation, à raison d'une unité de cotisation. En outre, l'Ambassade se permet de proposer que soit accordé à la Finlande un statut d'observateur dans le cadre de la convention internationale du 13 octobre 1954 pour l'unification des méthodes d'analyse et d'appréciation des\n\nAuprès de l'Office International de la Vigne et du Vin, la\n\nFinlanda sera représentée par la société nationale OY ALAU Ao, qui sera chargée de tou'es questions et obligations relatives à cette organisacion.\n\nL'Ambassade de Finlande remercie d'avance le Ministère des\n\nAffaires Etrangères de Sa bienveillante entremise en cette affaire et saisit cette occasion pour\n\nlui renouveler les\n\nassurances de sa haute considération.\n\nParis, le 18 juin 1992\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nDirection des Nations Unies et des Organisations Internationales\n\nParis",
+      "quality_score": 0.9826,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_50_s1",
+      "title": "Note verbale de demande de transmission de la candidature des Pays-Bas aux autres Etats participants",
+      "score": 0.411284,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_054_s1",
+      "title": "Note verbale de transmission de la déclaration d'acceptation de la Finlande",
+      "score": 0.400587,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_652_s1",
+      "title": "Note de transmission de l'instrument norvégien",
+      "score": 0.390717,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_47_s1",
+      "title": "Note verbale de demande d'adhésion de la Norvège",
+      "score": 0.38995,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.387173,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_28_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Finlande",
+      "score": 0.386659,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19240003_62_s1",
+      "title": "Notification à la Syrie de l'acceptation de sa candidature à l'adhésion",
+      "score": 0.385412,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_033_s1",
+      "title": "Note verbale du dépositaire à l'Ambassade d'Allemagne fédérale à Paris relative à la déclaration allemande du 17 décembre 1959",
+      "score": 0.385404,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_06_s1",
+      "title": "Note verbale d'adhésion de l'Afrique du Sud",
+      "score": 0.385064,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_060_s1",
+      "title": "accusé de réception par l'Institut international du Froid de l'adhésion d'Israël",
+      "score": 0.382392,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19720042_100",
+  "title": "tra19720042_100",
+  "year": 1972,
+  "doc_type": "Inconnu",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9476,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES No. 22685 CERTIFICATE OF REGISTRATION The SECRETARY-GENERAL of the UNITED NATIONS hereby certifies that the following international agreement registered with the Secretariat, in accordance with Article 102 of the Charter of the United Nations: CERTIFICAT d'ENREGISTREMENT Le SECRETAIRE GENERAL de 1 'ORGANISATION des NATIONS UNIES certifie par la présente que l'accord in…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Inconnu",
+    "instrument_type:unknown",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19720042_100.pdf",
+  "source_filename": "tra19720042_100.pdf",
+  "source_sha256": "8139454e1163d284a3a4191cb6c22aa0352fa833e434d3a38cc81038652ea752",
+  "treaty_id": "TRA19720042",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES\n\nNo. 22685\n\nCERTIFICATE OF REGISTRATION\n\nThe SECRETARY-GENERAL of the UNITED NATIONS hereby certifies that the following international agreement registered with the Secretariat, in accordance with\n\nArticle 102 of the Charter of the United Nations:\n\nCERTIFICAT\n\nd'ENREGISTREMENT\n\nLe SECRETAIRE GENERAL de 1 'ORGANISATION des NATIONS UNIES certifie par la présente que l'accord international indique ci-aprês a été enregistré\n\nSecrétariat,\n\nconformément à\n\nl'Article 102 de la Charte des Nations Unies :\n\nNO-\n\n15884- FRANCE AND PERD:\n\nscientific\n\nAgreement on cultula 29 March 1972\n\nand technical co-operation.\n\nSiqned at Paris on\n\nRegistered by France_on 30. August_1977-\n\nNO 15884. PRANCE ET PEROU :\n\nccord culturel et de coopération scientifique et technique igné à Paris le 29 mars 197\n\nEnregistré par la France le 30 aott 1977.\n\nDone\n\nYork on 30\n\nJanuary 1981\n\nPor the SECRETARY-GENERAL:\n\nPour le\n\nSECRETAIRE GENERAL :\n\nPait & New York le 30 janvier 1981\n\nUNITED PATIONS\n\nle Corseiller juridique:\n\n墊.",
+      "quality_score": 0.9476,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19730089_104",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.663782,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_100_s1",
+      "title": "Certificat ONU d'enregistrement de l'accord",
+      "score": 0.600854,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.457051,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19680088_101_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.452683,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_100_s1",
+      "title": "Certificat ONU d'enregistrement du Traité",
+      "score": 0.451282,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.441793,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760090_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.438511,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.435347,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19820004_990_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.434149,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810127_011_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.433866,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "document_id": "tra19560090_435",
+  "title": "Procès-verbal de dépôt de l'instrument italien",
+  "year": 1956,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "en",
+    "it"
+  ],
+  "quality_score": 0.9409,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Multilateraus 27 Octobre 1956 REPUBBLICA ITALIANA MINISTERO DEGLI AFFARI ESTERI Ufficio Trattati ed Atti OGGETTO Plins pouvoirs italiens Posizione T Roma-Lo Tipografica Ord. 106 del I1 9-45 c. 6.000 A tutti coloro che le Presenti vedranno, Salute. L'Ambasciatore Antonio VENTURINI è per le Presenti da Noi eletto e nominato Nostro Plenipotenziario per la firma di un Trattato recante modifiche al Trattato istitutivo de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_435.pdf",
+  "source_filename": "tra19560090_435.pdf",
+  "source_sha256": "b1a623eef347e415fff360d49126663faef67cfd4df534fdc35c79b2c6e68262",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "ITA003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Multilateraus 27 Octobre 1956\n\nREPUBBLICA ITALIANA\n\nMINISTERO DEGLI AFFARI ESTERI\n\nUfficio Trattati ed Atti\n\nOGGETTO\n\nPlins pouvoirs italiens\n\nPosizione T\n\nRoma-Lo Tipografica Ord. 106 del I1 9-45 c. 6.000",
+      "quality_score": 0.9342,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "A tutti coloro che le Presenti vedranno, Salute.\n\nL'Ambasciatore Antonio VENTURINI è per le Presenti\n\nda Noi eletto e nominato Nostro Plenipotenziario per la firma di un Trattato recante modifiche al Trattato istitutivo della Comuni- tà europea del carbone e dell'acciaio firmato a Parigi il 18 aprile 1951, in relazione alla nuova situazione della Sarre.\n\nA tale scopo conferiamo all'Ambasciatore Antonio VEN-\n\nTURINI Pieno Potere ed ogni necessaria autorità,\n\nIn fede di che, Noi abbiamo di Nostra mano firmato le\n\nPresenti e vi abbiamo fatto apporre il Nostro sigillo.\n\nDate a Roma il 24 del mese di oltole dell'anno mille -\n\nnovecentocinquanta ne.\n\nستنا و",
+      "quality_score": 0.9476,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_54_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.555379,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_09_s1",
+      "title": "Résolution des Etats-membres du CERS/ESRO sur l'adhésion des Pays-Bas (Document sans lieu ni date)",
+      "score": 0.537202,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_061_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.391709,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_36_s1",
+      "title": "Pouvoirs de négociation et de signature de l'Italie",
+      "score": 0.383153,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630134_003",
+      "title": "Pouvoirs italiens",
+      "score": 0.381903,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_435_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.38042,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_24_s1",
+      "title": "Pouvoirs de dépôt de la ratification italienne",
+      "score": 0.372659,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_smr002_s1",
+      "title": "Pouvoirs à l'ambassadeur de Saint-Marin à Paris de dépôt de l'instrument d'adhésion",
+      "score": 0.370742,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_ita001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.360499,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_20_s1",
+      "title": "Pouvoirs de signature de la Grèce",
+      "score": 0.357055,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

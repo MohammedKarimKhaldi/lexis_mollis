@@ -1,0 +1,667 @@
+{
+  "document_id": "tra16630006_005_s1",
+  "title": "Ratification danoise",
+  "year": 1663,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "en",
+    "fr",
+    "it",
+    "pt",
+    "ro"
+  ],
+  "quality_score": 0.8517,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "ARD 101| v3 ligné a dans parta HannibalIchestent a le i fe feurier bez: Ratifié par le Roy de Dann aloppenhaque le as aurie coty +\" cw SI ML M Y EN TE ett 6, td ML, . + e d 240 - P - 4 ca aec Ee o ect MN TT. — NE n— 2$ 9 tt me amont nee a und AR D . LA E ARD 101| v3 IRD 101| v3 o Nanin CrDODICrM Drcimúm ¿varrúm, садет DES gratia,Fran, acid iteN avarra Regem Christianissimúm, hoc tempore Lorqatus extraordinarius, spe…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16630006_005_s1.pdf",
+  "source_filename": "tra16630006_005_s1.pdf",
+  "source_sha256": "263013d3402ae8b65a9d14fff3d17f948e25b8ee495842810677983df304e708",
+  "treaty_id": "TRA16630006",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ARD 101| v3\n\nligné a dans parta\n\nHannibalIchestent a le i fe feurier bez:\n\nRatifié par le Roy de Dann aloppenhaque le as aurie coty",
+      "quality_score": 0.7311,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "+\" cw\n\nSI\n\nML\n\nM\n\nY EN TE\n\nett 6, td\n\nML,\n\n. + e d\n\n240 - P\n\n- 4\n\nca aec Ee o ect\n\nMN\n\nTT.\n\n— NE n— 2$ 9 tt me amont nee a und\n\nAR\n\nD\n\n. LA\n\nE",
+      "quality_score": 0.6426,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "ARD 101| v3",
+      "quality_score": 0.7387,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "IRD 101| v3\n\no Nanin\n\nCrDODICrM Drcimúm ¿varrúm, садет DES gratia,Fran, acid iteN avarra Regem Christianissimúm, hoc tempore Lorqatus extraordinarius, speriali mandaro; quo infra inseretur a Jacra Fol, « qia d bajestate Cania munitus, ex una parzc, Ct Viri ellustri.\n\nsimi atas Excellentissimi, Domini ACMriCUS Sugustus deLoo \"mienic, Comes de Brienne ct de Montbron, c bichačl Le Sellicr.\n\nMarchio de Gouuois, Dominus de Shauille, altememorato deqlshristiamissimo a Sanctioribus confilis arcaris et mancatis hr agrorun Oroinim canmeniatary ct Stars administri, Sugo de Gionnc, Marchio r FTSne Dominus д Berny, сідст Regi à Sancrioribus confilis ct arcanis Kegiorum, item Ordinuin Gom ,, i mendatarius et Status administer, kt clohannes Daptista\n\nGolbert, Barg de Scignelay, in Regio Consilic Orary Gallici Cor\n\nspeciali quoque ad id mandato, quod iifra. It1\"-\n\n„vencřúnt simul confenfcrúniqve, in hoc mutui-foderis Instrumen ‹túm, quo amicitia inter Sirénislimum Rigei Dania. Christia,",
+      "quality_score": 0.9335,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "ARD 101 l\n\nqam florentissima renderehtir, atga it id fiat prosperras succedat, wigo.\n\nre plenisfima potestatis utrings exhibita àe probata, de rqventibus Articu 'Lis inter vtrarúmas partiém S'Leniporentiarios et Gonmisfarios conven, \"temest.",
+      "quality_score": 0.7937,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "RD 101 | v3\n\n\" pere possit per se vel per alios committet. fed potitis alteriús com.,\n\n„ moda et útilitatem, qvantúm in se crit, promovibit.\n\n'Ал.\n\nibditi if Incola vitriusas Corona tam exteri quam in.\n\nbere commeent, et facultatem ha, brant tam Pace quam Bello absos illo impedimento altcrutrius Regna,\n\nProvincias, Emporia, Portus de flimina liberc adcúndi ibidemos com, v morandi et Contercia Sua cacřcendi, durmodo vectigalia confvcta_\n\nSolvant, salvis tamen füribus rt Grivileays cujúscungs loci.\n\nNIN.\n\navim utrisque forona ingredientium Portúm afre, rútriüs, gratús sit adventús cægs benigne nabcantur, diccatasillis mere ciasibidem venales exponero, alias comers et pro libitủ commercar\n\nSalvis tamen qvoque Leqibus cujuscungs Loci.\n\n19\n\ngenissimi Reais Dania Subditi in falliam venien «cafionem commorandi Negotior im propriorúm vel frincipaliúm\n\nSuorům, mercaturam art alid avid concernentium gratia, con ,\n\nconcesso.\n\nSubditi úrisqu Corone per Mar Commeria excretes r",
+      "quality_score": 0.9685,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it",
+        "pt"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "ARD 101| v3\n\ntem habcant iter suum absos impedimento vel'ulla detentiont cinas relierine prosegrent, neds pomim ingressi bidemos subsisten.\n\n\"tes cogantir merres suas exonerare, commutare vel vendere, sed licitim illis sit de allis pro lubiti disponerr, et quiovis aliud prout rebús suis\n\ncontinuandum iter suum vel contra vim intentatatrope ct rebús — arquibus indiquer int crunt auxilio ai commodo quantim poteriént.\n\nVIL. ส\n\nares (allica al ad Gallos pirrinentes, zel ab illis con, „dúcta, vel onusta, freta Oresindicum et Balthicum transcuntes,",
+      "quality_score": 0.9653,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "RD 101| v3\n\nruchintur durante supradicto Diginti triúm Annorim spatio crs « abi Mauso anando Literas, qua Ipsis commatus of Vectigalis NO i ‹ mine concroentir, exhibuerint, plenaria fides habebitir, et solito Deinde portiali also gotentione aút molestia ula, libere discident, neas prope i\n\nHafniam in loco dicto Den Drooacn diútius commorari tencbun..\n\n¿Ovod si vero inposterúm (ctrnissimo Scai Dania, in Vecti „ gali cxfolvendo, frauden, infúriamve inferri percipiatur, Christianıssi „ hanús Rex id cdoctus aros rogatus miia gudcungs optima excogitahit, et vantúm fieri poterit, cavebit no qvid frgia Dania elLajestati quan\n\nvad agram jistúmas est accida\n\nONDCYNUM quogset Poncordatúm rst, quor Galli\n\nNerrators in transitu Sio per fortúm Oresundicum fruentur benc\n\nboastimate\n\n* ٤٣ ٤٤٩ militate treme\n\nЕадст",
+      "quality_score": 0.9232,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it",
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "ARD 101| v3\n\nХАЛ.\n\ndrem qvogre Nans transactionam ek copeditionem blapıid Elsingbram quaicito applerint, absas dilatione recipi, in ca parti habentibus, exreptis Navibus carúm Natiohúm, qvibus pra 'Latio pradicta concessa fuit, a Sezemissimo Rege Dania, pet anteriore\n\nPrivileg.",
+      "quality_score": 0.9488,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it",
+        "en"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "3007\n\nHirt\n\nARD 101| v3\n\nPrivilegio gro Subditi Ordimm Confoderati Belaü gardent, vi (ractatuim initorum inter Sirenissimum Pcaem Patria, Eosdemqs\n\nOrdines, Die A3 Sugústi anni A 645. ct diè AL Februarÿ, Snni_ sunta, minuis bo faptai im istorim egibis xatté se conforment,\n\nLaves Sbditonim Regis hristianissimi, cúm M-ribus ef.\n\net oppida sub Serenissimi Regis Panic Dominio ad Ripam Albis Flivy excepto tantúmmooo casú scrútătionis tempore Belli, qvando C erenissi « « můs fex Dania: bellim habet cum alo quocings Rrgcvelestatú .\n\nopilis eStl s am Dana Galina\n\nXVI.\n\nCommonanido nce non piscando ot reqoianoo ceterisas ysdem libertatibus,\n\nImmúnita:",
+      "quality_score": 0.9049,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "ca",
+        "pt"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "ARD 101l\n\n«Horum, enlorumir camum Marinorum in kronis acTominis ejusen senis Christinnissimi venmint, Serenissimus wex Plania, omnem favorims pilsiin jstem ters pingenem Balanarim, alokumas piscien lige firera pacant, paciscentes cum Indigenis de loco dime emptione Lignorutn\n\nbasinalys nibil i pradicium henlarum perpetretir Sala Serenisfin\n\nRegis Damian Reanis, Provincis, Principatibus atas Tergitoris Stils, SUn peroritate de fure, elatis tiam it illasis manentibus Privilegys cortis Oppidis, certisus neratorim it Cininn efocictatilés à Rcqia Sia Na jestate concessis.\n\nin grantim harestrictiones cateris hujisce Tractatus Articulis non furrint contraria\n\nunt illorinn spectant, tuebitu\n\nita us Ghristianissimus fix Sirditis ac Civibus Serenissimi Regis Dania u omma, concessurus sit, que Ipsorun Comarurcia in Icgnis ac Cominis Sil sromevere poterint, sicut ctiam depenisfinús Rex\n\nGhristianissimi Regis in omnibus rebús, quibus illorum. Negotiationes auger\n\nSDEM in finem RexChristianissius operam, on bit, it Subdiri Sir, mer\n\nItem",
+      "quality_score": 0.9105,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "ARD 101| v3\n\nau?,\n\nadindi, atps in isdem mercatüram exercendi, negsa hristiamsjim fegis Cubditis, Ejusvemgsaut Corúndem Navibus, cugiiscing; illa\n\nabservabitier.\n\n320 facilis exccitioni mandentr supraforisa, conventim cst, 9900 Ravigia cubaitorum alterütrius Prais, quemcungs alterius Por \"tum, ex quo Inimicorum estationes sci fortis peterr constitcrint, ingres + sa, Prafectis solumanodo Partus istius exchibeto tonchintir Piplomata\n\nSui Salvi Concúctús Indicem Bonorim et mercium, apris anista_ runt contnentia, qu003 versus itr? suurn intencerint\n\nacclarantia,et\n\nsubscriptione, sigillogsusitato officialiúm edmiralitar\n\nristius Loci, ex\n\nquo primo folverint, múnita modo et forma confretis, qualexhibitione fa, \"cra nulla ratione poterunt ultrrius detinen, vilitari, aut Imperimentur\n\nranür prateari id fiat, Jasis arterr\n\npoterit\n\nVOD Si Ibarrs Mercatoria Damica Mars Gallicas Bellicas, cu Rigias scu Privaras concessa arid, potestate armatas oliam habie,\n\nclini jactim accenere non debebint, sen dues vel tres Viros tantum Scapha impositos ad cas mittent, quibus per Prafectim fine ellagistrim naur.\n\nLitera",
+      "quality_score": 0.9733,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "ARD 101| v3\n\ntrra Salvi Conpúctis exhibebintúr modo ct forma visitatis, qva\n\nScilicct disertis verbis non modo onus Nauticum, sco rtiam Ipsius Navis cL\n\nMagistri nomen, Locuimo domicily exprimant, úti hac ratione liqvido onstet, utrumne mercium prohibitdrum aliqvi vehatur, qvibús Salur\n\nCondcrus literis et Diplomatibus omnimoda fides adhibrbitúr, corúmo\n\n_ СОЛІ.\n\nA, tas ambonim ugum Sükarorin foirari plonius - (r acei ni i nenp acion illa ostander ta i oai,,\n\ncamituis caet perepti e perpinbi oma lejusta conseita fioz\n\nCímiliter omnibus Screnissimi Fcgis —\n\nLana vam Delicarum rafectis, cf alÿs, qvibiscúngs Cis Sül ditis fevere sub isdem panis injúngerúr ef mándabitur, ne molestia aút\n\nXEII.\n\n1 in cictis Mavibus mercarorys versus dictas Stariones ac Sortís — iter siuim intententibus inventa fuerint bona quadam aut Merces, qua in prohibitis habintúr, ha Merces sola et bona, Navibús cxempra co »\n\n\"ram competentibus istius loci rerum maritimarúm judicibus fiscoadar.\n\n«centúr neas ca de causa vel ipsúm navigiúm vel měrces alia ot bona \" non prohítita in co contenta retincri, aut fisco applicari poterunt .\n\nHEIS.\n\nvep s'atritris prone naura fidtiran alamn qanda merilis.",
+      "quality_score": 0.9152,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "ARD 101| v3\n\nHIS.\n\nikhor zero mercium veritarum numero intelligantur solummod comprehensa esst Arma five illa Ignifera fuerint, sive alius generis cum\n\n« ces Loricati, Bipennes, hasta, spicula, misstia, Eqvi, Ephippia, Sclopc \" «theca, balthei ct demúm qvacúnas alia úsui bellico infervientia !\n\n«telligi vel comprehendi deberit frumenta cupiscunas generis vel spo « cieh sint, multò minus legúmina, Olcum Vinim, sal ețúno verbo aque as aliarum merrium, imo in ca ipsa lora qua ab alterútrius Ini,\n\nonventum pretera so Concendarim est.",
+      "quality_score": 0.9742,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "ca"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "CARD 101| v3\n\na ribaitis Sermisfimi Regis Dania Mavibis ad hostes .\n\n« nissimi Siegis pertinentints imposita reperientúr etiam si merces con,, «trebanda fit; vocant, non fuerint fiscó addicentir cum omnibus rebus = vibris onista fuerint, quorungs Demum nomine illa venient, núlla excepta\n\nDicissim idem dictúm esto de rebus qua à Subditis Christianissimi Segis.\n\nSerenisfimi Dania fcgis pertinúcrit; Exceptis tamen útrobios mercibus con \"trebanda dirtis, qva (teúnaúm Normam in pracedentibus Articulis positam,\n\nWHITIII.\n\naves Billeritriusos Corona five finguila, sive mimero dia vel tres, omnes fortus alterutrius Regni ingredianter ibiqve benignè cxcipiantér_ potrstate ipsis facta necesfaria sibi pro númerata pecúnia comparandi, si'_ vero majori sint numero et vel tempestate vel alia non pravija occasione co.\n\n\"gantur, St-se in tutum veripere, nor minis licitum crit illis ibidem tuto com.\n\nНЕЛН.\n\ntellica alone mercatoric in fornébris alterútriús .\n\nLegum inventa non cogantúr ar militiam vel verneram absos confensu, siv\n\nDicti Sorgis aù quer pertinent, sive Civis aut Naucleri, etiamsi Srafectus Na «VIS COn enstrit.\n\nHES.\n\nradictis jsdem Mavibris Bellicis alterútries Regis liberrim erit alte»",
+      "quality_score": 0.968,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "it"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "IRD 101|\n\nxcorúm Grafecis, qvibris cfiam Naviúm S'rafecti caufam adver»\n\n\"tus Sui ct Commorationis lignificare tencbúntér.\n\nnrro\n\ncni socip aransipse tiam mars merat oct pona inilami oe vel alterius parris quidquam auferri potirit, nisi confenticntibus ipsis ct volentibus Bersolutoos Dominis carúm rerim aut mercum pretio qvoo ta qvibuscungs aljs de carisis impositis non inteligetir, in quibues sccúénoum uistitia Leguimas prascriptum omnimode proredetur",
+      "quality_score": 0.9373,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "pt"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "CARD 101| v3\n\ncomparare, args iterim alsasullo Imperimenro vet forútatione merrim aut Sarcinarim ex Navi vel Navibus offerant, arét venale expo \"nant, nihilas fecerint quo degibus, Statútis aút confortidinibus istirs locr\n\nXXXIT.\n\nCOLM neuter permittet aur zelerabizzizi milla Mavis size bellica, five alia in usum cujuscinas frincipis, keipublica aut\n\nCivitaris armata in Portúbis, Stationibus aut fliminibs sais alteris sub „aitorum naves capiar Ladatue, Ja zerò si prater expectation em contigerit\n\nRegúm alteriter interposita authoritate laso restitutionem aút dammi com, pensationin ex aquo et bono daricurabit. erres\n\nyratas et fradones ICCIO ve\n\nut prehendantur, ct cum párticipibus ct adjutoribs pro merito puniantur, Na 'syz et merrimona quantum corum reperiri poterit, Legitimis suis Dominis vel\n\ned priod similiter Gristianigimi Reais Sibdite in Sortitbi's\n\nac Maribus Regnorúm ac Dominiorim Sia Prgia Majestatis Dania o,\n\n_ XXX».\n\ni circa alteriis parris littora alrerútrinis Confoderatorim Ejisas Siib, ¡ditorum, et Incolarim Naves, sive illa bellica, si harere vel scoprilis allidi aut quacings casui, quod. DEŮS avertar, Naufragin",
+      "quality_score": 0.9534,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "ca"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "IRD 101| v3\n\nLaccre contigerit, pradicta laves cúm omni apparatú, Donis ef mercibo\n\nVel qvicqvi, exillis superfúcrit, Dominis as Proprietaris duis restituentúr,.\n\nspatium, ex quo llaufragium factum fúcrit: Naves it bona sibi vendicarint, \"Salvis emper furibus et consvetudinibús cújúsas loci ct Marionis ) Subditi ctiam\n\nqua porun, e naufragio cripicnia, et qua Dominis pestituanzir.in futúm ocum convehenda, solvendo tamen expensas ac pramia, qua meruerunt ill\n\neno\n\na sive detrimento afficiantur, tune d \"rabit, it criendum júra et confveras firgionis braes prompte pústitia admini, усто ро фо зат р дини остіле світа роста сіт тора,,\n\n???\n\nsecúndum formam et tenorem Suum it Legitima executioni dentur, ambo qraas Reges suis serio maniabint args procipient\n\nios Ministros fribl\n\n„Secundim Leges hujis F oderis obitisas achibitis cautionious peracta sin omma races arrags si contrarium contigent, adhilantir remedia, quod ante primam prolatam Sententiam vel postia Durants revifionis temport. —\n\nLona.",
+      "quality_score": 0.9497,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "pt"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "CARD 101l\n\nbona de quibis quastio crit e.\n\navous exponere aut vendere et dis\n\ntrahere brelt, nisi id forte partium consensu cuitandads bonorum et mer\n\nSELI\n\n‹simumeregem quaram Simultatrs (qfbd DEÚS avertal) aborirrn, «miti filcrint mimerandorúm, quo Merces euas pendere velalio trans \"Terre qurant, nec. intra illid spatium vel quoad bona sua, vel quoad poterint.",
+      "quality_score": 0.7937,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "ARD 101| v3\n\nXLII.\n\nONUCnTUM ctiam et Goncusum est, qu\n\nDania, is Pacris, qva inter Christianissimum.\n\n«nes Generales I robinciarim Confococratarun, riper conclúsa ct fubscripta fuere còusos compreheroetúr, út omnibus yrivilegys liberzatibus et exemptonibs Commercia pectantibusa Christianisjinho Rege, pradi «ctis Ordinibus Generalibils, velalys quibúscings Nationibuscontesfis vel in futurum concdenois gavifires sit, colem plane modo quo Dictarum Pro\" \"vinciarim Unitarim Incola ct memorata alia Mariones, ys gaúdent vel gajdebienz.\n\nHELID.\n\nItememoratim Argúm altir in alteriús Aula. Suos habeat Ministras n certis vero fortubús Consules, ur ranto facilius por cos invicem communca, pani possint resquas tam in publicum, quam privato unuscujusq\n\nELD.\n\nOt quemadmodim omneshi Articuli cea\n\nentin emolumentum utris\n\nCorona Carimas eubditorum, tra praaltememorati a\n\nreges spondent i\n\nornem Se darúros operam, it ones et singúli sinceré et bona fide observentur, negs illis directè vel indirecte contraveniater, Evia ctiam hoc Jractatu ca «presse stipulatúr alterútrius kegis Subditos in alterius Legnis et Dominys",
+      "quality_score": 0.9473,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "CARD 101| v3\n\nbis Articilos pradicorúm Tractiúm, quos Sübditerim, Siorim\n\nGommercys inservire posse judicarúnt, vel de berbo ad verbio hisce Pacris berent, nec ysdem subinoe ad pravictos Jractatus rurrendům eset :C úrabún braterea ambo summecicti Seges,út quamprimúm hujus Focderis ratihabiti inrs útrobiqs extradita füerint, qvodintra Frium Mensiúm spatirim fieri debet, і гінофор. Дедно балівфичіт\n\ncovitute abela caxationúm s\n\nEnniib45 juxça quam Subdini Christiani.\n\ne simi Regis Dicrigaliam F reUn\n\ncrenissimusac Potentissimis @ania cty um, quoi componenois țúrbis, qua hocre biennio Septentrionales has plagas con \" milérúnt, Sérenis/imus itidem Potentissimús et Christianissimus Francia\n\nturam suam exerc pos/ent e Najistas prus, quæ screnissimi trancia er\n\nNavarra Regis desiderÿshaud-facili qvidązam benegabit, ctiam hoc de Negoti",
+      "quality_score": 0.7896,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "IRD 101/ v3\n\nGenfidtaútem Majstas psits renissimim Gallarin Regem \"trés commiant per suos vicissim exhibitirúm. avo Illustristimo et\n\nExcillentishmo Domino Legato. Cui gratiam Sam et benevolentiam Requ\n\nD'Oresúnde\n\nBasons finisagencertaine\n\nUn eth de beurre.\n\nUn Ristallor et un quart —\n\nUn Leth de miclou 8 ahmée -\n\nUn Listaller ctun quart.\n\nUn Chiffund ou Sixvingts liures de Lard-\n\nTrois quarts de Ristaller\n\nUn Chifund ou azo liures de fromage.\n\nUndemy Ristaller.\n\nun Leth de goultran ou 8 barrils\n\n1Jois quersir Bisaller.\n\nUnditko Se d'Espagne- UnLethde sel diFrante.\n\n3uirmy istaller.\n\nFois quarts de Ristaller.\n\nUn Demy Ristaller.\n\n-> Un quart de Ristaller.\n\nUn Leth de Brutte Sers ou 20000- ún deth De Poche-\n\nTrois quarts de Ristaller.",
+      "quality_score": 0.8077,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "ARD 101\n\nUnLe\n\nhade Spures.\n\nUnlethd' Anguilles ou Six tonneaux -.\n\nUn millier de poissons sces grasie ou molue-\n\nUndeth?' Estourgeons ou Sixtonneaux -- \" Un Ristalleret un quart.\n\nUnLoth de Saulmons...\n\nTrois quarts de Ristaller.\n\nLo mefurrs pour un Len.\n\nSix Chiffund Azo liures de tallie.\n\n- . Un Derny Ristaller.\n\nundrth ourt tornes in Seldr Lurctourg.\n\n3 Fois quaris de Ristaller.\n\ncal.\n\nIn Lithi de froment un beth de Scigle.-.\n\nIn Lethd: Orge.\n\nUn Leth de Farine_\n\nUn Leth de Malts a faire bierre.\n\nunLethr Avoyne.\n\nUn Cith de Pois.\n\nUn Lithide gru d'avoyne_\n\nUn. Leth de pain de Sciale.\n\nUn leth di biscuit de froment- Un Lith de Sled mestail.\n\nUn Leth de gru de mestail un Leth dE aru ar millet\n\nUnLithE Noix.\n\nIn Leth de Pommes_\n\nUn Leth. De Moutaric.\n\nUn leth D' Avellanes trente Six boisseaux\n\nou Dix huit tonnes-\n\nUn Listaller.\n\nDemy Ristaller.\n\n? Un quart croemy de Ristaller.\n\nUnquartet Demy de Ristaller.\n\nUn quart de Pistaller.\n\nUn quart et demy de Ristaller.\n\nUngvart de Ristaller.\n\nInquartet Demy de Ristaller.\n\nDeux quarts et demy De Ristaller.\n\nInquart De Kiställer.\n\nUn Demy quart de Ristaller:\n\nDeux quarts et Demy de Ristaller.\n\nUnquart de Ristaller.\n\nDnsenuser @Garchandiscs.",
+      "quality_score": 0.8136,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "RD 101|v3\n\nIn Shifi 120 urs) de aire.\n\nSix Chiffund d'harpis ou poix.\n\nUn Chiffund(1Z0 liures) de duvet caplumes.\n\nSix Chifuni de plumes communes!\n\nYvarri Chiffuntde fine Laine ..\n\nSix Chiffund de grofse Lain...\n\nUn tonneau ou trente Douzaines de cartes- Antonncau de feutres te chappeaux....\n\nHuit Chiffend de bour re lanisse ou de\n\nUnSacõe Cotton de Pcux cens liures.\n\nUn Lithou Douze Chiffuni de Pottache\n\nUn Leth de cendres-\n\nSrois quarts a\n\nde Ristaller.\n\nОсих qvartset demy de Fistaller.\n\nTroisquarts de Ristaller- Prus grarts ctiemy de Sistaller.\n\nun grartct Demy Dr Sistallers.\n\nurquart De Ristaller.\n\nTrois quarts de Ristaller.\n\nTroisqvartsde Fistaller.\n\nUn fiistaller.\n\nUn quart fe Ristaller.\n\nUnLerhde Gros Gouldran. ou Poix.\n\nUn Leth de prrit Goulôran ore Poix.\n\nNuit Corbeilles ou quaisses De verres de\n\nFrance, de Hesse ou De Dantzic..\n\nTrente Chocques choque fi une Soixantaine\n\nou bottes de bouteilles ou flacons.\n\nDeuxquartset Demy de Ristaller\n\nMille pieds de pierres.'\n\nUn. tonneau ou eux pipes de boutrilles.\n\nUn quart de Ristaller\n\nPix Chiffuno (cent vingt liures) @'houbelon.... Troisquaris de Ristaller.\n\nLineChamer.\n\nEvatre Chiffuno de lin ou chanure crui oue.\n\n\"'nmasse\n\nUn Chiffundde Lin serisé ou presta filer.\n\nSix Chiffundde chanure a chables of corna.\n\nUn Chiffund de Ardegran ou chanure fille\n\nLvatre Chiffund de Flessengarn - Dix Chifund de Lin ou Kenthode\n\nUn Leth de Semence de Lin .\n\nIn Leth de Serena de Navette.\n\nUn leth de Semence de Cheinevis.\n\nUn Tonneau de Serence de Canaric.\n\nUn Ristaller.\n\nTrois quarts De Ristaller.\n\nJrois quarts de Ristaller.\n\nUn quartet: derny de Listaller.\n\nUn demy avart de Ristaller.",
+      "quality_score": 0.8223,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "CARD 101| v3\n\nчитерого\n\nихфи @atter\n\nUn Chiruno decriurr\n\nCinn Cituin Pona o\n\nUn Chiffundde Corbeille D'Estain\n\nUne Cerbeille de besogne de Leton ci (nifur ou charges is Plant\n\nHuit foncaux îr feuilles in ferblanr\n\nlemy Itistaller:\n\nSix Shiffund De ferru barre\n\nUnlethounz chiffuni refer dOsmunic dix (hittimide Balles.\n\nevatir Chiffunt le planesiefer\n\nLinirChitm? oferils \"e picur ter.\n\nait ( hifund ie tottlinchus dix trines N'aisieux ie Vellanie\n\nU. a\n\nelix qu'intaux d'acier. - Unc Corbeill au tonneau îi fil d'archal dacier\n\nSix Chiffinir de cerdes Peter pour tomeaux\n\nSix avintaux d'aixieux deL.\n\neler\n\nMoinition.f. Barre.\n\n\"cent de Lames d espece\n\nCe centre garres d'espes\n\n11\"1 Pemy Ristaller.\n\nHuit solspeLufer.\n\nQuatrécentstekrisde Picairs\n\nCinqrante especsa deuxmains.\n\nU(11. Derny Ristaller.\n\nLent orcelets-\n\nUn histaller\n\ninquantemorions.\n\nUn demy quart de Fistaller\n\n(cnt Malleraries. .\n\nCent fers Pe Picques.\n\n'Un remy tzistaller.\n\nUne quaije ne cent Inousarets\n\nUn deny quartie Ristaller\n\n2rátre Douzaines de canons a Carratines..\n\nQuinze cuirasses\n\nSix azintaux crealpetre nu poudre\n\nUn Lithou ouze Chiffund de souffre.\n\nTroisqartsir Sistaller\n\n193 sol)\n\nIn kistaller\n\nUn gros nast de navire ie as. palmis\n\n@ Marchamises de Bois.\n\n١١ t ،١١٢\n\net aridesfies.\n\n• Iri derny Restaller.",
+      "quality_score": 0.7802,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 26,
+      "text": "IRD 101| v3\n\nUn petit mast alit eSpire\n\nait lols de Filer.\n\nVingt cinq perches rictes flagstangel ou petits spire -\n\nPeux pares et Penny de Disraller.\n\nLe gros cent de bois de clappr- Un gros cont de marrain a tonneaux - .\n\n? Un Distiller.\n\nUtt cent de bois a chariots re coure\n\nIle quart et remy de Listaller.\n\nUn tas ou foixantaine re groses planches de chesne-.\n\nUn. Listaller.\n\nUntasou soixante dais de Pruste on icesterin\n\nTrois partsie, kistaller.\n\nLe millier de Lattes.\n\nHuit sols de Luhec.\n\nDix grásses poultres il Chesne.\n\nPeux prescr demy? Ristaller\n\nDanat poultres a fiu..\n\nUn Letz de Lvaisses-_.\n\nUn quartet demy ie histaller.\n\nUn Nestel ou douze supers de cottres ou quaistes. .\n\n•trois quarts de Pistaller.\n\nUne Corbeille de Cureaux peints.\n\n- \"/ den part et irmude Ristaller.\n\nUntas ou bo de gros Platan,ou bois de Pla, \"tan, bois d'erable-.\n\nUni quare de Ristaller.\n\nUn tas ou bo de fois a Bale ou pauleres et planches de chesne Doubles\n\nUn Vistallir\n\nUn millier D'aix De Norivege ou de Sordo .\n\nSrais qvarts de ristalles\n\nUntas bo de bois of petit satan ou Crable.\n\nduit sols de Lubre\n\n40 tas.bo.ou de fardearia de palles\n\nLo tas bo ec coffres ou auges\n\n) Trois prares ie Ristaller.\n\nUngras cent de Sipestaffen - 40 milliers de clouis a nef-\n\nTrois quarts de Ristaller.\n\n30. fardeaux de Corcque - Zo faisscaux. Go Je tranchoirs.\n\nDEux mille courres servans de lieürs\n\nSuit fols de reber\n\n• mois quarts de Riscaller.\n\nUn demy Ristaller.\n\nto picres se bois de barque ou D'E'stre.\n\nUn cenzüchois a charriot, Dit Vanquenschote. « U.n Ristaller.\n\n@ barchandise Saunage s\n\nVantimbrede Purs Ie Mare\n\n'Peur gpart ri Bermy it Pristaller.\n\nUn cent de Prnux de Bicuri\n\nLe centde Peaux De RenarDs\n\nFois quaras de histaller.",
+      "quality_score": 0.8094,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 27,
+      "text": "CARD 101| v3\n\nUn Ristaller et demy.\n\n3 Trois quarts de Ristaller.\n\nGuirset Peaux.\n\nsvatre dequersa\n\nprauxo cilan\n\nOvatre dequers de peaux de Cerf\n\nVingt requets de praux de Bouc\n\nTrente deguers de peaux de Draue\n\nMille grosses de peaux. uc rouron\n\nanCall.\n\nEmispanis de Rialler\n\nDix deberts de cuir de Russie, dit Rotlache.\n\nDixÈcqvers de pcaux deffichces. ou cuir passe.\n\nFrisquerode Brie\n\n4.00 Giures de cuir a Semelles- huiz cent liures d'attalt ¿natre dequers ie Vache de Aussic. .\n\nlours Estofis de Soye i Draps cux pitres de brocatel.\n\nvatre pieces se fin velours.\n\nHuit pieces it prapti\n\n'Angleterreet d Irlande. ef\n\nTrois quarts de Ristaller.\n\nHuit picces ce double sarys-",
+      "quality_score": 0.7913,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 28,
+      "text": "ARD 101|v3\n\nTuit pieces de dermy velours, au tripi de velours- Huit pieces de satin\n\nfrise bicres de gros frap Culincave d'et ngl terre oud Irlande a'quatre fönrs\n\nDoue piers de Bayente ou frise- Dix picces de cotti ou treilles rayé de flcu.-\n\ngrain de Jurquie- Vingt qvat re picces de carisée d'Osnabruc, d qros grain, sarge d enquel marque tripes borabasin Sargeet JrIDaIne -\n\nou de Nurenberg\n\nLvatre Douzaines vc couvertures pour\n\nJrenti Douraines de Lisieres ou listes it drap\n\nCent paires ce ras ie fine carisec\n\nTrente Douzaines ic bas de gros drap- Coixante Douzaines de bas de Laine.\n\nCent chemisettes &' Escosse- Un Pacquet ou tonneau de Maleur de cont Pistallers.\n\nDouze paires de bas ur coye\n\nCinqvante paire de bas d'Estume.\n\nSichures de passement d'or ou d'argent. .\n\nGent Liures de Soy crier, non teincti\n\nTrois quaris de BRitalle\n\nPeux quarts rt sernyo Ristaller.\n\nCrux quarts army de Ristaller.",
+      "quality_score": 0.8307,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 29,
+      "text": "CARD 101 | v3\n\nVoiles.\n\nlon tonniau ie teille de Sellande- Douze pieces de toille de Hollande ou de Silesic.\n\nCentpteces de Treillis de trois aunis De Largu\n\nHuit picces de toill's De Cambray-- Suit pieces ou rouleaux de boudavit ou ca.\n\n\"nitas du plus large Defrance ou DanzIc - Vingt pieces d'Encquel Goudavit et Canefas.\n\nZvarante picces de peignoirs ou toillettes- Vingt pieces de toille de Pomeranie ou draps\n\nDouze pieces de Gamelot one ou Damas _\n\nVinatpieces De Treillis- Trente pieces de toille Dectetin\n\nQuarante picces de toille ou burt de Gracovie - Huit pieces de toille faites de certaine espece de chanure dont la semence est noire dite Heden\n\nUnmillier d Aunes De forte toille\n\nSuit pieces de fin burail,\n\nCinqvante pičers de gros burail a Lits\n\nHuit balles de Papier\n\nCinqrante Liures de fil retor\n\nScise picces de Draps de Cathún\n\nDrapese Espicriess.\n\nDeux quars demy etalle.\n\nFros queno famille.",
+      "quality_score": 0.8125,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 30,
+      "text": "IRD 101l\n\nTrois quans de Ristaller.\n\nLvatre cens liures de Maniquette ou.\n\ngrains de Paradis\n\nUn tonneau ou balle de noix de Galle\n\nE quatre cents liures.\n\nUnquart et demy de Ristaller.\n\nOvatre balles de Corinthe ou huit cens liures --.\n\nQuatre cens liures de Datte\n\nDeux Foctes д pruncaux, Limons, capre.\n\nTrois quarts d Ristaller.\n\n• Srise cens liures de pruncaux Dits\n\nCheuctaschen\n\nQvatre cens liures de biscuit Suerin - ¿vatre cens liures de sucre candi ou confitures. Un quart et demy de Kistaller gramalles ou 40o rure ans le o\n\n:, Trois quarts 8 Ristaller.\n\nUn Ristaller ef demy.\n\nTrois quarts de Ristaller\n\nUn Ristaller.\n\nUnquartet demy de Ristaller.\n\n3 Fois quarts de Ristaller.\n\nTrois quarts de Risaller.\n\nQvatre censliures de Kigalisse -.\n\nHuit cens Liures de Gommi ou gallas - Evatre Chiffund de Gvesde pour les teinturiers.\n\nTrois cens liures d'amidon ou un tonneau\n\nHuit sols de Lubec-",
+      "quality_score": 0.8396,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 31,
+      "text": "CARD 101| v3\n\njilt zisimhites\n\nDux pane omg or\n\nVingt pieces de Gulpel\n\nSrois cens Liures de coll\n\nUn tenncau dhuile de Lisbonne\n\nUnLeth ou huit ahner d'huile de chencvis ou\n\nUn Leth ou huit ahnee d'hwile de lin .\n\nCinqvante Liures De Vif argent\n\nUn baril de Zuccal\n\nHuit cens liures de pruncaux de Gongric\n\nUn barrilou Deux ens iuris d'encens ore parfum \" Un quart et demy de Festaller\n\nSix Chiffund de resine ou terebentine\n\nTrois quarts De Ristalle.\n\nS'in Hypromel, Bierre ot dutres.\n\nUnbaril deau de vie d'C spagne\n\nUneahnee d'cau devic du A\n\nUn Leth de bierre ic Fostock, Dismarchecu de Stralesunn) Un quart ct icmy de Ristaller\n\nLvatre qvaisses de Derre de venise- Unc Corbeille de cruches it pot.\n\nOsarson barde E Cappamson por y Froisopars di Pistaller.\n\nQvarante Estuits de flacons ou boutcilles.\n\nTouresles charges avi ne font specifid zaret ainsy quileșt arcautume entro Marchands, et svivant quila esté observe de tou enciennetr Donné a Christianople Le PouricineD'Aoust en Fannoe $ 045 aqvorum omnium fidem hac omnia rt singúla ait (upo únt contenta manu nostra súblripsimus efigitogs maraime\n\nDarum Lúreria Parisiorúm dec Beta February, AnaaДO03\n\nMarsibShes+",
+      "quality_score": 0.9139,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 32,
+      "text": "ARD 101| v3\n\nacqvitur Maridatum Sua Fregia\n\nBeviner Hariarum PgisGhriste\n\n„nissimi.\n\nboris parla grace Bicu Royde boranci cosE",
+      "quality_score": 0.8807,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ro",
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 33,
+      "text": "CARD 101|v3\n\ngrande confiance que Mousavons en cux-arts causes tautres a renous mouvans dr l'abris de Nostr\n\nConseil ou estoient la Rryne Nostre tres honoréé Dame et Mere, Nostre tres cherst tres amé.",
+      "quality_score": 0.7706,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 34,
+      "text": "IRD 101\n\n¿nation\n\n3I Centris",
+      "quality_score": 0.7612,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 35,
+      "text": "ARD 101| v3",
+      "quality_score": 0.7387,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 36,
+      "text": "‘3 .. Mi» Le i] ES -. M .\n\nEds: PLN ° FF TE TS t e . 1\n\nA +7\n\n“nar B? y\n\nage Cre . eG ay Ue .\n\nME LT\n\na eA . - ts . 05. . BEN - \"- 7 eq V p .\n\n. \"nanc d : . à V Res + ony at -\n\n— ^ MC D te fn,\n\nToy 6t ES AR ERATE SS Cute\n\n\"o€9-0-",
+      "quality_score": 0.6268,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200016_880",
+      "title": "Instrument de ratification tchécoslovaque du traité, du protocole et de la déclaration",
+      "score": 0.771439,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16630006_001_s1",
+      "title": "Texte du traité (ensemble texte des pouvoirs danois et des pouvoirs français)",
+      "score": 0.427109,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16480001_001",
+      "title": "Traité de paix, dit 'traité de Westphalie'",
+      "score": 0.379995,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18570026_001a_s1",
+      "title": "Traité",
+      "score": 0.374604,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16970009_005b_s1",
+      "title": "Ratification de l'article séparé",
+      "score": 0.372628,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_027_s1",
+      "title": "Ratification du traité par Frédéric-Guillaume Ier, roi de Prusse",
+      "score": 0.372549,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19360013_005",
+      "title": "Instrument soviétique",
+      "score": 0.368243,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17630001_001_s1",
+      "title": "Accord (ensemble un article séparé) (ensemble texte des pouvoirs français, britanniques et espagnols)",
+      "score": 0.366588,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18600014_001",
+      "title": "Traité",
+      "score": 0.363701,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_031_s1",
+      "title": "Article séparé",
+      "score": 0.362974,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

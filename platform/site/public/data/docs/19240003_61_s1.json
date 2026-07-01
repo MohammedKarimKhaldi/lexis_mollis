@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_61_s1",
+  "title": "Notification aux Etats participants de la candidature de la Suède",
+  "year": 1924,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9545,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "• JPR/EA MINISTERE AFFAIRES ETRANGERES 4k4aE REPUBLIQUE FRANCAISE Paris le 18 mal 1992 anregistre :1.11992 N° 13 TINUOVE Rédacteur: les Paul RIVAUD MINISTRE DES AFFATRES ETRANGERES MONSIEUR L'AMBASSADEUR DE FRANCE (voir liste in fine) als: Adhériaton du utice inermatioma de la vigne et du vin. 19240003 Le Gouvernement de votre pays de résidence étant partie à l'Arrangement du 29 novembre 1924 portant création de l'O…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_61_s1.pdf",
+  "source_filename": "19240003_61_s1.pdf",
+  "source_sha256": "5d2f70c345e5ac192f9cf828737f2e6541d1731e1d7dbab64a95b76d8e26cbb7",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "SWE003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "•\n\nJPR/EA\n\nMINISTERE\n\nAFFAIRES ETRANGERES\n\n4k4aE\n\nREPUBLIQUE FRANCAISE\n\nParis le 18 mal 1992 anregistre :1.11992\n\nN° 13 TINUOVE\n\nRédacteur: les Paul RIVAUD\n\nMINISTRE DES AFFATRES ETRANGERES\n\nMONSIEUR L'AMBASSADEUR DE FRANCE\n\n(voir liste in fine)\n\nals: Adhériaton du utice inermatioma de la vigne et du vin.\n\n19240003\n\nLe Gouvernement de votre pays de résidence étant partie à l'Arrangement du 29 novembre 1924 portant création de l'Office international de la vigne et du vin dont le\n\nGouvernement français est dépositaire, je vous serais obligé de bien vouloir lui faire part de la communication suivante:\n\n\"Le Gouvernement suédois a déposé le 19 mars 1992 auprès du Gouvernement français l'instrument d'adhésion de la Suède à l'Arrangement portant création de l'Office international de la vigne et du vin signé à Paris le 29 novembre 1924.\n\nLa Suède a indiqué qu'elle ne prendrait pas part aux décisions touchant la politique de l'alcool\".\n\nVous voudrez bien me faire connaître par le moyen du formulaire ci-joint la date à laquelle les autorités du pays de votre résidence auront accusé réception de cette communication./\n\nElon InnAT\n\nSorry-Directeur des Muerions Emmamires",
+      "quality_score": 0.9545,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_15_s1",
+      "title": "Notification aux Etats membres de l'adhésion du Brésil",
+      "score": 0.616775,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_14_s1",
+      "title": "Rappel aux Etats qui n'ont pas répondu de la demande d'adhésion de la Bolivie",
+      "score": 0.436244,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_300",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.418229,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_245",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.410537,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_52_s1",
+      "title": "Notification aux Etats participants de la demande d'adhésion du Pérou",
+      "score": 0.4085,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_154b_s1",
+      "title": "Note verbale type du service traitant à destination des chefs de Postes relative au retrait de la réserve bulgare",
+      "score": 0.40208,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_44_s1",
+      "title": "accusé de réception de l'Allemagne à la notification d'adhésion de la Lettonie",
+      "score": 0.40162,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_732_s1",
+      "title": "Note verbale type du service traitant à destination des chefs de Postes relative à l'adhésion britannique",
+      "score": 0.401085,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_43_s1",
+      "title": "Dépêche de notification aux ambassades auprès des Etats-parties de l'adhésion du Mexique",
+      "score": 0.398451,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_69_s1",
+      "title": "Notification de l'adhésion de la Slovénie",
+      "score": 0.398172,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

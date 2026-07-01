@@ -53,5 +53,55 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19150010_lettre-japon_s1",
+      "title": "Traduction de la lettre japonaise",
+      "score": 0.423013,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000079_103",
+      "title": "Echange de notes relatif à Guernesey",
+      "score": 0.360359,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470107_001d_s1",
+      "title": "Lettre relative aux modalités pratiques du déblocage",
+      "score": 0.359531,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830198_010",
+      "title": "Lettre française",
+      "score": 0.356548,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19460017_001_s1",
+      "title": "Accord",
+      "score": 0.353101,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720206_001_s1",
+      "title": "Procès-verbal",
+      "score": 0.351619,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070270_010_s1",
+      "title": "Lettre française",
+      "score": 0.35116,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

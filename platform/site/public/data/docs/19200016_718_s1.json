@@ -1,0 +1,116 @@
+{
+  "document_id": "19200016_718_s1",
+  "title": "Note de transmission de l'instrument portugais",
+  "year": 1920,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9433,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LÉGATION DE, LA REPUBLIQUE PORTUGAISE EN FRANCE Paris, ie Ter octobre 1926 Protocole Monsieur le Ministre, u’al l'ronneur de transrettre a Votre Excel- lence l'inmgBtrusent de ratifioation par le Gouvemerent de la Réoublique Portugaise sur le Traité de Paix aves la Hongrie, signé au Trianon, le 4 juin 1929, en La priant de bien vouloir le faire dé oser et conserver dans les archives de la zépublique Frençeise. Je go…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200016_718_s1.pdf",
+  "source_filename": "19200016_718_s1.pdf",
+  "source_sha256": "504788afbdff28ab80f11fdbdd94fc69d01fa4cbfc90b8f776759bddd25021de",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "718",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LÉGATION\n\nDE, LA REPUBLIQUE PORTUGAISE\n\nEN FRANCE Paris, ie Ter octobre 1926\n\nProtocole\n\nMonsieur le Ministre, u’al l'ronneur de transrettre a Votre Excel- lence l'inmgBtrusent de ratifioation par le Gouvemerent de la Réoublique Portugaise sur le Traité de Paix aves la Hongrie, signé au Trianon, le 4 juin 1929, en La priant de bien vouloir le faire dé oser et conserver dans les archives de la zépublique Frençeise.\n\nJe goraia tres oblige à Votre Excellence al\n\nElle voulait bien me faire connaître le jour qu’Bile eure ohoigi pour la signature du proces vernal de dé- pat de oet Instrument de ratification dont Je prie Yotre Excellence de bien vouloir n'aoouser réce tion.\n\n“euillez agréer, Monsieur Le Ministre, les assurences de ra plus heute considération.\n\n] ec\n\nSon Excellence\n\nMonsieur R. Poincaré,\n\nPrésident du Conseil,\n\nMinistre des Affaires Btrangsrea-",
+      "quality_score": 0.9433,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "18750001_66_s1",
+      "title": "Note de transmission de la ratification tchécoslovaque",
+      "score": 0.415253,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470022_001_s1",
+      "title": "Traité (ensemble 1 échange de lettres a/s rapports consulaires)",
+      "score": 0.401493,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600188_001b_s1",
+      "title": "Lettre",
+      "score": 0.399201,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_33_s1",
+      "title": "Lettre de transmission de l'instrument et brouillon manuscrit de son accusé de réception",
+      "score": 0.397595,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_006",
+      "title": "tra19760084_006",
+      "score": 0.396917,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.396558,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_13_s1",
+      "title": "Notification d'adhésion de la Belgique",
+      "score": 0.396001,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.393616,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.393014,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.392588,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

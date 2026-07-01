@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20182464_002_s1",
+  "title": "Pouvoirs.",
+  "year": 2018,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9812,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AR République Fransaise DIRECȚION DES ARCHIVES ARRIVEE 12 JUIN 2018 COTE Nº73/2018 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à : Madame Nicole BELLOUBET, Garde des Sceaux, Ministre de la Justice pour signer la Convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouve…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20182464_002_s1.pdf",
+  "source_filename": "TRA20182464_002_s1.pdf",
+  "source_sha256": "4eb0d1d1dfeb8241c81ff370b7ece740ab087b219c58026d2949429a6204225b",
+  "treaty_id": "TRA20182464",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AR\n\nRépublique\n\nFransaise\n\nDIRECȚION DES ARCHIVES\n\nARRIVEE\n\n12 JUIN 2018\n\nCOTE\n\nNº73/2018\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à :\n\nMadame Nicole BELLOUBET, Garde des Sceaux, Ministre de la\n\nJustice\n\npour signer la Convention d'entraide judiciaire en matière pénale entre le\n\nGouvernement de la République française et le Gouvernement de la\n\nRépublique du Niger./.\n\nFAIT À PARIS, LE 1e juim 2018\n\nLe Ministre de l'Europe et des Affaires étrangères\n\nM le Drian",
+      "quality_score": 0.9812,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20182522_002",
+      "title": "Pouvoirs français",
+      "score": 0.420053,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182432_002",
+      "title": "Pouvoirs français",
+      "score": 0.405124,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182365_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.399986,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.385128,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212835_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.384951,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.376519,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182469_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.375646,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002b_s1",
+      "title": "Pouvoirs français (délivrés à Michel Vauzelle)",
+      "score": 0.374984,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220114_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.371735,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.370511,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

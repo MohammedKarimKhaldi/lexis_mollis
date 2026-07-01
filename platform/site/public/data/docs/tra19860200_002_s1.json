@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19860200_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1986,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.948,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "- JE Alfuirs frirsts #° 264/85 POUVOIRS Au nou du souvernement de la République, NOUS, Ministre des relations extérieures, donnons pouvoirs par ces présentes à Monsieur Michel CREPEAN, Ministre du Cornerce, de l'Artisanat et du fourisne pour signer un accori entre le Gouvernement de la République fxançaisa ai le Gouvernement de la Répurlique de Chypre Iclatif à la coopération touristique.!. FAIT à PARIS, Le 9 Jaunu…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19860200_002_s1.pdf",
+  "source_filename": "tra19860200_002_s1.pdf",
+  "source_sha256": "dff0e81b480f9545f870105c2d37d268a9e529fa2924172ab768c1b93ffb155b",
+  "treaty_id": "TRA19860200",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "-\n\nJE\n\nAlfuirs frirsts\n\n#° 264/85\n\nPOUVOIRS\n\nAu nou du souvernement de la République, NOUS,\n\nMinistre des relations extérieures, donnons pouvoirs par ces présentes à Monsieur Michel CREPEAN, Ministre du Cornerce, de l'Artisanat et du fourisne pour signer un accori entre le Gouvernement de la République fxançaisa ai le Gouvernement de la Répurlique de Chypre\n\nIclatif à la coopération touristique.!.\n\nFAIT à PARIS, Le 9 Jaunu 1986\n\nLe Ministre des relations extérieures\n\nRoland Jumas",
+      "quality_score": 0.948,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.410307,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.409458,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.399334,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.396651,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.39296,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850080_002",
+      "title": "Pouvoirs",
+      "score": 0.391734,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182473_002",
+      "title": "Pouvoirs français",
+      "score": 0.391653,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.391535,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890169_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.391125,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960139_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.390134,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "document_id": "tra19220022_006_s1",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1922,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.831,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "PROCES-VERBAL & BOHANGE tes souesignés s'étant réunta pour procéder à 1°€- change des retifleations de Président de la République françaiue et de 8. Ixe. le Président de le République d'athonde sur le Conventien commerciale oignée & Parts, le 7 Janvier 1922, entre Le France et l'ethonde , les inetrunente ont été produits et ayant été, après examen, trourés en bonne et que forme, l'échange en a été opéré. EN FOI de Q…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19220022_006_s1.pdf",
+  "source_filename": "tra19220022_006_s1.pdf",
+  "source_sha256": "22bc5de94164d48fae01e33189706ba479cd20a8587c23651f79281ca23bed8f",
+  "treaty_id": "TRA19220022",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL & BOHANGE\n\ntes souesignés s'étant réunta pour procéder à 1°€-\n\nchange des retifleations de Président de la République françaiue et de 8. Ixe. le Président de le République d'athonde sur le Conventien commerciale oignée & Parts, le 7 Janvier 1922, entre Le France et l'ethonde , les inetrunente ont été produits et ayant été, après examen, trourés en bonne et que forme, l'échange en a été opéré.\n\nEN FOI de QUoI, les soussignes, dusent autorises & cet effet, ont dressé le present proces -verbel guills ont revêtu de Leure eschets.\n\nTait & Parte, on doublo oxamplairo 1o 1/ /ul 1924",
+      "quality_score": 0.831,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19290031_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.411347,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.397473,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.389956,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.382127,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190039_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.378907,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190005_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.374775,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610160_008",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.373158,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_10_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.369763,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_007_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.361646,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_22_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.358154,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

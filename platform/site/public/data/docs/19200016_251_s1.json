@@ -1,0 +1,130 @@
+{
+  "document_id": "19200016_251_s1",
+  "title": "Instrument de ratification cubain du traité, du protocole et de la déclaration",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.8877,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Voir texte 19200016 OI sur bobine B256 Copie ceruliée conforme ,. Le Président du Conseil, Ministre des Affaires étrangères : Licenciado Rafael Illontoro if Maldes, Decretario de Estado de La. Republica de Cuba. Certifico: que Mi dia veintitres de Quero de mil novecien- tos vetntidos, a fas cuatro d veinte minutos de Ya tarde, 5 ro. bade > por ef Congreso de La Reprif fica de Cuba ef Gratade de Jar) c c que fresede,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200016_251_s1.pdf",
+  "source_filename": "19200016_251_s1.pdf",
+  "source_sha256": "002f5f4e24fffed3b4638c8646abbfbd5e1447d029d2a95e0ef875c80c5e9057",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "251",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Voir texte 19200016 OI sur bobine\n\nB256",
+      "quality_score": 0.9287,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Copie ceruliée conforme ,.\n\nLe Président du Conseil, Ministre des Affaires étrangères :\n\nLicenciado Rafael Illontoro if Maldes,\n\nDecretario de Estado de La. Republica de Cuba.\n\nCertifico: que Mi dia veintitres de Quero de mil novecien- tos vetntidos, a fas cuatro d veinte minutos de Ya tarde, 5 ro.\n\nbade > por ef Congreso de La Reprif fica de Cuba ef Gratade de Jar)\n\nc c que fresede, entre La Replica de Cuba d fas Jolencias Cl ades\n\nE Clseciadas de una L parte d Hungria de. fa otra, ef eual® fafa.\n\nside ratificade eon antenoridad por el Sefior Preasi dente de fa Treprus = b ca de Gb\n\nSn fe de fo gual fiemo y sf \" _ Precente CL fire de que sea depegtado en fas ClrcRives def Gobierns de fa Repi£hica Francesa. À sus efectos MM\n\nTHaGana, Tefrers Ode 1923.\n\n———",
+      "quality_score": 0.8466,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200016_726_s1",
+      "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_436_s1",
+      "title": "Pouvoirs (pour Mario Grassi)",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_396_s1",
+      "title": "Instrument de ratification français du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_196_s1",
+      "title": "Instrument de ratification chinois du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_096_s1",
+      "title": "Instrument de ratification belge du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_731_s1",
+      "title": "Instrument de ratification britannique du traité, du protocole et de la déclaration",
+      "score": 0.820171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_886_s1",
+      "title": "Instrument de ratification siamois du traité, du protocole et de la déclaration",
+      "score": 0.820171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_351_s1",
+      "title": "Instrument de ratification hongrois du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_326_s1",
+      "title": "Instrument de ratification grec du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_796_s1",
+      "title": "Instrument de ratification du Royaume des Serbes, Croates, Slovènes de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.42292,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

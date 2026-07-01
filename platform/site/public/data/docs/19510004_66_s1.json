@@ -1,0 +1,128 @@
+{
+  "document_id": "19510004_66_s1",
+  "title": "Pouvoirs britanniques",
+  "year": 1951,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Whereas, for the better treating of and arranging certain matters which are now in discussion, or which may come into discussion, between the Government of the United Kingdom of Great Britain and Northern Ireland and the Governments of other Powers and States relative to the establishment of a European Plant Protection Organisation, it is expedient that a fit person should be invested with Full Power to conduct the…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_66_s1.pdf",
+  "source_filename": "19510004_66_s1.pdf",
+  "source_sha256": "ac412abde7aac67335cc4096b388bf32747e6ec8f4e9bba4500997b151a1668d",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "GBR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Whereas, for the better treating of and arranging certain matters which are now in discussion, or which may come into discussion, between the Government of the United Kingdom of Great Britain and Northern Ireland and the Governments of other Powers and States relative to the establishment of a\n\nEuropean Plant Protection Organisation, it is expedient that a fit person should be invested with Full Power to conduct the said discussion on the part of the Government of the United\n\nKingdom of Great Britain and Northern Ireland: I, Herbert\n\nStanley Morrison a Member of His Majesty's Privy Council, &c., 'c., His Maiesty's Principal Secretary of State for Foreign\n\nAffairs, do hereby certify that John Hensley, Esquire, an\n\nAssistant Secretary in His Majesty's Ministry of Agriculture and Fisheries, is by these Presents named, constituted and appointed as Plenipotentiary and Representative having Full\n\nPower and Authority to agree and conclude with such Plenipot- entiaries or Representatives as may be vested with sinilar\n\nPower ald Authority on the part of the Governments of other\n\nPowers and States as aforesaid any Treaty, Convention,\n\nAgreement or other Instrument that may tend to the attainment of the above-mentioned end, and to sign for the Government of the United Kingdom of Great Britain and Northern Ireland, everything so agreed upon and concluded. Further, I do hereby certify that whatever things shall be so transacted and",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "concluded by the said Plenipotentiary and Representative, shall, subject it necessary to Ratification by the Government of the United Kingdom of Great Britain and Northern Ireland, be agreed to, acknowledged and accepted by the said Governient of the United Kingdom of Great Britain and Northern Ireland in the fullest manner.\n\nIn witness whereof I have signed these Presents and affixed hereto my Seal.\n\nSigned and sealed at the Foreign Office, London, the\n\nThirteenth day of April in the Year of Our Lord, One Thousand\n\nNine hundred and Fifty-one.\n\nHater Memin.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19730055_08_s1",
+      "title": "Instrument de ratification du Royaume-Uni",
+      "score": 0.736816,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_51_s1",
+      "title": "Pouvoirs de négociation et de signature du Royaume-Uni",
+      "score": 0.676292,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_91_s1",
+      "title": "Pouvoirs de signature du Royaume-Uni",
+      "score": 0.617244,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_088_s1",
+      "title": "Pouvoirs de signature du Royaume-Uni",
+      "score": 0.450603,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.432059,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760152_730_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.427622,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_75_s1",
+      "title": "Pouvoirs délivés à Alfred Viscount Milner",
+      "score": 0.423341,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_10_s1",
+      "title": "Pouvoirs (Londres, 01/01/1919 et 14/10/1919)",
+      "score": 0.419432,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19510061_003_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.416162,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_18_s1",
+      "title": "Pouvoirs du Royaume-Uni",
+      "score": 0.413181,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

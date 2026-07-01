@@ -1,0 +1,67 @@
+{
+  "document_id": "19540090_350_s1",
+  "title": "Instrument d'adhésion hongrois",
+  "year": 1954,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9777,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Nous, Stéphane Stéphanopoulos, Vice Président du Conseil des Ministres et liinistre des Affaires Etrangères do Grèce, autorisons Son Excellence Monsieur R.haphiaël, Ambas- saucur Extraordinaire et Plénipotentiaire de Grèce à Paris, à signer la nouvelle Convention Internationale pour l'uni- fication des méthodes d'analyse et d'appréciation des vins, ouverte à la signature au linistère des Affaires Etrangères à Paris.…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_350_s1.pdf",
+  "source_filename": "19540090_350_s1.pdf",
+  "source_sha256": "fc7dc281d8578d3d824b0dfc9caf31344557a8efa0f2e447a3c109c2446b5cd6",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "HUN002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nous, Stéphane Stéphanopoulos, Vice Président du\n\nConseil des Ministres et liinistre des Affaires Etrangères do Grèce, autorisons Son Excellence Monsieur R.haphiaël, Ambas- saucur Extraordinaire et Plénipotentiaire de Grèce à Paris, à signer la nouvelle Convention Internationale pour l'uni- fication des méthodes d'analyse et d'appréciation des vins, ouverte à la signature au linistère des Affaires Etrangères à Paris.\n\nFait à Athènes, ce vingt trois avril mil neuf cent cinquante cinq.\n\nEtendants",
+      "quality_score": 0.9777,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_057_s1",
+      "title": "Instrument d'adhésion de la Hongrie",
+      "score": 0.414191,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_22_s1",
+      "title": "Instrument de ratification de Haïti",
+      "score": 0.376487,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_23_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.35892,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

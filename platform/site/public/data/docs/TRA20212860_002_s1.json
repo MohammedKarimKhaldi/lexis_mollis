@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20212860_002_s1",
+  "title": "Pouvoirs",
+  "year": 2021,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9816,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Française N°18/2021 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à : M. Aurélien LECHEVALLIER, Ambassadeur de France en Afrique du Sud en vue de signer l'Accord entre le Gouvernement de la République française et le Gouvernement de la République d'Afrique du Sud relatif à la coopération en matière l'environnemen…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20212860_002_s1.pdf",
+  "source_filename": "TRA20212860_002_s1.pdf",
+  "source_sha256": "0bfbc6993c01e3dce3215aa6321e8cc8fc3b2360f9ded20b6f59efc519a9c35f",
+  "treaty_id": "TRA20212860",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Française\n\nN°18/2021\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à :\n\nM. Aurélien LECHEVALLIER, Ambassadeur de France en Afrique du Sud\n\nen vue de signer l'Accord entre le Gouvernement de la République française et le\n\nGouvernement de la République d'Afrique du Sud relatif à la coopération en matière l'environnement et de changements climatiques./.\n\nFAIT À PARIS, LE\n\nI mars 2021\n\nLe Ministre de l'Europe et des Affaires étrangères\n\nM le Drian",
+      "quality_score": 0.9816,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.685837,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220034_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.653141,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182432_002",
+      "title": "Pouvoirs français",
+      "score": 0.626602,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212835_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.621703,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230143_002_s1",
+      "title": "Lettre en réponse",
+      "score": 0.603573,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141368_002",
+      "title": "Pouvoirs français",
+      "score": 0.568873,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820077_002",
+      "title": "Pouvoirs français",
+      "score": 0.561636,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960259_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.552319,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19880315_325",
+      "title": "Pouvoirs français",
+      "score": 0.533853,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240048_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.419781,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "document_id": "tra16660008_001",
+  "title": "Accord",
+  "year": 1666,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7952,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "1666. 17. Man Alger Gubere 1617-972041666 enporedence du Douan assemble pourle sachancler aclaves francer quierocen dantarille. allogare d'Alger. 1 may 1000 varcte heler pour le Vachant des. Esclanes franconigui dont dans les Villes et löyamme Dillger, Quetonles (relanes pancon deguelques gualiter et Conditiom quels forem ferom vachepter fin lepied du pris guels aurom este vendus la première foi as baptistan a mesur…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16660008_001.pdf",
+  "source_filename": "tra16660008_001.pdf",
+  "source_sha256": "f0a66f8b82d6e3cecd6b2cebc2c64f0d54d52ccb60bf114c6692f24d5ac6cb0d",
+  "treaty_id": "TRA16660008",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1666.\n\n17. Man\n\nAlger\n\nGubere 1617-972041666 enporedence du Douan assemble pourle sachancler aclaves francer quierocen dantarille.\n\nallogare d'Alger.",
+      "quality_score": 0.7941,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "1 may 1000\n\nvarcte\n\nheler pour le Vachant des. Esclanes\n\nfranconigui dont dans les Villes et löyamme Dillger,\n\nQuetonles (relanes pancon deguelques gualiter et\n\nConditiom quels forem ferom vachepter fin lepied du pris guels aurom este vendus la première foi as baptistan a mesure quelon porivva les vetiver et non pas tous enfemble a causedes grandes former gril faule brancer,\n\nlepied du pris givit drom esté lendes au beteleme)\n\nY'anta Ceux quu Appartemem au Juan et qui nom poun este vendus, Je ferom vachephr chacun mil doubles\n\nDór qui fom deux cem gunize presser demy deburit en payas les ports Puam lancien pois et pour cei qui feront vetriés pareschange Je nepayerom poin de Gracts- Deporte, que les registres dubaptistam ferom remis a la Dane.\n\npareihe lespides Esclanes Veriffer dessueu etque cependam (sfevont trante, aier dou cein et\n\nArmanite et retires des fer par ton les parheuliu, gun enam eta coffet les tre flushe bacha, Duran et milice en ferom faiern cry publi dam foutte lesten due du 'ónferacuer auily publiquemem que tous les Patromquiom des Brelanes fiancordam laville et a la",
+      "quality_score": 0.7909,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Campagne les Paillent veni Abremem et entoritte.\n\nDilligence en lamaifon de Comul poury prendre leurewows-feulement, Arreste leaseptreime demay mal six cem sorant fix jou delapublication dela paix, en price di- Duan Anare pan con Fruber ?",
+      "quality_score": 0.8005,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra17630001_001_s1",
+      "title": "Accord (ensemble un article séparé) (ensemble texte des pouvoirs français, britanniques et espagnols)",
+      "score": 0.355347,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16940002_001",
+      "title": "Recueil de traités (1694-1820)",
+      "score": 0.351284,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

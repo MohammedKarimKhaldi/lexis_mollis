@@ -1,0 +1,116 @@
+{
+  "document_id": "19660161_19_s1",
+  "title": "Pouvoirs de signature de la Finlande",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9829,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Je URHO KALEVA KEKKONEN Président de la République de Finlande, fais savoir: La Finlande ayant été invitée à adhérer au Protocole en date du 17 novembre 1965 portant modification de la Convention signée à Paris, le 22 novembre 1928, concernant les Expositions Internationales, j'autorise par la présente Monsieur Rafael SEPPÄLA, Ambassadeur Extraordinaire et Ministre Plénipotentiaire de Finlande à Paris, ou, en son ab…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_19_s1.pdf",
+  "source_filename": "19660161_19_s1.pdf",
+  "source_sha256": "dc014fc5f62f9348f80bdfc406563328c53e39b271f2d668886d5240d1c72784",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "FIN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Je\n\nURHO KALEVA KEKKONEN\n\nPrésident de la République de Finlande, fais savoir:\n\nLa Finlande ayant été invitée à adhérer au Protocole en date du 17 novembre 1965 portant modification de la Convention signée à Paris, le 22 novembre 1928, concernant les Expositions\n\nInternationales, j'autorise par la présente Monsieur Rafael\n\nSEPPÄLA, Ambassadeur Extraordinaire et\n\nMinistre\n\nPlénipotentiaire de Finlande à Paris, ou, en son absence,\n\nMonsieur Osmo LARES, Conseiller de l'Ambassade de Finlande à Paris, à notifier, sous réserve de ratification, l'adhesion de la Finlande audit Protocole.\n\nEn foi de quoi, j'ai signé ce plein-pouvoir de ma main et y al fait apposer mon sceau.\n\nHelsinki, le 6 mai 1966\n\nun kenne\n\nAtt ta jalain.",
+      "quality_score": 0.9829,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_17_s1",
+      "title": "Pouvoirs de notification de l'adhésion de la Finlande",
+      "score": 0.721973,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_45_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.424465,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_21_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.409614,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.394423,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_091_s1",
+      "title": "Pouvoirs finlandais",
+      "score": 0.392251,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.389292,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_17_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.383348,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_29_s1",
+      "title": "Pouvoirs de signature au Japon",
+      "score": 0.380155,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_56_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.377761,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.377749,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "document_id": "tra19170016_010",
+  "title": "Réponse française",
+  "year": 1917,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9481,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "131- RÉPUBLIQUE FRANÇAISE Ministère Des Iffaires étrangères A 184G. t muinto Sauter 20 - -colore Monsieur I'Ambassadeur, piedste Par une lettre en date du 21 de ce, mois, Votre Excellence a bien roulu me cormuniques, arec ure carte jointe, le texte du Menorandum reproduisant les résultats des conversations tenues entre les Gouvernements de France, de Grande-Bretagne et d'Italle à saint Jean de Maurienne et dans les…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19170016_010.pdf",
+  "source_filename": "tra19170016_010.pdf",
+  "source_sha256": "7fb72be4af9979811ca956242008aadad2ff5721d8252782e6dd387f372766a9",
+  "treaty_id": "TRA19170016",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "131-\n\nRÉPUBLIQUE FRANÇAISE\n\nMinistère\n\nDes\n\nIffaires étrangères\n\nA 184G. t\n\nmuinto\n\nSauter\n\n20 - -colore\n\nMonsieur I'Ambassadeur,\n\npiedste\n\nPar une lettre en date du 21 de ce, mois,\n\nVotre Excellence\n\na bien roulu me cormuniques, arec ure\n\ncarte jointe, le texte du Menorandum reproduisant les résultats des conversations tenues entre les Gouvernements de France, de Grande-Bretagne et d'Italle à saint\n\nJean de Maurienne et dans les Conférences ultérieures, relativement à l'Asie Mineure\n\nm....\n\nPour répondre au désir exprimé par\n\nson Excellence naieur le Marquia SALVAGO FAGOI\n\nAmbassadeur d'Italie à Paria.",
+      "quality_score": 0.9211,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Votre Excellence, je m'empresse de lul faire connaitre que je suis l'accord avec son Excellence le Baron Sonnino sur les termes dudit Memorandim qui devra rester secret./.\n\nVeulllez agréer, Monsieur l'Ambassadeur, les\n\nassurances de ma très haute considération.\n\n4. Ribon\n\nPARIS, le 22 août 1917.",
+      "quality_score": 0.975,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.359061,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620054_101_s1",
+      "title": "publication au JO de la Convention (ensemble 1 échange de lettres signées à Paris le 3 février 1962)",
+      "score": 0.354979,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

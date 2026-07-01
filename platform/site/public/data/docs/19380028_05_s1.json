@@ -1,0 +1,116 @@
+{
+  "document_id": "19380028_05_s1",
+  "title": "Note verbale ajoutant l'Australie à l'accession au traité",
+  "year": 1938,
+  "doc_type": "Note verbale",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "X84 PARIS. 8th February, 1939. No. 90. (361/2/39). Monsieur le Ministre, In accordance with instructions from His Majesty's Principal secretary of State for Foreign Affairs, I have the honour, at the instance of His Majesty's Government in the Commonwealth of Australia, to notify their accession to the Convention relating to the salvage of torpedoes, signed in Paris on the 12th June, 1954, in accordance with the pro…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380028_05_s1.pdf",
+  "source_filename": "19380028_05_s1.pdf",
+  "source_sha256": "a595f7f6f2e9d07acd007bf1c64ff8c3567224e759d7de00a664219e18e4ed08",
+  "treaty_id": "TRA19380028",
+  "treaty_number": "AUS001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "X84\n\nPARIS.\n\n8th February, 1939.\n\nNo. 90.\n\n(361/2/39).\n\nMonsieur le Ministre,\n\nIn accordance with instructions from His Majesty's\n\nPrincipal secretary of State for Foreign Affairs, I have the honour, at the instance of His Majesty's Government in the\n\nCommonwealth of Australia,\n\nto notify their accession to the\n\nConvention relating to the salvage of torpedoes, signed in\n\nParis on the 12th June, 1954, in accordance with the provisions of the additional protocol signed in Paris on the 12th\n\nJanuary, 1938.\n\n2. I request that your Excellency will be so good is to notify all contracting partles accordingly, and to inform me in due course of the effective date of the accession.\n\nI have the honour to be, with the highest consideration,\n\nMonsieur le Ministre,\n\nYour Excellency's most obedient, humble Servant,\n\nHis Excellency onsieur George Bonnet finister for Foreign Affairs",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.433244,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr003_s1",
+      "title": "Dénonciation de la convention",
+      "score": 0.424638,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr008_s1",
+      "title": "Extension de l'adhésion aux Bahamas",
+      "score": 0.421561,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_150_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.411278,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_13_s1",
+      "title": "Notification d'adhésion de la Belgique",
+      "score": 0.408653,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slb001_s1",
+      "title": "Notification de non-succession",
+      "score": 0.40752,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.392885,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290061_001d_s1",
+      "title": "Lettre de dénonciation",
+      "score": 0.391522,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr007_s1",
+      "title": "Extension de l'adhésion à Chypre et à la Jamaïque",
+      "score": 0.391172,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_012_s1",
+      "title": "Dénonciation siamoise du traité",
+      "score": 0.390925,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

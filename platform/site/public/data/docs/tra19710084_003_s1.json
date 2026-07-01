@@ -1,0 +1,131 @@
+{
+  "document_id": "tra19710084_003_s1",
+  "title": "Pouvoirs kenyans",
+  "year": 1971,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9285,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Telegraphic Address: \"FOREIGN\" HARAMBEE HOUSE HARAMBEE AVENUE Telephone: 27411 When replying please quote Ref. No.. MEA. 121/094/36 and date MINISTRY OF FOREIGN AFFAIRS P.O. Box 30551 NAIROBI KENYA 19.. 今3F：5 12*, 11 SEP 1977- ACT Ihe Ministry of Foreign Affairs Of the Republic of Kenya presents its compliments to the tabassy of the Republic of France and has the honour to refer to the Cultural Agreement betreen the…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19710084_003_s1.pdf",
+  "source_filename": "tra19710084_003_s1.pdf",
+  "source_sha256": "7f0c2354668245f5c9b18f18766087ee0aa36ed2a4ca1a21ebd8073173573117",
+  "treaty_id": "TRA19710084",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Telegraphic Address: \"FOREIGN\"\n\nHARAMBEE HOUSE\n\nHARAMBEE AVENUE\n\nTelephone: 27411\n\nWhen replying please quote\n\nRef. No.. MEA. 121/094/36 and date\n\nMINISTRY OF FOREIGN AFFAIRS\n\nP.O. Box 30551\n\nNAIROBI\n\nKENYA\n\n19..\n\n今3F：5\n\n12*, 11 SEP 1977-\n\nACT\n\nIhe Ministry of Foreign Affairs Of the Republic of\n\nKenya presents its compliments to the tabassy of the\n\nRepublic of France and has the honour to refer to the\n\nCultural Agreement betreen the two Governments, the final text of which has been finalized.\n\nThe Miniatry wishes to inform the Babassy that the Hon, Mvai Kibaki, E.G.I., M.P., MINISTER TOR FINANCE\n\nAND PLANNING, is prepared to sign the said Agreement on beball of the Gorernment of Kenya, on Iuesday, 14th September 1971 at 10.00 a.n.. Accordingly the\n\nMinistry hereby invites the Babassy to designate a representative of the Government of France to sign the Agreenent on the date and time apecified herein 18 it is convenient.\n\nThe Ministry of Foreign Affaire of the Republic of Kenya aralla Itsello01 this opportunity to ronew to the Imbassy of the Republic\n\nof France the assurances\n\nof its highest considetation.\n\n11th September, 1971.\n\nNAIROBI.\n\nEmbassy of France,\n\nP.O. BOx 1784,\n\nNAIROBI.\n\nFOREION ARRES",
+      "quality_score": 0.9842,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Ministêre des Affaires Etrangères\n\nNAIROBI.\n\nLe Ministère des Affaires Etrangères de la République du Kénya présente ses compliments à 1'Ambassade de la République de France et a l'honneur de se référer à l'Accord oulturel entre les deux Gouver.\n\nnements, dont le texte final a été approuvé.\n\nLe Ministère a le plaisir d'informer l'Ambassade de France que.\n\nthe Hon, Hwa1 KIBAKI, EoloHa, M.P•, Minietro des Finances et du Plen, est disposé à signer ledit Aocord au nom du Gouvernement kényen te mardi I4 septembre 1977 a 10 100. En conséquence 1a Minteter Invite 1Ambaaaads & a6a1gmor u roprdeentant au Couveraement mattin de digner 1'Aocoxd au jour ot a inheure procleés of dearue li toutefo ils leur conviennent.\n\nIo Ministère des Affaires Etrangères de la République du Kénya saisit cette occasion pour renouveler, à 1ºAmbassado de La Républigue française les assuranoes de sa très haute considération.\n\nII septembre I971\n\nNAIROBI.\n\nAmbassade de France\n\nBox 1784, NAIROBI,",
+      "quality_score": 0.8728,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19710084_005_s1",
+      "title": "Instrument kenyan ET Accusé de réception de l'instrument français du 9 novembre",
+      "score": 0.448318,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_007b_s1",
+      "title": "Accusé de réception kenyan de l'instrument français daté du 17 novembre",
+      "score": 0.441024,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.414623,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20070190_006_s1",
+      "title": "Accusé de réception kényan de l'instrument d'approbation français",
+      "score": 0.410473,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_005b",
+      "title": "Second instrument qatari",
+      "score": 0.403597,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.403447,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19750129_005a",
+      "title": "Premier instrument qatari",
+      "score": 0.403141,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.402864,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.402191,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19890183_007_s1",
+      "title": "Accusé de réception français de l'instrument émirati, de la lettre de M. Al Nahyan et de la note de transmission",
+      "score": 0.401253,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

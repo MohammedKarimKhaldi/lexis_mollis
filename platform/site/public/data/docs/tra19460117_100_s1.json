@@ -1,0 +1,120 @@
+{
+  "document_id": "tra19460117_100_s1",
+  "title": "Certification d'enregistrement à l'ONU",
+  "year": 1946,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.91,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "derti=-10 die 1941 No. 709 The Secretary General of the United Nations Herety bertifies that the Exchange of Notes constituting an agreement betreen the United States of America and France relating to passport visa fees for non-immigrants mho are nationals of either country, Washington, 20 November and I0 December has leen forwanded by the Gorermment of the United States of America and registered with the Secretaria…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19460117_100_s1.pdf",
+  "source_filename": "tra19460117_100_s1.pdf",
+  "source_sha256": "d2c0633e67310bf75399152ef5ddffaa86b2872aa2ab20dc19ef997bbf1b6c96",
+  "treaty_id": "TRA19460117",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "derti=-10 die 1941\n\nNo.\n\n709\n\nThe Secretary General\n\nof the\n\nUnited Nations\n\nHerety bertifies that the Exchange of Notes constituting an agreement betreen the United States of America and France relating to passport visa fees for non-immigrants mho are nationals of either country, Washington, 20 November and I0 December\n\nhas leen forwanded by the Gorermment of\n\nthe United States of America\n\nand registered with the Secretariat in accordance with Article 102 of the Chanter of the United Nations, on\n\n21 June 1948\n\nunder No.\n\n242\n\nDone at New York, on\n\n18 August 1948\n\nLe Secrétaire général\n\ndes\n\nNations Unies\n\nCertifie par la perésente que l'Echange de notes constituant un accord entre les\n\nEtats-Unis d'Amérioue et la France de réciprocité sur le tarif des visas de passeports de non-immigrants,\n\nHashington, 20 novembre et 10 décembre 1946,\n\na été transmis par le Gouvernement.\n\ndes Etats-Unis d'Amérique\n\ndenregistré au Secrétarial conformément aux termes de l'Antide 102 de la Chante des\n\nNations Unies, le.\n\n21 วันรัท 1948\n\nsouste No.\n\n242\n\nFait à Neve-Yonde, le.\n\n18 août 1948\n\nThe Secretany-General\n\nLe Secrétaire général\n\nJungen hi\n\nTo the Government of the French Republie\n\nAu Gouvernement de le République françalse",
+      "quality_score": 0.91,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930079_001_s1",
+      "title": "Accord cinématographique entre le gouvernement de la République française et le gouvernement de la République de Georgie",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630357_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.374358,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630358_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.372964,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610160_101",
+      "title": "Publication au Journal officiel (extrait de recueil)",
+      "score": 0.372428,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630356_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.371082,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.365381,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19930240_100_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.363079,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.36141,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630106_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.361247,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630359_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.360769,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

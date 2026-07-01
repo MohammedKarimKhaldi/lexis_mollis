@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19760085_007_s1",
+  "title": "accusé de réception de l'instrument français et entrée en vigueur de l'accord",
+  "year": 1976,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9413,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LOME, LE JÜ JUIL. 1981 Le Ministre des Affeires Ehrangères et de la Crepiration N° 4952_/MAEC/DAPJ/DTi ASOAHE DE PTAICE ¡ façu lo.. Nv° d'ordre. Classi AMDASSADEUR Monsieur le Ministre, J'ai I'honneur d'accuser réception de votre lettre en date du 22 juin 1981 par laquelle vous millavez fait savoir que les procédures requises par 1a Constitution de votre pays pour l'entrée en vigueur de l'Accord général relatif à la…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760085_007_s1.pdf",
+  "source_filename": "tra19760085_007_s1.pdf",
+  "source_sha256": "1e5d986add942f2d35357f6a8ea09405f577443294902f290ab132c6a30c68da",
+  "treaty_id": "TRA19760085",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LOME, LE JÜ JUIL. 1981\n\nLe Ministre des Affeires Ehrangères et de la Crepiration\n\nN° 4952_/MAEC/DAPJ/DTi\n\nASOAHE DE PTAICE\n\n¡ façu lo..\n\nNv° d'ordre.\n\nClassi\n\nAMDASSADEUR\n\nMonsieur le Ministre,\n\nJ'ai\n\nI'honneur d'accuser réception de votre\n\nlettre en\n\ndate du 22 juin 1981 par laquelle vous\n\nmillavez fait savoir que les procédures requises par 1a\n\nConstitution de votre pays pour l'entrée en vigueur de l'Accord général relatif à la Coopération en matière\n\nde recherche scientificue et technique\n\nentre le Gouvernement de la Républigue Togolaise et id Gouvernement de la République Frangaise signé à\n\nLomé le 23 mars 1976, ont été accomplies.\n\nConformément à son article XV, cet accord entrera donc en vigueur entre nos deux pays le ler septembre 1981.\n\nJe vous prie de croire, Monsieur le Ministre, a l'assurance de ma haute considération,\n\nA SON EXCELLENCE\n\nMONSIEUR CLAUDE CHEYSSON\n\nMINISTRE DES RELATIONS EXTERIEURES\n\nP\n\n__A\n\nAnani K. AKAKPO AHIANYO",
+      "quality_score": 0.9413,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760084_007",
+      "title": "Accusé de réception togolais de l'instrument français",
+      "score": 0.715347,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.467736,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.46727,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.46718,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de la convention",
+      "score": 0.464423,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760086_004a_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.464014,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_007_s1",
+      "title": "accusé de réception de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.460942,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.456762,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.455845,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.445036,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19690107_100_s1",
+  "title": "Certificat d'enregistrement de l'accord à l'ONU",
+  "year": 1969,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9824,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ii - CERTIFICATE of REGISTRATION No. 16060 CERTIFICAT d'ENREGISTREMENT The SECRETARY-GENERAL of the UNITED NATIONS Hereby certifies that the Goverrment of the French Republic has registered with the Secretariat in accordance with Article 102 of the Charter of the United Nations the Agreement between France and Cyprus on cultural, scientific and technical co-operation. Signed at Nicosia on 29 Oetober 1969. Le SECRETA…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19690107_100_s1.pdf",
+  "source_filename": "tra19690107_100_s1.pdf",
+  "source_sha256": "f0fbda6a739864460db82122f6018f138224f2b2756fa0b8d83a3299094156ad",
+  "treaty_id": "TRA19690107",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ii - CERTIFICATE of REGISTRATION\n\nNo. 16060\n\nCERTIFICAT d'ENREGISTREMENT\n\nThe SECRETARY-GENERAL of the UNITED NATIONS\n\nHereby certifies that the Goverrment of the French Republic has registered with the Secretariat in accordance with Article 102 of the Charter of the United Nations\n\nthe Agreement between France and Cyprus on cultural, scientific and technical co-operation.\n\nSigned at Nicosia on 29 Oetober 1969.\n\nLe SECRETAIRE GENERAL des NATIONS UNIES\n\nCertifie par la présente que le Gouvernement de la République française a enregisté au Secrétariat conformement aux termes de l'Article 102 de la Charte des Nations Unies l'Accord de coopération culturelle, scientifique et technique entre la France et Chypre. Signé à Nicosie le 29 octobre 1969.\n\nThe registration took place on\n\n5 May 1970\n\nunder No. 10461\n\nDone at New York, on,\n\n16 October 1970\n\nTo the Government of the French Republic\n\nL'enregistrement a eu lieu le sous le n° 10461\n\nFait a New York, le\n\nFor the SECRETARY - GENERAL\n\nPour le SECRETAIRE GENERAL\n\nCooktaura\n\n5 mai. 1970\n\n16. octobre 1970\n\nAu Gouvernement de la République française",
+      "quality_score": 0.9824,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630358_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.744317,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630223_010_s1",
+      "title": "Certificat de l'enregistrement no 10365",
+      "score": 0.727036,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630356_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.721913,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630359_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.705178,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.694922,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.692273,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_101",
+      "title": "Publication au Journal officiel (extrait de recueil)",
+      "score": 0.689594,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630107_010_s1",
+      "title": "Certficat d'enregistrement à l'ONU",
+      "score": 0.674488,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630108_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.65904,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_101_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.567484,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

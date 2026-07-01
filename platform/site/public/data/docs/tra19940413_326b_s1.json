@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940413_326b_s1",
+  "title": "Notification de retrait (lettre de l'ambassadrice de France au Portugal au cabinet du ministre des affaires étrangères du Portugal)",
+  "year": 1994,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9617,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "L’AMBASSADRICE Nos Réf. : 2022-0551375 Lisbonne, le 05/12/2022 Monsieur le Directeur de Cabinet, J’ai l’honneur de vous faire parvenir, ci-joint, copie de la lettre qu’adresse Madame Catherine COLONNA, Ministre de l’Europe et des Affaires étrangères, à Monsieur João GOMES CRAVINHO, Ministre des Affaires étrangères, notifiant le retrait du Gouvernement de la République française du Traité sur la Charte de l’Energie,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940413_326b_s1.pdf",
+  "source_filename": "tra19940413_326b_s1.pdf",
+  "source_sha256": "59f29f692c213b182338b9eba8f9cf9ca4f2052ab8768d0d1a20a83ea4736cab",
+  "treaty_id": "TRA19940413",
+  "treaty_number": "009B",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "L’AMBASSADRICE\n\nNos Réf. : 2022-0551375\n\nLisbonne, le 05/12/2022\n\nMonsieur le Directeur de Cabinet,\n\nJ’ai l’honneur de vous faire parvenir, ci-joint, copie de la lettre qu’adresse Madame Catherine\n\nCOLONNA, Ministre de l’Europe et des Affaires étrangères, à Monsieur João GOMES\n\nCRAVINHO, Ministre des Affaires étrangères, notifiant le retrait du Gouvernement de la\n\nRépublique française du Traité sur la Charte de l’Energie, signé le 17 décembre 1994 à\n\nLisbonne.\n\nLa présente lettre constitue la notification française de retrait prévue par l’article 47,\n\nparagraphe 1, de ce traité.\n\nJe vous prie de croire, Monsieur le Directeur de Cabinet, en l’assurance de ma considération\n\ndistinguée.\n\nP.J. : 1\n\nÀ:\n\nDr. Pedro CARNEIRO\n\nChefe de gabinete de Sua Excelência o Ministro dos Negócios Estrangeiros\n\nLargo do Rilvas 1399-030 Lisboa\n\nRua Santos-o-Velho, n°5 - 1249-079 LISBOA\n\nTél. : 21 393 91 21 – mél : sec.lisbonne-amba@diplomatie.gouv.fr",
+      "quality_score": 0.9617,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "native_pymupdf",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940413_326a_s1",
+      "title": "Notification de retrait (lettre de la ministre de l'Europe et des affaires étrangères au ministre des affaires étrangères du Portugal)",
+      "score": 0.431385,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940413_327_s1",
+      "title": "Accusé de réception de la notification de retrait française (note verbale du ministère portugais des affaires étrangères)",
+      "score": 0.377391,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.375682,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620054_101_s1",
+      "title": "publication au JO de la Convention (ensemble 1 échange de lettres signées à Paris le 3 février 1962)",
+      "score": 0.37299,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_007_s1",
+      "title": "Accusé de réception bolivien de l'instrument français",
+      "score": 0.372411,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470022_001_s1",
+      "title": "Traité (ensemble 1 échange de lettres a/s rapports consulaires)",
+      "score": 0.372234,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_043_s1",
+      "title": "Instrument de Cuba",
+      "score": 0.371094,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20172437_010_s1",
+      "title": "Texte de l'accord (lettre australienne)",
+      "score": 0.370477,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_004_s1",
+      "title": "Instrument français",
+      "score": 0.365985,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_100",
+      "title": "Note relative à la transmission des pouvoirs de la Région Bruxelles-Capitale",
+      "score": 0.365736,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

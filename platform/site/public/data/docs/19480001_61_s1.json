@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_61_s1",
+  "title": "Note verbale d'adhésion",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9332,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "1.10 E MINIST.\" EMERIST:- Li , ETRANGÈRES ¡OCOLE 1 fi-i 1960 L'ambassade de la République Tchécosloraque à Paris présente ses compliments au winistère des Affaires Etran- gères et a I 'honneur de s'adresser a Lui coume au dépositalre de la Convention sur le Expositions Internationales signée le 22 Novembre 1928 et modifiée per le Protocole du Mai 1948, pour Iui présenter la déclaration sur 1'i adhé- sion de la Répub…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_61_s1.pdf",
+  "source_filename": "19480001_61_s1.pdf",
+  "source_sha256": "4f447e02b120c969ccc71c6492ef64026135b310c6901180135b198326b74032",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "CS0003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1.10\n\nE\n\nMINIST.\"\n\nEMERIST:-\n\nLi\n\n, ETRANGÈRES\n\n¡OCOLE\n\n1 fi-i 1960\n\nL'ambassade de la République Tchécosloraque à Paris présente ses\n\ncompliments au winistère des Affaires Etran-\n\ngères et a I 'honneur de s'adresser a Lui coume au dépositalre de la Convention sur le Expositions Internationales signée le 22 Novembre 1928 et modifiée per le Protocole du Mai 1948, pour Iui présenter la déclaration sur 1'i\n\nadhé-\n\nsion de la République Ichécoslovaque à Ladite Convention, dans le sens de son Article 35.\n\nmemire de flait la dépubliqhe tocolorague dirient le\n\norganisation internationale gouvernementale\n\nle Bureau International des Ixpositions siègeant 60, Avenue de la Bourdonnaio, Paris 7e.\n\nL'Ambassade de la République Ichécoslovaque à Paris prie le ministère des Affaires Itrangères de bien vouloir prendre note de la déclaration du Gouvernement tchécoslovaque sur 1'\n\nadhésion de la République Ichécoalovaque à ladite\n\nConvention et à\n\nen informer les Etats-menbres respectifs.\n\nAubassade de la République Ichécoslova._ue saisit\n\ncette occasion pour renouveler au linistère des Affaires\n\nEtrangères Ies assurances de sa haute considération./\n\nl'aris, le 31 Mars 1960-\n\nMINISIERE DES AFFAIRES ETRANGERES\n\nPARTI",
+      "quality_score": 0.9332,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.422967,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_05_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.42154,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.421096,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.420764,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_104_s1",
+      "title": "Instrument de ratification de la Tchécoslovaquie",
+      "score": 0.417923,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_182_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.413104,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_164_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.411647,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.410479,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_08_s1",
+      "title": "Note verbale d'adhésion au protocole de 1948 de l'Autriche",
+      "score": 0.409272,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_049_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.407913,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

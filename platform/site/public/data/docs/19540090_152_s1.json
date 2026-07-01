@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_152_s1",
+  "title": "Note de transmission de l'instrument",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9899,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE LA RÉPUBLIQUE POPULAIRE DE BULGARIE No 342 PARIS, LE 11 JUIN 1984 E 1C0 001784 horace. L'Ambassade de la République Populaire de Bulgarie présente ses compliments au Ministère des Relations Extérieures et a l'honneur de lui parvenir sous co pli l'instrument d'adhésion de la République Populaire de Bulgarie à la Convention internationale pour l'unification des méthodes d'analyse et d'appréciation des vin…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_152_s1.pdf",
+  "source_filename": "19540090_152_s1.pdf",
+  "source_sha256": "a9af87f723a0f2e975c2710007e6b63fcc9cc039240684546e74b2365e69ff11",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "BGR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DE LA RÉPUBLIQUE\n\nPOPULAIRE DE BULGARIE\n\nNo 342\n\nPARIS, LE 11 JUIN 1984\n\nE\n\n1C0 001784\n\nhorace.\n\nL'Ambassade de la République Populaire de Bulgarie présente ses compliments au Ministère des Relations Extérieures et a l'honneur de lui parvenir sous co pli l'instrument d'adhésion de la République Populaire de Bulgarie à la Convention internationale pour l'unification des méthodes d'analyse et d'appréciation des vins, signée à Paris le 13 octobre 1954 dont le gouvornement fran- çais est le dépositaire.\n\nCette Mission prio 1 'Honorablo Ministère de bion vouloir lui confirmer la réception de l'instrument d'adhésion et de lui communiquer quelle date sera considérée comme date de sa déposition.\n\nL'Ambassade de la République Populaire de Bulgarie saisit cette occasion pour renouveler au Ministère des Relations Extérieures les assurances de sa haute considération. Al\n\nAnnexe: ment\n\nMINISTERE DES RELATIONS EXTERIEURES\n\n37, Quai d'Orsay\n\nParis 7 ème",
+      "quality_score": 0.9899,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_029_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Bulgarie",
+      "score": 0.413774,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20110656_007_s1",
+      "title": "Note accusant réception de la notification djiboutienne",
+      "score": 0.413133,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_blr001_s1",
+      "title": "Note informant de l'intention d'adhésion",
+      "score": 0.408261,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_562_s1",
+      "title": "Note de transmission de l'instrument marocain",
+      "score": 0.40802,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_561_s1",
+      "title": "Instrument d'adhésion marocain",
+      "score": 0.404726,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_153_s1",
+      "title": "Procès-verbal de dépôt de l'instrument bulgare",
+      "score": 0.404666,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_irq001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.403699,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_67_s1",
+      "title": "Note verbale d'adhésion de l'Uruguay",
+      "score": 0.403059,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.401579,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_20_s1",
+      "title": "Note verbale annonçant la candidature de la Bulgarie à l'OEPP",
+      "score": 0.399169,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "document_id": "tra18580012_007_s1",
+  "title": "Procès-verbal d'échange des instruments de ratification",
+  "year": 1858,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7532,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Умела 22 Горнаки 1359. CONSULAT GÊNÉRAL DE FRANCE • à Yeddo (JAPON) : Procus verbal d'échange du — Natifications du tracte condu, le . g Octobre 1858, entre La Majesté l'ém= pereur des Francais et la Majesté l'Empereur du Japon. Les drapegrés s'étant seinio pour proceder à l'echange des Soatifications. de La Majesté ('Empereur des Français é de Sa Mageaté 1 Emperecer de Salon sur le traité de faix, d'amitié et de co…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18580012_007_s1.pdf",
+  "source_filename": "tra18580012_007_s1.pdf",
+  "source_sha256": "ef947e7c8a1a1226bbfb4540b2484780003f2bc8adc437782d3c1db309501f04",
+  "treaty_id": "TRA18580012",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Умела 22 Горнаки 1359.\n\nCONSULAT GÊNÉRAL\n\nDE FRANCE\n\n• à Yeddo (JAPON)\n\n:\n\nProcus verbal d'échange du —\n\nNatifications du tracte condu, le .\n\ng Octobre 1858, entre La Majesté l'ém= pereur des Francais et la Majesté l'Empereur du Japon.\n\nLes drapegrés s'étant seinio pour\n\nproceder à l'echange des Soatifications.\n\nde La Majesté ('Empereur des Français é de Sa Mageaté 1 Emperecer de Salon sur le traité de faix, d'amitié et de commerce conclu à Veddo, le g Aclibre 1858, les Instruments de ces Gatificatirs ont été feroduits, et ayant ete, aprés -.\n\nexasen, trouves en bonne et die ferme, l'echange en a été operé. On foi de\n\nPar en ingen me rays le tains\n\nqu'els ont reveu du\n\ncachet",
+      "quality_score": 0.8193,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "cachet de leurs armes.).\n\nPait es double expedition a feddo\n\nle Vingt: Deux Septembre de l'an 1859.\n\nOuthesme de Bellecoug\n\nCONSTE\n\nCondal fénéral de\n\nU empereur à yedo\n\ndie\n\nPlenipotentiaire\n\nJaponais\n\nSakaï ouoki no Kami\n\nsarapte ''sceau du plenipotentiaite",
+      "quality_score": 0.8227,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "ETT",
+      "quality_score": 0.7172,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "ms ———— =",
+      "quality_score": 0.6912,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "|",
+      "quality_score": 0.6464,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "CONSOLAT\n\nJAPON",
+      "quality_score": 0.8324,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "ラランス！ハウニー ケイエスタベドセンデバクル",
+      "quality_score": 0.7018,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "マビステニッポン／タイミンマタニ\n\nカワスタメニ\n\nニッポン / ハウニ\n\nOuo",
+      "quality_score": 0.7944,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20230094_001_s1",
+      "title": "Convention",
+      "score": 0.5,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20250001_001_s1",
+      "title": "Accord",
+      "score": 0.5,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_42_s1",
+      "title": "Instrument d'adhésion du Pérou",
+      "score": 0.411017,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_008_s1",
+      "title": "Procès-verbal d'échange des instruments de ratification en japonais, accompagné d'une traduction en français  conforme et certifiée",
+      "score": 0.389894,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19290031_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.375385,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19610266_005_s1",
+      "title": "Ratification mauritanienne",
+      "score": 0.371522,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19840266_001_s1",
+      "title": "Texte du procès-verbal (ensemble liste des délégations chypriote et française)",
+      "score": 0.36798,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19340016_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.364633,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18070007_006_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.363033,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19220022_006_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.361646,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

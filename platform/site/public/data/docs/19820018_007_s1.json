@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_007_s1",
+  "title": "Pièces dans 19280002",
+  "year": 1982,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9552,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ombrajada le la Paquiblica.Argentinn Sec. II N° 165 R7 12 AVR. 1983 ARRIVÉE 'Ambassade de la République Argentine présente ses compli nents au Ministère des Relations Extérieures et a l'honneur de se référer à sa lettre du 30 décemore 1982 (n° 86) relative à 1'amendement au Protocole du 30 novembre 1972 portant modification de la Convention signée à Paris le 22 novembre 1928 concernant les expositions internationale…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_007_s1.pdf",
+  "source_filename": "19820018_007_s1.pdf",
+  "source_sha256": "b731f98bef480178bf0877862d6c468cdde72c3d3f7cb6a2c5cbee2832c3dc87",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "ARM001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ombrajada le la\n\nPaquiblica.Argentinn\n\nSec. II\n\nN° 165\n\nR7\n\n12 AVR. 1983\n\nARRIVÉE\n\n'Ambassade de la République Argentine présente ses compli nents au Ministère des Relations Extérieures et a l'honneur de se référer à sa lettre du 30 décemore 1982 (n° 86) relative à 1'amendement au Protocole du 30 novembre 1972 portant modification de la Convention signée à Paris le 22 novembre 1928 concernant les expositions internationales, adopté le 24 juin 1982.\n\nLe Gouvernement argentin accepte et ratifie, par la présen- te, cet amendement par lequel les dispositions de l'article 5.2. sont sup- primées partiellement, conformément à ce qui a été comuniqué par ce Minis- tère dans sa lettre n° 86.\n\nL'Ambassade de la République Argentine saisit cette occasion our renouveler au Ministère des Relations Extérieures les assurances de sa très haute considération.\n\nParis, le 25 mars 1983\n\nRESTÉRE DES RELATICKS EXTÉRIEURES\n\nNATIONS UNIES\n\n12. AVR 1983\n\nLET GACAKISETIONS INTERRATIONALES\n\nMinistère des Relations Extérieures\n\nPARIS",
+      "quality_score": 0.9552,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_025_s1",
+      "title": "Note verbale d'acceptation de la Finlande",
+      "score": 0.423992,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_016_s1",
+      "title": "Note verbale d'acceptation de l'amendement de 1982",
+      "score": 0.417828,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.417234,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_033_s1",
+      "title": "accusé de réception du Nicaragua de la notification de l'amendement",
+      "score": 0.412174,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_037_s1",
+      "title": "Note verbale d'acceptation du Pérou",
+      "score": 0.406529,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.404101,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_037_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.403715,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.401221,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_026_s1",
+      "title": "Note verbale d'acceptation de l'Espagne",
+      "score": 0.401164,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_046_s1",
+      "title": "Note verbale d'adhésion du Salvador",
+      "score": 0.40044,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

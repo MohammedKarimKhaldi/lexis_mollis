@@ -1,0 +1,128 @@
+{
+  "document_id": "19480001_12_s1",
+  "title": "Pouvoirs de signature",
+  "year": 1948,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.955,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "lons Holotein Stormain, des Dithmarses de Lanenlourg et d'Oldenbourg SAVOIR FAISONS: qu'ayant résolu d'adhérer aux modifications ap- portées aux articles 2,3,4 et 10 de la Convent on du 22 novembre 1928 concernant les I positions Internat o ales, Nous avons choisi, nommé et autorisé, conne par les présentes, Nous choisissons, no ons et autorison, n qualité de lotre Plénipotentiaire, Lonsi ur le C nseiller Hans Foul…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_12_s1.pdf",
+  "source_filename": "19480001_12_s1.pdf",
+  "source_sha256": "e624a6f7fb903c70f9fd92f3cb7851872ea9499a139d758b31876b92fea22221",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "255",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "lons\n\nHolotein Stormain, des Dithmarses de\n\nLanenlourg et d'Oldenbourg\n\nSAVOIR FAISONS: qu'ayant résolu d'adhérer aux modifications ap- portées aux articles 2,3,4 et 10 de la Convent on du 22 novembre 1928 concernant les I positions Internat o ales, Nous avons choisi, nommé et autorisé, conne par les présentes, Nous choisissons, no ons et autorison, n qualité de lotre Plénipotentiaire, Lonsi ur le C nseiller Hans Foul Hoff jer, Chargé d'Affaires a.1. à votre\n\nAmbassade à Pris, ch valier de Notr Ordr du D nebr g et décoré de la Croix d'honn ur du mème orare à cien r s uf votre rat fic t'on le prot o 1 propo ' conte ant 1 s dites modifications, pro ttant en foi et parole de Roi d'avoir pour agréable tout ce que Notre dit\n\nPlénipote tia're aura signé n vertu des pr' ents Pleins Pouvoirs.\n\nEn foi de voi, Nus vons signé de Notre , ropre main s\n\n٠/٠/٠/٠",
+      "quality_score": 0.9507,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Pleins Pouvoirs et y avons fait apposer Notre sceau Royal.\n\nDonnés à Graasten le 16 juillet de L'an mil neuf cent quarantehuit, de Notre règne le deuxième.\n\nPLEINS POUVOIRS",
+      "quality_score": 0.9594,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.403248,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.397774,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19920190_095_s1",
+      "title": "Pouvoirs",
+      "score": 0.379459,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.372995,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.364425,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_520",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.364121,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19490009_100_s1",
+      "title": "Échange de lettres secret précisant certains points du Protocole",
+      "score": 0.361837,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_095",
+      "title": "Pouvoirs belges",
+      "score": 0.361593,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.360729,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_003_s1",
+      "title": "Pouvoirs monégasques",
+      "score": 0.359577,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

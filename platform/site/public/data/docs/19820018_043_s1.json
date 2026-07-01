@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_043_s1",
+  "title": "Note verbale confirmant l'adhésion du Pérou à l'amendement de 1982",
+  "year": 1982,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9612,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "1 65 Embergiale del Feri 5-I4-M/9 E \" 13 1. neice ne วิวร์ L'Ambassade du Pérou présente ses com- pliments au Ministère des Relations Exterieures, Service du Protocole et conformément au souhait exprimé dans Sa Note n° 86 du 30 décembre I982, a l'honneur de Lui faire savoir que l'amendement au Protocole adopté le 24 juin I982 par l'Assem- blée Générale du Bureau International des Exposi- tions a été accepté par le G…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_043_s1.pdf",
+  "source_filename": "19820018_043_s1.pdf",
+  "source_sha256": "8f43e339fb1e5fafb39e75d0a81532d594aecea3e204bbdd39096e258697a1a2",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "700",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1 65\n\nEmbergiale del Feri 5-I4-M/9\n\nE\n\n\" 13 1.\n\nneice ne วิวร์\n\nL'Ambassade du Pérou présente ses com- pliments au Ministère des Relations Exterieures,\n\nService du Protocole et conformément au souhait exprimé dans Sa Note n° 86 du 30 décembre I982, a l'honneur de Lui faire savoir que l'amendement au Protocole adopté le 24 juin I982 par l'Assem- blée Générale du Bureau International des Exposi- tions a été accepté par le Gouvernement péruvien.\n\nL'Ambassade du Pérou saisit cette occasion pour renouveler au Ministère des Relations Exté- rieures l'assurance de sa haute considération.\n\nParis le II janvier 1983\n\nMINISTERE DES RELATIONS EXTERIEURES\n\nCorvice du Protocole\n\nPARIS",
+      "quality_score": 0.9612,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_700",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.423267,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.420218,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.406087,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.40511,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_033_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.402595,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_007_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.399175,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.396771,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_irn002_s1",
+      "title": "Notification au Bureau international des expositions de l'adhésion de l'Iran",
+      "score": 0.394176,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.394118,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_67_s1",
+      "title": "Note verbale d'adhésion de l'Uruguay",
+      "score": 0.3927,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

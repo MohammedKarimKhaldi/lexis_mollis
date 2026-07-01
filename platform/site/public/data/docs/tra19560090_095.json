@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560090_095",
+  "title": "Pouvoirs belges",
+  "year": 1956,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9694,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "BAUDOUIN, ROI DES BELGES, A tous présents et à venir, SALUT. Désirant arrêter de concert avec les Souverains et Chefs des Etats membres de la Communauté Européenne du Charbon et de l'Acier, un Traité portant modification du Traité instituant la Communauté Européenne du Charbon et de l'Acier, signé à Paris, le 18 avril 1951, à ces causes et Nous confiant entièrement en la capacité, le zèle et le dévouement du Baron P…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_095.pdf",
+  "source_filename": "tra19560090_095.pdf",
+  "source_sha256": "0582f4fb6f0e91e5a59de29ae79e6153ffa2a3ebb726b3e27326eae10012342d",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "BEL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "BAUDOUIN,\n\nROI DES BELGES,\n\nA tous présents et à venir, SALUT.\n\nDésirant arrêter de concert avec les Souverains et Chefs des Etats membres\n\nde la Communauté Européenne du Charbon et de l'Acier, un Traité portant modification du\n\nTraité instituant la Communauté Européenne du Charbon et de l'Acier, signé à Paris, le 18 avril 1951, à ces causes et Nous confiant entièrement en la capacité, le zèle et le dévouement du Baron Prosper POSWICK, Commandeur de l'Ordre de la Couronne, Officier de l'Or dre de Léopold II et Chevalier de l'Ordre de Léopold, Notre Ambassadeur à Luxembourg, l'avons nommé, commis et député et, par ces présentes, le nommons, commettons et députons Notre Plénipotentiaire à l'effet d'entrer en pourparlers avec celui ou ceux qui auront été autorisés de la part des Souverains et Chefs des Etats membres de la Communauté Européenne du Charbon et de l'Acier, pour négocier, établir et conclure ledit Traité, Nous réservant d'approuver et de ratifier ce que Notre dit Plénipotentiaire aura stipulé, promis et signé, en vertu des présents pleins pouvoirs, conformément aux instructions dont il est muni\n\nEn foi de quoi, Nous avons ordonné que les présentes fussent revêtues du sceau\n\nlade l'Etat.\n\nDonné à Bruxelles, le 26 octobre 1956.\n\nPAR LE ROI :\n\nPour le Ministre des Affaires étrangères absent, le Ministre du Commerce extérieur,\n\nwow",
+      "quality_score": 0.9694,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_022_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.746433,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_19_s1",
+      "title": "Pouvoirs de signature de la Belgique",
+      "score": 0.431996,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.427824,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19920190_095_s1",
+      "title": "Pouvoirs",
+      "score": 0.423959,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.414191,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.401786,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_096",
+      "title": "Instrument de ratification belge",
+      "score": 0.400848,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_520",
+      "title": "Pouvoirs luxembourgeois",
+      "score": 0.395041,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_12_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.393995,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_11_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.390931,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

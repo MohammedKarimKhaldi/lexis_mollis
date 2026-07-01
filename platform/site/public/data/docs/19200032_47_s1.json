@@ -1,0 +1,128 @@
+{
+  "document_id": "19200032_47_s1",
+  "title": "Traduction de courtoisie de l'instrument suédois",
+  "year": 1920,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9729,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCÈS-VERBAL DÉPÔT PAR LA SUÈDE DES RATIFICATIONS SUR LA CONVENTION INTERNATIONALE POUA LA CRÉATION, À PARIS, D'UN INSTITUT INTERNATIONAL DU FROID EN DATE & PARIS DU 21 JOIN 1920 En exécution de l'article I1 de la Convention internationale pour la création, à Paris, d'un Institut international du froid, en date à Paris du z1 juin 1970, conclue entre la République Argentine, la Belgique, le Chili, la Chine, Costa-Ri…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_47_s1.pdf",
+  "source_filename": "19200032_47_s1.pdf",
+  "source_sha256": "72e73f0e7e722b847496903fb84dc2248155112f73723c5fb36ac408d672a3e4",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "SWE003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCÈS-VERBAL\n\nDÉPÔT PAR LA SUÈDE DES RATIFICATIONS\n\nSUR LA CONVENTION INTERNATIONALE\n\nPOUA LA CRÉATION, À PARIS,\n\nD'UN INSTITUT INTERNATIONAL DU FROID\n\nEN DATE & PARIS DU 21 JOIN 1920\n\nEn exécution de l'article I1 de la Convention internationale pour la création, à Paris, d'un Institut international du froid, en date à Paris du z1 juin 1970, conclue entre la République Argentine, la Belgique, le\n\nChili, la Chine, Costa-Rica, Cuba, le Dunemark, l'Espagne, la Finlande, la France, l'Algérie, les Colonies de l'Afrique occidentale française, tes\n\nColonies et Protectorats français de l'Indo-Chine, Madaguscar, la Grande\n\nBretagne et les Dominions de l'Afrique da Sad, le Commonwealth d'Australie.\n\nfa Nouze les dande les indes la forece Har tahe et ses Cofonte d'Erythrée, de Tripolitaine el des Somalis, le Japor, le Luxembourg, l\n\nMaroc, Monoco, lu Norvège, Panama, les Pays-Bas et leurs Colonies des\n\nIndes néerlandaises, de Pérou, la Pologne, le Portugal, la Roumanie, [État\n\nSerbe-Croate-Siovène, le Siam, la Suede, la Suisse, la République Icheco- Slovaque, la Tunisie et l'Uraguay, le MiNisTre De Suine, à Paris, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder au dépot de l'instrument des ralifications de Sa Majesté le Roi de\n\nSuède sur ladile Convention et le remettre au Gouvernement de la\n\nRépublique Française.\n\nL'instrument ayaol élé, après examen, trouvé en bonne et duc forme, a été confié au Gouvernement de la République Française pour rester déposé dans ses archives.",
+      "quality_score": 0.9885,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "PT. cas\n\n9 —\n\nConformément aux termes de l'article 11 précité, le Gouvernement français donnera avis du présent dépôt aux Puissances contractantes.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procès-verbal et y ont apposé leurs cachets.\n\nFAIT à Paris, le vingt et un décembre 1931, à onze heures.",
+      "quality_score": 0.9573,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200032_02_s1",
+      "title": "Procès verbal de dépôt de ratifications sur la convention",
+      "score": 0.851055,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_08_s1",
+      "title": "Procès verbal de dépôt de l'instrument danois",
+      "score": 0.732719,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_38_s1",
+      "title": "Procès verbal de dépôt de l'instrument polonais",
+      "score": 0.732549,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_43_s1",
+      "title": "Procès verbal  de dépôt de l'instrument de ratification siamois",
+      "score": 0.704797,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_447_s1",
+      "title": "Procès-verbal de dépôt de l'instrument japonais",
+      "score": 0.694406,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_35_s1",
+      "title": "Procès verbal de dépôt de l'instrument néerlandais",
+      "score": 0.684969,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_797_s1",
+      "title": "Procès verbal de dépôt de l'instrument du Royaume des Serbes, Croates, Slovènes",
+      "score": 0.661171,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_40_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification portugais",
+      "score": 0.653144,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_05_s1",
+      "title": "Procès-verbal de l'instrument de ratification de l'Afrique du Sud",
+      "score": 0.644955,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_798_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification serbe-croate-slovène",
+      "score": 0.637655,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

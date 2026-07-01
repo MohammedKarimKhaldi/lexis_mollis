@@ -1,0 +1,95 @@
+{
+  "document_id": "tra19760152_030a_s1",
+  "title": "Accord",
+  "year": 1976,
+  "doc_type": "Accord",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 0.9706,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DER BUNDESMINISTER DES AUSWARTIGEN VOLLMACHT Der Geschäftsträger ad interim der Bundesrepublik Deutschland in Pariar Herr Gesandter Carl Lahusenz wird htermit bevollmächtigt, das Zusatzübereinkommen zu dem Abkommen vom 19, Januar 1967 zwischen der Regierung der Französischen Republik und der Regterung der Bundesrepublik Deutschland über den Bau und den Betrieb eines Höchstflußreaktors in der durch das Zun satzabkomm…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19760152_030a_s1.pdf",
+  "source_filename": "tra19760152_030a_s1.pdf",
+  "source_sha256": "07c41c0a1e53710b2843d2ab92a0d79421c97fbb78a6256987aff82de1f52c01",
+  "treaty_id": "TRA19760161",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DER BUNDESMINISTER DES AUSWARTIGEN\n\nVOLLMACHT\n\nDer Geschäftsträger ad interim der Bundesrepublik Deutschland in Pariar\n\nHerr Gesandter Carl Lahusenz\n\nwird htermit bevollmächtigt, das Zusatzübereinkommen zu dem Abkommen vom 19, Januar 1967 zwischen der Regierung der Französischen\n\nRepublik und der Regterung der Bundesrepublik Deutschland über den\n\nBau und den Betrieb eines Höchstflußreaktors in der durch das Zun satzabkommen vom 6 Jul1 1971 geänderten und durch das Ubereinkommen vom 19 7u11 1974 zwischen den genannten beiden Regterungen und der\n\nRegierung des Vereinigten Königreiches Großbritannien und Nordirland über den Beitritt dieser Regierung zu dem Abkommen weiter geänderten\n\nPassung für die Reglerung der Bundesrepublik Deutschland zu unterzeichnen.\n\nBonn, den 7. August 1976",
+      "quality_score": 0.9706,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760152_001_s1",
+      "title": "Texte de l'avenant",
+      "score": 0.409582,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810243_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.396956,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810243_001_s1",
+      "title": "Texte de l'avenant",
+      "score": 0.3913,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760152_030b_s1",
+      "title": "Pouvoirs allemands (note de travail allemande a/s objet et date de la validité des pouvoirs)",
+      "score": 0.368721,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_695",
+      "title": "Pouvoirs néerlandais",
+      "score": 0.352911,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_521",
+      "title": "Instrument de ratification luxembourgeois",
+      "score": 0.352408,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19830281_010_s1",
+      "title": "Lettre japonaise",
+      "score": 0.35185,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

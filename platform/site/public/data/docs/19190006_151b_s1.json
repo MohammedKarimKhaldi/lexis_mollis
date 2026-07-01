@@ -113,5 +113,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190006_151a_s1",
+      "title": "Instrument de ratification bulgare du Traité de Paix",
+      "score": 0.83223,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_009_s1",
+      "title": "Texte de la Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
+      "score": 0.789389,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_351b_s1",
+      "title": "Instrument de ratification grec de la Convention entre la Bulgarie et la Grèce",
+      "score": 0.761538,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_002_s1",
+      "title": "Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
+      "score": 0.746868,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19620059_005_s1",
+      "title": "Instrument belge",
+      "score": 0.628238,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_151b_s1",
+      "title": "Instrument de ratification bulgare de la Convention concernant la liberté de passage dans les détroits",
+      "score": 0.431529,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200016_726_s1",
+      "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+      "score": 0.416465,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_005_s1",
+      "title": "Instrument belge",
+      "score": 0.41632,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_09_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.415554,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_041",
+      "title": "Accusé de réception français de l'instrument d'adhésion andorran",
+      "score": 0.411833,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
 }

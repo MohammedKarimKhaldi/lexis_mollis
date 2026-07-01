@@ -1,0 +1,116 @@
+{
+  "document_id": "19660161_60_s1",
+  "title": "Pouvoirs de signature de la Tchécoslovaquie",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9748,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "GOUVERNEMENT DI IA REFUBLIJUE SOCIALISTE ICHECOSLOVAQUE Un Protocole additionnel modifiant l'article IV de la Convention du 22 Novembre 1928 concernant les Expositions internationales devant être signé, le Gou- vernement de la République Socialiste Ichécoslovaque a nommé et par les présentes norme le Ir Vilém Pithart, Imbassadeur Extraordinaire et Plénipotentiaire de la République Socialiste Ichécoslovaque er Républ…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_60_s1.pdf",
+  "source_filename": "19660161_60_s1.pdf",
+  "source_sha256": "b49ec158f3c18a4520dc3f2acc178b92c4740579f682fb58f799333a3d3c2581",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "CZK001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GOUVERNEMENT DI IA REFUBLIJUE SOCIALISTE ICHECOSLOVAQUE\n\nUn Protocole additionnel modifiant l'article IV de la Convention du 22 Novembre 1928 concernant les\n\nExpositions internationales devant être signé, le Gou- vernement de la République Socialiste Ichécoslovaque a nommé et par les présentes norme le Ir Vilém Pithart,\n\nImbassadeur Extraordinaire et Plénipotentiaire de la République Socialiste Ichécoslovaque er\n\nRépublique Française,\n\nson Plénipotentiaire et lui confère tout pouvoir et mandat de signer le Protocole sus-mentionné.\n\nPrague, le 29. Septenbre 1966\n\nPrésident du Conseil ve Qut. Yugu linistre des Affaires Etrangères",
+      "quality_score": 0.9748,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19570067_975_s1",
+      "title": "Instrument yougoslave",
+      "score": 0.385183,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.379574,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_24_s1",
+      "title": "Dépôt de procès verbal de l'instrument de ratification",
+      "score": 0.375481,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_04_s1",
+      "title": "Pouvoir de signature de la ratification",
+      "score": 0.374613,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.371491,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_87_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Roumanie",
+      "score": 0.371412,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_15_s1",
+      "title": "Pouvoirs de signature de l'Autriche",
+      "score": 0.370149,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_hun001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.365144,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.364912,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_25_s1",
+      "title": "Instrument de ratification de la Hongrie",
+      "score": 0.364692,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

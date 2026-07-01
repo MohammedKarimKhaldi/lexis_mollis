@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19560090_698",
+  "title": "Procès-verbal de dépôt de l'instrument néerlandais",
+  "year": 1956,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.961,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "PROCES-VERBAL DE DEPOT DES INSTRUMENTS DE RATIFICATION DES PAYS-BAS DU TRAITE PORTANT MODIFICATION AU TRAITE INSTITUANT LA CONAUNAUTE EUROPBENNE DU CHARBON ET DE D'ACIER, SIGNE A LUXEMBOURG LE 2T OCTOBRE 1956 Son Excellence Monsieur J.W. BEYEN, Ambassadeur Extraordinaire et Plénipotentiaire des Pays-Bas, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Tudovic CHANCEL, Mini…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_698.pdf",
+  "source_filename": "tra19560090_698.pdf",
+  "source_sha256": "e3f9fadce46e477df44ccb476a8122e8e78453364239a7742ab1477bd4fa85db",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "NLD003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nDE DEPOT DES INSTRUMENTS DE RATIFICATION DES PAYS-BAS\n\nDU TRAITE PORTANT MODIFICATION AU TRAITE INSTITUANT\n\nLA CONAUNAUTE EUROPBENNE DU CHARBON ET DE D'ACIER,\n\nSIGNE A LUXEMBOURG LE 2T OCTOBRE 1956\n\nSon Excellence Monsieur J.W. BEYEN, Ambassadeur\n\nExtraordinaire et Plénipotentiaire des Pays-Bas, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Tudovic CHANCEL, Ministre\n\nPlénipotentiaire, Chef du Protocole, agissant au nom du\n\nMinistre des Affaires Etrangères, au dépôt des instruments de ratification des Pays-Bas du Traité portant modification au Traité instituant la Communauté Européenne du Charbon et de l'Acier, signé à Iuxembourg le 27 octobre 1956, et en exécution de l'article 3 dudit Traité.\n\nLes instruments ayant été, après examen, trouvés\n\nen bonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République Française.\n\nEN POI DE QUOI, les soussignés ont dressé le présent\n\nProcès-Verbal, qu'ils ont revêtu de leur sceau.\n\nFAIT A PARIS, en double exemplaire, le 9 octobre 1958\n\n2.Clared\n\nMuy",
+      "quality_score": 0.961,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560090_438",
+      "title": "Pouvoirs français",
+      "score": 0.817991,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_523",
+      "title": "Procès-verbal de dépôt de l'instrument luxembourgeois",
+      "score": 0.813684,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.799879,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_033",
+      "title": "Procès-verbal de dépôt de l'instrument allemand",
+      "score": 0.727872,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.648387,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.627522,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_58_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.620042,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_36_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.619092,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.612075,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.603606,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_435_s1",
+  "title": "Pouvoirs italiens",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "it"
+  ],
+  "quality_score": 0.955,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "eN tutticoloro che le Presenti vedranno: Salute. S' E Fictio Quaroni,, Ambascia lore di Italia in Parigi, è per le tresenti da Noi elello e nominato Nostin Plenipo tendiario per la firma delle Convenzione internationale per l'unificatione decine todi di analisi e di apprettamerto dei ti tulo dopo conferiamo all' tom basciatore Pietro Guaroni Fieno Totera ed ogni necessaria antoriti. In fado di che Noi abbiamo de Nas…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_435_s1.pdf",
+  "source_filename": "19540090_435_s1.pdf",
+  "source_sha256": "f71f8aa12a9b278d801ae2d29ef8d86728cacdc851a0705e3364d2ae97c99de3",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "eN tutticoloro che le Presenti vedranno: Salute.\n\nS' E Fictio Quaroni,, Ambascia lore di Italia in Parigi, è per le tresenti da Noi elello e nominato Nostin Plenipo tendiario per la firma delle Convenzione internationale per l'unificatione decine todi di analisi e di apprettamerto dei ti tulo dopo conferiamo all' tom basciatore Pietro Guaroni Fieno Totera ed ogni necessaria antoriti.\n\nIn fado di che Noi abbiamo de Nastia mano firmato le Presenti evi abbiamo fatto appare il Nastio sigilla?\n\nDate a Roma 1 14129991011955\n\nMorek",
+      "quality_score": 0.955,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_061_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.420403,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_24_s1",
+      "title": "Pouvoirs de dépôt de la ratification italienne",
+      "score": 0.394795,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_435",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.38042,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_54_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.379859,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_36_s1",
+      "title": "Pouvoirs de négociation et de signature de l'Italie",
+      "score": 0.370632,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630134_003",
+      "title": "Pouvoirs italiens",
+      "score": 0.368206,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_09_s1",
+      "title": "Résolution des Etats-membres du CERS/ESRO sur l'adhésion des Pays-Bas (Document sans lieu ni date)",
+      "score": 0.363109,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr002_s1",
+      "title": "Pouvoirs à l'ambassadeur de Saint-Marin à Paris de dépôt de l'instrument d'adhésion",
+      "score": 0.354691,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540064_003_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.353868,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_ita001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.352297,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

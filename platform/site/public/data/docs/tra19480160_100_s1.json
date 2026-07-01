@@ -1,0 +1,104 @@
+{
+  "document_id": "tra19480160_100_s1",
+  "title": "Lettre hongroise a/s nouveaux crédits accordés aux entreprises à participation française.",
+  "year": 1948,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8503,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Paris, le le Février I£48 !\" PRIS D7** DE LA DELEC TO\" HOMERCIS\" . Consieur le Président, Comme suite aux négoci tions qui onu eu livu entre ue deur délégations au cuei d'ursay du 18 au 01 Jonvier 1948, j'ei 1 'honneur de vous informer que la délógeti on financière hongroise donne son se ori pour que de nouveaux crédits c'un content global de cinq millione de forints soient accordés eu cour: de l'année 1948 per tran…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19480160_100_s1.pdf",
+  "source_filename": "tra19480160_100_s1.pdf",
+  "source_sha256": "d8ac4d33fa22eb2a6d65284581a12889551ab0a74437e7151e68f836653644ef",
+  "treaty_id": "TRA19480160",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Paris, le le Février I£48\n\n!\" PRIS D7**\n\nDE LA\n\nDELEC TO\" HOMERCIS\" .\n\nConsieur le Président,\n\nComme suite aux négoci tions qui onu eu livu\n\nentre ue deur délégations au cuei d'ursay du 18 au 01 Jonvier 1948, j'ei 1 'honneur de vous informer que la délógeti on financière hongroise donne son se ori pour que de nouveaux crédits c'un content global de cinq millione de forints soient accordés eu cour: de l'année 1948 per tranches mensnolles aux entreprises industrielles ou commerciales : perticipation françoise en Mongrie. In rupert bion di cee erciite entre les diversec entreprises sera déterminte pr les autorités hon roises en accord av o le servio: sur pétent de la Légation de Irance, en tenant compte des int irête de morigues di pays.\n\nLes crédits cusmentionnis seront octroyés\n\nax côcee conditions yo ceux yui ont été cineentis précéden-\n\nmonsieur le résident de la Dilógotion Frençaise.\n\n.../...",
+      "quality_score": 0.8673,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ment en verti de ia lettre n° 83.30/1847/IV/ü du ler : sris\n\nIc47 du : inistre longrois des :incoes, adresse ::*• :ar- ae 3 tour ai recrues Diener.\n\nVeuillez agrées, : onsieur in «résidert,\n\nl'assurance de de très haute considération./",
+      "quality_score": 0.8334,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19480161_102_s1",
+      "title": "Échange de lettres entre le président de la délégation hongroise et l'association nationale des porteurs français de valeurs mobilières (18 et 19/02/1948)",
+      "score": 0.409002,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19480161_100",
+      "title": "Échange de lettres entre le président de la délégation hongroise et la banque de l'union parisienne",
+      "score": 0.388453,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19470121_001_s1",
+      "title": "Accord de paiement entre la France et la Hongrie (ensemble une annexe, protocole n° 1 confidentiel, protocole n° 2, protocole n° 3 confidentiel)",
+      "score": 0.374428,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19780215_001_s1",
+      "title": "Protocole (ensemble 1 annexe et 2 échanges de lettres)",
+      "score": 0.361254,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19480161_001_s1",
+      "title": "Protocole",
+      "score": 0.354633,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19480161_101_s1",
+      "title": "Accord conclu le 19 février entre la banque nationale de Hongrie et le comité national des créances étrangères",
+      "score": 0.353301,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

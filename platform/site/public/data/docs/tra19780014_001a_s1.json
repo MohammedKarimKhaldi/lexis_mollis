@@ -1,0 +1,60 @@
+{
+  "document_id": "tra19780014_001a_s1",
+  "title": "Accord : lettre française",
+  "year": 1978,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.998,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": ": MINISTÈRE DE L'ÉCONOMIE RÉPUBLIQUE FRANÇAISE LE MINISTRE COPIE 27792 Paris, le 10 octobre 1978 copie conforme ministrateur Civil, SIWON031130 Monsieur le Ministre, Au cours de la réunion du Conseil d'administration de l'Institut d'Emission des Comores qui s'est tenue à Paris le 19 avril 1978, deux demandes nécessitant une modification du texte des statuts de cet organisme tels qu'ils avaient été approuvés par un é…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19780014_001a_s1.pdf",
+  "source_filename": "tra19780014_001a_s1.pdf",
+  "source_sha256": "0588d7eefac289a09567beef3d885284e9e465bb5d57b87b1287607e6eef69d4",
+  "treaty_id": "TRA19780014",
+  "treaty_number": "001a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": ":\n\nMINISTÈRE DE L'ÉCONOMIE\n\nRÉPUBLIQUE FRANÇAISE\n\nLE MINISTRE\n\nCOPIE\n\n27792\n\nParis, le 10 octobre 1978\n\ncopie conforme ministrateur Civil,\n\nSIWON031130\n\nMonsieur le Ministre,\n\nAu cours de la réunion\n\ndu Conseil d'administration\n\nde l'Institut d'Emission des Comores qui s'est tenue à Paris le 19 avril 1978, deux demandes nécessitant une modification du texte des statuts de cet organisme tels qu'ils avaient été approuvés par un échange de lettres en date des 15 juin 1977 et 9 août 1977 entre nos prédécesseurs, ont été présentées respectivement par les administrateurs comoriens et français au nom de leurs Gouvernements.\n\nLes administrateurs comoriens ont en effet demandé\n\nque soit allongée de cinq à sept ans la durée maximale des crédits à moyen terme susceptibles d'être présentés au réescompte de l'Institut d'Emission.\n\nLes administrateurs français ont pour leur part,\n\nindiqué que le Gouvernement français souhaitait modifier, pour des raisons d'ordre interne, la rédaction de l'article 42 des statuts en vue de soumettre à la procédure parlementaire.\n\nles modifications des statuts pouvant entrainer une modification des engagements financiers à la charge du Gouvernement français.\n\nJ'ai donc I'honneur de vous transmettre ci-joint\n\nune nouvelle rédaction des\n\nstatuts de l'Institut d'Emission\n\ndes comores qui recueillent non agrément. Au cas où elles recueilleraient également le vitre, ces nouvelles dispositions entreraient\n\nen vigueur quand chacun des\n\nGouvernements aurait\n\nnotifié à l'autre 1'accomplissement des\n\nformalités constitu-\n\ntionnelles requises.\n\nJe vous prie d'agréer, Monsieur le Ministre,\n\nl'expression de\n\nma haute considération et de mes sentiments\n\ntrès distingués.\n\nSigné : René MONORY\n\nMonsieur Said KAFFE\n\nMinistre des Finances de la République Fédérale\n\nIslamique des Comores",
+      "quality_score": 0.998,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19780014_001b_s1",
+      "title": "Lettre comorienne (ensemble annexé texte de l'accord)",
+      "score": 0.35498,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19770009_001a_s1",
+      "title": "échange de lettres préparatoire et interprétatif",
+      "score": 0.350112,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

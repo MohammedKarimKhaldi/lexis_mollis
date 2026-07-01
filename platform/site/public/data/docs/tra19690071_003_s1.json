@@ -1,0 +1,88 @@
+{
+  "document_id": "tra19690071_003_s1",
+  "title": "Pouvoirs allemands",
+  "year": 1969,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 0.9957,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DER BUNDESMINISTER DES AUSWARTIGEN VOLLMACHT Der Bundesminister für Wirtschaft, Herr Prof. Dr. Karl Schiller, und der Botschafter der Bundesrepubl1k Deutschland in Paris, Herr Sigismund Frhr. von Braun, werden hiermit bevollmächtigt, die deutsch-fran- zösische Vereinbarung über die Verwirklichung des Airbus A-300 B für die Regierung der Bundes- republik Deutschland gemeinsam oder einzeln zu unterzeichnen. Bonn, den…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19690071_003_s1.pdf",
+  "source_filename": "tra19690071_003_s1.pdf",
+  "source_sha256": "9fb4a3ff8199ff6df4b407c94f286466efa7347c725adaf0d57ac95873c6de13",
+  "treaty_id": "TRA19690071",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DER BUNDESMINISTER DES AUSWARTIGEN\n\nVOLLMACHT\n\nDer Bundesminister für Wirtschaft,\n\nHerr Prof. Dr. Karl Schiller,\n\nund der Botschafter der Bundesrepubl1k Deutschland in Paris,\n\nHerr Sigismund Frhr. von Braun,\n\nwerden hiermit bevollmächtigt, die deutsch-fran- zösische Vereinbarung über die Verwirklichung des Airbus A-300 B für die Regierung der Bundes- republik Deutschland gemeinsam oder einzeln zu unterzeichnen.\n\nBonn, den 27. Mai 1969\n\nFÜR DEN BUNDESMINISTER DES AUSWÄRTIGEN\n\nDER BUNDESMINISTER FÜR WIRTSCHAFTLICHE\n\nZUSAMMENARBEIT",
+      "quality_score": 0.9957,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19750012_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.408618,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_02_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.390089,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.38203,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600202_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.374693,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_030_s1",
+      "title": "Pouvoirs",
+      "score": 0.374355,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.359596,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

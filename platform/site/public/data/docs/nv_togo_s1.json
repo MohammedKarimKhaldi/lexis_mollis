@@ -1,0 +1,116 @@
+{
+  "document_id": "nv_togo_s1",
+  "title": "Notification au BIE de l'adhésion du Togo",
+  "year": 1928,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9829,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "• CS/bs MINISTÈRE DES AFFAIRES ETRANGÈRES DIRECTION DES NATIONS UNIES ET DES ORGANISATIONS INTERNATIONALES des Alaires conomiquas NUOVE/N 660 RÉPUBLIQUE FRANÇAISE PARIS, le 10 juin 1997 Monsieur le Secrétaire Général, Jai l'honneur de vous faire savoir que le gouvernement de la République Togolaise, par note verbale n° 873/ATP/A/97 du 10 juin 1997, a décidé d'adhérer à la Convention sur les Expositions international…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/nv_togo_s1.pdf",
+  "source_filename": "nv_togo_s1.pdf",
+  "source_sha256": "082a77b40beaaf52664c1b0f0ab0e241e8a18c3f52c82855b26ee452aef578dc",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "TGO002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "•\n\nCS/bs\n\nMINISTÈRE\n\nDES\n\nAFFAIRES ETRANGÈRES\n\nDIRECTION DES NATIONS UNIES\n\nET DES ORGANISATIONS\n\nINTERNATIONALES\n\ndes Alaires conomiquas\n\nNUOVE/N 660\n\nRÉPUBLIQUE FRANÇAISE\n\nPARIS, le 10 juin 1997\n\nMonsieur le Secrétaire Général,\n\nJai l'honneur de vous faire savoir que le gouvernement de la République\n\nTogolaise, par note verbale n° 873/ATP/A/97 du 10 juin 1997, a décidé d'adhérer à la Convention sur les Expositions internationales signée à Paris le 22 novembre 1928, telle que modifiée par les Protocoles de 1966 et 1972, et amendée le 24 juin 1982 et le 31 mai 1988.\n\nVous voudrez bien trouver ci-joint copie de la note verbale susmentionnée .\n\nLe Ministère des Affaires Etrangères vous remercie de bien vouloir en informer les Etats membres du Bureau International des Expositions, dont le nombre s'élève désormais à 81 .\n\nJe vous prie d'agréer, Monsieur le Secrétaire Général, l'expression de ma haute considération.\n\nMichel VANDEPOORTER\n\nMonsieur Vicente GONZALEZ LOSCERTALES\n\nSecrétaire Général du Bureau International des Expositions 56 avenue Victor-Hugo 75783 PARIS CEDEX 16",
+      "quality_score": 0.9829,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "suriname-yemen-2_s1",
+      "title": "Notification au BIE de l'adhésion du Suriname",
+      "score": 0.839838,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.830059,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "seychelles_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion des Seychelles",
+      "score": 0.819365,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_vct002_s1",
+      "title": "Notification au BIE de l'adhésion de Saint-Vincent-et-les-Grenadines",
+      "score": 0.772275,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.431268,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.42215,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_050_s1",
+      "title": "Instrument d'acceptation des Etats-Unis",
+      "score": 0.4175,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_86_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et l'article 35",
+      "score": 0.412912,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_070_s1",
+      "title": "Lettre de retrait de la Mauritanie adressée à l'Institut du Froid",
+      "score": 0.409773,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.408163,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

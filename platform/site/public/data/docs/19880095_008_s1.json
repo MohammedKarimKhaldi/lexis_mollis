@@ -1,0 +1,129 @@
+{
+  "document_id": "19880095_008_s1",
+  "title": "Instrument d'acceptation de l'Australie",
+  "year": 1988,
+  "doc_type": "Autre",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9986,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NOTE NO. 20/90 L'Ambassade d'Australie présente ges conpliments au Ministère des Affaires Etrangeres et a l'honneur de lui faire parvenir un Instrument d'acceptation concernant les modifications apportées le 31 mai 1988 à la Convention relative aux expositions internationales. L'Ambassade d'Australie saisit cette occasion pour renouveler au Ministère des Affaires Etrangères les assurances de sa très haute considérat…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_008_s1.pdf",
+  "source_filename": "19880095_008_s1.pdf",
+  "source_sha256": "408d2edaf6747c1c1bc0822530d871a3c1dd9d93968c61faf68f269c9127ce62",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "AUS001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NOTE NO. 20/90\n\nL'Ambassade d'Australie présente ges conpliments au\n\nMinistère des Affaires Etrangeres et a l'honneur de lui faire parvenir un Instrument d'acceptation concernant les modifications apportées le 31 mai 1988 à la Convention relative aux expositions internationales.\n\nL'Ambassade d'Australie saisit cette occasion pour renouveler au Ministère des Affaires Etrangères les assurances de sa très haute considération.\n\nALIAN\n\nPARIS, le 29 janvier 1990",
+      "quality_score": 0.9972,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "WHEREAS Australia is a party to the Convention relating to International Exhibitions, done at Paris on the twenty-second day of November, one thousand nine hundred and twenty-eight; and\n\nWHEREAS the General Assembly meeting in paris on 31\n\nMay 1988 adopted Amendments to the Convention; and\n\nWHEREAS Australia, as a party to the Convention, may accept the Amendments.\n\nTHE GOVERNMENT OF AUSTRALIA, having considered the\n\nAmendments, now hereby ACCEPTS the same for and on behalf of\n\nAustralia.\n\nIN WITNESS WHEREOE, I, GARETH JOHN EVANS, Minister Of\n\nState for Foreign Affairs and Trade of Australia, have hereunto set my hand and affixed my seal.\n\nDONE at Canteen this elmerse day of January, one thousand nine hundred and ninety.\n\nMinister of State for Foreign Affairs and Trade of Australia",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_018_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.421716,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "australie_denonciation_s1",
+      "title": "Dénonciation",
+      "score": 0.421063,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_009_s1",
+      "title": "Instrument d'acceptation de l'Australie",
+      "score": 0.41554,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_009_s1",
+      "title": "Note verbale d'acceptation de l'Autriche",
+      "score": 0.40507,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_032_s1",
+      "title": "Notification au Bureau international des expositions de l'acceptation du Maroc",
+      "score": 0.40235,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.402041,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_035_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.396365,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_028_s1",
+      "title": "Note verbale d'acceptation de la Malaisie",
+      "score": 0.394977,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.391236,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_236_s1",
+      "title": "Instrument d'adhésion du Vanuatu",
+      "score": 0.388063,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "document_id": "19570067_446_s1",
+  "title": "Instrument d'adhésion du Japon",
+  "year": 1957,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr",
+    "ja",
+    "ko"
+  ],
+  "quality_score": 0.7309,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Traduction INSTRUMENT D'ADHÉSION Le Gouvernement du Japon déolaro qu'Il adhère à la Convention Instituant une Cornission séric1oolo Internationale conformément aux dispositions de l'article 25 de la Convention, ot qu'Il s'acquittera, de bonne fo1, de toutos les obligations qui sont prévues dans la Convention. EN FOI DE QUOI J'ai signé le présent instrument et y al apposé 1o sceau du Ministre des Affaires étrangères.…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_446_s1.pdf",
+  "source_filename": "19570067_446_s1.pdf",
+  "source_sha256": "ac507d4a73981357474ace160ab4fd8d818a96bb87aa77bd60c9b6e76282fe22",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "JPN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Traduction\n\nINSTRUMENT D'ADHÉSION\n\nLe Gouvernement du Japon déolaro qu'Il adhère à la Convention Instituant une Cornission séric1oolo\n\nInternationale conformément aux dispositions de l'article 25 de la Convention, ot qu'Il s'acquittera, de bonne fo1, de toutos les obligations qui sont prévues dans la Convention.\n\nEN FOI DE QUOI J'ai signé le présent instrument et y al apposé 1o sceau du Ministre des Affaires étrangères.\n\nSigné: Zentaro Kosaka (Sceau)\n\ndinistre dos Aragoros étrangèros\n\nTok1o, le 23 mars 1961.",
+      "quality_score": 0.9423,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "に 四 六 囲 品 堆 せ ゼ \" 団 護 科 由 峰 下 剛 普 拉 か 志 引 選 攻 戦 幸 滋 11 二 則\n\nQQ 了 電報 NP 記 ベ くつ 8 了 直 層 拉 か YPQ 溢 区 電 的\n\n相 記 か RN 人 eo や QO 調 四 や やつ 科大 還 ゼ \"OS 条 選 本 誠 無 呈 つ ポッ?\n\n皿 中 半生 思 伸二 回 六 面 宗 席 還 hy,",
+      "quality_score": 0.5195,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "ko",
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "mixed_scripts"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_30_s1",
+      "title": "Instrument de ratification du Japon",
+      "score": 0.395215,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.381624,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830281_010_s1",
+      "title": "Lettre japonaise",
+      "score": 0.375148,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_57_s1",
+      "title": "Instrument d'adhésion du Japon",
+      "score": 0.369125,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.365751,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910098_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.364327,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.363154,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_034_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.360569,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_25_s1",
+      "title": "Instrument de ratification du Japon",
+      "score": 0.357125,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_416_s1",
+      "title": "Instrument d'adhésion de l'Iran",
+      "score": 0.356034,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

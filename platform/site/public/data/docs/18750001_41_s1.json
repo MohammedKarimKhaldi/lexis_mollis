@@ -53,5 +53,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_17_s1",
+      "title": "Note verbale d'adhésion de la Chine populaire",
+      "score": 0.438378,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_416_s1",
+      "title": "Instrument d'adhésion de l'Iran",
+      "score": 0.431192,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_27_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'adhésion de l'Iran",
+      "score": 0.428,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_53_s1",
+      "title": "Notification aux Etats-membres de l'adhésion du Maroc",
+      "score": 0.42671,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_031_s1",
+      "title": "Notification aux Etats-membres de l'adhésion du Cameroun",
+      "score": 0.426387,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_14_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats-membres de l'adhésion de l'Australie à la  convention et au protocole de1972",
+      "score": 0.424248,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_571_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'ïle Maurice",
+      "score": 0.422494,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.422488,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.421685,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_141_s1",
+      "title": "Instrument d'adhésion du Brésil",
+      "score": 0.420734,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
 }

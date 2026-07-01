@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_018_s1",
+  "title": "Procès verbal de dépôt de l'instrument de ratification de la Corée du Sud",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9745,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT D'ADHESION DE LA REPUBLIQUE DE COREE A LA CONVENTION CONCERNANT LES EXPOSITIONS INTERNATIONALES SIGNEE A PARIS LE 22 NOVEMBRE 1928; AU PROTOCOLE PORTANT MODIFICATION DE CETTE CONVENTION SIGNE A PARIS LE 30 NOVEMBRE 1972; ET A L AMENDFMENT SIGNE A PARIS LE 24 JUIN 1982. Son Excellence Monsieur Hyun-Gon KIM, Ministre Plénipo- tentiaire, chargé d'affaires a.i de la République de C…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_018_s1.pdf",
+  "source_filename": "19820018_018_s1.pdf",
+  "source_sha256": "143bc993c8e84351aa791c191a63a3fa1c6894a974b1abcd53c5f58fccd94d7b",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "KOR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT D'ADHESION\n\nDE LA REPUBLIQUE DE COREE\n\nA LA CONVENTION CONCERNANT LES EXPOSITIONS INTERNATIONALES\n\nSIGNEE A PARIS LE 22 NOVEMBRE 1928;\n\nAU PROTOCOLE PORTANT MODIFICATION DE CETTE CONVENTION\n\nSIGNE\n\nA PARIS LE 30 NOVEMBRE 1972;\n\nET A L AMENDFMENT\n\nSIGNE\n\nA PARIS LE 24 JUIN 1982.\n\nSon Excellence Monsieur Hyun-Gon KIM, Ministre Plénipo- tentiaire, chargé d'affaires a.i de la République de Corée, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Henri BENOIT de COIGNAC, Ministre\n\nPlénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépôt de 1'Instrument d'Adhésion de la République de Corée à la Convention concernant les Expositions\n\nInternationales, signée à Paris le 22 novembre 1928 ; au Protocole portant modification de cette Convention, signé à Paris le 30 novembre 1972 ; et à l'Amendement, signé à paris, le 24\n\njuin 1982\n\nL'Instrument ayant été, après examen, trouvé en bonne et due forme, a été déposé, pour y être conservé, dans les Archives de la République française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procès-verbal, qu'ils ont revêtu de leur sceau.\n\nFAIT à PARIS, e n\n\nle 19 Mai 1987.\n\ndouble exemplaire,\n\nHeure de يساما\n\nplongeme",
+      "quality_score": 0.9745,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_48_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.742672,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.719515,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_36_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.712084,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_55_s1",
+      "title": "Procès verbal de dépôt de ratification de l'instrument de ratification de l'Italie",
+      "score": 0.690057,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion chilien",
+      "score": 0.685794,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.684349,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_38_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Cuba",
+      "score": 0.676369,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_83_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.672129,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_24_s1",
+      "title": "Dépôt de procès verbal de l'instrument de ratification",
+      "score": 0.666758,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_29_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion israélien",
+      "score": 0.601957,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

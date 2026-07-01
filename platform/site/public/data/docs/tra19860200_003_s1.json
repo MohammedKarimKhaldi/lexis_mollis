@@ -1,0 +1,67 @@
+{
+  "document_id": "tra19860200_003_s1",
+  "title": "Pouvoirs chypriotes",
+  "year": 1986,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9969,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPURLIC CE CYPRUS FULL FOTERS I, Constantines NICE EDUS, Acting minister Forcien Affeirs of the Republic of Cyprus, do hereby authorize ir. Michael MICHAELIDES, Minister of Conmerce and Industry, to sien for and en behalf of the Government of the Republic of Cyprus the Aprecuent for Cooneration in the field of Tourism between the Government of the Republic of Cyprus and the Government of the Republic of France. Don…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19860200_003_s1.pdf",
+  "source_filename": "tra19860200_003_s1.pdf",
+  "source_sha256": "59b58f3b55059278b7d49fbe0278ac092866afadf037352b21061b7b24e89481",
+  "treaty_id": "TRA19860200",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPURLIC CE CYPRUS\n\nFULL FOTERS\n\nI, Constantines\n\nNICE EDUS, Acting minister\n\nForcien Affeirs of the Republic of Cyprus, do hereby authorize ir. Michael MICHAELIDES, Minister of Conmerce and Industry, to sien for and en behalf of the Government of the Republic of Cyprus the\n\nAprecuent for Cooneration in the field of Tourism between the Government of the Republic of Cyprus and the Government of the Republic of France.\n\nDone in Nicosia, this Zand Day of January One\n\nThousand Nire Hundred and Eighty Six.\n\n(CONSTANTINOS MICHAELIDES)\n\nActing minister of Forcign Affairs",
+      "quality_score": 0.9969,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19810248_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.401711,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800233_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.379948,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840174_003_s1",
+      "title": "Pouvoirs chypriotes",
+      "score": 0.356158,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

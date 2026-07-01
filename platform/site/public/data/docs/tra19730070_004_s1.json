@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19730070_004_s1",
+  "title": "Instrument français",
+  "year": 1973,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.987,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE MINISTRE DES AFFAIRES ÉTRANGÈRES Paris, le 23 mars 1973 Monsieur le Conseiller Fédéral, Me référant à l'article 4 de l'Accord entre le Gouvernement de la République et le Conseil fédéral suisse sur la compensation financière relative aux frontaliers travaillant à Genève, signé à Genève le 29 janvier 1973, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République pour la…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19730070_004_s1.pdf",
+  "source_filename": "tra19730070_004_s1.pdf",
+  "source_sha256": "3b9bebba99c9771018512e63c11762505cea7c9d7632b0b89db124768b32b11f",
+  "treaty_id": "TRA19730070",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE MINISTRE\n\nDES\n\nAFFAIRES ÉTRANGÈRES\n\nParis, le 23 mars 1973\n\nMonsieur le Conseiller Fédéral,\n\nMe référant à l'article 4 de l'Accord entre le\n\nGouvernement de la République et le Conseil fédéral suisse sur la compensation financière relative aux frontaliers travaillant à Genève, signé à Genève le 29 janvier 1973, j'ai l'honneur de vous faire savoir que les procédures requises par la\n\nConstitution de la République pour la mise en vigueur dudit\n\nAccord ont été accomplies.\n\nLa présente lettre constitue la notification\n\nprévue par la disposition précilée./.\n\nJe vous prie d'agréer, Monsieur le Conseiller\n\nFédéral, l'assurance de ma haute considération.\n\nSigné : André BETTENCOURT\n\nLe Ministre Délégué\n\nMinistre des Affaires Etrangères p.i.\n\nPour copie certifiée conforme à l'original\n\nParis, le 23 mars 1973\n\nA Son Excellence\n\nMonsieur Pierre GRABER\n\nConseiller Fédéral\n\nChef du Département Politique\n\nBERNE\n\nAledacons",
+      "quality_score": 0.987,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19660289_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.615269,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.600494,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.552972,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_004_s1",
+      "title": "Instrument français",
+      "score": 0.532238,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_005_s1",
+      "title": "Instrument suisse",
+      "score": 0.467272,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_007b_s1",
+      "title": "2ème accusé de réception suisse de l'instrument français : cf. § 1 de la pièce /005",
+      "score": 0.467272,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_004_s1",
+      "title": "Instrument français",
+      "score": 0.397064,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.396686,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740039_004",
+      "title": "Instrument français",
+      "score": 0.393076,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19770075_004",
+      "title": "Instrument de ratification français",
+      "score": 0.390654,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19370087_012_s1",
+  "title": "Dénonciation siamoise du traité",
+  "year": 1937,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9946,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassade de France Baagkok No. d'enregistrement i Date de reception 54 2 NOV 1967 Classement No. 0603/32390 Ministry of Foreign Affairs, Saranrom Palace, 2oth. November : B.E. 2510. Excellency, I have the honour to refer to the Treaty of Friendship, Commerce and Navigation between Thailand and France, signed at Bangkok on December 7, 1937, and to inform Your Excellency that, in accordance with the provisions of its…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19370087_012_s1.pdf",
+  "source_filename": "tra19370087_012_s1.pdf",
+  "source_sha256": "85be163807edec29aea63baed2e5da6227ea6d3480c99511261e6fe0fc84196a",
+  "treaty_id": "TRA19370087",
+  "treaty_number": "012",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassade de France\n\nBaagkok\n\nNo. d'enregistrement i\n\nDate de reception\n\n54\n\n2\n\nNOV 1967\n\nClassement\n\nNo. 0603/32390\n\nMinistry of Foreign Affairs,\n\nSaranrom Palace, 2oth. November\n\n: B.E. 2510.\n\nExcellency,\n\nI have the honour to refer to the Treaty of\n\nFriendship, Commerce and Navigation between Thailand and\n\nFrance, signed at Bangkok on December 7, 1937, and to inform\n\nYour Excellency that, in accordance with the provisions of its Article 23, His Majesty's Government has decided to denounce the said Treaty which will, accordingly, continue in force until the expiry of twelve months as from to-day's date.\n\nHis Majesty's Government is willing, however,\n\nto enter into discussions with your Government regarding the conclusion of a new Treaty of Friendship, Commerce and\n\nNavigation between our two countries.\n\nAccept, Excellency, the renewed assurance of\n\nmy highest consideration.\n\nT2. Khona\n\nMinister of Foreign Affairs.\n\nHis Excellency\n\nMonsieur Achille Clarac,\n\nAmbassador Extraordinary and\n\nPlenipotentiary of the\n\nRepublic of France,\n\nBANGKOK.",
+      "quality_score": 0.9946,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.400031,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470022_001_s1",
+      "title": "Traité (ensemble 1 échange de lettres a/s rapports consulaires)",
+      "score": 0.398465,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_35_s1",
+      "title": "Pouvoirs de négociation et de signature de Monaco",
+      "score": 0.396056,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_37_s1",
+      "title": "Pouvoirs de signature du Nigeria",
+      "score": 0.396056,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380028_05_s1",
+      "title": "Note verbale ajoutant l'Australie à l'accession au traité",
+      "score": 0.390925,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_005a_s1",
+      "title": "Instrument chypriote",
+      "score": 0.388966,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760301_002_s1",
+      "title": "Lettre française",
+      "score": 0.388851,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.387972,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_39_s1",
+      "title": "Note verbale d'adhésion du Liban",
+      "score": 0.387934,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr008_s1",
+      "title": "Extension de l'adhésion aux Bahamas",
+      "score": 0.387918,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

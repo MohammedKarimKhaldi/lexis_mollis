@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19840174_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1984,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.96,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Nº204 PRO -POUVOIRS Au nop du Gouvernement de Is République, 100s, Ministre des relations extúrieures, donnons pouvoirs par des présentes à Monsieur Thierry Aulagnon, Chef du Bureau, Ministère de l'Economien des Finances et du Fudget pour négocier et signer un ptotocole financier entre le Gouvernement de da République française et le Gouvernenent de la répablique de Chypre-/. TAIT à PARIS, le 16 hiverhe 1984 le Mini…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19840174_002_s1.pdf",
+  "source_filename": "tra19840174_002_s1.pdf",
+  "source_sha256": "09f9d5a7185d53e83262fc58dd65a86e5a851a53e1307c85cd39d5f0fa34874b",
+  "treaty_id": "TRA19840174",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nº204 PRO\n\n-POUVOIRS\n\nAu nop du Gouvernement de Is République, 100s,\n\nMinistre des relations extúrieures, donnons pouvoirs par des présentes à Monsieur Thierry Aulagnon, Chef du\n\nBureau, Ministère de l'Economien des Finances et du Fudget pour négocier et signer un ptotocole financier entre le\n\nGouvernement de da République française et le Gouvernenent de la répablique de Chypre-/.\n\nTAIT à PARIS, le\n\n16 hiverhe 1984\n\nle Ministre\n\ndes relations extérieures\n\na. Cheyson",
+      "quality_score": 0.96,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19830254_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.429775,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182473_002",
+      "title": "Pouvoirs français",
+      "score": 0.388542,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.388447,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.386128,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240048_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.384897,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.383441,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.383268,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.382662,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213018_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.381752,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_002",
+      "title": "Pouvoirs français",
+      "score": 0.381507,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "document_id": "tra19790382_001_s1",
+  "title": "Avenant à la convention d'aide budgétaire signée le 26/07/1979",
+  "year": 1979,
+  "doc_type": "Autre",
+  "languages": [
+    "en",
+    "fr",
+    "so"
+  ],
+  "quality_score": 0.9775,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AVENANT A LA CONVENTION D'AIDE BUDGETAIRE SIGNEE LE 26.7.79 Le Gouvernement de la République Française représenté par Monsieur Robert GALLEY, Ministre de la Coopération d'une part, Le Gouvernement de la République Fédérale Islamique des Comores représenté par Monsieur SAID KAFE, Ministre des Finances, de l'Economie et du Plan d'autre part, sont convenus de ce qui suit : ./..٠ ARTICLE UNIQUE Le texte de la Convention…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19790382_001_s1.pdf",
+  "source_filename": "tra19790382_001_s1.pdf",
+  "source_sha256": "c4c09d3d78f370178bb30192a2af38e140df4c192da536b01bfec889a998fe5b",
+  "treaty_id": "TRA19790382",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AVENANT A LA CONVENTION D'AIDE BUDGETAIRE SIGNEE LE 26.7.79",
+      "quality_score": 0.9469,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "en",
+        "so"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Le Gouvernement de la République Française représenté\n\npar\n\nMonsieur Robert GALLEY, Ministre de la Coopération\n\nd'une part,\n\nLe Gouvernement de la République Fédérale Islamique des Comores\n\nreprésenté par Monsieur SAID KAFE, Ministre des Finances, de l'Economie et du Plan\n\nd'autre part,\n\nsont convenus de ce qui suit :\n\n./..٠",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "ARTICLE UNIQUE\n\nLe texte de la Convention d'Aide Budgétaire\n\nsignée à Paris le\n\n26 Juillet 1979 est modifié conme suit :\n\n- l'article III de la Convention est supprimé\n\n- il est remplacé par l'article III nouveau dont le texte suit :\n\nARTICLE NOUVEAU\n\n\"Le montant de la subvention visé à l'articie I ci-dessus sera\n\nmis à la disposition du Trésor comorien par l'intermédiaire de l'Institut d'Emission des Comores\".\n\n'our le Gouvernement de la République rédérale Islamique des Comores\n\nLe Ministre des Finances, de 1 Economie\n\nFait à Paris\n\nle 4 Octobre 1979\n\nen double exemplaire\n\nPour le Gouvernement de la République\n\nFrançaise,\n\nLe Mipistre de la Coopération,",
+      "quality_score": 0.9856,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19800314_001_s1",
+      "title": "Convention",
+      "score": 0.768412,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800464_001_s1",
+      "title": "Avenant à la convention d'aide budgétaire du 26 juillet 1979",
+      "score": 0.714481,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19790372_001_s1",
+      "title": "Convention d'aide budgétaire",
+      "score": 0.397925,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800465_001_s1",
+      "title": "Avenant à la convention d'assistance financière du 18/01/1980",
+      "score": 0.382044,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19790373_001_s1",
+      "title": "Convention",
+      "score": 0.377924,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA19831903_001_s1",
+      "title": "Convention",
+      "score": 0.375435,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800441_001_s1",
+      "title": "Convention d'assistance financière conclue entre le Gouvernement de la République française et le Gouvernement de la République fédérale islamique des Comores",
+      "score": 0.372737,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800443_001_s1",
+      "title": "Convention d'aide budgétaire",
+      "score": 0.36521,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630326_001_s1",
+      "title": "Avenant",
+      "score": 0.363086,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800442_001_s1",
+      "title": "Convention d'assistance budgétaire",
+      "score": 0.362326,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

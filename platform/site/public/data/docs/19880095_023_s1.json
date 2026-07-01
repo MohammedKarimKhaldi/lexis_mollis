@@ -1,0 +1,128 @@
+{
+  "document_id": "19880095_023_s1",
+  "title": "Pièces dans 19280002",
+  "year": 1988,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9941,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "6Q's 卧 L'AMBASSADEUR DE HONGRIE PARIS 1-48/89. 07.15: 1009 ARNIVER Note Verbale L'Ambassade de La République Populaire Hongroise à Paris a I'honneur de présenter ses compliments au Ministère des Affaires . Etrangêres de la République Française, et de Lui faire parvenir ci-joint l'acte notifiant que le Gouvernement de la République Po- pulaire Hongroise a décidé de reconnaître l'amendement à la Con- vention concernan…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_023_s1.pdf",
+  "source_filename": "19880095_023_s1.pdf",
+  "source_sha256": "39ba8c04e9ce28d7ed2589943ab8264d27f56b95b6c89d71b3542f098ca354a7",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "GTM001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "6Q's 卧\n\nL'AMBASSADEUR\n\nDE\n\nHONGRIE\n\nPARIS\n\n1-48/89.\n\n07.15: 1009\n\nARNIVER\n\nNote Verbale\n\nL'Ambassade de La République Populaire Hongroise à Paris a I'honneur de présenter ses compliments au Ministère des Affaires .\n\nEtrangêres de la République Française, et de Lui faire parvenir ci-joint l'acte notifiant que le Gouvernement de la République Po- pulaire Hongroise a décidé de reconnaître l'amendement à la Con- vention concernant les expositions internationales du 22 novembre 1928, modifiée et complétée par les Protocoles du 10 mai 1948, 16 novembre 1966 et 30 novembre 1972 et par l'amendement du 24\n\nJuin 1982, adopté par l'Assemblée Générale le 31 mai 1988.\n\nL'Ambassade saisit cette occasion pour renouveler au Mi- nistère des Affaires Etrangères les assurances de sa très haute considération.\n\nParis, le 31 juillet 1989V\n\nMinistère des Affaires Etrangères\n\nDirection des Affaires Juridiques\n\nParis",
+      "quality_score": 0.9905,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "—\n\nJ'atteste que le Gouvernement de la République Populaire\n\nHongroise a décidé de reconnaître 1'amendement à la\n\nConvention concernant les expositions internationales, du 22 Novembre 1928, modifiée et complétée par les\n\nProtocoles des 10 Mai 1948, 16 Novembre 1966 et 30 Novembre 1972 et par 1 amendement du 24 Juin 1982, adopté par l'Assemblée Générale le 31 Mai 1988.\n\nDaté à Budapest, le\n\n10 du mois de Juillet de l'an 1989.\n\nMinistre des Affaires Etrangeres",
+      "quality_score": 0.9977,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_021_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.628116,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_007_s1",
+      "title": "Instrument d'acceptation de l'Allemagne démocratique",
+      "score": 0.626216,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hnd001_s1",
+      "title": "Instrument d'adhésion du Honduras",
+      "score": 0.621205,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_028_s1",
+      "title": "Note verbale d'acceptation de la Malaisie",
+      "score": 0.611201,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_040_s1",
+      "title": "Note verbale de transmission de l'instrument d'acceptation de la Roumanie",
+      "score": 0.578833,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_049_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.444054,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.443447,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_037_s1",
+      "title": "Note verbale d'acceptation du Pérou",
+      "score": 0.44309,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_035_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.435128,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.431239,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

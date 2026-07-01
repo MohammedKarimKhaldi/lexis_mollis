@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19810127_005_s1",
+  "title": "Instrument sri-lankais",
+  "year": 1981,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Minister of Foreign Affairs dri Lanka 18th November, 1982 Excellency, I have the honour to refer to your letter dated 28th July, 1982 and my reply thereto dated 8th September, 1982 concerning the Convention between the Government of the Democratic Socialist Republic of Sri Lanka and the Government of the Republio of France for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxe…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810127_005_s1.pdf",
+  "source_filename": "tra19810127_005_s1.pdf",
+  "source_sha256": "d3a9f2b759b16d72c8aa86d54829c30741780438786a77f6bde3d47aa4aa19db",
+  "treaty_id": "TRA19810127",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Minister of Foreign Affairs\n\ndri Lanka\n\n18th November, 1982\n\nExcellency,\n\nI have the honour to refer to your letter dated 28th July, 1982 and my reply thereto dated 8th September, 1982 concerning the Convention between the Government of the Democratic Socialist\n\nRepublic of Sri Lanka and the Government of the\n\nRepublio of France for the Avoidance of Double\n\nTaxation and the Prevention of Fiscal Evasion with respect to Taxes on Income and Capital.\n\nIn accordance with Article XXVII thereof,\n\nI am pleased to inform Your Excellency that the steps required by Sri Lanka Law to bring the above-mentioned Convention into force have been complied with.\n\nPlease accept, Excellency, the assurances of my highest consideration.\n\nHonourable Mr Claude Cheysson,\n\nMinister for External Relations,\n\nRepublic of France.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19810127_010_s1",
+      "title": "accusé de réception sri-lankais de l'instrument français",
+      "score": 0.439958,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810127_004_s1",
+      "title": "Instrument français",
+      "score": 0.428687,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français : note verbale et lettre (avec, sur la note verbale, tampon arrivée le 4 février 1983 à l'ambassade de France)",
+      "score": 0.406241,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_004_s1",
+      "title": "Instrument français",
+      "score": 0.389348,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_007_s1",
+      "title": "accusé de réception togolais de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.384277,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_007",
+      "title": "Accusé de réception togolais de l'instrument français",
+      "score": 0.382563,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_005a_s1",
+      "title": "Instrument chypriote",
+      "score": 0.382072,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_005_s1",
+      "title": "Instrument chypriote (avec tampon arrivée le 16 août 1982 à l'ambassade de France)",
+      "score": 0.379157,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_007_s1",
+      "title": "accusé de réception de l'instrument français et entrée en vigueur de l'accord",
+      "score": 0.376885,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.374711,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

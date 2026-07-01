@@ -1,0 +1,83 @@
+{
+  "document_id": "tra19540064_003_s1",
+  "title": "Pouvoirs italiens",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "it"
+  ],
+  "quality_score": 0.9506,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "A litti coloro che le Finsenti eccianno. Talute. Il Giallo Abdolfo De Dominici è per le freseriti da Moislettoe nominato Mostro Planipolonsinrio per la firmardel liArecordo tra l'Italin e la Frenria per la consegna degli archiviicornernenti le sone redute dall Itulia alla Francia in applicazione del paragra fo I dell: tonne, vo IlT del Grattati li Sere tra le Potere se. Allente ed, basociate e l'Italia, fire muto e…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19540064_003_s1.pdf",
+  "source_filename": "tra19540064_003_s1.pdf",
+  "source_sha256": "cfe93b024f69427a774163ef44657b5be5734f6d0c530ee1b16b0bf8b639940e",
+  "treaty_id": "TRA19540064",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "A litti coloro che le Finsenti eccianno. Talute.\n\nIl Giallo Abdolfo De Dominici\n\nè per le freseriti da Moislettoe nominato\n\nMostro Planipolonsinrio per la firmardel liArecordo tra l'Italin e la Frenria per la consegna degli archiviicornernenti le sone redute dall Itulia alla Francia in applicazione del paragra fo I dell: tonne, vo IlT del Grattati li\n\nSere tra le Potere\n\nse. Allente ed, basociate e l'Italia, fire muto e Furizi il 10 Lebberio 1947.\n\n- il tale scopo conferia min al trefetto\n\nAdolfo De Dominici, Pieno Potare ed ogni necessaria autorità.\n\nBu fede di che Noi abbiamo di Nostra\n\nmano firmato le Fresenti evi abbiamo falto apporre il Nastro sigillal\n\nDaté a Roma, a i 18no m Ip 1953.\n\nSinaml",
+      "quality_score": 0.9506,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19240003_36_s1",
+      "title": "Pouvoirs de négociation et de signature de l'Italie",
+      "score": 0.370888,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_061_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.363311,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_24_s1",
+      "title": "Pouvoirs de dépôt de la ratification italienne",
+      "score": 0.362832,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_ita001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.358107,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_435_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.353868,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

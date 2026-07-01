@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19630356_010_s1",
+  "title": "Certificat d'enregistrement à l'ONU",
+  "year": 1963,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9714,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "CERTIFICATE of REGISTRATION No. 15928 CERTIFICAT d'ENREGISTREMENT The SECRETARY-GENERAL of the UNITED NATIONS Hereby certifies that the Government of the French Republic has registered with the Secretariat in accordance with Article 102 of the Charter of the United Nations Le SECRETAIRE GENERAL des NATIONS UNIES Certifie par la présente que Le Gouvernement de la République française a enregistré au Secrétariar confo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19630356_010_s1.pdf",
+  "source_filename": "tra19630356_010_s1.pdf",
+  "source_sha256": "a94bfe2cb373cac623326a58db2d02107af1f6935f596c330b72a83a49286a1c",
+  "treaty_id": "TRA19630356",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CERTIFICATE of REGISTRATION\n\nNo. 15928\n\nCERTIFICAT d'ENREGISTREMENT\n\nThe SECRETARY-GENERAL of the UNITED NATIONS\n\nHereby certifies that the Government of the French Republic has registered with the Secretariat in accordance with Article 102 of the Charter of the United Nations\n\nLe SECRETAIRE GENERAL des NATIONS UNIES\n\nCertifie par la présente que\n\nLe Gouvernement de la République française\n\na enregistré au Secrétariar conformément aux termes de l'Article 102 de la Charte des Nations Unies\n\nthe General Agreement between France and\n\nTogo on technical co-operation (with annexed protocol and exchanges of letters).\n\nSigned at Paris on 10 July 1963.\n\n1'Accord général de coopération technique (avec protocole annexé et échanges de lettres) entre la France et le Togo. Signé à Paris le 10 juillet 1963.\n\nThe registration took place on under No. 10369\n\nDone at New York, on\n\nTo the Government of the\n\nFrench Republic\n\n18 March 1970 21 September 1970\n\nl'enregistrement a eu lieu le sous Le no _ 10369\n\nFait a New York, le\n\nFor the SECRETARY - GENERAL\n\nPour le SECRETAIRE GENERAL\n\nCektavage\n\n18 mars 1970\n\n21 septembre 1970\n\nAu Gouvernement de la\n\nRépublique française",
+      "quality_score": 0.9714,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630358_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.860718,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630223_010_s1",
+      "title": "Certificat de l'enregistrement no 10365",
+      "score": 0.831855,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630359_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.824365,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630106_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.816416,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.765116,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630107_010_s1",
+      "title": "Certficat d'enregistrement à l'ONU",
+      "score": 0.752506,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_100_s1",
+      "title": "Certificat d'enregistrement de l'accord à l'ONU",
+      "score": 0.721913,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_101",
+      "title": "Publication au Journal officiel (extrait de recueil)",
+      "score": 0.687988,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_004_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.658082,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630108_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.472021,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

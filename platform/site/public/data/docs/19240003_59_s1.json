@@ -1,0 +1,61 @@
+{
+  "document_id": "19240003_59_s1",
+  "title": "Lettre de demande d'adhésion de la Slovénie",
+  "year": 1924,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9322,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "£ d i of. Sloventa QW? linitey for Poregn Sars a MP» Ljubljana, le 14 juin 1993 Cesar & sue | CAB Ni CU # NISTRE PT M b 1 1 Monsieur le Ministre, API 5 Nous vous prions vouloir bien accepter notre demande d'admission de la République de Slovénie parmi les membres de l'Office international de la Vigne et du Vin. Jusqu'à la dissolution de la Yugoslavie qui était membre de cette organisation, la Slovénie elle aussi, a…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_59_s1.pdf",
+  "source_filename": "19240003_59_s1.pdf",
+  "source_sha256": "86ad65018db2a204232cdf1ec182600f871cc7e2045607cb2a19fd9eab4aea2a",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "SVN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "£ d i of. Sloventa QW?\n\nlinitey for Poregn Sars a\n\nMP»\n\nLjubljana, le 14 juin 1993\n\nCesar & sue |\n\nCAB Ni CU # NISTRE\n\nPT M\n\nb 1 1\n\nMonsieur le Ministre, API 5\n\nNous vous prions vouloir bien accepter notre demande d'admission de la République de Slovénie parmi les membres de l'Office international de la Vigne et du Vin.\n\nJusqu'à la dissolution de la Yugoslavie qui était membre de cette organisation, la Slovénie elle aussi, a été très active dans le travail de cette organisation.\n\nDepuis la reconnaissance de la République de Slovénie, nous désirons continuer cette coopération déja initiée et nous rallier à l'Office International de la Vigne et du Vin en tant que membre à part entière, Permettez-nous de citer comme exemple de collaboration réussie, la Foire du vin de\n\nLjubljana, à savoir la dégustation des échantillons de vins qui y sont présentés, dégustation qui a lieu sous le patronage de 1l'O.I.V. depuis quelques années déja; la\n\nParticipation de nos experts au travail de 1l'O.I.V. le tournage d'un film sur nos vignobles et nos vins, film organisé dans le cadre d'un projet commun avec l'O.I.V.; les projets de création d'un cours international de dégustation sous le patronage de l'O.I.V., etc.\n\nPar cette demande d'admission, nous désirons formaliser notre collaboration avec l'O.I.V. Notre viticulture et nos vins sont pour nous d'une importance exceptionnelle à cause de leur qualité et de leur contenu, bien que leur ampleur soit relativement petite car notre viticulture ne compte en fait que 21.500 ha de vignobles. C'est pour cette raison que nous vous prions de vouloir bien nous accorder ] (une) unité ou voix de vote, conformément à l'Accord de l'O.I.V. du 29 novembre 1924.\n\nSon Excellence\n\nMonsieur Allain Juppé\n\nMinistre des Affaires Etrangères de la République Française,\n\nParis - FRANCE\n\nAIF»",
+      "quality_score": 0.9216,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Par la meme occasion.\n\nnous engangerons\n\ndisposés obligations financières.\n\nJe vous prie,\n\nMonsieur le Ministre, d'agréer l'expreggion de mes salutations très respectueuses,\n\nson bitel",
+      "quality_score": 0.9428,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

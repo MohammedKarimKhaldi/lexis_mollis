@@ -1,0 +1,102 @@
+{
+  "document_id": "19200032_15_s1",
+  "title": "Pouvoirs français pour l'Algérie",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8505,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Algene Paul Deschanel Président de la République Française. à lous ceux qui ces présentes Lettres verront. Salut Une Confience Intonationale se réunissant en vue de la cication à Paris d'un Institut International deo Froid Nous avons chargé Ab. Seiard. Odouaid lictor Directeur de l'Office du Souvernement-Général de l'Algérie à Paris, Chevalier de l-Ordrer rational de la Légion d'Honneur d'étudios toulestes questions…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_15_s1.pdf",
+  "source_filename": "19200032_15_s1.pdf",
+  "source_sha256": "377872b2e66837013c7c6da7e97896f8a0da57bba286fef9832fcb32cb34ee6f",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "FRA002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Algene\n\nPaul Deschanel\n\nPrésident de la République Française.\n\nà lous ceux qui ces présentes Lettres verront.\n\nSalut\n\nUne Confience Intonationale se réunissant en vue de la cication à\n\nParis d'un Institut International deo\n\nFroid Nous avons chargé Ab. Seiard.\n\nOdouaid lictor Directeur de l'Office du\n\nSouvernement-Général de l'Algérie à\n\nParis, Chevalier de l-Ordrer rational de la Légion d'Honneur d'étudios toulestes questions qui fent l'obje de cette réunion internationale el par les fiésentes, len",
+      "quality_score": 0.8312,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "nemmend el corettitions. lotie\n\n• Penipo- lintiaire a l'effet de négocir conclure eti lar Menipetentinies egalimend munis de felein perries de la prides Missonia centractanted dels Vamperend Cuntin\n\nDelaration on Notes quetconques qui n serent juges necessaires pour attendie le el d'caécuter livel ceque a totie dil Plenipo tinliaire aura slipulé eh signé au nom:\n\nductement one indistiment pregue frétuate el de quelque manine que ee soil;\n\nen bonne el due former pour ite changers",
+      "quality_score": 0.9064,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "dans la délai qui vera conerner. En0 foi de quet... lousains fail apposer à cas présentes le Sceau de la Képublique.\n\nC'ail ii La Monteillerie le 2o Juni 1936.\n\nLar le Résident de la République,\n\nLe Prisient du Coneit,\n\nMinistre des Affaires étrangèren,",
+      "quality_score": 0.8139,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200032_16_s1",
+      "title": "Pouvoirs français pour les colonies",
+      "score": 0.410552,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_14_s1",
+      "title": "Instrument de ratification grec",
+      "score": 0.390547,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19570067_326_s1",
+      "title": "Note verbale d'adhésion de l'Indonésie",
+      "score": 0.357368,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

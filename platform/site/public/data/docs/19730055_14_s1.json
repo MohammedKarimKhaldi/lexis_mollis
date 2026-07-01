@@ -1,0 +1,109 @@
+{
+  "document_id": "19730055_14_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification des Pays-Bas",
+  "year": 1973,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.993,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DE L'INSTRUMENT I-D'ADHESION .. DU ROYAUME DES PAYS-BAS DE L'ARRANGEMENT ENTRE CERTAINS ETATS MEMBRES DE L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES ET L'ORGANISATION EUROPEENNE DE RECHERCIES SPATIALES CONCERNANT L'EXECUTION D'UN PROGRAMME DE SATELLITE MARITIME CONCLU A NEUILLY-SUR-SEINE LE 21 SEPTEMBRE 1973 Son Excellence Jonkheer J.A. de RANITZ, Ambassadeur Extraor- dinaire et Plénipot…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19730055_14_s1.pdf",
+  "source_filename": "19730055_14_s1.pdf",
+  "source_sha256": "f576186f53dd29ec7593808633c4519993b7f642f823528bc72198dbc68c2b55",
+  "treaty_id": "TRA19730055",
+  "treaty_number": "NLD003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL DE DEPOT\n\nDE L'INSTRUMENT I-D'ADHESION ..\n\nDU ROYAUME DES PAYS-BAS\n\nDE L'ARRANGEMENT ENTRE CERTAINS ETATS MEMBRES\n\nDE L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES\n\nET L'ORGANISATION EUROPEENNE DE RECHERCIES SPATIALES\n\nCONCERNANT L'EXECUTION D'UN PROGRAMME DE SATELLITE MARITIME\n\nCONCLU A NEUILLY-SUR-SEINE LE 21 SEPTEMBRE 1973\n\nSon Excellence Jonkheer J.A. de RANITZ, Ambassadeur Extraor- dinaire et Plénipotentiaire du Royaume des Pays-Bas s'est présenté aujourd' hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Jean- Bernard MERIMEE, Chef du Protocole agissant au nom du Ministre des Af- faires Etrangères au dépôt de V'Instrument 'dA dhésion du Rovaume des Pays- Bas, de l'Arrangement entre certains Etats membres de l'Organisation Euro- péenne de Recherches Spatiales et l'Organisation Européenne de Recherches\n\nSpatiales concernant l'exécution d'un programme de satellite maritime conclu à Neuilly-sur-Seine le 21 septembre 1973.\n\nL'Instrument ayant été, après examen trouvé en bonne et due forme a été déposé, pour y être conservé, dans les Archives de la République\n\nFrançaise.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent Procès- Verbal qu'ils ont revêtu de leur Sceau.\n\nle\n\nFAIT à PARIS, _e n\n\n6 février 1979\n\ndouble exemplaire.\n\nJean Bune finnace",
+      "quality_score": 0.993,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19730055_03_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.82839,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_10_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.739487,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_18_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification suédois",
+      "score": 0.421132,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_07_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.388536,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_01_s1",
+      "title": "Traité",
+      "score": 0.381508,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_05_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de l'Espagne",
+      "score": 0.372152,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_352b_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de la convention entre la Bulgarie et la Grèce",
+      "score": 0.353075,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_06_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.352038,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_13_s1",
+      "title": "Instrument de ratification des Pays-Bas",
+      "score": 0.350399,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

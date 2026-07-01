@@ -1,0 +1,116 @@
+{
+  "document_id": "19510004_59_s1",
+  "title": "Lettre du Ministre des AE de l'Ouzbékistan d'adhésion de l'Ouzbékistan",
+  "year": 1951,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9573,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "25008 Feris Sebastete de le Repallique d Cerisiston en Franco N$ 05- F AFFAIRES ÉTRANGE CABINET DURANT SE 02 JAN. 2004 ARRIVÉE AAS. L'Ambassade de la République d'Ouzbékistan en France présente ses compliments au Ministère des Affaires Etrangères de la République Française (Département d'Europe Continentale) et a l'honneur de lui faire parvenir ci-joint la lettre de S.Exc. M. Sodyq SAFAEV, Ministre des Affaires Etra…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_59_s1.pdf",
+  "source_filename": "19510004_59_s1.pdf",
+  "source_sha256": "fc383b0e0fd9cfd374fdd774356faa796c39250c906c9cbdba1e02ea3c5169a0",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "UZB001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "25008 Feris\n\nSebastete de le Repallique d Cerisiston en Franco\n\nN$ 05- F\n\nAFFAIRES ÉTRANGE\n\nCABINET DURANT SE\n\n02 JAN. 2004\n\nARRIVÉE\n\nAAS.\n\nL'Ambassade de la République d'Ouzbékistan en France présente ses compliments au Ministère des Affaires Etrangères de la République Française (Département d'Europe Continentale) et a l'honneur de lui faire parvenir ci-joint la lettre de S.Exc. M. Sodyq SAFAEV, Ministre des Affaires Etrangères de la\n\nRépublique d'Ouzbékistan, adressé à S.Exc. M. Dominique de Villepin, Ministre des\n\nAffaires Etrangères de la République Française.\n\nL'Ambassade d'Ouzbékistan saisit cette occasion\n\npour renouveler au\n\nMinistère des Affaires Etrangères de la République Française (Département d'Europe\n\nContinentale) les assurances de sa haute considération. K.\n\nParis, le 2 janvier 2004\n\nMinistère des Affaires Etrangères\n\nRépublique Française\n\nDépartement d'Europe Continentale\n\nParis",
+      "quality_score": 0.9573,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19960061_100_s1",
+      "title": "Note du Poste à la Partie ouzbèke demandant la transmission de la version en langue ouzbèke de la convention",
+      "score": 0.423949,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_33_s1",
+      "title": "Note verbale transmettant la lettre d'adhésion du Kazakhstan au BIPM",
+      "score": 0.39956,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_005_s1",
+      "title": "Instrument ouzbèke",
+      "score": 0.399223,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_242_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.398411,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.397702,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.390244,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.38846,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_861_s1",
+      "title": "Note verbale d'accompagnement de l'instrument syrien",
+      "score": 0.383339,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_26_s1",
+      "title": "Note verbale d'accompagnement de l'instrument de ratification estonien",
+      "score": 0.382601,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200018_492",
+      "title": "Lettre de transmission de l'instrument",
+      "score": 0.381462,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

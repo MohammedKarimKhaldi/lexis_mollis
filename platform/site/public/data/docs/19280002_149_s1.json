@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_149_s1",
+  "title": "Acte d'adhésion",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.956,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 149 ACTE D'ADHESION Conformément aux dispositions de l'article 35 de la Convention concernant les Expositions Internationales signée à Paris le 22 NOVIBRE I928 , M. BACHKE, Ministre de Norvège à Paris , agissant en vertu des pleins pouvoirs qui lui ont été conférés à cet effet, déclare par le présent acte que la Norvège adhère sans aucune condition ni réserve, à la Convention concernant les Expositions Inte…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_149_s1.pdf",
+  "source_filename": "19280002_149_s1.pdf",
+  "source_sha256": "ad78d9e5bf1137de970ea51d19138337d3f20def926d535e230806c8cc9ac0b4",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "NOR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 149",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "ACTE D'ADHESION\n\nConformément aux dispositions de l'article 35 de la Convention concernant les Expositions Internationales signée à Paris le 22\n\nNOVIBRE I928 , M. BACHKE, Ministre de Norvège à Paris , agissant en vertu des pleins pouvoirs qui lui ont été conférés à cet effet, déclare par le présent acte que la Norvège adhère sans aucune condition ni réserve, à la Convention concernant les Expositions\n\nInternationales au Protocole et au Protocole de Signature 1 Pario 1o 24 Décembre 1936.\n\nH.71. Bachke",
+      "quality_score": 0.9687,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_148_s1",
+      "title": "Lettres patentes d'adhésion",
+      "score": 0.856634,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_144_s1",
+      "title": "Instrument d'adhésion du Niger",
+      "score": 0.841501,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_142_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.830793,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_147_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.82186,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.765085,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_138_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.756047,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.750341,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_152_s1",
+      "title": "Notification aux Etats parties de la dénonciation de la Nouvelle-Zélande",
+      "score": 0.748056,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_158_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.744495,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_169_s1",
+      "title": "Instrument de ratification",
+      "score": 0.742172,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "document_id": "TRA20110325_001_s1",
+  "title": "Accord",
+  "year": 2011,
+  "doc_type": "Accord",
+  "languages": [
+    "cs",
+    "cy",
+    "fa",
+    "fr",
+    "hr"
+  ],
+  "quality_score": 0.9193,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "GD EE ا یتس رديه یات اتو لمتشت سے اخاسرسند دو س سناس خت انيه اسر ور ن یی شک که کت ی ا ا چ د یک نک و Accord entre le Gouvernement de la République française et le Gouvernement de la République de Croatie sur la protection mutuelle des Informations classifiées en -2- Le Gouvernement de la République française et le Gouvernement de la République de Croatie ci-après dénommés « les Parties », Désireux de garantir la prot…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20110325_001_s1.pdf",
+  "source_filename": "TRA20110325_001_s1.pdf",
+  "source_sha256": "b91544f7ff6653ff73a47ca8deb513a267b970cfaea85dc8a22a6b598000d82b",
+  "treaty_id": "TRA20110325",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GD\n\nEE\n\nا یتس رديه یات اتو لمتشت سے اخاسرسند دو س سناس خت انيه\n\nاسر ور ن یی شک که کت ی ا ا چ د یک نک و",
+      "quality_score": 0.6337,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Arabic:psm3",
+      "language": [
+        "fa"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Accord entre\n\nle Gouvernement de la République française\n\net\n\nle Gouvernement de la République de Croatie\n\nsur la protection mutuelle des Informations classifiées",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "en",
+      "quality_score": 0.9033,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "no_text_on_nonblank_page"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "-2-\n\nLe Gouvernement de la République française et le Gouvernement de la République de Croatie ci-après dénommés « les Parties »,\n\nDésireux de garantir la protection des Informations et matériels classifiés échangés ou produits entre les deux Etats ou entre des organismes publics ou privés soumis à leurs lois et réglementations nationales respectives,\n\nSont convenus des dispositions suivantes :\n\nARTICLE 1ª\n\nDéfinitions\n\nAux fins du présent Accord :\n\n1. «Informations classifiées » désigne les informations, documents et matériels, quels qu'en soient la forme, la nature ou le mode de transmission, qu'ils soient élaborés ou en cours d'élaboration, auxquels un degré de classification ou un niveau de sensibilité a été attribué et qui, dans l'intérêt de la sécurité nationale et conformément aux lois et règlementations nationales des Parties, nécessitent une protection contre toute violation, toute destruction, tout détournement, toute divulgation, toute perte ou tout accès par toute personne non autorisée ou tout autre type de compromission.\n\n2. « Contrat classifié » désigne un contrat, un contrat de sous-traitance ou un projet dont l'élaboration et l'exécution nécessitent l'accès à des Informations classifiées ou l'utilisation et la production d'Informations classifiées.\n\n3. «Partie contractante » désigne toute personne physique ou morale ayant la capacité juridique de négocier et de conclure des contrats classifiés.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": ":f:.\n\n-3-\n\n4. «Autorité nationale de sécurité » (ANS) désigne l'autorité nationale responsable du contrôle général et de l'application du présent Accord pour chacune des Parties.\n\n5. « Autorités de sécurité compétentes » désigne toute autorité de sécurité désignée (ASD)\n\nou toute autre entité compétente autorisée conformément aux lois et règlementations nationales des Parties, qui est responsable de l'application du présent Accord selon les domaines concernés.\n\n6. «Partie d'origine » désigne la Partie, y compris tout organisme public ou privé soumis à ses lois et règlementations nationales, qui génère ou fournit des Informations classifiées à l'autre Partie.\n\n7. «Partie destinataire » désigne la Partie, y compris tout organisme public ou privé soumis à ses lois et règlementations nationales, à laquelle les Informations classifiées sont transmises.\n\n8. « Partie hôte » désigne la Partie sur le territoire de laquelle une visite a lieu.\n\n9. «Besoin d'en connaître» désigne la nécessité d'avoir accès à des Informations classifiées dans le cadre d'une fonction officielle déterminée et en vue d'exécuter une tâche spécifique.\n\n10. « Tierce partie » désigne tout Etat, toute organisation, toute personne morale ou physique non partie au présent Accord.\n\nARTICLE 2\n\nChamp d'application\n\nLe présent Accord constitue le règlement commun de sécurité applicable à tout échange d'Informations classifiées entre les Parties ou entre leurs organismes publics ou privés soumis à leurs lois et règlementations nationales (et autorisés à cette fin).",
+      "quality_score": 0.9966,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "ARTICLE 3\n\nAutorités nationales de sécurité\n\nL'ANS pour chacune des Parties est :\n\nPour la République française :\n\nSecrétariat général de la défense et de la sécurité nationale (S.G.D.S.N.)\n\n51, bd de La Tour-Maubourg 75700 PARIS 07 SP\n\nPour la République de Croatie :\n\nUred Vijeća za nacionalnu sigurnost (UVNS)\n\nJurjevska 34 10000 ZAGREB\n\nLes Parties se tiennent mutuellement informées, par la voie diplomatique, de tout changement concernant leur ANS, ainsi que leurs autorités de sécurité compétentes.\n\nARTICLE 4\n\nPrincipes de sécurité\n\n1. Conformément à leurs lois et règlementations nationales respectives, les Parties prennent les mesures appropriées afin de protéger les Informations classifiées transmises, reçues ou générées en vertu des dispositions du présent Accord et leur accordent un niveau de protection équivalent à celui appliqué à leurs propres Informations classifiées nationales, tel que défini au paragraphe 1 de l'article 5.\n\n2. Dès réception des Informations classifiées en provenance de la Partie d'origine, la Partie destinataire leur appose sa propre classification nationale conformément aux équivalences définies au paragraphe 1 de l'article 5.",
+      "quality_score": 0.9887,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "-5-\n\n3. L'accès aux Informations classifiées est strictement réservé aux ressortissants des Parties qui ont obtenu l'habilitation appropriée et dont les fonctions rendent l'accès aux dites\n\nInformations essentiel, sur la base du Besoin d'en connaître.\n\n4. La Partie destinataire ne déclasse ni ne déclassifie des Informations classifiées transmises sans le consentement écrit préalable de la Partie d'origine.\n\n5. Les Parties se tiennent mutuellement informées sans délai de tout changement affectant la protection des Informations classifiées échangées ou produites en vertu du présent\n\nAccord.\n\n6. Les Informations classifiées transmises ne peuvent être utilisées à des fins autres que celles auxquelles elles ont été transmises. Les Parties s'assurent que toute exigence résultant de leurs lois et règlementations de sécurité nationales concernant la sécurité des agences, bureaux et établissements sous leur juridiction, soit satisfaite, notamment par le biais de visites d'inspection et de contrôles.\n\nARTICLE 5\n\nClassifications de sécurité et équivalences\n\n1. Les Parties s'engagent à assurer la protection des Informations classifiées échangées et adoptent les équivalences de niveaux de classification de sécurité définies dans le tableau ci-dessous :\n\nFRANCE\n\nTRES SECRET DEFENSE\n\nSECRET DEFENSE\n\nCONFIDENTIEL DEFENSE\n\n(voir paragraphes 5.2 et 5.3 ci-après)\n\nCROATIE\n\nVRLO TAJNO\n\nTAJNO\n\nPOVJERLJIVO\n\nOGRANIČENO",
+      "quality_score": 0.9993,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "-6-\n\n2. La République française traite et protège les Informations portant la mention «OGRANIČENO », transmises par la République de Croatie, conformément à ses lois et règlementations nationales en vigueur relatives aux informations protégées mais non classifiées portant une mention telle que « DIFFUSION RESTREINTE ».\n\n3. La République de Croatie traite et protège les informations non classifiées portant une mention indiquant qu'elles sont protégées telle que « DIFFUSION RESTREINTE »\n\ntransmises par la République française conformément à ses lois et règlementations nationales en vigueur relatives à la protection des Informations portant la mention « OGRANIČENO ».\n\n4. Les ANS ou les autorités de sécurité compétentes s'informent mutuellement de tout marquage de sécurité nouveau ou supplémentaire qui pourrait être échangé ou produit en vertu du présent Accord.\n\n5. Afin de maintenir des normes de sécurité équivalentes, chaque Partie fournit, à la demande de l'autre, toutes les informations requises relatives aux lois, règlementations et procédures de sécurité nationales appliquées pour assurer la sécurité des Informations classifiées. Les Parties conviennent de faciliter les contacts entre leurs ANS et leurs autorités de sécurité compétentes respectives.\n\nARTICLE 6\n\nProcédure d'habilitation de sécurité\n\n1. En vue de l'accès aux Informations classifiées du niveau CONFIDENTIEL DEFENSE /\n\nPOVJERLJIVO ou d'un niveau plus élevé, chaque Partie mène, conformément à ses lois et règlementations nationales, une procédure d'habilitation de sécurité.\n\n2. S'agissant de l'habilitation de sécurité d'un ressortissant de l'une des Parties qui a séjourné ou se trouve encore sur le territoire de l'autre Partie, les ANS de chacune des\n\nParties se prêtent mutuellement assistance conformément à leurs lois et règlementations nationales.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "-7-\n\n3. Les Parties reconnaissent mutuellement les habilitations de sécurité délivrées à leurs ressortissants dans le cadre de l'accès à des Informations classifiées.\n\n4. Si l'ANS ou les autorités de sécurité compétentes de l'une des Parties considèrent qu'une partie contractante enregistrée sur le territoire national de ladite Partie est la propriété ou est sous le contrôle d'un autre Etat dont les fins ne sont pas compatibles avec les intérêts de cette Partie, la partie contractante en question ne se voit pas délivrer d'habilitation de sécurité. Les ANS ou les autorités de sécurité compétentes des Parties qui ont sollicité une habilitation de sécurité des établissements doivent être informées en conséquence dans les plus brefs délais.\n\n5. Les ANS ou les autorités de sécurité compétentes se tiennent mutuellement informées des changements qui affectent les habilitations de sécurité de leurs ressortissants relevant du présent Accord, en particulier en cas de retrait d'habilitation ou d'abaissement de son niveau.\n\nARTICLE 7\n\nUtilisation des Informations classifiées\n\n1. La Partie destinataire ne divulgue pas les Informations classifiées échangées ou produites en vertu du présent Accord à une tierce partie sans le consentement écrit préalable de l'ANS ou des autorités de sécurité compétentes de la Partie d'origine.\n\n2. Les Informations classifiées produites conjointement par les Parties en vertu d'accords, de contrats ou dans le cadre de toute activité commune ne peuvent être déclassées, déclassifiées ou transmises à une tierce partie sans le consentement écrit préalable de l'autre Partie.\n\n3. Avant de transmettre aux parties contractantes des Informations classifiées reçues de la\n\nPartie d'origine, les autorités de sécurité compétentes de la Partie destinataire doivent :\n\na) s'assurer que les parties contractantes et leurs établissements sont capables de fournir une protection appropriée aux Informations classifiées ;",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "-8-\n\nb) accorder le niveau d'habilitation requis aux établissements de la partie contractante considérée ;\n\nc) accorder le niveau d'habilitation requis aux personnes ayant besoin d'en connaître ;\n\nd) s'assurer que toutes les personnes qui ont accès à des Informations classifiées ont été informées de leurs responsabilités résultant des lois et règlementations nationales ;\n\ne) procéder à des contrôles de sécurité des établissements concernés.\n\nARTICLE &\n\nTraduction, reproduction et destruction\n\n1. La Partie destinataire procède au marquage des reproductions et des traductions élaborées de manière identique aux originaux et leur accorde la même protection.\n\n2. Les Informations classifiées TRES SECRET DEFENSE / VRLO TAJNO ne sont ni reproduites ni traduites. Des documents originaux et des traductions supplémentaires peuvent être fournis sur demande écrite auprès de la Partie d'origine.\n\n3. Les Informations classifiées TRES SECRET DEFENSE / VRLO TAJNO ne doivent pas être détruites, sauf autorisation expresse de la Partie d'origine. Elles sont restituées à la\n\nPartie d'origine conformément aux dispositions des paragraphes 1 et 2 de l'article 9 cidessous, lorsqu'il a été reconnu qu'elles ne sont plus nécessaires ou à l'expiration de leur validité.\n\n4. La traduction et la reproduction d'Informations classifiées SECRET DEFENSE / TAJNO sont autorisées uniquement avec le consentement écrit de l'ANS ou des autorités de sécurité compétentes de la Partie d'origine.\n\n5. Les Informations classifiées sont détruites de telle manière que leur reconstruction totale ou partielle soit impossible. Une preuve écrite de la destruction est conservée et fournie sur demande à la Partie d'origine.",
+      "quality_score": 0.9996,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "6. En cas de situation de crise rendant impossibles la protection ou la restitution d'Informations classifiées transmises ou générées en vertu du présent Accord, les\n\nInformations classifiées sont détruites immédiatement. La Partie destinataire informe l'ANS de la Partie d'origine de cette destruction dès que possible.\n\nARTICLE9\n\nTransmission d'Informations entre les Parties\n\n1. Les Informations classifiées sont transmises d'une Partie à l'autre par la voie diplomatique, conformément aux lois et règlementations nationales de la Partie d'origine.\n\n2. L'ANS ou les autorités de sécurité compétentes peuvent, d'un commun accord, convenir de la transmission des Informations classifiées par un autre moyen que la voie diplomatique, dans la mesure où ce mode de transmission se révélerait inadapté ou difficile.\n\n3. La transmission répond aux exigences suivantes :\n\na) Le convoyeur a une habilitation de sécurité appropriée. Le convoyeur est un employé permanent de la société expéditrice ou destinataire ou appartient à l'administration et est habilité à un niveau au moins égal à celui des Informations classifiées à transmettre ;\n\nb) Le convoyeur détient une lettre de courrier délivrée par l'autorité compétente de l'expéditeur ou du destinataire ;\n\nc) La Partie d'origine tient un registre des Informations classifiées transmises et en fournit sur demande un extrait à la Partie destinataire ;\n\nd) Les Informations classifiées sont dûment empaquetées et scellées conformément aux lois et règlementations nationales de la Partie d'origine ;",
+      "quality_score": 0.9955,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "-10-\n\ne) La réception d'Informations classifiées est confirmée par écrit dans les meilleurs délais.\n\n4. La transmission d'une quantité importante d'Informations classifiées est organisée entre les ANS ou les autorités de sécurité compétentes respectives au cas par cas.\n\n5. La transmission électronique d'Informations classifiées s'effectue sous forme cryptée au moyen des méthodes et dispositifs cryptographiques approuvés mutuellement par les ANS ou les autorités de sécurité compétentes des deux Parties.\n\nARTICLE 10\n\nContrats classifiés\n\n1. Les autorités de sécurité compétentes de la Partie d'origine informent les autorités de sécurité compétentes de la Partie destinataire de tout contrat classifié avant tout échange d'Informations classifiées. Cette notification doit préciser le plus haut niveau de classification des Informations impliquées dans le contrat.\n\n2. Une Partie qui souhaite conclure, ou autoriser l'une de ses parties contractantes à conclure un contrat classifié avec une partie contractante de l'autre Partie s'assure auprès de l'ANS ou des autorités de sécurité compétentes de cette Partie que ladite partie contractante est habilitée au niveau requis en vue d'exécuter ledit contrat. À défaut d'une telle habilitation, l'ANS ou les autorités de sécurité compétentes de la Partie destinataire engagent une procédure d'habilitation au niveau requis.\n\n3. Avant de conclure un contrat classifié avec une partie contractante relevant de la juridiction de l'autre Partie ou d'autoriser l'une de ses propres parties contractantes à conclure un contrat classifié sur le territoire de l'autre Partie, une Partie reçoit au préalable l'assurance écrite de l'ANS ou des autorités de sécurité compétentes de l'autre Partie que la partie contractante envisagée est habilitée à un niveau suffisant et a pris toutes les mesures de sécurité requises afin d'assurer la protection des Informations classifiées.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "-11-\n\n4. Pour tout contrat classifié, il est établi une annexe de sécurité. Dans cette annexe, l'ANS ou les autorités de sécurité compétentes de la Partie d'origine précisent ce qui doit être protégé par la Partie destinataire, ainsi que le niveau de classification correspondant. Seule la Partie d'origine est en mesure de modifier le niveau de classification défini dans l'annexe de sécurité.\n\n5. Tout contrat classifié contient des informations relatives aux instructions de sécurité ainsi qu'un guide de classification. Ces instructions sont cohérentes avec celles dispensées par l'autorité de sécurité compétente de la Partie d'origine.\n\n6. L'ANS ou les autorités de sécurité compétentes de la Partie d'origine transmettent une copie de l'annexe de sécurité à l'ANS ou aux autorités de sécurité compétentes de l'autre\n\nPartie.\n\n7. Les autorités de sécurité compétentes des Parties sur le territoire desquelles le travail doit être réalisé doivent faire en sorte que soit appliqué et maintenu, dans le cadre de l'exécution des contrats classifiés, un niveau de sécurité équivalent à celui requis pour assurer la protection de leurs propres contrats classifiés.\n\n8. Avant de signer un contrat classifié avec un sous-traitant, la partie contractante reçoit l'autorisation de ses autorités de sécurité compétentes. Les sous-traitants se conforment aux mêmes conditions de sécurité que celles fixées pour la partie contractante.\n\nARTICLE 11\n\nVisites\n\n1. Les visites aux établissements de l'une des Parties qui impliquent l'accès d'un représentant de l'autre Partie à des Informations classifiées, ou à des sites où un accès direct à ce type d'Informations est possible, font l'objet d'une autorisation écrite préalable de l'ANS ou des autorités de sécurité compétentes de la Partie hôte.\n\n2. Les visites aux établissements de l'une des Parties par des ressortissants d'une tierce partie impliquant l'accès à des Informations classifiées échangées entre les Parties ou\n\nep\n\nG",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "- 12-\n\nproduites par celles-ci, ou à des sites où un accès à ce type d'Informations est directement possible, sont soumises à l'autorisation écrite préalable de l'ANS ou des autorités de sécurité compétentes de l'autre Partie.\n\n3. Les visites mentionnées aux paragraphes 1 et 2 ci-dessus nécessitent que tous les visiteurs aient une habilitation de sécurité appropriée et le Besoin d'en connaître.\n\n4. Les demandes de visites, lorsque l'accès à des Informations classifiées de niveau TRES\n\nSECRET DEFENSE / VRLO TAJNO est nécessaire, sont transmises par la voie diplomatique à l'ANS de la Partie hôte. Les demandes de visites, lorsque l'accès à des\n\nInformations classifiées d'un niveau inférieur est nécessaire, sont traitées directement entre les ANS ou les autorités de sécurité compétentes des Parties. Les demandes sont adressées au moins trois (3) semaines avant la date de visite requise. Les demandes de visites contiennent les renseignements mentionnés à l'annexe au présent Accord.\n\n5. Chaque Partie peut demander une autorisation de visite pour une durée maximale de douze (12) mois. Si une visite en particulier ne peut être effectuée dans les délais prévus par l'autorisation de visite, ou si une prorogation de la durée prévue par l'autorisation de visite est nécessaire, la Partie requérante peut demander une nouvelle autorisation de visite, sous réserve que cette demande soit effectuée au moins trois (3) semaines avant que l'autorisation en cours n'arrive à expiration.\n\n6. Tous les visiteurs doivent se conformer aux règlementations et aux instructions de sécurité de la Partie hôte.\n\nARTICLE 12\n\nVisites multiples\n\n1. Les Parties peuvent établir une liste des personnels autorisés à effectuer plusieurs visites en rapport avec tout projet, programme ou contrat spécifique conformément aux conditions générales convenues par les ANS ou les autorités de sécurité compétentes des\n\nParties. Ces listes sont initialement valables pour une durée de douze (12) mois et, par accord entre les ANS ou les autorités de sécurité compétentes des Parties, cette durée de validité peut être prorogée pour des périodes supplémentaires n'excédant pas douze (12)\n\nmois au total.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "-13-\n\n2. Les listes mentionnées au paragraphe 1 ci-dessus sont arrêtées conformément aux lois et règlementations nationales de la Partie hôte. Une fois ces listes approuvées, les conditions générales de toutes les visites particulières peuvent être définies directement par les entités que les personnes mentionnées sur ces listes doivent visiter.\n\nARTICLE 13\n\nInfractions aux lois et règlementations relatives à la protection des Informations\n\nclassifiées\n\n1. Lorsqu'une violation des règlementations nationales relatives à la protection des\n\nInformations classifiées transmises en vertu du présent Accord ne peut être écartée ou qu'elle est présumée ou découverte, notamment en cas de perte ou de tout autre type de compromission avérée ou suspectée, l'ANS ou les autorités de sécurité compétentes de l'autre Partie en sont informées sans délai et par écrit.\n\n2. La notification doit être suffisamment détaillée pour que la Partie d'origine puisse pleinement évaluer les conséquences.\n\n3. La Partie qui a découvert ou suspecté les faits mène aussitôt une enquête (avec, si nécessaire, l'aide de l'autre Partie) conformément à ses lois et règlementations nationales en vigueur. La Partie menant l'enquête informe dans les meilleurs délais l'ANS ou les autorités de sécurité compétentes de l'autre Partie des résultats de l'enquête, des mesures décidées et des actions correctrices engagées.\n\nARTICLE 14\n\nFrais\n\n1. L'application du présent Accord ne génère en principe aucun frais spécifique.\n\n2. Les frais encourus par une Partie dans le cadre de la mise en œuvre et du suivi du présent\n\nAccord sont supportés par cette seule Partie.\n\nG",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 16,
+      "text": "-14-\n\nARTICLE 15\n\nRèglement des différends\n\n1. Tout différend relatif à l'interprétation ou à l'application du présent Accord est réglé exclusivement par voie de consultations entre les Parties, sans faire appel à aucune tierce partie ou tribunal international.\n\n2. Pendant la durée du différend, les Parties s'engagent à respecter les obligations énoncées par le présent Accord.\n\nARTICLE 16\n\nDispositions finales\n\n1. Le présent Accord est conclu pour une durée indéterminée. Chacune des Parties notifie à l'autre Partie, par la voie diplomatique, l'accomplissement des procédures internes requises pour l'entrée en vigueur du présent Accord. Le présent Accord prend effet le premier jour du deuxième mois suivant la réception de la dernière notification.\n\n2. En tant que de besoin, les ANS ou les autorités de sécurité compétentes des Parties se consultent au sujet des aspects techniques spécifiques relatifs à l'application du présent\n\nAccord et peuvent conclure, au cas par cas, tout instrument juridique ou protocole de sécurité spécifique approprié pour compléter le présent Accord.\n\n3. Chaque Partie informe sans délai l'autre Partie de toute modification de ses lois et règlementations nationales susceptibles d'avoir un effet sur la protection des Informations classifiées en vertu du présent Accord. Dans ce cas, les Parties se consultent afin d'étudier les modifications éventuelles à apporter au présent Accord. Dans l'intervalle, les Informations classifiées continuent d'être protégées conformément aux dispositions du présent Accord.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "-15-\n\n4. Les dispositions du présent Accord peuvent être modifiées d'un commun accord par écrit entre les Parties. Ces modifications prennent effet selon les modalités prévues au paragraphe 1 ci-dessus.\n\n5. Le présent Accord peut être dénoncé soit d'un commun accord soit unilatéralement. Sa dénonciation prend effet six (6) mois après réception de sa notification par écrit. L'avis de dénonciation n'a aucun effet sur les droits et obligations des Parties relatifs aux\n\nInformations échangées en vertu du présent Accord.\n\nEN FOI DE QUOI, les représentants des deux Parties dûment autorisés à cet effet ont signé le présent Accord et y ont apposé leur sceau.\n\nFait a regreb.... 1 25 Janeira 9011, en deux exemplaires originaux, en langues française et croate, tous les textes faisant également foi.\n\nPour le Gouvernement de la République française\n\nJerome\n\nl'ustrie\n\nAmbareidan\n\nde tiane\n\nPour le Gouvernement de\n\nla République de Croatie\n\nПриніс\n\nPetar MišEvić\n\nDirectein de l'UUNS\n\nNBA\n\n*\n\nSILVOUD",
+      "quality_score": 0.969,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 18,
+      "text": "-16- ANNEXE\n\nLa demande de visite mentionnée aux articles 11 et 12 doit contenir les informations suivantes :\n\na) le prénom, le nom, la date et le lieu de naissance, la nationalité et le numéro du passeport ou de la carte d'identité du visiteur ;\n\nb) l'emploi et le lieu de travail du visiteur et le nom de l'entité ou de l'institution qui l'emploie ;\n\nc) le niveau d'habilitation de sécurité du visiteur, authentifié par un certificat de sécurité fourni par l'autorité compétente de la Partie requérante ;\n\nd) la date proposée de la visite et la durée prévue ;\n\nc) l'objet de la visite et tous renseignements nécessaires précisant les sujets à traiter mettant en jeu des Informations classifiées et le niveau de classification de celles-ci ;\n\nf) les noms des entités, des établissements et des locaux qui font l'objet de la visite ;\n\ng) les noms et prénoms des personnes qui doivent accueillir le visiteur ;\n\nh) la date, la signature et le timbre officiel de l'autorité compétente de la Partie requérante.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 19,
+      "text": "E",
+      "quality_score": 0.4976,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "Ugovor između\n\nViade Francuske Republike\n\ni\n\nVlade Republike Hrvatske o uzajamnoj zaštiti klasificiranih podataka",
+      "quality_score": 0.9328,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 21,
+      "text": "E\n\n|",
+      "quality_score": 0.5086,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "Vlada Francuske Republike i Vlada Republike Hrvatske, u daljnjem tekstu \"stranke\", želeći jamčiti zaštitu klasificiranih podataka i materijala razmijenjenih ili nastalih izmedu dvije države ili izmedu javnih ili privatnih institucija u skladu s njihovim odgovarajućim nacionalnim sporazumjele su se o sljedecim odredbama:\n\nČLANAK 1.\n\nDefinicije\n\nZa potrebe ovog Ugovora:\n\n1. \"Klasificirani podaci\" označava podatake, dokumente i materijale, neovisno o obliku, naravi ili načinu njihovog prijenosa, bilo da su izradeni ili u tijeku izrade, kojima je dodijeljen stupanj tajnosti ili stupanj osjettjivosti i koje, u interesu nacionalne sigurnosti i u skladu s nacionalnim zakonima i propisima stranaka, treba zaštititi od svake povrede, uništavanja, zloporabe, otkrivanja, gubitka ili pristupa bilo koje neovlaštene osobe ili bilo koje druge vrste povrede sigurnosti.\n\n2.\n\n\"Klasificirani ugovor\" označava ugovor, podugovor ili projekt, čija priprema i provedba zahtijevaju pristup klasificiranim podacima ili korištenje i nastajanje klasificiranih podataka.\n\n3.\n\n\"Ugovorna stranka\" označava svaku fizičku ili pravnu osobu koja ima pravnu sposobnost pregovaranja i sklapanja klasificiranih ugovora.\n\n4. \"Nacionalno sigurnosno tijelo\" (NSA) označava nacionalno tijelo koje je odgovorno za opći nadzor i provedbu ovog Ugovora za svaku od stranaka.\n\n\"Nadležna sigurnosna tijela\" označava bilo koje ovlašteno sigurnosno tijelo (DSA) ili bilo koje drugo nadležno tijelo ovlašteno u skladu s nacionalnim zakonima i propisima stranaka koje je odgovorno za provedbu ovog Ugovora po predmetnim područjima.\n\n6.\n\n\"Stranka pošiljateljica\" označava stranku, uključujuči bilo koju javnu ili privatnu instituciju u skladu s nienim nacionalnim zakonima i propisima, koja stvara ili dostavlja klasificirane podatke drugoj stranci.\n\n\"Stranka primateljica\" označava stranku, uključujući bilo koju javnu ili privatnu instituciju u skladu s njenim nacionalnim zakonima i propisima, kojoj se prenose klasificirani podaci.\n\n\"Stranka domaćin\" označava stranku na čijem se području odvija posjet.\n\n9.\n\n\"Nužnost pristupa podacima za obavljanje poslova iz djelokruga\" označava potrebu za pristupom klasificiranim podacima u okviru odredenog radnog mjesta i za obavljanje odredenog zadatka.\n\n10.\n\n\"Treća strana\" označava bilo koju državu, organizaciju, pravnu ili fizicku osobu koja nije stranka ovog Ugovora.",
+      "quality_score": 0.9579,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "hr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 23,
+      "text": "ČLANAK 2.\n\nPodručje primjene\n\nOvaj Ugovor određuje opća pravila sigurnosti koja se primjenjuju na svaku razmjenu klasificiranih podataka između stranaka ili između njihovih javnih ili privatnih institucija u skladu s njihovim nacionalnim zakonima i propisima (ovlaštenim za ovu svrhu).\n\nČLANAK 3.\n\nNacionalna sigurnosna tijela\n\nNSA za svaku od stranaka je:\n\nZa Francusku Republiku:\n\nSecrétariat général de la défense et de la sécurité nationale (S.G.D.S.N.)\n\n51, bd de La Tour-Maubourg 75700 PARIS 07 SP\n\nZa Republiku Hrvatsku:\n\nUred Vijeća za nacionalnu sigurnost (UVNS)\n\nJurjevska 34 10000 ZAGREB\n\nStranke se međusobno obavještavaju, diplomatskim putem, o svim promjenama koje se odnose na njihov NSA, kao i na njihova nadležna sigurnosna tijela.\n\nČLANAK 4,\n\nSigurnosna načela\n\nU skladu s njihovim nacionalnim zakonima i propisima stranke poduzimaju odgovarajuće mjere za zaštitu klasificiranih podataka koji su preneseni, primljeni ili nastali u skladu s ovim\n\nUgovorom i dodjeljuju im stupanj zaštite istoznačan onom koji je dodijeljen njihovim vlastitim nacionalnim klasificiranim podacima, kao što je određeno u stavku 1. članka 5.\n\n. Od primitka klasificiranih podataka od stranke pošiljateljice, stranka primateljica na njih stavlja svoju vlastitu nacionalnu oznaku u skladu s istoznačnostima određenim u stavku 1. članka 5.\n\n. Pristup klasificiranim podacima strogo je ograničen na državljane stranaka kojima je izdan odgovarajući sigurnosni certifikat i u okviru čijeg djelokruga postoji nužnost pristupa takvim podacima.\n\n. Stranka primateljica ne smanjuje stupanj tajnosti niti deklasificira prenesene klasificirane podatke bez prethodnog pisanog pristanka stranke pošiljateljice.\n\n. Stranke se bez odgode međusobno obavještavaju o svim promjenama koje utječu na zaštitu klasificiranih podataka razmijenjenih ili nastalih u skladu s ovim Ugovorom.\n\nPreneseni klasificirani podaci ne mogu biti korišteni u nikakve druge svrhe osim onih za koje su preneseni. Stranke osiguravaju da su ispunjeni svi zahtjevi koji proizlaze iz njihovih nacionalnih sigurnosnih zakona i propisa u vezi sa sigurnošću agencija, ureda į objekata pod njihovom nadležnosti, posebice putem inspekcijskih posjeta i nadzora.",
+      "quality_score": 0.9541,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 24,
+      "text": "1.\n\nČLANAK 5.\n\nStupnjevi tajnosti i istoznačnosti\n\nStranke se obvezuju osigurati zaštitu razmijenjenih klasificiranih podataka i usvojiti istoznačnosti stupnjeva tajnosti određenih u donjoj tablici:\n\nFRANCUSKA HRVATSKA\n\nFrancuska Republika obrađuje i štiti podatke označene “OGRANIČENO”, prenesene od strane\n\nRepublike Hrvatske, u skladu sa svojim važećim nacionalnim zakonima i propisima u vezi sa zaštićenim, ali neklasificiranim podacima, označenim kao \"DIFFUSION RESTREINTE\".\n\nRepublika Hrvatska obrađuje i štiti neklasificirane podatke, čija oznaka ukazuje da su zaštićeni kao \"DIFFUSION RESTREINTE\", prenesene od strane Francuske Republike, u skladu sa svojim važećim nacionalnim zakonima i propisima u vezi sa zaštitom podataka označenih “OGRANIČENO”.\n\n. NSA ili nadležna sigurnosna tijela međusobno se obavještavaju o svim novim ili dodatnim sigurnosnim oznakama koje se mogu razmjenjivati ili nastati na temelju ovog Ugovora.\n\n. Kako bi se održali istoznačni sigurnosni standardi, svaka stranka, na zahtjev druge stranke, dostavlja sve potrebne podatke u vezi s nacionalnim sigurnosnim zakonima, propisima i postupcima koji se primjenjuju kako bi se osigurala sigurnost klasificiranih podataka. Stranke su suglasne omogućiti kontakte između njihovih NSA i njihovih nadležnih sigurnosnih tijela.\n\nČLANAK 6.\n\nPostupak izdavanja sigurnosnog certifikata\n\n. Za pristup klasificiranim podacima označenim stupnjem tajnosti CONFIDENTIEL DEFENSE 7\n\nPOVJERLJIVO ili višim, svaka stranka, u skladu sa svojim nacionalnim zakonima i propisima, provodi postupak izdavanja sigurnosnog certifikata.\n\n. Za izdavanje sigurnosnog certifikata državljaninu jedne od stranaka koji je boravio ili još uvijek boravi na području druge stranke, NSA svake od stranaka međusobno si pomažu u skladu sa svojim nacionalnim zakonima i propisima.\n\nStranke uzajamno priznaju sigurnosne certifikate izdane njihovim državljanima u okviru pristupa klasificiranim podacima.\n\n-Ukoliko NSA ili nadležna sigurnosna tijela jedne od stranaka smatraju da je ugovorna stranka koja je registrirana na njenom državnom području u vlasništvu ili njome upravlja druga država čiji ciljevi nisu u skladu s interesima te stranke, dotičnoj ugovornoj stranci neće sẹ izdati sigurnosni certifikat. NSA ili nadležna sigurnosna tijela stranaka koja su podnijela zahtjev za izdavanje sigurnosnog certifikata pravne osobe moraju biti odgovarajuće obavješteni u najkraćem mogućem roku.\n\n. NSA ili nadležna sigurnosna tijela međusobno se obavještavaju O promjenama u vezi sa sigurnosnim certifikatima njihovih državljana u okviru ovog Ugovora, posebice, u slučaju povlačenja sigurosnog certifikata ili snižavanja njegovog stupnja tajnosti.",
+      "quality_score": 0.9549,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 25,
+      "text": "ČLANAK 7.\n\nKorištenje klasificiranih podataka\n\n1. Stranka primateljica ne ustupa klasificirane podatke razmijenjene ili nastale u skladu s ovim\n\nUgovorom bilo kojoj trećoj strani, bez prethodnog pisanog pristanka NSA ili nadležnih sigurnosnih tijela stranke pošiljateljice.\n\n2. Klasificiranim podacima koje stranke zajednički stvaraju na temelju sporazuma, ugovora ili druge zajedničke aktivnosti ne može se smanjivati stupanj tajnosti, deklasificirati ih ili prenositi trecoj strani, bez prethodnog pisanog pristanka druge stranke.\n\n3. Prije prenošenja bilo kojih klasificiranih podataka primljenih od stranke pošiljateljice ugovornim strankama, nadležna sigurnosna tijela stranke primateljice dužna su:\n\nosigurati da su ugovorne stranke i njihovi objekti sposobni osigurati odgovarajuću zaštitu za klasificirane podatke;\n\nb) dodijeliti sigurnosni certifikat potrebnog stupnja objektima predmetne ugovorne stranke;\n\nC)\n\ndodijeliti sigurnosni certifikat potrebnog stupnja pojedincima kojima je to nužno za obavljanje poslova iz djelokruga;\n\nd) osigurati da su sve osobe koje imaju pristup klasificiranim podacima obaviještene o svojim odgovornostima koje proizlaze iz nacionalnih zakona i propisa;\n\ne) provoditi sigurnosni nadzor predmetnih objekata.\n\nCLANAK 8.\n\nPrevodenje, umnožavanje i uništavanje\n\n1.\n\nStranka primateljica označava umnožene primjerke i prijevode kao izvornike i dodjeljuje im jednaku zaštitu.\n\n2. Klasificirani podaci označeni TRES SECRET DEFENSE / VRLO TAJNO ne umnožavaju se niti se prevode. Dodatni izvorni dokumenti i prijevodi mogu se dostaviti na temelju pisanog zahtjeva upućenog stranci pošiljateljici.\n\n3. Klasificirani podaci označeni TRES SECRET DEFENSE / VRLO TAJNO ne smiju se uništavati, osim ukoliko je uništavanje izričito odobreno od stranke posiljateljice. Oni se vracaju stranci pošiljateljici u skladu s odredbama stavaka 1. i 2. članka 9., nakon što se utyrdi da više nisu potrebni ili nakon isteka njihovog važenja.\n\n4. Prevodenje i umnožavanje klasificiranih podataka označenih SECRET DEFENSE / TAJNO odobrava se samo na temelju pisanog pristanka NSA ili nadležnih sigurnosnih tijela stranke pošiljateljice.\n\n5. Klasificirani podaci uništavaju se na način na koji ih je nemoguće obnoviti djelomično ili u cjelini. Pisani dokaz o uništavanju čuva se i na zahtjev dostavlja stranci pošiljateljici.\n\n6. U slučaju krizne situacije, kada je nemoguće zaštititi ili vratiti klasificirane podatke koji su reneseni ili nastali u skladu s ovim Ugovorom, ti se klasificirani podaci odmah uništavaju stranka primateljica obavieštava NSA stranke pošiliateljice o tom uništavanju čim to bud moguce.",
+      "quality_score": 0.9633,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "hr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 26,
+      "text": "ČLANAK 9.\n\nPrijenos podataka između stranaka\n\nKlasificirani podaci prenose se od jedne stranke drugoj diplomatskim putem u skladu s nacionalnim zakonima i propisima stranke pošiljateljice.\n\n. NSA ili nadležna sigurnosna tijela mogu, uzajamnim dogovorom, dogovoriti da se klasificirani podaci mogu prenositi i na drugi način, osim diplomatskim putem, ukoliko se predmetni način prijenosa pokaže neprikladnim ili teškim.\n\nPrijenos odgovara sljedećim uvjetima:\n\na) dostavljač posjeduje odgovarajući sigurnosni certifikat. Dostavljač je stalni zaposlenik pravne osobe pošiljateljice ili primateljice ili radìi u državnoj upravi i posjeduje sigurnosni certifikat barem jednakog stupnja kao i klasificirani podaci koji se prenose;\n\ndostavljač posjeduje dostavljačko pismo kojeg izdaje nadležno tijelo pošiljatelja ili primatelja;\n\nstranka pošiljateljica čuva registar prenesenih klasificiranih podataka i izvadak iz ovog registra na zahtjev se ustupa stranci primateljici;\n\nklasificirani podaci se propisno pakiraju i pečate skladu s nacionalnim zakonima i propisima stranke pošiljateljice;\n\nprimitak klasificiranih podataka potvrđuje se pisanim putem u najkraćem roku.\n\nPrijenos velike količine klasificiranih podataka organizira se između NSA ili nadležnih sigurnosnih tijela od slučaja do slučaja.\n\nKlasificirani podaci prenose se elektronički u kriptiranom obliku, pomoću kriptografskih metoda i uređaja koje su uzajamno prihvatila NSA ili nadležna sigurnosna tijela obiju stranaka.\n\nČLANAK 10.\n\nKlasificirani ugovori\n\nNadležna sigurnosna tijela stranke pošiljateljice obavještavaju nadležna sigurnosna tijela stranke primateljice o svim klasificiranim ugovorima prije bilo kakve razmjene klasificiranih podataka. Predmetna obavijest mora pobliže odrediti najviši stupanj tajnosti podataka uključenih u ugovor.\n\nStranka koja namjerava sklopiti ili odobriti jednoj od svojih ugovornih stranaka sklapanje klasificiranog ugovora s ugovornom strankom druge stranke provjerava s NSA ili nadležnim sigurnosnim tijelima ove stranke da potonja ugovorna stranka ima sigurnosni certifikat odgovarajućeg stupnja potreban kako bi se proveo navedeni ugovor. Ukoliko ne posjeduje sigurnosni certifikat, NSA ili nadležna sigurnosna tijela stranke primateljice započinju postupak izdavanja sigumosnog certifikata traženog stupnja.\n\nPrije sklapanja klasificiranog ugovora $ ugovornom strankom pod nadležnosti druge stranke ili odobravanja jednoj od vlastitih ugovornih stranaka da sklopi klasificirani ugovor na području druge stranke, NSA ili nadležna sigurnosna tijela druge stranke stranci prvo daju pisano jamstvo da predložena ugovorna stranka posjeduje sigurnosni certifikat odgovarajućeg stupnja i da je poduzela sve odgovarajuće sigurnosne mjere potrebne kako bi se osigurala zaštita klasificiranih podataka.\n\nZa svaki klasificirani ugovor izrađuje se sigurnosni prilog. U tom prilogu NSA ili nadležna sigurnosna tijela stranke pošiljateljice pobliže određuju što stranka primateljica mora štititi kao i odgovarajući stupanj tajnosti. Samo stranka pošiljateljica može promijeniti stupanj tajnosti podataka određen u sigurnosnom prilogu.",
+      "quality_score": 0.9647,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 27,
+      "text": "Svi klasificirani ugovori sadrže podatke u vezi sa sigurosnim uputama kao i Uputu o klasificiranju. Navedene upute uskladene su s onima koje daju nadležna sigurnosna tijela stranke pošiljateljice.\n\n6. NSA ili nadležna sigurnosna tijela stranke pošiljateljice šalju presliku sigurnosnog priloga NSAu ili nadležnim sigurnosnim tijelima druge stranke.\n\n7. Nadležna sigurnosna tijela stranaka na čijem se području obavlja posao moraju osigurati, u okviru provedbe klasificiranih ugovora, da se primjenjuje i održava stupanj tajnosti istovjetan onom koji je potreban kako bi se osigurala zaštita njihovih vlastitih klasificiranih ugovora.\n\nPrije potpisivanja klasificiranog ugovora s podugovorateljem, ugovorna stranka mora biti ovlaštena od strane njenih nadležnih sigurnosnih tijela. Podugovaratelji ispunjavaju iste sigurnosne uvjete kao što su oni koji su utvrdeni za ugovornu stranku.\n\n1.\n\nČLANAK 11.\n\nPosjeti\n\nPosjeti objektima jedne od stranaka koji podrazumijevaju da predstavnik druge stranke ima pristup klasificiranim podacima ili lokacijama gdje je pristup takvim podacima izravno moguć podložni su prethodnom odobrenju NSA ili nadležnih sigurnosnih tijela stranke domaćina.\n\n2.\n\nPosjeti objektima jedne od stranaka od strane državljana treće stranke koji uključuju pristup klasificiranim podacima razmijenjenim ili nastalim izmedu stranaka ili lokacijama gdje je pristup takvim podacima izravno moguć podložni su prethodnom pisanom odobrenju NSA ili nadležnih sigurnosnih tijela druge stranke.\n\n3. Posjeti navedeni u stavcima 1. i 2. podrazumjevaju da svi posjetitelji imaju odgovarajući sigurnosni certifikat kao i nužnost pristupa podacima za obavljanje poslova iz djelokruga.\n\n4. Zahtjevi za posjete kada je potreban pristup klasificiranim podacima stupnja TRES SECRET\n\nDEFENSE / VRLO TAJNO šalju se diplomatskim putem NSA stranke domaćina. Zahtjevi za posjete kada je potreban pristup klasificiranim podacima nižeg stupnja obraduju se izravno izmedu NSA i nadležnih sigurnosnih tijela stranaka. Zahtjevi se šalju najmanje tri (3) tjedna prije traženog datuma posjeta. Zahtjevi za posjete sadrže podatke navedene u Dodatku ovog\n\nUgovora.\n\n5. Svaka stranka moze zahtijevati odobrenje za posjet za najduže razdoblje od dvanaest (12)\n\nmjeseci. Ukoliko se pojedini posjet ne može obaviti unutar razdoblja predvidenog u odobrenju za posjet ili ukoliko se traži produženje razdoblja predvidenog u odobrenju za posjet, stranka koja to zatraži može podnijeti zahtjev za novo odobrenje za posjet, pod uvjetom da ga podnese najmanje tri (3) tjedna prije isteka važećeg odobrenja.\n\n6. Svi posjetitelji dužni su pridržavati se sigurnosnih propisa i uputa stranke domaćina.\n\nČLANAK 12.\n\nVišestruki posjeti\n\n1.\n\nStranke mogu sastaviti popis osoblja ovlaštenog za provedbu nekoliko posjeta u vezi s bilo kojim projektom, programom ill posebnim ugovorom u skladu sa standardnim uvjetima dogovorenim izmedu NSA ili nadleżnih sigurnosnih tijela stranaka. Najprije, navedeni popisi vrijede tijekom razdoblja od dvanaest (12) mjeseci i temeljem dogovora izmedu NSA ili nadležnih sigurnosnih tijela stranaka navedeno razdoblje važenja može se produžiti za druga razdoblja koja ukupno ne prelaze dvanaest (12) mjeseci.",
+      "quality_score": 0.9718,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "hr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 28,
+      "text": "2. Popisi navedeni u stavku 1. sastavljaju se u skladu s nacionaínim zakonima i propisima stranke domaćina. Nakon odobrenja dostavljenog popisa, opći uvjeti svih posebnih posjeta mogu se utvrdivati izravno izmedu tijela i pravnih osoba koje osobe navedene na tim popisima trebaju posjetiti.\n\nCLANAK 13.\n\nPovreda zakona i propisa u vezi sa zaštitom klasificiranih podataka\n\n1. Kada se ne može isključiti povreda nacionalnih propisa u vezi sa zaštitom klasificiranih podataka prenesenih u skladu s ovim Ugovorom ili kada se pretpostavlja ili otkrije, posebice u slučaju gubitka ili bilo koje druge vrste dokazane ili sumnje na povredu sigurnosti, NSA ili nadležna sigurnosna tijela druge stranke odmah se obavještavaju o tome pisanim putem.\n\n2. Obavijest mora sadržavati dovoljno detalja kako bi stranka pošiljateljica mogla u potpunosti procijeniti posljedice.\n\n3. Stuge stroke, okila je moja uni cod a svi stepan actoria zonal propisima. Stranka koja provodi postupak za utvrdivanje obavještava NSA ili nadležna sigurnosna tijela druge stranke o nalazima postupka, usvojenim mjerama i poduzetim korektivnim aktivnostima u najkraćem roku.\n\nČLANAK 14.\n\nTroškovi\n\n1. U pravilu, provedba ovog Ugovora ne stvara bilo kakve posebne troškove.\n\n2. Troškove nastale za stranku u okviru provedbe ili praćenja ovog Ugovora snosi ta stranka sama.\n\nČLANAK 15.\n\nRješavanje sporova\n\n2. Tijekom trajanja spora stranke se obvezuju poštovati obveze navedene u ovom Ugovoru.\n\nCLANAK 16.\n\nZavršne odredbe\n\n1. Ovaj Ugovor sklapa se na neodredeno vrijeme. Svaka od stranaka obavještava drugu stranku, liplomatskim putem, o okončanju unutarnjih postupaka potrebnih za stupanje na snagu ovo\n\nJaovora. Ovai Ugovor stupa na snagu prvog dana drugog mieseca nakon primitka posljednj obavijesti.\n\n2. Kada je potrebno, NSA ili nadležna sigurnosna tijela stranaka održavaju konzultacije o specifičnim tehničkim aspektima u vezi s provedbom ovog Ugovora i mogu sklopiti, od slučaja do slučaja, druge odgovarajuće pravne instrumente ili sigurnosni protokol kako bi se dopunio ovaj Ugovor.",
+      "quality_score": 0.9552,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "hr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 29,
+      "text": "3. Svaka stranka obavještava drugu stranku, bez odgode, o svim promenama svojih nacionalnih zakona i propisa koji bi mogli utjecati na zaštitu klasificiranih podataka u skladu s ovim\n\nUgovorom. U ovom slučaju, stranke održavaju konzultacije kako bi razmotrile sve moguće izmjene ovog Ugovora. U meduvremenu, klasificirani podaci se i dalje štite u skladu s odredbama ovog Ugovora.\n\n4. Odredbe ovog Ugovora mogu se mijenjati uzajamnim pisanim dogovorom izmedu stranaka.\n\nTe izmjene stupaju na snagu na način predviden stavkom 1.\n\n5. Ovaj Ugovor može se otkazati uzajamnim dogovorom ili jednostrano. Otkaz ovog Ugovora stupa na snagu šest (6) mjeseci nakon primitka pisane obavijesti. Obavijest o otkazu ne utječe na prava i obveze stranaka u vezi s podacima razmijenjenim u skladu s ovim Ugovorom.\n\nU POTVRDU TOGA, predstavnici dviju stranaka, propisno ovlašteni u tu svrhu, potpisali su ovaj\n\nUgovor i na njega stavili svoje pečate.\n\nSastavljeno u\n\ntagrabil\n\n... dana.\n\n25. je 4a 2011\\\n\nna francuskom i hrvatskom, pri čemu su svi tekstovi jednako vjerodostojni.\n\nu dva izvornika\n\nZa Vladu Francuske Republike\n\nlocomo\n\nProdica\n\nZa Vladur Republike Hrvatske\n\nПрими.\n\nPelar Mišević\n\nDirectem de l'UUNS\n\n-BASSADE DE\n\nCATE",
+      "quality_score": 0.9263,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "hr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 30,
+      "text": "DODATAK\n\nZahtjev za posjet naveden u člancima 11. i 12. mora sadržavati sljedeće podatke:\n\na) ime, prezime, datum ìi mjesto rođenja, državljanstvo i broj putovnice ili osobne iskaznice posjetitelja;\n\nb) zaposlenje i radno mjesto posjetitelja, ime tijela ili pravne osobe ili institucije koja zapošljava njega/nju;\n\nc) stupanj tajnosti sigurnosnog certifikata posjetitelja, potvrđen sigurnosnom potvrdom koju dostavlja nadležno tijelo stranke koja podnosi zahtjev;\n\nd) predloženi datum posjeta í planirano trajanje;\n\ne) svrhu posjeta i sve potrebne podatke koji pobliže određuju subjekte kojì će biti uključeni i koji sadrže klasificirane podatke i njihove stupnjeve tajnosti;\n\nf) imena tijela ilì pravnih osoba, objekata i prostorija koje su povezane s posjetima;\n\ng) prezimena i imena osoba koje će dočekati posjetitelja;\n\nh) datum, potpis i otìsak službenog pečata nadležnog tijela stranke koja podnosi zahtjev.",
+      "quality_score": 0.9374,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "hr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 31,
+      "text": "e\n\n¥ :\n\ni $ z y\n\nK\n\nt i\n\nor\n\n| 2 [i v | y\n\ni i\n\na a nT i",
+      "quality_score": 0.489,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "cy",
+        "cs",
+        "hr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19760090_001_s1",
+      "title": "Accord",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760088_001_s1",
+      "title": "Accord",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19830254_001_s1",
+      "title": "Protocole",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19650054_100_s1",
+      "title": "Texte du procès-verbal de la XIIe commission mixte franco-italienne pour l'application de la convention culturelle",
+      "score": 0.934369,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_015_s1",
+      "title": "Traité et règlements commerciaux",
+      "score": 0.848689,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20172377_001",
+      "title": "Accord",
+      "score": 0.842534,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172325_001",
+      "title": "Accord",
+      "score": 0.796706,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "20050057_001_s1",
+      "title": "Accord",
+      "score": 0.781935,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20162174_001_s1",
+      "title": "Traité (ensemble 3 annexes)",
+      "score": 0.710549,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182643_001_s1",
+      "title": "Accord",
+      "score": 0.671307,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

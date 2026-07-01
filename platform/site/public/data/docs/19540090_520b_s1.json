@@ -1,0 +1,51 @@
+{
+  "document_id": "19540090_520b_s1",
+  "title": "Télégramme demandant au plénipotentiaire luxembourgeois de procéder à la signature du texte de la Convention avant le 1er mai 1955 et annonçant l'édition prochaine de pleins pouvoirs",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.8686,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "ГЕС Indicate CLEALU ! 오토트 Jeux. ORIGINE NUMÉRO NOMBRE de mats DATE HEURE de dépôt MENTIONS DE SES 73 LUXEMBOURE 5757 32 75 1732 ETAT. VOUS PRIE BIEN VOULOIR SIGNER CONVENTLON INTERNAȚIONALE FeDuRly UNIFICATION DES METHODES DANALYSE ET, AD APPREGLATION DEȘIYINS AVANT DATE LIMITE PREMIER MED 1955 STOP PLEINS POUVOIRS SUIVRONT BECH",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_520b_s1.pdf",
+  "source_filename": "19540090_520b_s1.pdf",
+  "source_sha256": "c14535399c591ee6ec96ce45cf2e4ea5b86f5419e5d3cb1ed4c42e37e0ee1026",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "520b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ГЕС\n\nIndicate CLEALU\n\n! 오토트\n\nJeux.\n\nORIGINE\n\nNUMÉRO\n\nNOMBRE\n\nde mats\n\nDATE\n\nHEURE\n\nde dépôt\n\nMENTIONS DE SES\n\n73\n\nLUXEMBOURE 5757 32 75 1732 ETAT.\n\nVOUS PRIE BIEN VOULOIR SIGNER CONVENTLON INTERNAȚIONALE\n\nFeDuRly UNIFICATION DES METHODES DANALYSE ET,\n\nAD APPREGLATION DEȘIYINS AVANT DATE LIMITE PREMIER MED\n\n1955 STOP PLEINS POUVOIRS SUIVRONT BECH",
+      "quality_score": 0.8686,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de",
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

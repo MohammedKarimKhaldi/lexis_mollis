@@ -65,5 +65,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_64_s1",
+      "title": "Transmission de la note de la Bulgarie sur l'adhésion de Taïwan",
+      "score": 0.912764,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_63_s1",
+      "title": "Transmission de la note de la Roumanie sur l'adhésion de Taïwan",
+      "score": 0.40754,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_310",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.400417,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_17_s1",
+      "title": "Note verbale d'adhésion de la Chine populaire",
+      "score": 0.395604,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_57_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de Singapour",
+      "score": 0.392267,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_081",
+      "title": "Note verbale des autorités grecques accusant réception de la notification du dépôt de l'instrument de Bahreïn",
+      "score": 0.391709,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_887_s1",
+      "title": "Note verbale d'accompagnement de l'instrument thaïlandais",
+      "score": 0.39121,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_506",
+      "title": "Demande des autorités françaises d'une notification de dépôt de l'instrument d'adhésion",
+      "score": 0.390462,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.389321,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_141_s1",
+      "title": "Instrument d'adhésion du Brésil",
+      "score": 0.388633,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

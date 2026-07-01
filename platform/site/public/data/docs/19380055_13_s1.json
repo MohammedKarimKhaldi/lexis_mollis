@@ -1,0 +1,116 @@
+{
+  "document_id": "19380055_13_s1",
+  "title": "Notification d'adhésion de la Belgique",
+  "year": 1938,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9586,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "CH/M. AMBASSADE DE BELGIQUE N° 9888 - S. 11 PARIS, Ie 5 JUIN 1939. CABINET DU MINISTEE! Monsieur 1e Ministre, Mo conformant aux Instructions qul m'ont été données par le Ministère des Affaires Etrangdros du Royaume, j'ai 1'hon- nour de porter à la connaissance de votre Excollonce que 10 Gourernement du Ro1 a décidé d'accéder à la convention portant modification de 1a Convention Sanitaire Intornationale du 2I juin 18…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380055_13_s1.pdf",
+  "source_filename": "19380055_13_s1.pdf",
+  "source_sha256": "711925d94f33b8bbee9cb0531c0d92ee341bc7aec9994c54b4f1c9e387ab67d4",
+  "treaty_id": "TRA19380055",
+  "treaty_number": "BEL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CH/M.\n\nAMBASSADE DE BELGIQUE\n\nN°\n\n9888 - S. 11\n\nPARIS, Ie 5 JUIN 1939.\n\nCABINET DU MINISTEE!\n\nMonsieur 1e Ministre,\n\nMo conformant aux Instructions qul m'ont été données par le Ministère des Affaires Etrangdros du Royaume, j'ai 1'hon- nour de porter à la connaissance de votre Excollonce que 10\n\nGourernement du Ro1 a décidé d'accéder à la convention portant modification de 1a Convention Sanitaire Intornationale du 2I juin 1826, signéo à Paris, la 3I Octobre 1838.\n\nLa notiflcation de l'accession en question tient compte du dernier paragraphe de l'article 4 et de l'article 6 de la Convention précitée.\n\nJe serais très reconnaissant à Votre Excellence de\n\nTOulOII bien n'accuser réception de la notification dont 11 s'agit- Teulllez agréer, Monsieur le Ministre, l'assurance do la plus baute considération avec laquelle J'a1 1 honneur d'être\n\nde Votre Excellence, 10 très humble, et très obéissant serviteur,\n\nMA L'AMOAS CONUA DE BELAIOUR\n\nconseiller\n\nChangun\n\nSon Excellence\n\nMonsieur Georges BONNET\n\nMinistre des Affaires Etrangères\n\nPARIS.-",
+      "quality_score": 0.9586,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_gbr008_s1",
+      "title": "Extension de l'adhésion aux Bahamas",
+      "score": 0.41522,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.414054,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr003_s1",
+      "title": "Dénonciation de la convention",
+      "score": 0.410753,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.408896,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.408726,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380028_05_s1",
+      "title": "Note verbale ajoutant l'Australie à l'accession au traité",
+      "score": 0.408653,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.40838,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.407367,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.407039,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.406622,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

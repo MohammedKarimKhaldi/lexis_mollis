@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_pak004_s1",
+  "title": "Note accusant réception de la notification d'adhésion du Pakistan",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9922,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE LA PRINCIPAUTÉ DE MONACO Direction Coupération Européenne 25. JUIN 200% ARRIVÉE N° 953 L'Ambassade de la Principauté de Monaco en France présente ses compliments au Ministère des Affaires Etrangères et Européennes (Direction de la Coopération Européenne, Sous-Direction de l'Europe Méridionale) et a l'honneur d'accuser réception de sa Note verbale NUOI/E Nº1030, en date du 7 juin 2007, informant que la F…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_pak004_s1.pdf",
+  "source_filename": "tra19280002_pak004_s1.pdf",
+  "source_sha256": "78d1fe09d80528961434d1f3128baa5a966f084201ff602d31971507e7d95ec3",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "PAK004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE\n\nDE LA\n\nPRINCIPAUTÉ DE MONACO\n\nDirection Coupération Européenne\n\n25. JUIN 200%\n\nARRIVÉE\n\nN° 953\n\nL'Ambassade de la Principauté de Monaco en France présente ses compliments au Ministère des Affaires Etrangères et\n\nEuropéennes (Direction de la Coopération Européenne, Sous-Direction de l'Europe Méridionale) et a l'honneur d'accuser réception de sa Note verbale NUOI/E Nº1030, en date du 7 juin 2007, informant que la\n\nFrance, Etat dépositaire de la Convention sur les\n\nexpositions\n\ninternationales, a reçu notification de l'adhésion de la République\n\nIslamique du Pakistan à ladite Convention\n\nLa Mission précise au Département qu'elle n'a pas manqué de faire parvenir cette communication aux Autorités monégasques concernées.\n\nL'Ambassade de la Principauté de Monaco saisit cette occasion pour renouveler au Ministère des Affaires Etrangères et\n\nEuropéennes les assurances de sa haute considération/. A\n\nParis, le 19 juin 2007\n\nLA PRINCIPAL\n\nMinistère des Affaires Etrangères et Européennes\n\nDirection de la Coopération Européenne\n\nSous-Direction de l'Europe Méridionale\n\nPARIS",
+      "quality_score": 0.9922,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_605",
+      "title": "Accusé de réception français de l'adhésion monténégrine",
+      "score": 0.416977,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.409911,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_05_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.408329,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_242_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.407784,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.403463,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_005_s1",
+      "title": "Instrument ouzbèke",
+      "score": 0.402073,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.401848,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.401382,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20010080_lux002_s1",
+      "title": "Instrument de ratification",
+      "score": 0.400886,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.399716,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19880095_015_s1",
+  "title": "Note verbale d'acceptation de l'amendement de 1988",
+  "year": 1988,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9903,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "E arrivée le 14 décenche 1989 AMBASSADE DE COREE EN FRANCE SP 89/54 L'Ambassade de la République de Corée en France présente ses compliments au Ministère des Affaires Étrangères et en référence à l'amendement du texte à la Conven- tion du Bureau International des Expositions de 1928 modifiée qui a été adopté par l'Assemblée générale au cours de sa 103ème session le 31 mai 1988, a l'honneur de Lui communiquer ce qui…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_015_s1.pdf",
+  "source_filename": "19880095_015_s1.pdf",
+  "source_sha256": "5973c9bb183d31e23d67e4c60c4ccb9a47f3bc72372cb8394e1b8b105b04adf3",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "235",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "E\n\narrivée le 14 décenche 1989\n\nAMBASSADE DE COREE\n\nEN FRANCE\n\nSP 89/54\n\nL'Ambassade de la République de Corée en\n\nFrance présente ses compliments au Ministère des Affaires\n\nÉtrangères et en référence à l'amendement du texte à la Conven- tion du Bureau International des Expositions de 1928 modifiée qui a été adopté par l'Assemblée générale au cours de sa 103ème session le 31 mai 1988, a l'honneur de Lui communiquer ce qui suit :\n\nSuivant la procédure d'acceptation prévue par l'article 33 alinéa 3 de la Convention, cette Ambassade a l'honneur de notifier au Ministère des Affaires étrangères l'acceptation de l'amendement par la Corée selon la procédure prévue par la législation coréenne. L'amendement de la Convention entrera en vigueur en Corée à la date du 7 décembre 1989.\n\nL'Ambassade de la République de Corée prie donc le Ministère des Affaires étrangères de bien vouloir faire part de cette notification au Bureau International des Expositions à Paris, et saisit cette occasion pour lui renouveler les assu- rances de sa haute considération.\n\nParis, le 8 décembre 1989 •H月』\n\nMinistère des Affaires étrangères 37, quai d'Orsay 75700 PARIS\n\n2品",
+      "quality_score": 0.9903,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_009_s1",
+      "title": "Note verbale d'acceptation de l'Autriche",
+      "score": 0.697428,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_038_s1",
+      "title": "Note verbale d'adhésion de la Norvège",
+      "score": 0.685257,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.421654,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_033_s1",
+      "title": "accusé de réception du Nicaragua de la notification de l'amendement",
+      "score": 0.420896,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.419063,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_016_s1",
+      "title": "Note verbale d'acceptation du Danemark",
+      "score": 0.418092,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_026_s1",
+      "title": "Note verbale d'acceptation de l'Espagne",
+      "score": 0.417565,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_042_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion coréen",
+      "score": 0.410298,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_030_s1",
+      "title": "Note verbale d'acceptation du Maroc",
+      "score": 0.409291,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "notification_denonciation_bie_guatemala_s1",
+      "title": "Dénonciation de la convention sur les expositions internationales",
+      "score": 0.409186,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

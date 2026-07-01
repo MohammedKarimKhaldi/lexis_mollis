@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20212860_007_s1",
+  "title": "Accusé de réception sud-africain de l'instrument français le 5 août 2021.",
+  "year": 2021,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "XA日R店 AMBASSADE DE FRANCE IN AFRIQUE DU SUD AKRIVEE 2021-08-26 N° 2021-0399979 No: 60/2021 17/1/3/FRA/P12 The Department of International Relations and Cooperation of the Republic of South Africa presents its compliments to the Embassy of the French Republic and has the honour to acknowledge receipt of Note Verbale No 2021-0369423 on 5 August 2021. through which the French Republic's instrument of approval was exten…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20212860_007_s1.pdf",
+  "source_filename": "TRA20212860_007_s1.pdf",
+  "source_sha256": "df57fd07dc9d9fac5a909f4a85b35374fe5a474e65b54217bbfef5c515f867c3",
+  "treaty_id": "TRA20212860",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "XA日R店\n\nAMBASSADE DE FRANCE\n\nIN AFRIQUE DU SUD\n\nAKRIVEE\n\n2021-08-26\n\nN° 2021-0399979\n\nNo: 60/2021\n\n17/1/3/FRA/P12\n\nThe Department of International Relations and Cooperation of the Republic of South\n\nAfrica presents its compliments to the Embassy of the French Republic and has the honour to acknowledge receipt of Note Verbale No 2021-0369423 on 5 August 2021.\n\nthrough which the French Republic's instrument of approval was extended on the\n\nAgreement between the Government of the Republic of South Africa and the\n\nSuvernment of the French Republic on Cooperation in the Field of Environnient and\n\nCimate Change (Signed 3 March 2021).\n\nThe Department of International Relations and Cooperation of the Republic of South\n\nAfrica avails itself of this opportunity to renew to the Embassy of the French Republic in Pretoria, the assurances of its highest consideration.\n\nThe Embassy of the French Republic\n\nPRETORIA\n\nREPUBLIC\n\nOF\n\nOUTH",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.430519,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192617_006_s1",
+      "title": "Note informant de l'accomplissement des procédures et de l'entrée en vigueur",
+      "score": 0.427553,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192552_005b_s1",
+      "title": "Note verbale d'accompagnement de l'instrument de ratification algérien",
+      "score": 0.411255,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.395755,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.394612,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_005_s1",
+      "title": "Instrument d'approbation sud-africain",
+      "score": 0.392068,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.391899,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240060_001b_s1",
+      "title": "Note en réponse",
+      "score": 0.385811,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_005_s1",
+      "title": "Ratification",
+      "score": 0.382001,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_007a_s1",
+      "title": "Accusé de réception suisse de l'instrument français",
+      "score": 0.38158,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

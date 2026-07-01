@@ -1,0 +1,66 @@
+{
+  "document_id": "tra16480001_006",
+  "title": "Ratification du traité par Frédéric-Guillaume, margrave de Brandebourg",
+  "year": 1648,
+  "doc_type": "Autre",
+  "languages": [
+    "it",
+    "pt"
+  ],
+  "quality_score": 0.7894,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "WiKs NieLuste CROCO BENENESENSIS SICE RONN HER TiCHi CHERASES ciFrusia Jula China Mentium, Stetini Somerania, Cassúbirúm, Vandalrum, nocam in Silosia Crasnuct Caznoria búz Búrgozavius Nointergonsis Princes Rugia, Comes Marca, et gatinee satipe danintoriealititindinatio higei leniti End fia pari naien tasta/vig ntescar sinem ne no bobine Selo afetir inos flice dinciais isitionis deDicatis Vatica Coolimite jair emite…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16480001_006.pdf",
+  "source_filename": "tra16480001_006.pdf",
+  "source_sha256": "d8988a682ccde406336046af9cfe992235b1ec0c0097c11f0d1c50db09f7720e",
+  "treaty_id": "TRA16480001",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WiKs NieLuste CROCO BENENESENSIS SICE RONN HER TiCHi CHERASES ciFrusia Jula China Mentium, Stetini Somerania, Cassúbirúm, Vandalrum, nocam in Silosia Crasnuct Caznoria búz Búrgozavius Nointergonsis Princes Rugia, Comes Marca, et gatinee satipe danintoriealititindinatio higei leniti End fia pari naien tasta/vig ntescar sinem ne no bobine Selo afetir inos flice dinciais isitionis deDicatis Vatica Coolimite jair emite dige reinter contentam face comentisnen, de rode de rezeim dicira paleste elitiginter eraminne: cosiderat\n\n(",
+      "quality_score": 0.8481,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Arasideborg du re _ Teambre 1518\n\n不",
+      "quality_score": 0.7308,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

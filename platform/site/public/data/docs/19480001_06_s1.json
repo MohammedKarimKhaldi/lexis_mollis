@@ -1,0 +1,143 @@
+{
+  "document_id": "19480001_06_s1",
+  "title": "Instrument d'adhésion au protocole de 1948 de l'Allemagne fédérale",
+  "year": 1948,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "quality_score": 0.8855,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "DEEP ECCE NE = 1 ES) T^ Sua DON QAMEIA S 04 l7 \"ENG . 1 — ——-— - Mio ve A Er. SU UTC hs Vie a RT NS AM Bolt get RL Te Pi ho Lee art CS ZEN \"i V Vet hin Nl MA Tu Lr ye AE pit t Past RIA jS 4 Sof cire ^ MN BED LLL M K 1 Sao unà Da . DURE Le d at muy Tq : on, (US. Doo Dosciv Uo WEE E arr y — D SE o4. ji QS n nn übt Dr ter tn . 1. . D Bera d Sn tA pa e Teg rer Ten voa s ters nin. v ; ne CR S4 po eU te Vx Me Hey LU at BU…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_06_s1.pdf",
+  "source_filename": "19480001_06_s1.pdf",
+  "source_sha256": "79383ded0dc41b7393bc9776223cbe296bdafac4de14feff1d287b4d672d4557",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "030",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEEP ECCE NE =\n\n1 ES) T^ Sua DON QAMEIA S 04 l7 \"ENG . 1 — ——-— -\n\nMio ve A Er. SU UTC hs Vie a RT NS AM Bolt get RL Te Pi ho Lee art CS ZEN \"i V Vet hin Nl MA Tu Lr ye AE pit t Past RIA jS 4 Sof cire ^ MN BED LLL M K 1\n\nSao unà Da . DURE Le d at muy Tq : on, (US. Doo Dosciv Uo WEE E arr y — D SE o4. ji QS n nn übt Dr ter tn . 1. . D\n\nBera d Sn tA pa e Teg rer Ten voa s ters nin. v ; ne CR S4 po eU te Vx Me Hey LU at BUY n UNE\n\n^u Dea s PR NN st ra Tun DEN aoc 0. poor tiit n m uot ovo UM RB n OLMCOM AX Ns n sc deYeU e s MR Ve S E ol En",
+      "quality_score": 0.6626,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Deutsche\n\nBeitrittsurkunde\n\nzu dem Protokoll\n\nzur Änderung des am 22. November 1928 in Paris unterzeichneten Abkommens über Internationale Ausstellungen",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "m Namen der Bundesrepublik Deutschland erkläre ich hiermit, daß die Bundesrepublik Deutschland dem in Paris am 10. Mai 1948 unterzeichneten\n\nProtokoll zur Änderung des am 22. November 1928 in Paris unterzeichneten Abkommens über Internationale Ausstellungen beitritt.\n\nBonn, den\n\n1. Ман 1957\n\nDer Bundespräsident\n\nHertalaus\n\nDer Bundesminister des Auswärtigen",
+      "quality_score": 0.994,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.434464,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_49_s1",
+      "title": "Instrument d'adhésion de la Grèce au protocole",
+      "score": 0.407507,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_12_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.405315,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_001_s1",
+      "title": "Convention",
+      "score": 0.402106,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_08_s1",
+      "title": "Note verbale d'adhésion au protocole de 1948 de l'Autriche",
+      "score": 0.401388,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290031_001_s1",
+      "title": "Traité (ensemble un protocole A)",
+      "score": 0.398447,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190007_17_s1",
+      "title": "Instrument de ratification",
+      "score": 0.396458,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190005_005_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.395481,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18250001_005_s1",
+      "title": "Instrument de ratification bavarois",
+      "score": 0.389456,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18250002_005_s1",
+      "title": "Instrument de ratification bavarois",
+      "score": 0.387842,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

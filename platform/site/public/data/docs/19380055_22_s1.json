@@ -1,0 +1,130 @@
+{
+  "document_id": "19380055_22_s1",
+  "title": "Pouvoirs de signature de l'Egypte",
+  "year": 1938,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.88,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Nous. Parouk 1. Roi d'Egypte. la situation internationale et politi que où se trouve placé le Royau- ma di Coute pas suit des cards de Abontreux relatifo à la sup- ment du Conseil Sanitaire ritime et Duarantenaire, inslitiction antiallement internationale par un organisme égyfition; i2 ces cocues et mond confiant. ur la modification de la Convention Lanitaire 1 Internationale do 1926 en vue de l'abolition du Conseil…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19380055_22_s1.pdf",
+  "source_filename": "19380055_22_s1.pdf",
+  "source_sha256": "78d8e697bcaca1495d0ebd39d7c6f1ad516de49e5fb8fd0234bd644197d136f7",
+  "treaty_id": "TRA19380055",
+  "treaty_number": "275",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nous.\n\nParouk 1.\n\nRoi d'Egypte.\n\nla situation internationale et politi que où se trouve placé le Royau- ma di Coute pas suit des cards de Abontreux relatifo à la sup- ment du Conseil Sanitaire ritime et Duarantenaire, inslitiction antiallement internationale par un\n\norganisme égyfition;\n\ni2 ces cocues et mond confiant.",
+      "quality_score": 0.8386,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "ur la modification de la Convention\n\nLanitaire\n\n1 Internationale do 1926 en vue de l'abolition du Conseil Jani.\n\ntaire Abaritime et Quarantenaire,\n\nPromettant, en autre, en for et parole de Roi d'avoir pour agre able et de faire exécuter ce dont no dits Plénipotentiaires seront tombés d'accord avec la Conference, confor mément aux instructions qui leur se- sont données de Notre part;\n\nOn foi de quoi, Nous avons or lonné que les présentes fussent revétues .\n\ndu Sceau de.\n\nl'Etat.\n\nDonné au Palais de Mentogale ième pour du mois de Chaa a quatoryn bille Trois bent birguan te. Sept de l'Ibégire (le huitième- jour du mois d'Octobre de l'An Mil\n\nVeuf Cent Trente Huit).\n\nTuent R.\n\nPir le Roi:\n\nLe Amistre des Affaires Etrangeraspie,\n\nhuatured",
+      "quality_score": 0.9214,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_66_s1",
+      "title": "Pouvoirs de signature de Monaco",
+      "score": 0.366619,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_148_s1",
+      "title": "Lettres patentes d'adhésion",
+      "score": 0.359826,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_25_s1",
+      "title": "Instrument de ratification du Japon",
+      "score": 0.358703,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_727_s1",
+      "title": "Note verbale roumaine demandant au dépositaire de rectifier la date du procès-verbal de dépôt des ratifications roumaines ainsi que le nombre d'actes conclus à Lausanne ratifiés par la Roumanie",
+      "score": 0.352438,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_10_s1",
+      "title": "Procès verbal de dépôt de la ratification",
+      "score": 0.352264,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19370087_003_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.351352,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970010_001b_s1",
+      "title": "Article séparé",
+      "score": 0.35111,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_53_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Russie",
+      "score": 0.350985,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200032_42_s1",
+      "title": "Instrument de ratification de la Thaïlande",
+      "score": 0.350435,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_885_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919",
+      "score": 0.350384,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "document_id": "tra19190004_795_s1",
+  "title": "Déclaration d'accession (version finale signée) aux traité de paix, protocole et déclaration, traité avec l'État serbe-croate-slovène, arrangement concernant l'Italie, arrangement concernant l'ancienne monarchie austro-hongroise, signés le 10 septembre 1919",
+  "year": 1919,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9602,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "LES SOUSSIGNÉS, Délégués plénipotentiaires de Sa Majesté le Roi des Serbes-Croates-Slovènes, agissant en vertu de leurs pleins pouvoirs dûment reconnus bons et valables, déclarent que Sa Majesté le Roi des Serbes-Croates-Slovènes accède, au nom de l'Etat Serbe-Croate- Slovene, sans aucune condition ni réserve : 3° Au Traité entre les Principales Puissances alliées et associées et l'Étal Serbe- roate-Slovène, signé à…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190004_795_s1.pdf",
+  "source_filename": "tra19190004_795_s1.pdf",
+  "source_sha256": "a9468e6f20d7692d6b487df986e930307c2cd7713a9d0b04862ee4aa651f3ea0",
+  "treaty_id": "TRA19190004",
+  "treaty_number": "795",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LES SOUSSIGNÉS, Délégués plénipotentiaires de Sa Majesté le Roi des Serbes-Croates-Slovènes, agissant en vertu de leurs pleins pouvoirs dûment reconnus bons et valables, déclarent que Sa Majesté le Roi des Serbes-Croates-Slovènes accède, au nom de l'Etat Serbe-Croate- Slovene, sans aucune condition ni réserve :\n\n3° Au Traité entre les Principales Puissances alliées et associées et l'Étal Serbe- roate-Slovène, signé à Saint-Germain-en-Laye, le 1o septembre 191g, par 1 lats-Unis d Amerique, I Empire Britannique, la France, lItalie et le Japo\n\nTchéco-Slovaque; sous réserve des modifications qui, agréées, à la date de ce iour par les Etats-Unis d'Amérique, l'Empire Britannique, la France, l'Etalie et le Japon leront lobjet d'une déclaration spéciale:\n\nl'Empire Britannique, la France, l'Italie et le Japon, feront l'objet d'une déclaration spéciale.",
+      "quality_score": 0.968,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "_ 9 —\n\nEN FOI DE QUOI les soussignés ont signé la présente Déclaration d'accession et y ont apposé leurs cachets.\n\nFAIT à Paris, le cinq décembre mil neuf cent dix-neuf.\n\nPEE",
+      "quality_score": 0.9524,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_725_s1",
+      "title": "Accession au traité de paix, protocole, déclaration du 10 sept 1919 (actes auxquels l'État serbe-croate-slovène a accédé par déclaration du 5 déc 1919 à Paris) ; à l'arrangement concernant l'Italie du 10 sept 1919 et déclaration modificative du 8 déc 1919 ; à l'arrangement concernant l'ancienne monarchie austro-hongroise du 10 sept 1919 et déclaration modificative du 8 déc 1919 ; (et au traité de paix et protocole avec la Bulgarie signés à Neuilly-sur-Seine le 27 nov 1919)",
+      "score": 0.843265,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_325_s1",
+      "title": "Ratifications du traité, protocole, déclaration, et déclaration particulière du 10 septembre 1919, de l'accession de la Roumanie du 9 décembre 1919 et de l'accession de l'État Serbe-Croate-Slovène du 5 décembre 1919",
+      "score": 0.811732,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_006_s1",
+      "title": "Procès-Verbal de dépôt des instruments de ratification de l'accord",
+      "score": 0.518526,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_726_s1",
+      "title": "Instrument d'accession roumain au Traité relatif aux frontières entre les nouveaux États issus de la dissolution de l'Empire austro-hongrois et au Traité entre l'Italie, la Pologne, la Roumanie, l'État serbe-croate-slovène et la Tchécoslovaquie relatif aux relations entre ces États suite à la dissolution de l'Empire austro-hongrois",
+      "score": 0.434256,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_726_s1",
+      "title": "Ratifications du traité de paix, protocole et déclaration du 10 sept 1919 (actes auxquels l'État serbe-croate-slovène a accédé par déclaration signée à Paris le  5 déc 1919) ; de l' arrangement concernant l'Italie du 10 sept 1919 et déclaration modificative du 8 déc 1919 ; de l'arrangement concernant l'ancienne monarchie austro-hongroise du 10 sept 1919 et déclaration modificative du 8 déc 1919 ; (et du traité de paix et protocole avec la Bulgarie signés à Neuilly-sur-Seine le 27 nov 1919)",
+      "score": 0.406052,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200070_882_s1",
+      "title": "Procès-verbal de dépôt de l'instrument tchécoslovaque",
+      "score": 0.389707,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_712_s1",
+      "title": "Procès-verbal de dépôt des ratifications sur le traité de paix, le protocole et la déclaration du 10 sept 1919",
+      "score": 0.374751,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_446_s1",
+      "title": "Procès-verbal du dépôt de ratifications du traité, protocole et déclaration du 10 septembre 1919, actes auxquels ont accédé l'État Serbe-Croate-Slovène et la Roumanie par déclarations des 5 et 9 décembre 1919",
+      "score": 0.373379,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19190006_352a_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.371226,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19450030_001",
+      "title": "Minutes de la 3ème séance de la Commission consultative européenne",
+      "score": 0.37075,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

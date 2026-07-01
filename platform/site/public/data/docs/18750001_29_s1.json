@@ -41,5 +41,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_slv002_s1",
+      "title": "Procès-verbal du dépôt de l'instrument d'adhésion au protocole de 1972",
+      "score": 0.641693,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_63_s1",
+      "title": "Notification aux ambassadeurs auprès des pays membres de l'adhésion des États-Unis",
+      "score": 0.627521,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mex003_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Mexique",
+      "score": 0.627521,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_26_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de la Bolivie",
+      "score": 0.609045,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_36_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.608834,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_83_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.604831,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_018_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Corée du Sud",
+      "score": 0.601957,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_24_s1",
+      "title": "Dépôt de procès verbal de l'instrument de ratification",
+      "score": 0.566956,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hti002_s1",
+      "title": "Procès verbal du dépôt de ratification de Haïti",
+      "score": 0.526741,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_19_s1",
+      "title": "Procès-verbal du dépôt de ratification de la Finlande",
+      "score": 0.523115,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

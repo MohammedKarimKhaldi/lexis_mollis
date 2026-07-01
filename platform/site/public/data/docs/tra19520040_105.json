@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19520040_105",
+  "title": "Note du dépositaire - ouverture à la signature",
+  "year": 1952,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9762,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "N Ambassade de France Aux Etats - Unis JUN 1 1 1952 Dander. 330. The Secretary of State presents his compliments to Their Excellencies and Messieurs the Chiefs of Mission of the Governments signatory to the Treaty of Peace with Japan, signed at San Francisco on September 8, 1951, and has the honor to refer to his notes of February 12 and March 12, 1952 regarding an Agreement for the Settlement of Disputes Arising un…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19520040_105.pdf",
+  "source_filename": "tra19520040_105.pdf",
+  "source_sha256": "1758909f33cbc1b3552999a4994cbb4c3294e013fd033870a0af85926f05978c",
+  "treaty_id": "TRA19520040",
+  "treaty_number": "105",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "N\n\nAmbassade de France\n\nAux Etats - Unis\n\nJUN 1 1 1952\n\nDander. 330.\n\nThe Secretary of State presents his compliments to\n\nTheir Excellencies and Messieurs the Chiefs of Mission of the Governments signatory to the Treaty of Peace with\n\nJapan, signed at San Francisco on September 8, 1951, and has the honor to refer to his notes of February 12 and\n\nMarch 12, 1952 regarding an Agreement for the Settlement of Disputes Arising under Article 15(a) of the Treaty of\n\nPeace. The aforementioned Agreement will be opened for signature on Thursday, June 12, 1952, and thereafter, in\n\nRoom 1078, State Annex 4. Appointments may be made for signing this Agreement by telephoning Republic 5600, extension 2307.\n\nDepartment of State,\n\nWashington, June 10, 1952.\n\n٢٠٢٥",
+      "quality_score": 0.9762,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19520040_104",
+      "title": "Note du dépositaire - entrée en vigueur de l'accord pour certains signataires",
+      "score": 0.447512,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520040_103",
+      "title": "Note du dépositaire - signature du Venezuela",
+      "score": 0.440283,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520040_102",
+      "title": "Note du dépositaire - transmission des copies certifiées conformes des traités",
+      "score": 0.430802,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_308",
+      "title": "Accusé de réception de la notification d'adhésion américaine",
+      "score": 0.378561,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr007_s1",
+      "title": "Extension de l'adhésion à Chypre et à la Jamaïque",
+      "score": 0.377725,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_111_s1",
+      "title": "Pouvoirs de signature des Etats-Unis",
+      "score": 0.374775,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520040_100",
+      "title": "Accord (2nd exemplaire)",
+      "score": 0.374775,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_150_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.372877,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_034_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.371013,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19470051_and001_s1",
+      "title": "Note diplomatique informant de l'adhésion andorrane et de l'adhésion de Nauru",
+      "score": 0.367933,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -566,5 +566,13 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "19190007_06_s1",
+      "title": "Exemplaire de l'Illustration du 6 septembre 1919",
+      "score": 0.629147,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
 }

@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_231_s1",
+  "title": "Instrument de ratification",
+  "year": 1928,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9716,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 231 GOVERNMENT OF TUVALU THC Note: 125/07 The Tuvalu High Commission in Suva presents its compliments to the Secretariat of the Bureau International des Exposition and has the honour to forward herewith the Government of Tuvalu's Instruction of Accession for the latter to process. The High Commission has the further honour to reaffirm the Government of Tuvalu's greatest desire to become a member of the Bure…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_231_s1.pdf",
+  "source_filename": "19280002_231_s1.pdf",
+  "source_sha256": "44c663423d67a41d14aa03dae3ee26e68b5c1fcda29537a40acf5469ceb8f922",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "FRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 231",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "GOVERNMENT OF TUVALU\n\nTHC Note: 125/07\n\nThe Tuvalu High Commission in Suva presents its compliments to the Secretariat of the\n\nBureau International des Exposition and has the honour to forward herewith the\n\nGovernment of Tuvalu's Instruction of Accession for the latter to process.\n\nThe High Commission has the further honour to reaffirm the Government of Tuvalu's greatest desire to become a member of the Bureau International des Exposition and trust that all the documentations are in order to have its membership considered at the earliest convenience.\n\nThe Tuvalu High Commission in Suva avails itself of this opportunity to renew to the\n\nSecretariat of the Bureau International des Exposition the assurances of its highest consideration.\n\nTuvalu High Commission\n\nSuva 10# September, 2007",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_232_s1",
+      "title": "Pouvoirs",
+      "score": 0.86347,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_236_s1",
+      "title": "Instrument d'adhésion du Vanuatu",
+      "score": 0.860353,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_235_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification soviétique",
+      "score": 0.859556,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_230_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.843792,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_234_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.840722,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.831267,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.824947,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_233_s1",
+      "title": "Note d'adhésion",
+      "score": 0.823592,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.760006,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_211_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.757169,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

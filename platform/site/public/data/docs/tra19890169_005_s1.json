@@ -1,0 +1,97 @@
+{
+  "document_id": "tra19890169_005_s1",
+  "title": "Instrument hongrois",
+  "year": 1989,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7886,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "7987-6/1989- RSALB ministèro des AEtakre des 18 Répubiique populaiio hongroise préunnto ses copilsanto a l'Ambassado de la Républiqua Irananise et a l'honneur de lul faite navali que lo GOuverneZent de la Népubligua populaire hongroise a approuré l'Accord nut la statut juriáigue des iratítato • ouitarola, conala aveo le couvarnement de la Républiquo iranonico et atané à pario 1e 7 Juiliat 1989.. Lo: Minlatert des Af…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19890169_005_s1.pdf",
+  "source_filename": "tra19890169_005_s1.pdf",
+  "source_sha256": "1feb063382eed4b2f232bae9d30f1305a26e810a3744a2f48be04b53f56c4552",
+  "treaty_id": "TRA19890169",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "7987-6/1989-\n\nRSALB\n\nministèro\n\ndes\n\nAEtakre\n\ndes 18\n\nRépubiique populaiio hongroise préunnto ses copilsanto a l'Ambassado de la Républiqua Irananise et a l'honneur de lul faite navali que lo GOuverneZent de la Népubligua populaire hongroise a approuré l'Accord nut la statut juriáigue des iratítato\n\n• ouitarola, conala aveo le\n\ncouvarnement de la Républiquo iranonico et atané à pario 1e 7 Juiliat 1989..\n\nLo: Minlatert\n\ndes Affalion\n\nstrangères de la\n\nRépublique populatio songrolas seiait cotte oscasion pour resouveler a l'Arbanaade do la République francains los angurancos de au toN haute considération.\n\naodapest, 10 27 saptorbare 1989\n\nAMBASSADE\n\nDE les RÉPUBLIQUE FEANCAISE\n\n｛\n\nMasyor Nemeati Lettér\n\nOrszagos Leveltára",
+      "quality_score": 0.7886,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.358397,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_005_s1",
+      "title": "Instrument chypriote (avec tampon arrivée le 16 août 1982 à l'ambassade de France)",
+      "score": 0.356588,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_029_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Bulgarie",
+      "score": 0.353685,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_32_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Hongrie",
+      "score": 0.353652,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_slb001_s1",
+      "title": "Notification de non-succession",
+      "score": 0.351193,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.350621,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.350229,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

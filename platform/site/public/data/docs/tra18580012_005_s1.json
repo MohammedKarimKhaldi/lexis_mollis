@@ -1,0 +1,3518 @@
+{
+  "document_id": "tra18580012_005_s1",
+  "title": "Ratification japonaise",
+  "year": 1858,
+  "doc_type": "Autre",
+  "languages": [
+    "af",
+    "ca",
+    "cy",
+    "de",
+    "en",
+    "et",
+    "fa",
+    "fr",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "nl",
+    "no",
+    "pl",
+    "pt",
+    "so",
+    "sq",
+    "sv",
+    "sw",
+    "ur",
+    "vi",
+    "zh-cn"
+  ],
+  "quality_score": 0.7297,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "5 کا 1 ا ا ي ي‎ CE ST DEE STE OETA FT ST 3 ا 4 5 3 8 ي ع ا Ei‏ مر ی : 钱 洽 玉 下 \" 国 口 千 和 4 入 下 莹 秆 轨 这 NE 人 时 KE 时 一夫 加 妈 92884 - 22950N9— A 起 一 外 这 中 直人 民品 小 和 人 5 ND WV 特 兴 — eV 人 过 二 On yy Wve d pnd Dit Traktaat is dov ellidino Priktgono Rami, Nagui Gembano Rame, , onaange finanono tami Mori Griteno Rami, Swasélligono Rami en elonoyama fiodzo, gevotmagtiga aan' den kant van hit Keizerryk dapan, en doo du BaronGroi…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18580012_005_s1.pdf",
+  "source_filename": "tra18580012_005_s1.pdf",
+  "source_sha256": "2f3af96aa8cd528bdbe6b6d254b19eac7dc8943b7ef0194ebf436eb8fe5cbd26",
+  "treaty_id": "TRA18580012",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "5 کا 1 ا ا ي ي‎ CE ST DEE STE OETA FT ST",
+      "quality_score": 0.6145,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Arabic:psm3",
+      "language": [
+        "ur"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "3 ا 4 5 3 8 ي ع ا Ei‏ مر ی :",
+      "quality_score": 0.5845,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Arabic:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "钱 洽 玉 下 \" 国 口 千 和 4 入 下 莹 秆 轨 这\n\nNE\n\n人 时 KE 时 一夫 加 妈 92884 -\n\n22950N9— A 起 一 外 这 中 直人 民品\n\n小 和 人 5 ND WV 特 兴 — eV\n\n人\n\n过 二 On yy Wve d pnd",
+      "quality_score": 0.5257,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "vi",
+        "ko"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Dit Traktaat is dov ellidino\n\nPriktgono Rami, Nagui Gembano\n\nRame,\n\n, onaange finanono tami\n\nMori Griteno Rami, Swasélligono\n\nRami en elonoyama fiodzo, gevotmagtiga aan' den kant van hit Keizerryk dapan, en doo du BaronGroi, gevolmagtigd aan den Rant van het Keizerzy Pankak, quloten in getekend, den derden dag der negende maand van het vyfde jaar van conlei, in de Stad DaD; en by dezen waidt dit met dw chene d Bellecurt, Golmagtigden en\n\nConsulGeneraal var daneca esteit den Feike van chantagt, in de\n\nHad dedo. uitgewisseld\n\nden zesentwintigsten dag der achtite maand van nettude jaarvan tnsei Foetsinoto Mitidei",
+      "quality_score": 0.8732,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "wa geteckend! Manabe dimoõrano\n\nRami,\n\nWariaka claratura\n\njanotaju.",
+      "quality_score": 0.9759,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "id",
+        "sw"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Traite\n\nde paix l'amitié et de Commerce, entre da Majeste l'Empercir\n\nDes. français,\n\net sa cajette le Faitoun du Japon?\n\nla Majeste l'Empereur du fran çais et sa Majesté l'Empereur du japon, doulant stablir entre les dent empires les rappots los plus intimer at ler plur liniil.\n\nlants; et faciliter les relations Commercialer entre leur sujets respectifs, ont resolu, pour régulariser l'itistente de les relations, pour en favoriser le developpement et en perpetuer la durie, de Conclure un traité de pait, d'amitié et de commerce, basé dur l'in-",
+      "quality_score": 0.9336,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "térêt reciproque des deux paris et ont en conséquence nommé pour leurs plenipotinti.\n\naires savoir,\n\nda allajesté l'Empereur des\n\nFrançais le dieur Jeun Baptette Lamir baren Gros, Grano officier de la Segion\n\n@honneur d. 8.I0.\n\net la Majesté l'Empereur du Japon, , obiózonna, Ikigauna-kami, lagai Hguembano -Liami, Cri, Criteno, hami, Souachi Fingouno-kami et Hamai-Jukio-hami';\n\nlesquels aprés d'etre Communiques leurs pleins pouvoirs, troudes en bonne 'et dée forme, Sont Condenus ds articles\n\nSuidants.\n\nArticle Premier\n\n(article premier du traite anglais)",
+      "quality_score": 0.8264,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Il % aura paix perpétuelle\n\net amitié constante entre da Majeste l\n\nEmpereur der Tirançais, ses heritiers, des sui cesjeurs et sa Majeste l'Empreie du\n\nJapon. Comme aufi entre les deux empirer sans exception de personnes ni de lieux, leves\n\nSujets jouiront tous également, dans les etats respectifs des dent parties contractantes, d'une . pleine et entiere protection pour leurs personnes et: leurs proprictes.\n\nArticle deux..\n\n(artiele 2 du traité anglais. )\n\nSa Majesté l'Empeur des Fran-\n\ncais pourra nommer un agent diplomatique qui residera-Jans la ville de edo et des consuls cu des agents Consulaires qui resideront",
+      "quality_score": 0.9032,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "dans les ports du Japon, qui, en sertir du present traite, seront cuderts au commerce frandais.\n\nl'agent diplomatique et le Con\n\ndul general de Frande du Japon aurant lé Droit de doyager librement dans tow.\n\ntes les parties de l'Empire.\n\nSa ollajeste l'Empereur du\n\nJapon pourra de son coté endoger un agent diplomatique qui résidera à Paris et des consuls vu des agents consulaires qui resideront dans les ports de l'Empire\n\nFrancais.\n\nl'agent diplomatique et le\n\nconsul general du Japon en France aucont le droit de dogager librement jans toutes les partics de l'empire Francais.",
+      "quality_score": 0.9398,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "chiticle trois\n\n(article 3. du traite anglais)\n\nles villes. et porto de Makodadi\n\nLanagacua et Nagasaki seront ouverts au commerce et aux sujets francais à dater de quinze aout 1859; et les villes et les ports dant les noms suivent de feront\n\naux époques déterminées ci-apres:\n\nche i-gata, ou de cette ville si a pas un port d'un accès convenable, un autie port situe sur la côte ouest de nipon\n\nSera audert à later du premier Janvier 1860 et Hiogo, à partir du premier Jan-\n\ndier 1863.\n\nDans toutes les dilles et Jans leurs ports les sijets français pourrant résider in permanence sur l'emplacement determiné à cet éffet, ils auront le droit D'y affermer",
+      "quality_score": 0.9099,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "des terrains et l'y achiter des maisons, et ils pourrant y bâtir des habitations et des magasins; mais aucune fortification ou plas ce forte militaire n'y sera electée sous pretexte de construction de hangards ou 8' habitations, et pour s'asfurer que cette clau.\n\nse est fidelement exécutée, les autorités Japonaises competentes auront le droit l'inspecter de temps à autre les travaux de toute const.\n\n, ruction qui serait ilesé, changée ou réparce dans les lieut.\n\nl' emplacement que les sujets francais\n\noccuperant et dans lequel ils pouriont con struire leurs habitations dira détermine par le consul Francais de Concert aice les autorités Japonaises compétentes de chaque lieu; il endera de même pour les reglements de port et de le consul et les",
+      "quality_score": 0.9194,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "autorités locales ne parviennent pas à d' entendre à ce sujet la question sera soumi.\n\nde à l'Ergent diplomatique français et aut autorités Japonaises qui la terminerant de commun accore.\n\nautour des lieut on residerant les\n\nsujets francais, il ne sera eleve ni placé par les autorités Japonaises ni mur, ni car riere, ni cloture, ni toute autre obstacle qui pourrait entraver la libre sortie ou la libre entrée de ces lient.\n\nles sujeto francais serant libres de\n\nSe rendre où bon leur semblera dans l' enceinte formeé par les limites relignées di-après:\n\nde kanaanga ils pourront se rendre jusqu\n\nà la rivire laèga qui de jetti dans la baie\" de jo entre hiouasahi et sinaga et lans",
+      "quality_score": 0.9067,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "antie dirition friq à une distance de diz ius.\n\n¿'Hahoraci ils pourront aller à une distance de diz ris dans toutes les diréctions.\n\nde Higga à dix zis ami pans toutes les directions, vccepté ders hicto, aille Pont an ne pourra d'approcher qu' à une distance.\n\nde diz ris les équipages des batiments fran cais qui de renorant à fbiogo ne pourrant pas traderser la didiere Inagaia qui de fette dans la baie de Cettis entre Hbioga\" et Esaka.\n\n. Ces distances seront mesurcés par terre, à parter de Goyogo ou gacousio, de Chacun des ports sur nommés, le ce equiialant a trois mille neuf-Cert-dist mêtres.\n\nà Magalati les sujeto francais pourcant de rendre partout dans le domaine emperial",
+      "quality_score": 0.8272,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "du soisinage.\n\nles limites de Ce-i-gata au du port qui\n\npourrait lui être substitué Serant determineés par l'agent diplomatique francais de concert aved les autoriter competentes du Japan.\n\na partie du premier Jandier 1862. les sujete\n\nfrandais deront autorites à resider dans la ville de yedo et à cater du premier janvier\n\n1863. dans la dille d'Osaka; mais seulement pour & faire la commerce. dans chacune de les dent dilles un emplacement Consena ble dans lequel les Girancais pourrant ae.\n\nfermer des maisand sera determiné par l.\n\nagent diplomatique Francais l'accoéo avec de Sourcinement japonais et il condienant auffi des limites que les Francais ne Der cant pas franchir autour de les Milles.",
+      "quality_score": 0.9002,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Cortich quatre.\n\n(article 9 du traité anglais).\n\nSes sujets francais au Japon auront de droit d'exercer librement leur religion it à cet effet ile pourrant a ileder pans le.\n\ntirrain destiné à leu résidence les édifi des convenables à leur Culte, comme eglises, chapellet dimetieres 8.2. 8c.\n\nle gaudernement japanais a déja abdle\n\nSans l'Empire l'\n\nusage des pratiques\n\ninjurienter au christianitme.\n\nArtick Cing.\n\n(article \" du traité anglais).\n\ntous les differenas qui pour.\n\nraient d'elever ente grandais au fujit de leurs droite, de leurs proprietes au de",
+      "quality_score": 0.8669,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "leur personne, dans les Domaines de da\n\nMajeste l'Empereur du japan, derant\n\nSoumis à la juridiction des autorites form\n\nCaises Constituces Jant le pays.\n\narticle size.\n\n(article 5 du traite anglais)\n\ntout japonais qui de rendrant\n\ncoupable de quelque acti briminel endess un bujet francais serait arreté et puni par les autorités japonaises compétentes,\n\nConformement aut lois du Japon.\n\nles sujeti prandais qui le tenzaient\n\nCoupables de quelque crime contre les japanais au contre des individées apparte mant à D'autres natians, seront traduits devant le concul de france et punis",
+      "quality_score": 0.8855,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Conformement aux lais de l'Impire Firan.\n\nçais.\n\nla justice sera equitablement et impar\n\ntialement administrée de part et l'autre.\n\nButich sept.\n\n(artie 6 du traite anglais.)\n\ntout sujet francais qui aurait à de plaindre D'un gaponais de derra de rendre au Condulat de Trance et y exposer sa reclamation.\n\nLe consul examinera de qui elle aura\n\nde fandé et cherchera à arranger l'agaire à l'amiable. de même si me Japonair arait à de plaindre d'un sujet grançais le condul de France l'écoutera aved intérêt et cherchera à arranger l'af-",
+      "quality_score": 0.8546,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "faire à l'amiable. de des difficultes sur.\n\ndiennent qui ne puisent pas itre aplanies, ainde par le consol, de dernier aura res cours à l'agistance des antorités japanaites compitentes afin, que de concert avec es, il puiste examiner serieusement l'affaire et lui Donner une solution équitadle.\n\nAbitiole huit.\n\n(article 14 du traité anglais. )\n\nSand tous les parte surerte au\n\ncommerce, les sujets prançais teront libres ?\n\nimporter de leur propre pays au des ports étrangers et D'a dendre, ''Jacheter et 2' en exporter pour leurs propres porto au pour cent l'autier pags, toute espece de marchandides qui ne Seraient pas (de",
+      "quality_score": 0.8893,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "Contrebande, en pagant les droite stipules\n\nDans de tarif annexi au prident traité, ' et sans asair à supporter d'autres charges.\n\nA l'exception des munitions de guerze qui\n\nne pourront ite dendues bé au gousterne ment japonais et auf étrangers, les Grandais pourront liblement achter des japonais et leur dendre taus les articles qu ils aur aient a vendre au à acheter et dela sans l'interdention d'aucun emplagé papandes soit Pans cette dente au dans det achat, sait auffi en effectuant ou en redevant le paiement de des transactions, tout japonais pourra achetir, dende, gardes et faire usage de taut article qui lui serait dem du par des sujeti frandais.\n\nle gouvernement japanais né apportera au- Eun obstacle à de queles Frandais resiíant",
+      "quality_score": 0.8807,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "au Japon puisfent prendre à leur serdice des dejeto japonais et les emplager à toute décu pation queles lois ne prohibent pas\n\nchiticle neuf\n\n(article 20 de traite anglais.)\n\nles articles riftementaires de commerde\n\nannetés au present traite seront Considères Com me en formant parte intégrante et ils serant egalement obligataires pour des dewe hautes parties contractantes qui l'ont signé.\n\nl'agent diplomatique français au japon, de condert avec les fonctionnaires qui pourraient itre designésacet effet par le gau dernement japonais, auront le pourais 2' établir. Dans tous les ports auserti au cam.\n\nmerce les reglements qui seraient necesfaires",
+      "quality_score": 0.8859,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "pour mettre à erecution les stipulations des articles reglementaires de commerce di-annexés; dans le Cas ai lent-ci ne seraient par suffisants.\n\nbitiche diz.\n\n(artiche 18. du traite anglais. )\n\nLes autorités japonaises Cans chague part adopteront telles musures qui leu par actant le plur Consenable pour prevenir\n\nla france et la contrebande.\n\ntouter les amendes et confiscations im posées pas suite D'infractions au present taite et auf reglements commerdiang qui of dant annees, appartiendront au gauderne ment Car da illajitte l'Empercas Qu\n\njapan.",
+      "quality_score": 0.879,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "obiticle anõe.\n\n-Carticle 13. du traite anglais. )\n\ntout batiment marchane francais\n\narrivant deiant l'un des porto curlerts du\n\nJapon sera libre deprendre un pilote pour entrer dans le port et, de même, lorsqu il aura acquitté toutes les charges et tous les Droits qui lui auraient- été les galement impotes et qu' il fera prêt à partir, il Sera libre de prendre in pilote.\n\npour, sortir du part.\n\nchiticle douze.\n\n(article 1% du traite anglais. )\n\ntout negociant francais qui au\n\nrait importe des marchandises dans l'un des ports curerts du Japan et pagé les",
+      "quality_score": 0.9457,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "droits eriger, pourrait obtenir des chefs de la douane gaponaise cen dertificat coultatanique ce pažement a en licu et il lui serait pers \"mis alors l'exporter fin chargement Sans l'un des autres ports ouverts du Japan, sans assia à pazer de froit adoitiannel ?'andune espéce.\n\nArticl Greize.\n\n(article 16 des traité anglais.)\n\ntoutes les marchandises importees\n\nCans les porto cutecte du gapon pas des\n\nSujets francais et qui auraient pazé les droits fides pas de traité poussant itre transporties par les japonais Dans tautes les parties de l'Empire: En Japon dans arair à pager ancune taxe ni Aucun croit de trandit, de régie, ou detonté autre",
+      "quality_score": 0.8575,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "hature.\n\nArticle quatorze.\n\n(article 10: du traite anglais.)\n\ntoute monnaie étrangere aura\n\ncours au gapon et passera pour la vale un de san poido comparé a celui de la monnaie japanaide analoque.\n\ndes sujets francais et gaponais pourrant\n\nlibrement faire stage des monnaies Japan.\n\nnaides ou étrangères fans tous les payes ments si ils auraient à le faire recipra quement.\n\nComme il l'écoulera quelque temps\n\njusque au moment ai le gourernement ja panais connaitra etactement la valeur des monnaies étrangères, les autorités Ja",
+      "quality_score": 0.9058,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "panaises competentes fournirent aux sujets.\n\nfrancais pendant l'année qui suisra l'auderture de chaque port, de la mannaie japonaise en échange, à poids egale et de même nature que Celle qu' ils lui donnerant et sans aicis de prime à pa yer pour le noudeau monnayage.\n\nSes monnaies japonaises de toute espece, à l'exception de Celle de cuivre, pourront \" itre exportées ou japon audfi bien quen l'as et l'argent étranger non mornagés.\n\nArticl quinte.\n\n(article 13. du traité anglais.):\n\nSi les chefs de la douane ja-.\n\nponaise n'étuient pas satispaiti de l'evaluation Donnée par les negociants à quel.",
+      "quality_score": 0.933,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 26,
+      "text": "Ques unes de leurs marchandises, ces fonctionnaires pourraient en estimer le prix et offrir de les acheter au taux aindi fixe. Si le proprietaire refusait (' accepter l'offre qui lai aurait it paite;\n\nil aurait à payer aux autorités superieures de la louane les dscits proportionnels à cette estimation; si au contraire l'appre \"était accepte, la valeur aferte serait immédiatement pagéé au negaciant Jans escompte ni rabais..\n\nArticle seize.\n\n(article 12 du traite anglair.)\n\nSi un batiment francair senait à\n\nnaufrager au à ite jette sur les cotes de l'Empire du japon, au, s' il était forcé de cher.",
+      "quality_score": 0.8844,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 27,
+      "text": "chez un refuge dans quelque port des domai.\n\nnes de sa elbajesté, l'Empereur du japon, les antorités japonnaises competentes, ayant connais.\n\nsance du fait donneraient immediatement à ce batiment toute l'agistance porfible. les personnes du boro seraient. traites avec bienvallande et on leus fournirait, si cela était neccesfaire.\n\nles moyens de se rendre au Consulat francais le plus voisin.\n\ncorticle Dix-sept.\n\n(article 11. du traite anglais. )\n\nl'es fornitures à l'asage des bato\n\nments de guerre francais pourront être debur ques à kanagaoua, à Hakodadi. et a Nagasaki et placés en magazin à terre sous la garde 8, un employé du gouvernement francais, sans avoir",
+      "quality_score": 0.8843,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 28,
+      "text": "à payer de droits; mais si les fournitures etaient vendues à des japonais ou à des étrangers l acqueraie payerait aux autorites Japonaises compes tentes la valeur des Troits qui y seraient applis\n\nCables.\n\nCorticle Dix-huit.\n\n(article 7. dus traite anglais. )\n\nsi quelque japonais denait, a ne pas\n\npayer de qu il doet à des sujets francais au\n\nI'il se cachait franduleusement; les autarites japonaises compétentes feraient tout ce qui dependrait d'elles pour le traduire en justice et pour oftenir de lui le payement de sa dette, et si quelque sujet françaed se cachait frauduleusement au manquait à payer ses dettes à un japanais, les autorités francaises feraient de même tout le",
+      "quality_score": 0.9137,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 29,
+      "text": "qui dependrait d'elles pour amener le delinquant en justice et le forcer à payer le su il devrait.\n\nni les autorites, fraincaises, ni les autorités ja-\n\nponaises ne seront responsables du payement de dettes contractées par des sujets francais au\n\nJaponais.\n\nArticle dix-neuf.\n\n(article 23. du traite anglais. )\n\n•Il est expressement stipulé que le\n\ngouvernement francais, et les sujets jouiront librement à datu du pour ou le present traité sera mis en vigneme, de tous les privileges immunites.\n\net avantages qui ont été ou qui seraient garantes à l'avenio par sa illeajesté l'emperer du Japon au Gouvernement on ant sujets de tante autre na tion.-",
+      "quality_score": 0.9264,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 30,
+      "text": "corticle vingt.\n\n(article 22. di traite anglais.)\n\nIl est egalement Comience que chacune des\n\ndeux hautes parties contractantes porera, après en aicir prevenu l autre, une année d'avance, à dater du Guinze Aout 1812, ou après Cette epoque, demander la revition du présent traite pour y faire les modifications on Of inserer les amendement quest l'experience aurait demontres necesfaires.\n\nArticle singt un.\n\n(article 21. du traité anglais.)\n\ntoute communication officielle dileerfée\n\npar l'agent diplomatique de sa Abajesté l'Ampereur. des Français aut autorites japonaises dira, darenavant écrite en francair: Cependant pour fa ciliter la prompté expedition der affaires, les",
+      "quality_score": 0.9091,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 31,
+      "text": "communications ainsi que Celles des Consule de\n\nFrance au capan, serant, pendant une periade de cinq anneés, a dater de la Signature du prés sent traite, accompagné d'une traduction\n\njaponaise.\n\ncErticle dingt-dewt et dernier.\n\n(article singt-quatre du traité angilair.)\n\nSe present traité de paix, ''amitié.\n\net de Commerce sera ratifié par de lapeste?\n\nl'Impereur der francais et par da bajesté, l'Empereau du Japan et l'echange de des ratefications aura lieu a gedo Cans l'anneé qui\n\nsuissa le jour de la signature.\n\nIl est convenu entre les hautes partie contractantes qui au moment aù le traité\n\nSera signe, le Plenipotentiaire Girancais cen",
+      "quality_score": 0.8705,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 32,
+      "text": "mettra aux. Plenipotentiaires yaponais. deux textes francais du present haité comme de leur Côté les Plenipotentiaires Japonais est remettront au Plenipotentiaire de Grande cent texter en gaponais. Ces quatre documents ont le même dendet la meme portée; mais pau-plus des prelision. il a été convenu qu'il\n\nSerait anneré à chacun D'eut une des\n\nSian: en langue hollandait qui en fer ait la traduction etacté attendu que de part et l'autre dette langue peutetre facilement comprise, et il extégalement convenu que dans le das au une interprilation Differente Serait\n\nDannée au meme article francais et\n\nJaponais, de serait alors la dession\n\nhollandaide qui ferait fai.",
+      "quality_score": 0.8542,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 33,
+      "text": "Il est auffi conderia que la ser.\n\nsion hollanlaise ne differera en au- Cune maniere, quant au fond, Des tax.\n\ntes hollandais qui pant partie Der traites condus redemment parle japon adedi les Plats unis 9'\n\namerique, .\n\nanglettire et la Rufie.\n\nDans le cas au l'échange Des rati fication n' aurait pas en lieu avant le quinze aout 1859, le présent trai te si en serait pas moins mis a ete cultion: à Cater: le de jour la.\n\nen foi De quai les Plempitentiaires respectifs ant signé le présent traité et y out apposé leurs cachett.\n\nfait a Gile Ce nouf Octöbee\n\n1658.\n\ncorrespandant au 3e Jour du ge mair",
+      "quality_score": 0.8455,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 34,
+      "text": "de la ãe' annee di rengo-anchei, dite l'annee di Cheval\n\n杨克亚药處\n\nL\n\nBaroneros.",
+      "quality_score": 0.9453,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 35,
+      "text": "ain . 1\n\n| | |\n\n| | | 4 |",
+      "quality_score": 0.7138,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 36,
+      "text": "Reglements Commerciant.\n\nfer Reglement.\n\nDans les quarante huit heures qui suivront\n\nl'arrivé d'un batiment français Dans l'un des ports japonais ouverts au commerce français le capitaine ou le commandant de le batiment \"remettza à la iouane japonaidi le redu .\n\nconsul de Girance qui provera qui on a de pose ches lui tous les papiers du bord, les comimaisfements & de et le capitaine ou le Comman- \"Pant annoncera alors l'entrée de son navire.\n\nen douane, en remettant une declaration deri le qui fera connaitre le nom du navire et celui du part 8'on il provient, son tonnage, le nom de son Capitaine ou Commandant, le nom des parfagers s'il y en a et le nombre de personnes qui composent san equipage. celle",
+      "quality_score": 0.9343,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 37,
+      "text": "declaration Sera Certificé deritable par le Capis taine au le commandant et sera signée par liii: il repodera en même-teinpo un manifeste de son ¿nargement indiquant le nombre ot la marque des Cotis qui le compalent, leur\n\nContenu tel qu' il est détaillé: Dans les Con naiffementi, ared le nom de la personne au des personnes aufquelles des catis sont adresfés, une liate des provisions du baro sera jointo au mainfeste. le capitaine au le comman.\n\nCant Certifiera que le manifeste Contient la description epacte de toute la cargaison et des prodidions di batiment et le signera\n\nde Son. nom.\n\ndi une erreur est reconnie comme ayant ité commise pans le manifette elli pourra être corrigéé Dans les dingt quatre heures (dimanches efteptés) sans qu'elle puie",
+      "quality_score": 0.8828,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 38,
+      "text": "de donner lieu au payement D'aucune amende; mais si une attercition ai une declaration tardide Dans le manifeste était faite apres de laps de tempo une amende de quätre dingt un francs te rait imposée au beliquant.\n\ntoutes les marchandises non deda.\n\nries Dans le manifeste payerant un double droit au mament de leu des barquement.\n\ntout capitaine au Commandant de\n\nbâtiment: marchan français, qui neglegerait de declares l'entre de fon nudire en douane Japonaide: dans le temps prescrit par a reglement pa- Zera une amende de trois Cent vingt quatre francs par chaque jour de re taro apporté à la claration à faire.",
+      "quality_score": 0.8876,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 39,
+      "text": "ee Reglement.\n\nle Douane japonaide ara le\n\nDroit de place ses emplages à bord de tous bâtiment entre dans le port (les madiser de guerre escepités.). tous\n\nCes employés de la douane, serant tracti aste egais et torter les pacilites qu' an pourra: leur accorde lus Serant fon\n\nnees.\n\naucune marchandise ne sera debar quie avant le leser du Soleil ni après.\n\nsan coucher, sans une permisfion speciale des autorites de la douane et la cale et les autres infuci de batiment qui menent au lien au se trouse renfermée la cargaison derant gardecs parles officiers\n\nJaponais pendant les heures Comprides entre le lever et le coucher di solcil, au monou",
+      "quality_score": 0.8536,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 40,
+      "text": "des scelles, \"de serranes ou d'autres fermetures it si, sans en'arcir la permisfian fuelque indididi ourrait l'une de des iffues qui auraient été fermées on brisait.\n\nles scellés, les serrures ou les autres. fermitires apposés parles employés de la douane japonaise il serait parfible ó' une amende de trois Cent-dingt-quatre\n\nfrands pour chaque infraction..\n\ntoutes les marchandises qui seraient debarquées l'un batiment- sans arcir été legalement dedarées à la Douane Japonaid, ainsi qu'il est dit ci-defus, seraient con fisquées apres enquête it prende aeguise.\n\nles cotis de marchandiser disprotés aded l'intertion de prander le redenu l japan en Cachant des asticles de valeur\n\nGui nideraient pas déclarés pans le mani.",
+      "quality_score": 0.8406,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 41,
+      "text": "feste l'entrée seront confisqués.\n\nSi quelque batiment francais faisait la Contrebande ou cherchait à introduire des marchandises fans les ports du japon\n\nQui Sont encore fermés, les marchandises.\n\nseraient confisquées au profit du gouder nement japonais et le bâtiment serait imposé à une amende de Cing mille quatre cent franco paur chaque con\n\ntravertion.\n\nles batiments qui auraient bétain de reparations pourront, à cet effet, de banques leur cargaison sans adoir à payer aucun droit; toutes les marchan dises ainsi debarquées seraient placées, sous la garde des autorités japonaises et touter les depenses à faire pour magarinage travant et fundeillance, seraient pazées: mair",
+      "quality_score": 0.9288,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 42,
+      "text": "si une partie de cette cargaidon était dendue, les droits regaux derraient etre pages pour la partie dont on auraitdis.\n\npose.\n\nles Cargaisons pourrant ete trandbordees fur un astre batiment mouille dans le meme part sans avais a payer aucun droit; mais tout transbordement dera it le fait sous la surveillance des emplagés japanais et apres que les autorités de la douane auront acquis la preuve de la bonne foi de la transaction, et lorsque les autorités auront auri danné la permidfian s'aperer le tanstrement.\n\nl'importation de l'opium étant pro\n\nhibie, tout batiment français arridant au japon paur y faire le commerce et agant polus de trois\n\nPattes l'opium à",
+      "quality_score": 0.8778,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 43,
+      "text": "borò pourra voir le surplus de cette quantité confisque et détruit par les autorites japon.\n\naises et taut indidice paidant au effazant de faire de la contrebande d'opicm fera.\n\npasfible ?'une amende de Quatre dingt un franc par Chaque Callie D'opium\n\nentré ainsi en Contrebanão...\n\n3ª Reglement..\n\nLe proprictaire ou le consignátaire de marchandises qui voudrait les debarquer, enfera la declaration a la Douane\n\nJaponaise. Cetti declaration sera Perite et contrenora le nom de la personne qui pera l'intraduction et celui du batiment au de tiaudent des marchandises, ainité que le moinbre et la marque des Cotis.\n\nle contenu et la valeur de chaque cotes de.",
+      "quality_score": 0.8802,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 44,
+      "text": "cont consteles separement sur la même feuilte et à la fin de la declaration ou additionnera la valeur de toutes les marchandises qui Com poseront l'entrée en douane. sur chaque déclaration le proprietaire au la consignas taire certifiera par écrit qu' elle contient la valeur actuelle des marchandises et que rien si a ete diffimulé pour nuire à la\n\nSenane japanaise. le preprictaire ou le\n\nconsignataire lignera a certifiat:\n\nla facture au les factures des mar- chandises ainsi introduites Serant presen tees aux autorites de la. (couane et reste.cont entre leurs mains, jusqu' a de que les autorités aient examiné les marchan.\n\ndises mentionnées Dans la declaration:\n\nles emplogés japonais pourront derifier un au palusfenis de cer cotes aindi declarés",
+      "quality_score": 0.8866,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 45,
+      "text": "et à cet effet ils les feront transporter à la Douane s'ils le dentent; mais celle disite ne devra causer aucune depense à l'introducteur ni porter préjudice avo marchandises; et apres leur effamen les japonais replacesont des marchandises dant les cotis et autant que polfible Cans l' état au elles de trouvaiant primitivement.\n\nCette disite derra être faite sans per\n\nte de temps.\n\nSi quelque propriétaire au introduc\n\nteur de marchaniides d'appercerait qu' elles ant eté avarices pendant le dogage d'impostation adant qu'elles ne lui aient été Delidsées, il pousra notifier aut autorites de la douane les arasees Surdenues et les marchandises avarices fer.\n\nont lvalices par dent au par plusicurs",
+      "quality_score": 0.8627,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 46,
+      "text": "personnes compétentes et les intéresfes qui après mur étamen deliseront un Certifi\n\nLat faisant cannaitre le mantaul à tant pour cout des adaries eprouvces dans chaque cotis separement: en de de crevant parles margues et immeras ce certificat sera signé par les esperte en présence: des emplages de la.Donane et l'introducteur annérera de Certificat à son manifeste en y paisant les reduc.\n\ntians condenable; mais de fait n' empilhera pas les employés de la douane de s'approp rier des marchandises selon les formes indiquces dans l'artiele 1s du present trai ti, auquel Es reglementi: tout arinereir.\n\nlarque des Graiti ausont été yorgés, le propriétaire recersa l'autorisation de reprendre: les marchandises, soit que eller",
+      "quality_score": 0.8372,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 47,
+      "text": "se traudent à la Douane, soit qu'ellesn'\n\naient pas quitté le bard.\n\ntoutes les marchandides destiniés à être exportées parferont par les doutines japonaises adant l'etre transportées à bord. la déclaration D'entréo sera faite par écrit et conteridia le nom du la timont sur lequel elles derrant itre isportées avec le nombre des cotis, leur marque et la declaration de la valeur de leur contener: la personne qui étportera des marchandises detofiera par écrit que la declaration est un expose findere de tautes les marchandises (Dont elle\n\nfait mention, et il la signera..\n\ntoutes les marchandites qui feraient em barquées à bord d'un batiment pour étre parties avant d'avoir parfé par la dou",
+      "quality_score": 0.8577,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 48,
+      "text": "ane, et tous des cotes qui contiendraient des articles prohiber seront saides par le gaudernement gaponais.\n\nIl ne seru pas niderfaire de faire parfer en dariane les prostitions destinées à l'usage Des batiments français de les urs equipages et de leurs pasfagers ni des effets d'habillement des parjagers.\n\n4e Reglement\n\nLes bâtiments francais qui sudont etre experies pas la douane, la pretiendront stingt-quate heures d' adance: et à l'expiration de de te . me, ils auront le Grait de recevoir les ins épeditions; mais Si elles leur eta= ient refusiss par la douane, les emplages de cette administration devraient immedia.",
+      "quality_score": 0.8709,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 49,
+      "text": "tement en informer le Capitaine ou le\n\nConsignataire du batiment et lui faice\n\nConnaitre les raisons de-le refus; ils feront la même déclaration du condal.\n\nles madères de querre francair pour\n\nront librement entrer sans le post et en sortir, sans adois à presenter de manifedte. les emplogés de la douane et de la police i auront pas le Prait de disiter des batiments. quant aut navires francais qui porteraient les malles ils devront entrer en Panane et y etre etpediés le même jour et ils si auront à presenter de manifesté que pour les paffagers et les marchandisés qui ile auraient à débarquer.\n\nLes baleiniers franchis relachant pour\n\navoir des provisions et les batiments fran-",
+      "quality_score": 0.8849,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 50,
+      "text": "cais en détresfe neseront par tenus de four nir un manifeste de leur Cargaison; mair s'ils dentent, plustaro, faire le commerle ils auront à en donner in en obseriant les formatiles prescriter parle premier Be.\n\nglement.\n\nle mot batiment, quelle que sort la palace qu' il occupe dans le traite et lans.\n\ndan annere, signifiera toujours navire, trois-mât, Brick, goelettes, sloop au ba\n\ntiment à dapeur.\n\nsa Reglement.\n\ntout intirida qui signerait une - fauste declaration au in pant cer tificat dans l'intention de frauder le revenu de japon pagera une amende de dix dent Soixante et quinte",
+      "quality_score": 0.8585,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 51,
+      "text": "francs pour chacune des infractions qu il\n\naurait coinmise:\n\n'je Reglement\n\naucun droit de tonnage nesera per çusur les batiments francais dans les par ts du gapon; mais des taxes suivantes\n\nSeront, pazées par eux a la: Douane ja-\n\nponaise:\n\npour l'entrée 8' un batiment 81. francs\"\n\npour l'expedition D'un batiment\n\n37 Aranas gocentimer\n\npour chaque permis de livé:\n\npour chaque bulletin de sante.\n\npous tout auttre document.\n\n8 francs , centimed\n\n1. Reglement.\n\nles Praits à pager au gouvernement",
+      "quality_score": 0.8935,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 52,
+      "text": "japonais sur toutes les marchandises Debar.\n\nquies dans le pays le seront conformement au tarif suivant:\n\nPremiere Clare:\n\nJous les articles contenus dand Cette\n\nclasse seront libres. De Troite: l'as et l' argent, monnagé au non, les rêtements de toute sorte, en usage Dans le moment, les ustensiles de ménage et les li vies imprimés non destinés a étré ven cus; mais étant la propriet de per sonnes denant resider au Japon.\n\nPuisione Glasge.\n\nin brait de linte pour cint sera pa-\n\nye sur les articles suivants:\n\ntous les matériant emplogés à la cons-",
+      "quality_score": 0.8614,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 53,
+      "text": "truction, au grement, aut réparations ac à l'equipement des batiments.\n\nles apparant de toute espéce paci\n\nla peche de la baleine; les providions salées de toute doite; le pain et les analaques; les animant disanto de toute es pede: le charbon, les bais de Construction pour maisons; le riz, le millet, les machines à vapeur, la tind, le plomb, l' l'etain, la soie edrue, les étoffer de coton et de laine.\n\nFroidieme Classe.\n\nuni Prait de trente ling pour cent\n\nsera pazé sur toutes les liqueurs eni- Mantes sait qu' elles aient été preparées.\n\npar-distillation, par fermentation au\n\n• de toute autre maniere.",
+      "quality_score": 0.9153,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 54,
+      "text": "quatrieme Clasfe.\n\ntoutes les marchandises non compri-\n\nses Dans les clasfes pretidentes payeront un Brait de dingt pour Cent..\n\ntour les articles de production Ja-\n\nponcide qui seront exportes comme charges ment, payeront un Prait de Cint pour.\n\n'Cent, à l'ééception de l'as et de l'argent 'monnage et du Cuivre en barre.\n\nle ris et le blé récoltes au japan neterant pas exportes comme chargement;\n\nmais tous les sujets prançais rendante au japon et les batiments francais pour leurs, equipages et leurs pasfagers pour.\n\nront recedois une prodision Suffisante de Ces denrées.\n\nles grains étrangers apporter dans l'\n\nun des ports auderts du japon par un",
+      "quality_score": 0.8974,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 55,
+      "text": "batiment francais pourront ete exportes sans bataile: s'ili n' ont pas été en partie di.\n\nbarquer.\n\nle gourernement japanais vendra de\n\ntemps à autre aut encheret publeques, une dertaine quantité de Cuiste founant. l efcédant de ses exploitations.\n\ncing années après l'auderture du\n\npart de kanagaoua, les (soiti d'impostatian et D'etportation pourront étre modifies, si l'un au l'autre des Peut gaudernemente de France et du gapon le\n\nPesirent.-\n\nFait a gedo en quatte expeditions\n\nle singt-Sent septembre 1839, Cor-\n\nreportant au 26e Jour du de moir",
+      "quality_score": 0.7838,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 56,
+      "text": "de la 6° annee de rengo-anchei, dite l'anner du brebis.\n\n花老四的惹烈\n\nBaronlgros.",
+      "quality_score": 0.8625,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "af"
+      ],
+      "review_reasons": [
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 57,
+      "text": "LE - |.\n\nPete ^\n\nWi m i \"4 jh | » * 1 m.\n\nEu \" E\n\nih » ji [à EC\n\n| ant + ] LH\n\nMIN . 2\n\n, a\n\niB d.\n\n| 33 [ E.\n\n*3\n\n| No\n\nAm * t p:\n\n' ^ Ls\n\niF ! Ds\n\nE\n\ní . EY | 5 D M i x [à i\n\nd da\n\nWl à N E i D Td\n\nIF: ] 4 N E\n\nn [^ f . RE\n\n- | - E\n\ni : 34\n\nneo\n\n- | AA\n\n! : iua\n\nate",
+      "quality_score": 0.554,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 58,
+      "text": "de TaiROeN van\n\nLemeclauul danan in nyne chajeteit d curer\n\n• van FrANKIU, dubehekkingen van\n\nMundichaw in handel tuschen de beide Landen winschendd op te weliken in dezenop cen voortdurenden. en, voordeligen voet wenckende te plaatsen endotdat inde beloten hebbende, infrakitaat van vaiendichap en handel/te sluiten hebben tot Hunne\n\nGevolmagtigden benoemd, teweten:\n\niynecllajeteitaFaikoencon vanan, Hoogetmdtenaren elliano Fírtgono\n\nKami, cragai Gembano kami, Onouuye\n\nVinanonokami, Moi Oribeno Kami, Swase\n\nHigonokami enconoyama fiod2o, en\n\nEyne",
+      "quality_score": 0.7904,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 59,
+      "text": "Kinectajeteit de leie van.\n\nTraniui, Le Baron Eros, otmbaadeu\n\nvan cen byzonder Hoogen Rang,\n\ndie'na elkander hunne wederzy diehe\n\nVolmagten tu hetten medegedeld, in dezelve in behoorlyken vorm bevonden, overeengekomen en gesloten hebben, de\n\nvolgende otitikelen\n\nantireli\n\nCr zal ecuwig durende vrede n Vriendschap tyn,, tuschen camu chajetaitanfaikoen van Danan in Mocasauel!\n\nOpvolge n Lene ellajeteit den eiW van than KLUten\n\nHoogdene noodge!, in Hunne\n\npecti heuken\n\nLune",
+      "quality_score": 0.8347,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 60,
+      "text": "henucllajuteitaoeie van FränKLyN, Lal ene rund chapelyle behandeling verlenen aan tuckedapannes als in FranKt vally houden, in hune cajeteit du tainoen van japan, sal uncindichappelyie schandeling valenen aan sordanige\n\nHanschenal in caNaN vetly- houden.\n\nMatinel\n\nsenecajerteit de MeiLeN van FranKayh, Ran cen\n\nMinister in Oed0 aanstellen en Consuls of degenen die de plaati van Consul!\n\nkleiden, in cenige of al de by dit traktaat, geöpende haven van capan euMinister en de bonsul Generaal.\n\nvan Franky, sullen het regt hetten,, van",
+      "quality_score": 0.8654,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 61,
+      "text": "van ongehinderd, naar enig gedeelte van het dapaniche yiturizen!\n\nLyncellajesteita tairoen van d'apan, kan een Minitw in\n\nFaryl aanstellen en Convullof degenen die de plaati van bon ull delicden in unio ot aU de haven/ van thaniuyh!\n\nidelliniteindeCon/ulGeneraal van danan, sullen het regt heften, iun, ongehindad, naavenig gedeelte. van\n\nFrankiyh tuvien.\n\ndetikel\n\nLehauniewsteden\n\nHarodate, Ranaqua dâganari, kullen van den vyftiendon dag van etugustull,\n\nEen duizend, acht honderd, negen en yttig.\n\nvectranichen wenden onengeteld, em",
+      "quality_score": 0.8388,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 62,
+      "text": "aldaar naar hunne goedvinding handel todavien Fenaludeen, Eutiide volgende havent in steden op de daarty\n\nquregde datums worden geopend.\n\ncri. y gata, of, indien dee haven onbevoegd wordt büonden, eenvanda haven, aan de Wetkuitvanc/iNON den eersten dag van douau den duizend, acht hordend\n\nin tertia.\n\nHiOGo, den eesten dagvandanuary.\n\ndenduiend achthonderd düv en tutig- In al de vorgaande haven: en steden mogen sanschen vontdurend verdyt, houden, zy sullen het regt hettin cen gand te huan in de daaren sgrade getouwente koopen, en ky mogen woon in hakhuisen oprigten. ellaar geen forti-catie of plaats van Militaile Sterkte ent., Enl ondervooruendl van woon- o pakhuizen",
+      "quality_score": 0.8776,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 63,
+      "text": "Macinise te louien wraden angerent, en opdat dit (detie wode nagekomen, sullend devananiche Overheden het regt hetten boppeg,\n\nmozaiea uiti unimos al\n\nwowen van\n\nHe plaati did de Franschen voo hunné gebouwen zullen occuperen on de haven\n\nRegulatien zullen doo dedapansche bieheden inden hanschen Convul van/iedere/plaati,.\n\nworden bepaald, en indien zy niet biren, kunnen komen, Lalde taak wrrden verwezen aan en geschikt doo de Japansche regering\n\nin den Franschen Minuter.\n\nGeen miur schictling of prod tad dor de danansche etmftenaren on deptnate wawr au thanchen wordtut houden, abdin opgerigt of niets gedaan worden, dat di ingeruitgang of ingang, tot declid\n\nmogt verhinderin\n\nป๊าป",
+      "quality_score": 0.8821,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 64,
+      "text": "dna epengutucde haven can sanaN tull'n Hanschen t tante gaan, dennen n\n\nde bepaalde grenzen als volgt.\n\nFuranagawa, tot derivin dokgo dietuichen Kawasaki in dinagawa dorcopt in tien Rinieda andee rigting turarodate tienh ivican rigting\n\nTHiOGO tien fi iniedere agting maar die van Kioto tal uitgezonderd widen, van welke stad ky tien Ri, van allerigtingen vewyderd kullen Hyven?\n\nWe bemanning-wan Iraniche schepen, cal de rivie Onagauia die turchen Hoigo in Orana dordoont en met de baai van\n\ndestiw ineenigt niet overgaan.\n\nife aftanden kullen worden gemeten in bepaald aver land van het Stadhuis of Gojosio, van ieder der vongaande\n\nhavens.",
+      "quality_score": 0.8378,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl",
+        "af"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 65,
+      "text": "Pieragarai, mogende tranchen in ieder gedeelte ran het Keizerly keteritow faan wat in de orate ion die Mid gelegen\n\nDequinzen van ct y gata, of van de plaats die dezelve muschien alvarangen, culion macerand doe de taraniche 3\n\nRegering wn.den thanschin elliniter\n\nbepaald vorden!'\n\nellenten/einde handel te dryten, ulentanschen mogen verblyven, van den desten dag van January, den!\n\nduizend, acht honderd, twee en kestig in de stad d'edO, en van den duiten dag van January, den duizend, acht.\n\nhonderd, deid en setig inde stad alia!\n\nIn ieder dezen twee steden, taliine plaatt, sinnin welke tu- huizen mogen huren, in den aftand ty mogen gaan, worden bepaala doo",
+      "quality_score": 0.875,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 66,
+      "text": "door de dapanich Reguüng en den\n\nPranichen clinister detinelI\n\ntantranschen in\n\ndanan,\n\n, cal de arye uitoefening hunna.\n\nGodsdienst onoorloofd syn, en tot dat einde tullen zy het regt hetten tempels, in hunne vetlyfplaate of turigton. Lequionte, van, in GayaN, op tinnebeelden tetrappen,\n\nw reeds afgechaft.\n\nArtikelr\n\nWe geschillen die tuschen Hanschen onderling entitaan, Lullen.\n\ndoo\"den thaniehneliniter of Goniul\n\ngeschift worden\n\nArtikel",
+      "quality_score": 0.8597,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 67,
+      "text": "chitikelNi\n\nF'ranschendi enige mildaad mogten beguan, tegen Japannen, : zullen doo den Franschen consul woeden verhond, en gestrafd volgens de Wetten van\n\nManliuk in Japanner die cenige mildaad mogten begaan, tegen tranchen, sullen worden vuhood doo de dananche\n\nOverheid en gestraft volgen: de wetten van\n\ndanan.\n\nHet regt sal aan deide kanten matranzrig en annastydig-weden'\n\nuitgeöefend.\n\nAlike NI\n\nIndien ein Franseh derden heeft sich ove een Japanner!",
+      "quality_score": 0.8785,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 68,
+      "text": "te klagen, tal hy tich naar het Confutaat\n\ndegeven,\n\nIen kyn klagt ongeven. WeGomiul tallenaard dw kaak ondersoelen.en dezelve vriendschappelyt schikken, en indien un Japanner d reden heeft kich oin en\n\nHranich te klagen, zal hy zich nawr het\n\nGouvernement begeven en tyn slagt opgeven.\n\nDuGouvirnew sal din aard der zaal onderreken en deeli vriend c/appely@/chickin\n\n• Koude o zaaR ontstaan van Łoodanigen aard dat de consul desdve niet kanschikken, dan tal hy den bystand der Japanschelurheid inroepen, den einde de zaal geamendykop\n\nune billyk beslising te schikkien..\n\ndulüe vm\n\nInviede devopengetelde havens, mogen tranchen uit hunne eigene",
+      "quality_score": 0.8526,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 69,
+      "text": "T eyrig andere haden, invocen\n\n, en daar verkoopen, in inkoopen in uitvo cen naar hunne eigene of enige ander haven! alle soorten van koopwaren dirgen contrabande tyn. Dur die gelegenheid, kullen ky di\n\nligten betalen als bepaald in het,\n\n, by dit\n\nFrantaat, qureg de fariet\n\nMetritcondering ian Oorlogsbehoeften did/alleen aan de Japanich Reguing an vlemdetingen vanocht sullen worden mogen zy-rylyt van dapanne koopen, wn aan hen vakoopen, artilleen div tr beiderzydsch ten verloor mogen hetten, zonder de tulchentionut vandananiche ambtenaren, in roodanigen koop of verloo, of in tait detaden of detating\n\nontvangen daarvoo\n\n, en alle klassen ian\n\nJapanner,\n\n, megen koopen, verkoopen, houden of gewikken, artikelen aan hen,",
+      "quality_score": 0.8638,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 70,
+      "text": "door de Franschin verkocht!\n\nKranichen, in éa/an mogen dapanne huren, onderiehindering- der Japansche\n\nOverheid.\n\nAntiretr\n\nHe, by deren bepaalde den handel regelende etatililen, tullen voor beide Contracterende Partyen van dit\n\nTraktaat, gelykelyk tatindend kyn.\n\nHe Minüte van FranklyN, sal met capaniche Hoogeetinltenaren regel! beslissen in malien too het mogt wörden vereicht, om de bepalingen.\n\ni'an dit Praktaat, en van de daarby gevoegdeetrtikelen, involle werking.\n\ntu doen treden.\n\nArtikel",
+      "quality_score": 0.8809,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 71,
+      "text": "Artikelx\n\nDe apanich Requing sal niederé haven de maatregelen nemen tre te wätoming dan de inder ing de contrabande, en van den bedrog om geene\n\nregten te betalen.\n\nAlle, onder dit Fraktaat en den handel regelende otitikelen geldende boeten of gemaakte vertand vaktaringen, zullen toegeeigend worden aandi apanich\n\nRequing:\n\nArtikex\n\ndenia, naar ane opengestelde haven vanda pan, lomend anan chichinal yn cen loods te huin en hei zal, na schulden en regter te hettin afgedaan",
+      "quality_score": 0.8646,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 72,
+      "text": "afgedaan en goed tynde e vertrekken, un loods mogen huren tot buiten de haven.\n\ndetuielXl\n\nIndien Francher in enigebpengeteldehaven vandapan, loonvaren inguaerd, daaron egten betaald envan de Overheden an het jahansche tolkantor, en certificaat, vermeldende dat zulke betaling i gemaakt, verkregen hebbende, aldaar niet mogten verkoopen, mogen ty dezelve weder naar enige andere der opengestelde haven verrezen en gendregten betalen kooky dic koopwaren daartullenverkoopen\n\nAntirel xi\n\nalleda thanichen in",
+      "quality_score": 0.8722,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 73,
+      "text": "in enige de opengettela haven van dapa ingevoerd, en de, by dit Tha ktaat, vastgetel\"\n\nLegtin betaald hebbende goederen, mogen loor de dapanner naav enig gedeelte van het y kuden warend enlaicht\n\nonderenige belatting te betalen!\n\nAirelav\n\nOlle vreemde munt wal ea daa ne bengtaca cyn en sentiel!\n\ngelden, alleen gelyt gewigt dapan chemunt.\n\nvan dezelfde foot, dat is, goud met goud,\n\nsilver met silver.\n\nJapanner en Franschen mogenin het narenvan betalingenaanelkande, vutle vreemduo danansche mint aebten.\n\n'Hadi de Japansa, met de waande vantiemae munt nick berend KuA, tat",
+      "quality_score": 0.817,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 74,
+      "text": "adapanich Regering, indenbeginne de oering taw iede haven, dans\n\nHranicheniw uit voor hunne munt\n\n- dananschemunt vuitacen, coo vel ale voo huntegenwodig gebuild. Haarby tullen de beide munten gewogenen geyte\n\nauwigt gegeven worden.\n\nAlle soorten van munten in vreemd ongemuntgouden silver, mogen van.\n\nvaran worden uitgevend, maar niet\n\nJapan che koperen munt noch capan eh\n\nöngemunt goud en silver.\n\nlikeur\n\nindienfranichukoopliedin de waarde van enige goederen verminderen, om deregten minder teletalen, mogen de\n\nJapansche tolbeambten dezelve onderzoeken in",
+      "quality_score": 0.8826,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 75,
+      "text": "en daardan eene acade geven. Ondien\n\nThaniche Rooplieden met doze waardering kullen te reden tyn, zullen de Japansche.\n\ntolbeambten de goederen inkoopen, maar by-het niet te vreden zyn om de goederen aande daran che tolteambten met dezelin waardering af te Haan, kullen de fransche\n\nKooplieden deregten volgens de waardering duGananichetoldeambten/tetalen, en indien\" de Japan chie tolbeambten du goederen inloopen, kullen/ky den prys dawanbetalen, sonder vermindering in tonder uitttel.\n\nArtikeln\n\nIndienernig Franch chip migt verongelukkenof stranden do het\n\nGrondgebied van JaLAN, zullen de d'apansche Overheden d Kenniame daaren",
+      "quality_score": 0.891,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 76,
+      "text": "alle bestand did in hunne magt i, valenen, inde personen aan bord, tullen riende lyl.\n\nthandeld, en naar denaat by gelegen\n\nconsulaire plaati worden vervoerd.\n\nottinel xi\n\nVraad wodetlanche marine, mag in Kanagawa, Marodate inchagaraRigeland, en in pakhuisen die onderde dewaring-van en transchen?\n\nambtenaar zyn, geborgen worden, ton der inig-regt te betalen; maar too eenige sukke voorraadaan dapanne foreemdelingen, indapan vulocht worde, tal de inkooper du bepaalde regten aan de dananiche\n\nOverheden/ betalen.\n\nArtikel",
+      "quality_score": 0.8741,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 77,
+      "text": "Gtie XI\n\nIndien enig bauenne in gebeke mogt blyven, schulden met een\n\nKranich aangegaan, afte doen, en vlugt mogt nemen, kullen de danan che overheden hem onder toeken en met oweld deschulden doen recoureren en indien enig Franich in gebeke mogt flyven van doo hem met een Japanner aangegane schulden at te doen en rugt nemen, tal de/tranche Consul hem onderzoeken en met geweld du schulden doen recoureren.\n\nde Capansche noch de Fransche\n\nRiguingen kunnen aansprakelyt\n\nGehouden waden, won de betaling-var, don Japanner of Khan! chen aangegaan\n\nschulden.\n\nartikel",
+      "quality_score": 0.9217,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 78,
+      "text": "Artikelxx\n\nollevondeeen divinden vnvlgdio hynehapttilenTaikoen vandanan, aan unige andere tatickullen worden velend, tullen oN deel de wy2daan deFranich Regering entranichenbulend\n\nworden.\n\nottinelx\n\nGn of na araviflinder dagvancuguitu, den duizend, acht honderd,, tweeen seventig, calde Japan che of de\n\nFrancheAtegiring enjam/tevoren/kennis geende, eene heriening van het by dezen gesloten Traktaat mogen/eichen, indien wenige vadeteringen in/te voeren Lullen\n\nLyn:\n\nArtikel",
+      "quality_score": 0.8241,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 79,
+      "text": "duikela\n\nde door deh tranichn ellinistev en Consulaan de dapan/che/icheden)\n\ngerigteoticile mededelingen, kullenin het fransch geschreen worden. Pen einde evenwel aile kaken inredin te buitenn, sullen ty voo ene tydiuimte van vut jaren doo Japan che vertaling virgield\n\nL.yn.\n\nchtikelxu\n\nI Kateficatien van dit fraktaat onder den Naamewhet cachet merellajetei autarkoen vandanaN enondeduhandterenno on het cachet ryneuchajertet den\n\nKeLLNvan HranKUf, sallew binnen",
+      "quality_score": 0.8012,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 80,
+      "text": "enjaar van dezen dag dev ondertec kening, te seddineanaN waden sewilelddoo de\n\nJapaniche Hoogeetmbtenazenenden thanschen\n\netgezant.\n\nwit traktaat i gechreen, van denkant vandanan inde anarchetaal/vergezeld door de apanich hata kanas untaling, in anden klantwan thanilyf, in de.\n\nFransché/taal, vergeeld, dor dé dapansehe atakanas vertaling, in devallen dezelfde mening-hebtende, vinden w guen verschil onder elkander, teneinde eenda meerdudelyt kyn, zyn e van beide Kanten de Holland schet vertalingenbygeead, daavina/AN in\n\nManKel degenen kyi, didde Mollandiche taalkunnenvastuan. Indien e iets onverstaanbaar tyn; al het met dese\n\nHollandschévutaling duidelyk gemaakt . worden en de mening daarvan is deel de all",
+      "quality_score": 0.8251,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 81,
+      "text": "ali die welle do dmerira, Brittannie.\n\nin Ru land syn gegeven!\n\nFwoirkonde waar van de Seromagtiaden van de beide hylien, dit Praktaat hetten\n\nonderteekend in decachiteerd.\n\nGedian te dedO, desen negenden dag\n\nvan October,\n\n, Man het jaus den dutzend, achtkinderd, achten bullig, ou en tomende metdu dananche datum den deden de in degende maand van het vide jaar\n\nvan thiel, Futrinogdelma 為龙妲粉意租\n\nBaron Gros",
+      "quality_score": 0.9787,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 82,
+      "text": "Regulatien onder welke de\n\nFransche handel in apan gedreven rad worden.\n\nRegulatie 1\n\nBinnen acht en veertig\n\nuren (condagen uitgezonderd) nà de aankomt van een Fransch schip, in eene Sapansche haven, xal de Kapitein of gezagraerder, aan de Overheden van het Japansche tolkantoor, den ontrangslbrief van den Franschen Goncul vertonen, vermeldende, dat hy. al de scheepspapieren, de connossamenten van het schip enx. by het Fransche Consulaat heeft gedeponeeld; hy wad alidan eene aangifte van zyn schip maken door en geschreven papier\n\nin.",
+      "quality_score": 0.9652,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 83,
+      "text": "in te dienen, vermeldende der naam van hit schip in den naam der haven waar het van doan kont, de tonnemaat, der naam des Kapiteins of gexagnaerders, de namen der passagiers (200 er tyn), en het gekad der demanning daarvan, welk papier, door den kapitein of gezagder nal worden gecertificeerd, te kyn, ene ware opgave, en door hem and worden ondertekend, hy zal terzelfder tyd een geschreven manifest tener lading deponeren, offerende de merken en nommers der pakken en den inkoud daaron, too als ty in tyne connossamenten beschreven kyp, met de namer des persoons of personen aan ween ay igr geconsigneerd. Cine byst des scheeperosaad\n\nFal by het manifes worden geroegd.\n\nDe kapitein of gezagroerder zal het manifest certificeren, te syn ene mare\n\nopgave",
+      "quality_score": 0.9459,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 84,
+      "text": "opgare der ganiche lading en voorraad, aan boord wan het schip, en dit met eyr naam ondertekenen.\n\nEnige in het manifest ontdekte dealing.\n\nkan binnen vier en twintig unen (zondagen uitgexonderd) xonder de betaling van enige douceur, worden verbeterd; maar voor enige.\n\nma dien tyd gemaakte verandering of latere aangifte tot het manifest, xal ene douceur van een en tachtig franks ketoald morden.\n\nOll de niet in het manifest aangegenen goederen, sullen wanneer af geland tyn, dubbele regten betalen.\n\nDe kapitein of geragraerder die.\n\nmercuimen tal, eyn schipe by het Japansche tolkantoor in te klaren, binnen den, door dexe Regulatien, voorschreven tyd, xal eene baete van drie honderd, vier en twintig frankis betalen, woor iederen dag, by alder\n\nverzuimen",
+      "quality_score": 0.9614,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 85,
+      "text": "versuimen kad, kop schip in te klaren\n\nRegulatie II\n\nDe Japansche Pregering\n\nJal het regt hebben, aan board van ieder schip in hare havens (corlogschepen uitgezonderd) tolbeamblen te plaaben. cAlle tolbeamblen zullen beleefdelyh morden.\n\nbehandeld en suth redelgh gerief, al, het schif oplevert, kal hen worden seritrek\n\nTusichen de unen van kon-onder-en opgang.\n\nzullen geine goederen, uit de schepen gelot morden, behalve of byxonder verlof van de overheden van ket tolkantoor, en de luiken, en alli andere plaatien. unn toegang, tot : dat gedeelte van het schif, waar de lading.\n\ngeborgen is, mogen twichen de unen van nor-onder- en opgang, doan Japansche\n\nAmblenaren",
+      "quality_score": 0.9642,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 86,
+      "text": "ambtenaren verzekerd kp, door desere met regels, sloten of andere middelen van vamating te voorzien, en indien iemand konder behoorlyk verlof, enige aldus verzekerde toegang mogt openen of eenig.\n\nsegel, stot of ander middel van vastmaking, waarmede hg, door de Sapansche tolbeamblen voorzien is, mogt breken of megnemen, soo zal elk aldus overtredende persoon, eene boite van drie honderd, vier en trintig frankt voor iedere overtreding betalen.\n\nGoederen, die geloil zullen worden of bepraefd am gelos! te morden; uit un schip.\n\ntonder dat daarvan de behoorlijke aangifte, by hit tapansche tolkantoor is gedaan, als, by dise, hieronder bepaald, kullen onderhorig tyn, ann vatting en verteud verklaring\n\nPakken goederen, opgemaakt met\n\nhet",
+      "quality_score": 0.9727,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 87,
+      "text": "Let oogmert, am de sleetsinkomster van\n\nJapan te benadeelen, door daarin artikelen man waarde, die niet in de factuur kyr opgegeven, te verbergen, Kullen verbeurd verklaard segn.\n\nIndien Fransche schepen, goederen\n\ntullen smokkelen, in enige der niet geopende havens van Japan, kullen alle zodanige goederen, aan de Japansche\n\nRegering verbeurd verklaard sipr, en het schip tal eene bocke van neyt durend en vier honderd franks, woor iedere overtreding betalen.\n\nHertelling kenoodigende schepen\n\nmogen tot dat einde hunne lading landen, sonder regter te betalen. Alle aldus gelande gederen sullen onder de terraring der tapansche overheden bleien, en alle billyhe kosten woor\n\npakhuishuur",
+      "quality_score": 0.9501,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 88,
+      "text": "pakhuishuur, arbeid en oprigl sullen daarvoor worden betoold; maar indien enig gedeelte van zulke lading verkocht wordt, zullen de bepaalde regten, op het\n\nkoo verkochte gedeelte worden betaald.\n\nLading mag sonder regten te betalen, naar een ander schip in dezelfde haven worden overgescheept, maar alle overschepingen tullen onder oprigt van Japaniche.\n\nAmbtenaren geschieden, en nadat aan de overheden van het tolkantoor, voldoende proef is verstrekt vian den kuivenen aard.\n\nder verregting, alsmede onder een verlofbrief, tot dat einde, door roodanige overheden\n\nte worden afgegeven.\n\nSnar de invoer van Opium verbaden is, kan; nan enig naar tapan ten handel komend Fransch schip, dat meer dan drie kitties gerigt par Opium aan ford heeft",
+      "quality_score": 0.9711,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 89,
+      "text": "huft, het overnigt door de Japansche\n\nOverheden morden gerad in vernielt, en enige persoon of personen, die Opium smokkelen, of beproeven te smokkelen, kullen aan het betalen ener bacte van een en tachtig franks, noor ieder hattie\n\nOpium, sao gesmokkeld of beproefd te morden gesmokkeld, onderkenig syn.\n\nRegulatie III.\n\nDe eigenaar vin, of\n\nde persoon can mien goederen geconsigreerd kyn, die dezelve menscht te landen, xal eene aangifle daarvan, by hit Saponsche.\n\ntolkantoor indienen. De aangifte sal.\n\nschriftelyk syn, vermeldende den naam:\n\nman den persoon, die de aangifte macht, en dere raam man het schef, naarmade\n\nde",
+      "quality_score": 0.9599,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 90,
+      "text": "de goederen sen ingeroerd, en de merken.\n\nrommert, hakker, en den inhoud daaran, met de waarde van ieder pate, afsonderlyt in een beloof daarop gesteld, en het gezamenlyke bedrag van al de, in de aangifte bevatte goederen, kal aan den voet der aangifte morden geplaatst.\n\nIn iedere aangifte nal de eigenaar of de persoon, aan wien de goederen geconsigneerd zyn, schriftelyk certificeren, dat de aangifte alsdan aangeboden, de mexenlgke prys der goederen vertoont, en dat niets waardoor de Japansche neglen souden denadeeld worden, ackterhouden is, en de eigenaar, of de persoon aan wien de goederen geconsigneerd tyn, zad soodanig certificaat met tyn naam ondertekenen.\n\nDe corepronkelyke factuur of facturer\n\nvan",
+      "quality_score": 0.9606,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 91,
+      "text": "van aldus aangegeven goederen, kullen aan de overheden van het tolkantoor, morden aangeboden, en tot dat sy de, in de aanggle vermelde goederen, onderkocht hebden, in hun bezit blyven.\n\nDe Japansche beambten mogen innig\n\nof alle aldus aangegeven pakken onderzacken en dezelve, lot dat einde, naar het tolkantoor voeren; maar zulk onderkoch rad ronder onkosten voor den invoerder, of beschadiging der goederen geschieden, na ll onderkoch sullen de etapanners de goederen, in hunne confronkelyke gesteldheid, meder in de pakken doen (soo ver als zulks daenbaar is), en zoodanig onderzoch zal tonder eenig onredelyk oponthoud plaats vinden.\n\nIndien de eigenaar of invoerder ontdekt dat syne goederen, of de invoerneis\n\nbeschadigd",
+      "quality_score": 0.9685,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 92,
+      "text": "berchadigd tyn geworden, voordal roodanige goeder aan hem overhandigd tyre, har hy de overheden wan het tolkantoor, mar roodanige schade kennis gever, en de beschadigde goederen laten schatten, door tice of meer deskundige en onpartydige personen, welke na bekoorlyk onderzoek, en certificaat sullen maken, het schadebetoop van ieder afzonder lyk pah.\n\npercentsgenys opgerend, en dit net het merk ipn nommer daarvan beschryend, wetk certificaat in tegenwoordigheid der overheden wan het tolkantoor, door de schatters xal worden ondertekend, en de invoerder mag het certificaat by syne aanginte voegen, en eene overeenkomende som, daarvan aftrekken. Naar dit al de overheden van het tolkantoor niet beletten, de gederen te schatten als bepaald",
+      "quality_score": 0.9579,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 93,
+      "text": "bepaald by het Nuptiende chitikel des\n\nTraktaate, waar dexe Regulatien zyn bygewaegd.\n\nNa de betaling der regten, xal\n\nde eigenaar ecr verlofbrief intrangen, de overgave der goederen, of by rich in hit tolkantoor of aan boord wan het schip berinden aar hem. magtigend.\n\ncAlle goederen; bestemd om\n\nuitgevoerd le worden, sullen noordat ey are boord gebragt ryn, by het Japansahe tolkantoor worden. aangegesen.\n\nDe\n\naangifte sal schriftelyl sgr en den naam van het schip, waarin de goederen sullen warden uitgeroerd, met de merker en nommers, aard en waarde wan derkelver inkoud vermelden. De intraerder sal schriftelyk certificeren.\n\ndat de aangifte eene mare opgave is van",
+      "quality_score": 0.9589,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 94,
+      "text": "il de daarin bevatte goederen, en dit met tyn naam ondertekenen.\n\nGoederen, die voordat ty by het\n\ntolkantoor ryn rangegeren aan boord wan en schip ipr gebragt, om uitgevoerd te worden, en alle patchen, die verböden artikelen inhouden, zullen aan de\n\nJapaniche Reger ing wrbeund werklaard ryn.\n\nBehoeften woor de schepen, voor hunne\n\nbemanning en passagiers, of de klederen enx wan parsagiers, beheeren niet by het tolkantoor aangegeven te worden.\n\nGegulatie N\n\nSchepen, die uit\n\nmeschen le klaren, tullen veer en twintig unen norkennis, by het tolkantoor\n\ngeven",
+      "quality_score": 0.9465,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 95,
+      "text": "geven, en of het einde van dien tyd, tullen by regt of hunne withlaring hebben; maar by negering van dien, kullen de overheden nan het tolkantoor den kapitein of den persoon, aan sien het schip geconsigneerd is, onmiddelgh de redenen van de meegering der uitklaring opgeren, en wulke ingelyks.\n\nter kennis. van den Franschen Consul brengen.\n\nFransche oorlogschepen behoeven.\n\nniet by het tolkantoor in of uit te klaren, noch tee\n\nUen sy door de eapansche tol- of\n\npolitie beambten berocht worden.\n\nStoomschepen de Fransche post\n\nvervoerend, magen of den relyden daf in- en witklaren, en tullen geen manifest beboeren te maken; behalve noor, kulke passagiere en goederen als te etapan\n\ngeland",
+      "quality_score": 0.9736,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 96,
+      "text": "gelaril tullen morden. claar roodanige stoomschepen sullen, in ieder geval, by\n\nhet tolkantoor in-en withlaren.\n\nWalvischraarders, die, ane voorraad binnenloopen, of in nood synde schepen, sullen geen manifest hunner lading behoevens te maken; maas too ty vernolgere handel menschen te dryven, tullen zy alsdan een manifest deponeren, als by.\n\nCerite Regulatie vereischt.\n\nHet woord ichip, waar het in dexe\n\nRegulatien, of in het Fraktaat wiardy ay genoegd. rep, ack woos moge komen, maet gehouden morden, le betekenen, schip, bark, brik, schoener, slaek of stoomichip.\n\nRegulatie v.\n\nGemand, die eene valsche werklaning",
+      "quality_score": 0.9414,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 97,
+      "text": "nechlaring of Çertificaat ondertekent ten einde de Sapansche stante inkomiten te benadeeden, ral voor iedere overtreding, eene boete van ser honderd, nif en ceventig franks, betalen.\n\nRegulatie vI\n\nGune tonnegelden\n\nsullen if Fransche schepen, in de apanche havens, geheven manden, maar de nolgende douceurs, sullen aan de overheden van het Japansche tolkantoor worden betaald:\n\nDoor het inhilaren van een schip, uen en lachtig franker.\n\nthor het witharen wan en schip, seven en dertig franke en tecti\n\nVoor iederen verlofbrief, acht franks, en tien centimes.\n\nV'or iederen geröndsbrief, acht franks, en tien centimes.\n\nVooi ieder ander document, acht frankis, en tien centimes.\n\nRegulatie",
+      "quality_score": 0.9389,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 98,
+      "text": "Regulatie vIl\n\nOp alle, in het Rijk\n\ngelande goederen, kullen aan de Japansche\n\nRegering, regten marden betaald, volgers het volgende Farief\n\nKlasse 1\n\nAle in dixe klasse, vermelde artikelen\n\nsullen de regten vry kyn.\n\nGoud en filver, gemunt of ongemunt.\n\nKlederen, in tegenmoordig gebruik.\n\nHuisraad en gedrukte bocken, niet bestemd om verkocht te morden; maar die het eigendom upn, man maar Japan, ten merblyt komende personen.\n\nPi lasse II.\n\nCen negt van nyp percent sal of de\n\nvolgende",
+      "quality_score": 0.9788,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 99,
+      "text": "volgende artikelen morden betaald\n\nfle voor het bouwen, takelen, heritellen\n\nof uitrusten nan schepen gebruiht mondende artikelen.\n\ncolle soorten wan malsüschting.\n\nAlle soorten van gerouten eetwaren.\n\nBrood en broadslaffen.\n\nAlle soorten van levende dieren:\n\nStunkoten.\n\nTimmerhout roor het boussen van huixer.\n\nRyst.\n\nPaddy.\n\nstoommachinerie.\n\ngink.\n\nLood.\n\nFin.\n\nRume ryde.\n\nKatinen en wolle manipachturen.\n\nklave",
+      "quality_score": 0.9206,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 100,
+      "text": "Klasse II\n\nEen regt van uff en dertig persent\n\nral warden betaäld of alle de kinnen benevelende dranken, door dictillatie, geting of of senige andere meyre bereid.\n\nKlarse IV.\n\nAle in enige der voorgaande klaren\n\nmiet vermelde goederen, Kullen een negt van twintig percent betalen.\n\nBehalve gouden en titreren munt,\n\nen kaper in slaven, Kullen alle in Sapan voortgebragte artikelen, die als lading worden uitgeroerd, een regt var vyf percent betalen.\n\nIn Japan, voortgebragte nyit en tarie,\n\nkal niet van Japan als lading worden witgewaerd;\n\nmaar alle in Japan verblyf houdende\n\nFranschen en Fransche scheper noor hunne bemanning in passagiere kuller met gensegiame\n\nvoorpand",
+      "quality_score": 0.9767,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 101,
+      "text": "voorraad daarvan worden voorrien.\n\nDoor en Fransch schip, in enige\n\nopengeitelde haren van Japan, aangebragte buitenlandsche. granen, magen, indien geen gedeelte daarvan, is geland, ongehinderd, meder worden uitgeraerd.\n\nthe neer dan nordige hoereelheid koper,\n\ndie mogt morden opgeleverd, kal door de Saparche\n\nRegering wan tyd tot tyd, in publicke veiling worden verkocht.\n\nVyf jaren na de openitelling nan\n\nKanagawa, sullen de in-en uitgrand regter, aan herriening onder pasper tigre, indien de\n\nJapansche of Fransche Regering suthe nerlangt..\n\n為志配粉惹趙\n\n• BaronGros",
+      "quality_score": 0.9248,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 102,
+      "text": "BE |\n\nto : ' Atib\n\n. . ARIN\n\nk",
+      "quality_score": 0.528,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 103,
+      "text": "亚荔葯奧\n\nHaron Gros",
+      "quality_score": 0.8843,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 104,
+      "text": "龙為",
+      "quality_score": 0.6513,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 105,
+      "text": "モチロタリタル グワイコクノコクモッハ モン\n\nニッポンニ デキルトコロノアカガ子 エウヨウー\n\nニッポン",
+      "quality_score": 0.7884,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 106,
+      "text": "ニッポンノヒラキタルミナトリ",
+      "quality_score": 0.7493,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 107,
+      "text": "XR NN mKA WW\n\n]\n\nXk oe 等 へ A A A\n\nNA SN NA NN\n\nSm NN ND RR RX\n\nEE",
+      "quality_score": 0.6098,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "hu",
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 108,
+      "text": "ww\n\nYe\n\nWARN NO YE NN",
+      "quality_score": 0.7175,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 109,
+      "text": "パンナラビニハンノモト\n\nコメ",
+      "quality_score": 0.7632,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 110,
+      "text": "pe\n\nVe Bah DRS BY NEC AW\n\nANR\n\npe AR MN SAM, DA ue FRR A WA\n\nRS ER RER NI EN BRA VELLA wWearymdr\n\nw^\n\n^\n\nNEA A AK WAN DAY GANA O KTR NA\n\nDR qu DR UAN SM PS PM TOM, ROK ARR A",
+      "quality_score": 0.6969,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 111,
+      "text": "ソノホカノ・カキッチゴトニッキハフラシクナサンチーム\n\nスペテニッポン/コクチニアゲタルシナモノニハウンジャウラッギー",
+      "quality_score": 0.7756,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 112,
+      "text": "ベシo\n\nーフタノミナト イリノテカズニッキ\n\nユルシガキゴトニツキ\n\n八フラックナサンチーム.",
+      "quality_score": 0.7357,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "mixed_scripts",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 113,
+      "text": "イヴレノトコロニアルトモナウイルバルク ブリッキゴウェレットスループ\n\nマタワッペルヲイフトスペシ〇",
+      "quality_score": 0.7525,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 114,
+      "text": "オクルジョウキブ子ハオナジソニニナトイリナラビニミナトヲイブル\n\nテカズヲイタス コトモナルベシ〇ニッポンニアガルリヨカクナラビニシナモノニ\n\nツイテノ'ホカハコクショライタスニカヨバサルベシンカシコージョウキブチハ\n\nワノタビブトニウンジやウヤクをヨニ ミナトイリナラビニ ミナトヲイブル",
+      "quality_score": 0.7031,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 115,
+      "text": "ミナーヲイゾルテカズタ 子がフフチハ#四ーキニッポン！\n\nウンジヤウヤクショヘツゲ、シラスべシコノ・キゲンヲスギテノチハリノファリ",
+      "quality_score": 0.7118,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 116,
+      "text": "RN A A AR WRX NRN TT >> A A A\n\nNN A ON a x (AO FN\n\nへ へ へ * yr ee RA Yh x = Nr NN wr\n\na SR De SAAN YAO A Ny や and RN\n\nex AN oese WR Ro WN ai i\n\nyon\" XC \\~ rv A ssd WA SENN Ya\n\n= ( oO ]\n\nRN = YY RN NN A Yen",
+      "quality_score": 0.5884,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en",
+        "so",
+        "cy"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 117,
+      "text": "キックヲソイタルデウヤクノ十五デウニサダライトオリニシナモノ\n\n子ダンヲツクルニッキテウンジャウショノ ヤクニンへサマタグヘカラズ〇\n\nワタシカタハソノーシナモノ・ウンジヤシヤクショニアルトモフランニアルトモ\n\nリノヒトニマカス",
+      "quality_score": 0.7263,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 118,
+      "text": "-\n\nブロリニシルシソノシルシバンジケトモニモターメシヨウコガキフイベスベ〇\n\nヒトサラシルスベルマタモチワタリタルヒトリノショーウコガキラサシタンガキ",
+      "quality_score": 0.7374,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 119,
+      "text": "を\n\nSN NN FNA RN A RN A RRA\n\nA NN A NA VR NAN Wm LA O\n\nNAN AN Ra FANN RR So va\n\nlive RN CAO > A NAN NIM RNN RR VA\n\nいき か へ a NI A RAN WA BR WN へ\n\nYe A いい < AO RANG NN AN\n\nve NW a ey ペー へ = NC て へ",
+      "quality_score": 0.62,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en",
+        "pt",
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 120,
+      "text": "NN A en * a ふ > A RARK A\n\n] yw A A | ed x* A tn! NNR\n\nLK RAX XAO RR < CA WA yak NN\n\nリー RN RR OANA yh RAN\n\nRC SA EN AAS YR A CR A\n\nRR i art nn Ya WA いか\n\nv>-~ a NANRAN Fe AAANK CAO Ra NLR FAR ]\n\nRS A WR Va WR A NAM SAN",
+      "quality_score": 0.5998,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en",
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 121,
+      "text": "VR RN TN NA Pe Va PN RRR\n\nRa bd 、y YA RR TN ba FY A en an\n\nく * Na spar < ぐ CN\n\nNR \" へ WN\n\n+ WN RR WN YA NN PANN De NA KR\n\nA NY WRN WA KN NY RA A\n\nいさ “RC A へ NAN A A NR x en\n\nふ > A WN WA ba EN A ARAN NR SM A",
+      "quality_score": 0.6236,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en",
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 122,
+      "text": "コブンハニッポンノヤクニントリアグベシマタアヘンラカクシアキナヒ",
+      "quality_score": 0.69,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 123,
+      "text": "ニッポンノヤクショニトリアグイシナラビニソノフチオカンタル ブトリ\n\nヲカニアグベンカクノゴトクヲカニアデタルスベラノシナハニッポンクヤクニン\n\nアツカリオクベシスペテクラノカリチナンシゴトサラビニバンニュータメ",
+      "quality_score": 0.7458,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 124,
+      "text": "DPA. UNA GAO EN AMA TR ATH VON ARK ASA IS\n\nEE E S RDA vec pM ENS MNA xt\n\n| ] TN EE S| RES <= ed ANM NO\n\nDN ame MR mya) WOW WARM Bai RSS\n\nAPN nan’ Y NEVER 2 WAS, Dal ARN SARL >A\n\nDIAS GNO\n\nES NAN Bak HANA VIRE ie AVR DAWA WA\n\nTA PAA REA TN Pep CA AM DE",
+      "quality_score": 0.731,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 125,
+      "text": "»~ て = へ ご >a we eek SN A Sawam YN =\n\nNN A A a Rk m= A WN RX ya em\n\nA へ RR KN Nw ふき へ いこ a A nh PN\n\n< a YN KL NE AN me DA ASS >\n\n全 へ きか NA WRK RR RR O WR ENN NN\n\nA me Ra RR RN RR = TS RIN ON a\n\nSN Ya NAY > RN NDNAN wn EE\n\nDe SS RR RNR VY RARL EN NAR",
+      "quality_score": 0.6004,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en",
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 126,
+      "text": "MN NA aawl トト HN A\n\nRN RDA RN > へ NN I RK ne\n\nRC (fm NAN PA A le\n\nいか に\n\nRAN AN すき n~ XY 4 = OKT NA いい\n\n、 CN LL SY へ へ th ra “A キト A\n\nA RK YAO",
+      "quality_score": 0.5955,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en",
+        "ja",
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 127,
+      "text": "ヨウインナノマコトノカキッケナルコトヲキハメコレニソノサラ\n\nシルスベ〇コクショノウチニニニタンタルカウ井ハ＃皿トキシフニトキニタツ\n\nウチニ「ヨチェウビヲノゾキ」チンギンライダサズンテ アラタムベシロシカシ",
+      "quality_score": 0.7259,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 128,
+      "text": "マタハセンドウソノコクショハソノフ子ノスベテノツミニモツナラビニファー",
+      "quality_score": 0.6915,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 129,
+      "text": "NN RR NAK RA NX\n\nRR\n\nNAN NP AN TN “ へ Mw NR\n\nAS * Na いる Sx Ya NA NE NA NN RN\n\nSR IAN NDNANAN LR NNRK OD HA NRN WADA\n\n] Ra A A NK NDA nA ew Dias wd\n\nWe OO へ TL RS RN へ NN NN TN XN\n\nHA NN A RR NR ER RR NN A RK RYAN",
+      "quality_score": 0.6881,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 130,
+      "text": "fa:\n\nii !\n\ntE\n\nH\n\nf\n\n1\n\n9",
+      "quality_score": 0.625,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 131,
+      "text": "知荔的照花\n\nHaron gros",
+      "quality_score": 0.8716,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 132,
+      "text": "八月十五日マデフランスノシセツ エドへマオラズトモコノデッヤクハ",
+      "quality_score": 0.6961,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 133,
+      "text": "クワウティミズカラナラシルシオンヲオシイマヨリ イチチシノウチニ\n\nニッポン/エドニオイテフランスノシャツト ニッポン/カウクワントトリカハス\n\nコリハフランス ブシニニッポン/カタカナラソイソノブンイハイブルモ\n\nドラヤウニテチガヒナントイードモコノウイサホアキラカニ スル\n\nナラビニフランスニオイテモゲスモノアルユニモンゲシガタキーコロ\n\nアラバコノオランダゴヲモツテゲシソレヲショウコトスベン ソフ",
+      "quality_score": 0.744,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 134,
+      "text": "ゴトアラバ フラレスゴニテカケアフ ベシロニッポンニテナニゴーモスミヤカニ",
+      "quality_score": 0.7028,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 135,
+      "text": "ニソポン/ヒトへシャクセレ アルトモニツポントフランスノヤクニンョリ",
+      "quality_score": 0.7744,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 136,
+      "text": "バンヲイタスバシモーツノシナニッポシニア ニッポンジン マタハグサイコクジン\n\nヤクニンへウンジャウヲイダスベシ\n\nニッポンノヒトフラレスノヒトヨリシヤクセンヲオヒハラハバシテシュツ\n\nベシフランスノヒトニッポンノ・とトヨリシャクセンヲオセハラハズシテ\n\nシュツポレイタンタル セツハフラレスノコレシュルギンミイタニでとハラハメ",
+      "quality_score": 0.7208,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 137,
+      "text": "フランスノフ子ナレセンマタハサンプウニアヒニッポンノチニヘウチャク\n\nイタンタルコトヲニッポンノヤクニンウケタマハリタルセツハナルタケソノヒト\n\nビトヲタスケベシソノヒトビトへフビンヲクハへナルタケツクモヨリノ\n\nミナトニラルフランスコン・シュル～トコロへオクルベン\n\nフランスノイクサブマニゾクシタル カンヨウノナジナハウンジャウナシニ",
+      "quality_score": 0.7447,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 138,
+      "text": "ナモノヲアラタメテチダンラツクバシフランスノヒトツ）キダンヲ\n\nショウチイタスナラバソノキダルニテニッポンクヤノニンカヒトルベンシカシ\n\nニッポンノヤクニーツケタルキダンニアフラレスノタキンドシナモノヲニッポレー\n\nヤクニュイウラザルセツハワノツケタルチダレニヒキアハセテ ニッポン\n\nヤクニンへウレジャウライダスバシソノセツニッポンヤクニンツノ\n\nシナモーラカヒトラハソノ子ダレヲスコシモゲンズルコトナクスグニハラフ",
+      "quality_score": 0.7151,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 139,
+      "text": "クワイコクノ・カキノクラ丼ヲシラザルユスミナトヲヒラキタルショホツニ\n\nタウヨウダケニッポン/カチトグロイコクノカ子トカケアハセテグワイコンク\n\nカチヲ・ヤクショへヒキトリニッポンノカチヲフランスノヒトへワタスバル\n\nニッポンノツウヨウノキンギントグワイコクノキンギンハモチュクコート クルシカラズ",
+      "quality_score": 0.723,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 140,
+      "text": "フランス~ヒトニッポンノ.ヒラキタルナトへ.シナモノモチロメリテ\n\nサダメドホリノウンジャウヲハラとえ ウイハツ/'シナモノフニッポンノヒトニツ\n\nポシークニウチへ モチュキウンジャウナシニウリハラフトモクルシカラズ\n\nグワイコクノカチヲニッポンニテモツウヨウイタメベシソ^ツツヨウハ\n\nニッポンノカキト グワイコク、 カ子トキハキンギュハギント\n\nアハス ベン：ニッポン/ヒトモフランスノ・ヒトモシヤラバイメルニニッポンへ",
+      "quality_score": 0.7207,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 141,
+      "text": "ナラビニウンジヤウヲハラとスミニノ中へニテシュツパンイタストキハミナー\n\nミズサキアンナイハカツテニヤトフベシ\n\nフランスノヒトニツポン~ヒラキタルミナトへシナモノラモチワタリテ\n\nウンジャウイダンタル ウイニテ シナモノラウリハラハザルセッハニッ\n\nポンノヤリニン.ヨリウンジャウウケトリタルカキツケラウケトリニッポ\n\nシノヒラキタルホカノミナトへ..七チユキウリハラフトモウンジャウ",
+      "quality_score": 0.7325,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 142,
+      "text": "二ツポン、\n\nウンジャウ\n\nシナモノヲモチワタラザルヤワニマタハイツハリテ\n\nタメニニッポン セイー\n\nハフヲマモラザルヒト ヨリトリアゲタルクワレウモニモツモニッポ\n\nン/セイフ/モノニチスベン\n\n第十一条\n\nニツポンノヒラキタル.ミナトへキタルトキニハミ大サ\n\nキノモノハカツテニヤーフ ベシ フランスノヒトビトシヤクザイ",
+      "quality_score": 0.709,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 143,
+      "text": "・ニッポン）ヤリニンサマタケナル\n\nベシコーデウヤッ\n\nナフター コマカキオキテラサメコトアラバ.フランスノニストルト\n\nニッポン/カウクワントサウダンスベ\n\n第十条",
+      "quality_score": 0.7349,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 144,
+      "text": "ジョクマタハタコク（シナモノラモチユキアキナン イタス\n\nベシブキハ，ニツポンノセイフ ナラビニグワイコク/ヒトホカハ\n\nニツポンノ\n\nナニヨラズウリカヒヲイタニテクルシカラボソノセッハ ニッポン\n\nヤクニン タッチアフコトナシマタダイギンヲハラクセツモ",
+      "quality_score": 0.7273,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 145,
+      "text": "フランスノコンシュル。 ソノコトヲ トリハカラヒデキサルゼッハ\n\nカウシクシー\n\nベッ\n\nジコンノえナモうい\n\nモチロン．タコクノシナモノニラモアキナト\n\nイタスコトクルシカラズロシカシニッポンコリータラレタルシナモ\n\n1ハアキナヒイタスバカラズニッポシノとラキタルミナー．ヨー",
+      "quality_score": 0.7611,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 146,
+      "text": "コンシュル ヤノニンモフランスノコルシュルモギラマダシテオコナフバシ\n\nヒト\n\nタイシ\n\nアラバ\n\nナスコトアラバ．ブギャウショへソノコトヲマラスベシブギャウ\n\nショニアコトへ..シダイヲギンミテ ジツイニトリハカラフベンモと",
+      "quality_score": 0.7207,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 147,
+      "text": "スマザルコトアラバフランスノミニストルマタハコンシュルミテトリ\n\nフランスノヒトニツポンノヒー（タインフラチアラバ.フランス\n\nヘコンシュルツノコトヲヨクタダシテフランス/ケイバツニオコナワ\n\nベシロマタニッポン/ヒトモフランス/ ヒト、タイシフラチ\n\nアラバニッポンノカウクワンソノコトヲヨクタダシテニツポンノ\n\nオコナフニモニッポンへ",
+      "quality_score": 0.7667,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 148,
+      "text": "ミニストルト・サラダン/ウへサダムベシ\n\nジシンノ シュウシヲ ニッポンニアルフランスノヒトジュシュウシラカツテニ\n\nイタス ベシソレスヌ フランスノ ヒーソノスムトコロ/_ヤ\n\nヤシロラタッベン ニッポンニオイテフミ立ノシキタリハスデニ\n\n.\n\nニッポンニ\n\nヒート！\n\nヒート・ ロフジテ",
+      "quality_score": 0.7417,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 149,
+      "text": "ゴレウショ ダケハ カツテニハイクワイイタスバシ。ニヒガタ\n\nマイ\n\nエドへフランス）ヒト ザイリウスベシマター千八百六十三年\n\nオホサカへザイリウスベシマタミギニカショへ\n\nフランス/ヒト チンギンヲイダシテイヘヲ カルベキヒトツ〜 イヘッ\n\nバショナラビニ ハインワイ） コーハニッポン/.カウクワント フランスノ",
+      "quality_score": 0.7548,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 150,
+      "text": "ジフリマデユクベン0 ハコダテハジフリヨハウ・カツテニアルク\n\nハウへ ユク六 べえヒヤウゴモドウヤウサリふカもキャウトノハウイニク\n\nイヴレクトコロコリモキャウトヨリジフリテマへマデュクバンロ\n\nフランスノフ子ノノリクぇハイナガハラワタルバカラズ ソノイナガハ、\n\nヒヤウゴト オホサカトノナカニテセッツノ.ウミニイル\n\nマタハ ヤクショヨリヲカノミチヲ\n\nハカリサダム バシロフランス/ ヒト ナガサキハソノマチ〜メグリニアル",
+      "quality_score": 0.7246,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 151,
+      "text": "コンシュルー\n\nウへトリハカラクベシロフランスノヒトスミ井ルトコロへ\n\nヤクニンヨリカコとカキナラビニ （イナドイタスコト\n\nナラザルヤウ．イタメ バシロ\n\nフランス） ヒトハツギニサダスタルトホリニアルクバンカナガハ\n\nヨリロクガウトイフ\n\nアル， バン",
+      "quality_score": 0.7415,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 152,
+      "text": "イへヲ\n\nタツルト”ニッポンへ\n\nタツルコトナラズソ^コトラフランスノヒトマモルガタメ\n\nフランス/ヒト イ（ヲタテマタフシンヲスルセツハ\n\nニッポンへ\n\nトキドキュミアラタム ベシロフランス～ヒト\n\nクラ\n\n★ミオルトコロハニッポンへヤクニント\n\nフランス/コンシュルトサウダン/ウへサタムベシoミサト\n\n〃ナトへ",
+      "quality_score": 0.7439,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 153,
+      "text": "トハサートホリヒラリベシー千八百六十年正月明日ニヒガタラ\n\nニツポン ヒラク ベシモシソノミナトオリグチアシキセツハニツポン\n\n六十三年正月朝日ヒヤウゴミナトナラビニムララヒラクベシロ\n\nヒラキシミナトニフランス~ヒトビースマ井スベンツノトコロハ 、.",
+      "quality_score": 0.7092,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 154,
+      "text": "ベシロ フランス～ ミニストル サラビニコンシュルゼネラールハニッポン）\n\nクニグニイブクへモマ井ルベシロニッホン/タインンフランス~パレイ\n\nスへ セイジニアブカル ヤクニンヲオクベシロニツホンクタイクンワラ\n\nラフヤシニンヲオクバシ◎ニツポンノセイジニアツカルヤクニシナラとニ",
+      "quality_score": 0.7164,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 155,
+      "text": "フランスコクへヂュウキヨイタサバフランス\n\n7~\n\nテンコロニアッカヒマタフランスノ ヒトビ！ ニッポンへ デュ\n\nヒトビトヲ、チンゴロニ\n\nベシ\n\nフランスノクソウテイ ヨリニッポン エドへミニストルヲオクベシ\n\n◎ コー\n\nトホリニニツポンノミナトヲヒラキ\n\nコンシュル．マタハソー",
+      "quality_score": 0.7614,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 156,
+      "text": "井ノウイシナノ、カミホリオリバーカミイワセヒゴノカミノ、ヤマ・シャ\n\nウサウニソノコトラメイジュリフランスクワウティー シャットニッポン\n\nニッポンタイクンマタソノ アトリギトフランスクワウテイマタツ\n\nアトツギトナラビニニッポン．フランスリヤシコクノアランカギリシン\n\nギラムスビマタムツマシク・スルコトヲサダメタリロニッポと^ヒトビー",
+      "quality_score": 0.7528,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 157,
+      "text": "•ヨリサルダンタルシセツノ\n\nナリロニツポンタイクでヨリハミズノチクゴノカミ",
+      "quality_score": 0.7288,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "sparse_extraction",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 158,
+      "text": "> ى‎\n\ne\n\n.\n\n4\n\n5\n\n۰ i ٤ # “ ۳\n\n.\n\n5 H3\n\nu ,\n\n۰ ga ,\n\n3 #\n\n٤ + گ‎\n\n\"4 ۲ ٤\n\n٤\n\n1 4\n\n2 » e 4 e O ¥ ی‎ +\n\nاا‎\n\n%8 . ٍ ر‎ ڌا‎ n ۴ 1 په‎ 3 , « ۹ i ¥ o,\n\n:\n\n.\n\n2\n\n0 ا‎\n\n$ 3, ۴ ١ ۾ ي‎\n\ni\n\n۲ م‎\n\nم ٍ »ے‎ 4 3\n\nم“ ل\n\ni a‏ ا , ~e‏\n\nogit e A,‏\n\n٤ ٠ f 8‏ أ\n\nRs‏\n\n1\n\nU 1‏\n\n, ج\n\n5\n\ni‏ شش 74 “ˆ ٠‏ ا vw‏ ۰\n\n:۳ > ا #\n\nی 4 7 4 y‏ , , % ت ٤‏\n\n4 : 4 4“ 5 < ' + 4 1 ٤ ¢ 5 e 1‏\n\nÎ‏\n\nِ 4 « 5\n\nA‏\n\n٤ ˆ ig 1‏ . . ‌\n\nٍ :\n\n5\n\nf oè 8‏ f‏\n\n, ا 4\n\na‏ ّ\n\nj‏ #\n\n8 8 4\n\n»\n\nج fr %‏",
+      "quality_score": 0.5119,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Arabic:psm3",
+      "language": [
+        "fa"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 159,
+      "text": "Baronfros.",
+      "quality_score": 0.7637,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 160,
+      "text": "s + a '\n\n;\n\n2\n\n1\n\n4 -\n\n~\n\n, '\n\nEF ; ,\n\nof 人 | wa , |\n\nA .\n\n4 rs .\n\n* 人 人\n\nMvp\n\na '\n\n‘\n\nY\n\nS 霸 >\n\nJY\n\nv\n\n和\n\n车 属 湾",
+      "quality_score": 0.4587,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 161,
+      "text": "和 人",
+      "quality_score": 0.452,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 162,
+      "text": "a , “+ - 3 ne “5 . ;\n\nes | j\n\n«i Ra . ~ 9 i , , h\n\nE श\n\n« . 2 , उः\n\n‘ - ° „~ ह , म , % - कू a ब 'ः १ » 3 ' १ 1 I |\n\nF “ a ¢ ` , ' त र _ ' { ‘ {\n\n+ , 4 _ hn «~ ° ` , क , , र 3 ६ i i AN , _ hs t 5 ee, , - , « n i Ee , . Ff;\n\n¢ र ‘ , ड ` F Ma €. ) ` 8 ‘ IE ' क न, f , > - Da hg न ¢ ) \" > च | i ~, x i , , : , £; F R ; «® i 5\n\nfr ५ ४, १% - N | ? र 3 ऊँ & - . च ¢ न i ; , . J ~ =: , उ § , a Ff , i | € ,.. YS |\n\nCE % ड CE द” पु fr ष {i\n\n1 1 ,९* i नरके ः , ड : ॐ, HN ह | | p « र fd % % [a r Oo , _ , fn ह्‌ , ष i f . { † नि चू EA i ~ Eo ~” 5 . ¥ ” f ] ७, % | | A ५ - _ 5 ् ५ . : . fi\n\nKj HE FR $, , - 3 Le ३१ इ 2 द्‌ ` » व क , _ Ee, | i १ Pra . झर ; `. ७ , ड । मुछ अ ) , ख उ अ \"ह. न oe ki\n\nद, Eo ` ~ « k 4 i id * ` क ® s i\n\n° ; * , द ¥ 6 $ Oe _ ty हँ , ् , Ea % म % » fp * f ” ; |\n\nHR PE) - £ , उ द , 8 fe ङ N , ड “a FR ॒ “i, Tp git Aon p d NRE + ग क, ‘4 CR अ ; i , 5 |\n\nAr | I: झ % HS |\n\n=\" . २, 2 h 2 5 + $ क x र c x ३ र [ | ‘ RP AT e ह « हा |\n\nEE | त न >: 5 : + , - क a तौ उ 8 ब ; ठ nr [क 5 Bh i RE ३ , , \\ :},. ,€ ४ Eh ,, nS क ईँ प 7 ३ हः , /) इ ड Rd Bh wu RR ४ ५ . “ ; AT A RR ह | ‘. + Ren सटीक >) , . प + E {5 ; ह REE ड ड म ’ Ro , | | yw i, i = \\ Ey ~ = ‘ : _ - FA छ ॉ £ i , LES TN . ( | 2 नक थू ॐ ; i F + ल % ° hi\n\n# ड (क र . छ Fe tl [ed “ E प < ~ ,, Fa gl झ\n\n, + क, 2 , , a # t क .* ह $ : म, र र f |\n\nOf oe at | i VY CO | ह| . OY RNR - CO) छ | ह » . ने Fo - र 5 Sf BE\n\nEre Ee « IE , ब अ” कः\n\n“+ ET SO El \\, , ~ ; % / अरु ¬ % fi + , i ह] , ट i ” E + RENE ५. हन ` | 3 MN, र | म र Free : Si, t द gy ` ~ hy i { °’ ` Bn : १ ° 4 h F ¥ el RR | ME Spi 5 a , उ ईः 4 2 ह| 4 < . RE न «श ईडः RR 4 उ |;\n\n\"` ML lebe # . . , र ge, , \"1 क (0 पू bb ५ फ, छ NO, FR | * m र i\n\nt र rf . a , न : र ७, भद 5 se ः h\n\n+ Fa u{ “+ +. , i A $ ; 5 _ आ त मी $ :h i \"+ ड eo %) , £. OS f : L दई, ५ कू जङ, y , fi « n Hi + > + CR R ' _ : 4 ण A र RN +? I ‘ En FE 5 f 5 fp ® , Re ; , . RE YR Me - Fo ई ङ Ce इ ES , र ¢\n\nFh र क क IE, , ¥ क . hi ‘ 4 \\ RD 4 Dy , / क EE kr NP ॐ { i ; | | ru er Se . h E ध R oe ड , र ख b> र | I ५, + (ः) A - i EN Ee | i ल क _ ) § Re ‘ ; Sg क EF i , _ र र्र ki , , « छ % 4 ह\n\nEu . e ~ =, र i क झी, 1\n\n! , F् Rd = नब « F . F $» ग, ह , , K ° hd u i |\n\n“+ Re = SSS A छरहरी os Po 5% iE\n\n, k tr, . { & 3 Pd - ' ? म + ई गे FH\n\n, week ५ _ > \\ 3 XA fi\n\n} Cd . , - , ड PE) - . ff ‘ } RET र $, : : PS , i र E\n\nड os क +, pA Fs hy ke f\n\nस hl Rt N ह # , ः , EN ‘ ; क + F र] i »_ ५ * A cl f , ? ॐ ” ६ h f ब ty - R ' 3 ¢ ड f `; , Rr , * RT , : , AN ड , ba क्र झन f ` उन, ` ` म शके h Ei\n\nFR ष ' , ¢ _ ल ब\n\nf 4 ; . £] . . f’ ह ¥ 1 * _ ” , H fi f ' र ‘ \" | त ~ न, ’ ` , , f i i : ;% ° , व\n\nhe bs f h\n\nर f 1 y : % °\n\nग, ॑ |\n\n” आ इ E - ; i\n\nFO FR CR Fa i\n\nDo अ hi Cn ह h\n\nCE f a",
+      "quality_score": 0.4555,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Devanagari:psm6",
+      "language": [
+        "en",
+        "cy"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 163,
+      "text": "AE o. . | + a ES:\n\nAl ‘ . Qu PM, À gn . DELE i4\n\nAE. * . P we. 4.\n\nMh . | | CMT di À [ . PE\n\nHN . SOC RO\n\n: y ‘ + . , ^£. RE.\n\nBoi |] * . N DES) zi\n\nTIER ' PE a li , : . LANDE i |: ie e. V .\n\n| iM i H , 000, Saat eat\n\nAM E t. s PB Nt N | if 3 . » À vont [^\n\nMN C - ) CAES 5\n\nM E: rock t 1 | |: 1 4 | t Vt i \"m “AY\n\nIE | * v ^ MEN \"M un d s , . d oA GE s z il |. . . © \"a n 4 a 1 f i || A 5. Rs fm / À ie (YE FES ‘ ? : ue l'an BER . UR\n\nHl LE - ' . \" OX ua Pte d d 1 . ^ m d ias .\n\ni n : - ; ' 20 ‘hat, T a\n\nJE ME . t ‘ RENE )\n\nT^ RE! | # t . . . . ok ONE 1 : b in . ae : ‘ E , A agite \"E | d us ] a Ra 114 | , iz ; 1 | i 9e uti \"| if ] ; . 4 NÉ EN 1 Ai ^ . t wi Im\n\nT P. + LEE 3 ^ . oet oy had | à . , . Dep\n\nTER + . . . . RU. mE\n\nEU: - NEN HI\n\n| | ; . L . . So st af ! Hi ‘ ETT E ur i PS . ! \" H H NE en CONS dl . . . : 5 Ft all | »c ) dá \" : M ».\n\nBEL x . \"E Be. \"ELLE # | in , > r . \"M . ^ a ep?\n\nm ' SR e, ie es |\n\nHI T | | UN p wet * allah iat ; - | |, è * Wl M ‘£\n\nHd . . : SES\n\ni B . + Ut . \" * \"og. 4 | B - .7 . 2 s . weg Sa, an 1 D$ ' E ^. 4 | |; . ‘ t ^ . ‘ are ^ M [fl . m tm\n\nTdi ' à ; d ue\n\nTn a # V. ft x. À lil E . ‘ » . Yat,\n\nWi , . 7 CERTA } 1 q La # . DAR\n\nER . . 1 CRD\n\nid , t , , \\ IN ii ] i . et nt + 1} . aos iu , (tent . We | f | : ] , . fout fi ^\n\nMH ‘ . t i iu |, : ^ ELEM \"\n\nMir . J ; Ri fe ;\n\na + , LM ie\n\nAH LE - un tet\n\nWHEL : . . | tii ees . a\n\nI | SRE, EJ",
+      "quality_score": 0.5442,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 164,
+      "text": "3 oc »\n\n人 及 | 近 ch 和 .\n\n3 志 + WE A",
+      "quality_score": 0.4369,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 165,
+      "text": "y 疯 !\n\n冯 | 出 引 网 [各 |!\n\n| 罗 HE\n\n站 ” ， 和 Ei ET | fe i : 风 引 中 4 | : ' : mt 放 | 国 PE 人 \"| . 、 Ey Ded lt ~ i i a at | : 人 区 * 出 由 和 | ' : . pa :\n\nla | , 1 和 oii : : | 要 必\n\nJ » A\n\nMl . - a 斤 | 本 - os, .\n\ni 中 . ek 记 El 站 ., 交 \"Ty 四 Rl: , > | Bil: * . : i i .\n\nes . : ve or La\n\nHE ks; \\ 加 措 3 A HE :i , oR nl > | 和 | Fb 、 , ” . SmI ,和 中 | ny .\n\n上 Ei: . . + .\n\n|:: . A\n\nWl l , Nn , . .\n\n: i 昌 ， , . 人 :， th ”i 4 A a 让 : :| | ' ; “ 和 , .\n\nFale i PA | ji 5 4 2\n\nLi | FE:! ” . . 2 ob i ek; -+ * ;\n\n: I 曙 : . . i ws + 由 lid \" , . . 站, 1 四 - . ' oo a 四 . 、_ , a 国 ' i u , . ，, | vA 志 站 有 有 昌 | , sp ' 1 bl | , ~ 4 vt\n\nEl : 和 CR 四 | r ” ” + » - \" - 0 “rn A i , 1 Ey ‘mT fo 0 : ' . . 2 、 1 | - 4 :Ei ! oe 上 0 y ' - , | i : , A Ls .\n\n交 : ’ \"pe.\n\n| \\ ; * A\n\nI : 几 ' , . ? | , 8 yr bp 、 ji | ‘ , . “x . , 让 Kit; . | 4 \" i i . 二 的\n\nI ' , A\n\nal | Ym Fp\n\nUa , Ty 中 | | . i 4\n\n. 和 ' |\n\nEA 9 ”, »\n\n. i 证\n\n, i i",
+      "quality_score": 0.4094,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "ca",
+        "cy"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 166,
+      "text": "er | 2 :\n\n《 ” : . Et\n\n和 Te ,| | 、 . :\n\n1 区 . 9 TE E\n\n9 1 . . iE|\n\nTh, . 电 , ) i 7 '' 沁 fe | , $ ” 1 , * § :\n\n' 人 » A ” - ’‘ . 中\n\n>» » . 忆 t 人 - :和 1 . 站 oy wa . ' E\n\nL > we 2, , 7 和 ]\n\n2 ; 也 由 n 和 4 . EE\n\nCR ， h , Ns 四\n\nCE mp 4:\n\n) sw - : |\n\n和 ， . . ' . 时 i | : : 由 5 > 1\n\n! 人 : ™ er | , 人 , > . \\ 2 : Da ~ 对\n\nDei , \") - 注 | i : DD ’ ” i 于 | E11 ' 人 ' . i ， 关 ME 、 . 了 ° - 时 | « i 3 太公 ¢ } . - . , 晶 4 si, ‘ “ 3 . 人 ' a » I 8 a - : ~ les , fa » ; 拖 放\n\n和 1 : 者 : 明\n\n省 , | ;， : ' -Pr 玉 po Se , 呀 at 和 \" 2 2 , . - 。 下 是 | i ee 2 上 | RS: a .\n\n,, i > | 六 2 a 内 交 ‘ , 人 人 Re a y ~] . ™ 时 :六 ; 了 人 $ He » ‘ \" p ， 2 . . a , , Ei | a 3 ‘ : ' 本 + rN . . . : ; 业 $$， a « , ;| no We Sh 六 六 、 i Tr! > Ei 人 a . : : : . ， - i +: he , » Dn\n\ni ¢ > *\n\n8 i : . Fb\n\nBE LE : y } | 由 罗 人 ’ 上 : $s i to : ; . i ， a , ~ ; \" . 2 ™ ~ 和\n\nTs, ‘ \\ |\n\nor . :\n\n. ee . , l . . E 当 4 fj Ts ) 、 : i ， ER 电 » ~ 省 | 1 所 NE ~. 7 . . | 4 7 , i 4 人 > ， 上 上 轩 , Cb ™ ， k . hs 、 : b kb\n\n‘ Ne] , 上 3 ew i* \" ， ™ - E\n\nJ Ere ; . -i 4 : Ei\n\nI s+ ” | 和 、 , i\n\ner ga b . ji\n\nRN 7 ~ ba\n\nWs 里\n\n网 . 2 、 :和\n\n4 »\n\na ’ ， ， ‘ 由 ¥ a De Vis . . ; 坟 a TT , » 疾\n\n\" # wp 由\n\nPRA } - 中\n\nEE 4 ' * '\n\nes . , 有\n\nTy , . \\ e\n\n才 PD a : ee 5:\n\n1 ;人\n\nFP Pa\n\n和 oi ph . » i » } Pw Ww 证 和 轩 . 晶 » ; i 雇 六 域 A、 | 因\n\nYe 4 Rn . . :\n\n六 MN rt ‘ ' 时 2 只 | 中\n\n»",
+      "quality_score": 0.4347,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 167,
+      "text": "Hi , EF a Lh LN\n\nBi “ i 則 辿 . . し の 本\n\nEs . E し ル i 月 ‘ て を 衝 衝 科 前 . ' , . rr 昌江 i 科 | 剛 、 , CT 1 | 0 : . ‘ A\n\nEE DC\n\nA . , 1\n\n導 a 中 . 。 | | , : +\n\n. F, y tr\n\ni NN ” 村 E ' i ド 2 , 3\n\nEN . ‘ LC A\n\n. 、 . et .\n\nHN , : wt ” * i\n\n” ” け 科 4\n\nI , \" a\n\nHH - - y a | 唱 . ’ VK , 、\n\nI uy . 【 pty | 1 . NN . , % i 計 |\n\nHl . Ts も 用 . : . ‘ A 貞 a | ド . 1\n\nH *\n\n1 . . A\n\n| , , A ]\n\n1 . yy | | . ? * , [ , . ’ 0 4?\n\ni , | oF rr * iY ‘ * rE a- 1H . ee | 則 8 . . ' ‘ 本 和 | 間 \\ , ' R , 回 E ‘ ‘ a . , \\ 1 wv b i # ty 1 i - \" Fg ' + | , “< ” 1 ~ “rs se .\n\n| ee } ~~ ir ,\n\n, a ‘» の 半 和\n\nF a 1 | ‘ ' LN i , *・\n\na . . . '\n\n上 H , » . : 4 +\n\nHH 、 0 本 放 誠 議 議 |\n\n1 we A\n\n‘ 0 [ 調\n\n' ’ A } ” tg 財 \" ‘ . 0 1 , st ド \" , rE , 1 3 [ « 2 4 ) fi ee *\n\nEH a に 枯 MK ド . , a 。 暑 | . の",
+      "quality_score": 0.4395,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm6",
+      "language": [
+        "ca",
+        "cy",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 168,
+      "text": ": ws i が \\ , : 痢 3\n\nTr 3 : 壮 | y * , ” お 計 f\n\n. , hl\n\n™ « 3\n\na . - > . , 1 ” ” | 3\n\nRE\n\ni . . 還 ” t 4\n\nーー * : 菩\n\n1 生生 H 瑞\n\n», . 0 3 i k: ; \\ ” MH 0\n\n. , . Ei\n\n[で 癌 培い 0 放 7 和 | + ‘ RN NI\n\n£ i , » ” ‘ 衝 1 の . 潮 ' i . 、 . \\ . ” 負 作 0 . , 計 Da a * ? ‘ \\ ; i , | a 0 半 が ‘™ - . 睦 | NS \" ‘ , 隊 も 1H \" Rw 4 、 + 佑 : 4 \\ 間 sk rR \\ 、 ’ , - 内 A\n\nN て 計 . 店\n\n& . 。 , 4 EE\n\n] EE , * th 抽 前 ; . ‘ 計 人 ** . “, 1 , _ ” , , i\n\n0 ‘ a は 守 i\n\n. 全て 商 0 導 . - . , ” | 1\n\n! tT ‘ i - « . ; 癌 時 則 | , 4 A et . , 間 本\n\n‘ ER\n\n. .. 革\n\nN Ph y i . , 8 4 a , . 間 NH\n\n生 和 。 E\n\nA a 、 0 1\n\n, Car i HE k A x ih\n\net 間 寺 bd は PH 1 i 本 し : pp 直 , _ , 敵 が | 2 , 本 » すす ' ' . . 提 |\n\na , i 寺 \" ‘ NE «tt \" , ‘ i 3 事 A : ‘ 測 WN a : で 8 WY 時 a WH 大\n\nNt + . ‘ 了 . 、 , |\n\n; ’ 前 4 軸\n\nA A\n\nCY",
+      "quality_score": 0.4622,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm6",
+      "language": [
+        "cy",
+        "no"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 169,
+      "text": "kcd",
+      "quality_score": 0.6236,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 170,
+      "text": "SE SSE RT NR\n\nee\n\n?\n\nBo “\\ »\n\n2\n\n一\n\ni 1\n\nRe 2 -2. Po\n\nWA 辣 和\n\n他",
+      "quality_score": 0.5491,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 171,
+      "text": "轩 , 阐 ~、 壬 办 的 站 KK 要 所 媳 葬 NSOARAY\n\nANAS sO 民 泣 《1 一 写 一 一",
+      "quality_score": 0.4906,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "zh-cn"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 172,
+      "text": "SR 明和 NN",
+      "quality_score": 0.7285,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 173,
+      "text": "一 HN 琉 St RES",
+      "quality_score": 0.5821,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 174,
+      "text": "和 、 .\n\n| 亏 ye , : . 半生 qd s , H\n\n- a 有\n\n本 有\n\n:， . » 、 » 缠 l\n\n站 ‘ 由 |\n\n二 “. >» MM ; 和 :\n\nb Fh LE ed . ; - » i\n\n. 外 六\n\n, ¥ 7 、 so - \" 本\n\nE 1 : > % 由 的 折\n\nTN 人 盾 ,| 4 . ， * . . , , . | 3\n\nod + i i > » ” 3» 撕 二 汪 “ ~ 岂 由 or 了 ， BR . 富 ee \" : 各 (| 1 ¥. 各 ; .0 3 { 人 a 2 上 : | , 和 : » « : i 人 本 4 ., ’ ”4 ga i | 1 | / A 所 ~ ” | 4 A 时 # ll + be 0, wv : ww 2 * 网 » Sols 半 A , , a wy 1 从 、 。 太 ,， 3 “> * i U < ; 、 和 | oo 4 t+ ba 上 于 “ 2 4 +” 人 ¥ l ~ A s 网 ~ 2 过 入 9 ,1 a - : ，, 人 ‘ j 四 ee 4 n > 3 J 和 t 向 A Ys , 2 ; . ,7 ™ F ' ) i i n A a , + ; i :\n\n\"? 人 和 池 i i 从 a ~ » > M , 4 . 昌 :| 8 午 i RS i “~ 网 . 1 EE : : , ™ : 此 i 9 人 w ’ | 取 中 2 纺 » > | , ¥ : ” 罗 * 3 蜡 L\n\n* 功 a ss . ” 4 , . 吊 时 : 人 . 入 . : ' : ，， 的 Fat , Rs ; , > se 出 外\n\nC+ Ps Ee ' ” “i » ， ‘7 > M 2 < y \"| | 1 [ri . mi . 、 , * i 沁 名 a 上 \" 2 Pe They .A i 。 ~ ey . 人 0 bt \"|\n\nht eT) : A We 人\n\n语 罗 jy FE . ‘ a [hy ee ’ , , 罗 EE > 和 EE i x by MD 2 a ~、 , 履 ， ~ b | i\n\nPE 轩 计 下 机 有 » , \"Uw - . 让 A 有 :最 陋\n\n区 i . ~ >、 机 坟\n\n4 oo \" 站 oe ' 1 2 J 2 3 1 3 \" i . , 国 ° jt 4\n\nEE Ne ’ , ‘ ‘ 和 y : ” 3 so » . 4 * | : DD ’ . 名 ee ’ 哮 4 妆 ott\n\nA yi ~ / , \"| 4 ye ’ : . | . ‘ : x | dl a 3 ; , 、 ， 电 0 i A , ， - ~ x 1 ¥ 痪 : . BE 下 ~ 人 . 、 » th i ' \"ls . : . - 允 EE 侧\n\nE 2 国 . 、 颖 由 :四\n\n“ Wd 声 a 尖\n\n2 , ,\n\n;7 ge . , + . 、 ly t | ， oy nM ; , t 2 % i \\ a :, “六 - ， i\n\n- (3 ' 1 ‘ 、 区 吕 :1 上 > * > ; 半 ”. 和 旨 用 > Pz . ve ‘ 光 :\n\nb 从 汪 贡 » 外 , 和 , 视\n\n* 和 “ , H\n\n全 t #4 i ee Ro 2 , :i\n\nRe 村 知 ’\n\nNr Fa hs \"",
+      "quality_score": 0.4385,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "cy",
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 175,
+      "text": ": / ERT ES TR RT A HD TN\n\n| / RR TT",
+      "quality_score": 0.5848,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 176,
+      "text": "NN\n\ni a",
+      "quality_score": 0.5518,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 177,
+      "text": "和 >",
+      "quality_score": 0.461,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 178,
+      "text": "-\n\n™ トト\n\nで に 放 2",
+      "quality_score": 0.4984,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 179,
+      "text": "f\n\n*\n\nRC TE i ed\n\nPENN eR RE St\n\nEN'",
+      "quality_score": 0.6387,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 180,
+      "text": "Rn 蝶 ， , 3 卫 半 | 上 4 |\n\nCE r 和\n\nLoh | Te \"\n\nt\n\ni 2\n\nte 冰 和 '\n\n+ ps by A 隆 光 ‘ Cw 1 [ 交 和 瞧 a ~ i 人 y RA 1° \\ 全 ¥, > pp Le ™ bb i be 各 . is 3 i ” M , a em 4 :\n\ner 人\n\nCE 维 人 各\n\nV's rn 人\n\na\n\n. $F\n\n\\ BD\n\nDi 下\n\nMn 和 or why | 2\n\n和\n\nHE\n\n/NN\n\n>\n\na\n\n~\n\n和\n\na\n\nA\n\n/ ee\n\n»\n\nF\n\nYs “~\n\n六\n\noe YY 2",
+      "quality_score": 0.4604,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 181,
+      "text": "~“ -\n\nz WSC ER RR\n\na CP |\n\n/ ES a\n\ni $6 :\n\n4 | /",
+      "quality_score": 0.3898,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "pl",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 182,
+      "text": "] p 0€ Qv # E 1 an T\n\n4 Eur y : \" : i 2 Be\n\nÀ PE - f . : t. - sj mE Vit 3 CRUS, . á . D . t + #4 | : tte ‘ \" & . = li E vo^ . + . 84 . de . : + EZ t t + — HE - One 3 i\n\nLA x |, x gate E À Er pn \"i\n\nEos BEL tros ‘ Y + 2 is Lie v ^ a ee ! EIE UE ? . à , <4 a SE UE 3 Uu y . . . . is ] . . AN x gs . . RE wf t | t n À End 4 Ms\" a , 5 ? t . J LM ON E + ] ur i Tq : Ac . X Asi H - S IU a À Te 4 $003 eee bo Gree Ef || 3 Br . . \" 2c E \"M \" EE |\n\nÀ Su ga x « . ds . LE E ; . A a à E pi Y . n t\n\nD oU . o mme Jp PARIS we | ‘ \" t ^ E \" | > i ’ ! E 4 7$ ROCHE ii j Ü à st | : ^ + */ - - BUE $ |, Pis ri, tím à - | E EI » SUA { ^ ° « \"uu\" E in. we. BE |i + 4 Bets x 5 ] 2 \"ARV ; 3o à à a Eug Là \"HE s 7 a gv EX LT | 1 VI 2, . hi H 6) ] um ' ^ Tue es So E jl E\n\ni. # Ju ao ^7 > AN | B * . E i AN x “À 25 s & Miki ow UE LU dr PE . i MEE d , Cow “ot, EE 3 0.\n\n. CP TE | For LHP P ans Boe I # kd En IE ie bre are LD Tag of. j CES ux EE y NUN 5 . E d 2 * 93 ] J ie ro 4 en tte , ' 7 à . wat, o T. Pm # M Nd PEE\n\nDi H v 4 k am Fi oA x . ds + E . L Axe p d 1 LE Beaty fi \" 4 . we a d * di m , à \"EDU: on 5 15\n\nA DEE | |, ‘ 4 (5 ‘ Ws 5 [x uii AB\n\nO4 POEM. ^ a 2E. wot tum, ef ai\n\nE Y SAVE u^ ( \" ap Ppp Vee MER. FE pr EE | E \" EM IT\n\nWo e ERIT. : i + Um SEL i. \"2 A ah UD | | d wm TX CE mm ZEN ! & gu GA FA gi m Avis . EP E IH\n\nDR BR EAE: 4 z . 4 SEEN E 59 - ++ NES VP ss NH B 11 i UE LM ; : - SEP I ) Xa ub UA TC gu ER B II . CIAR. LT RS ^ . 2 d 4 , . Dp WO RL ie RTE .\n\nM M. RATER EA UN i \"d : d ) x LE a ji m BUE sien ur + oq . Tos ua D. on , ‘si » i Ht A + Carte vd \"a De ^ 005 &E g^ ' thy, # ea # bá Pn t\n\nRi ueeey.. - o sp rn cx Cg . HH | dd ie wl iu QU B6 Es rS Hootis Abi\n\nEDU a DEM Be . 3 À ‘ E WP $ whe CE ARTE S | AN\"\n\nEM Eod x 4 gy KC . ‘ ue E wo 0, 1T, t s. |; a Yes Eur P €, CUM d Eset mr i 2E TER TN 0005 + EDU E HEN ir- |!\n\nBE BNCUM Y 2 > SEE RROD FE WE EE te M HE\n\nP. Ha set atv. ^ . m V5 03 NM ; . * 3 E Hide. DP CREE SPON a l2 |\n\nEUR QU i. | : BET\" GNU T s ÜU w^ y Ji\n\nDE IE TT LE e = : US A Ne ee p dp EE | NI\n\nSEE CASCO mE 4 am Aoc. D nu SER >= ed D\" 3 Jg i il a FU (Sud ' E : IE BEA E TE 7. 1 OL WEY ta dn A: v ] p . - \"t . . ven P. + E T NEC NES ^ CUM RE ED gt Du B 1\n\nEM E RER s E PUR €T 5 ox $0 WIE AE aCe es BRE Vx ECT D WM\n\nRS ne 1 L 7o. wu 73 j LUE fae cds E FI \"a\n\nUE E eet | y d ‘ E: Uh E ANUS gE! SU as Goes. IE |\n\nVE NE E —Ec NP . * 7. d EA dip arm En\n\nNF X To... \" D, Lu\n\nE E ES IMS rg . M uu ^ . d : & DOS NN RES Lei REUS i E M3 D B i h | mE UD - Da » # 3 E cos; wn 0 WE NR\n\nDOR EVO uL er > \"E UE | Fe do X a $0»\n\n\"El «L7 VON 5 RS oe r5 a BA og pe Soe WT Se |\n\nWw RU ii ix ^ \"u ‘ . & is AE i | Xe os \"AR. x des Nue ERG\n\nZL Su as te 6 E a De , à oor uU ES as - SAR der \"E TEE j x ane : Hes Poe M ND. Hl MN + vd . TES\n\nP ach bd b > « LI | . L . * SERRE. 6 T UE\n\nLE QU E ME un |] à jq FO WE\n\n* À oe eatery RE . 4 : % - *owdr gà Bol pe | “pn a BE ae Vd\n\nDN AEN Se 74 » 3 i . . x I X. BO. Oo E: p if RS dui\n\nEI / BE A, He © «4 WM I d \"E A Poe ^ un & © . a\" ' om 5 PE ak > dee RES à B ra Ml \"RI yo KA TUM | . > ; p | : 7 . > êt is at à E . m T. |\n\nE eL a te # ^ d M 4 li ~ of d . Na TAI - WE\n\nPN S KP MEN E Bow P LE ae fes, i i sq M s. SEAT UON S lg og . Wi\n\nNo de v^ ua . mE\" d . D , - > ‘ à $t uy |\n\nA Nu ae ] HEU ES d it F \"rd SE à Buys i * ‘ . 1 DI Sos ^ TEN LE . 1j M fx . Mee Di : \" > xS k4 ris. E AM TE m h \" E “ee VE COP as t . ^ Riad EE e SE sg EX'S, . uy 4 x MIE à vt INS NW. i s , vod 2 + $s IE\n\nUM AUS: . 4 , IE Po a | a | ^\n\nAg Li ES ^ ! EN ° / ut À HT | M eS à y ‘ s ‘ ‘ ' ‘ a. Re\n\nFA À Ba A UE . : \" 7 fF\n\nM Mer qi DA - MM à Basie Laid + + và. ,\n\nP À À) By A Ee # + .\n\nES E. SÉPARER E\n\n\"E Seek SS",
+      "quality_score": 0.6002,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 183,
+      "text": "と ey < kc\n\nwy",
+      "quality_score": 0.5326,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 184,
+      "text": "RAE ALNEDR HE RE\n\n~\n\nET EN\n\net _\n\nra kT eth tg",
+      "quality_score": 0.666,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "sq",
+        "no",
+        "sv"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 185,
+      "text": "、 . . ™ z : a A\n\nSe \\",
+      "quality_score": 0.4606,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 186,
+      "text": ", ee\n\nFd\n\nA\n\nfy",
+      "quality_score": 0.529,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 187,
+      "text": "~\n\na 并\n\n4\n\n* < 2 z . | > Ei\n\nA\n\nee\n\nA .\n\n~» -\n\na\n\n~ .\n\n~ ~\n\n=\n\n千 姑 内 Sitt 和\n\nCoa NN 守 2 口 从 RE\n\n:",
+      "quality_score": 0.4165,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 188,
+      "text": "学 ~\n\na\n\nKk\n\n2\n\nS\n\nb 分 3 千 千\n\n身 《 , 入 则 a",
+      "quality_score": 0.5062,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 189,
+      "text": "Ne rl NN SRV RA RAs\n\n*",
+      "quality_score": 0.7185,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 190,
+      "text": "A -\n\n. TN\n\n六 和 2 FR 和 ~ Wy\n\nPe",
+      "quality_score": 0.4174,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 191,
+      "text": "SxmAONE\n\n入 区 苔 Sw 站 .当红 Wy < 徊 !\n\n从 [和 和 EE ee EV\n\n§\n\n7 “® A XR I",
+      "quality_score": 0.5152,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 192,
+      "text": "Paron Gros",
+      "quality_score": 0.9437,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 193,
+      "text": "2 eb Se *\n\n’",
+      "quality_score": 0.6304,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 194,
+      "text": "『: 括\n\n+ ‘ s . _ . 1 和\n\n, NU\n\n送 * . 1 kK \\ ‘ . 中 に & ” | i ” i N , 4 。 HL <! . * ” 、 ーー \" 1 4 , , , [i 了 * , , 3 3 3\n\n* * : ba n ・ \"3 i : - _ , ND . 4 & ka 0 4 Co ” \" “A HINES 0 ‘ I 」 FE 8 : 了 、 { “ , 4 y . ~ a I 3 TT , 0 0 J . 1 . 入 % . i 愉 . 、 | HN 4 Ft A . ・ yy V * Ti | ° EE wt : i 、 LB\n\nA , 人 . , ・ ~ ” * , + \" を * HE 用\n\ni で , に 誠 で a ” . # . 3 、 競 。 “ | 1 ° 雪 人 ‘ ’ 、 記 0 * “ 本 i\n\nRT 直 a a ~ : Lr Ff , * . 3 | | 0 | 2 $ 層 史 * $ * 外 鹿 a . 人 和み . \\. ‘ » 結 p _ | 給 村 a | 1 4 ” ” \" a ” * - | \"1 nn 維 , tk i = , 常 } ” ® 肖 na _ 1\n\nSr ts が . * ¥ “ 陣 \\ | * . $$ 松 | 和合 二 。 a 4 ” ee が a | i る ee . ee 和 衝 . , る : ff\n\nCk 0 本 0 を 絆 。 : % | の 1 ーー i ' が 1 上 『] a a 人 be Ne a で \" ; . , 。 . . ! HR a et . }. ” . 人 に 生生 . * を i \" A ee a 、 ¥ 0 * , a な a 2 A , 。 8 i £ i i , , RN . % ” \\ 絡 _ \\ 本 0 氷 \\ i 二 生 層 る a : . , 詳 人 2 eg \\ ‘ wm : 財 の 0 a ] A ee. 民 。 3 iB 3 に 科 . ww RR ¢ を 訟 人 者 ' 人 , 人 Ke ) | 違い tj * - * : , ; 刻 . 航 A 0 U | 人 ts a . i I , a Ny | |\n\nMR 時 トッ 2 Cs | i に “ 、 志 * = 3 . | i\n\nYe ss ” _ ” 避 ’; s | B 1 て まき ¥ , や が wo a a ] Hn i OF * に * wm er BS )}- HO\n\nPt a Ee 夫 * 8 \\\\ \" 1 間 還 ‘,、 邊 生生 . ys E Ce . * |\n\nCr * に “ a 上 3 .* a 、 Ly ま |\n\nLt 江 \" 3 お ” 綴 : * 7 代\n\nRt ¢ | a \" . . ww Rd \" Nk . ae \\ ' Ra\n\n* 、 時\n\nA 2 + , 紅 。 Wl\n\na , . » PR a a ‘ F ; i\n\nA 補 . .\n\ney ” . “ . eg ‘EE いい 科 . ‘ , i に 1 4 *",
+      "quality_score": 0.44,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm6",
+      "language": [
+        "ca",
+        "cy"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 195,
+      "text": "| bl . . , ~ . ,\n\nGs: \" na D 阳 人 区 ; A 3- ;本 A ， 由 4 ' 、 “ , | 和 i :| . , , ys 3 | . i . 党 从 }\n\n+ -s 全 太 ，\n\n型 ‘ : . 7 . » 人 - , | ” ~\" 4 , i | | | | | . : . 各 \\ | . i , eo EE | 六 | , > , \" “ * 3 ， * ~\n\nHi . | : a! ne\n\nEE: ” ~、 器 » - 二 :\n\n: | | ft 、 ) ' * , “ - vy 4\n\n~ ' , . : , 症 、\n\ni BE[: \" ? » 4 . » 7 . 1 国 沁 4\n\nBE: ~ , , i ”00 i :\n\ni 网 , 2 “ . * , 则 < 、 a | | “ 2 \\ ， : , oY\\ x | , 帘 .\n\n: . a 站 .| 3 :i Eh M ; * | . i |} 1 iE | : 4 涂 . 、 4 : i a A 和\n\nFe . . . ' * w 4 中 H . ge , z 中 7 i 4 \", 3\n\n- } ~ + 罗 ， ws\n\n由 i > 诺 5b | 1 ” 、 ?0 “看:\n\n: > ' ? » ~ bd LE ‘ # » t #1 A RS i ‘ . 1 1 vy 和 : ’ y , * 加 ; . ， + 、, 曲折 A . ， 人 , 交 ; 人 性 ~ ' . 1 Dm , t : 7, wk | iM 和 | 众 ) . 各 } » + i\n\nRN 莉 ~ 人 人 ; RT $ 和 CE\n\nEs . | | ¥ ; “ \" ? , ‘Ya a 4 : ~ ， ‘1 os We 人 册 . ~ gn 虽 和 ， : | , ; ' | 2 2 由 ' : ~™—» * 、 下 第 1 . *, 2 访 上 fF € > J > + l 廊 : ' : | 3» A | \" : + 知 | 尖 4 、 i , , Ws bs 3 中 Ns; \" ' Fv 国 川 4 . ; - . # , > 、 3 § bb ， 语 3 i :7 . , ; . >: 2 i | | . \" | Ta ’ ‘> > ， - ks . \" i - \\ } ， = , ’ ~ 人 | - * . . . - * DE »\n\n: . , ~ > : 2 : vy 2 | ,， - ~ , - 上 东 | | , . 、 : . : ; i 因 1 ;此 用 . 冉 ’ ，。 交 x 写\n\nIt ' * :\n\n| . , : : , a 人 | \" > 二 , , . YY ， » » be -、 [9 :> | 3 . . : {tv\" . 2 “a : . 和 . «",
+      "quality_score": 0.3837,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "ca",
+        "no"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 196,
+      "text": "2 “hs oe\n\nwa",
+      "quality_score": 0.6715,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 197,
+      "text": "z i RD NT ea\"",
+      "quality_score": 0.5619,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 198,
+      "text": "トル \" ‘ ” | 2 ‘ \" \"i * a _ ‘\n\nx ’ * ” BE . i\n\ni . \" 出 。!\n\n* 4 a , | | } a ‘ 用 ' a . , |\n\nER , , i 剛 団\n\n; eg hh ” \" 、 ' Hf | 4 tS: 7 ” = ., i | ‘8 ba Nr ” - J 、 . | ri i . ァ 1 示 & a . ‘ 川 3 a , . » , Hi # Cy 和 , \\ HN 閣 ’ BH ™ Er 0 J ; ‘ 二 * 1 0 ; i も ’ 、 _ \") , , | | を , 2 wh . 。 } i H 1 Er : . . ee ” : 上 tr ur ; 頻 , は\n\nET を “ — EE\n\n< Ct ' 1 ¢ ., . , * 4 ? a > . 。 _ [a / * | 【\n\n0 計 i HN\n\n- a . ‘ ” | |\n\n* Ln 2 ‘ ‘ へ ” 1 |\n\nLC ‘ (\n\n* Lo ~ . J | 8\n\na . ; . OE ;* て , t » ° _ \\ NN\n\n: i ” ’ . ” \" UY , OR , a + 3 Tt . 1 の\n\ni 、 ] ret . , { g 措 が rp . 宙\n\nLr 1",
+      "quality_score": 0.4326,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm6",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 199,
+      "text": "A ee\n\nER",
+      "quality_score": 0.573,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 200,
+      "text": "Kf ™w a\n\nTe ee he =\n\n和",
+      "quality_score": 0.5406,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 201,
+      "text": "Ye a -\n\nek ~ ” ys 2 * \" ) ， 呈 2 > 2 2 > =- “ > ty ey PR a ” Me S - ~ \" ee ee ee ~ A CE， A ~ LU ~ 有 ? pg mn < 7 a , er 人 SS Se 7” = 呈 2 2 2 - I ”~ < yy ~ ~ 2 一 区 - “< : a “” \" - l 2 , 7 ~ “ - ~ , , , . » of ~ 3 a & 9 2 2 ~ 3 7. 吉 : 7 .\n\na , “2 J “ - A ; ~ - . - . ”",
+      "quality_score": 0.4116,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en",
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 202,
+      "text": "Ya” 并 ~ 和 3 » . . 和\n\n4 . . 第 和 六 - 本 . + ~ 由 4 ,， . . ， ie ” Ee ’ 凋 局 Dm. . . ,， EE 3 ds : . 机 人 a ee ' . 汪 | } i 、 ， ， , ， 玫 趾 六 和 a : ” 光 . | ~ 和 , |\n\nE » J . . . J ‘ . IE '\n\nwm, 和 人 - ”2 > Ee 3 1 : ， . , 向 | EL ob ee - 7] Yi ' sh i 江\n\nSos 轩 oo b 有 名 汗 a 有 . . “， | 1 | Se ' ' 扩 | 有 \" 3 | |: 1 1 MT . . 了 1 be ， > i a Rs \" ， : | | 是 i | | \"| 9 3 辣 | 熙 和 ，. 下 | +» 1 , » ” | ‘\n\nA | : J ~ 3\n\nEE A ‘yy ~ * * * 6 “ 1 册 由 此 bb 人 wh 、 ¥ » i 罗 : 人 ，- : re » 和 。 ‘ : ;外 这 Ni lib hn A 、 } ~ , \" 六 轩 : 四 y “ , A . Hr\n\nNe 和 Sh, » ~ » | py i Ys . 、 ' | l, hn {eg ; 4 ， . I 4 a . , * “ . K i A , > ; . | “% bE l [4 : 岂 i . . 候 贱 .rr™ 3 。 ‘ | [| 中 识 ) 亿 人 于 外 . ' ‘ 有 i, 和 py : “ 1 和 2 EE 和 . | | er Wp . | i i te . . 、 ” ” I i \" ‘™ 上 | 中 访 9 WA MM \" - th | ks\n\nSP 和 , i 人 py . E 上. KE \"wy¥ ky -、 yp | 村 \" Pe a ， ‘ 以 ; Wg 2 | se ’: EE ' 罗 * “ 外 和 内 志 9 be 2 El , i . . 疆 |E | 二 . 纤 |' 沁 吗 8 a 一 ~ . Oe , ~ jj \" , , . E:\n\n人 ' 1 3 EE : , ‘ - a\n\nRe te > “7 . . 汪 量 祖\n\nBy Wi A ” ” , . : He 本 * ES\n\n. 区 | R",
+      "quality_score": 0.4029,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "en",
+        "ca",
+        "cy"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 203,
+      "text": "办\n\n&\n\nTS\n\ni\n\nYe 2 Pp es i me NO mm sr 和 es 人 A - VE ” ~ ~ ~ \"i a 轩 , vy 2 , 2 es oi x ) ~ mi 4 则 ~ De , se ee . A ~ . ne ~ 2 2 - 2 \"eo. 2 .\n\n; , - i . - 2 “ F . vw E z oe < . ~ 。 ™ * a ” 2 * = ” 4 - b “ >\n\nA > 人 » ~ To * 2 F ‘i Pa ~ - 人 ” - - os -\\ + a Pp ~ bi ~ “4 » ~ y ~ A 2 . KK Ts ms :nt ~ 7 4 oe | 二 Ee 蒜 = 人 “? - ~ pa i 8 Ee i Sr 罗 4 二 “ ~ ~ ， ™ + ，, - Ey -ht * ~ * : : * ~»\n\n> TN - - 7 ~ I 网 vv 和 和 ~ ~\n\nEd _- ’ > 大\n\n区 从 XX OnWe4e 太 Sra 次 才\n\n加 Sa( 潜 一 并 公 四 DO 一 |\n\nry 从 尺 臣 苔 辐 日 总 ( 浴 4 息 te\n\nee re EC KE\n\nVE EX/ BAO\n\n名 入 汉 坚 < 妇 学 一 医 Sm",
+      "quality_score": 0.4086,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "ca",
+        "et"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 204,
+      "text": ": | ,\n\n-Ye 全 时 史 宾 了 一 Nw 和 久 @ 和 RR :\n\nWg 了\n\n| 8\n\n和 2 , * »\n\n2 x . 、 > > 。 的 人 3 Ts \"A > oe ~ ~ Te ss 人 * i\n\n2 他 和 甩 ” 0 ~ ee We ny ye ~ ~ 罗 2 ve i ~\n\n* x 入 i ~ or ’ 2 ¥ 2 A A",
+      "quality_score": 0.413,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "no",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 205,
+      "text": "a\n\nDr or . .4\n\nSL\n\nvar\n\n2",
+      "quality_score": 0.5745,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 206,
+      "text": "~ ~ -rn a sy 人 ; ch\n\n* a a a ” 2 7",
+      "quality_score": 0.4061,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 207,
+      "text": "> £3 ed Tr * 2 Nd wb Em -人 *\n\nEa rr 2 人 | ™ 需 a 2 和 a 有 $s oy 、 A °\n\nEi , a SE ry | EN 及 十 浅 沁 站 i i SS Oe\n\n* + ™ be : . !\n\n2 抽 - “ i » >» ” 抽 2\n\nEe i ,ee A . Re Yr ~ 2 ey. ” be de 2 . Fr - 和 *° 全 + es wh 1 ' ‘ ™” ns 7 2\n\nSp ,2 ” E *s 二 ~ ee . » - . - l | 、 ~ ” - ” =- :Yr A - ~ z ;\n\n/， ; . , . 3 . 罗 ~ - »\n\n? - ~ “ ~ 3 i ’ - - - 7 , 国 、 网 \\ r ~ 2 - + , r ~ l ‘ . .\n\n~ ™\n\n, 2 ~ 、 a\n\nSR YR yd\n\n3\n\n一",
+      "quality_score": 0.4155,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en",
+        "cy"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 208,
+      "text": "3 wl ry ~ 7 + 3 襄 7 , ~ ; , . .\n\n” 1 9 » ' re : , i [于 \" ': ” 3 ,A , . - ” ~\n\nSs: Da ” . 1 b a - ‘ E,\n\n- a 罗 sr 9 2 4 oe a 塘 ps 和 坟 罗 : »* 坊 ; et . “ L a gg . 抽 E 状 ~ - 所 b 寺 ni 访 : - 洲 坟 + ~ (EB\n\nMet ! i 放 障 丧 . Lv . ' Es se . 由 l ,de < | se . \" : - H 崇 , de ' [ - 和 ey » re * . . . » 、 抽 尼 *\n\nCt ria . . |\n\nCu a A , a 人 和 } ! . . i : Fs ‘ ' . 用 9 La ‘1 ’ . ' . .> 上 : 9 Ei pi ‘ . > sg i A . , ™ | . ™、 、 、 中 区 只 we > we_ . ° 9 . 上 入 > NR RE] ; * . :| ~y 了 雪人 、 和 .\n\n检 把 种 汕 沁 摧 肝 3 . . 轩 ‘ .~ : . . 器\n\nPR a ' Ke a We 三 4 ee 人 ’ | ” . . 时 2 4 es RE 5 .\n\nLL 2 : . . ' ~ :1\n\n是 人 ~ : > J\n\nub +? i » Ye fd 入 a . , 天\n\nA 和 . ~ : i wi st 0 ; | , Bs 六 交 人 . , , ， , ~ 咱 缠 ' 1 ~ > . . . 川 尖 .\n\nro 2 绽 - . . . | L pe mie . ’ . . >»\n\n人 2 0 . ! Hh:\n\n;, TT 入 dp ~ 1 2 er * | | a 人 ， Ww Hi i a ; : . ， 中 这 | 证 t , . 下\n\nWo 关 人 n , . . : i,\n\nI a “ ~ ’ : ， 二\n\nWE 3 ~ » '\n\nln NS ’ 、 Et 1 漠 积 相生 :\n\nDA ee ， 3 * 5 Sn “3 i y 0 ' Ni 人 人 » 关 ; py\n\nYk ee i ’ - . : 川 Ee 由 汪 oY a | Re\n\nA wa / : ™ . . . 0 8” PA . . . 时 a i i . . , . , 、 th 4 rr We . - . . ,，, 、 由 ee 1 Fn “ ‘ Mr 3\n\nSt Fy A ， . . 出\n\nEE . - '\n\n名 人 , ’ | ~ | | i i EE + . 上 虹\n\nPd \\ 人 »” ”| . » ' | # *. 1 vrs + ' 和 bi ~ 昌 旦 了 PP [和 2 , . 、 i a ， i . , : 4 由 2 a a 性 要 | ‘ . 几 有 E ， 六 3 a *\n\nHe 各 到 社 且 ” : : 下 虹 *, Aa , * . 3 ' 六 . BS yp 上 ya M , ;，\n\nMe . : 号 > Ed ” pe 2 . . - bp “ 2 ~ | i .4 网 和 » . . . 了 Be ‘ 罗 ba >} 人 ’ ' I 1 记 ,和 , ) 必\n\nA : fie",
+      "quality_score": 0.4345,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 209,
+      "text": ":| ?有 坟 要 , .\n\nWIRE: . . ; ~ rn Ea 1 , PO 准\n\nHEDis | he Cn | . 人 由 ‘ “. 2 人 i 灌 ;\n\na | : mn “ .四 . . : i Ne\n\nEl : Re 4 外 、 六 \" al . : 二 in , , . , 网 人 注 ss i : ‘ ” i 4 革 让 . , Ww A \", k 0 ; , 罗 RC Ef a 和 i 时 ， . , 人 g ji ~ 、 , ， ts + | RY | . , - . vs i mY 0 b: ” . ' 和 a “ 3 : 次 . 人 ba ,\n\n, ' . A\n\ngl , , ' tt . . r i 由 . : . » | : . 、 人 [ : ; SA\n\nBi | ™ 、 , i \" i kl ! \" ~、 , \" L a ” , . a ¥ | ' es .\n\n和 芭 ” | * a | A ~ oo * 3 i I f 次 i - a_ A \"| ' 间 . } ™ , . . 3 [二 | , . \\、 ， ' >、 ~\n\n- ' . » es 县 , i . - , A\n\nE ql : : | . ~ i bi ee 手 » » ye 四 浊 , * 4 : > b vi\n\nEE oN ls. ‘ 人 De be ,| “> -i ” 和 i : ~ YE? - \"re 2\n\n2 » ， 7 pi\n\n9 . ， / A .\n\nHi ‘人 pe] : a | - . 和\n\nEa |; > ’ a 二 rep ga 洋基 ww \" bh » — . . LA 、 E 4 , : ts j 直 ¥ , | - 。 ¥ , ee a ;| , , . A | 芝 : a , | - , Fe | » - I be | | ” » , | 人 :\n\n| . : 证 .\n\n提 + . 0) A\n\nhl ' “ ” 1 则 A i 1 | | : 4 “ 1 Ey\n\n和\n\n; ， , a ,9\n\n§ 和\n\n: . | . . . “ , 7 A .\n\n, 7 ， . 罗 yd ! : , pp ts i - , ,， rs 名 ”bb 2\n\n. 光 |\n\n, | 、 ” ww . . 和\n\n” . 人 ss “ 李\n\n' 2 . CR\n\n. | 4 »\n\n. | , , , 、 . ye ，\n\n， . ‘ + 2 |\n\n- 2 、\n\n: 2\n\n- ' ” ee | ’ . “ “» 并 bs ? #.\n\n, ~、 ~ Su b\n\n»\n\n， > ~ . ~ 0 .\n\n. 4 “* »\n\n» HR 国人\n\n, . . A 了 :\n\n: . . A :\n\nry * 二 A\n\n' . 1 Fis Vr Ca\n\nSA 和\n\nEo '»",
+      "quality_score": 0.4025,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 210,
+      "text": "~\n\n和\n\n: - EPS EC NEA SN",
+      "quality_score": 0.5179,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 211,
+      "text": "-mi\n\nse",
+      "quality_score": 0.686,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 212,
+      "text": "FSS\n\nbe 之 4@ 办 Xa 和 i 站 一 “一 第\n\n人 3 ~\n\na 2\n\na pe ~ . - 和 - si 2 a - y 加\n\n- zt a EE sh “ » Te ~ £ ~ » > ~ 寻 . a - = Pe 4 yet ER + WT ~ ™ i \" ~ ~ A a ‘ 包 . * 人 Em Rp ME PF Ee 人 ~ ™ » ’ ~ -3 ~ ~ = +4 wt be 5 人 Le EA 人 间 二 EY , Fi ~ oe PE ‘ + 、 ? “? 人 $M 二 x 和 ww a ‘ 有 ; 2 ” * * 向 并 Ye ee ~ \"7 ’ 人 人 Yr? A * 2 由 ~ 4 - ; “os ~ a - 2 a ~ .~ A + > En ‘ \"0 vy ~ 2 . 2 i -~ oe > , A 9 .\n\new . vy OE ~ i Se 7 3 -7 ” YY Te ” ip ~ a eT i ~ 人 入 mu? ~ »\n\na EE bE] 3 1 岂 ~\\ - ~ re » - — se LE * jb »\n\n~ ~ , - . ~ 区 ] i 2 人 - e, v yy »",
+      "quality_score": 0.4008,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en",
+        "ca",
+        "cy"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 213,
+      "text": "こと こま ご 2 人 は いい 、 衝 、 コ 8 WX FT Rk ER Rr\n\nの\n\n_ nad 2 < ~~ CY LR I A I\n\nta",
+      "quality_score": 0.4869,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 214,
+      "text": "人 ~ 四 一 ~ 四\n\n* 人 Ee a\n\nA\n\ni “3\n\n二 人",
+      "quality_score": 0.3794,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 215,
+      "text": "a a eg “rt 生生\n\n+ aa nett <\n\nOR (lig re Ne $0",
+      "quality_score": 0.6047,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "no",
+        "hu"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 216,
+      "text": "NE RO SN Sef\n\nRR Ne 4 i RE A\n\nこの\n\nNE KR ES\n\nss\n\nNNO A TT",
+      "quality_score": 0.655,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 217,
+      "text": "A NA ee\n\nで SA i 本 で \\\n\nLk es へ\n\n< 深 ~\n\nQi\n\neS]",
+      "quality_score": 0.4738,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "et",
+        "no",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 218,
+      "text": "z 私 .QAV 牙 器 从 a ye na\n\n© J 人 em Er 和 \"EI@ jw |K 二 4 各 A 令 ”\n\n% ~\n\nA - , -\n\n” 坟\n\n~ 放 < , ~ Fr ~ Eg ~ tA 2 2 : ~ mY 国 & Se \" 3 TT “ > ti #1 » 和 * * [Ww 六 ~ Ss er” -& i# I -YY 和 人 A * > * ~ . me i - ~ ” ¥ 全 me 深 人 FE 四 ys * 二 . - 人 4 和 A ~ < ba » -. 本 3 ~ 2 和 Se si »\n\n汪 , 5 ~ nr < CC 7 - x i 和 7 hs Ey fp Ls 区 ™ ow ~ - 2 - > > Ls 2 eT, vy op Re or a oY, < *:- 2 - ~ 交",
+      "quality_score": 0.4151,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "en",
+        "ca",
+        "no"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 219,
+      "text": "-7 +\n\n4\n\nEN US",
+      "quality_score": 0.6633,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 220,
+      "text": "| + A IN\n\n| 人 人 A 个 全 搬 汉 不: 二 ey\n\nNFA oY SE ey TAN\n\n/ ~ 区 泡 i A \"SZ A",
+      "quality_score": 0.4542,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "so",
+        "hu",
+        "no"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 221,
+      "text": "\\\n\n畴 Se Rd ee ee Xe\n\n京 * 广 六\n\n\\",
+      "quality_score": 0.5107,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 222,
+      "text": "t - ーー el i lal CE EF に 0 . PE a パタ ーー Rk i に wr i EE FS RN, is Rg 3 \" tmnt th hg Sts et arse tse SE NE EET Sk 3 入 0 Sg SE.» Filtre 1 oie a «\n\nEE\n\n~~ ts \\ *\n\nTk ENE ye EE Ke Ad\n\n“",
+      "quality_score": 0.5857,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "en",
+        "no"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 223,
+      "text": "a",
+      "quality_score": 0.62,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 224,
+      "text": "§\n\n人 k 、 . . .\n\n9 x bys 大 F :\n\n* - > 区 “ * . os #\n\nYa、 [a .\n\n.9 和 » . R\n\n. :\n\n,全 . , . | oY x 并 , » :\n\n‘hh ” - . 世 守 | My .\n\nso : 和 , - ‘ Ee » 时\n\nRs 1 ” 、 oe < 汉 :\n\nA : . by ee ,\n\nA YY *\n\n民 直人 .\n\nEe 1 ‘ : '\n\nA [9 ™ 交 .\n\nKe, uk ” ， . KE ti ’ 所 国 i 和 - t * | - 红\n\nSpt rp » 抽 |. 洁\n\nJ ， ” 饭 国\n\nEL .\n\n“tf” :\n\n于 . > , 3 ht . - A\n\nSE ' : ~ ¥ E i ;\n\nsot ” : , 凡\n\nTe pi ， ‘ . - + ; ‘ ee 和 hh 入\n\nLR . , * :\n\ner 法 ‘ ~ | M . )\n\nA 、 ; \" x 、~、 品 国 hE 处 . ” ' me — 还 日 六 如 : : < . 、 性 当 a ;\n\npe, < - a 陛 时 ‘ 襄 MW 2 ; : 访问 wn . ~ : : 2 EE | 学 站 . \" .\n\ni 区 1 、，, 关 er . 色目 fC . \\ : 有 4 ” 、 ， 也 :\n\n1 \" ” ~ . :\n\n2 的 i . 沁 , \" 3 | : 、 代 国\n\n， “ : :|:",
+      "quality_score": 0.4479,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm6",
+      "language": [
+        "en",
+        "no"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 225,
+      "text": "pd\n\nS\n\n一 二 守 扫 er",
+      "quality_score": 0.5924,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20080356_001_s1",
+      "title": "Protocole",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_004_s1",
+      "title": "Protocole des conclusions de la commission de délimitation des zones démilitarisées des détroits",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19200018_013_s1",
+      "title": "Instrument de ratification",
+      "score": 0.952942,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_015_s1",
+      "title": "Traité et règlements commerciaux",
+      "score": 0.883717,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182433_001",
+      "title": "Déclaration",
+      "score": 0.751429,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_004_s1",
+      "title": "Annexe du traité (accords commerciaux)",
+      "score": 0.742232,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18580012_001_s1",
+      "title": "Traité et règlements commerciaux",
+      "score": 0.661303,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19910098_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240054_001_s1",
+      "title": "Accord (ensemble une annexe)",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20161980_001_s1",
+      "title": "Texte du mémorandum",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    }
+  ]
+}

@@ -206,5 +206,20 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra18970019_002_s1",
+      "title": "Lettres patentes de ratification",
+      "score": 0.366845,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_0012_s1",
+      "title": "Accord",
+      "score": 0.354855,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

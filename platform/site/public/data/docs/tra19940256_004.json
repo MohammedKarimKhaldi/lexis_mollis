@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940256_004",
+  "title": "Instrument d'approbation français",
+  "year": 1994,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9837,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Française Le Ministre des Affaires Etrangères Paris, le 16 JANVIER 1995 Monsieur le Ministre, Me référant à l'article 8 de l'Accord de coopération sciences et techniques entre Gouvernement de la française et le Gouvernement d'Afrique du Sud signé à Paris le 4 savoir que les procédures requises par la Constitution de la République pour la mise en vigueur dudit Accord ont été accomplies. La présente lettre…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940256_004.pdf",
+  "source_filename": "tra19940256_004.pdf",
+  "source_sha256": "033d9756558402c248415992196e2d05c5ce52f653104d529986e5acb2f8cd88",
+  "treaty_id": "TRA19940256",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Française\n\nLe Ministre des Affaires Etrangères\n\nParis, le\n\n16\n\nJANVIER 1995\n\nMonsieur le Ministre,\n\nMe référant à l'article 8 de l'Accord de coopération\n\nsciences et\n\ntechniques entre\n\nGouvernement de la\n\nfrançaise et le Gouvernement d'Afrique du Sud signé à Paris le 4\n\nsavoir que les\n\nprocédures requises par la Constitution de la République pour la mise en vigueur dudit Accord ont été accomplies.\n\nLa présente lettre constitue l'Instrument d'Approba-\n\ntion prévu par la disposition précitee.\n\nserais\n\nreconnaissant de bien vouloir\n\nm'informer de la date à laquelle celle-ci vous sera parvenue./.\n\nprie d'agréer,\n\nl'expression de ma haute considération.\n\nMonsieur le Ministre,\n\nPOUR COPIE CERTIFIEE CONFORME A L'ORIGINAL,\n\nFAIT A PARIS,\n\n16 JANVIER\n\n1995\n\nMans fur\n\nAlain JUPPÉ\n\nA Son Excellence\n\nMonsieur Alfred NZO\n\nMinistre\n\ndes Affaires étrangères\n\nPRETORIA",
+      "quality_score": 0.9837,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930240_004_s1",
+      "title": "Instrument français",
+      "score": 0.742214,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_004_s1",
+      "title": "Instrument français",
+      "score": 0.719766,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.713379,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19970011_004_s1",
+      "title": "Instrument français",
+      "score": 0.709826,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_004_s1",
+      "title": "Instrument français",
+      "score": 0.671234,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_004_s1",
+      "title": "Instrument français",
+      "score": 0.615727,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090247_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.443522,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.434048,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.423934,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.421704,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

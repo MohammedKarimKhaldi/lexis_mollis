@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20182473_002",
+  "title": "Pouvoirs français",
+  "year": 2018,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.943,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "N°52/2018 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de lEurope et des Affaires étrangères, donnons POUVOIRS par ces présentes à : Monsieur Joffrey CELESTIN-URBAIN, Sous-directeur des relations économiques bilatérales, Service des affaires bilatérales et de l'internationalisation des entreprises, Direction générale du Trésor, Ministère de l'Économie et des Finances pour signer le protocole fina…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20182473_002.pdf",
+  "source_filename": "TRA20182473_002.pdf",
+  "source_sha256": "b487374a9e59698473831061bdb9edeaaf073e49f2bcc91f6cd3f28c3aa5aaf7",
+  "treaty_id": "TRA20182473",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "N°52/2018\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de lEurope et des Affaires étrangères, donnons POUVOIRS par ces présentes à :\n\nMonsieur Joffrey CELESTIN-URBAIN, Sous-directeur des relations économiques bilatérales, Service des affaires bilatérales et de l'internationalisation des entreprises, Direction générale du Trésor,\n\nMinistère de l'Économie et des Finances\n\npour signer le protocole financier entre le Gouvernement de la\n\nRépublique française et le Gouvernement de la République d'Indonésie contribuant au financement du projet de renforcement des capacités d'observation météorologique et climatique de base et de linfrastructure./.\n\nFAIT À PARIS, LE ĉo auni 2g\n\nLe Ministre de l’Europe et des Affaires étrangères\n\nmM u Dian\n\nDe",
+      "quality_score": 0.943,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20182432_002",
+      "title": "Pouvoirs français",
+      "score": 0.411487,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_002b_s1",
+      "title": "Pouvoirs pour l'échange de lettres",
+      "score": 0.406641,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.402228,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.399419,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.398639,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.398465,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213018_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.396881,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_002",
+      "title": "Pouvoirs français",
+      "score": 0.395263,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230011_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.392543,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213116_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.392173,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

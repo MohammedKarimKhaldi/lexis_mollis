@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_18_s1",
+  "title": "Note verbale d'adhésion de la Croatie",
+  "year": 1924,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9569,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassade de la République de Croatie on Frano- Veleposlanstvo Republike Hrvatske u Francuskoj Nicole de La penine Rat. 00/110/MZ L'Ambassade de la République de Croatie présente ses compliments au Ministère des Affaires Etrangères de la République française en tant que représentant du Gouvernement français en qualité de dépositaire de l'Arrangement portant création, à Paris, d'un Office international du vin, et a l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_18_s1.pdf",
+  "source_filename": "19240003_18_s1.pdf",
+  "source_sha256": "0def3aa8e0e0fb6c3a7f40cdc291a0e719e73ce0806d23dcfaa04c933e9b223c",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "245",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassade de la République de Croatie on Frano- Veleposlanstvo Republike Hrvatske u Francuskoj\n\nNicole de La penine\n\nRat.\n\n00/110/MZ\n\nL'Ambassade de la République de Croatie présente ses compliments au Ministère des Affaires\n\nEtrangères de la République française en tant que représentant du Gouvernement français en qualité de dépositaire de l'Arrangement portant création, à Paris, d'un Office international du vin, et a l'honneur de lui communiquer comme il suit:\n\nLe Gouvernement de la République de Croatie a pris, lors de la session qui a eu lieu le 15 juin 2000, la Décision d'adhérer à l'Arrangement portant création, à Paris, d'un Office international du vin, et conformément à l'article 6 dudit Arrangement, la République de Croatie présente la demande d'adhésion à l'Arrangement.\n\nL'Ambassade de la République de Croatie saisit cette occasion pour renouveler au Ministère des\n\nAffaires Etrangères de la République française les assurances de sa haute considération! MŚ\n\nFait à Paris, le 22 novembre 2000\n\nMINISTERE DES AFFAIRES FRANGERES\n\nSERVICE DU PRO ACALE\n\n124 NO: 2000\n\nARRIVEE\n\nMinistère des Affaires Etrangères 37, quai d'Orsay 75007 Paris\n\n- 1/1 -\n\nAbus arden de a peu tante de Croat fil 7(005500 pax o Maths francsto)",
+      "quality_score": 0.9569,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_05_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.417488,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_pak004_s1",
+      "title": "Note accusant réception de la notification d'adhésion du Pakistan",
+      "score": 0.395979,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_46_s1",
+      "title": "Lettre du Président de Lituanie au 1er ministre Lionel Jospin sur l'adhésion de la Lituanie à l'OEPP",
+      "score": 0.395385,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_561_s1",
+      "title": "Instrument d'adhésion marocain",
+      "score": 0.395327,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890163_005_s1",
+      "title": "Instrument soviétique",
+      "score": 0.392216,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_61_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.390243,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_42_s1",
+      "title": "Instrument d'adhésion du Kirghizistan",
+      "score": 0.389205,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_242_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.389062,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20010080_lux002_s1",
+      "title": "Instrument de ratification",
+      "score": 0.388987,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.38869,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

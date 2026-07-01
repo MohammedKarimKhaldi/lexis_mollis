@@ -1,0 +1,281 @@
+{
+  "document_id": "tra20070073_001_s1",
+  "title": "Convention",
+  "year": 2007,
+  "doc_type": "Convention",
+  "languages": [
+    "ar",
+    "ca",
+    "de",
+    "fr"
+  ],
+  "quality_score": 0.9324,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "maa atan A meae e TaN E EAT e ee n - CONVENTION D'EXTRADITION ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE ET LE GOUVERNEMENT DE L'ÉTAT DES ÉMIRATS ARABES UNIS 2 Le Gouvernement de la République française et Le Gouvernement de l'État des Émirats Arabes Unis, Désireux d'établir une coopération plus efficace entre leurs Etats en vue de la répression de la criminalité, Souhaitant à cette fin régler d'un commun acco…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Convention",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20070073_001_s1.pdf",
+  "source_filename": "tra20070073_001_s1.pdf",
+  "source_sha256": "71ce1439ca9004285a3bfbd9dcb284ff1a1bf9e54d639e1d1ed7ec941f5800bd",
+  "treaty_id": "TRA20070073",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "maa atan A meae e\n\nTaN E EAT e ee n -",
+      "quality_score": 0.569,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "CONVENTION D'EXTRADITION\n\nENTRE\n\nLE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE\n\nET\n\nLE GOUVERNEMENT DE L'ÉTAT DES ÉMIRATS ARABES UNIS",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "2\n\nLe Gouvernement de la République française et\n\nLe Gouvernement de l'État des Émirats Arabes Unis,\n\nDésireux d'établir une coopération plus efficace entre leurs Etats en vue de la répression de la criminalité,\n\nSouhaitant à cette fin régler d'un commun accord leurs relations en matière d'extradition, dans le respect de leurs principes constitutionnels respectifs,\n\nSont convenus des dispositions suivantes :\n\nCHAPITRE 1er\n\nPRINCIPES GÉNÉRAUX\n\nArticle 1°\n\nLes deux Etats s'engagent à se livrer réciproquement, selon les dispositions de la présente\n\nConvention, toute personne qui, se trouvant sur le territoire de l'un des deux Etats, est poursuivie pour une infraction ou recherchée aux fins d'exécution d'une peine privative de liberté, prononcée par les autorités judiciaires de l'autre Etat comme conséquence d'une infraction.\n\nArticle 2\n\n1. Chaque Etat contractant désigne une autorité centrale pour transmettre et recevoir les demandes formées au titre de la présente Convention. Les autorités centrales communiquent entre elles par la voie diplomatique.\n\n• L'autorité centrale de la République française est le ministère de la Justice et celle de l'Et es Émirats Arabes Unis est le ministère de la Justic\n\n3. Chaque Etat contractant notifie à l'autre tout changement de son autorité centrale par la voie diplomatique.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "Article 3\n\n.. L'extradition est accordéc pour les faits qui, aux termes des législations des deux Etats onstituent des infractions passibles d'une peino privative de liberté d'un maximum qui n soit pas inféricur à deux ans.\n\nd'au moins six mois.\n\n3. Si la demande d'extradition vise plusieurs faits distincts punis chacun par les lois des deux\n\nEtats d'une peine privative de liberté, mais dont certains ne remplissent pas la condition rolative au taux de la peine, l'Etat requis a la faculté d'accorder également l'extradition pour ces faits.\n\n4. Pour les infractions en matière de taxes, d'impôt, de douane ou de change, l'extradition est accordée dans les conditions prévues par la présente Convention.\n\nArticle 4\n\nLa législation de l'Etat requis est applicable aux procédures d'arrestation provisoire, d'extradition et de transit.\n\nCHAPITRE II\n\nREFUS D'EXTRADITION\n\nArticle 5\n\nL'extradition n'est pas acco dée :\n\n1. Pour les infractions considérées par l'Etat requis comme politiques ou les faits connexes à de telles infractions. Ne sont pas considérées comme des infractions politiques les attentats ou les tentatives d'attentat à la vie d'un Chef d'Etat de l'un des Etats contractants, d'un membre de sa famille, ou des membres du Conseil Suprême de l'Etat des Emirats Arabes Unis ou de leur famille.\n\n2. Lorsque l'Etat requis a des raisons sérieuses de croire que la demande d'extradition a été présentée aux fins de poursuivre ou de punir une personne pour des considérations de race, de religion, de nationalité ou d'opinions politiques ou que la situation de cette personne risque d'être aggravée pour l'une ou l'autre de ces raisons ;\n\n3. Lorsque la personne réclamée serait jugée dans l'Etat requérant par un tribunal d'exception ou lorsque l'extradition est demandée pour l'exécution d'une peine infligée par un tel tribunal ;\n\n4\n\n• Lorsque l'infraction pour laquelle l'extradition est demandée est considérée par l'Et quis comme une infraction exclusivement militaire\n\n5. Lorsque la personne réclamée a fait l'objet dans l'Etat requis d'un jugement définitif de condamnation ou d'acquittement pour l'infraction ou les infractions à raison desquelles l'extradition est demandée ;\n\n6. Lorsque l'action publique ou la peine sont prescrites conformément à la législation de l'un ou l'autre des Etats.\n\nArticle 6\n\n1. L'extradition n'est pas accordée si la personne réclamée a la nationalité de l'Etat requis.\n\n2. Si l'Etat requis ne remet pas la personne réclamée pour la seule raison de sa nationalité celui-ci doit, conformément à sa propre loi, sur dénonciation des faits par l'Etat requérant, soumettre l'affaire à ses autorités compétentes pour l'exercice de l'action pénale, s'il y a lieu.\n\nA cet effet, les documents, rapports et objets concernant l'infraction sont adressés gratient par la voie prévue l'article 2 et 'Etat requérant est informé de la décision\n\nArticle 7\n\nL'extradition peut être refusée :\n\n1. Si l'infraction a été commise hors du territoire de l'Etat requérant et que la législation de l'Etat requis n'autorise pas la poursuite de la même infraction commise hors de son territoire ;\n\n2. Si la personne réclamée fait l'objet, de la par de l'Etat requis, de poursuites pour l'infraction à raison de laquelle l'extradition est demandée ou si les autorités judiciaires de 'Etat requis ont, selon les procédures conformes à la législation de cet Etat, décidé de mettr in aux poursuites qu'elles ont exercées pour la même infraction\n\n3. Si la personne réclamée a fait l'objet d'un jugement définitif de condamnation ou d'acquittement dans un Etat tiers pour l'infraction ou les infractions à raison desquelles l'extradition est demandéc ;\n\n4. Si, conformément à la législation de l'Etat requis, les autorités judiciaires de cet Etat ont compétence pour connaître de l'infraction pour laquelle l'extradition a été demandée.\n\n5. L'extradition peut être refusée si la remise de la personne réclamée est susceptible d'avoir pour elle des conséquences d'une gravité exceptionnelle, en raison de son âge ou de son état de santé.",
+      "quality_score": 0.9991,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "Article 8\n\nSi l'infraction à raison de laquelle l'extradition est demandée est punie de la peine capitale par la loi de l'Etat requérant, l'extradition ne peut être accordée que si l'Etat requérant donne l'engagement que la peine capitale ne sera pas exécutée.\n\nLorsque l'Etat a donné cet engagement, si la peine capitale est prononcée, elle n'est pas exécutée.\n\nCHAPITRE III\n\nPROCEDURE\n\nArticle 9\n\nLa demande d'extradition doit être formulée par écrit et accompagnée :\n\n1. Dans tous les cas,\n\na) d'un exposé des faits pour lesquels l'extradition est demandée, du lieu et de la date de leur perpétration, de leur qualification juridique et de l'indication des dispositions légales qui leur sont applicables b)\n\ndu signalement permettant d'établir l'identité et la nationalité de la personne réclamée et, si possible, des éléments permettant sa localisation ;\n\ndu texte des dispositions légales applicables à l'infraction ou aux infractions en cause, les peines correspondantes et les délais de prescription et lorsqu'il s'agit d'infractions commises hors du territoire de l'Etat requérant, du texte des dispositions légales ou conventionnelles attribuant compétence audit Etat ;\n\n. Dans le cas d'une demande d'extradition aux fins de poursuite, de l'original ou de 'expédition authentique du mandat d'arrêt ou de tout autre acte ayant la même force selon l législation de l'Etat requérant ;\n\n3. Dans le cas d'une demande d'extradition aux fins d'exécution d'une peine, de l'original ou de l'expédition authentique du jugement de condamnation exécutoire.\n\nArticle 10\n\nSi les intormations communiquées par l'Etat requérant se révèlent insuffisantes, l'Etat requis demande le complément d'informations nécessaire et peut fixer un délai pour l'obtention de ces informations.\n\nArticle 11\n\nLa gues tes de ale es diat region au t ac de la prises cone emain son rais la dang officielle de l'Etat requis signature et du signais de candes des de autres perces nes c menaies par ete autoris de l documents sont dispensés de toute formalité de légalisation.\n\nCHAPITRE IV\n\nPRINCIPE DE SPÉCIALITÉ ET RÉEXTRADITION\n\nArticle 12\n\n1. La personne qui a été extradée ne sera ni poursuivie, ni jugée, ni détenue en vue de 'exécution d'une peine pour une infraction antérieure à la remise, autre que celle ayan notivé l'extradition, sauf dans les cas suivants\n\na) lorsque l'Etat qui l'a livrée y consent. Co consentement ne peut être accordé que lorsque l'infraction, pour laquelle il est demandé, est de nature à donner lieu à extradition aux termes de la présente Convention. Afin de permettre à l'Etat requis de prendre sa décision,\n\nT'Etat requérant adresse une demande accompagnée des pièces prévues à l'article 9 et d'un acte constatant l'acceptation ou l'opposition de la personne extradée.\n\n1b) lorsque, ayant cu la possibilité de quitter le territoire de l'Etat auquel elle a été livrée, la personne extradée ne l'a pas quitté dans les soixante (60) jours qui suivent sa libération définitive ou si elle y est retournée après l'avoir quitté.\n\na) peut donner lieu à extradition dans les conditions de la présente Convention ;\n\nb) vise les mêmes faits que l'infraction pour laquelle l'extradition a été accordée.\n\nArticle 13\n\nSauf dans le cas prévu au paragraphe 1. b) de l'article 12, la ré-extradition au profit d'un Etat tiers ne peut être accordée sans le consentement de l'Etat qui a accordé l'extradition. Ce dernier peut exiger la production des pièces prévues à l'article 9, ainsi qu'un acte constatant que la personne réclamée accepte la ré-extradition ou s'y oppose.",
+      "quality_score": 0.9844,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "CHAPITRE V\n\nARRESTATION PROVISOIRE\n\nArticle 14\n\n1. En cas d'urgence, les autorités compétentes de l'Etat requérant peuvent demander\n\nl'arrestation provisoire de la personne recherchée. La demande d'arrestation provisoire doit indiquer l'existence d'une des pièces prévues à l'article 9 et faire part de l'intention d'envoyer une demande d'extradition. Elle mentionne également l'infraction pour laquelle l'extradition est demandée, le temps, le lieu et les circonstances de sa commission et les renseignements permettant d'établir l'identité et la nationalité de la personne recherchée.\n\n• Les autorités centrales s'adressent la demande d'arrestation provisoire par la voi plomatique, par l'intermediaire des bureau\n\nnationaux de l'Organisation\n\nInternationale de Police Criminelle (Interpol), par courrier, par télécopie ou par tout autre moyen laissant une trace écrite.\n\nd'échanges de notes, la procédure\n\ntarestatio praire, en conformit avec pour legislation ense demates le propr . Des réception de la demande visée au paragraphe 1, les autorités compétentes de l'Eta equis donnent suite à cette demande conformément à leur législation. L'Etat requérant es informé de la suite donnée à sa demande.\n\ndemande d'extradition et des pièces mentionnées à l'article 9.\n\nToutefois, la mise en liborté provisoire de la personne réclamée est possible à tout moment sauf pour l'Etat requis à prendre toute mesure qu'il estime nécessaire en vue d'éviter la fuite de cette personne.\n\n5. Le fait qu'il soit mis fin à l'arrestation provisoire en application du paragraphe ci-dessus ne s'oppose pas à l'extradition de la personne réclamée, si la demande officielle d'extradition el les pièces visées à l'article 9 parviennent ultérieurement.\n\nCHAPITRE VI\n\nCONCOURS DE DEMANDES\n\nArticle 15\n\nSt l'extradition est demandée concurremment par l'un des Etats contractants et par d'autres\n\nEtats, que ce soit pour le même fait ou pour des faits différents, l'Etat requis statue compte- tenu de toutes circonstances et notamment de la gravité relative et du lieu des infractions, des dates respectives des demandes, de la nationalité de la personne réclamée et de la possibilité d'une extradition ultérieure vers un autre Etat\n\n8\n\nCHAPITRE VII\n\nDÉCISION ET REMISE\n\nArticle 16\n\n1. L'Etat requis fait connaître à l'Etat requérant sa décision sur l'extradition.\n\n2. Tout rejet, complet ou partiel, est motivé.\n\n3. En cas d'acceptation, l'Etat requérant est informé dès que possible du lieu et de la date de la remise, ainsi que de la durée de la détention subie par la personne réclamée en vue de l'extradition.\n\n1. Si la personne réclaméc n'est pas reçue dans un délai de quarante cinq (45) jours à compte le la date fixée pour sa remise, elle doit être mise en liberté et l'Etat requis peut, par la suit refuser son extradition pour les mêmes faits.\n\n5. En cas de force majeure empêchant la remise ou la réception de la personne à extrader, l'Etat affecté en informe l'autre Etat ; les deux Etats se mettent d'accord sur une nouvelle date pour la remise et les dispositions du paragraphe 4 du présent article sont applicables.\n\nArticle 17\n\nCHAPITRE VIII\n\nREMISE D'OBJETS\n\nArticle 18\n\n1. A la demande de l'Etat requérant, l'Etat requis remet, dans la mesure permise par sa législation, les objets :\n\na) qui peuvent servir de pièces à conviction ;\n\nposesion de la person de inacion, ont élé trouvés au moment de 'aresation en la\n\nc) qui sont découverts ultérieurement à la suite d'une commission rogatoire.",
+      "quality_score": 0.9848,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "2. La remise des objets visés au paragraphe 1 du présent article est effectuée même dans le cas où l'extradition déjà accordée ne peut avoir lieu par la suite de la mort, de la disparition ou de l'évasion de la personne réclamée.\n\n3. Lorsque lesdits objets sont susceptibles de saisie ou de confiscation sur le territoire de l'Etat requis, ce dernier peut,\n\naux fins d'une procédure pénale en cours, les garder\n\ntemporairement ou les remettre sous condition de restitution.\n\n4. Sont toutefois réservés les droits que l'Etat requis ou des tiers auraient acquis sur ces obicts. Si de tels droits existent, ces objets sont restitués le plus tôt possible et sans frais à l'Etat requis.\n\nCHAPITRE IX\n\nTRANSIT\n\nArticie 19\n\n1. En cas d'extradition vers le territoire d'un Etat contractant à partir d'un Etat tiers par le territoire de l'autre Etat contractant,\n\nl'Etat vers le territoire duquel la personne doit être\n\nextradće demando à l'autre Etat d'autoriser le transit sur son territoire.\n\n2. Les dispositions du paragraphe 1 ne s'appliquent pas lorsque la voie aérienne est utilisée et qu'aucun atterrissage sur le territoire de l'autre Etat n'est prévu.\n\n3. L'Etat requis du transit peut faire droit à la demando de transit selon les conditions prévues par son droit interne.\n\n• En cas d'urgence, la demande de transit peut être formulée directement entre le ministère d a justice de la République française et le Ministère de l'intérieur de l'Etat des Émirats Arabe\n\nUnis, le cas échéant,\n\nutilisant les bureaux centraux nationaux de l'Organisation\n\nInternationale de Police Criminelle (Interpol).\n\n5. La demande de transit est accompagnée de tout élément d'information permettant à l'Etat requis du transit de prendre sa décision.\n\n6. Lorsque la voie aérienne est utilisée, dans le cas d'atterrissage fortuit sur le territoire de\n\nressortissant de l'Etat requis du transit. Dans ce cas, cet Etat doit, sur dénonciation des faits par l'Etat requérant, soumettre l'affaire à ses autorités compétentes pour l'exercice de l'action pénale, s'il y a lieu.\n\n7. La garde de la personne incombe aux autorités de l'Etat de transit tant qu'elle se trouve sur son territoire.\n\n8. L'Etat requérant rembourse à l'Etat de transit tous les frais qui ont été engagés à cet effet.\n\n10\n\nCHAPITRE X\n\nFRAIS\n\nArticle 20\n\nLes frais occasionnés par les procédures internes inhérentos à toute extradition sont à arge de l'Etat requis, à l'exception de ceux relatifs au transport de la personne réclamée ‹ sont à la charge de l'Etat requérant.\n\n2. S'il apparaît que des frais de nature extraordinaire sont requis pour satisfaire à la demande les pande ses forgeng pour pixirs les ermes et conditions scton lesquels l'exécution de la\n\nCHAPITRE XI\n\nDISPOSITONS FINALES\n\nArticle 21\n\nLa présente Convention ne porte pas atteinte aux droits et engagements résultant des conventions internationales auxquelles les Etats contractants sont parties.\n\nArticle 22\n\n1. Chacun des deux Etats notifiera à l'autre l'accomplissement des procédures constitutionnelles requises en ce qui le concere pour l'entrée en vigueur de la présente\n\nConvention. Les notifications seront échangées le plus rapidement possible.\n\nLa présente Convention entrera en vigueur le premier jour du deuxième mois suivant te de réception de la dernière de ces notification\n\n3. Chacun des deux Etats pourra dénoncer à tout moment la présente Convention, par une notification écrite adressée à l'autre Etat par la voie diplomatique; dans ce cas, la dénonciation prend effet six (6) mois après la date de réception de ladite notification\n\nEn foi de quoi, les représentants des deux Gouvernements, dûment autorisés, ont signé la présente convention et y ont apposé leur sceau.",
+      "quality_score": 0.9945,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "11\n\nParis le 2 mai 2oct\n\nfrançaise et arabo, les deux textes faisant également foi.\n\nen double exemplaire, en langues\n\nPour le Gouvernement de la République française\n\nPour le Gouvernement\n\nde l'Etat des Émirats Arabes Unis\n\nPascal CLÉMENT\n\nGarde des Sceaux\n\nMinistre de la Justice\n\nMohammed Bin Nakhira\n\nAl Dhaheri\n\nMinistre de la Justice\n\nاتفاقية تسليم المجرمين بين حكومة الجمهورية الفرنسية\n\nحكومة دولة الإمارات العربية المتحدة\n\nصفحة 1 من 10",
+      "quality_score": 0.9655,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "إن حكومة الجمهورية الفرنسية وحكومة دولة الإمارات العربية المتحدة رغبة منهما في إقامة تعاون أكثر فعالية بين دولتيهما من أجل مكافحة الجريمة، ورغبة منهما بتنظيم علاقتهما لهذا الغرض في مجال تسليم المجرمين مع مراعاة المبادىء\n\nالدستورية الخاصة بكل منهما، اتفقتا على ما يلي:\n\nالفصل الأول المبادىء العامة المادة (1)\n\nتتعهد الدولتان بأن تسلم كل منهما الأخرى بموجب الأحكام المنصوص عليها في هذه الاتفاقية، كل شخص تتم ملاحقته أثناء وجوده على أراضي إحدى الدولتين بسبب جريمة ارتكبها أو يكون مطلوبا من جانب السلطات القضائية في الدولة\n\nالأخرى لتنفيذ عقوبة سالبة للحرية صادرة ضده لارتكابه جريمة.\n\nالمادة (2)\n\n1 - لغرض هذه الاتفاقية تقوم السلطة المركزية المعينة بوساطة الدولتين بالاتصال عبر القنوات الدبلوماسية في ما بينها بشان المسائل المتعلقة بطلبات التسليم.\n\n2 - السلطة المركزية هي وزارة العدل في الجمهورية الفرنسية ووزارة العدل في\n\nالإمارات العربية المتحدة.\n\n3 - في حالة تغيير أي دولة لسلطتها المركزية فعليها إخطار الدولة الأخرى بذلك\n\nالتغيير عبر القنوات الدبلوماسية.\n\nالمادة (3)\n\n1- يوافق على التسليم في حال كانت الأفعال المرتكبة تشكل وفقا لقوانين الدولتين جريمة معاقب عليها بعقوبة سالبة للحرية لا تقل مدتها عن السنتين.\n\n2 إذا طلب التسليم بغرض تنفيذ عقوبة صادرة عن السلطة القضائية المختصة في الدولة الطالبة، ينبغي أن لا تقل مدة العقوبة المتبقية والواجب قضاؤها عن الستة أشهر.\n\n3 إذا تعلق طلب التسليم بعدة أفعال مستقلة تعاقب قوانين الدولتين كل منها بعقوبة سالبة للحرية غير ان بعضها غير مستوف شرط مدة العقوبة، فيجوز للدولة\n\nالمطلوب إليها أن تقوم أيضا بالتسليم استنادا الى هذه الأفعال.\n\n4- فيما يخص الجرائم المرتكبة في مجال الرسوم والضرائب والجمارك والصرف، يتم\n\nالتسليم وفقا للشروط التي تنص عليها هذه الاتفاقية.\n\nصفحة 2 من 10",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "المادة (7)\n\nيجوز رفض التسليم في الحالات التالية:\n\n1- إذا كانت الجريمة قد ارتكبت خارج أراضي الدولة الطالبة وكانت قوانين الدولة المطلوب إليها لا تجيز ملاحقة الشخص عن مثل هذه الجريمة اذا ارتكبها خارج اراضيها.\n\n2 إذا كان الشخص المطلوب موضع ملاحقات من قبل الدولة المطلوب إليها بسبب الجريمة المطلوب من اجلها التسليم او اذا قررت السلطات القضائية في الدولة المطلوب إليها، وضع حد للملاحقات التي قامت بها بسبب نفس الجريمة، وذلك وفقا لقوانين هذه\n\nالدولة.\n\n3- إذا صدر بحق الشخص المطلوب حكما باتا بالإدانة او بالبراءة في دولة ثالثة بسبب\n\nالجريمة أو الجرائم المبني عليها طلب التسليم\n\n4- إذا كانت السلطات القضائية في الدولة المطلوب إليها تختص بالنظر في الجريمة\n\nالمطلوب من اجلها التسليم وذلك وفقا لقوانينها.\n\n5- إذا كان التسليم سيؤدي الى نتائج خطيرة جدا بالنسبة للشخص المطلوب بسبب\n\nعمره أو وضعه الصحي\n\nالمادة (8)\n\nإذا كانت الجريمة المطلوب من اجلها التسليم معاقب عليها بالاعدام وفقا لقوانين الدولة الطالبة فلا يتم التسليم الا اذا تعهدت الدولة الطالبة بان عقوبة الاعدام لن تنفذ.\n\nواذا اعطت الدولة الطالبة هذا التعهد وصدر حكم بالإعدام فان هذا الحكم لن ينفذ.\n\nالفصل الثالث الإجراءات المادة (9)\n\nيجب أن يقدم طلب التسليم خطيا وأن يرفق بالعناصر التالية:\n\n1- في جميع الأحوال:\n\nأ- بعرض للأفعال المطلوب من أجلها التسليم وتاريخ ومكان ارتكابها مع تفصيل عن وصفها القانوني والإشارة الى مراجع النصوص القانونية المنطبقة.\n\nب - بوصف يتيح تحديد هوية وجنسية الشخص المطلوب واذا أمكن، بمعلومات\n\nتتيح تحديد مكان وجوده.\n\nج - بالنصوص القانونية المنطبقة على هذه الجريمة أو الجرائم، والعقوبات المناسبة ومهلة التقادم. واذا تعلق الأمر بجرائم تم ارتكابها خارج أراضي الدولة الطالبة، فترفق نصوص الأحكام القانونية أو نصوص الاتفاقيات التي تعطي الصلاحية لهذه الدولة.\n\n2 إذا تعلق الأمر بطلب تسليم بغرض الملاحقة، فترفق النسخة الأصلية لمذكرة لتوقيف أو صورة طبق الأصل عنها وأي وثيقة تتمتع بالحجية ذاتها وفقا لقوانين الدولة\n\nالطالبة.\n\n3- إذا تعلق الأمر بطلب تسليم بغرض تنفيذ عقوبة، فترفق النسخة الأصلية لحكم\n\nالإدانة النافذ المفعول أو نسخة طبق الأصل عنه.\n\nصفحة 4 من 10\n\nالمادة (4)\n\nتطبق قوانين الدولة المطلوب إليها على اجراءات التوقيف المؤقت والتسليم والعبور.\n\nالفصل الثاني رفض التسليم المادة (5)\n\nلا يتم التسليم في الحالات التالية:\n\n1- إذا كان طلب التسليم متعلقا بجريمة تعتبرها الدولة المطلوب إليها التسليم\n\nجريمة سياسية أو متعلقا بأفعال مرتبطة بجريمة سياسية.\n\nفي تطبيق أحكام هذه الفقرة لا يعتبر التعرض او محاولة التعرض لحياة رئيس أي من الدولتين او احد أفراد أسرهم او أعضاء المجلس الأعلى لدولة الإمارات العربية المتحدة او\n\nأفراد أسرهم جريمة سياسية.\n\n2 إذا كان لدى الدولة المطلوب إليها دواع جدية للاعتقاد بأن طلب التسليم قدم بغرض ملاحقة أو معاقبة شخص ما لاعتبارات عرقية أو دينية أو متعلقة بجنسيته أو بارانه السياسية أو أن وضع هذا الشخص قد يزداد سوءا بسبب أحد هذه الدواعي.\n\n3- في حال احتمال محاكمة الشخص المطلوب في محكمة إستثنائية في الدولة الطالبة، أو اذا كان طلب التسليم بغرض تنفيذ عقوبة صادرة عن محكم 4- إذا كان طلب التسليم لجريمة تعتبرها الدولة المطلوب إليها جريمة عسكرية\n\nمحضة\n\n5 اذا صدر في الدولة المطلوب إليها حكما باتا بالإدانة أو بالبراءة ضد الشخصر\n\nالمطلوب، بسبب الجريمة أو الجرائم المطلوب من أجلها التسليم\n\n6- إذا تقادمت الدعوى العمومية، أو سقطت العقوبة، بمضي المدة وفقا لقوانين إحدى\n\nالدولتين.\n\nالمادة (6)\n\n1- لا تتم الموافقة على التسليم إذا كان الشخص المطلوب من مواطني الدولة المطلوب\n\nإليها.\n\n2 إذا لم تسلم الدولة المطلوب إليها الشخص المطلوب لكونه مواطنا، وبعد أن أعلمتها الدولة الطالبة بالأفعال المرتكبة، يجب أن تقوم هذه الدولة ووفقا لقوانينها، برفع القضية الى سلطاتها المختصة بهدف القيام بالدعوى الجنائية، اذا استدعى الأمر ذلك.\n\nولهذا الغرض، ترسل الوثائق والتقارير والأشياء المتعلقة بالجريمة مجانا عبر القنوات المنصوص عليها في المادة (2) ويتم إبلاغ الدولة الطالبة بالقرار المتخذ.\n\nصفحة 3 من 10",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "المادة (13)\n\nباستثناء الحالة التي تنص عليها الفقرة 1، ب) من المادة (12)، لا يجوز القيام بإعادة التسليم الى دولة ثالثة من دون موافقة الدولة التي قامت بالتسليم. ويجوز للدولة التي قامت بالتسليم ان تطلب تقديم المستندات المنصوص عليها في المادة (9) ووثيقة تبين\n\nرأي الشخص عن قبوله أو رفضه لإعادة التسليم.\n\nالفصل الخامس التوقيف المؤقت المادة (14)\n\n1- في الحالات الطارئة، يجوز للسلطات المختصة في الدولة الطالبة أن تطلب توقيف الشخص المطلوب مؤقتا. يجب ان يتضمن طلب التوقيف المؤقت بيانا بتوفر إحدى المستندات المنصوص عليها في المادة (9) مع الافصاح عن النية في ارسال طلب التسليم كما يجب أن يذكر الجريمة المطلوب من أجلها التسليم مع تحديد تاريخ ومكان والظروف التي ارتكبت فيها هذه الجريمة اضافة الى المعلومات التي تتيح تحديد هوية\n\nوجنسية الشخص المطلوب.\n\nترسل كل من السلطتين المركزيتين الى الاخرى طلبات التوقيف المؤقت ع ننوات الدبلوماسية أو عن طريق الانتربول أو عبر البريد او الفاكس او اي وسيلة اخر\n\nتترك اثرا خطيا.\n\nوبغية تسريع أو تفعيل إجراءات التوقيف المؤقت، يجوز لكل من الدولتين المتعاقدتين تعديل تلك الاجراءات وذلك عبر تبادل المذكرات بينهما ووفقا للقوانين الخاصة لكل\n\nمنهما.\n\n3- عند تسلم الطلب المنصوص عليه في الفقرة الأولى، تقوم السلطات المختصة في الدولة المطلوب إليها بالرد على هذا الطلب وفقا لقوانينها. ويتم ابلاغ الدولة الطالبة بهذا\n\nالرد.\n\nغشون أبان يوما امتارا من تريخ توي الشعة ل ا اليم والسا في\n\nالمنصوص عليها في المادة (9).\n\nويجوز في اي وقت الافراج عن الشخص المطلوب مؤقتا وعلى الدولة المطلوب إليها اتخاذ\n\nكافة الاجراءات التي تراها ضرورية للحيلولة دون فرار هذا الشخص.\n\n5 لا يحول إنهاء التوقيف المؤقت وفقا للفقرة السابقة دون تسليم الشخص المطلوب إذا تم لاحقا استلام طلب التسليم الرسمي والمستندات المشار اليها في المادة (9).\n\nصفحة 6 من 10\n\nالمادة (10)\n\nإذا كانت البيانات والوثائق المرفقة بطلب التسليم غير كافية، تبلغ الدولة المطلوب إليها الدولة الطالبة بالنواقص الواجب استيفائها. وتحدد الدولة المطلوب إليها المهلة اللازمة\n\nلهذا الغرض.\n\nالمادة (11)\n\n1- تكون كافة طلبات التسليم والمستندات المرفقة بها وفقا لهذه الاتفاقية باللغة الرسمية للدولة الطالبة وتكون مرفقة بترجمة الى اللغة الرسمية للدولة المطلوب إليها 2- يجب أن تكون طلبات التسليم والمستندات المرفقة بها موقعة ومختومة أو موثقة من قبل السلطة الطالبة. وتعفى هذه الوثائق من كافة إجراءات التصديق..\n\nالفصل الرابع مبدأ التخصص واعادة التسليم المادة (12)\n\n1- لا يجوز ملاحقة الشخص الذي تم تسليمه ولا محاكمته ولا سجنه بغرض تنفيذ عقوبة عليه عن جريمة ارتكبت قبل تسليمه خلافا عن تلك التي تم تسليمه من أجلها،\n\nإلا في الحالات التالية:\n\nأ- إذا وافقت على ذلك الدولة التي سلمت الشخص المعني، ولا يجوز منح هذه الموافقة الا عن جريمة قابلة للتسليم بموجب احكام هذه الاتفاقية. ولكي تتمكن الدولة لمطلوب إليها من اتخاذ قرارها ترسل الدولة الطالبة الطلب مرفقا بالمستندات المنصوص\n\nعليها في المادة 9 ووثيقة تبين رأي ذلك الشخص بالموافقة او الرفض.\n\nبداذا كان الشخص الذي تم تسليمه قد اتيحت له مغادرة أراضي الدولة المسلم إليها ولم يغادرها خلال الستين يوما التالية لإطلاق سراحه نهائيا أو عاد إليها بعد مغادرتها.\n\n2 إذا عدل التكييف القانوني للجريمة التي من أجلها تم تسليم الشخص، فلا يجوز ملاحقته أو محاكمته إلا اذا كانت هذه الجريمة، بتكييفها الجديد:\n\nأ- تجيز التسليم وفقا لأحكام الاتفاقية.\n\nبتدخل في عداد الجرائم التي يجوز من أجلها التسليم\n\nصفحة 5 من 10",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "الفصل الثامن تسليم الأشياء المادة (18)\n\n1- تقوم الدولة المطلوب إليها، وذلك بما تسمح به القوانين النافذة فيها وبناء على طلب\n\nمن الدولة الطالبة بتسليم الأشياء التالية:\n\nأ- الأشياء التي قد تستعمل كأدلة مادية\n\nب الأشياء المتحصلة من الجريمة المسندة الى الشخص المطلوب تسليمه والتي وجدت في\n\nحوزته حين ضبطه.\n\nج الأشياء التي تم اكتشافها لاحقا، على اثر إنابة قضائية.\n\n2 يتم تسليم الأشياء المذكورة في الفقرة الأولى من هذه المادة الى الدولة الطالبة حتى لو تعذر تسليم الشخص المطلوب المتفق عليه بسبب وفاته او اختفائه أو فراره.\n\n3- في حال كانت الأشياء المذكورة سابقا قابلة للحجز أو المصادرة على أراضي الدولة المطلوب إليها، فيجوز لهذه الدولة أن تحتفظ بهذه الأشياء مؤقتا من أجل دعوى\n\nقضائية جارية أو ان تسلمها للدولة الطالبة بشرط استعادتها.\n\n4- غير ان الدولة المطلوب إليها او الأطراف الأخرى تحتفظ بالحقوق التي تتمتع بها في ما يتعلق بهذه الأشياء. إذا وجدت هذه الحقوق، تعاد هذه الأشياء باسرع وقت ممكن\n\nوبدون مقابل الى الدولة المطلوب إليها.\n\nالفصل التاسع العبور المادة (19)\n\n1- إذا كان الشخص سيسلم لدولة من دولة ثالثة عبر اقليم الدولة الاخرى، فعلى الدولة التي سيسلم إليها الشخص الطلب من الدولة الآخرى السماح بنقل ذلك الشخص\n\nبالعبور عبر إقليمها.\n\n2- لا تطبق الأحكام الواردة في الفقرة 1 في حالة استخدام النقل الجوي ودون هبوط\n\nمجدول في إقليم الدولة الأخرى.\n\n3- يجوز للدولة التي سيتم النقل بالعبور عبرها الموافقة على طلب النقل بالعبور بما\n\nيتوافق مع قانونها الوطني.\n\n4. في الحالات العاجلة يجوز تقديم طلب النقل بالعبور مباشرة الى وزارة العدل في الجمهورية الفرنسية أو الى وزارة الداخلية في الامارات العربية المتحدة، ويمكن الاستعانة بالمكاتب المركزية الوطنية لمنظمة الشرطة الجنائية الدولية (الانتربول) في\n\nالدولتين إن دعت الحاجة.\n\n5 يدعم الطلب بمعلومات كافية لتمكين الدولة التي سيتم النقل بالعبور عبر\n\nقليمها من التقرير في الطلب.\n\nصفحة 8 من 10\n\nالفصل السادس تعدد الطلبات المادة (15)\n\nإذا تم تقديم طلب تسليم من قبل إحدى الدولتين المتعاقدتين ودول أخرى في نفس الوقت، ان كان بسبب نفس الأفعال او بسبب أفعال أخرى، تبت الدولة المطلوب إليها بالأمر مع الأخذ بعين الاعتبار كافة الظروف ومنها خطورة الجريمة ومكان ارتكابها وتواريخ تقديم الطلبات وجنسية الشخص المطلوب وإمكانية تسليمه لاحقا الى دولة\n\nالفصل السابع القرار والتسليم المادة (16)\n\n1- تبلغ الدولة المطلوب إليها الدولة الطالبة بالقرار الذي اتخذته في شان طلب التسليم.\n\n2 يجب ان يكون القرار الصادر بالرفض معللا سواء كان هذا الرفض كليا أو\n\nجزئيا.\n\n3- في حال قبول طلب التسليم، تحاط الدولة الطالبة علما بمكان وتاريخ التسليم وبمدة السجن التي قضاها الشخص المطلوب للتسليم، بأسرع ما يمكن.\n\n4- يجب إطلاق سراح الشخص المطلوب إذا لم يتم تسلمه في غضون خمسة وأربعين يوما اعتبارا من التاريخ المحدد لتسليمه. ويجوز فيما بعد للدولة المطلوب إليها أن ترفض\n\nالتسليم للأفعال ذاتها.\n\n5 إذا تعذر تسليم وتسلم الشخص الواجب تسليمه بسب ظروف قاهرة، تقوم الدولة المعنية بإبلاغ الدولة الأخرى بذلك وتتفق الدولتان على تحديد موعد جديد لإجراء تسليم وذلك مع مراعاة الأحكام المنصوص عليها في الفقرة الرابعة من هذه المادة.\n\n1- يجوز للدولة المطلوب إليها ان تؤجل تسليم الشخص المطلوب بعد موافقتها على تسليمه، في حال وجود دعاوى جارية في حقه أو في حال قضاء هذا الشخص عقوبة على أراضي الدولة المطلوب إليها، بسبب جريمة أخرى، وذلك حتى انتهاء الدعوى أو مدة 2- بدلا من تأجيل التسليم واذا اقتضت ذلك ظروف خاصة، يجوز للدولة المطلوب إليها ان تسلم الشخص المطلوب مؤقتا الى الدولة الطالبة، وذلك وفقا لشروط تحددها الدولتان وفي كافة الأحوال، شرط أن يبقى الشخص المعني قيد التوقيف وأن يعاد.\n\nصفحة 7 من 10",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "وإثباتا لما تقدم فقد وقع وختم الموقعان أدناه، ممثلا الحكومتين المخولان قانونيا،\n\nعلى هذه الاتفاقية.\n\nحررت في باريس في 2 مايو 2007 من نسختين باللغتين الفرنسية والعربية ولكل\n\nمن النصين ذات الحجية.\n\nعن حكومة الجمهورية الفرنسية باسكال كليمان وزير التضاء والعدل\n\nPascal CLÉMENT\n\nGarde des Sceaux\n\nMinistre de la Justice\n\nعن حكومة دولة الإمارات العربية المتحدة\n\nمعه\n\nيبره الظاهري\n\nMohammed Bin Nakhira\n\nAl Dhaheri\n\nMinistre de la Justice\n\nصفحة 10 من 10\n\n6- في حالة استخدام النقل الجوي وحدوث هبوط غير مجدول على اقليم أي من الدولتين، جاز لهذه الدولة ان تحتجز الشخص الذي يتم تسليمه لفترة 72 ساعة بانتظار وصول طلب النقل بالعبور الذي يجب ان يقدم وفقا لاحكام الفقرات 1 و 4 و5. واذا تبين أن الشخص من مواطني الدولة التي يتم النقل عبرها يتم رفض النقل بالعبور، ويجب على تلك الدولة في هذه الحالة، بعد ان تخطرها الدولة الطالبة بالافعال المرتكبة، أن تحيلها الى سلطاتها المختصة بغرض القيام بالدعوى الجنانية اذا استدعى الامر ذلك.\n\n7- تقع حراسة الشخص المعني على عاتق سلطات دولة العبور خلال تواجده على\n\nأراضيها\n\n8- تسدد الدولة الطالبة الى دولة العبور كافة النفقات الناجمة عن هذا الامر.\n\nالفصل العاشر النفقات المادة (20)\n\n1 - تقع النفقات الناجمة عن الإجراءات الداخلية الخاصة بكل تسليم على عاتق الدولة المطلوب إليها التسليم، ما عدا النفقات المتعلقة بنقل الشخص المطلوب والتي تقع\n\nعلى عاتق الدولة الطالبة.\n\n2 - إذا تبين أن تنفيذ الطلب يتطلب نفقات غير اعتيادية في طبيعتها، تتشاور الدولتان لتقرير الأحوال والشروط التي يمكن تنفيذ أو مواصلة الطلب بموجبها.\n\nالفصل الحادي عشر أحكام ختامية مادة (21)\n\nلا تؤثر أحكام هذه الاتفاقية على حقوق والتزامات الدولتين الناشئة عن اتفاقيات\n\nدولية أخرى يكونا طرفين فيها.\n\nالمادة (22)\n\n1- تقوم كل من الدولتين المتعاقدتين بإشعار الدولة الأخرى بانتهاء الإجراءات اللازمة لنفاذ هذه الاتفاقية وفقا لدستورها. يتم تبادل هذه الاشعارات بأسرع ما يمكن.\n\n2- تعتبر هذه الاتفاقية سارية المفعول في أول يوم من الشهر الثاني الذي يلي تاريخ\n\nتلقي الإشعار الأخير.\n\n3- يجوز لأي من الدولتين إنهاء هذه الاتفاقية في أي وقت عبر إشعار بالإنهاء يوجه إلى الدولة الأخرى عبر القنوات الدبلوماسية. يسري هذا الإنهاء بعد ستة اشهر من تاريخ\n\nاستلام هذا الإشعار.\n\nمفحة 9 من 10",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "A i n n a a a a\n\nhmi ia i.\n\nat m De i ane i a n a Eia an m ie ia Anum a i a a EE Torre a he a a. a",
+      "quality_score": 0.5569,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20182465_001_s1",
+      "title": "Convention",
+      "score": 0.780948,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240077_001_s1",
+      "title": "Convention",
+      "score": 0.766499,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_001_s1",
+      "title": "Accord",
+      "score": 0.684885,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172284_001",
+      "title": "Convention (ensemble 2 annexes)",
+      "score": 0.656475,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800223_001_s1",
+      "title": "Accord",
+      "score": 0.629707,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_001_s1",
+      "title": "Accord",
+      "score": 0.588884,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19820089_001_s1",
+      "title": "Convention",
+      "score": 0.444097,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192552_s1",
+      "title": "Convention",
+      "score": 0.439705,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.439381,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_001_s1",
+      "title": "Convention",
+      "score": 0.431445,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

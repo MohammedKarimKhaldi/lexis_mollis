@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19680033_006_s1",
+  "title": "Note accusant réception de l'approbation française et transmettant l'instrument maltais",
+  "year": 1968,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 0.9751,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "CRA 1399/66 MINISTRY OF COMMONWEALTH AND FOREIGN AFFAIRS The Old Chancellery, Palace Square, Valletta, MALTA. 400L3.5.62 ENREGISTREMENT 5.55 The Ministry of Commonwealth and Foreign Affairs presents its compliments to the Embassy of Prance and has the honour to acknowledge the receipt of Embassy's Note Verbale No. 252 of 16th April, 1968 and of a communication from the Government of France notifying the Government o…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19680033_006_s1.pdf",
+  "source_filename": "tra19680033_006_s1.pdf",
+  "source_sha256": "03da73fcfc6edb4321c2e6e3226182d92bab811ffd13dad45f3c57ed31fc15dc",
+  "treaty_id": "TRA19680033",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CRA 1399/66\n\nMINISTRY OF COMMONWEALTH\n\nAND FOREIGN AFFAIRS\n\nThe Old Chancellery,\n\nPalace Square,\n\nValletta, MALTA.\n\n400L3.5.62\n\nENREGISTREMENT 5.55\n\nThe Ministry of Commonwealth and Foreign\n\nAffairs presents its compliments to the Embassy of\n\nPrance and has the honour to acknowledge the receipt of Embassy's Note Verbale No. 252 of 16th April, 1968 and of a communication from the Government of France notifying the Government of Malta that the procedures required for the coming into force of the Cultural\n\nAgreement between Malta and France signed at Paris on 14th February, 1968, have been complied with.\n\nThe Ministry wishes to inform the ambassy\n\nthat the Government of Malta has also complied with the constitutional prescriptions in force in Malta for the conclusion and entering into force of international Agreements, and with reference to article\n\nXV of the aforesaid Agreement has the honour to attach hereto the relative instrument of ratification.\n\nThe Ministry of Commonwealth and Foreign\n\nAffairs avails itself of this opportunity to renew to the Embassy of France the assurances of its highest consideration.\n\n30 April, 1968\n\nMALTA\n\nEmbassy oi trance,\n\nTa' Xbiex.",
+      "quality_score": 0.9751,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19980026_007_s1",
+      "title": "Date de réception français de l'instrument maltais",
+      "score": 0.415517,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19570067_576_s1",
+      "title": "Note verbale de retrait de Maurice",
+      "score": 0.413501,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mlt001_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.412793,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840174_005_s1",
+      "title": "Instrument chypriote",
+      "score": 0.408479,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français : note verbale et lettre (avec, sur la note verbale, tampon arrivée le 4 février 1983 à l'ambassade de France)",
+      "score": 0.404375,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français",
+      "score": 0.403199,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800233_004_s1",
+      "title": "Instrument chypriote AVEC tampon arrivé le 30 oct 19980 de l'ambassade de France",
+      "score": 0.398085,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.39302,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.391782,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr008_s1",
+      "title": "Extension de l'adhésion aux Bahamas",
+      "score": 0.390632,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

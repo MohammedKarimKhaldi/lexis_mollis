@@ -1,0 +1,130 @@
+{
+  "document_id": "19720117_69_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9481,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Instiumento do Alhesión del Gobierno do la República do Nicaragua al Convenio suscrito en París el 22 de Noviembre do 1928 y el Protocolo que lo modifica de fecho 30 de Noviembre de 19\"2 relativo a Oposiciones Internacionales! Managua, 23 de Noviembro do 1982. INSIRUMENTO DE ADHESION Por medio del presente Instrumento el Gobierno de la República de Nicaragua Adhiere al Convenio suscrito en latis el 22 de noviembre d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_69_s1.pdf",
+  "source_filename": "19720117_69_s1.pdf",
+  "source_sha256": "a02ae53439e43551e6f08197cd84666cd8f9e426b05daf24660e7652b60a0204",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "NIC001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Instiumento do Alhesión del Gobierno do la República do Nicaragua al Convenio suscrito en París el 22 de Noviembre do 1928 y el Protocolo que lo modifica de fecho 30 de Noviembre de 19\"2 relativo a Oposiciones\n\nInternacionales!\n\nManagua, 23 de Noviembro do 1982.",
+      "quality_score": 0.9226,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "INSIRUMENTO DE ADHESION\n\nPor medio del presente Instrumento el Gobierno de la República de Nicaragua Adhiere al Convenio suscrito en latis el 22 de noviembre de 1928, y el Protocolo ..\n\nque lo modifica firmado igualmente en París el 30 de - noviembre de 1972 relativo a las Exposiciones Interna_ cionales y, es consecuencia formar parte del Bureau In ternational des Expositions (BIE).\n\nEn consecuencia, el Gobierno de Nicaragua aeuma - las obligaciones que se derivan del mencionado Conve-- nio y protocolo que lo modifica, y procede a su depósi to en el Ministerio de Relaciones Exteriores.\n\nDado en la ciudad de Managua a los veintitres -- días del mes de noviembre de mil novecientos ochenta y dos.\n\nчока songa linistro del Exteriór por la Ley.",
+      "quality_score": 0.9735,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_031_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.404166,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_88_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.39985,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_79_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.396971,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hnd001_s1",
+      "title": "Instrument d'adhésion du Honduras",
+      "score": 0.395226,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_020_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.393257,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_184_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.391453,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_147_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.391221,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_034_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.391136,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_208_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.390863,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_019_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.389396,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

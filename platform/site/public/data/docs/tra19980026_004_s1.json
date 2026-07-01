@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19980026_004_s1",
+  "title": "Instrument français",
+  "year": 1998,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9511,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Française se linistre des Attaires Btrangere: cans, le = ocu1530 Monsieur le Vice-Premier Ministre, Me référant à l'article 12 de l'Accord entre le Gouvernement de la République française et le Gouvernement de la République de Malte relatif à la coopération en matière d'affaires intérieures, signé a Paris le 9 mars 1998, J'ai l'honneur de vous faire savoir que les procédures requises par la Constitution d…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19980026_004_s1.pdf",
+  "source_filename": "tra19980026_004_s1.pdf",
+  "source_sha256": "65108db5d7deef02818201d7f5f162643d6a53ff26dbb36077c6dcbd354bebff",
+  "treaty_id": "TRA19980026",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Française\n\nse linistre des Attaires Btrangere:\n\ncans, le = ocu1530\n\nMonsieur le Vice-Premier Ministre,\n\nMe référant à l'article 12 de l'Accord entre le Gouvernement de la\n\nRépublique française et le Gouvernement de la République de Malte relatif à la coopération en matière d'affaires intérieures, signé a Paris le 9 mars 1998,\n\nJ'ai l'honneur de vous faire savoir que les procédures requises par la\n\nConstitution de la République pour la mise en vigueur dudit Accord ont été accomplies\n\nLa présente lettre constitue (Instrument d'Approbation prévu par la disposition précitée.\n\nJe vous serais reconnaissant de bien vouloir m'informer de la date a laquelle celle-ci vous sera parvenue./.\n\nJe vous prie d'agréer, Monsieur le Vice-Premier Ministre, l'expression de ma haute considération.\n\nPOUR COPIE CERTIFIEE CONFORME A L'ORIGINAL,\n\nFAIT A PARIS, LE 2 jUin\n\n11998\n\nA Son Excellence\n\nMonsieur George VELLA\n\nMinistre des Affaires Etrangères et de l'Environnement\n\nLA VALETTE\n\nHubert VEDRINE",
+      "quality_score": 0.9511,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990090_004_s1",
+      "title": "Instrument français",
+      "score": 0.756625,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940256_004",
+      "title": "Instrument d'approbation français",
+      "score": 0.713379,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19970011_004_s1",
+      "title": "Instrument français",
+      "score": 0.67903,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_004",
+      "title": "Instrument de ratification",
+      "score": 0.646154,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830185_fra001_s1",
+      "title": "Lettre constituant instrument d'approbation",
+      "score": 0.637871,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.62217,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760087_004_s1",
+      "title": "Instrument français",
+      "score": 0.608204,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.602663,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.434271,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.427207,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

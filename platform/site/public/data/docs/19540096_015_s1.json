@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_015_s1",
+  "title": "Pouvoirs argentin",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9794,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "JUAN PERON PRESIDENTE DE LA NACION ARGENTINA ACREDITA a S.E. el señor Embajador Extraordinario y Pleni potenciario de la República en Francia, Don OSCAR ONETO ASTENGO, para que, en nombre del Gobierno argentino, firme ad-referendum la Convención sobre el Instituto Internacional del Frío aprobada por el Comité Ejecutivo de dicho Instituto el 16 de oct y bre de 1952. La presente plenipotencia será refrendada por el se…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_015_s1.pdf",
+  "source_filename": "19540096_015_s1.pdf",
+  "source_sha256": "37013d39b2876f7dc28670496fdf7b3b11671dff06a4502a86d1a4451cc57d17",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "ARG001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JUAN\n\nPERON\n\nPRESIDENTE DE LA NACION ARGENTINA\n\nACREDITA a S.E. el señor Embajador Extraordinario y Pleni\n\npotenciario de la República en Francia, Don OSCAR ONETO ASTENGO, para que,\n\nen\n\nnombre del Gobierno argentino, firme ad-referendum la Convención sobre el Instituto\n\nInternacional del Frío aprobada por el Comité Ejecutivo de dicho Instituto el 16 de oct y bre de 1952.\n\nLa presente plenipotencia será refrendada por el señor Mini g\n\ntro Secretario de Estado en el Departamento de Relaciones Exteriores y Culto, Do n\n\nJERONIMO REMORINO.\n\nDada en la ciudad de Buenos Aires, Capital Federal de la Repú -\n\nblica Argentina, a los /6 días del mes de Mayo de /955.\n\npodermi",
+      "quality_score": 0.9794,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_055_s1",
+      "title": "Pouvoirs argentins pour le dépôt de l'instrument d'adhésion",
+      "score": 0.411975,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.392639,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.391751,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_056_s1",
+      "title": "Instrument d'adhésion argentin",
+      "score": 0.380285,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_13_s1",
+      "title": "Instrument de ratification de l'Argentine",
+      "score": 0.372891,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_73_s1",
+      "title": "Pouvoirs de dépôt d'instrument d'adhésion",
+      "score": 0.368466,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.36584,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19650048_003_s1",
+      "title": "Pouvoirs espagnols",
+      "score": 0.365625,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_295a_s1",
+      "title": "Pouvoirs espagnols en vue d'accomplir les formalités d'adhésion",
+      "score": 0.364552,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_47_s1",
+      "title": "Pouvoirs de vote et de signature du Portugal",
+      "score": 0.362266,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

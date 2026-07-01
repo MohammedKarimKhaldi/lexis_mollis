@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560090_439a",
+  "title": "Échange de notes entre l'Ambassade d'Italie en France et le Ministère français des Affaires étrangères relatif à la date d'entrée en vigueur de l'accord: lettre italienne",
+  "year": 1956,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9552,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "•Ambasciata d'Itulia PRIÈRE DE RAPPELER NE N- DERÉFÉRENCE ET LA DATE 05074 L'Ambassado d'Italie présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui communiquer co qui suit au sujet de la date d'entrée en vigueur du Traité signé a Luxembourg lo 27 octobre 1956, qui modifie le Traité instituant 1a Communauté Européenne du Charbon et de l'Acier. Se référant à la proposition du Gouverneme…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_439a.pdf",
+  "source_filename": "tra19560090_439a.pdf",
+  "source_sha256": "44b165d1cf9f3c2a086f5d8f7f2a4427a7d2ff2eb4e6dc553802a27569bebb7b",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "ITA005a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "•Ambasciata d'Itulia\n\nPRIÈRE DE RAPPELER NE N-\n\nDERÉFÉRENCE ET LA DATE\n\n05074\n\nL'Ambassado d'Italie présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui communiquer co qui suit au sujet de la date d'entrée en vigueur du Traité signé a\n\nLuxembourg lo 27 octobre 1956, qui modifie le Traité instituant 1a\n\nCommunauté Européenne du Charbon et de l'Acier.\n\nSe référant à la proposition du Gouvernement belge en date du 31 décembre 1958, 1'Ambassade d'Italie fait savoir au Couvernement francais - dépositaire du Traité - que le Gouvernement Italien est d'accord afin que la date d'entrée en vigueur du Traité soit fixéo, en conformité de l'art. 4, 2ème alinéa, au 9 octobre 1958, jour du dépôt du dernier instrument de ratification.\n\nL'Ambassade d'Italie saisit l'occasion pour renouveler au\n\nMinistère des Affaires Etrangères les assurances de sa haute considération. b\n\nParis, le 21 mars 1959\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nPARIS",
+      "quality_score": 0.9552,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560090_439b",
+      "title": "Échange de notes entre l'Ambassade d'Italie en France et le ministère français des Affaires étrangères relatif à la date d'entrée en vigueur de l'accord: lettre française",
+      "score": 0.421604,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.413415,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.405114,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_025_s1",
+      "title": "Note verbale de dénonciation de la Belgique",
+      "score": 0.401086,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.392616,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_61_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.391728,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_28_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Finlande",
+      "score": 0.391427,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_164_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.39064,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_006_s1",
+      "title": "Note accusant réception de l'approbation française et transmettant l'instrument maltais",
+      "score": 0.390207,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_38_s1",
+      "title": "Note verbale de transmission de l'instrument d'adhésion de la Nouvelle-Zélande",
+      "score": 0.389495,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -59,5 +59,34 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_25_s1",
+      "title": "Note verbale d'adhésion de la Finlande",
+      "score": 0.356451,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19450094_100_s1",
+      "title": "Recueil de correspondance échangée entre la France et l'URSS au sujet de l'application de l'Accord franco-soviétique du 27 juin 1945",
+      "score": 0.356061,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19770075_004",
+      "title": "Instrument de ratification français",
+      "score": 0.351332,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_004_s1",
+      "title": "Instrument français",
+      "score": 0.350269,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

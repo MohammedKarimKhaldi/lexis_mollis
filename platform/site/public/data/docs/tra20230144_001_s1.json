@@ -1,0 +1,207 @@
+{
+  "document_id": "tra20230144_001_s1",
+  "title": "Amendement",
+  "year": 2024,
+  "doc_type": "Autre",
+  "languages": [
+    "ca",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.77,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "AMENDEMENT À L'ACCORD ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE ET LE CONSEIL FÉDÉRAL SUISSE RELATIF À L'ÉTABLISSEMENT D'UNE ZONE TRANSFRONTALIERE D'ENTRAÎNEMENT ENTRE LA FRANCE ET LA SUISSE Le Gouvernement de la République française et le Conseil fédéral suisse, ci-après conjointement dénommés « les Parties », Considérant l'accord entre le Gouvernement de la République française et le Conseil fédéral suisse…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20230144_001_s1.pdf",
+  "source_filename": "tra20230144_001_s1.pdf",
+  "source_sha256": "24a5995b850e3742395b86b90b8dd7757edbb4dde7ccfa56c5b4f9002c28becc",
+  "treaty_id": "TRA20240144",
+  "treaty_number": "",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMENDEMENT\n\nÀ\n\nL'ACCORD\n\nENTRE\n\nLE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE\n\nET\n\nLE CONSEIL FÉDÉRAL SUISSE\n\nRELATIF À L'ÉTABLISSEMENT D'UNE\n\nZONE TRANSFRONTALIERE\n\nD'ENTRAÎNEMENT ENTRE LA FRANCE\n\nET LA SUISSE",
+      "quality_score": 0.9632,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "quality_score": 0.0,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "native_pymupdf",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Le Gouvernement de la République française et le Conseil fédéral suisse, ci-après conjointement dénommés « les Parties »,\n\nConsidérant l'accord entre le Gouvernement de la République française et le Conseil fédéral suisse relatif à l'établissement d'une zone transfrontalière d'entraînement entre la France et la\n\nSuisse, signé à Payerne le 25 février 2015, ci-après désigné « l'Accord »,\n\nDésireux d'amender l'annexe de l'Accord afin de modifier les caractéristiques de la zone transfrontalière « EU Cross-border Area 25 » (EUC25),\n\nSont convenus de ce qui suit :\n\nARTICLE 1 - Modification de l'Annexe\n\nL'annexe de l'Accord est remplacée par ce qui suit :\n\n2",
+      "quality_score": 0.9976,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "Annexe\n\nCaractéristiques de la zone transfrontalière EUC25\n\nL'EUC25 est constituée de l'ensemble des partitions dont les dimensions latérales et verticales sont référencées ci-après :\n\nEUC25FW\n\n47°19'23\"N,005°11'46\"E - 47º05'00\"N,005°36'30\"E - 47°28'10\"N,005°36'30\"E - FL195 47°39'36\" N,006°00'13\"E - 47º44'30\"N,005°36'30\"E - 47°42'56\"N,005°14'59\"E - 47°19'23\"N,005°11'46\"E\n\n----- FL 065\n\nEUC25FC\n\n47°05'00\"N,005°36'30\"E - 46°58'24\"N,005°47'29\"E - 46°58'02\"N,006°10'52\"E - FL 195\n\n47°20'00\"N,006°36'12\"E - 47°32'00\"N,006°20'00\"E - 47°35'00\"N,006°20'41\"E\n\n47°36'40\" N,006°14'49\"E - 47°39'36\"N,006°00'13\"E - 47°28'10\"N,005°36'30\"E\n\n一 ------ FL 115\n\n47°05'00\" N,005°36'30\"E\n\n46°58'02\" N,006°10'52\"E - 46°57'37\"N,006°28'33\"E\n\n- Frontière franco-suisse\n\n47º17'32\"N,006°57'53\"E - 47°20'00\"N,006°36'12\"E\n\n- 46°58'02\"N,006°10'52\"E\n\nEUC25SL\n\n47°17'32\"N,006°57'53\"E - 47°10'20\"N,007°08'55\"E - 46°50'49\"N,006°33'24\"E -\n\n46°54'10\"N,006°31'01\"E - 46°58'19\"N,006°31'26\"E - Frontière\n\nfranco-suisse\n\n47°17'32\"N,006°57'53\"E\n\nFL 195\n\nFL 115\n\nFL 230\n\nFL 100\n\n46°58'19\"N,006°31'26\"E - 46°54'10\"N,006°31'01\"E - 46°57'37\"N,006°28'33\"E - FL180\n\nFrontière franco-suisse - 46°58'19\"N,006°31'26\"E\n\nEUC25SH\n\n47°17'32\"N,006°57'53\"E - 47º10'20\"N,007°08'55\"E - 46°50'49\"N,006°33'24\"E 46°54'10\"N,006°31'01\"E - 46°58'19\"N,006°31'26\"E - Frontière\n\nfranco-suisse\n\n47°17'32\" N,006°57'53\"E\n\nEUC25SLP\n\n---- FL100\n\nFL 660\n\nFL 250\n\nFL 230\n\n46°50'49\"N,006°33'24\"E - 46°49'12\"N,006°34'32\"E - 46º46'24\"N,006°43'53\"E - 47°04'50\" N,007°17'17\"E - 47°10'20\"N,007°08'55\"E - 46°50'49\"N,006°33'24\"E\n\nFL 100\n\n3",
+      "quality_score": 0.8528,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "Représentation graphique :\n\nLes représentations graphiques ci-dessous ne sont présentées qu’à titre d'illustration et mwengagent pas les Parties.\n\nCoupe horizontale:\n\nEUC25 - Lateral Limits :\n\nShar pridig v AIMI Coarsaig GND tor La skyguide\n\nLUXEUIL TMA 2",
+      "quality_score": 0.8974,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "Coupe verticale :\n\nAIRSPACE STRUCTURE EUC25",
+      "quality_score": 0.9426,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "ARTICLE 2 - Entrée en vigueur\n\nLe présent amendement entre en vigueur à la date de sa dernière signature.\n\nEn foi de quoi, les représentants des deux gouvernements, dûment autorisés à cet effet, ont signé le présent Amendement.\n\nLe présent amendement est établi en deux exemplaires originaux rédigés en langue française.\n\nFait à Paris, le 17 JUIL. 2023\n\nFait à Berne, le 14. 08.2023\n\nPour le Gouvernement de la République française\n\nPour le Conseil fédéral Suisse\n\nGénéral de brigade aérienne Laurent THIEBAUT\n\nDirecteur de la circulation aérienne militaire\n\nDivisionnaire Peter MERZ\n\nCommandant des forces aériennes suisses",
+      "quality_score": 0.9957,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "i\n\n|",
+      "quality_score": 0.5104,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "high_noise"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20240018_001_s1",
+      "title": "Relevé de décisions",
+      "score": 0.824605,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240027_001_s1",
+      "title": "Plan d'action",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20202705_001_s1",
+      "title": "Accord",
+      "score": 0.425976,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19230002_004_s1",
+      "title": "Protocole des conclusions de la commission de délimitation des zones démilitarisées des détroits",
+      "score": 0.414204,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20213015_001_s1",
+      "title": "Accord",
+      "score": 0.408739,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_001_s1",
+      "title": "Accord",
+      "score": 0.400133,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20240064_001_s1",
+      "title": "Accord",
+      "score": 0.394674,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18580012_015_s1",
+      "title": "Traité et règlements commerciaux",
+      "score": 0.394058,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19440011_s1",
+      "title": "Accord",
+      "score": 0.393398,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20182644_001_s1",
+      "title": "Accord",
+      "score": 0.387248,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

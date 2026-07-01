@@ -1,0 +1,116 @@
+{
+  "document_id": "19510004_61_s1",
+  "title": "Instrument d'adhésion de la Pologne",
+  "year": 1951,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9864,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Au Nom de la République Populaire de Pologne Ie Conseil d'Etat de la République Populaire de Pologne à tous ceux qui ces Présentes Lettres verront fait savoir ce qui suit: Une Convention pour l'établissement de l'Organisation Européenne et léditérranéenne pour la Protection des Plantes, a été signée à Paris le 18 avril 1951 et amendée par le Conseil le 27 avril 1955. Après avoir vu et examiné ladite Convention le Co…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_61_s1.pdf",
+  "source_filename": "19510004_61_s1.pdf",
+  "source_sha256": "9ddf8aba5febf57fb16d8870b009db52f232e677322ef516121e9b5335008687",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "POL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Au Nom de la République Populaire de Pologne\n\nIe Conseil d'Etat de la République Populaire de Pologne à tous ceux qui ces Présentes Lettres verront fait savoir ce qui suit:\n\nUne Convention pour l'établissement de l'Organisation Européenne et léditérranéenne pour la\n\nProtection des Plantes, a été signée à Paris le 18 avril 1951 et amendée par le Conseil le 27 avril 1955.\n\nAprès avoir vu et examiné ladite Convention le Conseil d'Etat l'a approuvée et approuve en toutes et chacune des dispositions qui y sont contenues;\n\ndéclare que la Convention susmentionnée est acceptée, ratifiée et confirmée et promet qu'elle sera inviola- blement observée.\n\nEn Foi de Quoi les Présentes Lettres ont été délivrées, revêtues du Sceau de la République Populaire de Pologne.\n\nDonné à Varsovie, le 5 mai 1958.\n\nLaxi\n\nque 55h mbre 1958 ans Huis (Note des\n\nept 4-8",
+      "quality_score": 0.9864,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_46_s1",
+      "title": "Instrument de ratification de la Pologne",
+      "score": 0.668135,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_170_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.444692,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.376599,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_005_s1",
+      "title": "Instrument togolais",
+      "score": 0.37438,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_976_s1",
+      "title": "Instrument d'adhésion de la Yougoslavie",
+      "score": 0.373011,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_39_s1",
+      "title": "Note verbale d'adhésion du Liban",
+      "score": 0.371803,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_31_s1",
+      "title": "Instrument d'adhésion de la Hongrie",
+      "score": 0.367992,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_46_s1",
+      "title": "accusé de réception de la note verbale d'adhésion polonaise",
+      "score": 0.367184,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_37_s1",
+      "title": "Instrument de ratification de l'Irlande",
+      "score": 0.362888,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_082_s1",
+      "title": "Pouvoirs de signature de la Pologne",
+      "score": 0.360308,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

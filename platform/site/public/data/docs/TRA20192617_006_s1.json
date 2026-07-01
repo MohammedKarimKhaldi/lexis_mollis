@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20192617_006_s1",
+  "title": "Note informant de l'accomplissement des procédures et de l'entrée en vigueur",
+  "year": 2018,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassade de ni Accra COURIER A L'ARRIVEE EB：.23/06/28 +0 202-0161796 SCR.PO/FR VOL 14 FREEDOM JUSTICE REPUBLIC OF GHANA MINISTRY OF FOREIGN AFFAIRS AND DIGITAL ADD.-GA-057-0036 REGIONAL INTEGRATION The Ministry of Foreign Affairs and Regional Integration of the Republic of Ghana presents its compliments to the Embassy of the Republic of France in Accra and with reference to the Embassy's Note no. Accra/SCAC/2020-01…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20192617_006_s1.pdf",
+  "source_filename": "TRA20192617_006_s1.pdf",
+  "source_sha256": "9c5003a3e026d32caed1951e808604887503ce145bd3604c3d93cb66d954e686",
+  "treaty_id": "TRA20182555",
+  "treaty_number": "006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassade de\n\nni Accra\n\nCOURIER A\n\nL'ARRIVEE\n\nEB：.23/06/28\n\n+0 202-0161796\n\nSCR.PO/FR VOL 14\n\nFREEDOM\n\nJUSTICE\n\nREPUBLIC OF GHANA\n\nMINISTRY OF FOREIGN AFFAIRS AND DIGITAL ADD.-GA-057-0036\n\nREGIONAL INTEGRATION\n\nThe Ministry of Foreign Affairs and Regional Integration of the Republic of Ghana presents its compliments to the Embassy of the Republic of France in Accra and with reference to the Embassy's Note no. Accra/SCAC/2020-0161796 dated 23rd March, 2020, this Ministry wishes to inform that pursuant to article 7.1, the \"Agreement on the Promotion of Volunteering and Exchanges of Volunteers and Language Assistants\" is deemed to have come into force.\n\nThe Ministry of Foreign Affairs and Regional Integration of the Republic of Ghana\n\navails itself of this opportunity to renew to the Embassy of France in Accra the assurances of its highest consideration\n\nACCRA, 18TH MAY, 2020\n\nTHE EMBASSY OF FRANCE\n\nACCRA",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20212860_007_s1",
+      "title": "Accusé de réception sud-africain de l'instrument français le 5 août 2021.",
+      "score": 0.427553,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_286_s1",
+      "title": "Notification d'adhésion de l'Équateur à la Convention du Mètre",
+      "score": 0.391385,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.391226,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_576_s1",
+      "title": "Note verbale de retrait de Maurice",
+      "score": 0.390748,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.38802,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.385635,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français : note verbale et lettre (avec, sur la note verbale, tampon arrivée le 4 février 1983 à l'ambassade de France)",
+      "score": 0.382887,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_irq001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.381276,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "notification_denonciation_bie_guatemala_s1",
+      "title": "Dénonciation de la convention sur les expositions internationales",
+      "score": 0.381091,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.381062,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

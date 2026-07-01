@@ -1,0 +1,128 @@
+{
+  "document_id": "19200016_447_s1",
+  "title": "Procès-verbal de dépôt de l'instrument japonais",
+  "year": 1920,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9569,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCÈS-VERBAL DE DÉPÔT DES RATIFICATIONS PAR LE JAPON SUN LE TRAITÉ DE PATX SIGNÉ À TRIANON LE 4 JUIN 1920, la Romanie, l'État Serte-Croate-Slovine, le Siam et l'État Ichéco-S/c- à Trianon du même jour. En exécution des clauses finales du Traité de Paix signé à Trianon, \"le biuin 1020, L'AMBASSADEUR DU JAPON À Pants s'est présenté aujour d'hui au Ministère des Alfaires Etrangères, à Paris, pour procéder au dépôt des…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200016_447_s1.pdf",
+  "source_filename": "19200016_447_s1.pdf",
+  "source_sha256": "c32555b3919df12fc64a4e3fb6e6fefa1597e8110d284651ad994b004ff45e9b",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "JPN003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCÈS-VERBAL\n\nDE DÉPÔT DES RATIFICATIONS PAR LE JAPON\n\nSUN LE TRAITÉ DE PATX\n\nSIGNÉ À TRIANON LE 4 JUIN 1920,\n\nla Romanie, l'État Serte-Croate-Slovine, le Siam et l'État Ichéco-S/c- à Trianon du même jour.\n\nEn exécution des clauses finales du Traité de Paix signé à Trianon, \"le biuin 1020, L'AMBASSADEUR DU JAPON À Pants s'est présenté aujour d'hui au Ministère des Alfaires Etrangères, à Paris, pour procéder au dépôt des ratifications de Sa Majesté l'Empereur du Japon, sur ledit\n\nTraité le Protocole et la Déclaration, el les remettre au Gouvernemen de la hépublique Française.\n\nL'Ambassadeur du Japon à Paris ayant iuformé le Gouvernement , français, conformément aux dites clauses finales, par note en date du\n\nMg inillet roat oue Sa Maiesté l'Empereur du Japon avait ratifié les\n\nActes susdits, a participé au premier dépôt des ratifications le 26 juillet\n\nL'instrument des ratifications a élé produit et ayant élé, après exa- men, trouvé en bonne et due forme, a élé confié au Gouvernement de la République Française pour rester déposé dans ses archives.",
+      "quality_score": 0.9538,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "\" — 9 —\n\n' sy\n\nConformément aux dispositions des clauses finales précitées, le Gou- vernement français donnera avis de ce dépôt aux Puissances contrac- tantes.\n\nEN FOI DE QUOI, les soussignés out dressé le présent procès-verbal et y ontapposé leurs cachets.\n\nFAIT à Paris, le trente et ün octobre 1921, à onze heures.",
+      "quality_score": 0.96,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_716_s1",
+      "title": "Procès-verbal de dépôt des ratifications sur le traité de paix, le protocole et la déclaration du 10 sept 1919",
+      "score": 0.891721,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.861725,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_797_s1",
+      "title": "Procès verbal de dépôt de l'instrument du Royaume des Serbes, Croates, Slovènes",
+      "score": 0.821455,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200070_798_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification serbe-croate-slovène",
+      "score": 0.806771,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_631_s1",
+      "title": "Procès-verbal du dépôt de ratification du traité de paix du 10 septembre 1919",
+      "score": 0.800795,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_446_s1",
+      "title": "Procès-verbal du dépôt de ratifications du traité, protocole et déclaration du 10 septembre 1919, actes auxquels ont accédé l'État Serbe-Croate-Slovène et la Roumanie par déclarations des 5 et 9 décembre 1919",
+      "score": 0.794158,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_251_s1",
+      "title": "Procès-verbal du dépôt de ratifications sur le traité de paix, le protocole et la déclaration du 10 sept 1919,  actes auxquels ont accédé l'État Serbe-Croate-Slovène et la Roumanie par déclarations des 5 et 9 déc 1919",
+      "score": 0.792477,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_02_s1",
+      "title": "Procès verbal de dépôt de ratifications sur la convention",
+      "score": 0.745168,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_448_s1",
+      "title": "Procès verbal de dépôt de l'instrument japonais",
+      "score": 0.733167,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_712_s1",
+      "title": "Procès-verbal de dépôt des ratifications sur le traité de paix, le protocole et la déclaration du 10 sept 1919",
+      "score": 0.723453,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

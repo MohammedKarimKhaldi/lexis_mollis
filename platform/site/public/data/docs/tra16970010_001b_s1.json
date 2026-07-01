@@ -1,0 +1,149 @@
+{
+  "document_id": "tra16970010_001b_s1",
+  "title": "Article séparé",
+  "year": 1697,
+  "doc_type": "Autre",
+  "languages": [
+    "fr",
+    "nl"
+  ],
+  "quality_score": 0.8079,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Ministere das Affaires btrangdras - Direction des Archivas - Conservation des Trailés Multilatéraux 16970010 PROVINCES-UNIES Traité de paix.- Ryswick, 20 septembre 1697. • Article séparé.- Ryswick, 20 septembre 1697. Original en français.- Feuillet papier.- 6 cachets de cire rouge. .Ca franc en la bolende, لأمو les 20 boepotembre ) Stricte Separe terme a l'Imperer Ouze ce qui a cité calm et arreste har le eraixé de…",
+  "tags": [
+    "century:c17",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra16970010_001b_s1.pdf",
+  "source_filename": "tra16970010_001b_s1.pdf",
+  "source_sha256": "6bb8ce36e1111ae8a0656ffd8aae2d895832a3f7adbd4405913ddbb2e1ebec9b",
+  "treaty_id": "TRA16970010",
+  "treaty_number": "001B",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ministere das Affaires btrangdras - Direction des Archivas - Conservation des Trailés\n\nMultilatéraux\n\n16970010\n\nPROVINCES-UNIES\n\nTraité de paix.- Ryswick, 20 septembre 1697.\n\n• Article séparé.- Ryswick, 20 septembre 1697.\n\nOriginal en français.- Feuillet papier.- 6 cachets de cire rouge.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": ".Ca franc en la bolende, لأمو les 20 boepotembre )\n\nStricte Separe\n\nterme a l'Imperer Ouze ce qui a cité calm et arreste\n\nhar le eraixé de paix fais enere ter eAmbassaa\n\ndinaires en plénipotentiairer du no\n\nChrestien er ceux derdi Feignera Esarx Fene, pan des passincer Unies ce pourd tus vingtjeoma\n\nSeprembre 1694. Macéenora convens parce\n\nJurdir trainé, que Je MajerreaTres Chretenne, accordera, comme Plo-accorde han cè present Article.\n\n: l'Empereur cia l'Engira jugé za premier da.\n\nNovembra mochain, prur accepter les conditions de paix troposées en dernier leeu paratadik a Majesté\n\nImperiale. en l'Empire s'en peuvent autremene convenir arceatadine a Majerté a Fres Chrckienne:\n\nhiro n'accepte port cadites condétions au n'encore, vennent, hasautement arce Jad: Majchiatres- Chretienne, ledis traisé de paix sortira don Mlern erentieredfer, es tera executé trivant le forme ce t rear ton prion contrevenir par lentis tigers tiars Generaux, tous que que fretorre que ce purestes , etre, directement ou indiceremont.\n\nhouvrirseshecris, avons cadies noma digné ect\n\nArticle repare de nos eleingrordinaires et p evens set attra les cachers de nos armer à",
+      "quality_score": 0.7897,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Rijstroick en Pollande ee vingt\n\nngr dex tept\n\nAitof omerul\n\n„ munteres\n\nASIATaREn\n\n↑・\n\n.！^\n\n• I fr in\n\ny'=.\n\n٢٣ ٠٣١٠٦ 7 ..\n\n41....\n\n٠ ٢٠١١٠ :١ ٦٥٠٠ ٠٠٦ me', ..\n\n»A..\" \"\n\n.t.in..\n\n\\\n\n١٠٠١١٢w٩٥٥\n\n• 1- ......\n\n...ii\"i a",
+      "quality_score": 0.634,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra16970001_001b_s1",
+      "title": "Article séparé",
+      "score": 0.701372,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001c_s1",
+      "title": "Déclaration rectificative de l'article 7",
+      "score": 0.666479,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001b_s1",
+      "title": "Article séparé",
+      "score": 0.643535,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001a_s1",
+      "title": "Traité",
+      "score": 0.463521,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001e_s1",
+      "title": "Acte extrait du protocole de médiation relatif aux titres des plénipotentiaires britanniques",
+      "score": 0.460008,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970010_001a_s1",
+      "title": "Traité",
+      "score": 0.459832,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970010_005a_s1",
+      "title": "Lettres patentes portant ratification du traité",
+      "score": 0.455648,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001f_s1",
+      "title": "Déclaration relative à l'application de la cessation des hostilités sur mer",
+      "score": 0.453715,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970009_001d_s1",
+      "title": "Acte extrait du protocole de médiation relatif à la pension de Marie d'Este",
+      "score": 0.451066,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra16970001_001a_s1",
+      "title": "Traité",
+      "score": 0.449132,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

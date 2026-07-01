@@ -1,0 +1,116 @@
+{
+  "document_id": "19510075_065_s1",
+  "title": "Pouvoirs australiens",
+  "year": 1951,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Communalty of Australia. WHEREAS the Governmenta of the United Kingdom of Great Britain and Northern Ireland, Canada, Australia, Nev Zealand, the Union of south Africa, India and Paklatan on the one hand and the Government of the Republie of France on the other hand, desire to conclude a far Graves Agreement; HOW THEREFORE THESE PRESENTS ARE TO CERTIFY thet FRANK KEITH OFFICER, One of His Majesty's Knights-Bachelos,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510075_065_s1.pdf",
+  "source_filename": "19510075_065_s1.pdf",
+  "source_sha256": "00ef815fa5f72e986c231aac26b8edb134d528ee754655180ad594c5e23bf718",
+  "treaty_id": "TRA19510075",
+  "treaty_number": "AUS001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Communalty of Australia.\n\nWHEREAS the Governmenta of the United Kingdom\n\nof\n\nGreat Britain and Northern Ireland, Canada, Australia, Nev\n\nZealand, the Union of south Africa, India and Paklatan on the one hand and the Government of the Republie of France on the other hand, desire to conclude a far Graves Agreement;\n\nHOW THEREFORE THESE PRESENTS ARE TO CERTIFY thet\n\nFRANK KEITH OFFICER, One of His Majesty's Knights-Bachelos,\n\nOfficer of the Most Excellent Order of the British Empire, upon whom has been conferred the decoration of the Military\n\nCross, has been duly named, constituted and appointed by the\n\nGovernment of the Commonnealth of Australla to act as Its\n\nPlenipotentiary and Representative, having full power and authority to gign the said Agreement on Its behalf.\n\nIN WITNESS WHEREOR I, RICHARD GARDINER CASEY,\n\nMinister of State for External Affairs of the Commonwealth of Australla have hereunder set my hand and seal.\n\nDons at canberra this twenty. enghed day of\n\nSeptember, one thousand nine hundred and fifty-one.\n\n7\n\nMinister of State for External Affalro,",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.432733,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_018_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.428712,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.426989,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr006_s1",
+      "title": "Adhésion à la convention des dépendances territoriales d'Outre-mer : colonie d'Aden, Barbade, Guyana, Honduras, Brunei, Malouines, Fidji, Gambie, Gibraltar, Côte-de-l'Or britannique (Ghana), Hong Kong, Îles-sous-le-Vent britanniques (Antigua-et-Barbuda, Montserrat, Saint-Christophe-et-Niévès, Anguilla), Malaisie, Malte, Maurice, Nigéria, Bornéo du Nord, Rhodésie du Nord (Zimbabwe), Nyasaland (Malawi), Sarawak, Sainte-Hélène, Séchelles, Sierra Leone, Singapour, Somaliland, Tanganyika, Trinidad-et-Tobago, Ouganda, Territoires britanniques du Pacifique occidental (ïles Pitcairn, Îles Cook, Niue, Nauru, Tokelau, Tonga, Tuvalu, Kiribati, Îles Salomon), Îles-du-Vent britanniques (Grenade, Sainte-Lucie, Saint-Vincent-et-les-Grenadines, Dominique)",
+      "score": 0.405308,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_017_s1",
+      "title": "Pouvoirs de signature de l'Australie",
+      "score": 0.403056,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19040040_002_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.40218,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900276_003",
+      "title": "Pouvoirs australiens",
+      "score": 0.400291,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_10_s1",
+      "title": "Pouvoirs (Londres, 01/01/1919 et 14/10/1919)",
+      "score": 0.398882,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_51_s1",
+      "title": "Pouvoirs de négociation et de signature du Royaume-Uni",
+      "score": 0.397188,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_75_s1",
+      "title": "Pouvoirs délivés à Alfred Viscount Milner",
+      "score": 0.392139,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

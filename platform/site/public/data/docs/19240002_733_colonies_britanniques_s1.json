@@ -1,0 +1,116 @@
+{
+  "document_id": "19240002_733_colonies_britanniques_s1",
+  "title": "Note de l'ambassade britannique relative à l'adhésion à l'accord des territoires sous domination britannique : Chypre, Malte, Côte de l'Or, Somalie britannique, Palestine, Maurice, Etats malais fédérés, Trinidad, Malouines",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassado de Grande Bretagna on France -'=- His Majeaty's Embassy presents ita com- pliments to the Ministan of Foreign Affairs, and has the honour, under instructions from His Majes ty's Principal Secretary of State for Foreign Affairs, to inform them, in accordance with Articlo 6 of the International Agroement for the Creation in Paria f an International Veterinary Bureau sim gned at Paris on January 25 the 1924,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240002_733_colonies_britanniques_s1.pdf",
+  "source_filename": "19240002_733_colonies_britanniques_s1.pdf",
+  "source_sha256": "fabf844c6c79efe60974f4d0c9885a2428a8eb7317f8a32bf4bc3f10cfd73370",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "GBR004a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassado de Grande Bretagna on France\n\n-'=-\n\nHis Majeaty's Embassy presents ita com-\n\npliments to the Ministan of Foreign Affairs, and has the honour, under instructions from His Majes ty's Principal Secretary of State for Foreign Affairs, to inform them, in accordance with Articlo 6 of the International Agroement\n\nfor the Creation\n\nin Paria f an International Veterinary Bureau sim gned at Paris on January 25 the 1924, that the co- Tarmants of Cyprus, waita, the cold coast, Britiet.\n\nSomaliland, palestine, Mauritius, the Federatad walay States, Irinidad and the Elkland iolands de sim re to accede to the above - mentioned International Agreement.\n\nAll these Goternmenta desire to be pla-\n\need in the 6th category under article 11 of the\n\nStatues annexed, to the Agreement.\n\nHis Majeety' a Embasey mould be gratoful if the ministry of Foreign Affairs would be so good as to notify the other governments signatory to tho Agreement of the desire of accesgion exuradsod by the above-mentioned Governments, in a0005dance with Article 6 of the Agreement\n\nParis July 13 th 1927",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_gbr006_s1",
+      "title": "Adhésion à la convention des dépendances territoriales d'Outre-mer : colonie d'Aden, Barbade, Guyana, Honduras, Brunei, Malouines, Fidji, Gambie, Gibraltar, Côte-de-l'Or britannique (Ghana), Hong Kong, Îles-sous-le-Vent britanniques (Antigua-et-Barbuda, Montserrat, Saint-Christophe-et-Niévès, Anguilla), Malaisie, Malte, Maurice, Nigéria, Bornéo du Nord, Rhodésie du Nord (Zimbabwe), Nyasaland (Malawi), Sarawak, Sainte-Hélène, Séchelles, Sierra Leone, Singapour, Somaliland, Tanganyika, Trinidad-et-Tobago, Ouganda, Territoires britanniques du Pacifique occidental (ïles Pitcairn, Îles Cook, Niue, Nauru, Tokelau, Tonga, Tuvalu, Kiribati, Îles Salomon), Îles-du-Vent britanniques (Grenade, Sainte-Lucie, Saint-Vincent-et-les-Grenadines, Dominique)",
+      "score": 0.412952,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_55_s1",
+      "title": "Instrument de ratification de la France",
+      "score": 0.401246,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr008_s1",
+      "title": "Extension de l'adhésion aux Bahamas",
+      "score": 0.398944,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr007_s1",
+      "title": "Extension de l'adhésion à Chypre et à la Jamaïque",
+      "score": 0.395896,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr003_s1",
+      "title": "Dénonciation de la convention",
+      "score": 0.39111,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.387039,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_34_s1",
+      "title": "Instrument d'adhésion d'Israël",
+      "score": 0.386134,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19980109_005_s1",
+      "title": "Instrument d'approbation sud-africain",
+      "score": 0.383142,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_857_s1",
+      "title": "Dénonciation swazie",
+      "score": 0.381415,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.379582,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

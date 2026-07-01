@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940413_326a_s1",
+  "title": "Notification de retrait (lettre de la ministre de l'Europe et des affaires étrangères au ministre des affaires étrangères du Portugal)",
+  "year": 1994,
+  "doc_type": "Notification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9973,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTÈRE DE L'EUROPE ET DES AFFAIRES ÉTRANGÈRES Liberté Egalité Fraternité La Ministre Paris, le 01.12.22 004021 CM Monsieur le Ministre, J'ai l'honneur de vous faire savoir que le Gouvernement de la République française notifie son retrait du traité sur la Charte de l'Energie, signé le 17 décembre 1994 à Lisbonne, conformément à l'article 47 de ce traité. La présente lettre constitue la notification française de r…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940413_326a_s1.pdf",
+  "source_filename": "tra19940413_326a_s1.pdf",
+  "source_sha256": "a709f5d1da76dbc466f7535f2a091700b4ca826db4e532c2ab1fc7db2ed4bf26",
+  "treaty_id": "TRA19940413",
+  "treaty_number": "009A",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTÈRE\n\nDE L'EUROPE\n\nET DES AFFAIRES\n\nÉTRANGÈRES\n\nLiberté\n\nEgalité\n\nFraternité\n\nLa Ministre\n\nParis, le 01.12.22 004021 CM\n\nMonsieur le Ministre,\n\nJ'ai l'honneur de vous faire savoir que le Gouvernement de la République française notifie son retrait du traité sur la Charte de l'Energie, signé le 17 décembre 1994 à Lisbonne, conformément à l'article 47 de ce traité.\n\nLa présente lettre constitue la notification française de retrait prévue par l'article 47, paragraphe 1, de ce traité. :\n\nJe vous serais reconnaissante de bien vouloir m'informer de la date à laquelle celle-ci vous sera parvenue.\n\nJe vous prie d'agréer, Monsieur le Ministre, l'expression de ma haute considération.\n\nCollow.\n\nCatherine COLONNA\n\nSon Excellence\n\nMonsieur João Gomes CRAVINHO\n\nMinistre des Affaires étrangères du PORTUGAL\n\nLISBONNE",
+      "quality_score": 0.9973,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940413_326b_s1",
+      "title": "Notification de retrait (lettre de l'ambassadrice de France au Portugal au cabinet du ministre des affaires étrangères du Portugal)",
+      "score": 0.431385,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910064_325b_s1",
+      "title": "Lettre portant levée de la réserve relative à la Polynésie française",
+      "score": 0.39213,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_043_s1",
+      "title": "Instrument de Cuba",
+      "score": 0.386505,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "TRA20213006_007_s1",
+      "title": "Accusé de réception britannique de l'instrument français = 1er paragraphe de la note verbale de la pièce /005",
+      "score": 0.384559,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_004_s1",
+      "title": "Instrument français",
+      "score": 0.382919,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_004",
+      "title": "Instrument de ratification",
+      "score": 0.379954,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740038_004",
+      "title": "Instrument français",
+      "score": 0.379491,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19740039_004",
+      "title": "Instrument français",
+      "score": 0.378677,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_731_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.374594,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.374424,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19200018_103",
+  "title": "Note de transmission de l'instrument",
+  "year": 1920,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9699,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DIRECTION Bug ee si COTE... Af FR tacos Feng rs DELEGATION GENERALE DE LA REPUBLIQUE POPULAIRE DEMOCRATIQUE DE COREE EN REPUBLIQUE FRANCAISE 3, rue Asseline - 75014 PARIS - FRANCE Tél. : 01 56 54 26 00 — Fax : 01 40 47 97 54 — E-mail : delegationcoree@outlook.fr No /5 /16/DG/RPDC La Délégation Générale de la République Populaire Démocratique de Corée en République Française présente ses compliments au Ministère des…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200018_103.pdf",
+  "source_filename": "tra19200018_103.pdf",
+  "source_sha256": "3a67e1d0f4ee9187f7edc5438f96a993236caa3e7cade1218b5ccb1ea8e2ce26",
+  "treaty_id": "TRA19200018",
+  "treaty_number": "103",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DIRECTION Bug ee\n\nsi COTE... Af\n\nFR tacos\n\nFeng\n\nrs\n\nDELEGATION GENERALE\n\nDE LA REPUBLIQUE POPULAIRE DEMOCRATIQUE DE COREE\n\nEN REPUBLIQUE FRANCAISE\n\n3, rue Asseline - 75014 PARIS - FRANCE\n\nTél. : 01 56 54 26 00 — Fax : 01 40 47 97 54 — E-mail : delegationcoree@outlook.fr\n\nNo /5 /16/DG/RPDC\n\nLa Délégation Générale de la République Populaire Démocratique de Corée en\n\nRépublique Française présente ses compliments au Ministère des Affaires Etrangères et du Développement international de la République Frangaise et suite à sa note verbale No 5/16/DG/RPDC, a l'honneur de lui transmettre , ci-joint, l'instrument d’ adhésion de la\n\nRépublique Populaire Démocratique de Corée au Traité relatif à l'Archipel du Spitsberg, signé à Paris le 9 février 1920, dont la France est dépositaire.\n\nLa Délégation Générale de la République Populaire Démocratique de Corée en\n\nRépublique Frangaise saisit cette occasion pour renouveler au Ministére des Affaires\n\nEtrangères et du Développement International de la République Française les assurances de sa trés haute considération. i\n\nMinistère des Affaires Etrangères et du Développement International de la République Française (Direction des Affaires Juridiques)",
+      "quality_score": 0.9699,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200018_492",
+      "title": "Lettre de transmission de l'instrument",
+      "score": 0.532694,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.405348,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200018_104",
+      "title": "Accusé de réception de l'instrument d'adhésion",
+      "score": 0.404575,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.402183,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_042_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion coréen",
+      "score": 0.394941,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070032_006_s1",
+      "title": "Accusé de réception chinois de l'instrument de ratification français",
+      "score": 0.391608,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_005_s1",
+      "title": "Ratification",
+      "score": 0.389938,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_230",
+      "title": "Instrument d'adhésion",
+      "score": 0.388197,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20020160_004",
+      "title": "Accusé de réception par le dépositaire de l'instrument français",
+      "score": 0.385444,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_152_s1",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.385435,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

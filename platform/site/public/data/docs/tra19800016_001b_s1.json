@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19800016_001b_s1",
+  "title": "Accord (note verbale comorienne)",
+  "year": 1980,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9837,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "RÉPUBLIQUE FÉDÉRALE ISLAMIQUE DES COMORES MINISTÈRE DES AFFAIRES ETRANGÈRES ET DE LA COOPÉRATION Moroni, le 9 mai 1980 A 19/5/80 Nº 6 10 MAE- M Le Ministère des Adaires Etrangères et de la Coopération présente ses compliments à l'Ambassade de France à Moroni et faisant suite à sa Note n° 56 du 1 mars 1980 a l'honneur de lui signifier l'accord du Ministère des Finances, de l'Economie et du Plan pour étendre les dispo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19800016_001b_s1.pdf",
+  "source_filename": "tra19800016_001b_s1.pdf",
+  "source_sha256": "1cf6884be357c015611809a55ee2696514bcdc803b937d8b3b1964b01e7359be",
+  "treaty_id": "TRA19800016",
+  "treaty_number": "001b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RÉPUBLIQUE FÉDÉRALE ISLAMIQUE DES COMORES\n\nMINISTÈRE DES AFFAIRES ETRANGÈRES\n\nET DE LA COOPÉRATION\n\nMoroni, le 9 mai 1980\n\nA 19/5/80\n\nNº 6 10\n\nMAE- M\n\nLe Ministère des Adaires Etrangères et de la Coopération\n\nprésente ses compliments à l'Ambassade de France à Moroni et faisant suite à sa Note n° 56 du 1 mars 1980 a l'honneur de lui signifier l'accord du Ministère des Finances, de l'Economie et du Plan pour étendre les dispositions relatives au régime douanier applicable au personnel d'assistance technique conformément aux accords de coopération franco-comoriens du 10 novembre 1978 à l'acquisition d'un congélateur sous le régime d'admission temporaire.\n\nLe Ministère aimerait toutefois que l'Ambassade lui fasse\n\nparvenir, pour les services des Finances, la liste du personnel devant bénéficier de cette mesure.\n\nLe Ministère saisit cette occasion pour renouveler à\n\nl'Ambassade les assurances de sa haute considération.\n\nces\n\nAMBASSADE DE FRANCE\n\nEN REPUBLIQUE FEDERALE ISLAMIQUE\n\nDES COMORES - MO RO NI -\n\ntoneraton",
+      "quality_score": 0.9837,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.40496,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_561_s1",
+      "title": "Instrument d'adhésion marocain",
+      "score": 0.397159,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.387785,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.38718,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_030_s1",
+      "title": "Note verbale d'acceptation du Maroc",
+      "score": 0.386142,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.384808,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_003_s1",
+      "title": "Pouvoirs kenyans",
+      "score": 0.384593,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19690202_010_s1",
+      "title": "Texte de l'accord (note verbale grecque)",
+      "score": 0.384051,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.383599,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_005_s1",
+      "title": "Instrument émirati",
+      "score": 0.382556,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

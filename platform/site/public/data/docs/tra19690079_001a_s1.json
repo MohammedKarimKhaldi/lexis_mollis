@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19690079_001a_s1",
+  "title": "Lettre",
+  "year": 1969,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9964,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE FRANCE en REPUBLIQUE ARABE UNIE Le Caire, le 12 Juin 1969 Monsieur le Ministre, J'ai l'honneur de vous confirmer que le Gouvernement français est disposé à apporter au Gouvernement de la République Arabe Unie, son concours pour la création d'un Institut de Recherche Pétrolière. La contribution du Gouvernement français sera affectée à la réalisation d'une première tranche d'équipement qui a été définie à…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19690079_001a_s1.pdf",
+  "source_filename": "tra19690079_001a_s1.pdf",
+  "source_sha256": "7f60496b6fabf4e8489a79a12fe8c5d464eae695305f2906440f577e5cd89fa5",
+  "treaty_id": "TRA19690079",
+  "treaty_number": "001A",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DE FRANCE\n\nen\n\nREPUBLIQUE ARABE UNIE\n\nLe Caire, le 12 Juin 1969\n\nMonsieur le Ministre,\n\nJ'ai l'honneur de vous confirmer que le Gouvernement français est disposé à\n\napporter au Gouvernement de la République Arabe\n\nUnie, son\n\nconcours pour la création d'un Institut de Recherche Pétrolière.\n\nLa contribution du Gouvernement français sera\n\naffectée à la\n\nréalisation d'une première tranche d'équipement qui a été\n\ndéfinie à la\n\nsuite des conversations\n\ntechniques entre\n\ndélégations française et égyp-\n\ntienne. Elle prendra\n\nles trois\n\nformes suivantes :\n\n- la mise à la disposition du Ministère de la Recherche Scientifique, au titre de la participation française aux dépenses de construction, de la somme de\n\n331.000 Livres égyptiennes représentant une partie des actuellement bloqués au compte de la Mission Laique Française,\n\n- la fourniture des équipements destinés à l'aménagement des bâtiments et des matériels de laboratoire pour un montant de 3 millions de francs français,\n\n- une assistance technique de l'Institut Français du Pétrole pour la construction et l'équipement des bâtiments, ainsi que pour l'élaboration et le démarrage des programmes de recherches.\n\nLes points d'application de cette contribution seront précisés et les modalités de sa mise en oeuvre définies dans un accord à passer entre la Caisse Centrale de Coopération Economique, agissant au nom pour le compte du Gouvernement français, et le Ministère de la Recherche\n\nScientifique de la République Arabe Unie.\n\nJe vous serais obligé de bien vouloir me confirmer votre accord sur ce qui précède.\n\nleuillez agréer, Monsieur le Ministre, l'expression de ma trè aute considération./.\n\nCOPIE CEATIFIEE CONFORME\n\nd Ambassadau: do France\n\nL'Ambassadeur de France\n\nFRANCE\n\nFrançois PUAUX\n\nASSHEWY",
+      "quality_score": 0.9964,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19690079_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.85911,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690027_001a_s1",
+      "title": "Lettre (ensemble la convention entre l'organisation de télévision de la République arabe unie et l'office de radiodiffusion-télévision française)",
+      "score": 0.38428,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840360_001a_s1",
+      "title": "Lettre",
+      "score": 0.367192,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192642_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.366983,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19720207_001_s1",
+      "title": "Procès-verbal",
+      "score": 0.360912,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630327_001_s1",
+      "title": "Convention [ensemble une annexe]",
+      "score": 0.359854,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620009_001_s1",
+      "title": "Accord français",
+      "score": 0.35694,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192663_001_s1",
+      "title": "Texte de la feuille de route",
+      "score": 0.355749,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19780197_001_s1",
+      "title": "Procès-verbal (ensemble une annexe)",
+      "score": 0.354444,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172360_001",
+      "title": "Protocole",
+      "score": 0.353745,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20000011_100",
+  "title": "Note explicative",
+  "year": 2000,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9994,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "190000-11 NOTE EXPLICATIVE - La France et la Corée ont signé le 6 mars 2000 un accord relatif à la protection des informations militaires classifiées échangées dans le domaine de la coopération militaire et de l'armement. Ce texte, de nature essentiellement technique mais concernant un domaine particulièrement sensible, est un instrument indispensable au développement de notre coopération avec Séoul. L'accord identi…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20000011_100.pdf",
+  "source_filename": "tra20000011_100.pdf",
+  "source_sha256": "b841d62fa74022cf3f91d72147e85b2ad417d1ec092619c37a8329b5ab308dd5",
+  "treaty_id": "TRA20000011",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "190000-11\n\nNOTE EXPLICATIVE\n\n-\n\nLa France et la Corée ont signé le 6 mars 2000 un accord relatif à la protection des informations militaires classifiées échangées dans le domaine de la coopération militaire et de l'armement.\n\nCe texte, de nature essentiellement technique mais concernant un domaine particulièrement sensible, est un instrument indispensable au développement de notre coopération avec Séoul.\n\nL'accord identifie les autorités de sécurité compétentes appelées à collaborer pour la mise en oeuvre de l'accord (Ministres de la Défense de chaque Partie), notamment lorsqu'une enquête de sécurité s'avère nécessaire en cas de perte, de compromission, de divulgation ou de tout autre violation de sécurité d'informations militaires classifiées.\n\nIl fixe les règles que les deux Parties s'engagent à respecter pour protéger des informations classifiées, qu'il s'agisse des informations militaires classifiées proprement dites (secret défense, confidentiel défense, diffusion restreinte) ou des contrats comportant des informations militaires classifiées, passés avec une société de l'autre Partie (habilitation, annexe de sécurité au contrat, détermination du niveau de classification).\n\nEnfin, l'accord établit un régime de visite de sites, les demandes étant transmises à l'autorité de sécurité nationale par la voie diplomatique./.",
+      "quality_score": 0.9994,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20192607_001_s1",
+      "title": "Accord (ensemble 3 annexes)",
+      "score": 0.470843,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000011_001",
+      "title": "Accord",
+      "score": 0.393601,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151406_001_s1",
+      "title": "Accord",
+      "score": 0.369321,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_001_s1",
+      "title": "Accord de sécurité",
+      "score": 0.364051,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213099_001_s1",
+      "title": "Accord : note verbale monégasque (ensemble 1 annexe)",
+      "score": 0.363716,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900276_001",
+      "title": "Accord",
+      "score": 0.363018,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220148_001_s1",
+      "title": "Accord",
+      "score": 0.362775,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220147_001a_s1",
+      "title": "Accord",
+      "score": 0.362775,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20162069_001",
+      "title": "Accord",
+      "score": 0.361789,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "20050057_001_s1",
+      "title": "Accord",
+      "score": 0.360999,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

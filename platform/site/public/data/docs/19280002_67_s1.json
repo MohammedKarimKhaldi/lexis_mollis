@@ -1,0 +1,139 @@
+{
+  "document_id": "19280002_67_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "quality_score": 0.9589,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 67 ESPAGNE İmbajada de Opparia Laris No_ 337 L'Ambassade d'Espagne présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de lui re mettre ci-joint 1'Instrument d'adhésion de 1'Espagne à la Convention relative aux Expositions Internationales, signée à Paris le 22 décembre 1928 et modifiée par Protocole du 10 L'Ambassade serait reconnaissante au Ministère de bien vouloir Iul confirmer q…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_67_s1.pdf",
+  "source_filename": "19280002_67_s1.pdf",
+  "source_sha256": "103b4888e3999c53536dec5d4e982988ff467cc2579c9e168ba6b81f9eb135f0",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "ESP003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 67",
+      "quality_score": 0.9434,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "ESPAGNE\n\nİmbajada de Opparia\n\nLaris\n\nNo_ 337\n\nL'Ambassade d'Espagne présente ses compliments au\n\nMinistère des Affaires Etrangères et a l'honneur de lui re mettre ci-joint 1'Instrument d'adhésion de 1'Espagne à la\n\nConvention relative aux Expositions Internationales, signée à Paris le 22 décembre 1928 et modifiée par Protocole du 10\n\nL'Ambassade serait reconnaissante au Ministère de bien vouloir Iul confirmer que 1es formalites prevues pour le dépôt dudit instrument auprès du Gouvernement français ont été accomplies.\n\nL'Ambassade d'Espagne saisit cette occasion pour re nouveler au Ministère des Affaires Etrangères les assuran- ces de sa haute considération de\n\nParis, le 3 Novembre 1971.\n\nAU LINTORI RE DES AER, IRES CIT ANGERON\n\nLARIS.\n\nVAN 32N",
+      "quality_score": 0.9566,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "GREÓRIO LOPEZ-BRAVO DI CASTRO\n\nMINISTRO DI ACUNTOS IUTERIORES DE ESPAÍA\n\nCumplidos los requisitos exigidos por la Legislación española, extiendo el presento Instrumento de Adhesión de\n\nEspaña al Convenio relativo a las Exposiciones Internacio nales, firmado en París el 22 de diciembre de 1928 y al\n\nProtocolo modificativo del mismo, fimado en París el 10 de mayo de 1948, a efectos de que mediante su depósito previo España entre a ser parte del Convenio y de su Pro- tocolo modificativo.\n\nin fe de 10 cual firno el presofte en ladria a cinco de octubre do mil novecientos petenta y uno.",
+      "quality_score": 0.9768,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_66_s1",
+      "title": "Instrument de ratification",
+      "score": 0.830704,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_68_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.828566,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_69_s1",
+      "title": "Lettre portant dénonciation",
+      "score": 0.818855,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_65_s1",
+      "title": "Pouvoirs pour la ratification de la convention",
+      "score": 0.781281,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_76_s1",
+      "title": "Instrument d'adhésion de la Gambie",
+      "score": 0.723939,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.710462,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.69679,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_87_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.694384,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_79_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.687265,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.68458,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "document_id": "19880315_255a_s1",
+  "title": "Pouvoirs danois pour la signature de la convention et de l'acte final",
+  "year": 1988,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9983,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PLEINS POUVOIRS Je soussigné, Uffe ELLEMANN-JENSEN, Ministre des Affaires Étrangères du Royaume de Danemark, donne pleins pouvoirs à M. Gunnar RIBERHOLDT, Ambassadeur Extraordinaire et Plénipotentiaire du Royaume de Danemark en France, Commandeur de l'Ordre du Dannebrog, pour signer, au nom du Gouvernement danois, sous réserve de leur ratification, la Convention et l'acte final concernant l'Institut européen de Rayo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880315_255a_s1.pdf",
+  "source_filename": "19880315_255a_s1.pdf",
+  "source_sha256": "61ce1b7a7eed7075727fb86993a4aa1cdcc55454690cb4702a7bc3f1cacb3c4a",
+  "treaty_id": "TRA19880315",
+  "treaty_number": "255a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PLEINS POUVOIRS\n\nJe soussigné, Uffe ELLEMANN-JENSEN, Ministre des\n\nAffaires Étrangères du Royaume de Danemark, donne pleins pouvoirs à M. Gunnar RIBERHOLDT, Ambassadeur\n\nExtraordinaire et Plénipotentiaire du Royaume de\n\nDanemark en France, Commandeur de l'Ordre du\n\nDannebrog, pour signer, au nom du Gouvernement danois, sous réserve de leur ratification, la\n\nConvention et l'acte final concernant l'Institut européen de Rayonnement Synchrotron.\n\nFAIT A COPENHAGUE, LE 6 DÉCEMBRE 1988.",
+      "quality_score": 0.9983,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_18_s1",
+      "title": "Pouvoirs de signature",
+      "score": 0.39093,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_650a_s1",
+      "title": "Note de transmission de l'instrument finlandais",
+      "score": 0.383775,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_255_s1",
+      "title": "Pouvoirs",
+      "score": 0.378711,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_650b_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.372529,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_56_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.360934,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_40_s1",
+      "title": "Pouvoirs de signature du Danemark",
+      "score": 0.359802,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910247_255",
+      "title": "Instrument de ratification",
+      "score": 0.35265,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_045_s1",
+      "title": "Pouvoirs du Danemark",
+      "score": 0.35167,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_731_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.350666,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

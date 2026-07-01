@@ -1,0 +1,116 @@
+{
+  "document_id": "19370052_28_s1",
+  "title": "Instrument de ratification norvégien",
+  "year": 1937,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9685,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NOUS .HAAKON, Ro i d e faisons savoir: g e, qu'ayant vu et examiné l'Accord portant Modifications à la Convention Internationale signée à Paris le 21 juin 1920 pour la Création à Paris d'un Institut International du Froid, signé à Paris le 31 mai 1937, Nous approuvons, ratifions et confirmons ledit Accord dans toutes ses parties, promettant de le faire ob- 'server selon sa forme et teneur. EN FOI DE «UOI Nous avons…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19370052_28_s1.pdf",
+  "source_filename": "19370052_28_s1.pdf",
+  "source_sha256": "c88ba662005bdddb0b42eaaad8ff52983f6526532b5e52d00da2ae4409a98acc",
+  "treaty_id": "TRA19370052",
+  "treaty_number": "NOR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NOUS\n\n.HAAKON,\n\nRo i\n\nd e faisons savoir:\n\ng e,\n\nqu'ayant vu et examiné l'Accord portant Modifications à la Convention Internationale signée à Paris le 21 juin 1920 pour la\n\nCréation à Paris d'un Institut International du Froid, signé à Paris le 31 mai 1937, Nous approuvons, ratifions et confirmons ledit Accord dans toutes ses parties, promettant de le faire ob- 'server selon sa forme et teneur.\n\nEN FOI DE «UOI Nous avons signé les présentes\n\nlettres de ratification et y avons fait apposer le sceau du\n\nRoyaume.\n\nPalais Royal,\n\nOslo, le 29 octobre 1937.\n\nHyperte",
+      "quality_score": 0.9685,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380056_11_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.630769,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_14_s1",
+      "title": "Note d'accompagnement de l'instrument de ratification du Danemark",
+      "score": 0.410004,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_072_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.406922,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_21_s1",
+      "title": "Lettre d'accompagnement de l'instrument de ratification danois",
+      "score": 0.399521,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_25_s1",
+      "title": "Instrument de ratification du Japon",
+      "score": 0.398319,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_09_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.389323,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_053_s1",
+      "title": "Déclaration d'acceptation de la Finlande",
+      "score": 0.386437,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_56_s1",
+      "title": "Instrument d'adhésion de la Norvège",
+      "score": 0.385777,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_33_s1",
+      "title": "Instrument de ratification norvégien",
+      "score": 0.38145,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_023_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.38101,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

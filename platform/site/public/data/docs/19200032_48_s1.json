@@ -1,0 +1,116 @@
+{
+  "document_id": "19200032_48_s1",
+  "title": "Pouvoirs siamois",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9503,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Traduction, NOUS • U IA F. Par 1B de D I EU. Ro 1 auede， derGothe • t des vendes, BeToIr faisons: qu'ayant Jugé bon et utile de conclure aveo plusieura puissances étrangères une Convention Internationale pour la création è Paris d'un Inatitut International du froid, et que NOTRE plénipotentialro, dûment autorisé à cet effet, a aigné et revêtu de gon cachet une Convention portant mot pour mot ce qui ault: (inseratur)…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_48_s1.pdf",
+  "source_filename": "19200032_48_s1.pdf",
+  "source_sha256": "6ff4c486890408bf33d122b8dd8f85ae1d143be043080c5342fb3778e90f465c",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "THA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Traduction,\n\nNOUS\n\n• U\n\nIA F. Par 1B\n\nde D\n\nI EU.\n\nRo 1\n\nauede，\n\nderGothe\n\n• t des vendes,\n\nBeToIr faisons: qu'ayant Jugé bon\n\net utile de conclure\n\naveo plusieura puissances étrangères une Convention Internationale pour la création è Paris d'un Inatitut International du froid, et que NOTRE plénipotentialro, dûment autorisé à cet effet, a aigné et revêtu de gon\n\ncachet une Convention portant mot pour mot ce qui ault:\n\n(inseratur)\n\nA ces causes et fine NOUS arone voulu ratifier, approuver et accepter ladite Convention avec tous ses articles, pointa et clauses comme aussi par les présentes NOUS l'acceptone, approuvons et ratt - flons de la manière la plus efficace que fatre se peut; voulone et promettone d'observer et de remplir sincèrement et loyalement tout co que contlent ladite Convention avec toue ses articles, pointa et clauses. In fol de quoi NOUS arona signé la présente de NOTRE propre main et y •#TONE fait apposer NOTRE Sceau Royal. Fait au Château de\n\nStockholm, le 18 novembre 1921,\n\n(R) 9 I\n\nA F. B.\n\n(L,S.)\n\nAj. Branting.",
+      "quality_score": 0.9503,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.453639,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_005_s1",
+      "title": "Instrument monégasque",
+      "score": 0.416174,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_70_s1",
+      "title": "Instrument de ratification de la Suède",
+      "score": 0.412782,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_21_s1",
+      "title": "Lettre d'accompagnement de l'instrument de ratification danois",
+      "score": 0.412704,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_31_s1",
+      "title": "Instrument de ratification monégasque",
+      "score": 0.405424,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_14_s1",
+      "title": "Note d'accompagnement de l'instrument de ratification du Danemark",
+      "score": 0.401542,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_062_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.399506,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_046_s1",
+      "title": "Instrument du Danemark",
+      "score": 0.398247,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_051_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.398233,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.397529,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

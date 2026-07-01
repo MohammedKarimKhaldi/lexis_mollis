@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20182691_002_s1",
+  "title": "Pouvoirs français",
+  "year": 2018,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9884,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "République Française N°150/2017 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par Monsieur Philippe LACOSTE, Ambassadeur de France au Tchad pour signer l'Accord entre le Gouvernement de la République française et le Gouvernement de la République du Tchad relatif aux FAIT À PARIS, LE 20 décombre 2017 Le Ministre de l'Europe et des Affaires ét…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20182691_002_s1.pdf",
+  "source_filename": "TRA20182691_002_s1.pdf",
+  "source_sha256": "3f2d2570218a7c6727ba20476af94200a7ab3af4d6157413d72a61314fbbc63e",
+  "treaty_id": "TRA20182691",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "République Française\n\nN°150/2017\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par\n\nMonsieur Philippe LACOSTE, Ambassadeur de France au\n\nTchad\n\npour signer l'Accord entre le Gouvernement de la République française et le Gouvernement de la République du Tchad relatif aux\n\nFAIT À PARIS, LE 20 décombre 2017\n\nLe Ministre de l'Europe et des Affaires étrangères\n\nM le Drian",
+      "quality_score": 0.9884,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20240048_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.573064,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212835_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.42638,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.41908,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_002",
+      "title": "Pouvoirs français",
+      "score": 0.397812,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213018_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.394433,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.390421,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182365_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.387607,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182469_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.386715,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.38656,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980109_002_s1",
+      "title": "Pouvoir français",
+      "score": 0.382995,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

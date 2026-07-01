@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19870226_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1987,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9498,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Archives »AM. Sous De Afrique centrale et orientale N° 268/87 POUVOIRS Au nom du Gouvernement de la République, NOUS, Miristre des Affaires Etrangères, donnons pouvolis par ces présentes à M. Jean de ROSEN, Sous-Directeur 3 1a Direction du Trésor du Ministère de l'Economie, des Finances et de la Privatisation, pour signer un Accord de consolidation de dettes entre ie Gouvernerent de la képublique française et le Gou…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19870226_002_s1.pdf",
+  "source_filename": "tra19870226_002_s1.pdf",
+  "source_sha256": "4c44668654467cdfa995842f710120c029539c5134225635acfff0db5661c68e",
+  "treaty_id": "TRA19870226",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Archives »AM.\n\nSous De Afrique centrale et orientale\n\nN° 268/87\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS,\n\nMiristre des Affaires Etrangères, donnons pouvolis par ces présentes à M. Jean de ROSEN, Sous-Directeur 3 1a\n\nDirection du Trésor du Ministère de l'Economie, des\n\nFinances et de la Privatisation, pour signer un Accord de consolidation de dettes entre ie Gouvernerent de la képublique française et le Gouvernement de la République démocratique de Somaile./.\n\nTAIT à PARIS, le\n\n30 novembre 1987\n\nLe Ministeredes Affaires Etrangeres",
+      "quality_score": 0.9498,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.634449,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19920387_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.572222,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.54076,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_002a_s1",
+      "title": "Pouvoirs pour l'accord",
+      "score": 0.465043,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850080_002",
+      "title": "Pouvoirs",
+      "score": 0.418008,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.400512,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910044_002",
+      "title": "Pouvoirs français",
+      "score": 0.39256,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.392033,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_002",
+      "title": "Pouvoirs",
+      "score": 0.391755,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890267_002",
+      "title": "Pouvoirs français",
+      "score": 0.390573,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

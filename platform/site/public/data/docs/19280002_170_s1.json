@@ -1,0 +1,129 @@
+{
+  "document_id": "19280002_170_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9545,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "19280002 170 Au Nom de la République Populaire de Pologne Ie Conseil d'Etat de la Republique Populatre de Pologne à tous ceux qui ces Présentes Iettres verront fait savoir ce qui sult: La Convention du 22 Novembre 1928 concernant leB Expositions Internationales et le Protocole du 10 Mai 1948 portant modification de cette Convention ont été signés à Paris. Après avoir vu et examiné lesdits Convention et Protocole le…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_170_s1.pdf",
+  "source_filename": "19280002_170_s1.pdf",
+  "source_sha256": "fadcf2b4a7fc9632886f53de8b4eb7b0bff2e79ebce0710085287f496b98eb26",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "POL006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 170",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Au Nom de la République Populaire de Pologne\n\nIe Conseil d'Etat de la Republique Populatre de Pologne à tous ceux qui ces Présentes Iettres verront fait savoir ce qui sult:\n\nLa Convention du 22 Novembre 1928 concernant leB\n\nExpositions Internationales et le Protocole du 10 Mai 1948 portant modification de cette Convention ont été signés à Paris.\n\nAprès avoir vu et examiné lesdits Convention et\n\nProtocole le Conseil d'Etat les a approuvés et approuve en toutes et chacune des dispositions qui y sont contenues; déclare que cette convention et ce Protocole sont acceptés, ratifiés et con- firmés et promet qu'ila seront inviolablement observés.\n\nEn Fo1 de Quoi les Présentes Iettres ont été délivrées, revêtues du Sceau de la République Populaire de Pologne.\n\nDonné à Vargovie, le 1 Avril 1960.\n\naiss\n\nPRÉSIDENT DU CONSEIL D'ÉTAT",
+      "quality_score": 0.9658,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.851035,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_177_s1",
+      "title": "Déclaration des autorités portugaises relative à Macao",
+      "score": 0.849185,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.841086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_176_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.836554,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_171_s1",
+      "title": "Instrument de ratification",
+      "score": 0.836139,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_175_s1",
+      "title": "Instrument de ratification",
+      "score": 0.830387,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_172_s1",
+      "title": "Dépôt de l'instrument d'adhésion de la Pologne",
+      "score": 0.820083,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_174_s1",
+      "title": "Pouvoirs pour déposer l'instrument de ratification",
+      "score": 0.814561,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_180_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.769539,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.757348,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

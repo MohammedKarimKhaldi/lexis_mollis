@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_605",
+  "title": "Accusé de réception français de l'adhésion monténégrine",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9816,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "CAD Ministère des affaires étrangères NUOI/E N° 2264 $ 345 Paris, le 16 novembre 2007 Le Ministère des Affaires Étrangères présente ses compliments à l'Ambassade de la République du Monténégro en France et a l'honneur de l'informer de ce qui suit : La République du Monténégro a fait part au gouvernement français par note verbale en date du 09 août 2007 et reçue le 10 août 2007 de l'intention de son gouvernement d'ad…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_605.pdf",
+  "source_filename": "tra19240002_605.pdf",
+  "source_sha256": "52737ff4a45ea5df9cb34bee0e824adb00653ae874d392287dc0d3f3a9df27d7",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "605",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CAD\n\nMinistère des affaires étrangères\n\nNUOI/E N° 2264\n\n$ 345\n\nParis, le 16 novembre 2007\n\nLe Ministère des Affaires Étrangères présente ses compliments à l'Ambassade de la République du Monténégro en France et a l'honneur de l'informer de ce qui suit :\n\nLa République du Monténégro a fait part au gouvernement français par note verbale en date du 09 août 2007 et reçue le 10 août 2007 de l'intention de son gouvernement d'adhérer à l'Arrangement international portant création de l'Office international des Epizooties signé à Paris le 25 janvier 1924.\n\nCette adhésion a pris effet le 10 août 2007.\n\nLa République du Monténégro a choisi de s'inscrire dans la sixième catégorie des\n\nEtats membres prévue à l'article 11 des statuts organiques de l'Office.\n\nLe Ministère des Affaires Étrangères saisit cette occasion pour renouveler à l'Ambassade de la République du Monténégro en\n\nFrance les assurances de sa haute\n\nconsidération./,\n\nAmbassade de la République du Monténégro",
+      "quality_score": 0.9816,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_pak004_s1",
+      "title": "Note accusant réception de la notification d'adhésion du Pakistan",
+      "score": 0.416977,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_371",
+      "title": "Instrument d'adhésion",
+      "score": 0.409395,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.407156,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.404179,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_510",
+      "title": "Accusé de réception de l'adhésion liechtensteinoise",
+      "score": 0.402802,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.400218,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.396819,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.396081,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_05_s1",
+      "title": "Note verbale d'adhésion de la Croatie",
+      "score": 0.395898,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.395895,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

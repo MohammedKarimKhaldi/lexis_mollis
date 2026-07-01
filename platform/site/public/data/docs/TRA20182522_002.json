@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20182522_002",
+  "title": "Pouvoirs français",
+  "year": 2018,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9717,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AR République Française N°37/2018 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à : Madame Delphine GÉNY-STEPHANN, Secrétaire d'Etat auprès du ministre de l'Economie et des Finances pour signer la Convention entre le Gouvernement de la République FAIT À PARIS, LE 19 mars 2018 Le Ministre de l'Europe et des Affaires étrangèr…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20182522_002.pdf",
+  "source_filename": "TRA20182522_002.pdf",
+  "source_sha256": "00d698625a2703b421d9f7403be064af963b393b51f35f1edd6ea53ed5cb8a10",
+  "treaty_id": "TRA20182522",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AR\n\nRépublique Française\n\nN°37/2018\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de l'Europe et des\n\nAffaires étrangères, donnons POUVOIRS par ces\n\nprésentes à :\n\nMadame Delphine GÉNY-STEPHANN, Secrétaire d'Etat auprès du ministre de l'Economie et des Finances pour signer la Convention entre le Gouvernement de la République\n\nFAIT À PARIS, LE 19 mars 2018\n\nLe Ministre de l'Europe et des Affaires étrangères\n\nM le Drian",
+      "quality_score": 0.9717,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20212835_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.633417,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182365_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.608222,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.604961,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213018_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.579576,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220114_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.556874,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213116_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.554461,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182432_002",
+      "title": "Pouvoirs français",
+      "score": 0.425746,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182464_002_s1",
+      "title": "Pouvoirs.",
+      "score": 0.420053,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182469_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.410465,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240048_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.403765,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

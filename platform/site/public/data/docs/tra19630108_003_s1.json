@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19630108_003_s1",
+  "title": "Pouvoirs togolais",
+  "year": 1963,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.997,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NICOLAS GRUNITZKY PRESIDENT DE LA RÉPUBLIQUE TOGOLAISE A IOUS CEUX QUI CES PRESENTES LETTRES VERRONT , SALUT : Une Convention relative aux relations entre le Trésor Français et le Trésor Togolais ainsi qu'aux modalités de la Coopération de la République Française et de la République Iogolaise pour l'organi- sation et le fonctionnement des services des Trésors, un Accord Géné- ral de Coopération Technique, un Accord…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19630108_003_s1.pdf",
+  "source_filename": "tra19630108_003_s1.pdf",
+  "source_sha256": "a6e745496bb80ee0ccf066c85dd0deca940e5c4772c6fe7a73b9fc4445154f31",
+  "treaty_id": "TRA19630355",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NICOLAS GRUNITZKY\n\nPRESIDENT DE LA RÉPUBLIQUE TOGOLAISE\n\nA IOUS CEUX QUI CES PRESENTES LETTRES VERRONT ,\n\nSALUT :\n\nUne Convention relative aux relations entre le Trésor\n\nFrançais et le Trésor Togolais ainsi qu'aux modalités de la Coopération de la République Française et de la République Iogolaise pour l'organi- sation et le fonctionnement des services des Trésors, un Accord Géné- ral de Coopération Technique, un Accord de Coopération en matière économique, monétaire et financière, un Accord de Coopération cultu- relle entre la République Française et la République Togolaise , devant être signés à Paris , le 10 Juillet 1963 , A CES CAUSES ,",
+      "quality_score": 0.9984,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Nous confiant entièrement en la capacité, zèle et dévouement de Monsieur Georges APEDO - AMAH, Ministre des Affaires\n\nEtrangères, nous l'avons nommé et constitué Notre Plénipo- tentiaire à l'effet de négocier et signer lesdits Convention et\n\nAccords.\n\nPromettons d'accomplir et d'exécuter tout ce que\n\nNotre dit Plénipotentiaire aura stipulé et signé en Notre nom sans permettre qu'il y soit contrevenu de quelque manière que ce soit, sous réserve de Nos Lettres de Ratification.\n\nEN FOI DE QUOI, Nous avons fait apposer à ces\n\nprésentes le Sceau de la République Togolaise./.\n\n• FAIT à Lomé, 1e 5 Juillet 1963\n\nBOGOTATER",
+      "quality_score": 0.9955,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19630357_003_s1",
+      "title": "Pouvoirs togolais",
+      "score": 0.929744,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_055_s1",
+      "title": "Pouvoirs de signature grecs",
+      "score": 0.411467,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_325_s1",
+      "title": "Pouvoirs grecs",
+      "score": 0.399782,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_004_s1",
+      "title": "Instrument français",
+      "score": 0.396427,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_325",
+      "title": "Pouvoirs italiens",
+      "score": 0.396396,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.386225,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19550235_003",
+      "title": "Pouvoirs tunisiens",
+      "score": 0.382422,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_325_s1",
+      "title": "Pouvoirs néozélandais",
+      "score": 0.382163,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_022_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.382159,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_095_s1",
+      "title": "Pouvoirs",
+      "score": 0.379329,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

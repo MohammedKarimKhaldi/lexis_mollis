@@ -1,0 +1,74 @@
+{
+  "document_id": "tra19500149_101_s1",
+  "title": "Note n° 391 des archives diplomatiques à la Dtion des conventions administratives et des affaires consulaires a/s original de la lettre grecque de l'accord",
+  "year": 1950,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9938,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MTO/MFW 2 8 DEO, 1968 COMIS Archives diplomatiques N° 391 ARD NOTE POUR LA DIRECTION DES CONVENTIONS AD INISTRATIVES ET DES AFFAIRES CONSULAIRES a.s. Echange de lettres franco-hellénique du 9 décembre 1950 Il a été constaté que l'échange de lettres franco- hellénique du 9 décembre 1950 relatif aux doubles impositions dans les bénéfices des entreprises maritimes et aériennes n'était représenté dans la série des Trait…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19500149_101_s1.pdf",
+  "source_filename": "tra19500149_101_s1.pdf",
+  "source_sha256": "60f1346e48277d9570333c4f96bbd4667843775aa5f706678e2985c9d42d592c",
+  "treaty_id": "TRA19500149",
+  "treaty_number": "101",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MTO/MFW\n\n2 8 DEO, 1968\n\nCOMIS\n\nArchives diplomatiques\n\nN°\n\n391 ARD\n\nNOTE\n\nPOUR LA DIRECTION DES CONVENTIONS AD INISTRATIVES\n\nET DES AFFAIRES CONSULAIRES\n\na.s. Echange de lettres franco-hellénique du 9 décembre 1950\n\nIl a été constaté que l'échange de lettres franco-\n\nhellénique du 9 décembre 1950 relatif aux doubles impositions dans les bénéfices des entreprises maritimes et aériennes n'était représenté dans la série des Traités que par une copie de la lettre française.\n\nAfin de pouvoir clore définitivement le dossier de\n\ncet acte, le Service des Archives diplomatiques attacherait du prix aux recherches que la Direction des Conventions adminis tratives et des Affaires consulaires pourrait entreprendre en vue de retrouver le texte original de la lettre hellénique du 9 décembre 1950, qui a été signée par le Président VENIZELIS, et, le cas échéant, de le lui faire parvenir./.",
+      "quality_score": 0.9938,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19500149_102_s1",
+      "title": "Note n° 000032 de la Dtion des conventions administratives et des affaires consulaires (ensemble 2 pièces jointes : copie de la note n° 353 du 25/08/1955 et copie du texte de la lettre grecque de l'accord) au Sce des archives diplomatiques a/s original de la lettre grecque de l'accord",
+      "score": 0.433073,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19650074_102",
+      "title": "Note de la Conservation des Traités au service traitant relative à l'absence de légendes en langue française sur les plans I et II annexés à l'accord",
+      "score": 0.369407,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19500149_100_s1",
+      "title": "Note n° 353 de la Dtion des affaires administratives et sociales au Sce des archives =annotée par le Sce des archives= a/s original de la lettre grecque",
+      "score": 0.363522,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19550092_100_s1",
+      "title": "Note de transmission de l'accord à AR par le service traitant -avec informations sur les conditions de mise en vigueur-",
+      "score": 0.3563,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

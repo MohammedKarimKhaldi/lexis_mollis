@@ -1,0 +1,116 @@
+{
+  "document_id": "19660161_57_s1",
+  "title": "Pouvoirs de signature suisse",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9797,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE CONSEIL FÉDÉRAL SUISSE FAIT SAVOIR PAR LES PRÉSENTES qu'll a autorisé Monsieur Adolf J. Staehelin, Directeur de l'office suisse d'expansion commerciale, à Zurich, délégué suisse près le Bureau international des expositions , à signer, à Paris, sous réserve de ratification, le protocole por- tant modification à la convention sur les expositions internationales de 1928 dans ses dispositions relatives à la fréquence…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_57_s1.pdf",
+  "source_filename": "19660161_57_s1.pdf",
+  "source_sha256": "2118ce6b4cb377232191ce407259ffb9bd27e61f2b7bc3457eb629ca5f6669ef",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "CHE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE CONSEIL FÉDÉRAL SUISSE\n\nFAIT SAVOIR PAR LES PRÉSENTES\n\nqu'll a autorisé\n\nMonsieur Adolf J. Staehelin,\n\nDirecteur de l'office suisse d'expansion commerciale, à Zurich, délégué suisse près le Bureau international des expositions , à signer, à Paris, sous réserve de ratification, le protocole por- tant modification à la convention sur les expositions internationales de 1928 dans ses dispositions relatives à la fréquence des exposi- tions générales.\n\nEn foi de quoi, les présentes ont été signées par le Vice-Président du Conseil fédéral et le Vice-Chancelier et munies du sceau du\n\nConseil fédéral.\n\nBerne, le 18 juillet 1966.\n\nAU NOM DU CONSEIL FEDERAL SUISSE :\n\nLe Vice-Président,\n\nLe Vice-Chancelier ,\n\nHerde",
+      "quality_score": 0.9797,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_100_s1",
+      "title": "Pouvoirs de signature de la Suisse",
+      "score": 0.427034,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.415272,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.406558,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.393518,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.392302,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_850_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.385753,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680230_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.378671,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_003_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.376363,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_49_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.373267,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.372719,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

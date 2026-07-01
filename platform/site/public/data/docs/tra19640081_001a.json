@@ -1,0 +1,485 @@
+{
+  "document_id": "tra19640081_001a",
+  "title": "Accord",
+  "year": 1964,
+  "doc_type": "Accord",
+  "languages": [
+    "ar",
+    "ca",
+    "en",
+    "es",
+    "et",
+    "fa",
+    "fr",
+    "pt"
+  ],
+  "quality_score": 0.7959,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "2 سا سه ہی اھ سر بعت ف E E e 1 EE A E pertahun tA REMON. E EEE E e E E E E E E E man SE rae r RENAA ee REE ER ar EERE An Pr: AE PERA DE SE ANS naM S PE R D - EAN MURE -7 oia DE -= pentis aan | DAE -== =: aea EHL n. = y S =: m TL aR Eiai nn E z eE RTA PRR e enD PA RBU Sn S o S g pO T VEITTU CO mT T T a D a e a e a E E E E p ES IRTEE En EE . $. 4 -à -o -. E a E E E E E E EAE o N , PAE E DAE. EE.. i we REVUA. -. Ee: B…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19640081_001a.pdf",
+  "source_filename": "tra19640081_001a.pdf",
+  "source_sha256": "93cbd21435b4b64d3bbec1bf053fe176388ff57f4b51b1a678d82b8658fcf1cd",
+  "treaty_id": "TRA19640081",
+  "treaty_number": "001a",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "2 سا سه\n\nہی اھ سر بعت ف\n\nE E\n\ne 1",
+      "quality_score": 0.5984,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Arabic:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "EE\n\nA E\n\npertahun tA REMON.\n\nE",
+      "quality_score": 0.5032,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "EEE\n\nE\n\ne E E E E\n\nE E E\n\nman\n\nSE\n\nrae r\n\nRENAA\n\nee\n\nREE ER\n\nar EERE\n\nAn",
+      "quality_score": 0.5262,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Pr: AE PERA DE SE ANS naM\n\nS PE R\n\nD - EAN\n\nMURE -7 oia\n\nDE -= pentis aan |\n\nDAE -== =: aea\n\nEHL n. = y S =: m TL aR Eiai nn E z eE RTA\n\nPRR e enD PA RBU Sn S o S g pO T VEITTU CO mT T T a D a e a e a E E E E",
+      "quality_score": 0.533,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "pt",
+        "en",
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "p ES IRTEE En\n\nEE",
+      "quality_score": 0.6065,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": ". $. 4 -à -o -. E a E E E E E E EAE o N , PAE E\n\nDAE.\n\nEE.. i\n\nwe REVUA. -.\n\nEe:\n\nB\n\nBEA: :\n\nEHHA.\n\nRE\n\nBURIN: =.\n\nBN: =.\n\nN:\n\nSENA, ES\n\nRRN: -=\n\nDE: E.\n\nE -5\n\nDAE.:\n\na 2 Ee\n\nMRTE.. =\n\nARDE --: |\n\nURE =\n\nDAE: -°\n\nRA =:\n\nWaat Arr\n\nOANE = :-\n\nDARE r ganh pis\n\nE. EEA -=\n\nRORA- =:\n\naait\n\nOE =: =\n\nEONA -i -2\n\nERA =-\n\nEA =: Erra hini\n\nEMA =: zd ET EEEE E AET EE a zT - PRAA = i. n= a a E EE i EA MET PAEA ATE p ER Danana zı E mnai EA EA E E a aaia e 7 1 iNT AA",
+      "quality_score": 0.5425,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "ca",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "CONVEN\n\nTION\n\nD'ETABLISSEMENT ET DE NAVIGATION\n\nENTRE LA FRANCE ET L'IRAN\n\nLe Président de la République Française et Sa\n\nMajesté Impériale le\n\nanimés d'un égal\n\ndésir de resserrer encore les liens\n\nd'amitié tradition-\n\nnelle entre les deux pays et de développer les rapports économiques et de navigation entre les deux pays, ont décidé de\n\net de Navi-\n\ngation tiaires et ont déstené & cos effet pour leurs Plénipoten- Son Excellence le Président de la République Française :\n\nSon Excellence Monsieur Renaud SIVAN,\n\nAmbassadeur Extraordinaire et Plénipotentiaire,\n\nSa Majesté Impériale le Chahinchah d'Iran :\n\nSon Excellence Monsieur Abbas ARAM,\n\nMinistre des Affaires Etrangères,\n\nlesquels, après avoir échangé leurs pleins pouvoirs,\n\nreconnus\n\nen bonne\n\net due forme, sont convenus des articles\n\nsuivants :\n\nArticle 1\n\nLes ressortissants de chacune des Hautes Parties\n\nontractante:\n\nerritoire de l'autre Partie et en sortir a tout moment\n\ntout moment,\n\nsous réserve des dispositions des lois de police,\n\nd'ordre\n\ncables a to us de sécurité et de\n\ndéfense nationale,\n\nsont appli-\n\ncables\n\nles étrangers. Sous\n\npeuvent voyager\n\net s'établir sur\n\nles mêmes réserves\n\nils\n\nce territoire\n\naux mêmes\n\nconditions que les\n\nressortissants\n\nde la nation la plus favo-\n\nrisée.\n\nLes ressortissants\n\nParties\n\ncontractantes jouissent sur le territoire d'une\n\nde l'autre Partie\n\nentière protection,\n\nsonne\n\nconcerne leur per-\n\nleurs biens\n\net leurs intérêts,\n\net bénéficient\n\nà\n\ncet égard\n\ndroits\n\nprivilèges qui\n\nsont ou seront accor-\n\ndés aux ressortissants de\n\nla nation la\n\nfavorisée.",
+      "quality_score": 0.9918,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "Article 2\n\nLes ressortissants\n\nde chacune des Hautes Parties\n\ncontractantes jouissent,\n\nsur le territoire\n\nde l'autre Par-\n\ntie,\n\nmêmes droits civils que\n\nles ressortissants\n\ndite Partie.\n\nLa loi applicable est\n\ndéterminée d'après les règles\n\nde conflits de lois.\n\nEn tout état\n\npersonnel des Français sur le territoire dé 1 Empire d'Iran\n\net le statut personnel des\n\nsur le territoire de la République Française est iranienne.\n\nEn outre, sous réserve de réciprocité,\n\nsortissants de chacune des Hautes bénéficient,\n\nle territoire de l'autre Partie,\n\nfavorisée en ce qui concerne\n\nle droit de Jeu dien disposer, conformément à la législation\n\nd'acquérir, posséder tous\n\nen vigueur.\n\nArticle 3\n\nLes droits et intérêts légitimement acquis par les et sociétés de l'une des Hautes Parties\n\ncontractantes ne seront pas compromis sur les territoires\n\nPartie Contractante par des mesures de\n\ncaractère arbitraire ou discriminatoire.\n\nLes biens des ressortissants et des sociétés de\n\nl'une des\n\nHautes Parties contractantes ne feront pas les territoires de l'autre Haute Partie contrac-\n\ntante, d'une mesure d'expropriation pour cause d'utilité publique ou de nationalisation qui ne serait pas applica-\n\nconditions,\n\nSortissants de la nation la plus favorisée.\n\naux nationaux et aux res-\n\nCes mesures devront donner lieu au paiement d'une\n\njuste indemnité.\n\nCelle-ci\n\ndevra être déterminée\n\net effec-\n\ntivement réalisable et transférable soit\n\nau préalable soit\n\ndans un délai raisonnable.\n\nArtICTe 4\n\nSous réserve de réciprocité les\n\nressortissants\n\nde chacune\n\ndes\n\nHautes Parties\n\ncontractantes\n\njouissent\n\nsur\n\nle territoire\n\nde l'autre Partie contractante du traitement\n\nBary",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "de la nation la\n\nplus favorisée en\n\nce qui concerne l'exercice\n\nde l'industrie,\n\nde l'artisanat,\n\nl'agriculture,\n\nprofessions libérales ainsi que des professions\n\nsalariées\n\nsalariées.\n\nSont exceptées de l'application\n\ndu présent article\n\nactivités participant\n\nl'un des\n\nmême à\n\noccasionnel, à l'exercice de l'autorité\n\npublique.\n\nArticle 5\n\nLes personnes physiques\n\nHautas Parties Contractentes def accès devant les l'autre Partie,\n\nlibre et facile\n\nTribunaux\n\nà tous les degrés de juridiction,\n\ncours\n\nd'arbitrage,\n\ntant pour réclamer que\n\npour défendre leurs\n\ndroits et\n\nintérêts.\n\nElles jouissent,\n\nà cet égard,\n\ndes mêmes\n\nastreintes aroues le caution nudicatum solvet bas cient de l'assistance judiciaire dans les mêmes conditions que les nationaux.\n\nLes Hautes Parties contractantes\n\nsont d'accord\n\nour appliquer entre elles les chapitres III et IV\n\nde la\n\nlonvention de La Have du ler mars 1954 sur la procédure civile en ce qui concerne les matières régies\n\npar ces\n\nchapitres.\n\nArticle 6\n\ntes sont okamptut oue Sha cere tortauees\n\nPartractant es service militaire\n\narmées régulières,\n\nmilices,\n\nprestations militaires\n\nen remplacement de ce\n\nservice ou\n\nprestations.\n\nce qui concerne leurs biens, les ressortissants\n\nles sociétés de chacune des\n\nParties contractantes\n\nastreints,\n\nde paix et en temps\n\nqu'aux réquisitions imposées\n\naux nationaux, et ils\n\naux indemnités accordées à\n\nces derniers par les lois en vi-\n\nLe traitement qui leur\n\nréservé ne pourra\n\navantageux\n\nfavorisée.",
+      "quality_score": 0.967,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "Article 7\n\nLes ressortissants de chacune des Hautes Parties\n\nContractantes l'autre\n\nne sont pas assujettis sur\n\nle territoire\n\nde\n\nPartie à des droits,\n\ntaxes, impôts ou contributions,\n\nsous quelque dénomination que ce soit et pour le compte de qui que ce soit, autres ou plus\n\nélevés que ceux qui sont\n\nperçus sur les\n\nnationaux dans\n\ndes situations\n\nIls bénéficent\n\nnotamment,\n\nidentiques.\n\ndans les mêmes\n\nconditions que\n\nles nationaux,\n\nréductions\n\ntaxes, et des\n\ndégrèvements\n\net exemptions\n\nd'impôts\n\nou de\n\nà la\n\ncompris les\n\ndéduc-\n\naccordées pour charges de famillé.\n\nétats contractants conviendront de mesures\n\npermettant de réprimer l'évasion fiscale et d'éviter les doubles impositions.\n\ndispositions qui précèdent ne\n\nfont pas obsta-\n\ncle à la\n\nperception,\n\néchéant,\n\ntaxes afférentes à\n\nl'accomplissement\n\ndes formalités de\n\npolice ou de toutes\n\nautres Iormalites,\n\nsi ces taxes sont\n\négalement perçues sur\n\nétrangers.\n\nLe taux de ces taxes ne pourra être\n\nsupérieur à celui\n\ndes taxes perques sur\n\nles ressortissants\n\nde tout autre\n\nArticle 8\n\nLes\n\nsociétés civiles et commerciales ainsi que\n\nles établissements publics légalement constitués\n\nsur le\n\nterritoire\n\nde\n\nParties contractantes et\n\ny ayant leur siège social sont reconnus par l'autre Partie\n\ns'ils exercent sur ce terri-\n\ntonne ene tattite de cementare excusement comerciat\n\nCes sociétés et établissements peuvent\n\net exer-\n\ncotte tttece 2naustroTe e commeres asen conortemant cer toute aux conditions\n\nétablies par les lois en vigueur applicables\n\naux établissements et sociétés de tout autre pays.\n\nLes\n\ndites sociétés et établissements n'auront pas\n\nà payer pour l'exercice de leur activité commerciale ou industrielle sur le territoire de\n\nl'autre Partie,\n\ndes impôts,\n\ndroits ou taxes supérieurs ou différents de ceux qui sont acquittés par les entreprises nationales.\n\nArticle 9\n\n1. Aux termes\n\nde la présente\n\nsion \"'navires\" comprend toutes les catégories de\n\nConvention bâtiments\n\nl'expres- .../.",
+      "quality_score": 0.9802,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "merdes art eppartse qu'ils appartiennent\n\nou soient exploités par 1'Etat\n\nCette expression ne vise\n\nnavires\n\nde guerre.\n\n323 % : Sتا\n\n2. Les navires battant pavillon de l'une des Parties\n\nContractantes et porteurs\n\ndocuments prescrits par la lé-\n\ngislation\n\nleur nationalité\n\nsidérés\n\nnavires de ladite Partie.\n\n3. Les certificats de\n\njauge délivrés par les autorités\n\ncompétentes\n\nreconnus par les\n\ndeux Parties.\n\ndroits et taxes de navigation\n\nse font sur la\n\ncertificats de jauge sans qu'il soit procédé à un jaugeage conforme aux\n\ndispositions applicables\n\nterritoire\n\nde l'autre Partie,\n\n, à condition toutefois que\n\ncertificats\n\ns'appliquent bien aux navires tels qu'ils ont été\n\nprésentés au moment de la mise en\n\n4. Sont reconnues par chacune\n\nParties contrac-\n\ntantes les dispositions légales et\n\nréglementaires de l'autre\n\nl'ehtretien rien des navires f passagers se dee\n\nl'installation\n\nainsi que la protection\n\ndes navires de charge,\n\nment reconnus\n\nSont égale-\n\ncertificats\n\ndélivrés en vertu de ces dispo-\n\nde l'une\n\nsédant les certificats\n\ncontractantes pos- dans les ports de\n\nl'autre Partie au contrôle du\n\nfonctionnaire\n\ndans la mesure où\n\ncontrôle a\n\nexiste à bord des certificats valables.\n\nCes certificats seront considérés comme suffisants à moins que, de l'avis du fonctionnaire chargé du contrôle, navigabilité\n\ncorresponde pas en substance\n\nindications qui y sont portées et\n\nqu'il ne puisse prendre la\n\nmer sans danger pour ses passagers fonctionnaire chargé du contrôle\n\néquipage. Le dans ce cas,\n\ndispositions convenables pour empêcher informe immédiatement et\n\ndépart du\n\npar écrit le Consul de l'autre\n\nde la décision prise et des circonstances qui l'ont\n\nArticle 10\n\n1. Chacune des Parties Contractantes\n\nassurera dans\n\nses ports\n\naux navires\n\nbattant\n\npavillon\n\nde l'autre\n\nPartie\n\n｛",
+      "quality_score": 0.9841,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "même traitement\n\nqu'à ses propres navires en\n\nconcerne les\n\nla perception\n\nportuaires ainsi que la\n\nliberté d'accès\n\nleur utilisation\n\net toutes les commodités\n\naccorde à la navigation\n\net aux opérations\n\nmerciales pour les navires et leurs équipages, les passagers et les marchandises. Cette disposition\n\nvise notam-\n\ndes places à quai\n\net les facilités de\n\nde déchargement.\n\n2. Les dispositions du paragraphe précédent ne\n\ns'appliquent légalement\n\nréservés eux navigation des\n\nactivités\n\npar chacune\n\ndeux rarties et,\n\ntamment,\n\naux services de\n\nau cabotage natronal et a la pêche maritung.\n\nau remorquage, au pilotage,\n\nArticle 11\n\n1. Si un navire de l'une des Parties Contractantes fait naufrage près des côtes de l'autre Partie,\n\nou s'il est en détresse et doit toucher un port de ladite celle-ci accordera au navire ainsi qu'aux personnes et biens qui sont à bord les mêmes protection tance qu'à un navire battant son propre pavillon. Elle lui\n\négalement l'autorisation de poursuivre\n\naprès réparations.\n\n2. Les objets sauvés d'un navire échoué ou naufragé\n\net de sa cargaison seront restitués au propriétaire ou à son\n\njustifie de son droit dans\n\nont été vendusdes\n\nproduit net de la vente, après déduction le cas échéant droits\n\naux conditions\n\njustification ou de son représentant.\n\nsusvisées, te montant des droits de sauvetage et\n\ndes autres frais occasionnés par le\n\nsauvetage\n\nsera calculé\n\nd'après les mêmes règles que celles applicables aux nationaux.\n\n3. Sous réserve des dispositions législatives ou\n\nréglementaires\n\nconcernant les épaves\n\nmarchandises\n\nnaufragées,\n\nles navires\n\nsauvés seront\n\nexonérés de\n\net taxes de douane\n\ns'ils ne\n\ndestinés à\n\nl'utilisation\n\nla consommation intérieures",
+      "quality_score": 0.9825,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "s 3365\n\nm’\n\n22221\n\ntoutefois,\n\ndans cette\n\nà des mesures de\n\nhypothèse, ils\n\npeuvent être soumis\n\nsûreté duanière, jusqu'à réexportation.\n\nArticle 12\n\nréglementaires et\n\nSous réserve des dispositions législatives\n\net\n\nnotamment\n\ncelles relatives\n\nnationa-\n\n1ュtを des\n\nles\n\npavillon\n\nde l'une équipages des Parties\n\ncapitaines\n\nde navires battant\n\nContractantes.\n\net dont l'équi-\n\npage n'est pas\n\ncomplet\n\nautre motif,\n\nsont autoriseler suite\n\nde maladie ou pour tout\n\nà engager dans les ports de\n\nl'autre\n\nPartie les marins nécessaires\n\nà la poursuite du\n\nvoyage.\n\nLes marins\n\nainsi engagés auront le droit après exé-\n\ncution du contrat\n\nde se faire rapatrier aux frais de l'ar-\n\nmateur.\n\nArti ale_13\n\nLe traitement le plus\n\nfavorisé que les Hautes\n\nParties Contractantes s'accordent\n\nréciproquement dans\n\nLa\n\nprésente Convention ne s'étend\n\npas :\n\nal aux avantages résultant d'une union douanière\n\nou monétaire, de l'existence d'une ou d'accords régionaux qui sont ou\n\nconclus par\n\nla suite par l'une des Hautes Parties\n\nContractantes,\n\nb) aux privilèges\n\net avantages que l'une des\n\nHautes\n\nParties Contractantes accorde ou\n\naccordera à\n\nd'autres Etats en raison des rapports spécifiques qu'elle entretient avec ceux-ci parce que les uns et\n\nles autres\n\nappartiennent ou ont appartenu à une conmunauté\n\norganisant\n\nen commun un ou plusieurs\n\nsecteurs\n\ncommerce\n\net\n\ndes\n\nde la production, du\n\nservices de sécurité.\n\nArticle 14\n\nTout différend\n\nrelatif à l'interprétation ou à\n\nl'application\n\nde la présente\n\nconvention\n\nqui n'aura pu être\n\nréglé par la voie diplomatique\n\nsera\n\nà la demande\n\nde l'une des\n\nHautes Parties\n\narbitral\n\nqui\n\ncontractantes, sera\n\nconstitué de\n\nla manière suivante :",
+      "quality_score": 0.9811,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "des Hautes Parties contractantes\n\nson représentant de la date de réception\n\nde la demande d'arbitrage.\n\nde deux mois après la notification de la\n\nnommés choisiron partie qui a\n\ndésigné son arbitre la dernière, un troisième arbitre, ressortissant d'un Etat tiers.\n\nDans le cas où l'une des Parties n'aurait pas\n\ndésigné d'arbitr président\n\nPartie pourra\n\ndemander\n\nsignation\n\nde la Cour Internationale de\n\nJustice.\n\nIl en sera\n\nmême à la diligence\n\nde l'une ou\n\nl'autre Partie,\n\ndéfaut de choix d'un troisième arbitre\n\npar les deux\n\npremiers.\n\nLes Hautes Parties contractantes pourront\n\ns'entendre à l'avance pour désigner pour une période déterminée le personne\n\nde troisième arbitre.\n\nqui remplira,,, décision des'\n\nlitige,\n\nsera définitive et obligatoire.\n\nArticle 15\n\n1 - La présente Convention sera ratifiée. Elle\n\nentrera en vigueur trente jours après l'échange des instruments de ratification.\n\n2 - La présente Convention aura une durée de ans et restera en vigueur après\n\nce terme tant que\n\nHautes Parties\n\ncontractantes n'aura pas notifié\n\npréavis de six mois son intention d'en\n\nfaire cesser\n\nEn foi de quoi les Plénipotentiaires respectifs signé la présente convention et y ont apposé leurs sceaux.\n\nFait en double exemplaire en langues française\n\net persane,\n\nles deux textes faisant également\n\nfoi.\n\nTéhéran, le 44 Jviv19\n\nAram\n\nPour le Gouvernement de la\n\nRépublique Française\n\nPour le Gouvernement\n\nImpérial de l'Iran",
+      "quality_score": 0.9948,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "actantes un mois à e d'arbitrage.\n\ndans le délai rtie qui ne arbitre, n'aurait pas nander sa dé- nationale de de l'une ou sième arbitre pourront période de litige, sion des\n\natifiée.\n\nElle ange des ins- ne durée de ne tant que ra pas notifié en faire cesser res respectifs pposé leurs ues française nt foi.\n\nAram le Gouvernement rial de l'Iran\n\nاين محكمه بدينقرار است :\n\nهربك ازطرفين متعاهد ين نما ينده خود راتايكماه ازتاريخ دريافت درخواست داورى تعيين خواهد كرد . داورانى كمباين طريق تعيين ميشوند تاد وماه ازتاريخ اعلام طرفى كه داور * ودرابعدا\" تعبين كرده است داورسومى راكه تبعه كشور ثالش باشد\n\nانتذابخوا مند لرد .\n\nهركاه يكى ازحلرفين قرارداد داورى معرفى نكند طرف ديكرميتواند ازرئيس ديوان بين المللى داد كسترى تعيين اين داور راتقاضا نمايد . اين طريق درموردى هم كمد اور مشترك راطرفين انتخاب نكرده باشند بتقاضاى يكى ازارفين قرارد اد اجر اخواهد كرديد .\n\nطرفين قرارداد ممكن است باتوافق قبلى شخصى راكمد رصورت بروز اختلاف بايد داور مشترك باشد براى مدتى معين انتخاب كنند تصميم داوران قطعى والزام اورخوا هد بود .\n\nماده يانزدهم\n\n١ - اين قرارداد بمتصويب خواهد رسيد ويس ارسى روز ازتاريخ مباد له اسناد تصويب\n\nبمورد اجراكذاشته خواهدشد .\n\n٢ - مدت اعتباراين قرارداد بنج سال است ويس ازاين مدت هم تاوقتى كم يكى از طرفين تحميم خود رامبنى برفسخ ان بااطلاع قبلى ششماهه بطرف ديكرابلاغ تنمايد\n\nممجنان معتبر خواهد بود .\n\nنظر بمراتب فوق نما يندكان مختار طرفين قرارد اد حاضر راامضاء كرد ماند .\n\nاين قرارد ادد رد ونسخه بزبان فرانسه وفارسى كه هرد ومتن متساويا معتبر ميبا شد\n\nتنظيم كرديد .\n\nبتاريخ لوم يراه ٠ ١٣٢٣ بازطرف دولت شاهنشاهي ايران\n\nتهران ازطارف دولت جمهورى فرانسه denantenay",
+      "quality_score": 0.963,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fa",
+        "ar"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "معاف خواهندبود ولى دراين مورد نيزممكن استاقدامات تامينى مركى تأصدور مجدد\n\nاشياء وكالا هاى مزبور بعمل ايد .\n\nماد هد وازدهم\n\nبارعايت مقررات قانونى ومخصوصا\" مقررات مربوط به تابعيت كاركنان كشتيها فرماندهان كشتيهاى حامل يرجم يكى ازطرفين قرارداد كمتعداد كاركنان انها بعلتبيمارى ياعلل ديكر دامل تباشد اجازه خواهند داشت دربنادر طرف ديكررارداد عده ملوانان لازم رابراى ادامه سافرت استخدام كتند . ملوانانى كمباين طريق استخدام ميشوند حق دارنديس ازانقضاى\n\nقرارداد به عزينه مالك ؟ثبتى بميهن خود بازكردند .\n\nماده سيزدهم\n\nساعد ترين رفتارى كه طرفين معتلمين متعاهد ين متقابلا\" درقرارداد حاضر براى يكدير\n\nقائل ميشوند شامل موارد زيرنخواهد بود ،\n\nالف _ امتيازات ناشى ازاتحاد 5مركى يابولى ياناش ازوجود منطقه ازاد يانا شى از موافقتنا ممهاى نأحيه تى كميكى ازدارفين متعاهدين انهارا امضاء كرد ماست يا ازاين يس امضاء\n\nخواهد كرد .\n\nب - مزايا وامتيازاتيكه يكى ازطرفين قرارداد بعلت داشتن روابط خاص با دول ديكر براى أنها منشورد اشته است ياخواهد داشت . اين روابط خاص ناش ازاينستكه اين دول باتحاديه اى تعلق دارند ياتعلق داشتهاندكهدريك باجندرشته امورتوليد يابازركاني باامير\n\nمربوط بامنيت مشتركا \"سازماني بوجود اورد ماند ، ماد مجهاردهم мома\n\nمركاه حل اختلاف ناشى ازتفسير بااجراى اين قرارداد ازاريق سياسى ميسر نباشد بدرخوأست يكى ازلرفين فرارداد ان اختلاف بمحكمه داورى احالمة واهد شد ودارز تشكيل",
+      "quality_score": 0.9937,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fa",
+        "ar"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 17,
+      "text": "باشند ازلحاظ اجراى تشريفات كمركى ود ريافت حقوق وعوارض بندرى وهمجنين ازلحاظ دسترس بلامانع به بنادر واستغاده ازانها واستفاده ازتسهيلات دريانوردى وعمليات تجارى كشتيها وملوانان ومسافران وكالاها بهمان كونه وفتارخواهد تردكه باكشتيهاى خود رفتار ميتند واين ترتيب بخصوص ناظر بمتهيه وتعيين محل د راسكله وايجاد تسهيلات براى\n\nباركيرى وتخليه خواهد بود،\n\n٢ - مقررات بند فوق شامل دريانوردى وفعاليت وحمل ونقل كمبر طبق قوانين هر بك ازطرفين قرارداد مختص بخود انهاست مخصوصا \" خدمات بندرى ويدك كشى وراهنمائى\n\nوكابوتار وصيد درد ربانخواهد شد ماده يازدهم амам\n\n١ - هركّاه كشتى متعلق بيكى ازطرفين قرارداد درنزد يكى ساحل طرف ديكر در كل فرود رود ياغرق شود يا بعلت مواجه باخطر به لنكر انداختن دريكى ازبناد ر طرف ديكر جبور باشد طرف متعاهد مزبوريا اين كشتى ومسافران واموال انها مانندكشتين رفتارخواهد كردكه يرجم خود أنكشور رابرافراشته باشدونيزاجازه خواهد دادكم كشتى يس ازتعمير مسافرت\n\nخود رااد امه دهد .\n\n٢ _ اشياء ومحمولاتى لهازنشتى بكل نشسته ياغرق شده بدست ميايد بمالك يا نما ينده او يس داده خواهد شد بشرط انكه مالك حق خود را د رمهلت قانونى اثبات لقد .\n\nهركاه اشياء مزبور بفروشر رسيده باشد مبلغ خالص فروش يسس از كسر حقوق وعوارض كمركس در صورتاقتضاء وبشرط انكمما لك حق خودرا قبلا \"بثبوت رسانده باشدد راختيارما لك يانما ينده او كذاشته خواهد شد . محاسبه مبلغ مربوط بههزينه نجات لشتى وساير هزينهها برابق همان\n\nمقررا تيسمتكه درمورد كشتيهاى ملى أجراميشود .\n\n٣ - بارعايت مقررات قانونى يا ائين تامه هاى مربوط باشياء وكالا هاى عرق .ده كشتيم واشياء نجاتيافته الربراى استعمال يامصرف داخلى نباشد ازتليه عوارض وحقوق المركى",
+      "quality_score": 0.9962,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar",
+        "fa"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 18,
+      "text": "كم بدولت يا اشخاص تعلق داشته ويامورد بهره بردارى انها قراركيرد اين اصطلاح\n\nكشتى هاى جنكى رأشامل نميشود ،\n\n٢ - كشتيهاى دارند هيرجم يكى ازطرفين رارداد وحامل اسناد ومداركى كه قانون ان طرف براى اثبات تابعيت انها لازم ميداند متعلق بدان طرف شناخته خواهند شد .\n\n٣ - تواهى نامه هاء خلرفيت صادره ازناحبه مقامات صالح راطرفين قرارداد قبول خواهندكرد حقوق وعوارض كشتى رانى براساس واهينامه هاى مزيور محاسبه ويرد اخت خواهد شدود راين مورد احتياجى باندازه كيرى مجدد تمرفيت برطبق مقررات جارى طرف ديكر قرارداد نيست مشروط براينكه كوا هينا ممهاى مذكور منطبق باوضع كشتى هاد رموقع ورود بأمرك\n\nباشد .\n\n٤ - هريك ازطرفين متعاهد ين مقررات قانونى وائين نامههاى طرف ديار را در مورد كاركنان وتجهيزات وتاسيسات ونكا هدارى كشتيهاى مسافرى وكشتيهاى باربرى وهمجنين در مورد حمايتجان اشخاص درد رباقبول خواهد كرد . همجنين ؟واهى نامهها صادره بموجب ممين مقررات مورد قبول طرفين خواهد بود . هريك ازكشتيهاى متعلق بطرفين قرارداد كه داراى كواهى ناممهاى مذكور باشد دريناد ر طرف ديكرمورد بازرس ما موره الح ان طرف واقع خواهد شدواين بازرس محد ود است به تحقيق دروجود كواهى نأمه هاى معتبر .درمورد اين تواهى نامهها اصل كفايت انها است مكرانكه بنظارما موربا زرس قابليت دريانورد ى كشتى با شخصات مذكورد روا هى نامه ما مغايرت كلى داشته باشدو رفتن تشتى بدريا براى مسافران باملوانان خطرناك باشد دراين صورت ماموربازرسي كليماقدامات لازم رابمنظور ممانعت از حركت كشتى بعمل ميا ورد وبلافاصله به كنسول طرف ديكر قرارد اد اين تحميم وعلل انراكتبا \" اطلاع\n\nميدهد ،\n\nماد ه د هم\n\n١ - هريك ازطرفين قرارداد در بناد رخود باكشتيهائيكه داراى يرجم طرف ديكر",
+      "quality_score": 0.9778,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar",
+        "fa"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 19,
+      "text": "ماده هنتم\n\nاتباع هريك ازطرفين ترارداد درخاك طرف ديكربهيج عنوان وبهحسا بهيجكس نبايد عوارغر ومالياتى بيشتر ياغير ازانجه اتباع داخلى در مواردى مشابه برعهده دارند ببرد ازند ومخصوصا \" ما نند اتباعد اخلى تخفيفها ومعافيت هاى عوارضى يا مالياتى وتخفينماى مالياتى ازجمله تخفيف هاي مربوط بعيال واولاد بدانان تعلق خواهد كرفت . دول متعاهد درمورد اينكه فرارازيرداخت ماليات تعقيبو قلع شود واز برداخت ماليات مضاعف احتراز بعمل ايد بايكد يكرتوافق خواهند نمود . مقررات فوق در صورت اقتضاء مانعازد ريافت عوارض مربوط بهاقامت وعوارض مربوط باجراى تشريفات بليسى نخواهد بود بشرط اينكه اين عوارض ازكليه بيكانكان دريافت شود . مبلغ عوارض.\n\nمزبورنبايد بيشترازمبلغ عوارضى باشدكهازاتباعد ولتهاى ديكر د ريافت ميشود .\n\nماده هشتم\n\nشركتها ى تجارى ومدنى وهمجنين موسسات عمومى كه برطبق قانون درخاك طرف متعاهد ديكر تاسيس يافته ومركز شركت نيزدران خاك أست د رصورتيكه در محل تاسيس منحصرا\" بفعاليتها تجارى بيرد ازند بوسيله طرف متعاهد ديكرقانونى شناخته خواهد شد .\n\nشركتها وموسسات مزبورير طبق مقررات جاركه در مورد موسسات وشركتهاى كشورهاى ديكر نيزقابل اجرابا شد ميتوانند استقراريا بند وشعبه هاونما يندكيهائى\n\nتأسيس كنند وبهركونه فعا ليت تجارى و صنعتى بيرد ازند .\n\nشركتها وموسسات مذكورا زلحاظ فواليتها تجارى باصنعتى خود درخاك طرف ديكر مشمول برداخت مالياتها وحقوق وعوارضى بيشترباغيرازانجه ازطرف موسسات ملى\n\nبود اخت ميشود تخواهند بود ،\n\nماده نهم سمس\n\n١ - دراين قرارد ادغرير ازكلمه \"كشتى \"كليه انواع شناورهاى درباييمائى است",
+      "quality_score": 0.9801,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fa",
+        "ar"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 20,
+      "text": "بدون دستمزد ازرفتاركه نسبت بدولت كاملة الوداد ميشود برخورد ارخ واهند بود .\n\nفعاليتهائي كمد ريكى ازد وكشور حتى بصورت اتفاقى جنبه، شركت در مشاغل رسمى ودولتى داشته باشد ازمقررات مغاد اين ماده مستثنى خواهند بود .\n\nماده ينجم\n\nاشخاص حقيقى وحقوقى هريك ازطرفين قرارد ادد رقلمرو طرف ديكر باحمان حقوق و امتيازات اتباع داخلى براى اقامه دعوى به هريك ازمراجع قضائى وداد كا ههاى حكميت خوامعنوان شكايت وخواه بعنوان دفاع از حقوق ومنافع خود أزاد انه حق مراجعه د ارند وبراى اقامه دعوى تامينى ازانان مطاابه نخواهد شد ومانند اتباع داخلى مقرراتمعاضدت\n\nقضائى درباره انان مجرى خواهد بود .\n\nطرفين قرارداد موافقت دارندكه فصل هاى سموجها رقرارد ادعمومى لاهه مورخ اول مارس ١٩٥٤ راد رخصوصائين دادرسى مدنى درمورد موضوع هائى كم فصول مزبورناظر بران است\n\nبين خود مجرى دارند .\n\nماده ششم سهمب\n\nاتباع هربك ازطرفين قرارد ادد رخاك طرف ديكرازهركونه خدمت نظام وظيفهد رارتشريا درنكهبانى يا ارتشر جريك وهمجنين ازهركونه الزامات نظامى شخصى ونيز ازيرد اخت هركونه\n\nوجه نقدى ياجنس بجاى خدمات يا الزامات مزبور معافخوا هندبود .\n\nاموال اتباع و شركتهاى هريك از طرفين جه درزمان صلح وجه درزمان جنك فقط مشمول مصادره هائى خواهد بودكه نسبت باتباع داخلى بمورد اجراكذاشته ميشود غراماتى كه بسه اتباع داخلى برطبق قوانين جارى تعلق ميكيرد باتباع هربك ازطرفين نيز تعلق خواهد كرفت رفتارى ذه نسبت بها تباع مزبور بعمل ميايد نبايد بهيجوجه أزرفتا رنسبت به اتباع دول\n\nكاملة الوداد نامساعدتر باشد .",
+      "quality_score": 0.9972,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar",
+        "fa"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 21,
+      "text": "ماد ه دوم\n\nاتباع هريك از طرفين قرارد اد درخاك ارف ديكر ازهمان حقوق مدنى اتباع\n\nآن إرف متمتع ميشوند .\n\nقانونى كهد راين مورد اجرا ميشود بوسيله اصول تعارثر قوانين تعيين خ واهد شددر هرحال احوال شخصيه فرانسويان درخاك كشور شاهنشاهى ايران تابع قوانين فرانسه و احوال شخديه ايرانيان درخاك جمهورى فرانسه تابع توانين ايران خواهدبود .\n\nبعلاوه بشرط محامله متقابله بااتباع هريك ازطرفين رارداد درخاك طرف ديكر در مورد اجاره واستجاره واستملاك وتصرف اموال منقول وغير منقول وتصرفات ما لكانه بر حسب قوانين جارى همان رفتارى + وامد شدكه نسبت بدول كاملة الوداد مجرى ميشود .\n\nماذه سوم\n\nحقوق ومنافع مشروع اتباع و شركتهاى يكى ازدارفين قرارداد درخاك طرف ديكر نبايد\n\nدستخوشر اقدامات خودسرانه وتبعبثر آميزيكى ازطرفين تراركيرد،\n\nهيجبك ازظرفين قرارد اد نبايد اموال اتباع وشركتهاى طرف ديكر راكه در قلمرو اوست بعلت اقتشاى مصلحت عامه باملى كردن ( *) ازتصرف مااك خارح كند مكر باهمان\n\nشرايطى كم درباره اتباع داخلى واتباع دولت كالملة الوداد مجرى ميكردد .\n\nميزان خسارت مذكور بايد تعيين شود وطورى باشد كمعملا\"قابل وصول وقابل انتقال باشد واين وصول ياانتقال قبلا\"يا درراس موعدى كمعرفا \"قابل قبول باشد صورت ببرد ه\n\nماد ه جهارم мамали\n\nبشرا معامله متقابله اتباع هريك ازمارفين درجاك طرف ديار د رمور باشتغال بتجارت وصنابع وييشهرى وزراعت و مشاغل آزاد وامجنين حرفه هساى بادستمزد يا",
+      "quality_score": 0.9677,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar",
+        "fa"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 22,
+      "text": "قرارد اد اقامت ودريانوردى بين فرانسه و ايران\n\nازانجاكه حضرت رئيس جمهه رغرانسه اعايحضرتحمابون شاهنشا هابران بتشييدر واسط ديستانه قديم وتوسعه روابط اقتصادى ودريانوردى بين دوكشور متساويا \" علاقه دارنس. د بعقد قراردادى درباره أقامت ودريانوردى تصميم رفتند وبراى اين منظورنما يندكان معذتار\n\nخود رابشرح زير معين كردند :\n\nازارف حضر ترئيس حمم رفرانسه :\n\nجناب آقاى رنو سيوان سفيركبيرفوق العاد هوتام الاختبار\n\nازطرف اعليحشرت همايون شاهنشا هايران :\n\nجناب اقاى عباس ارام وزيرا مورخارجه\n\nواين نما يند انيس ازمباد له اختيارنا ممهاعة ودكمصحيح ومعتبر شناخته شد نسبت بمواد\n\nزير موافقت كردند :\n\nماده اول\n\nاتبا ي هريك ازارفين معتامين متعاهدين ميتوانند آزاد انه درقلمروطرف ديئر داخل شوند ود رانجا اقامت كنند ونيز حروقت بخوا مندميتوانندازآن خارح شهند مشروط بر انكه مقررات يليس و نظم عموم وامنيت ودة اع ملى راكهد ر مورد همه بيًا ان مجراست رعايت كنند ممجنين بارعايت ابن مقررات ميتوانند مطابق شرايطى كه درمورد اتباع دول كاملة الوداد\n\nبجرى است درخاك طرف ديكر مسافرت بااقامت كنند ،\n\nاتباع هريك ازطرفين قرارد اد درخاك طرف ديبر ازلحاظ جان ومال و منافع از حمايست كامل آن حارف برخورد ار خواهندبود وازاين بابت از كليه حقوق وامتيازات فعلى يا آتى\n\nاتباع دول كاملة الوداد متمتم خوا هند شد .",
+      "quality_score": 0.9283,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ar",
+        "fa"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 23,
+      "text": "emare e ie (s",
+      "quality_score": 0.5177,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": ": MEN E p p aig : T a DEEE EEE E EE Eu e a E a aaa TE e o a, a7\n\nEIE: - pamp\n\nE . EEA\n\nanin BORN poga\n\nD -. - Piy\n\nBiat: = :\n\nRE- an.\n\nEN F È : i\n\nsiekia, ET va\n\nBAONE -: p\n\nDA o. y\n\nRDA =: s.\n\nDIANE- =., ,\n\nanin DEARA -DE\n\nDEN HES BO\n\nORANI --::-;.::, h.\n\nDSANN -=-= Ae\n\nUULU -i BE: i: i\n\nDEAA O = A seem a aet Ee p t S ae ELT iNe p o Di 1r U EAT BRIDATA. TLA, OWONU -T pT pOT ODE DME ETO T nini iLE a A a EAA TEE EE aE: E T T T a E e AER E T E A LEa aada T Ta TT ci faa Bo ET E Do tigakan",
+      "quality_score": 0.5515,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "en",
+        "pt",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "CE e a a E ES EA EAE A AEA A EE EEA e A EE EAE EA E AEA EE EE S E e R LE W AES V È TETE bbe M LAPL EDIM DD a CTM RA CHor LRT-TU i nol Leh Te Mo l-Wi q- -TTi PTE o. MATS\n\nRERAN BE nirna n eneirat BE inir\n\nAREE : ORA\n\nRREA - i EA\n\nLA Ea i - a:\n\nAR E SHETE\n\ni a H w UNE, .\n\npn uA A EN herhan] a ani\n\nET wide] -A\n\nASEN - SARTI\n\nORA i -A\n\nAPN BER. i\n\nAALSA REE iir\n\nSHIR : E\n\neA -E\n\nTAN : EA\n\nPETA AN -A\n\nA aepaeA] Ean,\n\nEEA KA - DA\n\nBEEN `.: PRA\n\nBeH ` L. Ee -E\n\nEET m -e HEPPA\n\nTane BE 1\n\nEREE E\n\nEPERE NE -PH\n\naae < naear BE:\n\nTE . Da",
+      "quality_score": 0.5678,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "en",
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 26,
+      "text": "nia\n\nAa\n\nEny E\n\nPES\n\nPa\n\nEE\n\nAa\n\nRERE\n\nnaa z Pe Ees nEn\n\nEps ta\n\nAa n\n\nA RENES ENE\n\nA Re ne A]\n\nRE\n\nA EEEE EESE\n\nEEEE\n\nSrani\n\na\n\nTR\n\neee hE pErERERHE eea mE e Aeh ha\n\nEE ANA\n\nAn r maaa are E\n\nM e E R E a RE E\n\nERE\n\naana, aranana ima aa peenem\n\nER aT r r E Er E es e EE ESE ps\n\nA praa F\n\nAtn Eran e e EE a a toa je e ea kE e E\n\nS\n\nSeni:\n\nR ;\n\n: To\n\nEEA\n\nAE\n\ntasi\n\nPEREN\n\nark\n\nA,\n\nnea i tit\n\nAa pa\n\nEee a\n\nSERE\n\nA\n\na\n\nPEorEEE 3 o na\n\nE E\n\nai een}\n\nEEn eis in\n\nErni aaa\n\nPaea 5\n\na e E E E",
+      "quality_score": 0.5469,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "pt",
+        "ca",
+        "et"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 27,
+      "text": "r RSEN ESANEAN\n\nAN EE",
+      "quality_score": 0.5521,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 28,
+      "text": "PaE E Ea",
+      "quality_score": 0.553,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19640081_005",
+      "title": "Instrument de ratification iranien",
+      "score": 0.825489,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220076_001_s1",
+      "title": "Déclaration",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20220078_001_s1",
+      "title": "Déclaration",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20080356_001_s1",
+      "title": "Protocole",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182455_001_s1",
+      "title": "Arrangement",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151406_001_s1",
+      "title": "Accord",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19730140_005",
+      "title": "Instrument iranien",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18620006_001a_s1",
+      "title": "Traité",
+      "score": 0.5,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710031_001a_s1",
+      "title": "Convention (ensemble 1 protocole)",
+      "score": 0.438597,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750103_100_s1",
+      "title": "Publication au Journal officiel du",
+      "score": 0.437576,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_lso001_s1",
+  "title": "Note verbale d'adhésion",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Note No. 87/2011 FR/FRG/3 Embassy of the Kingdom of Lostha Kurfürstenstraße 84 • 10787 Berlin Federal Republic of Germany elefon: 030. 25 75 72 O • Fax: 030. 25 75 72 2 Mail: embleso@yahoo.cor AMBAS ARE FRANCE 28, 0KT. 2011 COURRIER ARRIVEE NOTE VERBALE The Embassy of the Kingdom of Lesotho presents its compliments to the Ministry of Foreign Affairs of the French Republic and has the honour to announce that the Gove…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_lso001_s1.pdf",
+  "source_filename": "tra19280002_lso001_s1.pdf",
+  "source_sha256": "87980c3e992e1fff7c17ac4a921c2cf1d0d2af109015de139a29b91face78d1a",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "LSO001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Note No. 87/2011\n\nFR/FRG/3\n\nEmbassy of the Kingdom of Lostha\n\nKurfürstenstraße 84 • 10787 Berlin\n\nFederal Republic of Germany elefon: 030. 25 75 72 O • Fax: 030. 25 75 72 2\n\nMail: embleso@yahoo.cor\n\nAMBAS ARE FRANCE\n\n28, 0KT. 2011\n\nCOURRIER ARRIVEE\n\nNOTE VERBALE\n\nThe Embassy of the Kingdom of Lesotho presents its compliments to the Ministry of Foreign Affairs of the French Republic and has the honour to announce that the\n\nGovernment of the Kingdom of Lesotho has decided to adhere to the Convention relating to international Expositions of 22 November 1928 and to the Protocols of 16 November 1966 and 30 November 1972 and to the Amendments of 24 June 1982 and 31 May 1988. It is on this basis that the Government of Lesotho wishes to inform that it has arrived at a decision to become a member of the Bureau of\n\nInternational Expositions.\n\nThe Embassy of the Kingdom of Lesotho avails itself of this opportunity to convey to the Ministry of Foreign Affairs the renewed assurance of its highest consideration.\n\nBerlin - 26 October, 2011\n\nTo: Ministry of Foreign Affairs\n\nRepublic of France\n\nBERLIN",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.41688,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mlt001_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.395466,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.394651,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_007_s1",
+      "title": "Accusé de réception chypriote de l'instrument français : note verbale et lettre (avec, sur la note verbale, tampon arrivée le 4 février 1983 à l'ambassade de France)",
+      "score": 0.392742,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "colombie_docs_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.391785,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_159_s1",
+      "title": "Notification du bureau international des expositions de l'adhésion de Palaos",
+      "score": 0.389769,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_007b_s1",
+      "title": "Accusé de réception kenyan de l'instrument français daté du 17 novembre",
+      "score": 0.389566,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.389239,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_kna001_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.384497,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_14_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats-membres de l'adhésion de l'Australie à la  convention et au protocole de1972",
+      "score": 0.383844,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

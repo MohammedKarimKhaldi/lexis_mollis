@@ -1,0 +1,328 @@
+{
+  "document_id": "tra19320077_005",
+  "title": "Instrument de ratification soviétique",
+  "year": 1932,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "bg",
+    "ca",
+    "en",
+    "fr",
+    "nl",
+    "pt",
+    "ro",
+    "ru",
+    "uk"
+  ],
+  "quality_score": 0.8542,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "E. nc TT ul PE EI Er PE EEE me H H - 1 - . . . EN oe MEE uo. t E - V ae V 2i Do. 2. E - 2. 1 - 2 PE HE ^n eG ol Ue LU I t tV AN aeria DATI OUI. ur Te de Mate wi Ni Dr TY a eta Ye tll V DADSÀ EEE d TR Rt Se tA. Lc IR E \"e D S LT SL aS IUE a IT BT V auc c. elc. uta NOTE be B . LEN ie te mu ert mI T VULT T.F ue Peu gu eI TOIT DRE TEE AS TST R^ alm FD Ri uL ee A Oe Pa gh ee Eg Ww CRIT Lo eeu Rt Da E Pa RR RAD. CL Rs T E…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19320077_005.pdf",
+  "source_filename": "tra19320077_005.pdf",
+  "source_sha256": "5c770996ce6ae7eefcb86c3df53efffccd623c87e137a69bc0f9b3ff19826437",
+  "treaty_id": "TRA19320077",
+  "treaty_number": "005",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "E. nc TT ul PE EI Er PE EEE me H H -\n\n1 - . . . EN oe MEE uo. t E - V ae V 2i Do. 2. E - 2. 1 - 2\n\nPE HE ^n eG ol Ue LU I t tV AN aeria DATI OUI. ur Te de Mate wi Ni Dr TY a eta Ye tll V DADSÀ EEE d TR Rt Se tA. Lc IR E \"e D S LT SL aS IUE a IT BT V auc c. elc. uta NOTE be B . LEN ie te mu ert mI T VULT T.F ue Peu gu eI TOIT DRE TEE AS TST R^ alm FD Ri uL ee A Oe Pa gh ee Eg Ww CRIT Lo eeu Rt Da E Pa RR RAD. CL Rs T ELS",
+      "quality_score": 0.6517,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "mE Me CN Sok mue\n\n——— mr m Léon ee\n\nTII TEC eee EID REED",
+      "quality_score": 0.6868,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "ЦЕНТРАЛЬНЫЙ\n\nИсполнительный Комитет\n\nСОЮЗА\n\nСоветских Социалистических\n\nРЕСПУБЛИК\n\nОБЪЯВЛЯЕТ, ЧТО",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "Уполномоченный Союза Советских Социалистических\n\nРеспублик совместно с Уполномоченным Французской\n\nРеспублики подписал в Париже 29 ноября 1932 года конвенцию о согласительной процедуре между Союзом Советских Социалистических Республик и Французской Республикой. Этот акт от слова до слова гласит так:",
+      "quality_score": 0.9706,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "КОНВЕНЦИЯ\n\nО: СОГЛАСИТЕЛЬНОЙ ПРОЦЕДУРЕ\n\nCONVENTION\n\nRELATIYE\n\nÀ LA PROCÉDURE DE CONCILIATION",
+      "quality_score": 0.8891,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "uk",
+        "bg",
+        "en"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "КОНВЕНЦИЯ\n\nО СОГЛАСИТЕЛЬНОЙ ПРОЦЕДУРЕ.\n\nЦЕНТРАЛЬНЫЙ ИСПОЛНИТЕЛЬНЫЙ КОМИТЕТ СОЮЗА СО-\n\nВЕТСКИХ СОЦИАЛИСТИЧЕСКИХ РЕСПУБЛИК И ПРЕЗИДЕНТ\n\nФРАНЦУЗСКОЙ РЕСПУБЛИКИ,\n\nсогласно постановлениям статьи УI Договора о ненападении, подии- CAEEOrO CerOAE风， решили заключить Согласительную Конвенцию и для этой цели пазначили своих уполномоченных, именно :\n\nЦентральный Исполнительный Комитет Союза Советских Социалисти- ЧЕСКИХ РЕСПУБлИк :\n\nГ. ВАлериАнА Довгалевского, Чрезвычайного и Полномочного\n\nПосла Союза Советских Социалистических Реслублик при Президенте Французской Республики, и\n\nПреЗидент Французской РЕСпУБлики :\n\nГ. Эдуарда Эррио, Депутата, Председателя Совета, Министра иностранных дел, которые, после обмена своих полномочий, найденных составленными в должной форме и надлежащем порядке, условились о нижеследующих\n\nHOCTaHOBieE五丹X.\n\nСтАтья первАя:\n\nВсе споры, каков-бы ни был их характер, между Францией иСоюзом Советских\n\nСоциалистических Республик, касающиеся фактов, которые возникли-бы после вступления в силу настоящей Конвенции, и не могущие быть улаженными дипломатическим путем, будут переданы, в целях\n\nполюбовного улажения, Согласительной\n\nКомиссии.",
+      "quality_score": 0.9439,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "CONVENTION\n\nRELATIVE\n\nÀ LA PROCÉDURE DE CONCILIATION.\n\nLE PRÉSIDENT DE LA RÉPUBLIQUE FRANÇAISE ET LE COMITÉ\n\nCENTRAL EXÉCUTIF DE L'UNION DES RÉPUBLIQUES SOVIÉTIQUES\n\nSOCIALISTES,\n\nconformément aux dispositions de l'article VI du Traité de non-agression signé ce jour, ont résolu de conclure une Convention de Conciliation et ont désigné à cet effet pour leurs plénipotentiaires, savoir :\n\nLE PRÉSIDENT DE LA RÉPUBLIQUE PRANÇAISE :\n\nM. ÉDOUARD HERRIOT, Député, Président du Conseil, Ministre des\n\nAffaires Étrangères;\n\nLE COMITÉ CENTRAL EXÉCUTIF DE L'UNION DES RÉPUBLIQUES SOVIÉTIQUES\n\nSOCIALISTES;\n\nM. VALERIEN DorGALevsKy, Ambassadeur extraordinaire et plénipo- tentiaire de l'Union des Républiques Soviétiques Socialistes près le\n\nPrésident de la République Française,\n\nLesquels, après avoir échangé leurs pouvoirs, reconnus en bonne et due forme, sont convenus des dispositions suivantes :\n\nARTICLE PREMIER:\n\nTous différends entre la France et l'Union des Républiques Soviétiques Socia- listes, de quelque nature qu'ils soient, relatifs à des faits qui viendraient à se produire après la mise en vigueur de la présente convention et qui n'auraient pu être réglés par la voie diplomatique, seront soumis, aux fins d'un arrangement amiable, à une Commission de Conciliation.",
+      "quality_score": 0.9993,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "-4 =\n\nСтатья ПІ.\n\nогласительная Комиссия состоит из четырех членов, i для каждой сессии, их\n\nсоответствующими Правительствами.\n\nОна избирает, на каждой сессии, своего Председателя из числа своих членов, граждан страны, на территории которой она заседает.\n\nКаждая из Высоких Договаривающихся Сторон может кроме экспертов, призванных участвовать в работах Комиссии с совещательным голосом.\n\nЧлены Комиссии могут требовать, по общему соглашению, заслушания всякого лица, показание которого они считают полезным.\n\nСтатья ПІ.\n\nКомиссия собирается один раз в год, в день, устанавливаемый по общему соглашению обоих Высоких Договаривающихся Сторов.\n\nЭти последние могут условиться об отложении сессии на следующий год.\n\nОни могут, напротив, в спешных случаях, решить, по общему согласию, собрать\n\nКомиссию на чрезвычайную сеселю.\n\nВысокая Договаривающаяся Сторона, которая будет просить об этом собрации, должна будет указать другой Высокой Договаривающейся Стороне то спешное обстоятельство, которым вызывается эта просьба.\n\nНе позднее чем за пятнадцать дней перед собранием Комиссии, каждая из Высоких\n\nДоговаривающихся Сторон передает другой, дипломатическим путем, список вопросов, которые она желает передать на рассмотрение Комиссии.\n\nПродолжительность каждой сессии не превышает пятнаддати двей, кроме случаев ее продления, принятого обоими Правительствами.\n\nКомиссия собирается поотередно в Париже и в Москве, причем первое собрание должно иметь место в Москве.\n\nСтАтья IV.\n\nЗаседания Комиссии действительны лишь в присутствии всех ее членов. Ее решения должны быть приняты единогласно.\n\nСтатья у.\n\nКомиссия сама определяет свою процелуру.",
+      "quality_score": 0.9822,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "-5- ARTICLE II.\n\nLa Commission de Conciliation est composée de quatre membres, savoir deux ressortissants français et deux ressortissants de l'Union des Républiques Soviétiques\n\nSocialistes, nommés, pour chaque session, par leurs Gouvernements respectifs:\n\nElle choisit, ressortissants du pays sur le territoire duquel elle siège.\n\n: Chacune des Hautes Parties Contractantes peut en outre désigner des experts, appelés à prendre part aux travaux de la Commission avec voix consultative.\n\nLes Membres de la Commission ont la faculté de demander, d'un commun accord, l'audition de toule personne dont ils considèrent la déposition comme utile.\n\nARTICLE I.\n\nLa Commission se réugit une fois par an, à une date fixée d'un commun accord arer deus sautes\n\nSles peuvent b de réunir la Commission en session extraordinaire.\n\nLa Haute Partie Contractante qui demandera cette réunion aura à indiquer à l'autre\n\nHaute Partie Contractante la circonstance urgente donnant lieu à cette demande.\n\nQuinze jours au plus tard avant la réunion de la Commission, chacune des Hautes\n\nParties Contractantes remet à l'autre, par la voie diplomatique, la liste des questions qu'elle désire soumettre à l'examen de la Commission.\n\nLa durée de chaque session n'excèdo pas quinze jours, sauf prolongation acceptée par les deux Gouvernements.\n\nLa Commission se réunit alternativement à Paris et à Moscou, la première réunion devant avoir lieu à Moscou.\n\nARTICLE IV.\n\nLa Commission ne peut délibérer valablement que si tous les membres sont présents. Ses décisions doivent être prises à l'unanimité.\n\nARTICLE V.\n\nLa Commission règle elle-même sa procédure.",
+      "quality_score": 0.9839,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "16- СтАтья VI.\n\nКомиссия обязана изучать спорные вопросы, выеседные в нее \"обоими Правительствами, и рекомендовать им толкование, которое она признает юридически обоснованным, или соглашение, которое она находит справедлавым.\n\nС этой целью она представляет каждой из Высоких Договаривающихся Сторов, перед концом каждой сессии, доклад, сопровождаемый проектом урегулирования каждого из споров, переданных ей в течение сказанной сессии.\n\nЭтот доклад может быть опубликован, полностью или частично, лишь с согласия обоих Высоких Договаривающихся Сторон.\n\nЕсли в течение сессии Комиссии не удастся выработать едивогласное предложение по какому-либо вопросу порядка дая, то этот вопрос может, по требованию одной на\n\nСторон, быть снова передан в Комиссию в течение чреавычайной сессии, открываемой не поаднее чем через четыре месяда после закрытия предыдущей.\n\nКаждая на обоих Высоких Договаривающихся Стором обязуется извещать другую, в трехмесячный срок; принамает-ли она предложения, представленные Комиосней.\n\nСтАтья VII.\n\nОбе Высокие Договаривающиеся Стороны обязуются облегчать работы Комиссии, в частности доставляя ей в возножно широкой мере все полезные документы а свеneuus.\n\nОни обязуются равным образом воздерживаться, во время согласительной процедуры, от всех мер, зависящих от них, которые могла бы казаться предрешающим предложения Комиссий, и насколько возмождо принимать по этому предмету все действительные охравительные меры.\n\nСтАтья УІІ.\n\nНастоящая Конвенцин, приложенная к Договору о ненападеним, заключенному сего дня между Президентом Французской Республики и Центральным Исполнительным Комитетом Союза Советских Социалистических Республии, будет ратификована в тех-же условиях.\n\nОна вступит в действие начиная с того-же дня и будет\n\nоставаться в силе в течение того-же времени.\n\nВ УДОСТОВЕРЕНИЕ ЧЕГО Уполномоченные подписали настоящую\n\nКонвенцию и приложили к ней свои печати.\n\nСовершено в Париже, в двух экземплярах, 29 ноября 1932 года.\n\n(М.П.) В•ДОВГАЛЕВСКИЙ\n\n(M.I.) E.HERRIOT.\n\npar le fondé 10 de la diflém\n\nCe ment\n\nSi, sition etre, d'une la pr\n\nCh l'autr la Co\n\nL\n\nCom\n\nIC\n\nliati de l\n\nTato\n\nle P de\n\nElle thei eti",
+      "quality_score": 0.9524,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "-7- ARTICLE VI.\n\nLa Commission est chargée d'étudier les questions litigieuses dont elle est saisie par les deux Gouvernements et de leur recommander l'interprétation qu'elle juge fondée en droit ou l'arrangement qu'elle estime équitable.\n\nA cet effet, elle présente à chacune des Hautes Parties Contractantes, avant la fin de la session, un rapport, accompagné d'un projet de règlement relatif à chacun des différends qui lui ont été soumis au cours de ladite session.\n\nCe rapport ne peut être rendu public, en totalité ou en partie, que du consente- ment des deux Hautes Parties Contractantes.\n\nSi, au cours d'une session, la Commission ne parvient pas à formuler une propo- sition unanime au sujet d'une des questions à l'ordre du jour, cette question peut être, à la requête d'une des Parties, soumise de nouveau à la Commission au cours d'une session extraordinaire, ouverte quatre mois au plus tard après la clôture de la précédente.\n\nChacune des deux Hautes Parties Contractantes s'engage à faire connaître à l'autre, dans un délai de trois mois, si elle accepte les propositions présentées par la Commission.\n\nARTICLE VII.\n\nLes deux Hautes Parties Contractantes s'engagent à faciliter les travaux de la\n\nCommission, notamment en lui fournissant, dans la plus large mesure possible, tous documents et informations utiles.\n\nElles s'engagent également à s'abstenir, durant le cours de la procédure de conci- liation, de toutes mesures dépendant d'elles qui paraitraient préjuger les propositions de la Commission et à prendre autant que possible à ce sujet toutes mesures conser- vatoires efficaces.\n\nARTICLE VIII.\n\nLa présente Convention, annexée au Traité de non-agression conclu ce jour entre te Président de la République Française et le Comité Central Exécutif de l'Union des Républiques Soviétiques Socialistes, sera ratifiée dans les mêmes conditions.\n\nElle prendra effet à partir de la même date et demeurera en vigueur pendant la même durée.\n\nEN FOI DE QUOI, les Plénipolentiaires ont signé la présente Convention et l'ont revêtue de leurs sceaux.\n\nFait à Paris, en double expédition, le 89 Norombro I832,\n\n(I.S.) T.DOTGALIYSKI.\n\n(IaS.) E,HERRIOT.",
+      "quality_score": 0.9921,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "er Te tu N - em = Lt, ae - : ] ]\n\n) 7 \" — mre e ur rr pe e T ET LT Im PTE, LED WT. MILLE zi Deere\n\n| T ms: di = PE AUD DEN Ee\n\n| | |\n\n| {\n\n: { | | | |\n\noer M TT eo aA oot\n\nLL eL",
+      "quality_score": 0.5846,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "high_noise"
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "U p pou semis =, > mae JR, — WM = me et - emi er De codem umm de LE, PU. de - IEE ME ME ee ES mmm ee ee eet v\n\nUe attente Er LR La qtr SE at ETS aS. SE es SL SS ae SS TT a a € ML\n\nES à . . t . -\n\nP: =] ES e 1 \" \"ONE GE E m CER ce E a ACE E ro E X Tm T Dr. Deu ier Ier, ALL Mee. CDL, Dem TE A D lu E n RP e TT",
+      "quality_score": 0.6452,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [
+        "pt",
+        "fr",
+        "nl"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "После рассмотрения вышеуказанного акта Центральный\n\nИсполнительный Комитет Союза Советских Социалистиче- ских Республик утвердил его и ратификовал во всем его содержании, обещая, что все, в вышеуказанном акте изло- женное, будет полностью соблюдаемо.\n\nВ удостоверение чего, Председатель Центрального Испол- нительного Комитета Союза Советских Социалистических\n\nРеспублик подписал настоящую Ратификационную Грамоту, скрепленную Государственной Печатью.\n\nМОСКВА, КРЕМЛЬ\n\n\"ІН » февраля 1933 года.\n\nПредседатель Центрального\n\nСоциалистических Республик\n\nСекретарь Центрального\n\nИсполнительного Комитета Союза Советских\n\nСоциалистических Республик",
+      "quality_score": 0.9759,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ru"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 15,
+      "text": "See LIT\n\n. - MEME TE Mam TA ms DM AE EEE,\n\nMm.\n\nDD RS\n\nM\n\nCAR LEE AT ET TA",
+      "quality_score": 0.7377,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Ded lebe AT TERT Jee AG e e aae amp ANTT TES AE e Eo 4 len Due e ee sp ae pue, Um de eter DI Tui LIU p EE e e, n aa Dri m T ee ed a Du eom HR IT AT EI een TS cul ove Meat s weg ov Tu du EEUU Ree VERDI PUR Ea Un e voa ser cim up te LT MA ie eu efus e Qn a au RTT um IRAN me TA lees tt - .",
+      "quality_score": 0.6719,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:fra+frm+lat+eng:psm6",
+      "language": [
+        "nl",
+        "ro",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19320077_100",
+      "title": "Copie de la convention non signée, manuscrite, et accompagnée d'annotations",
+      "score": 0.981268,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19360013_005",
+      "title": "Instrument soviétique",
+      "score": 0.499999,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_234_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.499999,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19790195_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.412888,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19770374_001_s1",
+      "title": "Texte de l'avenant (ensemble 4 annexes)",
+      "score": 0.409547,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_086_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.400271,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19860200_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.400006,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19290031_005_s1",
+      "title": "Instrument espagnol",
+      "score": 0.399037,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182692_001_s1",
+      "title": "Accord",
+      "score": 0.398551,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20100322_101_fr_s1",
+      "title": "Accord",
+      "score": 0.397232,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

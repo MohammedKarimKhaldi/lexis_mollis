@@ -1,0 +1,116 @@
+{
+  "document_id": "tra20060004_007",
+  "title": "Accusé de réception français de l'instrument russe",
+  "year": 2006,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9864,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Liberté • Egalité - Fraternité RÉPUBLIQUe FRANÇAISE AMBASSADE DE FRANCE EN RUSSIE N° 740 /MID Moscou, le 26 décembre 2006 L'Ambassade de France présente ses compliments au Ministère des Affaires Etrangères de la Fédération de Russie et, a l'honneur d'accuser réception à la date du ler septembre 2006 de sa note n° 7045/ledn l'informant de l'accomplissement par la partie russe des procédures internes nécessaires à l'e…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20060004_007.pdf",
+  "source_filename": "tra20060004_007.pdf",
+  "source_sha256": "c1f3fd975e99a09d48adba6cd6327dfcdface47717b91ce437dae2dbae1787ba",
+  "treaty_id": "TRA20060004",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Liberté • Egalité - Fraternité\n\nRÉPUBLIQUe FRANÇAISE\n\nAMBASSADE DE FRANCE EN RUSSIE\n\nN° 740 /MID\n\nMoscou, le 26 décembre 2006\n\nL'Ambassade de France présente ses compliments au Ministère des Affaires\n\nEtrangères de la Fédération de Russie et, a l'honneur d'accuser réception à la date du ler septembre 2006 de sa note n° 7045/ledn l'informant de l'accomplissement par la partie russe des procédures internes nécessaires à l'entrée en vigueur de l'Accord relatif à la protection mutuelle de la propriété intellectuelle dans le cadre de la coopération militaire et technique bilatérale, fait à Moscou le 14 février 2006.\n\nConformément a l'article 13 dudit Accord, celui-ci est donc entré en vigueur le 1\" septembre 2006.6\n\nL'Ambassade de Franco baisit cette occasion pour renouveler au Ministère des\n\nAffaires Etrangères de la Fédération de Russie l'assurance de sa haute considération.\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nDE LA FEDERATION DE RUSSIE\n\n• Premier Département européen (M. BELOOUS, Directeur)\n\n- Département du Protocole d'Etat (M. MARTCHOUK, Directeur)",
+      "quality_score": 0.9864,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19890163_005_s1",
+      "title": "Instrument soviétique",
+      "score": 0.400199,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20020081_006",
+      "title": "Accusé de réception roumain de l'instrument d'approbation français",
+      "score": 0.399589,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_005_et_007_s1",
+      "title": "Instrument russe ET accusé de réception russe de l'instrument français",
+      "score": 0.39357,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_005_et_007_s1",
+      "title": "Accusé de réception russe de l'instrument français",
+      "score": 0.390867,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20131050_006_s1",
+      "title": "Accusé de réception croate de l'instrument français",
+      "score": 0.385969,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_05_s1",
+      "title": "Accusés-réception de divers pays de l'adhésion de l'Albanie",
+      "score": 0.38558,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20020029_007",
+      "title": "Accusé de réception français de l'instrument de l'ASE",
+      "score": 0.383664,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20130965_007_s1",
+      "title": "Note de l'ambassade accusant réception de la notification canadienne",
+      "score": 0.38362,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_094_s1",
+      "title": "Notification au MAE de la succession de la Slovaquie à la Tchécoslovaquie",
+      "score": 0.383044,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_63_s1",
+      "title": "Pouvoirs de signature de signature soviétique",
+      "score": 0.378778,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

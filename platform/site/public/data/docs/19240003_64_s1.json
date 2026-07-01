@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_64_s1",
+  "title": "Pouvoirs de signature de la Tunisie",
+  "year": 1924,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.921,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "& ÉSIDENCE GÉNÉRALE TUNIS, le de la . + ÉPUBLIQUE FRANÇAISE à TUNIS | POUVOIR Je soussigné, Lucien SAINT, Ministre Plénipotentiaire, Résident Général de la République Frangaise a Tunis, agiasant en tant que Ministre des Affaires Etrangères de S.A. le Bey, donne, par les présentes, à M. PONSOT, Ministre Plénipoten- tisire, SouseDireeteur d'Afrique au Ministère des Affaires Etrangères, pleins pouvoirs à l'effet de sig…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_64_s1.pdf",
+  "source_filename": "19240003_64_s1.pdf",
+  "source_sha256": "4c4dbd96b6e629f674188d8b141658b53a9ed8289526510f499ef576f94d3180",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "TUN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "&\n\nÉSIDENCE GÉNÉRALE TUNIS, le de la . +\n\nÉPUBLIQUE FRANÇAISE\n\nà TUNIS |\n\nPOUVOIR\n\nJe soussigné, Lucien SAINT, Ministre Plénipotentiaire,\n\nRésident Général de la République Frangaise a Tunis, agiasant en tant que Ministre des Affaires Etrangères de S.A. le Bey, donne, par les présentes, à M. PONSOT, Ministre Plénipoten- tisire, SouseDireeteur d'Afrique au Ministère des Affaires\n\nEtrangères, pleins pouvoirs à l'effet de signer, au non du\n\nGouvernement Tunisieg,l'Arrangement du 29 Novembre 1924 por- tant oréation A Paris d'un Office International du Vin.\n\nFait à Tunis, le 24 MAN 6 À qe\n\nLe Ministre Plénipotentiaire, Rósident\n\nGénéral de la République Frangaise à Tunis , #7",
+      "quality_score": 0.921,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.376225,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_61_s1",
+      "title": "Pouvoirs de signature de la Tunisie",
+      "score": 0.370385,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730110_001_s1",
+      "title": "Convention",
+      "score": 0.370327,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_105_s1",
+      "title": "Pouvoirs de signature de la Tunisie",
+      "score": 0.369094,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940335_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.369034,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_39_s1",
+      "title": "Note verbale d'adhésion du Liban",
+      "score": 0.368959,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.368049,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mar001_s1",
+      "title": "Dahir portant ratification de la convention",
+      "score": 0.366808,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240055_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.365447,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.364382,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -104,5 +104,34 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra17130003_024_s1",
+      "title": "Traité de paix entre la France et la Prusse",
+      "score": 0.356088,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17130003_033_s1",
+      "title": "Ratification du traité par Victor-Amédée II, duc de Savoie",
+      "score": 0.352294,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16800003_001",
+      "title": "Traité",
+      "score": 0.351092,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16970010_005a_s1",
+      "title": "Lettres patentes portant ratification du traité",
+      "score": 0.350351,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

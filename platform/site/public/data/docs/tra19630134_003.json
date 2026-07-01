@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19630134_003",
+  "title": "Pouvoirs italiens",
+  "year": 1963,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "it"
+  ],
+  "quality_score": 0.9844,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "I Finsidente delle Republin el tutti coloro che le Presenti vedranno, Salute. L'On. Edoardo MARTINO, Sottosegretario di Stato per gli Affari Esteri, è per le Presenti da Noi eletto e nominato Nostro Plenipotenziario per la firma di una Convenzione tra l'Italia e la Francia relativa agli uffici a controlli nazionali abbinati ed ai controlli in corso di viaggio. A tale scopo conferiamo all'On, Edoardo MARTINO Pieno Po…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19630134_003.pdf",
+  "source_filename": "tra19630134_003.pdf",
+  "source_sha256": "b5552fa6b76db4893004d4ca24ad4363ccd17a5008661aac2c084216c3070a04",
+  "treaty_id": "TRA19630134",
+  "treaty_number": "003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "I Finsidente delle Republin el tutti coloro che le Presenti vedranno, Salute.\n\nL'On. Edoardo MARTINO, Sottosegretario di Stato per gli Affari\n\nEsteri, è per le Presenti da Noi eletto e nominato Nostro Plenipotenziario per la firma di una Convenzione tra l'Italia e la Francia relativa agli uffici a controlli nazionali abbinati ed ai controlli in corso di viaggio.\n\nA tale scopo conferiamo all'On, Edoardo MARTINO Pieno Potere\n\ned ogni necessaria\n\nautorità.\n\nIn fede di che, Noi abbiamo di Nostra mano firmato le Presenti\n\ne vi abbiamo fatto apporre il Nostro sigillo.\n\nDate a Roma il 7 del mese di ottobre dell'anno millenove-\n\ncentosessantatre.",
+      "quality_score": 0.9844,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19730055_09_s1",
+      "title": "Résolution des Etats-membres du CERS/ESRO sur l'adhésion des Pays-Bas (Document sans lieu ni date)",
+      "score": 0.528018,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_36_s1",
+      "title": "Pouvoirs de négociation et de signature de l'Italie",
+      "score": 0.394889,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630134_005",
+      "title": "Instrument italien",
+      "score": 0.388258,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_54_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.387551,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_ita001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.382262,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_435",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.381903,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr002_s1",
+      "title": "Pouvoirs à l'ambassadeur de Saint-Marin à Paris de dépôt de l'instrument d'adhésion",
+      "score": 0.378481,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_003_s1",
+      "title": "Pouvoirs",
+      "score": 0.376493,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630357_003_s1",
+      "title": "Pouvoirs togolais",
+      "score": 0.375688,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.369823,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

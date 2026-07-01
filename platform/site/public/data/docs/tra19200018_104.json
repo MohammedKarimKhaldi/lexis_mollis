@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19200018_104",
+  "title": "Accusé de réception de l'instrument d'adhésion",
+  "year": 1920,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9808,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Liberté - Égalie • Fraternité RÉPUBLIQUE FRANÇAISE MINISTERE DES AFFAIRES ETRANGERES ET DU DEVELOPPEMENT INTERNATIONAL Direction des Affaires Juridiques N° 2016-249404 DJ RÉPUBLIQUE FRANÇAISE Le Ministère des affaires étrangères et du Développement international, en sa qualité de dépositaire du Traité relatif à l'Archipel du Spitsberg, signé à Paris le 9 février 1920, présente ses compliments à la Délégation permane…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19200018_104.pdf",
+  "source_filename": "tra19200018_104.pdf",
+  "source_sha256": "0356f6fc8fc4efa9220d508f3467d0359244be32e4e684cd4f0017145d613893",
+  "treaty_id": "TRA19200018",
+  "treaty_number": "PRK003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Liberté - Égalie • Fraternité\n\nRÉPUBLIQUE FRANÇAISE\n\nMINISTERE\n\nDES\n\nAFFAIRES ETRANGERES ET DU\n\nDEVELOPPEMENT INTERNATIONAL\n\nDirection des Affaires Juridiques\n\nN° 2016-249404 DJ\n\nRÉPUBLIQUE FRANÇAISE\n\nLe Ministère des affaires étrangères et du Développement international, en sa qualité de dépositaire du Traité relatif à l'Archipel du Spitsberg, signé à Paris le 9 février 1920, présente ses compliments à la Délégation permanente de la République Populaire Démocratique de\n\nCorée auprès de l'UNESCO et accuse réception, le 16 mars 2016, de sa note verbale nº15/16/DG/RPDC du 15 mars 2016 par laquelle elle a notifié l'instrument d'adhésion, en date du 20 janvier 2016, de la République Populaire Démocratique de Corée au Traité du Spitsberg susmentionné. Cette adhésion sera notifiée à l'ensemble des Etats parties au Traité.\n\nLES AFFAIRES\n\naris, le\n\nETRANG\n\nтт.\n\nDélégation permanente de la République populaire démocratique de Corée auprès de l'UNESCO\n\nMaison de l'UNESCO 1 rue Miollis 75732 Paris Cedex 15",
+      "quality_score": 0.9808,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200018_103",
+      "title": "Note de transmission de l'instrument",
+      "score": 0.404575,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910247_652",
+      "title": "Instrument de ratification",
+      "score": 0.396559,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.392649,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.391141,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_col002_s1",
+      "title": "Accusé réception de l'instrument d'adhésion",
+      "score": 0.387789,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.383713,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "nv_notification_adhesion_bipm_estonie_-_em_et_bipm_2_s1",
+      "title": "Notification par la France de l'adhésion de l'Estonie à la Convention du mètre",
+      "score": 0.38284,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_049_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de l'Egypte",
+      "score": 0.382092,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.381929,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200018_380",
+      "title": "Succession",
+      "score": 0.380402,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

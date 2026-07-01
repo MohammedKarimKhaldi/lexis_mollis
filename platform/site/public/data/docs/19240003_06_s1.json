@@ -1,0 +1,116 @@
+{
+  "document_id": "19240003_06_s1",
+  "title": "Note verbale d'adhésion de l'Afrique du Sud",
+  "year": 1924,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9896,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "67/3 AMBASSADE DAFROUE DU SUD 51, Avenue Hoche - Paris 8e. L'Ambassade d'Afrique du Sud présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de l'informer que le Gouvernement sud- africain souhaite adhérer à l'arrangement portant création, à Paris, de l'Office International de la Vigne et du Vin. L'Ambassade saurait en conséquence infini- ment gré au Ministère de bien vouloir, selon les terme…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19240003_06_s1.pdf",
+  "source_filename": "19240003_06_s1.pdf",
+  "source_sha256": "70451729a7d3168b9c39ffcf634cba6fd131a39ed43918cda772786f5bc59708",
+  "treaty_id": "TRA19240003",
+  "treaty_number": "015",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "67/3\n\nAMBASSADE DAFROUE DU SUD\n\n51, Avenue Hoche - Paris 8e.\n\nL'Ambassade d'Afrique du Sud présente ses compliments au Ministère des Affaires Etrangères et a l'honneur de l'informer que le Gouvernement sud- africain souhaite adhérer à l'arrangement portant création, à Paris, de l'Office International de la\n\nVigne et du Vin.\n\nL'Ambassade saurait en conséquence infini- ment gré au Ministère de bien vouloir, selon les termes de l'article 6, transmettre cette demande au\n\nGouvernement des Etats participant audit arrangement et de lui faire connaître la décision définitive.\n\nEn remerciant le Ministère de la bienveil- lante attention qu'il portera à la présente demande, l'Ambassade d'Afrique du Sud saisit cette occasion pour lui renouveler les assurances de sa haute\n\nParis, le 12 août 1963.\n\n113400719631\n\nARRIVÉE\n\nMinistère des Affaires Etrangères,\n\nUnions/Internationales,\n\nPar19.",
+      "quality_score": 0.9896,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_016_s1",
+      "title": "Instrument d'adhésion sud-africain",
+      "score": 0.439166,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_62_s1",
+      "title": "Notification à la Syrie de l'acceptation de sa candidature à l'adhésion",
+      "score": 0.415681,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_561_s1",
+      "title": "Instrument d'adhésion marocain",
+      "score": 0.413878,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_562_s1",
+      "title": "Note de transmission de l'instrument marocain",
+      "score": 0.409917,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv003_s1",
+      "title": "Note verbale de dénonciation du protocole de 1972",
+      "score": 0.408842,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_005b",
+      "title": "Second instrument qatari",
+      "score": 0.402734,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.401648,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_50_s1",
+      "title": "Note verbale de demande de transmission de la candidature des Pays-Bas aux autres Etats participants",
+      "score": 0.401119,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240002_011_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.398744,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19910179_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.398057,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

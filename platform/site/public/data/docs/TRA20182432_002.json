@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20182432_002",
+  "title": "Pouvoirs français",
+  "year": 2018,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9912,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AR République Française N°34/2018 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre de. l'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à : Madame Mme Brune POIRSON, Secrétaire d'Etat auprès du Ministre d'Etat, Ministre de la Transition écologique et solidaire pour signer l'Accord entre le Gouvernement de la République française et le Gouvernement de la République de l'Inde rel…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20182432_002.pdf",
+  "source_filename": "TRA20182432_002.pdf",
+  "source_sha256": "6726dea0d1a7e280c76af27c94aa496cfc47b4fef0d2880c42ce233b83211a57",
+  "treaty_id": "TRA20182432",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AR\n\nRépublique Française\n\nN°34/2018\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre de.\n\nl'Europe et des Affaires étrangères, donnons POUVOIRS par ces présentes à :\n\nMadame Mme Brune POIRSON, Secrétaire d'Etat auprès du\n\nMinistre d'Etat, Ministre de la Transition écologique et solidaire pour signer l'Accord entre le Gouvernement de la République française et le Gouvernement de la République de l'Inde relatif à la coopération dans le domaine du développement urbain durable./.\n\nFAIT À PARIS, LE 8 mars 2o 18\n\nLe Ministre de l'Europe et des Affaires étrangères\n\nMi le brian",
+      "quality_score": 0.9912,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20212860_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.626602,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20213116_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.57885,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_002",
+      "title": "Pouvoirs français",
+      "score": 0.425746,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240048_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.411943,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182473_002",
+      "title": "Pouvoirs français",
+      "score": 0.411487,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20202751_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.410935,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182469_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.405481,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20212835_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.405195,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182464_002_s1",
+      "title": "Pouvoirs.",
+      "score": 0.405124,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182365_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.40401,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

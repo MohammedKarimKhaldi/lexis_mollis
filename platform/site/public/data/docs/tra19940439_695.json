@@ -1,0 +1,67 @@
+{
+  "document_id": "tra19940439_695",
+  "title": "Pouvoirs français",
+  "year": 1994,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "nl"
+  ],
+  "quality_score": 0.9919,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DE MINISTER VAN BUITENLANDSE ZAKEN VAN HET KONINKRIJK DER NEDERLANDEN, Overwegende dat het wenselijk is dat voor het Koninkrijk der Nederlanden wordt ondertekend het Verdrag inzake de bescherming van de Maas, BESLOTEN te benoemen als gevolmachtigde van de Regering van het Koninkrijk der Nederlanden mevrouw J.R.H. Maij-Weggen, Minister van Verkeer en Waterstaat, of, voor het geval van haar verhindering, de heer N.P.…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940439_695.pdf",
+  "source_filename": "tra19940439_695.pdf",
+  "source_sha256": "9146a65002f7d52de5b46a74a3597a8ab8a5cc3fdb6d6e23ecccef0c2466dfef",
+  "treaty_id": "TRA19940439",
+  "treaty_number": "FRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DE MINISTER\n\nVAN BUITENLANDSE ZAKEN\n\nVAN HET KONINKRIJK\n\nDER NEDERLANDEN,\n\nOverwegende dat het wenselijk is dat voor het Koninkrijk der\n\nNederlanden wordt ondertekend het Verdrag inzake de bescherming van de Maas,\n\nBESLOTEN\n\nte benoemen als gevolmachtigde van de Regering van het Koninkrijk der Nederlanden mevrouw J.R.H. Maij-Weggen, Minister van Verkeer en Waterstaat, of, voor het geval van haar verhindering, de heer\n\nN.P. Van Zutphen, Chef van de Directie Economische Samenwerking van het Ministerie van\n\nBuitenlandse Zaken, teneinde genoemd\n\nVerdrag te ondertekenen.\n\nOndertekend en gezegeld te 's-Gravenhage, 22 april 1994\n\n711200",
+      "quality_score": 0.9919,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "nl"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940440_696",
+      "title": "Pouvoirs français",
+      "score": 0.953315,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_095",
+      "title": "Pouvoirs flamands",
+      "score": 0.362672,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_095",
+      "title": "Procès-verbal",
+      "score": 0.354505,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

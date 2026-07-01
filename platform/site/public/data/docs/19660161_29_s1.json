@@ -1,0 +1,134 @@
+{
+  "document_id": "19660161_29_s1",
+  "title": "Pouvoirs de signature au Japon",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr",
+    "ja",
+    "ko"
+  ],
+  "quality_score": 0.7366,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "昌和 口論 可 星 圭 野中 オオ 衰 館 圧 坪 ¢ | 下士 缶 | 十 吾 癌 oN 避 半 NNN 呈 き な さき OC 訓 寺 還 抽 本 さい ご 玉 昭和 層 肖 人 詩 叶 厨 中 が 居 人 きき 同 加 OD 部 自民 券 誰 が 怖 計 小 志 磯 統 思 きき 員 商 暴き = 2 ゃ 記 世 出 十 上 古寺 = 二 虎 下す 革 涼 避 知 問 滴 想 了 帯 世 姜 NN NN し 共 思 浅 Traduction Je soussigné certifie par la présente qu'il a été donné à M. Toru Haguiwara, Ambassadeur Extraordinaire et Plénipotentiaire du Japon en France, les pouvoirs à l'effet de signer, au nom du Gouve…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_29_s1.pdf",
+  "source_filename": "19660161_29_s1.pdf",
+  "source_sha256": "c739c40400328be6a3e4649731428f6f4ec93497cd9620869dffe80214c29d38",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "JPN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "昌和 口論 可 星 圭 野中 オオ 衰 館 圧 坪 ¢\n\n| 下士 缶 | 十 吾 癌 oN 避 半 NNN 呈 き な さき OC 訓 寺 還 抽 本 さい ご 玉 昭和 層 肖 人 詩 叶 厨 中 が 居 人 きき 同 加 OD 部 自民 券 誰 が 怖 計 小 志 磯 統 思 きき 員 商 暴き = 2 ゃ 記 世 出 十 上 古寺 = 二 虎 下す 革 涼 避 知 問 滴 想 了 帯 世 姜 NN NN し 共 思 浅",
+      "quality_score": 0.4859,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Japanese:psm3",
+      "language": [
+        "ko",
+        "ja"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "mixed_scripts"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Traduction\n\nJe soussigné certifie par la présente qu'il a été donné à M. Toru Haguiwara, Ambassadeur Extraordinaire et Plénipotentiaire du Japon en France, les pouvoirs à l'effet de signer, au nom du Gouvernement du Japon, le Protocole portant modification de l'article IV de la Convention signée à Paris le 22 novembre 1928 concernant les expositions internationales, sous réserve d'acceptation.\n\nSigné:\n\nEisaku Sato (Sceau)\n\nPrésident du Conseil des Ministres,\n\nMinistre des Affaires étrangères ad interim du Japon\n\nTokyo, le ler novembre 1966",
+      "quality_score": 0.9872,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.410564,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_56_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.394184,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_57_s1",
+      "title": "Instrument d'adhésion du Japon",
+      "score": 0.393439,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_28_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'acceptation du Japon",
+      "score": 0.388192,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_61_s1",
+      "title": "Pouvoirs de signature de la Tunisie",
+      "score": 0.387184,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_47_s1",
+      "title": "Pouvoirs de signature du Portugal",
+      "score": 0.384617,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.384301,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_71_s1",
+      "title": "Notification aux ambassadeurs auprès des Etats membres de l'adhésion de la Norvège au protocole",
+      "score": 0.382133,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_034_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.382109,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.381689,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

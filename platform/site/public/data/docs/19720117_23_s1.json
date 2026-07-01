@@ -1,0 +1,100 @@
+{
+  "document_id": "19720117_23_s1",
+  "title": "Réserves sur les articles 34 et 35",
+  "year": 1972,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.998,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "BIELORUSSIE Réserve incluse dans les pouvoirs : \"Le Gouvernement de la République socialiste soviétique de BIELORUSSIE ne se considère pas lié par les dispositions sur l'arbitrage - p.p 3 et 4 de l'article 34\". Déclaration faite sur papier libre au moment de la signature : Le Gouvernement de la République socialiste soviétique de Biélorussie déclare que les dispositions de l'article 35 de la Convention modifiée selo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19720117_23_s1.pdf",
+  "source_filename": "19720117_23_s1.pdf",
+  "source_sha256": "5a6a1a030f4835608bfef66aced33a28cf83ae878dec25beb64a2f6b6b9d34df",
+  "treaty_id": "TRA19720117",
+  "treaty_number": "BLR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "BIELORUSSIE\n\nRéserve incluse dans les pouvoirs :\n\n\"Le Gouvernement de la République socialiste soviétique de BIELORUSSIE ne se considère pas lié par les dispositions sur l'arbitrage - p.p 3 et 4 de l'article 34\".\n\nDéclaration faite sur papier libre au moment de la signature :\n\nLe Gouvernement de la République socialiste soviétique de Biélorussie déclare que les dispositions de l'article 35 de la\n\nConvention modifiée selon lesquelles un certain nombre d'Etats sont privés de devenir parties à la Convention sont d'une nature discriminatoire et considère que la Convention, conformément aux principes du droit souverain des Etats, doit être ouverte à la participation de tous les lats intéressés sans discrimination et restrictions quelles qu'elles soient.",
+      "quality_score": 0.9965,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "TRADUCTION NON-OFFICIELLE\n\n1. Lo Gouvernement de la République Socialiste\n\nSoviétique de Biélorussie déelare que les dispositions de l'article 35 de la Convention modifiée selon les- quelles un certain nombre d'Etats sont privés de de- venir parties à la Convention, sont d'une nature discri- minatoire et considère que la Convention, conformement aux principes du droit souverain des Etats, doit être ouverte à la participation de tous les Etats intéressés sans discrimination et restriction quelles qu'elles soient.\n\n2. Le Gouvernement de la République Socialiste\n\nSoviétique de Biélorussie ne se sonsidère pas lié par les dispositions sur l'arbitrage - p.p. 3 et 4 de l'article 34.",
+      "quality_score": 0.9995,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_106_s1",
+      "title": "Pouvoirs de signature de l'Ukraine",
+      "score": 0.88115,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_107_s1",
+      "title": "Pouvoirs de signature de l'URSS",
+      "score": 0.831308,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_27_s1",
+      "title": "Pouvoirs de signature du Protocole",
+      "score": 0.401734,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_80_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et sur l'article 35",
+      "score": 0.388402,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_11_s1",
+      "title": "Instrument d'adhésion de la République démocratique allemande",
+      "score": 0.365292,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_86_s1",
+      "title": "Réserves sur les paragraphes 3 et 4 de l'article 34 et l'article 35",
+      "score": 0.358302,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

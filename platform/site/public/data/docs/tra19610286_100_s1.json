@@ -1,0 +1,120 @@
+{
+  "document_id": "tra19610286_100_s1",
+  "title": "Certificat ONU d'enregistrement du Traité",
+  "year": 1961,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9628,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES No. 31265 CERTIFICATE Of REGISTRATION The SECRETARY-GENERAL of the UNITED NATIONS hereby certifies that the following international agreement been registered Article 102 Charter marter or ece tarted Nat onso in accordance with CERTIFICAT d'ENREGISTREMENT Le SECRETAIRE GENERAL de I'ORGANISATION des NATIONS UNIES certifie par la présente a des Nattons tries conformément…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19610286_100_s1.pdf",
+  "source_filename": "tra19610286_100_s1.pdf",
+  "source_sha256": "d8771fe902ca21988c3923cd6ca0c96b1eb3fa255a66498829493c55e382587a",
+  "treaty_id": "TRA19610286",
+  "treaty_number": "100",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UNITED NATIONS - ORGANISATION DES NATIONS UNIES\n\nNo. 31265\n\nCERTIFICATE Of REGISTRATION\n\nThe SECRETARY-GENERAL of the UNITED NATIONS hereby certifies that the following international agreement been registered\n\nArticle 102\n\nCharter marter or ece tarted Nat onso\n\nin accordance with\n\nCERTIFICAT d'ENREGISTREMENT\n\nLe SECRETAIRE GENERAL de I'ORGANISATION des NATIONS\n\nUNIES\n\ncertifie par la présente\n\na des Nattons tries\n\nconformément\n\nNations\n\nNo. 23024. FRANCE AND NIGER:\n\nTreaty on co-operation. Signed at Parts on 24 April 1961\n\nRegistered DY France on 32 July 1984.\n\nNO 23024. FRANCE ET NIGER: 196/0286\n\nTratté de coopération.\n\nSigné à Par1s le 24 avril 1961\n\nEnregistré par la France le 30 luillet 1984.\n\nDone at New York on 21 May 1987\n\nFor the SECRETARY-GENERAL\n\nUNITED NATIONS\n\nLe Conseiller juridique:\n\nFait à New York le 21 mai 1987\n\nPour le SECRETAIRE GENERAL\n\nORGANISATION\n\nThe Legal Counsel\n\nDES\n\nNATIONS",
+      "quality_score": 0.9628,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19520029_104_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.454717,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.452261,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19720042_100",
+      "title": "tra19720042_100",
+      "score": 0.451282,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.450063,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19680088_101_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.444132,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760090_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.442032,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760088_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.441839,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19820004_990_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.44141,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810127_011_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.436554,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810140_100_s1",
+      "title": "Certificat ONU d'enregistrement de la convention",
+      "score": 0.435557,
+      "type": "semantic_kin",
+      "provisional": true
+    }
+  ]
+}

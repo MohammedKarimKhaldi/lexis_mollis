@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19810248_002_s1",
+  "title": "Pouvoirs français",
+  "year": 1981,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9236,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "・ili!i X RELATIONS EXTENIEUPES N° 260 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre deg Relations Extérieures, donnons pouvoirs par présentes à Mongieur Jean-Claude TRICHET, Sous-Directeur des affaires internationales à la Direction du Trésor pour signer le Protocole financier franco-chypriote destiné au financement du contrat de fournitures d'une vedette de surveillance côtière./. 5.11. 8' FAIT à…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810248_002_s1.pdf",
+  "source_filename": "tra19810248_002_s1.pdf",
+  "source_sha256": "e9b4c446aab445d267e7ab8158f2833e63daecbe51d509131601b03add5be7bb",
+  "treaty_id": "TRA19810248",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "・ili!i\n\nX\n\nRELATIONS\n\nEXTENIEUPES\n\nN° 260\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS,\n\nMinistre deg\n\nRelations Extérieures, donnons pouvoirs par\n\nprésentes\n\nà Mongieur\n\nJean-Claude TRICHET, Sous-Directeur\n\ndes affaires internationales à la Direction du Trésor pour signer\n\nle Protocole financier\n\nfranco-chypriote destiné\n\nau financement du contrat de fournitures\n\nd'une vedette\n\nde\n\nsurveillance côtière./.\n\n5.11. 8'\n\nFAIT à PARIS, le\n\n. '\n\nelatiore Exl\n\ne Ministre des Affetpes Etrangemes\n\nC. cheyton\n\n..",
+      "quality_score": 0.9236,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19820085_002b_s1",
+      "title": "Pouvoirs pour l'échange de lettres",
+      "score": 0.41526,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_002a_s1",
+      "title": "Pouvoirs pour l'accord",
+      "score": 0.398956,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.392753,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810034_002",
+      "title": "Pouvoirs français",
+      "score": 0.386927,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182473_002",
+      "title": "Pouvoirs français",
+      "score": 0.383526,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_325_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.381772,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19830254_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.377707,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810111_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.376011,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850080_002",
+      "title": "Pouvoirs",
+      "score": 0.375051,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19840174_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.370893,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

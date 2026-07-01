@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_058_s1",
+  "title": "Pouvoirs français",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9725,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "TRADUCTION OFFICIELLE. Le Conseil de Frésidence de la République Populaire Hongroise approuve l'adhésion de la République Populaire Hongroise à la Convention relative à l'Institut Interhational du Froid. En foi de quoi le Conseil de Présidence de la République Populaire Hongroise émet le présent Instrument pourvu de la signature de son president et de son sécre- taire et rêvetu de son sceau. Fait à Budapest, le 26 o…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_058_s1.pdf",
+  "source_filename": "19540096_058_s1.pdf",
+  "source_sha256": "95187b2b7382057abf9b1add9708140cb6613e3c144812c66d1d15e3bc93071b",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "FRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TRADUCTION OFFICIELLE.\n\nLe Conseil de Frésidence de la République\n\nPopulaire Hongroise approuve l'adhésion de la République\n\nPopulaire Hongroise à la Convention relative à l'Institut\n\nInterhational du Froid.\n\nEn foi de quoi le Conseil de Présidence de la\n\nRépublique Populaire Hongroise émet le présent Instrument pourvu de la signature de son president et de son sécre- taire et rêvetu de son sceau.\n\nFait à Budapest, le 26 octobre 1955.\n\nNagy Dániel m.p.\n\nVice-Président du Conseil de\n\nPrésidence de la République\n\nPopulaire Hongroise.\n\nTraduction certifiée conforme.\n\nBudapest, le 3 novembre 1955.\n\nVit si Bila /Vitányi Béla/\n\nChef de section au\n\nMinistère des Affaires\n\nEtrangères.\n\nPopulaire Hongroise.",
+      "quality_score": 0.9725,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_396_s1",
+      "title": "Pouvoirs français",
+      "score": 0.413071,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_31_s1",
+      "title": "Instrument d'adhésion de la Hongrie",
+      "score": 0.403091,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hun001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.380391,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_25_s1",
+      "title": "Instrument de ratification de la Hongrie",
+      "score": 0.379997,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_15_s1",
+      "title": "Pouvoirs de signature de l'Autriche",
+      "score": 0.379152,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_397_s1",
+      "title": "Réserve hongroise",
+      "score": 0.365471,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19570067_026_s1",
+      "title": "Instrument d'adhésion de l'Algérie",
+      "score": 0.360221,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_153_s1",
+      "title": "Procès-verbal de dépôt de l'instrument bulgare",
+      "score": 0.359067,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_976_s1",
+      "title": "Instrument d'adhésion de la Yougoslavie",
+      "score": 0.355051,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_213_s1",
+      "title": "Instrument d'adhésion du Tanganyika",
+      "score": 0.351871,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

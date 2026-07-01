@@ -1,0 +1,116 @@
+{
+  "document_id": "TRA20192687_001_s1",
+  "title": "Texte de l'accord (lettre française)",
+  "year": 2019,
+  "doc_type": "Texte",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9989,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "GOP erie - Eguinte • Fraier, ÉPUBLIQUE PRANCA AMBASSADE DE FRANCE AUGARON Haul représentant de la République Franquise N° 2019- 0336369 Libreville, le 30 mai 2019 Monsieur le Ministre, l'ai l'honneur de me référer au Traité instituant un partenariat de défense entre la République française et la République gabonaise (ensemble une annexe) signé à Libreville le 24 février 2010 et entré en vigueur le ler juin 2014 pour…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Texte",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/TRA20192687_001_s1.pdf",
+  "source_filename": "TRA20192687_001_s1.pdf",
+  "source_sha256": "3c0d49c247fd07ceec89c3224d9b88bf56586faae57627ad798624c9fa9b22db",
+  "treaty_id": "TRA20192687",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GOP\n\nerie - Eguinte • Fraier,\n\nÉPUBLIQUE PRANCA\n\nAMBASSADE DE FRANCE\n\nAUGARON\n\nHaul représentant de la République Franquise\n\nN° 2019- 0336369\n\nLibreville, le 30 mai 2019\n\nMonsieur le Ministre, l'ai l'honneur de me référer au Traité instituant un partenariat de défense entre la République française et la République gabonaise (ensemble une annexe) signé à Libreville le 24 février 2010 et entré en vigueur le ler juin 2014 pour une durée de cinq ans.\n\nPour répondre au désir exprimé de part et d'autre de renouveler le Traité conformément au point 2 de l'article 22, j'ai l'honneur, sur instruction de mon Gouvernement, de vous proposer que le texte de trente-trois articles du Traité, ensemble son annexe, demeure sans changement et que les stipulations qu'il contient restent en vigueur pour une nouvelle période de cinq ans à compter du ler je vous serais obligé de bien vouloir me faire savoir si les dispositions qui précèdent recueillent l'accord de votre Gouvernement.\n\nDans ce cas, la présente lettre ainsi que votre réponse auront pour effet de renouveler le Traité pour une nouvelle période de cinq ans, c'est-à-dire jusqu'au 31 mai 2024.\n\nje vous prie de bien vouloir croire, Monsieur le Ministre, en l'expression de ma haute considération.\n\nPhilippe AyTTE\n\nMonsieur Abdu Razzaq Guy KAMBOGO\n\nMinistre des Affaires étrangères, de la Coopération internationale, de l'Intégration régionale, de la Francophonie, et des Gabonais de l'étranger\n\nLIBREVILLE\n\n185. Rue du pont Pirah - BP 2125 - Libreville - Gabon",
+      "quality_score": 0.9989,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "TRA20192687_010_s1",
+      "title": "Texte de l'accord (lettre gabonaise)",
+      "score": 0.436162,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240053_001a_s1",
+      "title": "Lettre",
+      "score": 0.423411,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240053_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.417317,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230149_001a_s1",
+      "title": "Lettre",
+      "score": 0.377823,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230084_001a_s1",
+      "title": "Lettre",
+      "score": 0.377247,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600202_001_s1",
+      "title": "Accord (ensemble un échange de lettres et un protocole)",
+      "score": 0.376829,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630043_001_s1",
+      "title": "Accord (lettre française).",
+      "score": 0.376505,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070270_010_s1",
+      "title": "Lettre française",
+      "score": 0.370966,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192598_010_s1",
+      "title": "Texte de l'accord : note verbale australienne",
+      "score": 0.369322,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20230149_001b_s1",
+      "title": "Lettre en réponse",
+      "score": 0.368235,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

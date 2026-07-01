@@ -1,0 +1,116 @@
+{
+  "document_id": "19880095_038_s1",
+  "title": "Note verbale d'adhésion de la Norvège",
+  "year": 1988,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9911,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassade du Pérou :: 1:723 19.12.91 5-14-M/ 196 L'Ambassade du Pérou présente ses compliments Ministère des Affaires Etrangères -Direction des Affaires Politiques-et en référence à l'amendement du texte à la Convention du Bureau International des Expositions de 1928, modifiée qui a été adoptée par l'Assemblée Générale au cours de sa 103ème Session le 31 Mai 1988, a l'honneur de Lui communiquer ce qui suit: Suivant…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_038_s1.pdf",
+  "source_filename": "19880095_038_s1.pdf",
+  "source_sha256": "388fda67f0cee209709c6fbee185e8f2a70551695a097419178b94afdca8811c",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "NOR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassade du Pérou\n\n:: 1:723 19.12.91\n\n5-14-M/ 196\n\nL'Ambassade du Pérou présente ses compliments\n\nMinistère des Affaires Etrangères -Direction des Affaires Politiques-et en référence à l'amendement du texte à la Convention du Bureau\n\nInternational des Expositions de 1928, modifiée qui a été adoptée par l'Assemblée Générale au cours de sa 103ème Session le 31 Mai 1988, a l'honneur de Lui communiquer ce qui suit:\n\nSuivant la procédure d'acceptation prévue par l'article 33 alinéa 3 de la Convention, cette Ambassade a l'honneur de notifier au\n\nMinistère des Affaires Etrangères l'acceptation de l'Amendement par le\n\nGouvernement Péruvien selon la procedure prévue par notre législation.\n\nL'Ambassade prie donc le Ministère des Affaires Etrangères de bien vouloir faire part de cette décision au Bureau International des\n\nExpositions à Paris et Lui renouvelle les assurances de sa haute considération.\n\nEMBAJADA\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nDIRECTION DES AFFAIRES POLITIQUES\n\nPARIS.-\n\n31.5.88 19880095",
+      "quality_score": 0.9911,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_015_s1",
+      "title": "Note verbale d'acceptation de l'amendement de 1988",
+      "score": 0.685257,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_009_s1",
+      "title": "Note verbale d'acceptation de l'Autriche",
+      "score": 0.420707,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19820018_043_s1",
+      "title": "Note verbale confirmant l'adhésion du Pérou à l'amendement de 1982",
+      "score": 0.420218,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_027_s1",
+      "title": "Lettre d'acceptation de l'amendement par la France",
+      "score": 0.418688,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_033_s1",
+      "title": "accusé de réception du Nicaragua de la notification de l'amendement",
+      "score": 0.418537,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_700",
+      "title": "Notification par le gouvernement français du dépôt de l'instrument",
+      "score": 0.41759,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_67_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.414621,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_037_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.412023,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_032_s1",
+      "title": "Notification au Bureau international des expositions de l'acceptation du Maroc",
+      "score": 0.408004,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.407492,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

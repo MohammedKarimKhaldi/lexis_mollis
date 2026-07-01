@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_hti003_s1",
+  "title": "Note verbale d'adhésion",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9675,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Alani :Ual 128.5.P. 1985 AMBASSADE D'HAiTI 10. RUE THÉODULE-RIBOT 75017 PARIS TEL. 47 63 47 78 47 66 33 34 FAX 42 27 02 05 PARIS, LE AHP/MAT/jb/330 L'Ambassade de a République d'Haïti en France présente ses compliments au Ministère des Affaires Etrangères - Direction Géographique - et a l'honneur de lui faire savoir que le Gouvernement de la République d'Haïti adhère à la convention concernant les expositions intern…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_hti003_s1.pdf",
+  "source_filename": "tra19280002_hti003_s1.pdf",
+  "source_sha256": "edfc9f60cd6ddc0e506677ccec76182cdf29283d8f95a58ee2ace5cb65db1374",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "HTI003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Alani :Ual 128.5.P. 1985\n\nAMBASSADE D'HAiTI\n\n10. RUE THÉODULE-RIBOT\n\n75017 PARIS\n\nTEL. 47 63 47 78\n\n47 66 33 34\n\nFAX 42 27 02 05\n\nPARIS, LE\n\nAHP/MAT/jb/330\n\nL'Ambassade de a\n\nRépublique d'Haïti en\n\nFrance\n\nprésente ses compliments au Ministère des Affaires Etrangères - Direction\n\nGéographique - et a l'honneur de lui faire savoir que le Gouvernement de la République d'Haïti adhère à la convention concernant les expositions internationales signée à Paris le 22 novembre 1928, telle que modifiée par le Protocole du 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988.\n\nL'Ambassade de la République d'Haïti en France saisit cette occasion pour renouveler au Ministère des\n\nAffaires Etrangères -\n\nDette on graphique - les assurances de sa haute considération l\n\nParis, le 26 Septembre 1995\n\nMINISTERE DES AFFAIRES ETRANGERE\n\nDirection Géographique\n\n37. Quai d'Orsay 75007 PARIS",
+      "quality_score": 0.9675,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.422926,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.417685,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_91_s1",
+      "title": "Note verbale d'adhésion de Guinée Equatoriale",
+      "score": 0.416218,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_039_s1",
+      "title": "Instrument d'acceptation du Portugal",
+      "score": 0.413695,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.412067,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_386",
+      "title": "Accusé de réception de l'instrument haïtien",
+      "score": 0.412027,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.41154,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mlt001_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.410544,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_025_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.407282,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_017_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.406948,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

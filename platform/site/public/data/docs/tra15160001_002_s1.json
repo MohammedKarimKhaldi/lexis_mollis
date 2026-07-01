@@ -1,0 +1,100 @@
+{
+  "document_id": "tra15160001_002_s1",
+  "title": "Traité d'alliance (dit Traité de Noyon)",
+  "year": 1516,
+  "doc_type": "Traité",
+  "languages": [
+    "ca",
+    "en",
+    "es",
+    "fr"
+  ],
+  "quality_score": 0.7356,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "\"Traité de Maryon ISIÈ May Parceman do gads of true so entremis ef amie «Ganechat conflacond M ono Di Ci Difaus que ca defan dng be Bor Pns mmfbat optové.que cate dependi que Trem Be Boy Lena mator fam D Dum Pny que pooSntituoy 66fawlant t Zorep Preicoc faw on@ony@aNsplro.comn y fond Ca nitad Atoum? paze er Pbone Siemfple praGiew 150 o magoy t que art fda ge tuan ot Jupfomenif. + neutind pamsquo lag /52a es it rouen…",
+  "tags": [
+    "century:c16",
+    "corpus:traites",
+    "doc_type:Traité",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:early_modern_1516_1788",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra15160001_002_s1.pdf",
+  "source_filename": "tra15160001_002_s1.pdf",
+  "source_sha256": "b9d295e0081460ab7e5e266dd1f824a02bebc4ecb3440d653f213826cf9ba8b3",
+  "treaty_id": "TRA15160001",
+  "treaty_number": "001A",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "\"Traité de Maryon\n\nISIÈ",
+      "quality_score": 0.7779,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "May Parceman do gads of true so entremis ef amie «Ganechat conflacond M ono Di Ci\n\nDifaus que ca defan dng be Bor Pns mmfbat optové.que cate dependi que Trem Be Boy Lena mator fam\n\nD Dum Pny que pooSntituoy 66fawlant t\n\nZorep\n\nPreicoc faw on@ony@aNsplro.comn y fond\n\nCa nitad Atoum? paze er Pbone Siemfple praGiew 150 o magoy t que art fda ge tuan ot\n\nJupfomenif. + neutind\n\npamsquo lag /52a",
+      "quality_score": 0.7185,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "fr",
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "es it rouen nutuo eeg |5' oy Cafolug gm pomosou anmo at puus compatte nt ppa\n\nSemar funo ensdeme La Sm amie D6t\n\nÉ amit De liage ac quuc ealfo' anauriment nit raniamp lanmy Dnsm meog pom gmato e Composto de Dou que prof parado a la Deef fduay idem Day mpso la\n\nt pmcalftamin too amphnt n u f somfinad @ng fon Bo Day Sanngon mde\n\nPoyy Nomau coy om su nf ow lagadi\n\nImmomo do la poscioy duvem DoCaffe an fan\n\nDor Pus Si faawns cey o ro mom gme",
+      "quality_score": 0.7095,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es",
+        "en",
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Sitatus unt post Sa\n\n3 fundament\n\nBod Deminen in Born pare annunt of uficeigowec.nraffuyDo affuyDom\n\nSuford on dipsino into ente. One.\n\npasturns at my dam and mife arou\n\nSome And at ration pao effe\n\nmarine me profe Daufet-on and\n\nGmiod. mar tad a rt\n\ngrand ala persian Or Mapar pas eng @mfoy fr @ng ay apa\n\nTnfoo am rf eas fen s ffoy @axxagoy, Er\n\na @appaufbmems sefs sem /sod fore, -oncd goplo Sememom? intr Seine f3ad one am mefas gflargmeat fom p-tesu\n\ns fonabs",
+      "quality_score": 0.7364,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

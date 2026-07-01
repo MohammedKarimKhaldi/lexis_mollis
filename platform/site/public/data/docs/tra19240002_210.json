@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19240002_210",
+  "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion comorienne",
+  "year": 1924,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9579,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL de DEPOT des RATIFICATIONS du Conseil Fédéral Suisse sur l'Arrangement inter— national pour la création à Paris d'un Office int^rnational ies Epizooties, signé à Paris le 25 Janvier £n exécution de l'article 7 de l'arrangement international pour la création , à Paris, i'ün Office international ies Epizooties Signé à Paris le 25 Janvier 1924 entre la République Argentine , la Belgique, le Erésil, la Bul…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_210.pdf",
+  "source_filename": "tra19240002_210.pdf",
+  "source_sha256": "d99fa859cc8e0ae1df97c73681ed2e193ee30fef688637dbe4cfc01c613c83f0",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "COM006",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL de DEPOT des RATIFICATIONS du Conseil Fédéral Suisse sur l'Arrangement inter— national pour la création à Paris d'un Office int^rnational ies Epizooties, signé à Paris le 25 Janvier\n\n£n exécution de l'article 7 de l'arrangement international\n\npour la création , à Paris, i'ün Office international ies Epizooties\n\nSigné à Paris le 25 Janvier 1924 entre la République Argentine , la\n\nBelgique, le Erésil, la Bulgarie, le Danemark, l'Egypte, l'Espagne la Finlande, la France, la Grande Bretagne , la Grèce, le Guatémala la Hongrie, l'Italie, le Luxembourg, le Maroc, le Mexique, la Principauté de Monaco, les Pays —Bas, le Pérou, la Pologne, le Portugal pa: Béunenie , - le ,Siam, la Sudde, la Sgisse , la République Tohéco- Slovaque et la Tunisie , le Ministre de Suisse à Paris s'est présenté aujouri'hui au Ministère ies Affaires Etrangères de la République française et a déposé l'instrument des ratifications du Conseil\n\nFédéral Suisse sur cet acte international.\n\nCet instrument ayant été, après examen trouvé en bonne\n\net due forme , a été confié au Gouvernement ie la République française pour rester iéposé ians ses archives.\n\nUne expédition authentique du présent procès -verbal sera airessée aux Puissances contractantes,\n\nEN FOI de QUOI, les soussignés ont diressé le présent procès verbal qu'ils ont revétu de leurs lae 400€\n\nFait à Paris 1e bu lt 4426 .",
+      "quality_score": 0.9579,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19240002_100",
+      "title": "Accusé de réception français de l'instrument du Belize",
+      "score": 0.806793,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_297",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.737315,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_257",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.7368,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_196",
+      "title": "Courrier d'information aux autres parties signataires du traité de l'adhésion chinoise",
+      "score": 0.716234,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_31_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Grèce",
+      "score": 0.666146,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_42_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Luxembourg",
+      "score": 0.660125,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_54_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.657074,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_22_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification espagnol",
+      "score": 0.621834,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_24_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification de la Suisse",
+      "score": 0.603491,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19240002_277",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.456921,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

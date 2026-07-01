@@ -1,0 +1,129 @@
+{
+  "document_id": "tra19280002_mex002_s1",
+  "title": "Pouvoir remis au chargé d'affaires à Paris pour déposer l'instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Autre",
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "quality_score": 0.9705,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "317666 Tlatelolco, D.F., a 3 de diciembre de 1982. Señor Ministro: Tengo el agrado de informar a Vuestra Excelencia que el señor licenciado Antonio Villegas Villalobos, Encaraado de No- gocios, a.i., de México ante el Gobierno de la República Fran- cesa, ha sido autorizado por el suscrito para depositar, ante el Gobierno de Vuestra Excelencia, el Instrumento de Adhesión de México a la Convención relativa a las Expos…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_mex002_s1.pdf",
+  "source_filename": "tra19280002_mex002_s1.pdf",
+  "source_sha256": "97497b2f95c9d601739267083307d7b9a97e271feba927ae8facfe531500b28f",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MEX002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "317666\n\nTlatelolco, D.F., a 3 de diciembre de 1982.\n\nSeñor Ministro:\n\nTengo el agrado de informar a Vuestra Excelencia que el señor licenciado Antonio Villegas Villalobos, Encaraado de No- gocios, a.i., de México ante el Gobierno de la República Fran- cesa, ha sido autorizado por el suscrito para depositar, ante el Gobierno de Vuestra Excelencia, el Instrumento de Adhesión de México a la Convención relativa a las Exposiciones Interna cionales, firmada en ParIs, el 22 de noviembre de 1928 y al - Protocolo que la enmienda, hecho en París, el. 30 de noviembre\n\nAprovecho la oportunidad para renovar a Vuestra Excelen cia el testimonio de mi más alta consideración.\n\nB. Sepulcda\n\nAl Excelentísimo señor\n\nClaude Cheysson,\n\nMinistro de Relaciones Exteriores,\n\nParIs, Francia.",
+      "quality_score": 0.9762,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "EMBAJADA DE MEXICO\n\nPARIS\n\nTlatelolco, le 3 décembre 1982.\n\nMonsieur le Ministre,\n\nJ'ai 1 'honneur de faire savoir à Votre Excellence, que M. Antonio Villegas Villalobos, Chargé d'Affaires a.i.\n\ndu Mexique auprès du Gouvernement de la République Française, a été autorisé par le signataire de cette lettre à déposer, auprès du Gouvernement de Votre Excellence, 1'Instrument d'Adhésion du Mexique à la Convention relative aux Expositions\n\nInternationales, signée à Paris le 22 novembre 1928 , et au protocole signé à Paris le 30 novembre 1972, en vue de modifier la convention précitée.\n\nJe saisis cette occasion pour renouveler à Votre\n\nExcellence les assurances de ma plus haute considération.\n\nBernardo Sepulveda (SIGNE)\n\nA Son Exc. M. Claude Cheysson\n\nMinistre des Relations Extérieures,\n\nParis , France,",
+      "quality_score": 0.9648,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_mex001_s1",
+      "title": "Lettre notifiant l'adhésion",
+      "score": 0.700481,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_30_s1",
+      "title": "Lettre constituant instrument d'adhésion",
+      "score": 0.423081,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.410932,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.4101,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_13_s1",
+      "title": "Instrument de ratification de l'Argentine",
+      "score": 0.405183,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.398476,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_031_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.398249,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv006_s1",
+      "title": "Instrument d'adhésion du Salvador",
+      "score": 0.398068,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_046_s1",
+      "title": "Note verbale d'adhésion du Salvador",
+      "score": 0.395603,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_050_s1",
+      "title": "Instrument d'acceptation des Etats-Unis",
+      "score": 0.392603,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "document_id": "19200032_49_s1",
+  "title": "Pouvoirs suisses",
+  "year": 1920,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9519,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE CONSEIL FÉDÉRAL SUISSE fait savoir par les présentes qu'il a donné à Monsieur Alphonse Dunant, Ministre de Suisse à Paria, et à Monsieur Ch.-Bd. Guillaume, Di- recteur du Bureau international des Poids et Mesures, délégués de la Suisse à la Conférence pour l'industrie du Froid, pleins pouvoirs de aigner, sous réserve de ratification, la Convention pour L'industrie du Froid. Berna, ls 14 Juin 1920, Au nom du Conse…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200032_49_s1.pdf",
+  "source_filename": "19200032_49_s1.pdf",
+  "source_sha256": "b2e452d46f19c8fd4ffdc02d34b0603d83ce9059552bf800f6090ec41f06a545",
+  "treaty_id": "TRA19200032",
+  "treaty_number": "CHE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE CONSEIL FÉDÉRAL SUISSE\n\nfait savoir par les présentes\n\nqu'il a donné à Monsieur Alphonse Dunant, Ministre de\n\nSuisse à Paria, et à Monsieur Ch.-Bd. Guillaume, Di- recteur du Bureau international des Poids et Mesures, délégués de la Suisse à la Conférence pour l'industrie du Froid, pleins pouvoirs de aigner, sous réserve de ratification, la Convention pour L'industrie du Froid.\n\nBerna, ls 14 Juin 1920,\n\nAu nom du Conseil fédéral suisse:\n\nLe Président de la Confédération,\n\n—\n\nLe Chancelier de la Confédération,\n\nLem",
+      "quality_score": 0.9465,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "LE CONSEIL FÉDÉRAL SUISSE\n\nfait savoir par les présentes\n\nqu'il a donné à Monsieur Alphonse Dunant, Docteur an droit, Ministre de Suisse en France, pleins pouvoirs de procéder au dépôt des instruments de ratification de la\n\nConvention internationale pour la création, À Paris, d'un\n\nInstitut international du froid.\n\nBerne, Ls 24 octobre 1922,\n\nAu nom du Conseil fédéral suisse:\n\nLe Président de la Confédération,\n\nLe Chancelier de la Confédération,",
+      "quality_score": 0.9572,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.43271,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.411847,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.391508,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_850_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.389101,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_003_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.377639,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.373267,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.371931,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_100_s1",
+      "title": "Pouvoirs de signature de la Suisse",
+      "score": 0.368607,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680230_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.36665,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_011_s1",
+      "title": "Pouvoirs ouest-allemands",
+      "score": 0.366093,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

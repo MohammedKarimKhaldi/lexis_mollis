@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_037_s1",
+  "title": "Instrument du Chili",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.9935,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "SALVADOR ALLENDE GOS SENS Presidente de la República de Chile PORCUANTO, con fecha primero de diciembre de mil novecientos cincuenta y cuatro se suscribió, en Paris, la Convención Internacional del Frío, modificada el dos de septiembre de mil novecientos sesenta y siete. POR TANTO, y habiendo el Congreso Nacional prestado su aprobación para la adhesión de Chile a la mencionada Convención, en uso de la facultad que m…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_037_s1.pdf",
+  "source_filename": "19540096_037_s1.pdf",
+  "source_sha256": "b11ebd6b7ec1662e621ce89eff52e226bfd3f7e7904ffdfab5fb8f86ee86baad",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "CHL002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SALVADOR ALLENDE GOS SENS\n\nPresidente de la República de Chile\n\nPORCUANTO,\n\ncon fecha primero de diciembre de mil novecientos cincuenta y cuatro se suscribió, en Paris, la Convención Internacional del Frío, modificada el dos de septiembre de mil novecientos sesenta y siete.\n\nPOR TANTO,\n\ny habiendo el Congreso Nacional prestado su aprobación para la adhesión de Chile a la mencionada Convención, en uso de la facultad que me confiere el número dieciseis del artículo setenta y dos de la Constitución Política del Estado, he ve- nido en aceptarla en todas sus partes comprometiendo en ello el Honor Nacional.\n\nEN FE DE LO CUAL,\n\nfirno el presente Instrumento de Adhesión, sellado con las\n\nArmas de la República y refrendado por el Ministro de Estado en el Departamento de Relaciones Exteriores.\n\nDado en Santiago a los die-\n\ncisiete días del mes de mayo de mil novecientos setenta y uno.-",
+      "quality_score": 0.9935,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.437391,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_191_s1",
+      "title": "Instrument de ratification chilien",
+      "score": 0.41749,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19550069_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.402147,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_113_s1",
+      "title": "Instrument de ratification du Venezuela",
+      "score": 0.398815,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra18750001_col001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.396491,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_031_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.391821,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.389323,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_238_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.387609,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_046_s1",
+      "title": "Note verbale d'adhésion du Salvador",
+      "score": 0.387178,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slv006_s1",
+      "title": "Instrument d'adhésion du Salvador",
+      "score": 0.386281,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

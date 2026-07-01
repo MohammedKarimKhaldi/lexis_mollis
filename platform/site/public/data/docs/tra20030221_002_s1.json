@@ -1,0 +1,118 @@
+{
+  "document_id": "tra20030221_002_s1",
+  "title": "Certificat d'enregistrement à l'ONU",
+  "year": 2003,
+  "doc_type": "Certificat",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9797,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ーー No. 56044 Certificate of registration The Secretary-General of the United Nations hereby certifies that the following international agreement has been registered with the Secretariat, in accordance with Article 102 of the Charter of the United Nations: No. 44455. France, Norway and United Kingdom of Great Britain and Northern Ireland Agreement between the Government of the French Republic, the Government of the K…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Certificat",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20030221_002_s1.pdf",
+  "source_filename": "tra20030221_002_s1.pdf",
+  "source_sha256": "10aaa0c1268cc27088ea79bed50e21e3ea00d28af5296f3ec738f77276e638c5",
+  "treaty_id": "TRA20030221",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ーー\n\nNo. 56044\n\nCertificate of registration\n\nThe Secretary-General of the United Nations hereby certifies that the following international agreement has been registered with the Secretariat, in accordance with Article 102 of the Charter of the United Nations:\n\nNo. 44455. France, Norway and United Kingdom of\n\nGreat Britain and Northern Ireland\n\nAgreement between the Government of the French\n\nRepublic, the Government of the Kingdom of Norway and the Government of the United Kingdom of Great\n\nBritain and Northern Ireland relating to the joint ownership of a submarine rescue system. Brussels, 9\n\nDecember 2003.\n\nRegistration with the Secretariat of the United Nations:\n\nFrance, 11 October 2007\n\nDone at New York on 18 October 2007\n\nFor the Secretary-General\n\nONITED NATIONS\n\nLe Conseiller juridique\n\nCertificat d'enregistrement\n\nLe Secrétaire Général de l'Organisation des Nations Unies certifie par la présente que l'accord international indiqué ci-après a été enregistré au Secrétariat, conformément à l'Article 102 de la Charte des Nations Unies :\n\nNo 44455. France, Norvège et Royaume-Uni de\n\nGrande-Bretagne et d'Irlande du Nord\n\nAccord entre le Gouvernement de la République française, le Gouvernement du Royaume de Norvège et le\n\nGouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord relatif à la propriété commune d'un système de sauvetage sous-marin. Bruxelles, 9 décembre\n\nEnregistrement auprès du Secrétariat des Nations Unies :\n\nFrance, 11 octobre 2007\n\nFait à New York le 18 octobre 2007\n\nPour le Secrétaire Général\n\nThe Lagal Counsel\n\nUNIES",
+      "quality_score": 0.9797,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19930240_100_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.643285,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20162270_008_s1",
+      "title": "Certificat de l'enregistrement n° 55964",
+      "score": 0.616467,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182522_008_s1",
+      "title": "Certificat de l'enregistrement n° 55965",
+      "score": 0.560264,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_101",
+      "title": "Publication au Journal officiel (extrait de recueil)",
+      "score": 0.405315,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.399912,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19680088_101_s1",
+      "title": "Certificat d'enregistrement",
+      "score": 0.398838,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610286_100_s1",
+      "title": "Certificat ONU d'enregistrement du Traité",
+      "score": 0.395188,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20030221_731",
+      "title": "Instrument britannique",
+      "score": 0.391919,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_010_s1",
+      "title": "Certificat d'enregistrement à l'ONU",
+      "score": 0.39185,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19630223_010_s1",
+      "title": "Certificat de l'enregistrement no 10365",
+      "score": 0.390178,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

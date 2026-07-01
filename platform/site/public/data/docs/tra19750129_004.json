@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19750129_004",
+  "title": "Instrument français",
+  "year": 1975,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9796,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE MINISTRE DES AFFAIRES ÉTRANGÈRES Paris, le 4 mars 1976 Monsieur le Ministre, Me référant à l'article 17 de l'Accord entre le Gouvernement de la République française et le Gouvernement de l'Etat de Qatar relatif au transport aérien entre nos deux pays signé à Paris le 29 octobre 1975, j'ai le plaisir de vous faire savoir que les procédures requises par la Constitution de la République pour la mise en vigueur dudit…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19750129_004.pdf",
+  "source_filename": "tra19750129_004.pdf",
+  "source_sha256": "46fa9bd260d805f395fbf4a7d6dd7601c9e7a266b417ff9412abc50538305577",
+  "treaty_id": "TRA19750129",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE MINISTRE\n\nDES\n\nAFFAIRES ÉTRANGÈRES\n\nParis, le\n\n4 mars 1976\n\nMonsieur le Ministre,\n\nMe référant à l'article 17 de l'Accord entre le Gouvernement de la République française et le Gouvernement de l'Etat de Qatar relatif au transport aérien entre nos deux pays signé à Paris le 29 octobre 1975, j'ai le plaisir de vous faire savoir que les procédures requises par la\n\nConstitution de la République pour la mise en vigueur dudit Accord ont été accomplies.\n\nLa présente lettre constitue la notification prévue par la disposition précitée./.\n\nJe vous prie de croire, Monsieur le Ministre, à l'assurance de ma haute considération.\n\nA Son Excellence\n\nM. SUHAIM BEL HAMAD AL THANI\n\nMinistre des Affaires Etrangères\n\nDOHA\n\nSigné :\n\nJ. SAUVAGNARGUES\n\nPour copie certifiée conforme à l'original\n\nParis, le\n\n4 mars 1976",
+      "quality_score": 0.9796,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19750189_004_s1",
+      "title": "Instrument français",
+      "score": 0.769403,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19770075_004",
+      "title": "Instrument de ratification français",
+      "score": 0.712567,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680088_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.683855,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19800128_004_s1",
+      "title": "Instrument français",
+      "score": 0.655353,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.631194,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690107_004_s1",
+      "title": "Instrument français",
+      "score": 0.610518,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.602663,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_004_s1",
+      "title": "Instrument français",
+      "score": 0.600494,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.588365,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.581167,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

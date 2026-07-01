@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_88_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9598,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 88 Ministério dos Negócios Estrangeiros, Cooperacáo Internacional e das Comunidades O MINISTRO INSTRUMENT D'ADHESION Le Gouvernement de la République de Guinée-Bissau déclare qu'il adhére à la Convention concernant les Expositions Internationales signée à Paris le 22 Novembre 1928, telle que modifiée par le Protocole du 16 Novembre 1996, 30 Novembre 1972 et amendée le 24 juin 1982 et le 31 Mai 1988, conform…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_88_s1.pdf",
+  "source_filename": "19280002_88_s1.pdf",
+  "source_sha256": "9809ee95f7b3d88949bf9bcc34a4743d74a5f4f827b2192bdd641888e6be5073",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "GNB001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 88",
+      "quality_score": 0.9434,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Ministério dos Negócios Estrangeiros, Cooperacáo Internacional e das Comunidades\n\nO MINISTRO\n\nINSTRUMENT D'ADHESION\n\nLe Gouvernement de la République de Guinée-Bissau déclare qu'il adhére à la Convention concernant les Expositions Internationales signée à Paris le 22 Novembre 1928, telle que modifiée par le\n\nProtocole du 16 Novembre 1996, 30 Novembre 1972 et amendée le 24 juin 1982 et le 31 Mai 1988, conformément aux dispositions de l'article 3 du Protocole et qu'il s'acquittera de bonne foi de toutes les obligations qui sont prévues dans la Convention et le Protocole,\n\nEN FOI DE QUOI, j'ai signé le présent INSTRUMENT D'ADHESION\n\nBissau, le 7 Novembre 2007\n\nMaria da Conceicáo Nobre CABRAL\n\nUL ULL\n\n/MINISTRE/\n\nAvenida Amilcar Cabral - Praça dos Heróis Nacionais C. P. 190 Tel.: (245) 20 37 64 / 20 42 49 - Fax: (245) 20 23 78",
+      "quality_score": 0.9762,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.805573,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_gbr001_s1",
+      "title": "Instrument de ratification",
+      "score": 0.804535,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_87_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.801849,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_84_s1",
+      "title": "Instrument de ratification",
+      "score": 0.785361,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_85_s1",
+      "title": "Procès-verbal de dépôt de la ratification de la Grèce",
+      "score": 0.75945,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.719306,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_160_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.718041,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.71495,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_199_s1",
+      "title": "Instrument d'adhésion de la Slovénie",
+      "score": 0.710862,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_138_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.698446,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

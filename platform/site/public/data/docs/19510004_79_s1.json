@@ -1,0 +1,81 @@
+{
+  "document_id": "19510004_79_s1",
+  "title": "Pouvoirs yougoslaves",
+  "year": 1951,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9817,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PLEINS POUVOIRS Le Président du Gouvernement de la République Populaire Fédérative de Jougoslavie, Ministre de la Défense Nationale, Ma- réchal de Yougoslavie et Ilinistre des Affaires Etrangères a.i., autorise par les présents, au nom du Gouvernement de la République Populaire Fédérative de Yougoslavie, lonsieur Guido NONVEILLER, Directeur de l'Institut fédé- ral pour la Protection des Plantes auprès du Conseil de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_79_s1.pdf",
+  "source_filename": "19510004_79_s1.pdf",
+  "source_sha256": "874cc461651750f4e3df4022a106c41e34fd0ca6623db6ce433d6a0a6e6a3335",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "YUG001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PLEINS\n\nPOUVOIRS\n\nLe Président du Gouvernement de la République Populaire\n\nFédérative de Jougoslavie, Ministre de la Défense Nationale, Ma- réchal de Yougoslavie et Ilinistre des Affaires Etrangères a.i., autorise par les présents, au nom du Gouvernement de la République\n\nPopulaire Fédérative de Yougoslavie, lonsieur Guido NONVEILLER, Directeur de l'Institut fédé- ral pour la Protection des Plantes auprès du Conseil de l'Agricul- ture et des Forêts du Gouvernement de la République Populaire Fé- dérative de Yougoslavie, a représenter la République Populaire Fédérative de\n\nYougoslavie à la Conférence, convoquée par le Gouvernement de la\n\nRépublique Française, et à accepter la Covention pour l'établisse- ment de l'Organisation Européenne pour la Protection des Plantes ainsi qu'à signer tous les actes issus de cette Conférence, sous réserve d'une approbation ultérieure,\n\nEN FOI DE QUOI LES PRESENIS PLEINS POUVOIRS sont déli- vrés à Monsieur NONVEILLER.\n\nFait au linistere des Affaires Etrangères + Beograd, le quatorze avril mil neuf cent cinquante et\n\nTulle\n\nT\n\nPun 1 0.26/IX-51.",
+      "quality_score": 0.9817,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_975_s1",
+      "title": "Pouvoirs yougoslaves",
+      "score": 0.381389,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_975_s1",
+      "title": "Instrument yougoslave",
+      "score": 0.374086,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_17_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.361918,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.361167,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_036_s1",
+      "title": "Pouvoirs de signature du Chili",
+      "score": 0.353716,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

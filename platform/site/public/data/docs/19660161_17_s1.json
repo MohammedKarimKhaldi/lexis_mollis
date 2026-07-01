@@ -1,0 +1,116 @@
+{
+  "document_id": "19660161_17_s1",
+  "title": "Pouvoirs de signature",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "I, PAUL MARTIN, Secretary of State for External Affairs in the Government of Canada, do hereby certify that R. CAMPBELL SMITH, Minister Counsellor Canadian Embassy, Paris, France, is vested with Full Power and Authority to sign, on behalf of the Government of Canada, \"sans réserve de ratification\", the Protocol modifying Article IV of the Convention relating to International Exhibitions, 1928, as amended May 10, 194…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_17_s1.pdf",
+  "source_filename": "19660161_17_s1.pdf",
+  "source_sha256": "f392802c2a36f7b5d2013fb4822707bc8f4f2c790bd53b49aae9498f9693737b",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "CAN001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "I, PAUL MARTIN,\n\nSecretary of State for External Affairs in the Government of Canada, do hereby certify that\n\nR. CAMPBELL SMITH,\n\nMinister Counsellor\n\nCanadian Embassy,\n\nParis, France, is vested with Full Power and Authority to sign, on behalf of the Government of Canada, \"sans réserve de ratification\", the Protocol modifying Article IV of the Convention relating to International Exhibitions, 1928, as amended\n\nMay 10, 1948, which was drafted at a meeting of the Council of the International Bureau for\n\nExhibitions held in Paris on November 17, 1965.\n\nIN WITNESS WHEREOF I have signed and sealed these presents at ottawa this /4th day of June, 1966.\n\nPad Manue\n\nSecretary of State for External Affairs.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_29_s1",
+      "title": "Pouvoirs de signature du Canada",
+      "score": 0.73332,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.404189,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_59_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification suisse",
+      "score": 0.391721,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.385838,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_032_s1",
+      "title": "Pouvoirs du Canada",
+      "score": 0.383487,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_19_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.383348,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.381981,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19660161_50_s1",
+      "title": "Note verbale d'adhésion et de transmission de l'instrument de ratification de la Roumanie",
+      "score": 0.380571,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_73_s1",
+      "title": "Pouvoirs de dépôt d'instrument d'adhésion",
+      "score": 0.379747,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_018_s1",
+      "title": "Instrument de ratification de l'Australie",
+      "score": 0.379604,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

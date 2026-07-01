@@ -41,5 +41,76 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_727_s1",
+      "title": "Procès-verbal de dépôt des ratifications du traité de paix, protocole et déclaration du 10 septembre 1919",
+      "score": 0.782638,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_352b_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de la convention entre la Bulgarie et la Grèce",
+      "score": 0.756317,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_096_s1",
+      "title": "Procès-verbal de dépôt de l'instrument des ratifications",
+      "score": 0.750568,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_44_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Norvège",
+      "score": 0.625893,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_67_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de Monaco",
+      "score": 0.600405,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.584108,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_55_s1",
+      "title": "Procès verbal de dépôt de ratification de l'instrument de ratification de l'Italie",
+      "score": 0.560971,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_114_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Venezuela",
+      "score": 0.550724,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_83_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification du Portugal",
+      "score": 0.54314,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_74_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion de Panama",
+      "score": 0.542412,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

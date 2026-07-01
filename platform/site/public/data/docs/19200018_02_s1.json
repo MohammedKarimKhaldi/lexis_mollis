@@ -1,0 +1,53 @@
+{
+  "document_id": "19200018_02_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1920,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9418,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Son Excellence Ala Nadir Eten , Ministre d'Afgnanistan à Paris , &gissant en vertu des pleins pou- voirs qui lui ont été conférés à cet effet, déclare, par ie présent acte, que l'Afghanistan adhère , sans aucune condi= tion ni réserve, au Traité signé à Paris , le 9 Février 1920 par les Etats-Unis d'Amérique , l'Empire Britannique , le Danemark, la France, l'Italie, lé Japon, la Norvège, les Pays -Bae et la Suède et…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200018_02_s1.pdf",
+  "source_filename": "19200018_02_s1.pdf",
+  "source_sha256": "e1fe7a0cd94cc8d0d7173c30c3512e2c3c0189977e4524d6ede28704755594c5",
+  "treaty_id": "TRA19200018",
+  "treaty_number": "AFG001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Son Excellence Ala Nadir Eten , Ministre\n\nd'Afgnanistan à Paris , &gissant en vertu des pleins pou- voirs qui lui ont été conférés à cet effet, déclare, par ie présent acte, que l'Afghanistan adhère , sans aucune condi= tion ni réserve, au Traité signé à Paris , le 9 Février 1920 par les Etats-Unis d'Amérique , l'Empire Britannique , le\n\nDanemark, la France, l'Italie, lé Japon, la Norvège, les\n\nPays -Bae et la Suède et aux termes duquel ces Pulssances ent reconnu la souvaraineté de la Norvège sur l'Archipel du Spitzberg y compris l'ile aux Ours ./.\n\nParis 1s #3 hoveushre en.",
+      "quality_score": 0.9418,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200018_08_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.441739,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

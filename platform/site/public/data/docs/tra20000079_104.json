@@ -1,0 +1,88 @@
+{
+  "document_id": "tra20000079_104",
+  "title": "Déclaration française relatif au droit à pêche de navires français dans certaines zones",
+  "year": 2000,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9873,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "i DECLARATION FRANCAISE Les autorités françaises constatent qu'il découle de l'échange de notes signé à Saint-Hélier le 4 juillet 2000, qui accompagne l'accord relatif à la pêche dans la baie de Granville signé à Saint-Hélier le même jour, que les ressortissants français pourront continuer à pêcher dans la zone 19 qui figure à la colonne 1 de l'Annexe 2 de l'échange de notes relatif aux droits d'usage des navires de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20000079_104.pdf",
+  "source_filename": "tra20000079_104.pdf",
+  "source_sha256": "1b35b416a939ba718cd650267615e72b9609b51a7c0d07848a8b63de48c73256",
+  "treaty_id": "TRA20000079",
+  "treaty_number": "104",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "i\n\nDECLARATION FRANCAISE\n\nLes autorités françaises constatent qu'il découle de l'échange de notes signé à Saint-Hélier le 4 juillet 2000, qui accompagne l'accord relatif à la pêche dans la baie de Granville signé à Saint-Hélier le même jour, que les ressortissants français pourront continuer à pêcher dans la zone 19 qui figure à la colonne 1 de l'Annexe 2 de l'échange de notes relatif aux droits d'usage des navires de pêche français dans les limites des zones de pêche britanniques fait à Paris le 24 février 1965, et ce nonobstant l'abrogation de cet échange de notes.\n\nElles constatent par ailleurs qu'il découle de l'échange de notes relatif au box de Sercq signé à\n\nSaint-Hélier le 4 juillet 2000, qui accompagne l'accord relatif à la pêche dans la baie de Granville signé à\n\nSaint-Helier le même jour, que les droits et les activités de pêche conformément à ces droits des navires français à l'intérieur de la zone définie par cet échange de notes demeurent inchangés.\n\nElles constatent enfin qu'il découle de la correspondance échangée en janvier et février 2000 entre le ministère des affaires étrangères et le Foreign Office à propos de l'île de Man que les ressortissants français pourront continuer à pêcher dans la zone 18 qui figure à la colonne 1 de l'Annexe 2 de l'échange de notes du 24 février 1965 précité, dans les conditions prévues par cet échange de notes, et ce nonobstant son abrogation./.\n\nPour copie certifiée conforme à l'original\n\nSaint-Hélier, le 4 juillet 2000\n\nSaint-Hélier, le 4 juillet 2000\n\nGERANDE B\n\nLONDRE\n\nDill\n\nDaniel BERNARD\n\nAmbassadeur de France en Grande-Bretagne",
+      "quality_score": 0.9873,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20000079_103",
+      "title": "Echange de notes relatif à Guernesey",
+      "score": 0.378381,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_005_s1",
+      "title": "Instrument belge",
+      "score": 0.358094,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra20000079_102",
+      "title": "Échange de notes relatif à Sercq",
+      "score": 0.356529,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600242_001a_s1",
+      "title": "Procès-verbal et son protocole annexe confidentiel",
+      "score": 0.353835,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19040040_002_s1",
+      "title": "Instrument de ratification britannique",
+      "score": 0.353428,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra18390006_016",
+      "title": "Échange de lettres relatives à un projet de révision des traités du 19 avril 1839 entre la Belgique et les Pays Bas",
+      "score": 0.351691,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "document_id": "tra19650139_001_s1",
+  "title": "Texte du procès-verbal",
+  "year": 1965,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9813,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "EROCES-YERBAL de remise de terrains appartenant à 1'Etat Français à l'organisation Européenne pour la recherche nucléaire. L'an mil neuf cent soixante cinq et le treize septembre; Entre : M. Raymond ROCHER, Inspecteur Principal des Impôts (Enregistroment et Domaines) au département de l'Ain, aglssant au nom de la Direction Générale des Impôts et pour le compto de 1 'Etat en vertu d'une délégation de Monsieur le Préf…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19650139_001_s1.pdf",
+  "source_filename": "tra19650139_001_s1.pdf",
+  "source_sha256": "c719cb5a0f950b3f04af4ee43d6115a0986d71b1d02786aad16479f2607301dc",
+  "treaty_id": "TRA19650139",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "EROCES-YERBAL\n\nde remise de terrains appartenant à 1'Etat Français à l'organisation Européenne pour la recherche nucléaire.\n\nL'an mil neuf cent soixante cinq et le treize septembre;\n\nEntre :\n\nM. Raymond ROCHER, Inspecteur Principal des Impôts (Enregistroment et Domaines) au département de l'Ain, aglssant au nom de la\n\nDirection Générale des Impôts et pour le compto de 1 'Etat en vertu d'une délégation de Monsieur le Préfet de l'AIN en date du 30 juin 1964, en présence de M. Augustin ALLINE, Conseiller des Attatres\n\nEtrangères, représentant Monsiour le Ministre des Affaires Etrangères;\n\nd'une part,\n\nEt M. Victor F. WEISSKOPF, Directeur Général de l'organisation\n\nEuropéenne pour la Recherche Nucléaire, représentant cette Organisation et disposant de tous pouvoirs à cot effet conformément à l'article VI - 1 (a) de la Convention d'établissement signée à PARIS le ler Juillet 1953, Convention ratifiée en France par la loi N° 54.807 du 13 août 1954,\n\nIl a été convenu ce qui suit :\n\nEn exécution de l'article II 2ème alinéa du contrat de bail conclu ce jour entre 1 'Etat Français et 1 'Organisation Européenne pour la Recherche Nuoléaito, 1 'Etat Français, représenté par\n\nM. Raymond ROCHER, renet à 1 'Organisation Européenne pour la Recherche nucléaire, un tènement immobilier de trois cent quatre vinet quatorze mille neuf cent cinquante six mètres carrés (394.956 x2)\n\nsitué sur les Communes de St. Genis Pouilly et Prevessin, département de l'AIN, composé de quarante quatre parcelles de terrain nu dont le détail et le plan constituent les annanes I et II au contrat de bail suavisé.\n\nCe tènement appartient à 1 'Etat Français pour avoir été expro-",
+      "quality_score": 0.9915,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Pour l'Organisation\n\nEuropéenne de la\n\nRecherche Nucléaire,\n\nprié à son profit suivant ordonnance rendue le 21 décembre 1963 par le Juge de l'expropriation du Tribunal de Grande Instance de\n\nBOURG en BRESSE (Ain).\n\nAu nom de 1 'Organisation Européenne pour la Recherche Nuclóaire,\n\nMonsieur Victor I WEISSKOPF, son Directeur Général accepte la présente remise et déclaro avoir pris possession ce jour des terrains qui on sont l'objet.\n\nFait à\n\n.\n\nJex\n\nles jour, mois et an que dessus.\n\nPour le Gouvernenemnt de la République Française :\n\nLe Représentant du\n\nMinistre des Affai- res Etrangères,\n\ni 111\n\n.. i ..\n\nL'Inapecteur Principal les Impôts (Enregistre ent et Domaipes) di\n\nDépartement de l'AIN,\n\nLe te",
+      "quality_score": 0.9711,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19650138_001_s1",
+      "title": "Texte du contrat de bail (ensemble carte)",
+      "score": 0.43435,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.357449,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_01_s1",
+      "title": "Traité",
+      "score": 0.352446,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

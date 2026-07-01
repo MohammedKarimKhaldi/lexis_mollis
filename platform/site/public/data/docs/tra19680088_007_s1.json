@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19680088_007_s1",
+  "title": "Accusé de réception de l'instrument français",
+  "year": 1968,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9703,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "TÜRKİYE CUMHURİYETİ DIŞIŞLERİ BAKANLIĞI UER : 733.018/MU1/70/5/285 Le Ministère des Affaires Etrangères présente ses compliments à l'Ambassade de France référant à ses notes no. 137 et 288, à l'honneur de lui faire savoir que la lettre adressée à Son Excellence M. Insan Sabri Carlayangil, Ministre ture des Affaires Etrangères par Son Excellence Ni. Maurice Schumann, Ministre français des Affaires Etrangères, informa…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19680088_007_s1.pdf",
+  "source_filename": "tra19680088_007_s1.pdf",
+  "source_sha256": "450b5d3bda6c1fcff487afdbc47a3527a005c634e4ba4fc2886b65dd2cb99b49",
+  "treaty_id": "TRA19680088",
+  "treaty_number": "007",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TÜRKİYE CUMHURİYETİ\n\nDIŞIŞLERİ\n\nBAKANLIĞI\n\nUER :\n\n733.018/MU1/70/5/285\n\nLe Ministère des Affaires Etrangères présente ses compliments à l'Ambassade de France référant à ses notes no. 137 et 288, à l'honneur de lui faire savoir que la lettre adressée à Son\n\nExcellence M. Insan Sabri Carlayangil, Ministre ture des Affaires Etrangères par Son Excellence\n\nNi. Maurice Schumann, Ministre français des Affaires\n\nEtrangères, informant le Gouvernement ture de l'accomplissement des procédures pour la mise en vigueur de l'Accord de cooperation technique et scientifique entre les deux Gouvernements, avait été présentée à son haut destinataire.\n\nIe Ministère des Affaires Etrangères serait reconnaissant à l'Ambassade de France de bien vouloir porter ce qui précéde à la connaissance de son haut destinataire\n\net saisit cette occasion pour\n\nrenouveler à l'Ambassade de France les assurances de sa haute considération.\n\nAnkara, le 26 octobre 1970\n\nAmbassade de France",
+      "quality_score": 0.9703,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.420803,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_006",
+      "title": "Accusé de réception qatari de l'instrument français",
+      "score": 0.405587,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890183_007_s1",
+      "title": "Accusé de réception français de l'instrument émirati, de la lettre de M. Al Nahyan et de la note de transmission",
+      "score": 0.404531,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930240_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.402286,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_911_s1",
+      "title": "Instrument d'adhésion de la Tunisie",
+      "score": 0.401164,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_003_s1",
+      "title": "Pouvoirs kenyans",
+      "score": 0.400008,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19910179_006_s1",
+      "title": "Accusé de réception émirati de l'instrument français",
+      "score": 0.399571,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.398682,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_005b",
+      "title": "Second instrument qatari",
+      "score": 0.398651,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.39796,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

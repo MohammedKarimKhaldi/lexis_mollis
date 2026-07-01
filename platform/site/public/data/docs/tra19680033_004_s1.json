@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19680033_004_s1",
+  "title": "Instrument d'approbation",
+  "year": 1968,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9623,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AFFAIRES ÉTRANGÈRES LE MINISTRE Paris, le 25 mars 1968 Monsieur le Ministre Me référant à l'Article 15 de l'Accord culturel entre le Gouvernement de la République Française et le Gouvernement de Malte, signé à Paris le 14 février 1968, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République Française pour la mise en vigueur dudit Accord ont été accomplies. La présente let…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19680033_004_s1.pdf",
+  "source_filename": "tra19680033_004_s1.pdf",
+  "source_sha256": "7379c9e1783f47606ea5467811639236f659872b9c98bdf2644d9d141bc56138",
+  "treaty_id": "TRA19680033",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AFFAIRES ÉTRANGÈRES\n\nLE MINISTRE\n\nParis, le 25 mars 1968\n\nMonsieur le Ministre\n\nMe référant à l'Article 15 de l'Accord culturel\n\nentre le Gouvernement de la République Française et le\n\nGouvernement de Malte, signé à Paris le 14 février 1968, j'ai l'honneur de vous faire savoir que les procédures requises par la Constitution de la République Française pour la mise en vigueur dudit Accord ont été accomplies.\n\nLa présente lettre constitue la notification\n\nprévue par la disposition précitée./.\n\nJe vous prie d'agréer. Monsieur le Ministre,\n\nles assurances de ma haute considération.\n\nSigné : Maurice COUVE de MURVILLE\n\nPour copie certifiée conforme à l'original\n\nParis, le 25 mars 1968\n\nMlome للا\n\nMonsieur le Dr George BORG-OLLIVIER\n\nPremier Ministre\n\nMinistre du Commonwealth et des Affaires\n\nEtrangères\n\nMALTE",
+      "quality_score": 0.9623,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19680088_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.680063,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.67088,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.653505,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.631194,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_004_s1",
+      "title": "Instrument français",
+      "score": 0.56028,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.423782,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.418426,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.418089,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.416836,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.414901,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

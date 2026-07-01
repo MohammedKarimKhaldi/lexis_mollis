@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19190004_096_s1",
+  "title": "Procès-verbal de dépôt de l'instrument des ratifications",
+  "year": 1919,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9987,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "L Ambassadeur de Belgique a Paris gest présente aujourd hul au Ministère des Affaires Étrangères pour procéder, d'accord avec le Pré- sident du Conseil, Ministre des Affaires Etrangères de la République francaise, au dépôt de l'instrument des Ratifications de Sa Majesté le foi des Belges sur le Traité de Paix avec l'Autriche, signé à Saint- termai en Lave, le lo septembre 1919, ainsi que sur le Protocole et la Decla…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190004_096_s1.pdf",
+  "source_filename": "tra19190004_096_s1.pdf",
+  "source_sha256": "a84f1752ca03a810298e4393a60202b6e9720a81638c5267b06559cd80acc05c",
+  "treaty_id": "TRA19190004",
+  "treaty_number": "BEL002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "L Ambassadeur de Belgique a Paris gest présente aujourd hul au\n\nMinistère des Affaires Étrangères pour procéder, d'accord avec le Pré- sident du Conseil, Ministre des Affaires Etrangères de la République francaise, au dépôt de l'instrument des Ratifications de Sa Majesté le foi des Belges sur le Traité de Paix avec l'Autriche, signé à Saint- termai en Lave, le lo septembre 1919, ainsi que sur le Protocole et la Declaration portant la même date.\n\nInstrument avant été, apres examen. trouve en bonne et due forme, a été déposé pour être conservé dans les archives de la Répu- blique trançaise.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent procès- verbal quils ont revêtu de leurs cachets.\n\nFAIT à Paris, en double exemplaire, le 2 4 juillet 1920.",
+      "quality_score": 0.9987,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19190004_727_s1",
+      "title": "Procès-verbal de dépôt des ratifications du traité de paix, protocole et déclaration du 10 septembre 1919",
+      "score": 0.784025,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_727_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification roumain",
+      "score": 0.750568,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_352b_s1",
+      "title": "Procès verbal de dépôt de l'Instrument de ratification grec de la convention entre la Bulgarie et la Grèce",
+      "score": 0.726205,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_62_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification panaméen",
+      "score": 0.676088,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hti002_s1",
+      "title": "Procès verbal du dépôt de ratification de Haïti",
+      "score": 0.595461,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_59_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification suisse",
+      "score": 0.400444,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_11_s1",
+      "title": "Dépôt de l'instrument d'adhésion de la Belgique",
+      "score": 0.399826,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_20_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.392464,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.389908,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_27_s1",
+      "title": "Dépôt de l'instrument de ratification de Haïti",
+      "score": 0.389557,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "tra18390006_015",
+  "title": "Procès-verbal d'échange des ratifications de l'acte d'accession de la Confédération germanique aux traités signés à Londres le 19 avril 1839",
+  "year": 1839,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.7838,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "ultiguel delant zeunir afin de mode a liturge de Ratifications de lace d Accesson, de la part de la ........... conterad daus lu. leslieler la lll tu 24. Articles annexés auz Traites ramis à Londres le 19 Avril 1834 entre la transo, lAutriche, la ella Russie d'une part, et les Londres le 19 Avril 1839, aver den furtes Ón foi de quoi il net signé le Fait à Londres, le 8 Jin, 1839 Bourguny Nerthen",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18390006_015.pdf",
+  "source_filename": "tra18390006_015.pdf",
+  "source_sha256": "5fff37480b90662fa6eeafabea43ac339650187c480d564e212c3607c544b92c",
+  "treaty_id": "TRA18390006",
+  "treaty_number": "015",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ultiguel delant zeunir afin de\n\nmode a liturge de Ratifications de lace d Accesson, de la part de la\n\n...........\n\nconterad daus lu. leslieler la lll tu\n\n24. Articles annexés auz Traites ramis à Londres le 19 Avril 1834 entre la transo, lAutriche, la ella Russie d'une part, et les",
+      "quality_score": 0.7799,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Londres le 19 Avril 1839, aver den furtes\n\nÓn foi de quoi il net signé le\n\nFait à Londres, le 8 Jin, 1839\n\nBourguny\n\nNerthen",
+      "quality_score": 0.7877,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

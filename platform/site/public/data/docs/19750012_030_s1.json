@@ -1,0 +1,121 @@
+{
+  "document_id": "19750012_030_s1",
+  "title": "Pouvoirs allemands",
+  "year": 1975,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 0.9946,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DER PRASIDENT DER BUNDESREPUBLIK DEUTSCHLAND VOLLMACHT Der Bundesninister für Forschung und Technologie, Herr Hans Matt höf e I, wird hiermit ber ollmächtigt, die Bundesrepublik Deutschland auf der Konferenz der Bevollmäch- tigten zur Gründung einer Europäischen Weltraun- organisation in Paris zu vertreten und in ihrem Namen die Schlußakte der Konferenz am 30. Mai 1975 zu unterzeichnen. Bonn, den 26. Mai 1975 DER BU…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19750012_030_s1.pdf",
+  "source_filename": "19750012_030_s1.pdf",
+  "source_sha256": "818332fb28134098c405b342db24f38bc9067ab2f1f9e97c0b85862dd54c7579",
+  "treaty_id": "TRA19750012",
+  "treaty_number": "DEU001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DER PRASIDENT\n\nDER BUNDESREPUBLIK DEUTSCHLAND\n\nVOLLMACHT\n\nDer Bundesninister für Forschung und Technologie,\n\nHerr Hans Matt höf e I, wird hiermit ber ollmächtigt, die Bundesrepublik\n\nDeutschland auf der Konferenz der Bevollmäch- tigten zur Gründung einer Europäischen Weltraun- organisation in Paris zu vertreten und in ihrem\n\nNamen die Schlußakte der Konferenz am 30. Mai 1975 zu unterzeichnen.\n\nBonn, den 26. Mai 1975\n\nDER BUNDESPRÄSIDENT\n\nScheel\n\nDER BUNDESMINISTER DES AUSWÄRTIGEN\n\nJmm",
+      "quality_score": 0.9981,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "DER PRASIDENT\n\nDER BUNDESREPUBLIK DEUTSCHLAND\n\nVOLLMACHT\n\nDer Botschafter der Bundesrepublik Deutschland in Paris,\n\nSigismund Freiherr von B I a un, und der Bundesminister für Forschung und Technologie,\n\nHerr Hans Matthöfer, werden hiermit bevollmächtigt, das Übereinkommen zur\n\nGründung einer Europäischen Weltraumorganisation für die Bundesrepublik Deutschland unter Vorbehalt der\n\nRatifikation gemeinsam oder einzeln zu unterzeichnen.\n\nBonn, den\n\n26. Mai 1975\n\nDER BUNDESPRÄSIDENT\n\nTheel\n\nDER BUNDESMINISTER DES AUSWÄRTIGEN",
+      "quality_score": 0.9911,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19730055_02_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.427229,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690071_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.408618,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.407185,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_030_s1",
+      "title": "Pouvoirs",
+      "score": 0.402201,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_030_s1",
+      "title": "Pouvoirs allemands pour la ratification de la convention",
+      "score": 0.381317,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.379846,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600202_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.373276,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_011_s1",
+      "title": "Pouvoirs ouest-allemands",
+      "score": 0.363105,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.351794,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

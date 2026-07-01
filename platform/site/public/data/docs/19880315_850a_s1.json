@@ -1,0 +1,116 @@
+{
+  "document_id": "19880315_850a_s1",
+  "title": "Pouvoirs belges",
+  "year": 1988,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9976,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE CONSEIL FEDERAL SUISSE FAIT SAVOIR PAR LES PRÉSENTES qu'il a autorisé Monsieur Flavio Cott i , conseiller fédéral, chef du Département de l'intérieur, à signer la \"Convention concerning the construction and operation of a European Synchrotron Radiation Facility\", ainsi que \"the Final Act\". En foi de quoi, les présentes ont été signées par le Président et le Chancelier de la Confédération suisse et munies du sceau…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880315_850a_s1.pdf",
+  "source_filename": "19880315_850a_s1.pdf",
+  "source_sha256": "f2fabf81a09fff957810a910f2a72baa95f5057eeffe8d64a48a8f1679229688",
+  "treaty_id": "TRA19880315",
+  "treaty_number": "BEL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE CONSEIL FEDERAL SUISSE\n\nFAIT SAVOIR PAR LES PRÉSENTES\n\nqu'il a autorisé\n\nMonsieur Flavio Cott i , conseiller fédéral, chef du Département de l'intérieur, à signer la \"Convention concerning the construction and operation of a European\n\nSynchrotron Radiation Facility\", ainsi que \"the Final Act\".\n\nEn foi de quoi, les présentes ont été signées par le\n\nPrésident et le Chancelier de la Confédération suisse et munies du sceau du Conseil fédéral.\n\nBerne, le 12 décembre 1988\n\nAU NOM DU CONSEIL FEDERAL SUISSE\n\nLe Président de la Confédération:\n\notto 5 hu\n\nLe Chanceliof de la Confédération:\n\nMun\n\n48706/1",
+      "quality_score": 0.9976,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19880315_850b_s1",
+      "title": "Pouvoirs suisses pour la signature des statuts de l'installation européenne de rayonnement synchrotron",
+      "score": 0.411894,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_850_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.396846,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680230_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.391592,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.390198,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_003_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.387485,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.374895,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.374821,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530019_008",
+      "title": "Pouvoirs suisses pour l'échange des ratifications",
+      "score": 0.370369,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_59_s1",
+      "title": "Instrument de ratification de la Suisse",
+      "score": 0.369799,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.369426,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

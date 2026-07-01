@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_160_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9716,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 160 Embajada de Panamá Paris, Francia INSTRUMENT D'ADHESION Le Gouvernement de la République de Panama déclare qu'il adhère à la Convention concernant les expositions internationales signées à Paris, le 22 novembre 1928, telle que modifiée par le Protocole du 16 novembre 1966, 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988, conformément aux dispositions de l'article 3 du Protocole, et qu'il s…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_160_s1.pdf",
+  "source_filename": "19280002_160_s1.pdf",
+  "source_sha256": "4cc81e34c4933a738d0b9244d5497ecc05f303c1015213e6f05a3f70471f68d3",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "PAN008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 160",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Embajada de Panamá\n\nParis, Francia\n\nINSTRUMENT D'ADHESION\n\nLe Gouvernement de la République de Panama déclare qu'il adhère à la Convention concernant les expositions internationales signées à\n\nParis, le 22 novembre 1928, telle que modifiée par le Protocole du 16 novembre 1966, 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988, conformément aux dispositions de l'article 3 du Protocole, et qu'il s'acquittera de bonne foi de toutes les obligations qui sont prévues dans la Convention et le\n\nProtocole.\n\nEN FOI DE QUOI, j'ai signe le présent Instrument d'Adhésion le, 16 novembre 2007.\n\nOmar JAEN\n\nAmbassadeur de la République de Panama en France",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.852618,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_166_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion des Pays-Bas",
+      "score": 0.839048,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.832691,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_165_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.821831,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_169_s1",
+      "title": "Instrument de ratification",
+      "score": 0.811443,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_164_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.809949,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_167_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.808589,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_199_s1",
+      "title": "Instrument d'adhésion de la Slovénie",
+      "score": 0.805723,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_lbr001_s1",
+      "title": "Instrument d'adhésion.",
+      "score": 0.802039,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_86_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.7982,
+      "type": "clause_reuse",
+      "provisional": false
+    }
+  ]
+}

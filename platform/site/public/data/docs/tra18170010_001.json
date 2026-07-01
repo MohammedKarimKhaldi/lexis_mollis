@@ -1,0 +1,69 @@
+{
+  "document_id": "tra18170010_001",
+  "title": "Texte de l'acte",
+  "year": 1817,
+  "doc_type": "Texte",
+  "languages": [
+    "en",
+    "fr",
+    "it"
+  ],
+  "quality_score": 0.6928,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "apide, pon Bomeyin ait la copine ligie inonville angle es . ef Le but de et évit timn minue a la teneri. suivante inalein: da coventin papeé lán 1204 10n 1339 Toilert attellisa louverain sele Colun leis desilhiagi (dous bizili, Ringarde barictrine aup tacts dela compagnie ١:١٩٠. iton $ - . ** * 198Hal SANArs 18 trata +hia /1#1397 a 179 138 13 1'503 أ ١ ١ 1 7 17. *。 気まん美を、 itrt +4f1 18 122029 1",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Texte",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18170010_001.pdf",
+  "source_filename": "tra18170010_001.pdf",
+  "source_sha256": "ff002a5fa691c00ebc84db0f94780e7c1737a88fdbf7aecd3c1ae760b911d939",
+  "treaty_id": "TRA18170010",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "apide, pon Bomeyin ait la copine ligie\n\ninonville angle es\n\n. ef\n\nLe but de et évit timn minue a la teneri.\n\nsuivante inalein:\n\nda coventin papeé lán 1204 10n 1339\n\nToilert attellisa\n\nlouverain sele Colun\n\nleis desilhiagi (dous bizili,\n\nRingarde barictrine\n\naup tacts dela compagnie",
+      "quality_score": 0.7605,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr",
+        "it"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "١:١٩٠.\n\niton\n\n$ - .\n\n** * 198Hal SANArs 18\n\ntrata +hia /1#1397 a 179 138 13\n\n1'503\n\nأ ١ ١\n\n1 7\n\n17.\n\n*。\n\n気まん美を、\n\nitrt +4f1 18 122029 1",
+      "quality_score": 0.6251,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "mixed_scripts",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

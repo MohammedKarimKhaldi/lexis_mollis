@@ -1,0 +1,118 @@
+{
+  "document_id": "tra19190004_797_s1",
+  "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919",
+  "year": 1919,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9477,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Au nom de La Majesté Pierre Ier par la grâce de Dieu et la volonté national Roi des Perbes, Croates et Ilovène Nous Alexandre Héritier du Trône Ayant vu et porminé le traité de Paire ainsi que le rotocole et les Déclarations, conclus entre les Puissances allices et associées d'une part et l'Autriche d'autre part, signés à Faint-Germain-en-Laye le le Teptembre Feptembre et auxquels le Royaume des Perbes, Croates et P…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190004_797_s1.pdf",
+  "source_filename": "tra19190004_797_s1.pdf",
+  "source_sha256": "1f88dceaec2ab09893170bce24cca4d41ab21f3a001d1dd52f28938b78d04a13",
+  "treaty_id": "TRA19190004",
+  "treaty_number": "YUG002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Au nom de La Majesté\n\nPierre Ier\n\npar la grâce de Dieu et la volonté national\n\nRoi des Perbes, Croates et Ilovène\n\nNous\n\nAlexandre Héritier du Trône\n\nAyant vu et porminé le traité de Paire ainsi que le rotocole et les Déclarations, conclus entre les Puissances allices et associées d'une part et l'Autriche d'autre part, signés à Faint-Germain-en-Laye le le Teptembre Feptembre et auxquels le Royaume des Perbes, Croates et Plovènes et le Royaume de Rouma - nie ont accédé par les déclarations en date des 5 et 9 Décembre 1919, faites à Paris,\n\nApprouvions, ratifons et confirmons lesdits traités, Protocole et Déclarations, promettant qu'ils seront observés inviolablement se.\n\nlon leur forme et teneur.\n\nEn foi de quoi Mous avons signé les présentes lettres de rati- fication et y avons fait apposer Notre sceau d'Etat.\n\nNonné à Belgrade, le de villet\n\nde len mes nauf cent singt\n\njock du mois\n\nАРАЛЬЕВС\n\nLe Ministre der Affaires o",
+      "quality_score": 0.9477,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200070_796_s1",
+      "title": "Instrument de ratification serbe-croate-slovène",
+      "score": 0.413976,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19200016_795_s1",
+      "title": "Pouvoirs serbes-croates-slovènes",
+      "score": 0.402586,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_56_s1",
+      "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+      "score": 0.390756,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_165_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.389697,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.389022,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19380056_02_s1",
+      "title": "Pouvoirs albanais de négociation et de signature",
+      "score": 0.388208,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.388184,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_350_s1",
+      "title": "Ratification du traité, protocole et déclaration du 10 septembre 1919 [lieu et date seront renseignés après traduction]",
+      "score": 0.385937,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19920190_095_s1",
+      "title": "Pouvoirs",
+      "score": 0.383246,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_095",
+      "title": "Pouvoirs belges",
+      "score": 0.382576,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

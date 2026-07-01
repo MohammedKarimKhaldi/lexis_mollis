@@ -57,5 +57,27 @@
       "review_reasons": []
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra19680088_001_s1",
+      "title": "Accord (ensemble un échange de lettres)",
+      "score": 0.359629,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_55_s1",
+      "title": "Note verbale d'adhésion à la convention",
+      "score": 0.356451,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19600188_010_s1",
+      "title": "Lettre",
+      "score": 0.354591,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

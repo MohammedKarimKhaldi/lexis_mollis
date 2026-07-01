@@ -1,0 +1,116 @@
+{
+  "document_id": "19230023_001_s1",
+  "title": "Accord",
+  "year": 1923,
+  "doc_type": "Accord",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9673,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Les Délégations britannique et francaise, considérant que le Gouvernement égyptien n'est pss signa- taire du Traité de paix aveo la Turquie en date ds ce Jour et que les conditions d'ecquisition de la nationslitó égyp- tienne par les ressortissants turcs établis en Egypte ne sont pas encore fixées, sont d'accord pour juger nécessaire qu'avant ou aussitôt que possible après la mise en vigueur du-Traité de paix avec l…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230023_001_s1.pdf",
+  "source_filename": "19230023_001_s1.pdf",
+  "source_sha256": "746d5c36c00cf135199bde5240d80aa178592ad4636e6ec2af68a87e118cd5c5",
+  "treaty_id": "TRA19230023",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Les Délégations britannique et francaise, considérant que le Gouvernement égyptien n'est pss signa- taire du Traité de paix aveo la Turquie en date ds ce Jour et que les conditions d'ecquisition de la nationslitó égyp- tienne par les ressortissants turcs établis en Egypte ne sont pas encore fixées, sont d'accord pour juger nécessaire qu'avant ou aussitôt que possible après la mise en vigueur du-Traité de paix avec la Turquie et conformément A l'arti- cle 34 dudit Traité, un accord, à conclure entre le Gouverne- ment égyptien et le Gouvernement français agissant pour La\n\nSyrie et le Liban, précise les conditions d'option prévues par cette stipulation. Le délai d'option courrait à dater de la conclusion dudit accord./.\n\nFait à Lausanne, le 24 juillet 1923.\n\nHovacs fom bot",
+      "quality_score": 0.9673,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19230006_001_s1",
+      "title": "Protocole",
+      "score": 0.38379,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_732d_s1",
+      "title": "Déclaration franco-britannique relative à la non-application des dispositions de la Convention concernant l'établissement et la compétence judiciaire au territoire du condominium des Nouvelles-Hébrides",
+      "score": 0.372261,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_446b_s1",
+      "title": "Instrument de ratification japonais de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.371821,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_731b_s1",
+      "title": "Instrument de ratification britannique de la Convention relative à l'évaluation et à la réparation des dommages subis en Turquie par les ressortissants des puissances contractantes et protocole",
+      "score": 0.37069,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230072_732b_s1",
+      "title": "Déclaration franco-britannique relative à la non-application des dispositions de la Convention commerciale au territoire du condominium des Nouvelles-Hébrides",
+      "score": 0.36903,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19230010_002_s1",
+      "title": "Protocole",
+      "score": 0.367324,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230008_001_s1",
+      "title": "Protocole",
+      "score": 0.366635,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230012_001_s1",
+      "title": "Protocole",
+      "score": 0.365059,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230009_001_s1",
+      "title": "Protocole",
+      "score": 0.364196,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_630_s1",
+      "title": "Ratification du traité du 10 septembre 1919",
+      "score": 0.362221,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19940440_325",
+  "title": "Accusé de réception par le dépositaire de l'instrument néerlandais : ratification reçue le 3 avril 1996",
+  "year": 1994,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9809,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Republique Française 12 N° 89/94 POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires Etrangères, donnons POUVOIRS par ces présentes à Monsieur Michel BARNIER, Ministre de l'Environnement, pour signer un Accord concernant la protection de l'Escaut./. FAIT à PARIS, le 25 AVRIL 1994 Le Ministre des Affaires Etrangères Mani fili",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19940440_325.pdf",
+  "source_filename": "tra19940440_325.pdf",
+  "source_sha256": "8258914fb3974c76ec93fb12f7d6a04cd9394f5c4dd6f22c7d501a2305c6b17b",
+  "treaty_id": "TRA19940440",
+  "treaty_number": "NLD003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Republique Française\n\n12\n\nN° 89/94\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS, Ministre\n\ndes Affaires Etrangères, donnons POUVOIRS par ces présentes à\n\nMonsieur Michel BARNIER, Ministre de l'Environnement,\n\npour signer un Accord concernant la protection de l'Escaut./.\n\nFAIT à PARIS, le 25 AVRIL 1994\n\nLe Ministre des Affaires Etrangères\n\nMani fili",
+      "quality_score": 0.9809,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19940439_325",
+      "title": "Instrument néerlandais",
+      "score": 0.866057,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960259_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.389912,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940439_326",
+      "title": "Accusé de réception par le dépositaire de l'instrument néerlandais",
+      "score": 0.377661,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.374959,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.374404,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19890235_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.371155,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_325_s1",
+      "title": "Pouvoirs italiens (s.d.)",
+      "score": 0.37087,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20040137_325_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.370081,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940440_326",
+      "title": "Pouvoirs flamands",
+      "score": 0.367014,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960139_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.366642,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "tra19610285_010",
+  "title": "Accord (lettre nigérienne)",
+  "year": 1961,
+  "doc_type": "Accord",
+  "languages": [
+    "de",
+    "fr"
+  ],
+  "quality_score": 0.785,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "RALAIP ALX LALS Frchlenss di FaoOULns A LA MUsuiGUs SRACALSE 777777777 ww٢2 7:202/2222 Paris, le 24 Juil 1961 ¡onsieur le Premier winistre, Vous avez bien voulu, à la ünte au 24 Amil 1967 m'auresser 1e lettre dont la teneur smit : \"L'article 4 de l'Annexo Il de l'Accord collectif de détense concernant la coorárution dens le doraine des matières premieres et produits strateriones, prévoit oue 1a Reruslioun dr rirrer,…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19610285_010.pdf",
+  "source_filename": "tra19610285_010.pdf",
+  "source_sha256": "44f55cc3dea7f7ac85dfc8c06bf74c48d556c6f9fbba7a248749ee7a5a43bed8",
+  "treaty_id": "TRA19610285",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RALAIP ALX LALS Frchlenss di FaoOULns\n\nA LA MUsuiGUs SRACALSE\n\n777777777\n\nww٢2 7:202/2222",
+      "quality_score": 0.6934,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Paris, le\n\n24 Juil 1961\n\n¡onsieur le Premier winistre,\n\nVous avez bien voulu, à la ünte au 24 Amil 1967\n\nm'auresser 1e lettre dont la teneur smit :\n\n\"L'article 4 de l'Annexo Il de l'Accord collectif\n\nde détense concernant la coorárution dens le doraine des matières premieres et produits strateriones, prévoit oue 1a Reruslioun dr rirrer, l'exigent, limite ou interdise l'exportation\n\nproduits à destination d'autres noys.\n\n\"L'article a re\n\n٠٠١:.n ١٠ défense.\n\nAmani se\n\nIn vente\n\nde nos mêmes matièros et\n\nprodnite\n\narrès satisfaction les\n\nbesoins de sa consormation intérieure.\n\n\"Je vous propose de\n\nconvenir cutre\n\nnous one le\n\nvente dog surles de la production des croduits de 2ème entáporie soit réservée aux puissandos\n\navec loscuelles in\n\nfranco est lide mer des enragomenta de défense.\n\n\"Je vous\n\nsorais polic de bien vouloir me confir\n\nrer votre aceord ì: ce sujet\".\n\nd'ai l'honren\"\n\nde vous confirmer l'accend 27.\n\nGeuvernerent de le Récurliave du direr sur les tormes de la lettre dont:\n\nil s'apit.\n\nJe vous\n\nMonsieur le Prenier kinistre,\n\nd'arréer l'exprescion de\n\nsentirents\n\ntres hauto\n\nconsidération.\n\n/ /\n\nMonsieur Michel Debré\n\nPremier Ministre de Ja\n\nRémublique Française.",
+      "quality_score": 0.8766,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19610195_001_s1",
+      "title": "Accord (lettre ivoirienne)",
+      "score": 0.414691,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640026_010_s1",
+      "title": "Accord (lettre sud-africaine).",
+      "score": 0.355735,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

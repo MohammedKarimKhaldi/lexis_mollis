@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19740039_004",
+  "title": "Instrument français",
+  "year": 1974,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9555,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "1645 Ripublique Française Le Ministre des Relations Extérieures Paris, le 24 juillet 1981 Monslerie le Ministre, J'ai l'honneur de porter à votre connaissance que le Gouvernement de la République a donné son approbation à l'Accord entre le Gouvernement de la République française et Le Gouvernement de la République populaire du Congo, sur les drolts fondamentaux des nationaux signé à Brazzaville le lex janvier 1974.…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19740039_004.pdf",
+  "source_filename": "tra19740039_004.pdf",
+  "source_sha256": "24784756e8c5feef756edf5a82905fc730a0b4424e7b125001de65870898d12e",
+  "treaty_id": "TRA19740039",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1645\n\nRipublique Française\n\nLe Ministre des Relations Extérieures\n\nParis, le\n\n24 juillet 1981\n\nMonslerie le Ministre,\n\nJ'ai l'honneur de porter à votre connaissance que\n\nle Gouvernement de la République a donné son approbation à l'Accord entre le Gouvernement de la République française et\n\nLe Gouvernement de la République populaire du Congo, sur les drolts fondamentaux des nationaux signé à Brazzaville le lex janvier 1974.\n\nLa présente lettre constitue 1'Instrunent d'appro-\n\nbation visé à l'artiole 11 dudit Acoord./.\n\nJe vous prle, Monsieur le Ministre, d'agréer\n\nl'expression de na haute considération.\n\nPour copie certifiée conforme à l'orignal\n\nA Paris, le ..24 juillet 1981\n\nA Son Excellence\n\nMonsieux Pierre NZE\n\nMinistre des Affaires Etrangères\n\nBRAZZAVIIEE\n\nTIENT DU MINISTE",
+      "quality_score": 0.9555,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19740038_004",
+      "title": "Instrument français",
+      "score": 0.756726,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_006",
+      "title": "tra19760084_006",
+      "score": 0.409081,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.406739,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760092_004_s1",
+      "title": "Instrument français",
+      "score": 0.406189,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_004_s1",
+      "title": "Instrument d'approbation",
+      "score": 0.40449,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760089_004_s1",
+      "title": "Instrument français",
+      "score": 0.402596,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760085_004_s1",
+      "title": "Instrument français",
+      "score": 0.401663,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.401216,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19750129_004",
+      "title": "Instrument français",
+      "score": 0.400323,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940256_004",
+      "title": "Instrument d'approbation français",
+      "score": 0.400089,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

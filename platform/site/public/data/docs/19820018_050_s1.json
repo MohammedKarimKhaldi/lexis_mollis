@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_050_s1",
+  "title": "Note verbale d'acceptation du Venezuela",
+  "year": 1982,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9659,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLICA DE VENEZUELA EMBAJADA EN FRANCIA Exp: 000811 NANDES BAILS. 13.: 1:1983 NO: L'Ambassade du Vénézuéla en France présente ses compliments au Ministere des Relations Exterieures, Direction de Nations Unies et des Organismes Internationaux, à l'occasion de lui faire connaître l'acceptation du Vénézuéla à l'amendement de l'article 52 de la Convention Internationales d'Expositions Internationales. L'Ambassade du…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_050_s1.pdf",
+  "source_filename": "19820018_050_s1.pdf",
+  "source_sha256": "ca5713e6504c0be57e848326039d829ffc362c65e37da7458bf41f843b33d906",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "950",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLICA DE VENEZUELA\n\nEMBAJADA EN FRANCIA\n\nExp:\n\n000811\n\nNANDES BAILS.\n\n13.: 1:1983\n\nNO:\n\nL'Ambassade du Vénézuéla en France présente ses compliments au Ministere des Relations Exterieures, Direction de Nations Unies et des Organismes Internationaux, à l'occasion de lui faire connaître l'acceptation du Vénézuéla à l'amendement de l'article 52 de la Convention Internationales d'Expositions\n\nInternationales.\n\nL'Ambassade du Vénézuéla en France saisit cet oe- casion pour renouveler au Ministére des Relations Extérieures,\n\nDirection des Nations Unies et des Organismes Intérnationaux 2:\n\nassurance de sa très haute considération.\n\nVEI\n\n13 juim 1 983\n\nMinistère des Relations Exterieures\n\nDirection des Nations Unies et def\n\nOrganismes Internationaux 37 Quai D'Orsay 75007 Paris\n\nFPB/LVP/mfc\n\nwais $ ( s",
+      "quality_score": 0.9659,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_168_s1",
+      "title": "Notification aux ambassades des Etats membres de l'adhésion des Philippines",
+      "score": 0.420807,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_240_s1",
+      "title": "Note verbale d'adhésion du Vietnam",
+      "score": 0.405492,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_005_s1",
+      "title": "Ratification",
+      "score": 0.400379,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "angola_adhesion_bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.39673,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.395876,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_pak004_s1",
+      "title": "Note accusant réception de la notification d'adhésion du Pakistan",
+      "score": 0.395551,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.393264,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.392597,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.390841,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_049_s1",
+      "title": "Note verbale d'acceptation de la Tunisie",
+      "score": 0.390065,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

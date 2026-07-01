@@ -1,0 +1,129 @@
+{
+  "document_id": "19660161_16_s1",
+  "title": "Pouvoirs de signature",
+  "year": 1966,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "bg",
+    "fr"
+  ],
+  "quality_score": 0.9433,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "МИНИСТЕРСКИЯТ СЪВЕТ НА НАРОДНА РЕПУБЛИКА БЪЛГАРИЯ ОБЯВЯВА, ЧЕ С НАСТОЯЩОТО УПЪЛНОМОЩАВА ДИМО СИРАКОВ търговски представител на Народна република България в Парих 7Ҹ да подпише, от името на Правителството на Пародна република България, Протокол за изменение член ІҮ от Конвенцията за международни изложби от 1928 го- дина. Le Conseil đes Ministres de la République Populaire de Bulgarie certifie par les présentes qu'il…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19660161_16_s1.pdf",
+  "source_filename": "19660161_16_s1.pdf",
+  "source_sha256": "b6a19b97b0fbfe85dd079d175253c8aebbcd1a6dcc49e8ee3655baae2d38cbf3",
+  "treaty_id": "TRA19660161",
+  "treaty_number": "BGR001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "МИНИСТЕРСКИЯТ СЪВЕТ НА НАРОДНА\n\nРЕПУБЛИКА БЪЛГАРИЯ\n\nОБЯВЯВА, ЧЕ С НАСТОЯЩОТО УПЪЛНОМОЩАВА\n\nДИМО СИРАКОВ\n\nтърговски представител на Народна република\n\nБългария в Парих\n\n7Ҹ\n\nда подпише, от името на Правителството на Пародна република България, Протокол за изменение член ІҮ от Конвенцията за международни изложби от 1928 го- дина.",
+      "quality_score": 0.9286,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Cyrillic:psm3",
+      "language": [
+        "bg"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Le Conseil đes Ministres de la République\n\nPopulaire de Bulgarie certifie par les présentes qu'il autorise\n\nM. DIMO SIRAKOV\n\nReprésentant commercial de la République Populaire de Bulgarie à Paris\n\nà signer au nom du Gouvernement de la République FPopulaire də Bulgarie un Protocole amendant l'article IV de la Con- vention sur les expositions internationales, 1928.\n\nFait å Sofia, le 30 novembre mil neuf cent soixante six.\n\nLE PRESIDENT DU CONSEIL DES MINISTRES:\n\n8/ Iv. Mihaylov\n\nLE MINISTRE DES AFFAIRES ETRANGERES:\n\n3/ Iv. Bachev\n\nPour traduction conforne:",
+      "quality_score": 0.958,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19720117_27_s1",
+      "title": "Pouvoirs de signature du Protocole",
+      "score": 0.408309,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_49_s1",
+      "title": "Pouvoirs de signature de la Roumanie",
+      "score": 0.40376,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_66_s1",
+      "title": "Pouvoirs de signature de la France",
+      "score": 0.380177,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_45_s1",
+      "title": "Pouvoirs de signature de la Pologne",
+      "score": 0.378298,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.372387,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_61_s1",
+      "title": "Pouvoirs de signature de la Tunisie",
+      "score": 0.369084,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_39_s1",
+      "title": "Instrument d'adhésion de Cuba",
+      "score": 0.36803,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_63_s1",
+      "title": "Pouvoirs de signature de signature soviétique",
+      "score": 0.367688,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_mex002_s1",
+      "title": "Pouvoir remis au chargé d'affaires à Paris pour déposer l'instrument d'adhésion",
+      "score": 0.366322,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_21_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification de la Belgique",
+      "score": 0.365883,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

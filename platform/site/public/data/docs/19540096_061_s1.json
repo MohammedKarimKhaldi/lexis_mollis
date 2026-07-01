@@ -1,0 +1,109 @@
+{
+  "document_id": "19540096_061_s1",
+  "title": "Pouvoirs de signature de l'Italie",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "it"
+  ],
+  "quality_score": 0.9688,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Il Fitne le Tepalins eN litticoloro che le Presenti ardianno, Palute. PE. Pictro Quaronio, Ambasciatore d'Italia in Parigi, è por le rasenti da Noi eletto e nominato Nostro Plenipotenziario perla firma, con gacolle di formulare riser. ve da parte del Poverno italiano, della nuova Conversione relativa all 'Istitito. Internationale del Freddo. As tale scopo conferiamo all tons basciatore Pietro Quaroni, Pieno Potere e…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_061_s1.pdf",
+  "source_filename": "19540096_061_s1.pdf",
+  "source_sha256": "56144dff2d57a26461921e468f5faca82acfac8539e7d4c05b4265f18c9f5b64",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Il Fitne le Tepalins eN litticoloro che le Presenti ardianno, Palute.\n\nPE. Pictro Quaronio, Ambasciatore d'Italia in Parigi, è por le rasenti da Noi eletto e nominato Nostro Plenipotenziario perla firma, con gacolle di formulare riser.\n\nve da parte del Poverno italiano, della nuova Conversione relativa all 'Istitito.\n\nInternationale del Freddo.\n\nAs tale scopo conferiamo all tons basciatore Pietro Quaroni, Pieno Potere ed ogni necesdaria autorità.\n\nIne fede di che Nairabbiano di Nostic mano firmato le Presentiro vi abbiano fetto apporra il Mostio sigillo?\n\nDate a Roma il 18 Jovembre 1954.",
+      "quality_score": 0.9688,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "it"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_435_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.420403,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_435",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.391709,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_36_s1",
+      "title": "Pouvoirs de négociation et de signature de l'Italie",
+      "score": 0.389142,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_54_s1",
+      "title": "Pouvoirs de signature de l'Italie",
+      "score": 0.38391,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_24_s1",
+      "title": "Pouvoirs de dépôt de la ratification italienne",
+      "score": 0.375001,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19540064_003_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.363311,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19730055_09_s1",
+      "title": "Résolution des Etats-membres du CERS/ESRO sur l'adhésion des Pays-Bas (Document sans lieu ni date)",
+      "score": 0.357052,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr002_s1",
+      "title": "Pouvoirs à l'ambassadeur de Saint-Marin à Paris de dépôt de l'instrument d'adhésion",
+      "score": 0.352839,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_43_s1",
+      "title": "Procès verbal de dépôt de l'instrument d'adhésion du Pérou",
+      "score": 0.35043,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

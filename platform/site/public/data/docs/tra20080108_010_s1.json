@@ -1,0 +1,102 @@
+{
+  "document_id": "tra20080108_010_s1",
+  "title": "Protocole additionnel : lettre ITER (sans le protocole additionnel annexé)",
+  "year": 2008,
+  "doc_type": "Protocole",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9854,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ITER Organization Reference: ITER/CAD/DIR/K1/08/180 ITER Organization Building 519, Cadarache 13108 St. Paul-lez-Durance cedex www.iter.org Date 4 April 2008 Courrier arrivé le 09 AVR. 2008 BOC-Nº 041850 Madame Valérie PECRESSE Ministère de L'Enseignement Supérieur et de la Recherche 21 rue Descartes 75005 PARIS. Madame le Ministre, J'ai bien reçu votre lettre du 6 Mars 2008 dans laquelle vous m'indiquiez : « Me réf…",
+  "tags": [
+    "century:c21",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:contemporary_1990_present",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra20080108_010_s1.pdf",
+  "source_filename": "tra20080108_010_s1.pdf",
+  "source_sha256": "7debbe634e65aa8c40637162b11d5ca17769f6b71b0280cf7ffc64c2f67b65cb",
+  "treaty_id": "TRA20080108",
+  "treaty_number": "010",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ITER\n\nOrganization\n\nReference:\n\nITER/CAD/DIR/K1/08/180\n\nITER Organization\n\nBuilding 519, Cadarache 13108 St. Paul-lez-Durance cedex\n\nwww.iter.org\n\nDate 4 April 2008\n\nCourrier arrivé le 09 AVR. 2008\n\nBOC-Nº 041850\n\nMadame Valérie PECRESSE\n\nMinistère de L'Enseignement Supérieur et de la Recherche 21 rue Descartes 75005 PARIS.\n\nMadame le Ministre,\n\nJ'ai bien reçu votre lettre du 6 Mars 2008 dans laquelle vous m'indiquiez :\n\n« Me référant à l'article 14 de l'Accord sur l'établissement de l'Organisation internationale ITER pour l'énergie de fusion, signé à Paris le 21 novembre 2006, ainsi qu'à l'article 17 de l'accord relatif au siège de l'Organisation ITER et aux privilèges et immunités de l'Organisation\n\nITER sur le territoire français, signé à Saint-Paul-lez-Durance le 7 novembre 2007, j'ai l'honneur, d'ordre de mon Gouvernement, de vous proposer les dispositions contenues à l'annexe de la présente lettre.\n\nJe vous remercie de me faire savoir si les termes de cette annexe recueillent l'agrément de l'Organisation internationale ITER pour l'énergie de fusion. Dans ce cas, la présente lettre et son annexe, ainsi que votre réponse, constitueront le Protocole additionnel à l'accord relatif au siège de l'Organisation ITER et aux privilèges et immunités de l'Organisation ITER sur le territoire français, portant sur la confidentialité des informations classifiées françaises communiquées à l'Organisation ITER.\n\nCe Protocole entrera en vigueur trente jours après la date de votre réponse. »\n\nEn réponse, j'ai l'honneur de vous faire savoir que, conformément aux pouvoirs qui me sont conférés par les dispositions de l'Accord international ITER et en accord avec les décisions du Conseil d'ITER, les dispositions de cette lettre et son annexe recueillent l'agrément de l'Organisation internationale ITER pour l'énergie de fusion.\n\nJe vous prie de bien vouloir agréer, Madame le Ministre, l'expression de ma très haute considération.\n\nKaname IKEDA\n\nDirector General\n\nITER Organization",
+      "quality_score": 0.9854,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra20080108_001_s1",
+      "title": "Protocole additionnel : lettre française (ensemble texte du protocole additionnel annexé)",
+      "score": 0.70743,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151635_010",
+      "title": "Lettre de l'ITER",
+      "score": 0.39918,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20070193_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.377754,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151635_001",
+      "title": "Lettre française (ensemble 1 annexe)",
+      "score": 0.373049,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20151635_006",
+      "title": "Accusé de réception français de l'instrument ITER",
+      "score": 0.363532,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19870205_005",
+      "title": "Instrument de l'ASE",
+      "score": 0.359492,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090247_004_s1",
+      "title": "Instrument d'approbation français",
+      "score": 0.359102,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_35_s1",
+      "title": "Note de l'OEPP sur le retrait de l'Iran",
+      "score": 0.352886,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

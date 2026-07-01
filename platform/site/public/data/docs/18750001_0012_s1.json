@@ -417,11 +417,74 @@
   ],
   "similar_documents": [
     {
-      "document_id": "18750001_05_s1",
-      "title": "Convention du mètre et son règlement annexe",
-      "score": 0.402344,
+      "document_id": "18750001_19_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.963237,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_14_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.955988,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_31_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.94437,
       "type": "clause_reuse",
       "provisional": false
+    },
+    {
+      "document_id": "18750001_05_s1",
+      "title": "Convention du mètre et son règlement annexe",
+      "score": 0.808666,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_46_s1",
+      "title": "Instrument d'adhésion du Portugal",
+      "score": 0.739251,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_26_s1",
+      "title": "Instrument de ratification de la Grèce",
+      "score": 0.696508,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "18750001_23_s1",
+      "title": "Instrument de ratification des Etats-Unis",
+      "score": 0.518903,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_21_s1",
+      "title": "Instrument de ratification de l'Espagne",
+      "score": 0.435285,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_42_s1",
+      "title": "Instrument d'adhésion du Pérou",
+      "score": 0.428787,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19230002_002_s1",
+      "title": "Copie non signée du Convention",
+      "score": 0.395012,
+      "type": "weak_link",
+      "provisional": true
     }
   ]
 }

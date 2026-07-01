@@ -1,0 +1,75 @@
+{
+  "document_id": "tra19520029_102_s1",
+  "title": "Lettre monégasque précisant la portée de l'accord",
+  "year": 1952,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8769,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "/6/ro/6 LEGATION DE MONACO nết. 7727/56 ARRIVES Le Legation de Monaco presente ses compliments des Affatres Admintetratives et Sociales - Conventions) ot se retore a l'arbiole 2, parag. 11I, b/ de La Convention Trenco-monégasque sur la securite sociale, ed gnée à Perio 1e 28 Pevrlor 1952,qu1 sulpule quo ladlte Conv entton a applique laux aotes lácislabile ou reglementatres gui -tendront lee régimes existants & de no…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19520029_102_s1.pdf",
+  "source_filename": "tra19520029_102_s1.pdf",
+  "source_sha256": "039619ebe662d4f41ea799ba84aed6f1f681fd9c41ffc5faf69a5ed28ee599a8",
+  "treaty_id": "TRA19520029",
+  "treaty_number": "102",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "/6/ro/6\n\nLEGATION DE MONACO\n\nnết. 7727/56\n\nARRIVES\n\nLe Legation de Monaco presente ses compliments\n\ndes Affatres Admintetratives et Sociales - Conventions)\n\not se retore a l'arbiole 2, parag. 11I, b/ de La Convention\n\nTrenco-monégasque sur la securite sociale,\n\ned gnée à Perio\n\n1e 28 Pevrlor 1952,qu1 sulpule quo ladlte Conv entton a applique laux aotes lácislabile ou reglementatres gui -tendront lee régimes existants & de nouvellen as tegort ec de bénéttolaires ase s'11 n'y a pas, & cet gard, opposition du Couvernement du reys inéreggé nobifide an Goavernement de 1fantre pars dans un délat do trote mois a deter de la publiontion officielle desdits gotes.\"\n\nbelon les dispositions du décret du 7 Juillet\n\nT955 paru an Journal Ofticial de La Republique francsise lo 1o Juilos 1950, leo rotaités tes chontna do for fundatens, lom Is zéaldent dens La letropole, sont attITTes su Nolmo conéral do 1a adour1t6 eoofalo. Lo daret prdoi se cue iles intoresses sont affilies a la Calese Ersmatre de\n\nSecurite Socale es ons arous aux presta biond.\n\nTe Légation de Mongoo a 1 honneur de porter à\n\nIn connedesanoe du Département que le Gouvernement mone- 2 extension de La Convention iraneo-mondre sque de sécuriti sociale a cette nouvelle catégorio de beneticisires.\n\nBle rappelle que lora de la concluaion de\n\nL'errangenent adminiatratis, objet de 1'Ordonnanee Souvaraine n°\n\n1056 du 14 Doembre 1954, 11 a été précied que les\n\ntemes \"hore de la Prinoipeutó\" tigurant à l'article 30 de la Convention, designent le territoire metropolitain francelo. Bien que vient plus directement les allocatione tamiliales, ces dispositions ne sont que la Justisiontion\n\nDirection dea Affaires Administratives\n\n.../\n\net Soctales\n\n- Conventions -\n\nMinistere dee Affabrea Strangeres",
+      "quality_score": 0.9286,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "осилом за сітадби:\n\nde l'esprit dane lequel la Convention a été négociée, d'esta-dire qu'11 était atipulé pour les salarióe du terri foin métropolitain.\n\nde Tegation de Monsoo serpititres obligée au\n\nDéperterent de vouloir bien Lui accuser réception de La présence conmundcati on et profite de cette occasion pour\n\nInt renouveler les assurances de sa haute consideracion./hel\n\nPartey Le I6 Ootobre I956\n\n10.5\n\nA cat\n\nBATO\n\nCLOOR",
+      "quality_score": 0.8252,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19520029_103_s1",
+      "title": "Lettre française précisant la portée de l'accord",
+      "score": 0.411959,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19650058_101_s1",
+      "title": "Publication au Journal officiel du",
+      "score": 0.351282,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

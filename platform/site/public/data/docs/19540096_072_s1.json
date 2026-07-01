@@ -1,0 +1,116 @@
+{
+  "document_id": "19540096_072_s1",
+  "title": "Instrument de ratification de la Norvège",
+  "year": 1954,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9719,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NOUS HAAKON RO I NORVEGE faisons savoir: vu et examiné la Convention Internationale relative 1 'Institut International du Froid, faite à Paris le Jer décembre 1954, Nous ratifions et confirmons ladite Convention promettant de la faire observer selon sa forme et teneur. En foi de quoi Nous avons signé le présent instrument de ratification ét 7 avons fait apposer le sceau du Hoyaume. Fait au Palais Royal à Oslo le tre…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_072_s1.pdf",
+  "source_filename": "19540096_072_s1.pdf",
+  "source_sha256": "e418571751efa3e96505ca68ab5d850e725bf2aa55c84a1f004168b06fd9da7d",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "NOR002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NOUS\n\nHAAKON\n\nRO I\n\nNORVEGE\n\nfaisons savoir:\n\nvu et examiné la Convention\n\nInternationale relative 1 'Institut\n\nInternational du Froid, faite à Paris le\n\nJer décembre 1954,\n\nNous\n\nratifions et confirmons ladite Convention promettant de la faire observer selon\n\nsa\n\nforme et teneur.\n\nEn foi de quoi Nous avons signé le présent instrument de ratification ét 7 avons fait apposer le sceau du Hoyaume.\n\nFait au Palais Royal à Oslo le\n\ntrente\n\njuin mil neuf cent cinquante-cing.\n\nIn I'absence de Sa liajesté le Ro1,\n\nPatind Lampe",
+      "quality_score": 0.9719,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_651_s1",
+      "title": "Instrument d'adhésion norvégien",
+      "score": 0.418977,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_28_s1",
+      "title": "Instrument de ratification norvégien",
+      "score": 0.406922,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_11_s1",
+      "title": "Instrument de ratification de la Norvège",
+      "score": 0.404871,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_56_s1",
+      "title": "Instrument d'adhésion de la Norvège",
+      "score": 0.39584,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_071_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.393399,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_030_s1",
+      "title": "Instrument d'adhésion du Cameroun",
+      "score": 0.375683,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_12_s1",
+      "title": "Pouvoirs de signature de la Finlande",
+      "score": 0.362382,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_21_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.361407,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_005_s1",
+      "title": "Instrument belge",
+      "score": 0.358069,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_46_s1",
+      "title": "Instrument de ratification de la Finlande",
+      "score": 0.356939,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

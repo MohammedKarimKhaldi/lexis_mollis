@@ -1,0 +1,51 @@
+{
+  "document_id": "tra18050015_001",
+  "title": "Texte de l'acte",
+  "year": 1805,
+  "doc_type": "Texte",
+  "languages": [
+    "ca",
+    "es"
+  ],
+  "quality_score": 0.836,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "1805 otreegutention or removalleror des Troutes entro la Trame or Ollger Pacha adoname! باعذ كحيه تلم ووجب التيم رقم دود رك للنوبيك ديكيوزكر و سند مسزوماه جمازيه see can asia ligan prodi - de learnes 1910, dedljewagial asther الاخرين اووتلت منطي بأنشا مقتول ووجوم ذريقا ايدوب لحمد بأشا بشرامة مايشا صفتري بحمات حدمن بجد كره طلائنة زرائحه برشاي ال و ت اولان صلح وصل حمز مين دوستدفز وشرواط -Ca. leno: intelligence entrust…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Texte",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:revolutionary_napoleonic_1789_1815",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18050015_001.pdf",
+  "source_filename": "tra18050015_001.pdf",
+  "source_sha256": "7b733ad273629311b280f6e551d060f2d61c6383b21955523cd70335041c0a80",
+  "treaty_id": "TRA18050015",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1805 otreegutention or removalleror des Troutes entro la Trame or Ollger\n\nPacha adoname!\n\nباعذ كحيه تلم ووجب التيم رقم دود رك للنوبيك ديكيوزكر و سند مسزوماه جمازيه\n\nsee can asia ligan prodi\n\n- de learnes 1910,\n\ndedljewagial asther\n\nالاخرين اووتلت منطي بأنشا مقتول ووجوم ذريقا ايدوب لحمد بأشا بشرامة مايشا صفتري بحمات حدمن بجد كره طلائنة زرائحه برشاي ال و ت اولان صلح وصل حمز مين دوستدفز وشرواط\n\n-Ca. leno: intelligence entrustero, Catation\n\nقيراو لتري كرراً امول لار\n\nDan do germine piano de inco gue athan-de lammée: 1940 of of ger la bion gardes..\n\nmate da fall cott pince car sima léerite on\n\nI plus bas don Secan.\n\ndes britó pass am Rhodja jure.\n\nDubois zhaim nel",
+      "quality_score": 0.836,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "es"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

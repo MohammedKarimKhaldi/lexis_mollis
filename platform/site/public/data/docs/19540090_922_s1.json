@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_922_s1",
+  "title": "Procès-verbal de dépôt de l'instrument turc",
+  "year": 1954,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9985,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DES INSTRUMENIS DE RATIFICATION DE IA TURQUIE SUR IA CONVENTION INTERNATIONALE POUR J'UNIFICATION DES METHODES D'ANALYSE ET D'APPRECIATION DES VINS, SIGNEE A PARIS, IE 13 OCTOBRE 1954 Monsieur Namik JOIGA, Conseiller, Chargé d'Affaires de Turquie, s'est présenté aujourd'hui au Ministère des Af- faires Etrangères, pour procéder, avec Monsieur Edouard de IA CHAUVINIERE, Ministre Plénipotentiaire…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_922_s1.pdf",
+  "source_filename": "19540090_922_s1.pdf",
+  "source_sha256": "7fbe2441227674174b10ff05736f783c77f4176e29f6136c528d7e462750ec30",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "922",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nDE DEPOT DES INSTRUMENIS DE RATIFICATION DE IA TURQUIE\n\nSUR IA CONVENTION INTERNATIONALE POUR J'UNIFICATION\n\nDES METHODES D'ANALYSE ET D'APPRECIATION DES VINS,\n\nSIGNEE A PARIS, IE 13 OCTOBRE 1954\n\nMonsieur Namik JOIGA, Conseiller, Chargé d'Affaires de Turquie, s'est présenté aujourd'hui au Ministère des Af- faires Etrangères, pour procéder, avec Monsieur Edouard de\n\nIA CHAUVINIERE, Ministre Plénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dé- pôt des instruments de ratification de la Iurquie sur la\n\nConvention internationale pour 1 'Unification des Méthodes d'Analyse et d'Appréciation des Vins, signée à Paris, 1e 13 octobre 1954, en exécution de l'article 8 de ladite Conven- tion.\n\nLes instruments ayant été, après exanen, trouvés en bonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé le Présent\n\nProcès-Verbal, qu'ils ont revêtu de leux cachet.\n\nFAII A PARIS, en double exemplaire, le 14 novembre 1g 56\n\nLa Cransion",
+      "quality_score": 0.9985,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.821924,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.807918,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_437_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.800022,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.785123,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.784766,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_977_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.738614,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.715862,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.616499,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_36_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.603768,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_438",
+      "title": "Pouvoirs français",
+      "score": 0.599446,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

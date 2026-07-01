@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19280002_mus001_s1",
+  "title": "Instrument d'adhésion",
+  "year": 1928,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9592,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ambassade de la République de Maurice à Paris Réf: P/10/08 (MEP/DIP/05) 19280002.50 Embassy of the Republic of Mauritius in Paris RAT ENREGISTRE PROTOCOLE 26 MAI 2008 ARRIVÉE L'Ambassade de la République de Maurice présente ses compliments au Ministère des Affaires étrangères de la République française, et a l'honneur de transmettre ci-joint 'Instrument d'Adhésion du Gouvernement de la République de Maurice à la Con…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19280002_mus001_s1.pdf",
+  "source_filename": "tra19280002_mus001_s1.pdf",
+  "source_sha256": "828c915b195394092670b5d46da6e2be76115ab09742e534f56ce6ab94471a07",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "MUS001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ambassade de la République de Maurice à Paris\n\nRéf: P/10/08 (MEP/DIP/05)\n\n19280002.50\n\nEmbassy of the Republic of Mauritius in Paris\n\nRAT\n\nENREGISTRE\n\nPROTOCOLE\n\n26 MAI 2008\n\nARRIVÉE\n\nL'Ambassade de la République de Maurice présente ses compliments au Ministère des\n\nAffaires étrangères de la République française, et a l'honneur de transmettre ci-joint 'Instrument d'Adhésion du Gouvernement de la République de Maurice à la Convention concernant les expositions internationales signée à Paris le 22 novembre 1928, telle que modifiée par le Protocole du 16 novembre 1966, 30 novembre 1972 et amendée le 24 juin 1982 et le 31 mai 1988.\n\nL'Ambassade de la République de Maurice saisit cette occasion pour lui renouveler les assurances de sa haute considération.\n\nParis, le 21 May 2008\n\nMinistère des Affaires étrangères 37, Quai d'Orsay 75700 Paris 07\n\nle 28/05/08\n\ncope→ NuDi) EC (LOvir BURDCOFF\n\nTel: 01 42 27 3019-Fax:0740e de Tr ole il 6 5017 Emait: paris@amb-maurice/f",
+      "quality_score": 0.9592,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19280002_mlt001_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.43778,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_smr001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.432785,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_034_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.426451,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_023_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.425583,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_62_s1",
+      "title": "Instrument d'adhésion du Maroc",
+      "score": 0.422725,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.422291,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_nam002_s1",
+      "title": "Notification au bureau international des expositions de l'adhésion de la Namibie",
+      "score": 0.420056,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_012_s1",
+      "title": "Note verbale de la RSS de Biélorussie confirmant son acceptation de l'amendement",
+      "score": 0.419467,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hnd001_s1",
+      "title": "Instrument d'adhésion du Honduras",
+      "score": 0.418164,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.413914,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

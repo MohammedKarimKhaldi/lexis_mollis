@@ -1,0 +1,116 @@
+{
+  "document_id": "19880315_851_s1",
+  "title": "Note verbale suisse indiquant que le gouvernement suisse se considère lié par le traité depuis le 16 décembre 1988",
+  "year": 1988,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9976,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "AMBASSADE DE SUISSE 735.1 L'Ambassade de Suisse présente ses compliments au Ministère des Affaires Etrangères et, en réponse à une démarche orale du Ministère de la Recherche et de la Technologie relative à la Convention Synchrotron du 16 décembre 1988, a l'honneur de lui faire part, sur ordre des autorités suisses, de ce qui suit. Au moment de la signature de la Convention \"European Synchrotron Radiation Facility E…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880315_851_s1.pdf",
+  "source_filename": "19880315_851_s1.pdf",
+  "source_sha256": "9cae80582eff3c5695687e0ce0bab57ada44fb65b9a80714051f825f7185d2ee",
+  "treaty_id": "TRA19880315",
+  "treaty_number": "CHE002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AMBASSADE DE SUISSE\n\n735.1\n\nL'Ambassade de Suisse présente ses compliments au\n\nMinistère des Affaires Etrangères et, en réponse à une démarche orale du Ministère de la Recherche et de la\n\nTechnologie relative à la Convention Synchrotron du 16 décembre 1988, a l'honneur de lui faire part, sur ordre des autorités suisses, de ce qui suit.\n\nAu moment de la signature de la Convention \"European Synchrotron Radiation Facility ESRF\", la Suisse avait déjà accompli la procédure interne de ratification selon les dispositions de l'article 1l alinéa 1 de ladite convention. En conséquence, le Gouvernement suisse se considère lié à ce Traité, selon les normes du droit international public, dês le 16 décembre 1988.\n\nL'Ambassade de Suisse saisit cette occasion pour renouveler au Ministère des Affaires Etrangères l'assurance de sa haute considération.\n\nParis, le 16 octobre 1990\n\nLA V\n\nAu Ministère des Affaires Etrangères 37, Quai d'orsay 75700\n\nParis",
+      "quality_score": 0.9976,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19480001_61_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.388288,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_047_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.385319,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_009_s1",
+      "title": "Note verbale d'acceptation de l'Autriche",
+      "score": 0.380968,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_049_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.378731,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20050255_100",
+      "title": "Résolution 5/2015 modifiant les annexes de la convention adoptée par l'Assemblée Générale réunie à Strasbourg le 16 septembre 2015",
+      "score": 0.376466,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141211_006_s1",
+      "title": "Accusé de réception de l'instrument français.",
+      "score": 0.376002,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_05_s1",
+      "title": "Extension de la validité de la convention au Land de Berlin",
+      "score": 0.37569,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_296_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.375249,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_014_s1",
+      "title": "Réactions de divers pays à l'extension de la convention au Land de Berlin-Ouest",
+      "score": 0.374848,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19280002_sen001b_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.374094,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

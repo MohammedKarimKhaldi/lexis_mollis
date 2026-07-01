@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_850_s1",
+  "title": "Pouvoirs suisses",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9857,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LE CONSEIL FÉDÉRAL SUISSE FAIT SAVOIR PAR LES PRESENTES qu'1l a autorisé Monsieur Pierre Antoine de Sa 11s, Envoyé extraordinaire et Ministre plénipotentiaire de Suisse à Paris, à signer la convention internationale pour l'unification des méthodes d'analyse et d'appréciation des vins. En foi de quoi, les présentes ont été signées par le Président et le Chancelier de la Confédération Suisse et munies du sceau du Cons…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_850_s1.pdf",
+  "source_filename": "19540090_850_s1.pdf",
+  "source_sha256": "7d0a7c22cc2c985049b094d3a8872359c4b490b4000eedd370eb95682480d8ca",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "CHE001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LE CONSEIL FÉDÉRAL SUISSE\n\nFAIT SAVOIR PAR LES PRESENTES\n\nqu'1l a autorisé\n\nMonsieur Pierre Antoine de\n\nSa 11s,\n\nEnvoyé extraordinaire et Ministre plénipotentiaire de Suisse à Paris,\n\nà signer la convention internationale pour l'unification des méthodes d'analyse et d'appréciation des vins.\n\nEn foi de quoi, les présentes ont été signées par le\n\nPrésident et le Chancelier de la Confédération Suisse et munies du sceau du Conseil fédéral.\n\nBerne, le 27 avril 1955.\n\nAU NOM DU CONSEIL FEDERAL SUISSE:\n\nLe Président de la Confédération, ma arrinim\n\nLe Chancelier de la Confédération,\n\nChose",
+      "quality_score": 0.9857,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19530019_008",
+      "title": "Pouvoirs suisses pour l'échange des ratifications",
+      "score": 0.586491,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_59_s1",
+      "title": "Instrument de ratification de la Suisse",
+      "score": 0.473969,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_99_s1",
+      "title": "Pouvoirs de dépôt de l'instrument de ratification de la  Suisse",
+      "score": 0.467494,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_58_s1",
+      "title": "Instrument de ratification de la Suisse",
+      "score": 0.458103,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680230_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.411913,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19310014_003",
+      "title": "Pouvoirs suisses",
+      "score": 0.40467,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.401821,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880315_850a_s1",
+      "title": "Pouvoirs belges",
+      "score": 0.396846,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_57_s1",
+      "title": "Pouvoirs de signature suisse",
+      "score": 0.392541,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_003_s1",
+      "title": "Pouvoirs suisses",
+      "score": 0.389956,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

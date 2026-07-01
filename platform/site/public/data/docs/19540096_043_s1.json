@@ -1,0 +1,118 @@
+{
+  "document_id": "19540096_043_s1",
+  "title": "Instrument de Cuba",
+  "year": 1954,
+  "doc_type": "Autre",
+  "languages": [
+    "es"
+  ],
+  "quality_score": 0.955,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "REPUBLICA DE CUBA MINISTERIO DE RELACIONES EXTERIORES La Habana, 22 de enero de 1971 Señor Ministro: Tengo el honor de poner en conocimiento de Tues- tra Excelencia que el Gobierno de la República de Cuba, al examinar la Convención Internacional relativa al Ins- tituto Internacional de Refrigeración, firmada en París el 1º de diciembre de 1954, decidió adherirse a la mis- ma comprometiéndose a observarla en todas su…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_043_s1.pdf",
+  "source_filename": "19540096_043_s1.pdf",
+  "source_sha256": "6f1391df8db9c37ab4016eac60c3582c6f59dc64b593462478c6462d819e2554",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "250",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLICA DE CUBA\n\nMINISTERIO DE RELACIONES EXTERIORES\n\nLa Habana, 22 de enero de 1971\n\nSeñor Ministro:\n\nTengo el honor de poner en conocimiento de Tues- tra Excelencia que el Gobierno de la República de Cuba, al examinar la Convención Internacional relativa al Ins- tituto Internacional de Refrigeración, firmada en París el 1º de diciembre de 1954, decidió adherirse a la mis- ma comprometiéndose a observarla en todas sus partes.\n\nAprovecho la oportunidad, Señor Ministro, para reiterarle el testimonio de mi más alta y distinguida\n\nconsideración.\n\nPin Poy\n\nAl Excmo. Sr. Maurice Schumann,\n\nMinistro de Relaciones Exteriores\n\nDe la República de Francia,\n\nPARIS.",
+      "quality_score": 0.955,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "es"
+      ],
+      "review_reasons": [
+        "engine_disagreement"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_029_s1",
+      "title": "Note verbale d'accompagnement de l'instrument d'adhésion de la Bulgarie",
+      "score": 0.406975,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19540090_154a_s1",
+      "title": "Retrait de la réserve bulgare",
+      "score": 0.405318,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_30_s1",
+      "title": "Lettre constituant instrument d'adhésion",
+      "score": 0.401051,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19480001_39_s1",
+      "title": "Note verbale d'adhésion du Liban",
+      "score": 0.397054,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19280002_gbr004_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.395973,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_36_s1",
+      "title": "Pouvoirs pour le dépôt de l'instrument",
+      "score": 0.394535,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19540096_040_s1",
+      "title": "Notification aux Etats-membres de l'adhésion de la Chine",
+      "score": 0.39438,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19720117_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.393377,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19740039_004",
+      "title": "Instrument français",
+      "score": 0.392246,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "costa_rica_instrument__bie_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.391452,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

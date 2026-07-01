@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19340016_008",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1934,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9785,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "ex. tramer PROCES VERBAI D'ECHANGE Les Soussignés s'étant réunis pour procéder à l'échange des Ratifications du Président de la République Française et de Sa Majesté le Roi de Grande Bretagne , d'Irlande et des Dominions Britanniques au delà des Mers, Empereur des Indes sur la Convention pour l'exécution des jugements signée à Paris le I8 Janvier I934 entre la France et la Grande Bretagna, les instruments ont été pr…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19340016_008.pdf",
+  "source_filename": "tra19340016_008.pdf",
+  "source_sha256": "58f185c23bc94998da9cf7a18ea42f44d19ede6c37924266184cfb732aa90eb2",
+  "treaty_id": "TRA19340016",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ex. tramer\n\nPROCES VERBAI D'ECHANGE\n\nLes Soussignés s'étant réunis pour procéder à l'échange\n\ndes Ratifications du Président de la République Française et de\n\nSa Majesté le Roi de Grande Bretagne , d'Irlande et des Dominions\n\nBritanniques au delà des Mers, Empereur des Indes sur la\n\nConvention pour l'exécution des jugements signée à Paris le\n\nI8 Janvier I934 entre la France et la Grande Bretagna, les instruments ont été produits et ayant été , après examen, trouvés en bonne et due\n\nforme , l'échange en a été opéré.\n\nEN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont dressé le présent procès - verbal qu'ils ont revêtu de leurs cachets l'ait à Paris, en double exemplaire, 1e / 6\n\nMAI\n\nS-le Tlaml\n\nHau Phaner.",
+      "quality_score": 0.9785,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19310014_101",
+      "title": "Texte du PV d'échange des ratifications",
+      "score": 0.665486,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290044_008_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.655768,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190039_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.632812,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19640081_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.504893,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290031_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.420551,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19040040_007_s1",
+      "title": "Procès-verbal d'échange des instruments",
+      "score": 0.398542,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19510061_008_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.397946,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19330035_008_s1",
+      "title": "Procès verbal d'échange des ratifications",
+      "score": 0.395837,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710031_100_s1",
+      "title": "Procès-verbal de l'échange des instruments",
+      "score": 0.392535,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19220022_006_s1",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.389956,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

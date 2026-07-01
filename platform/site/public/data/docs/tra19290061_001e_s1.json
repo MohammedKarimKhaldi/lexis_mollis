@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19290061_001e_s1",
+  "title": "Lettre accusant réception de la notification d'abrogation française",
+  "year": 1929,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9927,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "UNITED NATIONS NATIONS UNIES POSTAL ADURESS- ADRESSE POSTALE UNITED NATIONS. N.Y. 10017 CABLE ADDRESS-ADRESSE TELEGRAPHIQUE NATIONS NEWYORK REFERENCE: LE 221/1 (1-4) Le 17 janvier 1974 lionsieur le Ministre, J'ai l'honneur, sur instructions du Secrétaire général, a'accuser réception de votre lettre du 2 janvier 1974, qui lui a été remise le 10 janvier, par lacuelle le Gouvernement de la Républicue française notifie…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19290061_001e_s1.pdf",
+  "source_filename": "tra19290061_001e_s1.pdf",
+  "source_sha256": "f9c106f2a6e1c6431c0c4f5c7485e5fa471d47e925446a36782bfeb1bf48a414",
+  "treaty_id": "TRA19290061",
+  "treaty_number": "001E",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UNITED NATIONS\n\nNATIONS UNIES\n\nPOSTAL ADURESS- ADRESSE POSTALE UNITED NATIONS. N.Y. 10017\n\nCABLE ADDRESS-ADRESSE TELEGRAPHIQUE NATIONS NEWYORK\n\nREFERENCE:\n\nLE 221/1 (1-4)\n\nLe 17 janvier 1974\n\nlionsieur le Ministre,\n\nJ'ai l'honneur, sur instructions du Secrétaire général, a'accuser réception de votre lettre du 2 janvier 1974, qui lui a été remise le 10 janvier, par lacuelle le Gouvernement de la\n\nRépublicue française notifie l'abrogation de sa déclaration en date du 16 mai 1956 (enregistrée sous le nunéro 8196) recon- naissant comme obligatoire la juridiction de la Cour internationale de Justice faite conformément à l'article 36, paragraphe 2, de son Statut.\n\nCopie de cette notification est transmise aux parties au\n\nStatut de la Cour ainsi qu'à son Greffier.\n\nVeuillez agréer, Monsieur le Ministre, l'assurance de ma très haute considération.\n\nLe Conseiller juridique\n\nCottaws\n\nConstantin A. Stavropoulos\n\nSon Excellence\n\nMonsieur Jobert\n\nNinistre des affaires étrangères\n\nMinistère des affaires étrangères\n\nQuai d'Orsay 75007 Paris (France)",
+      "quality_score": 0.9927,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19290061_001d_s1",
+      "title": "Lettre de dénonciation",
+      "score": 0.400497,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_slb001_s1",
+      "title": "Notification de non-succession",
+      "score": 0.391232,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_13_s1",
+      "title": "Notification d'adhésion de la Belgique",
+      "score": 0.389313,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19610161_s1",
+      "title": "Publication au JO (cf. p. 84 à 88 du pdf joint)",
+      "score": 0.387587,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_070_s1",
+      "title": "Lettre de retrait de la Mauritanie adressée à l'Institut du Froid",
+      "score": 0.383364,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_06_s1",
+      "title": "Instrument de ratification",
+      "score": 0.37899,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19660289_005_et_007_s1",
+      "title": "Accusé de réception russe de l'instrument français",
+      "score": 0.37892,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "nv_togo_s1",
+      "title": "Notification au BIE de l'adhésion du Togo",
+      "score": 0.378787,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_004_s1",
+      "title": "Instrument français",
+      "score": 0.378049,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19710084_003_s1",
+      "title": "Pouvoirs kenyans",
+      "score": 0.37742,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

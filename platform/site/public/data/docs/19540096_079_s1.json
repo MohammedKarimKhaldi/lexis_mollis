@@ -1,0 +1,128 @@
+{
+  "document_id": "19540096_079_s1",
+  "title": "Pouvoirs de signature des Pays-Bas",
+  "year": 1954,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9814,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "NOUS JULIANA, par la grace de Dieu. Pays-Bas, Princesge d'orange-Nassau, eta., eta., eta. À tous ceux qui les présentes verront, Salut! Désirant Nous entendre avec les autres Etats Nembres de 1'Institut International du Froid au sujet de la conclusion d'une Convention Internatio- nale se substituant à la Convention du 21 Juin 1920 modifiée le 31 mai 1937, relative à 1'Institut Inter- national du Froid, et Nous fiant…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540096_079_s1.pdf",
+  "source_filename": "19540096_079_s1.pdf",
+  "source_sha256": "3c879613baaa3a8934b9369409ab256c2bc3f5cb6ad8d455001484adf920d56c",
+  "treaty_id": "TRA19540096",
+  "treaty_number": "NLD001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NOUS JULIANA,\n\npar la grace de Dieu.\n\nPays-Bas,\n\nPrincesge\n\nd'orange-Nassau, eta., eta., eta.\n\nÀ tous ceux qui les présentes verront, Salut!\n\nDésirant Nous entendre avec les autres Etats\n\nNembres de 1'Institut International du Froid au sujet de la conclusion d'une Convention Internatio- nale se substituant à la Convention du 21 Juin 1920 modifiée le 31 mai 1937, relative à 1'Institut Inter- national du Froid, et Nous fiant entièrement en 1a capacité, le zèle et le dévouement du Baron C.G.W.#.\n\nvan Boetzelaer van Oosterhout, Notre Ambassadeur\n\nExtraordinaire et Plénipotentiaire à Paris, à ces causes Nous lui donnons par les présentes plein pouvoir et mandement spécial en vue de signer ladite\n\n- Convention -",
+      "quality_score": 0.9628,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Convention pour le Royaume en Europe, Nous réser- vant d'approuver et de ratifier ce que Notre dit plénipotentiaire aura signé en vertu des présents pleins pouvoirs, conformément aux instructions dont il se trouve muni.\n\nEn foi de quoi, Nous avons donné les présentes, signées de Notre main et avons ordonné qu'elles fus- sent revêtues de Notre sceau Royal.\n\nDonné à Soestdijk, le vingt-septième jour du mois de mai de l'an de grâce mil neuf cent cinquante cinq.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540096_081_s1",
+      "title": "Instrument de ratification des Pays-Bas",
+      "score": 0.579059,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_43_s1",
+      "title": "Pouvoirs de signature de la Norvège",
+      "score": 0.428457,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_696",
+      "title": "Instrument de ratification néerlandais",
+      "score": 0.421452,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_34_s1",
+      "title": "Instrument de ratification des Pays-Bas",
+      "score": 0.408535,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_165_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.406699,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_24_s1",
+      "title": "Pouvoirs danois",
+      "score": 0.401811,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_77_s1",
+      "title": "Instrument de ratification des Pays-Bas",
+      "score": 0.399493,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_14_s1",
+      "title": "Instrument de ratification des Pays-Bas",
+      "score": 0.398421,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_023_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.38969,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_18_s1",
+      "title": "Pouvoirs de signature du Danemark",
+      "score": 0.387508,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

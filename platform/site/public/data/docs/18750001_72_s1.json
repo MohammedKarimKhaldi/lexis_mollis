@@ -354,5 +354,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "18750001_14_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.398556,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_42_s1",
+      "title": "Instrument d'adhésion du Pérou",
+      "score": 0.398058,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_46_s1",
+      "title": "Instrument d'adhésion du Portugal",
+      "score": 0.394404,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_23_s1",
+      "title": "Instrument de ratification des Etats-Unis",
+      "score": 0.392288,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_31_s1",
+      "title": "Instrument de ratification italien",
+      "score": 0.388958,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_21_s1",
+      "title": "Instrument de ratification de l'Espagne",
+      "score": 0.388026,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_19_s1",
+      "title": "Instrument de ratification du Danemark",
+      "score": 0.387981,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "18750001_09_s1",
+      "title": "Instrument de ratification de l'Argentine",
+      "score": 0.385439,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra16780001_005_s1",
+      "title": "Lettres patentes de ratification",
+      "score": 0.381972,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra17680005_001a",
+      "title": "Traité; ensemble deux articles séparés et secrets",
+      "score": 0.381192,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
 }

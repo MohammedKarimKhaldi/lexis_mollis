@@ -1,0 +1,116 @@
+{
+  "document_id": "19730055_07_s1",
+  "title": "Pouvoirs italiens",
+  "year": 1973,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTÈRE DES AFFAIRES ÉTRANGÈRES RÉPUBLIQUE FRANÇAISE PARIS, LE POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires Etrangères, donnons pouvoirs par ces pré- sentes à Monsieur Gilles de BOISGELIN, Ministre Plénipotentiai- re pour signer l'Accord conclu sous forme d'Arrangement, sous réserve d'approbation, entre certains Etats membres de l'Orga- nisalion Européenne de Recherches Spatiales e…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19730055_07_s1.pdf",
+  "source_filename": "19730055_07_s1.pdf",
+  "source_sha256": "c56adfc0f79d4cadfd6eefd301bafe6a049d02c853e2df9bae98d1ae8eca9112",
+  "treaty_id": "TRA19730055",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTÈRE\n\nDES\n\nAFFAIRES ÉTRANGÈRES\n\nRÉPUBLIQUE\n\nFRANÇAISE\n\nPARIS, LE\n\nPOUVOIRS\n\nAu nom du Gouvernement de la République, NOUS,\n\nMinistre des Affaires Etrangères, donnons pouvoirs par ces pré- sentes à Monsieur Gilles de BOISGELIN, Ministre Plénipotentiai- re pour signer l'Accord conclu sous forme d'Arrangement, sous réserve d'approbation, entre certains Etats membres de l'Orga- nisalion Européenne de Recherches Spatiales et l'Organisation\n\nEuropéenne de Recherches Spatiales concernant l'exécution d'un programme de salellite maritime. /.\n\nFAIT à PARIS, le 28 novembre 1973\n\nLe Ministre des Affaires Etrangères",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19870205_002",
+      "title": "Pouvoirs français",
+      "score": 0.410863,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960139_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.401055,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_03_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.396724,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_18_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification suédois",
+      "score": 0.394744,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.392469,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_47_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.388948,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification des Pays-Bas",
+      "score": 0.388536,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_01_s1",
+      "title": "Traité",
+      "score": 0.387296,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20070295_02",
+      "title": "Lettre en réponse",
+      "score": 0.383329,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_10_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.382633,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

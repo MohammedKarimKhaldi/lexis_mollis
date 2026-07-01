@@ -1,0 +1,49 @@
+{
+  "document_id": "tra18250002_008_s1",
+  "title": "Procès-verbal d'échange des ratifications",
+  "year": 1825,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.8166,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "4 mars 1829. procéder à lechange des ratification des actio servant à fier les Limites entre la trance e... la Baviere Rhénane; int produit les ... instrumens des dites ratifications, qui ayant été tiouvés en bonne forme, ont été échangés en la manière accoutumée. En foi de quoi, les Soussignés. ont signé le prisent Procis Viabal, et y mit appadé le cachet de leurs armes. Prit à Mets Le quati Mars 1899. Le Licutenan…",
+  "tags": [
+    "century:c19",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:nineteenth_century_1816_1913",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra18250002_008_s1.pdf",
+  "source_filename": "tra18250002_008_s1.pdf",
+  "source_sha256": "f6fdb213951ecf6f61481e1169fb182ea828de2fac0578cb8e554ff592a03b14",
+  "treaty_id": "TRA18250002",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "4 mars 1829.\n\nprocéder à lechange des ratification des actio servant à fier les Limites entre la trance e...\n\nla Baviere Rhénane; int produit les ...\n\ninstrumens des dites ratifications, qui ayant été tiouvés en bonne forme, ont été échangés en la manière accoutumée. En foi de quoi, les Soussignés.\n\nont signé le prisent Procis Viabal, et y mit\n\nappadé le cachet de leurs armes.\n\nPrit à Mets Le quati Mars 1899.\n\nLe Licutenant Senéral. Commidiaire Le Conseiller dilra, Comi de la Majesté Cris Chrétienne: de de Majesté Bavaroise)\n\nHe Mannellau\n\n\"Ntifanma)",
+      "quality_score": 0.8166,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": []
+}

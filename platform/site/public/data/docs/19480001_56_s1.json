@@ -1,0 +1,116 @@
+{
+  "document_id": "19480001_56_s1",
+  "title": "Bordereau d'envoi de la copie certifiée conforme du dépôt de l'instrument de ratification suédois",
+  "year": 1948,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9691,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Traduction. NOUS GUSTAF par la Grace de DIEU, Roi @e Suéde, des Goths et d es Vendes, savoir faison ss: que, ayant juge bon et utile ‘d'entrer en négociations avec plusieurs Gouvernements étrangers en vue de la conclusion d'un protocole portant modification de la Convention sigmee & Paris, le 22 novembre 1928, concernant les Expositions internationales, et NOTRE Plenipotentiaire, dûment autorisé à cet effet, ayant c…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19480001_56_s1.pdf",
+  "source_filename": "19480001_56_s1.pdf",
+  "source_sha256": "95f8685d929b447efb489e2219c65d1cc8062971240255751eeb0ddb76b8da23",
+  "treaty_id": "TRA19480001",
+  "treaty_number": "SWE004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Traduction.\n\nNOUS GUSTAF par la Grace de DIEU,\n\nRoi @e Suéde, des Goths et d es\n\nVendes, savoir faison ss: que, ayant juge bon et utile ‘d'entrer en négociations avec plusieurs Gouvernements étrangers en vue de la conclusion d'un protocole portant modification de la Convention sigmee & Paris, le 22 novembre 1928, concernant les Expositions internationales, et NOTRE Plenipotentiaire, dûment autorisé à cet effet, ayant conclu, arrété, signé et revêtu de son cachet un protocole, portant mot pour mot oe qui suites | | |\n\n(Inseratur)\n\n& ces causes et fins NOUS avons voulu rstifier, approuver et accepter ledit protocole avec tous seS articles, points et clauses comme aussi par les présentes NOUS l'acceptons, approuvons et ratifions de la manière la plus efficace que faire se peut, voulons et promettons d'observer et de remplir gincerement et loyalement tout ce que contient ledit protocole aveo tous ses articles, points et clauses. En foi de quoi NOUS avons signé La pré sente de NOTEE propre main et y avons fait apposer NOTRE Sceau Royal. Fait au Château de Stockholm, le 3 mars 1950.\n\nPendant l'absence du Roi,\n\nMon Auguste Souverains\n\n(X. P. ) GUSTAF ADOLF\n\nÓsten Unden",
+      "quality_score": 0.9691,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510004_70_s1",
+      "title": "Instrument de ratification de la Suède",
+      "score": 0.671784,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_48_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.453639,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_53_s1",
+      "title": "Pouvoirs de signature suédois",
+      "score": 0.408909,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_005_s1",
+      "title": "Instrument monégasque",
+      "score": 0.407936,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_022_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.407106,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_08_s1",
+      "title": "Pouvoirs de la Belgique",
+      "score": 0.405568,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_09_s1",
+      "title": "Pouvoirs de négociation et de signature de la Belgique",
+      "score": 0.404396,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "19370052_14_s1",
+      "title": "Note d'accompagnement de l'instrument de ratification du Danemark",
+      "score": 0.401751,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_19_s1",
+      "title": "Pouvoirs de signature de la Belgique",
+      "score": 0.398039,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19240003_21_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.39587,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

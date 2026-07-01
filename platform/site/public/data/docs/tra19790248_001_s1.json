@@ -1,0 +1,310 @@
+{
+  "document_id": "tra19790248_001_s1",
+  "title": "Protocole",
+  "year": 1979,
+  "doc_type": "Protocole",
+  "languages": [
+    "ca",
+    "fr",
+    "id"
+  ],
+  "quality_score": 0.8463,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "UL La mal Th hl dia Ua Fak: A.atii radi a cla Cl, ki fa ak Sian ar 1e ian hhc dinan Can ica lh alaki ua SNR ua ual A4 KL Emr ku kif hai SÎ v3 PROTOCOLE .. = Entre le Gouvernement de la République Française et le Gouvernement de la République Populaire Révolutionnaire de Guinée fixant le régime du personnel français mis par la France à la dispo- sition de la Guinée en application de l'accord de coopération culturelle…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Protocole",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19790248_001_s1.pdf",
+  "source_filename": "tra19790248_001_s1.pdf",
+  "source_sha256": "62dfb2d8d002adf36b033da4e5fe75d83767fb36a42a4a4221f6a5b2c2a00a4d",
+  "treaty_id": "TRA19790248",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UL La mal Th hl dia Ua Fak: A.atii radi a cla Cl, ki fa ak Sian ar 1e ian hhc dinan Can ica lh alaki ua SNR ua ual A4 KL\n\nEmr ku kif hai SÎ",
+      "quality_score": 0.6854,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Arabic:psm3",
+      "language": [
+        "id"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "v3",
+      "quality_score": 0.5833,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "PROTOCOLE\n\n.. =\n\nEntre le Gouvernement de la République Française et le Gouvernement de la République Populaire\n\nRévolutionnaire de Guinée fixant le régime du personnel français mis par la France à la dispo- sition de la Guinée en application de l'accord de coopération culturelle, scientifique et technique entre les deux pays en date du 26 juin 1979.\n\n=1=-",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "È i aE a a a R a\n\nE EEE E T aT EO E E FE E A a A A A E, T E a Ae `\n\n. l\n\ni—mar '\n\na a .",
+      "quality_score": 0.5268,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "-\n\nEn application de l'Accord de Coopération Culturelle, Scientifique et\n\nTechnique entre le Gouvernement de la République Fremgaise 6t lel Couvernes\n\nlane Revate odilldes Guinéeçoisd et afin de faciliter\n\nle recrutement du personnel que le Gouvernement Français met à la disposition :du Gouvernerient Guinéen, les deux pays sont convenus de ce qui suit:\n\n1°) - Procédure de Recrutement :\n\nARTICLE ler. - Les autorités guinéennes qui souhaitent s'assurer le concours de personnels recrutés par le Gouvernement Français, présentent à l'Ambassade de France en République Pppulaire Révolutionnaire de Guinée, en temps opportun, pour permettre la recherche de candidats compétents + la description précise du poste offert, les grandes lignes de la mission qui sera tonfiée au spécialiste recruté et le niveau de qualification demandé pour occuper ce poste.\n\nARTICLE 2. - Les Autorités Françaises soumettent aux Autorités Guinéennes compétentes par l'entremise de l'Ambassade de la République Populaire\n\nRévolutionnaire de Guinés en France les dossiers de candidats susceptibles de remplir les fonctions définies comme il est indiqué ci-dessus.\n\nARTICLE 3. - Les Autorités guinéennes compétentes notifient à l'Ambas sade de France les candidatures qui reçoivent leur agrément en lui adressant deux originaux du contrat de mise à la disposition joint au dossier précité et dont le modèle fait l'objet de l'annexe 1 au présent Protocole.\n\n- L'Ambassade de France renvoie, dens les meilleurs délais, à l'Autorité\n\nGuinéerine compétente l'un des originaux dûment signé par le spécialiste recruté.\n\nARTICLE 4. - Le recrutement d'un agent n'est acquis que lorsqu'il est déclaré médicalement apte, à la suite d'une visite médicale par un médecin agréé par les services français compétents et par l'Ambassade de la République\n\nPopulaire Révolutionnaire de Guinée à Paris.\n\nARTICLE 5. - Lo durée fixée au contrat est de douze mois, y compris les droits à congé annuel.\n\nAvant l'expiration du contrat, les représentants qualifiés des deúx pays décident de l'opportunité de proroger la mission du spécialiste intéressé. En cas d'accord sur l'utilité de cette prorogation, le contrat est reconduit par un avenant notifié à l'Ambassade de France par l'Autorité Guinéenne compétente deux mois avant la date d'expiration du contrat.\n\n.../...",
+      "quality_score": 0.9949,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "v3\n\n・・\n\n- 2 -\n\nLa durée de validité d'un avenant ne peut excéder un an. L'avenant est reconduit dans les conditions fixées ci-dessus pour le contrat initial. L'avenant comporte les mêmes droits à congé annuel que le contrat initial.\n\n2°) - Obligations et garanties générales.\n\nARTICLE 6. - Les personnels français mis à la disposition du Gouvernement Guinéen dans le cadre du présent Protocole exercent leurs fonctions sous l'autorité exclusive du Gouvernement Guinéen.\n\nIls sont liés par l'obligation de discrétion professionnelle pour tous les faits ou informations dont ils ont connaissance dans l'exercice de leurs fonctions\n\n• Ils doivent s'abstenir notamment, de tous propos ou écrits de nature à nuire aux intérêts matériels et moraux des autorités tant Guinéennes que Françaises.\n\nLa sanction de toux manquements à ces obligations dans l'exercide de leurs fonctions,est, exclusivement, la rupture du contrat sans préavis et la rapatriement immédiat des intéressés.\n\nDans ce cas, l'Autorité qui prend la décision de rompre le contrat la communiqué par écrit au représentant qualifié de l'autre Gouvernement et à l'intéressé.\n\nARTICLE Z: - Les deux Gouvernements s'interdisent d'imposer aux per\n\n. sonnels toute activité ou manifestation présentant un caractère étranger au service pour lequel ils ont été recrutés.\n\n*ARTICLE 8. - Le Gouvernement de la République Populaire Révolutionna re de Guinée:\n\na) - accorde aux personnels français les facilités de travail, l'aide et la protection: dans l'exercice de leurs fonctions qu'il accorde à ses propres ressortis sants.\n\nb) - garantit la libre entrée et sortie du Territoire Guinéen pour les personnels et pour leur famille. En particulier, il délivre gratuitement à ces person nels et à leurs familles les visas d'entrée et de sortie, ainsi que tous autres perm ou autorisations qu'exige ou pourrait exigèr la règlementation Guinéenne pour résider. et travailler en Guinée.\n\nARTICLE 9. - Le Gouvernement Guinéen accorde aux personnels frança régis par le présent Protocole et aux familles venant résider avec eux en Guinée\n\n.../...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "V3\n\n- 3 -\n\na). - l'exemption du paiement de tous droits de douane pour l'importation d'effets persoenals, de mobiliers, d'articles ménagers et d'un véhicule automobile par famille, introduits dans le pays dans les six mois de leur prise de fonction, à la condition qu'ils s'engagent à conserver ces biens pour leur propre usage pendan la durée de leur séjour en Guinée, et à ne les céder éventuellement sur le Territoire Guinéen, que ce soit à titre gratuit ou à titre onéreux, que sur autorisation écrite de l'Autorité Guinéenne compétente et dans les conditions fixées par cette dernière.\n\nL'exemption du paiement des droits et taxes visée à l'alinéa ci-dessus est étendue à la réexportation des mêmes biens en fin de séjour en Guinée.\n\nb) - l'exemption du paiement d'impôts et taxes sur ceux de leurs revenus qui ne sont pas de source guinéenne.\n\nc) - l'autorisation, conformément à la réglementation en vigueur en République de Guinée d'effectuer périodiquement le transfert de 40% des salaires et indemnités dus par le Gouvernement Guinéen à l'expert.\n\n3°) - Rémunération et avantages en nature.\n\nARTICLE TO. - Le Gouvernement Guinéen: assure au personnel français régi par le présent Protocole :\n\na) - un logement convenable, à titre gratuit, pourvu du mobilier indispen-\n\nsable, en rapport avec les fonctions et la situation familiale du bénéficiaire,\n\nb) - les frais d'hôtel pour le spécialiste et sa famille, avant l'octroi d'un logement définitif pour la durée du séjour.\n\nARTICLE 11. - Le Gouvernement Français prend à sa charge et verse à l'intéressé, en France, en francs convertibles et transférables :\n\na) - la rémunération de l'agent,\n\nb) - les majorations de traitement à caractère familial et social.\n\nARTICLE 12. - Le Gouvernement Guinéen prend à sa charge la rémunération correspondant à celle dont bénéficie un agent Guinéen de même catégorie (y compris les primes et indemnités éventuelles) pour assurer les mêmes fonctions.\n\n'ARTICLE 13. - Le Gouvernement Français prend à sa chargé ::\n\na) - les frais de voyage par voie aérienne de l'agent et, le cas échéant, de sa famille, entre la France et la Guinée,\n\n... /٠٠",
+      "quality_score": 0.9928,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "- 4\n\nb) - les frais de transport des bagages en frêt aérien accompagné dans la limite de 110 kg pour le spécialiste, majoré de 50 kg par personne de sa famille venant résider avec lui pendant la durée de sa mission.\n\nCes poids s'entendent en supplément des franchises de bagages éventuel le ment accordées par les compagnies aériennes.\n\nc) - les frais éventuels de déménagement dans les limites de poids et du cubage agréés par l'Ambassade de France à Conakry,\n\nd) - les fraisaassumés par le Gouvernement Français, visés aux paragraphé a, b, c, ci-dessus sont également à sa charge lors du rapatriement du sépcialiste.\n\ne) - les frais de rapatriement dans les cas prévus aux Articles 6, 15, 1% e泌.\n\n4°) - Congés - Maladies - Accidents.\n\nARTICLE 14. - Les personnels régis par le Présént#totocole bénéficient pendant la durée de leur mission en Guinée d'un congé annuel de deux mois poul dix mois de services accomplis.\n\nLorsque l'engagement du coopérant est prolongé par un Avenant dont la validité a été fixée à moins d'un an, cette validité inclut un droit à congé de cinq jours par mois de service couvert par l'avenant.\n\nA l'occasion de leur cong& annuel, les personnels et les membres de leur famille résidant en Guinée bénéficient de la gratuité du voyage aérien allerretour entre la France et la Guinée, à la charge du Gouvernement Français.\n\nLa rémunération de la période du congé annuel est assurée en applications de la règlementation nationale française sur les personnels en service à l'étrangeri en congé en France.\n\nARTICLE 15. - En cas de maladie ou d'accident entraînant l'impossibilite d'exercer sa fonction, dûment constaté, le spécialiste a droit à être placé en congé de maladie, en conservant son plein traitement:\n\nToutefois, sa rémunération est celle prévue au dernier alinéó de l'article 145 ci-dessus pour la période de congé de maladie éventuellement passée en Franc\n\nLa durée de ce congé ne peut excéder trois mois, à l'issue desquels, si le coopérant est dans l'impossibilité de reprendre son service, ik est remis à la dispo sition du Gouvernement Français.\n\n٠٠٠/٠٠٠",
+      "quality_score": 0.9955,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "-5-\n\nL'intéressé et les membres de sa famille gardent dans ce cas le bénéfice des droits au rapatriement et au démenggement accordé par le Gouvernement Français, comme prévu à l'Article le ci-dessus.\n\nARTICLE 16. - En cas de décês pendant la durée de l'engagement, le\n\nGouvernement Français prend à sa charge le rapatriement du corps et, éventuellement, celui des membres de sa famille ainsi que les frais visés à l'Artické de cidessus.\n\nLes chargês visées à l'alinéa ci-dessus sont assumées par le Gouvernement\n\nGuinéen lorsque le décès est imputable à un accident de service ou à l'occasion du service.\n\nARTICEE 17. - En cas de maladie ou d'accident imputable au service, le traitement est conservé au coopérant victime dans les mêmes conditions de montant que celles indiquées aux alinéas 1 et 2 de l'Article 15 ci-dessus, jusqu'à son rétablissement définitif si ce. dernier peut intervenir avant la date d'expiration normale du contrat, ou jusqu'à cette dernière date si la guéhison et le rétablissement ne peuvent intervenir avant l'expiration du contrat.\n\nDans ce dernier cas, les mensualités de rémunération servies à l'intéressé ne peuvent être inférieures à six, les mensaalités qui resteraient dues à la date de l'expiration du contrat faisant l'objet d'un ppiement global.\n\nEn cas de décès imputable au service, les dispositions de l'alinéa ci-dessus sont maintenues au bénéfice des ayants-droit du coopérant.\n\nARTICLE 18. - A son retour en France, le coopérant victime d'un accident ou d'une maladie imputable au service bénéficie pour lui-même ou pour ses ayantsdroit des prestations en nature et en espèce déterminées par la réglementation fran saise, à la charge du Gouvernement français.\n\nARTICLE 19. - Chacun des deux Gouvernements peut à tout moment mettre fin à un contrat en cours d'exécution à charge pour lui :\n\na) - d'informer par écrit l'autre Gouvernemelt ainsi que le coopérant concerné un mois au moins avant la date d'effet de sa décision;\n\nb) - de verser au coopérant concerné, à titre d'indemnité de licenciement avant son départ de Guinée et en devises transférables, une somme égale à trois mois du traitement brut fixé au contrat;\n\nc) - d'assumer les frais de rapatriement et de déménagement de l'intéressé et de sa famille vivant avec lui en Guinée.\n\n٠٠٠/٠٠٠",
+      "quality_score": 0.9988,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "5\n\n-6 -\n\n5°) - Personnel en mission de courte durée.\n\nARTICLE 20. - Les personnels mis à la disposition du Gouvernement\n\nGuinéen pour effectuer en Guinée une mission de courte durée dans les domaine.\n\npropres à l'Accord de Coopération Culturelle, Scientifique et Technique, bénéfi cient des disposttions du Présent Protocole. Le Gouvernement Guinéen leur assur en particulier un logement' et les moyens de déplacement et de travail nécessaire au bon déroulement de leur mission.\n\n6°) - Durée du Protocole.\n\nARTICLE 21. - Le Présent Protocole ainsi que tous arrangements complé mentaires conclus en application de ses dispositions peuvent être modifiés d'un commun accord entre les deux Gouvernements.\n\nARTICLE 22. - Le Présent Protocole est valable pour toute la durée d'application de l'Acçord de Coopération Culturelle, Scienfifique et Technique entre le Gouvernement de la République Française et le Gouvernement de la:\n\nRépublique Populaire Révolutionnaire de Guinée signé le 26 Juinm1979 et restera applicable aux Personnels términant leur séjour ou leur contrat de service après la dénonciation de cet Accord.\n\nLa charge du rapatriement des coopérants concernés par le présent Protocole et leur famille, ainsi que les frais visés à l'Article 18 paragraphe d, incom.\n\nbent à celui des deux Gouvernements qui a pris la décision de dénoncer l'Accor de Coopération Culturelle, Scientifique et Technique.\n\nARTICLE 23. - Le Présent Protocole entre en vigueur à la même date que l'Accord de Coopération Culturelle, Scientifique et Technique entre la République framaise t d depublice etopulaite Ravala fontaire de Guinée et fera l'objet de l'Annexe 1 du dit Accord.\n\nFait à Paris, lo. Ib. Jwik....\n\n1979\n\nEn double original en Langue Française.\n\nPour le Gouvernement de la\n\nRépublique Française\n\nLauho\n\nPour le Gouvernement de la\n\nRépublique Populaire Révolutior de Guinée.\n\nLe Premier Ministre\n\nDr Lansana BEAVOGUI",
+      "quality_score": 0.9876,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 11,
+      "text": "й\n\nCONTRAT DE MISE A DISPOSITION\n\nDU GOUVERNEMENI GUINDEN CONCERNANI M.\n\nConformément au Protocole du\n\nentre le Gouvernement de la République française et le Gouvernement de la République Populaire Révolutionnaire de Guinée sur le régime du personnel français mis à la disposition du Gouvernement guinéen par 1e Gouvernement français,\n\nNom et prénom\n\nDate de naissance mis à la disposition du Gouvernement guinéen est affecté par ce dernier en qualité de pour occuper les fonctions ou pour accomplir la mission suivante :\n\nM.\n\ndevra prendre ses fonctions avant\n\n(La date mentionnée doit être postérieure de trois\n\nmois au moins à la date de notification à 1'Ambassade de France à Conakry).\n\nI'échéance normale du présent contrat de mise à dis-\n\nposition est fixée au\n\nCe contrat pourra, le cas échéant, être progogé d'un\n\ncommun\n\naccord entre le Gouvernement guinéen et M.\n\npar un\n\navenant.\n\n•Dans ce cas, la signature de l'avenant par les parties\n\ninterviendra un mois au moins avant la date d'échéance du présent contrat suivant la même procédure que pour ce dernier.\n\nLe Gouvernement guinéen assure à M.\n\ndu\n\na) les conditions d'emploi définies par le Protocole entre le Gouvernement français et\n\nle Gouver.\n\nnement guinéen ;\n\nb) à partir de sa date de prise de fonction, la ré-\n\nmunération suivante :",
+      "quality_score": 0.9854,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 12,
+      "text": "й /\n\nmanimanulu\n\n- 2-\n\n(nature et montant des éléments de la rémunération, J compris .\n\néventuellement les primes et indemnités d'une part, les retenues d'autre part.\n\nM.\n\ndéclare avoir pris connaissance per-\n\nsonnellement du texte du Protocole du\n\nentre le\n\nGouvernement français et le Gouvernement guinéen et en accepter sans réserves toutes les dispositions.\n\nFait à Paris le en double exemplaire original\n\nAccepté à\n\nle\n\n(signature de l'autorité guinéenne compétente)\n\n(signature de l'agent précédée de la mention manuscrite \"In et approuvée\"",
+      "quality_score": 0.9798,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 13,
+      "text": "dualad aubonnabadmulu\n\nANNEXE I\n\nAVENANT N°\n\nAU CONTRAT DE MISE\n\nA DISPOSITION DU GOUVERNEMENI GUINEEN\n\nCONCERNANT M.\n\nentre le Gouvernement de la République française et le Gouvernement de la République Populaire Révolutionnaire de Guinée sur les conditions de mise à disposition et d'emploi du personnel français mis à disposition du Gouvernement guinéen par le Gouvernement français,\n\nproroge le contrat\n\nIe Gouvernement guinéen\n\nFenouvelle l'avenant n°\n\nvenant à échéance le concernant M.\n\npour une période venant à échéance\n\nle\n\nIe présent avenant comporte pour M.\n\nle contrat\n\nles mêmes droits et obligations que\n\nT'avenaat n°\n\nvisé\n\nà l'alinéa ci-dessus.\n\nPar ailleurs, pendant la durée du présent avenant, bénéficiera de la part du Gouvernement guinéen des\n\nconditions nouvelles suivantes : (Préciser les conditions fixées aux engagements précédents que le Gouvernement guinéen accepterait de modifier ).\n\nFait à Paris le en double original\n\n(signature de l'autorité guinéenne compétente)\n\nAccepté à\n\nle\n\n(signature de l'agent précédée de la mention manuscrite \"In et approuvée\"",
+      "quality_score": 0.9599,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 14,
+      "text": "风錄：",
+      "quality_score": 0.7,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "n P an",
+      "quality_score": 0.5862,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "o a i qd ž E E E E CAA EE E oema ra i - >] . . - - i n E T R RAER Ete NE PS b: Aa RUF E",
+      "quality_score": 0.5651,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "ca"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19710084_001_s1",
+      "title": "Accord avec un échange de lettres",
+      "score": 0.416735,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20240047_001_s1",
+      "title": "Accord",
+      "score": 0.415614,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_005",
+      "title": "Instrument italien",
+      "score": 0.397041,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19850175_101_s1",
+      "title": "Publication au JO de l'accord (ensemble 1 échange de lettres des 8 et 28 juillet 1986)",
+      "score": 0.39629,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20090247_001_s1",
+      "title": "Accord",
+      "score": 0.395674,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19520029_001_s1",
+      "title": "Convention",
+      "score": 0.395589,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20192674_001_s1",
+      "title": "Accord",
+      "score": 0.394197,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20172241_001_s1",
+      "title": "Accord (ensemble une annexe)",
+      "score": 0.39344,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182691_001_s1",
+      "title": "Accord (ensemble 1 annexe)",
+      "score": 0.390572,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20250001_001_s1",
+      "title": "Accord",
+      "score": 0.388308,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19510004_30_s1",
+  "title": "Procès-verbal de dépôt de l'instrument de ratification grec",
+  "year": 1951,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9866,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DU DEPOT DES INSTRUMENTS DE RATIFICATION SUR LA CONVENTION POUR L'ETABLIS- SEMENT DE L'ORGANISATION EUROPEENNE POUR LA PROTECTION DES PLANTES, SIGNEE A PARIS LE I8 AVRIL I95I. -:-:-:-:-:-:-:- Bon Excellence Monsieur Raphaël RAPHAEL, Ambassadeur Extraordinaire et Plénipotentialre de Grèce, s'est présenté aufourd'hul au Ministère des Affalres Etrangères, pour procéder, avec Monsieur Edouard de LA CHAUVIN…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510004_30_s1.pdf",
+  "source_filename": "19510004_30_s1.pdf",
+  "source_sha256": "c21b4ba0f09da1af7c2d2bd45433af1e2ae304ce26ee57f21e4a0cf401588229",
+  "treaty_id": "TRA19510004",
+  "treaty_number": "GRE002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nDU DEPOT DES INSTRUMENTS DE RATIFICATION SUR LA CONVENTION POUR L'ETABLIS-\n\nSEMENT DE L'ORGANISATION EUROPEENNE POUR LA PROTECTION DES PLANTES, SIGNEE\n\nA PARIS LE I8 AVRIL I95I.\n\n-:-:-:-:-:-:-:- Bon Excellence Monsieur Raphaël RAPHAEL, Ambassadeur\n\nExtraordinaire et Plénipotentialre de Grèce, s'est présenté aufourd'hul au Ministère des Affalres Etrangères, pour procéder, avec Monsieur Edouard de LA CHAUVINIERE, Ministre\n\nPlénipotentiaire, Chef du Protocole, agissant au nom du\n\nMinistre des Affaires Etrangères, au dépôt des Instruments de RatIfication de la Grace sur la Convention pour l'établis- soment de I'Organisation Européenne pour la protection des plantes, signée à Paris le 18 avril 1951, en vertu de l'article XX paragraphe b de ladite Convention.\n\nL'instrument ayant été, après examen, trouvé en bonne et due forme, a été déposé, pour y être conservé, dans les\n\nArchives de la République Françalse.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent\n\nProcès-Verbal, qu'ils ont revêtu de lour cachat.\n\nFAIT A PARIS, en double exemplaire, le g Mars 1956\n\nLa Chauvinien",
+      "quality_score": 0.9866,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.719711,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_297_s1",
+      "title": "Procès-verbal de dépôt de l'instrument espagnol",
+      "score": 0.712265,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.666941,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.656103,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.652305,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_36_s1",
+      "title": "Procès verbal de dépôt de l'instrument de ratification",
+      "score": 0.605608,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_14_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification",
+      "score": 0.602604,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_27_s1",
+      "title": "Dépôt de l'instrument de ratification de Haïti",
+      "score": 0.595061,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.588178,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hti002_s1",
+      "title": "Procès verbal du dépôt de ratification de Haïti",
+      "score": 0.551285,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

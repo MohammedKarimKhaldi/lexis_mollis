@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19190004_095_s1",
+  "title": "Instrument de ratification",
+  "year": 1919,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9003,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Ibert i tous présents et à renir, Salut. yana vu el examine le Oraité de Saix, le Proto. cole et la Méclaration, signes à daint-germain. en Laye, le 10 septembre 1919 entre les Suissances allices el associéeo, d'une parh, et l'Autriche d' autre part, par Ho Ménipotentiaires munio-de pleino pouvoiro spéciaux avec leo Pénipotentiaires également munio de pleins pouvoirs en borure eh due forme de la part des Suiosanceo…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19190004_095_s1.pdf",
+  "source_filename": "tra19190004_095_s1.pdf",
+  "source_sha256": "5aa3c0261c4090d844f5aa6dd683f6e0845122be3bcad6177229f0842e69938a",
+  "treaty_id": "TRA19190004",
+  "treaty_number": "BEL001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ibert\n\ni tous présents et à renir, Salut.\n\nyana vu el examine le Oraité de Saix, le Proto.\n\ncole et la Méclaration, signes à daint-germain.\n\nen Laye, le 10 septembre 1919 entre les Suissances allices el associéeo, d'une parh, et l'Autriche d' autre part, par Ho Ménipotentiaires munio-de pleino pouvoiro spéciaux avec leo Pénipotentiaires également munio de pleins pouvoirs en borure eh due forme de la part des Suiosanceo représentées aux Con féxences qui ont abouti à la conclusion du Traité, du\n\nProtocole el de la Déclaration dont la teneur suit:",
+      "quality_score": 0.8869,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Gons, ayant pour agréable le Traité, le 9ro- tocole et la Déclaration qui précédent, les approu- vono, catifiono eh confirmono, promettant de les faire observer, selon leu forme eh teneux, sans permettre qu'il y soit contrevenu en aucure manière que ce soit.\n\nEn foi de quoi, Toono avons signé les présentes lettres de ratification et yavons fait apposer Footre sceau royal.\n\nDonné à Lacken le dixième jour du mois de juillet de l'an de grace mil neuf cent vingh.\n\nっか\n\nAlbert\n\nFar le FRoi:\n\nwiotre deo. (ffairco @trangercs.",
+      "quality_score": 0.9138,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19290044_005_s1",
+      "title": "Instrument belge",
+      "score": 0.591143,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_096_s1",
+      "title": "Instrument de ratification belge de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.447319,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_09_s1",
+      "title": "Instrument de ratification de la Belgique",
+      "score": 0.396732,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_10_s1",
+      "title": "Instrument d'adhésion de la Belgique",
+      "score": 0.390425,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380056_05_s1",
+      "title": "Instrument de ratification de l'Egypte",
+      "score": 0.388574,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_011_s1",
+      "title": "Instrument d'acceptation de la Belgique",
+      "score": 0.388334,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19380055_23_s1",
+      "title": "Instrument de ratification de l'Egypte",
+      "score": 0.380313,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19200032_31_s1",
+      "title": "Instrument de ratification monégasque",
+      "score": 0.379901,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19920190_096_s1",
+      "title": "Instrument de ratification.",
+      "score": 0.379727,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510004_18_s1",
+      "title": "Instrument de ratification belge",
+      "score": 0.376491,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

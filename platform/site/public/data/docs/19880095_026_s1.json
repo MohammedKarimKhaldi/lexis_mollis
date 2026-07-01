@@ -1,0 +1,133 @@
+{
+  "document_id": "19880095_026_s1",
+  "title": "Note verbale d'acceptation de l'Italie",
+  "year": 1988,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr",
+    "ko",
+    "zh-cn"
+  ],
+  "quality_score": 0.7693,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "Traduction INSTRUMENT D'ACCEPTATION Le Gouvernement du Japon déclare qu'il accepte l'amendement à la Convention concernant les expositions internationales du 22 novembre 1928 modifiée et complétée par len Protocoles des 10 mai 1948, 16 novembre 1966 et 30 novembre 1972 et par l'amendement du 24 juin 1982, adopté par l'Assemblée générale le 31 mai 1988, conformément aux dispositions du paragraphe 3 de l'Article 33 de…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19880095_026_s1.pdf",
+  "source_filename": "19880095_026_s1.pdf",
+  "source_sha256": "7ac20938bf9b77032e34823eb4aa66696a785a5e30072c07a588d4b9852d1730",
+  "treaty_id": "TRA19880095",
+  "treaty_number": "ITA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Traduction\n\nINSTRUMENT D'ACCEPTATION\n\nLe Gouvernement du Japon déclare qu'il accepte l'amendement à la Convention concernant les expositions internationales du 22 novembre 1928 modifiée et complétée par len Protocoles des 10 mai 1948, 16 novembre 1966 et 30 novembre 1972 et par l'amendement du 24 juin 1982, adopté par l'Assemblée générale le 31 mai 1988, conformément aux dispositions du paragraphe 3 de l'Article 33 de ladite convention.\n\nEN FOI DE QUOI, J'ai signé le présent instrument et y ai apposé le Sceau du Ministre des Affaires étrangères.\n\nSigné: Yohei Kono (Sceau)\n\nMinistre des Affaires étrangères du Japon\n\nLe 28 avril 1995",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "El 汶 el 开 疼 态 兴 拒 基 ”人 秆 尺 区 十 过 坦 月 开 1 十 1 工时 办 仆 寺 要 人 于 给 用 各 和 夺 凡 和 守\n\nR11 秆 过 进 十 1 开 11 十 11 吕 人 S 革 内 驻 极 术 量 归 各 只 凡 梁 (条 卡 二 忆 十 进 用\n\n到 十 下 尺 短发 十 装 进 十 1 开征 状 鹉 伐 各 中 尺 生 中 十 11 寺 十 1 开 人 川 十 品类 拟 栓 粉色 志和 尺 二 过 十 11 进 状 开 11 十 组 吕 人 SG 宇 壬 时 PD 流 寺 各 和 大 岗 芍 夭 央 记 针 烤 和) SQ 衬 有 肝 入 区 巡演 捧 作 十 1 各 妨 mS 队 执 出 想 个 大 入 闪 寺 和 移 时 和 册 徊 他 各 到 人 外 全 凯 办 PP” 关 尿 坦 杖 HS 风量 县 娩 天 汪汪 村 人 线 和 穴 中 进 生 11| 十 十 工 疼 芒 艾 澳 冰 四 \\O QC 3",
+      "quality_score": 0.5387,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/HanS:psm3",
+      "language": [
+        "ko",
+        "zh-cn"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_034_s1",
+      "title": "Note verbale d'acceptation de l'Italie",
+      "score": 0.805488,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_57_s1",
+      "title": "Instrument d'adhésion du Japon",
+      "score": 0.428314,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_239_s1",
+      "title": "Instrument d'adhésion du Vietnam",
+      "score": 0.42774,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_228_s1",
+      "title": "Instrument d'adhésion de la Turquie",
+      "score": 0.427731,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_020_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.42119,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_007_s1",
+      "title": "Instrument d'acceptation de l'Allemagne démocratique",
+      "score": 0.417442,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_30_s1",
+      "title": "Instrument de ratification du Japon",
+      "score": 0.415631,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_040_s1",
+      "title": "Note verbale de transmission de l'instrument d'acceptation de la Roumanie",
+      "score": 0.408872,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_199_s1",
+      "title": "Instrument d'adhésion de la Slovénie",
+      "score": 0.408449,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_198_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.404396,
+      "type": "translation",
+      "provisional": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "19190007_33_s1",
+  "title": "Lettre de transmission de l'instrument et brouillon manuscrit de son accusé de réception",
+  "year": 1919,
+  "doc_type": "Lettre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9062,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "4 Lecacion DE LA REAUBLICA DE GUATEMALA Paris le 28 Hovembre 1919- Monsieur lo Ministre: D'oráre de mon Gouverne- mant, l'ai l'honneur d'adresser ci-joint a Votre + Excellence ,l'Instrument de Ratification de Monsieur le President de la Republique du Guatemala sur La Traite de Paix avec l'Allemagne e$ la Protocole signee a Vereailles le 28 Juin I9I9- Ja serais tres reoconnaiseant a Votre Excellence de bien vouloir m…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Lettre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19190007_33_s1.pdf",
+  "source_filename": "19190007_33_s1.pdf",
+  "source_sha256": "db0b89458267bd0d8d42ae96e3307df8f381c499d93bbdb8a83245d1547c2c1f",
+  "treaty_id": "TRA19190007",
+  "treaty_number": "GTM004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "4\n\nLecacion DE LA REAUBLICA\n\nDE GUATEMALA\n\nParis le 28 Hovembre 1919-\n\nMonsieur lo Ministre:\n\nD'oráre de mon Gouverne-\n\nmant, l'ai l'honneur d'adresser ci-joint a Votre +\n\nExcellence ,l'Instrument de Ratification de Monsieur le President de la Republique du Guatemala sur La\n\nTraite de Paix avec l'Allemagne e$ la Protocole signee a Vereailles le 28 Juin I9I9-\n\nJa serais tres reoconnaiseant\n\na Votre Excellence de bien vouloir me prevenir Lors que la date du Depot des Ratifications aura ete fixee.\n\nJa saisis catta opportunite,\n\npour renoureler a Votre Exoellonos,los8 assurances de ma consideration la plus haute et la plus devouee.\n\npoem,\n\nÀ Son Excslloencs ,Monalaur STEPHEN PICHOM.\n\nMinistre des Affaires Etrangeres.\n\nPARIS.",
+      "quality_score": 0.9062,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19200016_718_s1",
+      "title": "Note de transmission de l'instrument portugais",
+      "score": 0.397595,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_78_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.39377,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980026_004_s1",
+      "title": "Instrument français",
+      "score": 0.384474,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760088_004_s1",
+      "title": "Instrument français",
+      "score": 0.384217,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760090_004_s1",
+      "title": "Instrument français",
+      "score": 0.384053,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760084_006",
+      "title": "tra19760084_006",
+      "score": 0.383099,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810111_005_s1",
+      "title": "Lettre notifiant de l'accomplissement des procédures internes",
+      "score": 0.380819,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.380478,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_08_s1",
+      "title": "Note verbale d'adhésion au protocole de 1948 de l'Autriche",
+      "score": 0.378829,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_711_s1",
+      "title": "Note verbale a/s transmission de la ratification et date du PV de son dépôt",
+      "score": 0.378688,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

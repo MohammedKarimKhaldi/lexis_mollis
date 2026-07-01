@@ -1,0 +1,143 @@
+{
+  "document_id": "tra19610160_004",
+  "title": "Instrument français (ratification)",
+  "year": 1961,
+  "doc_type": "Autre",
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9864,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "'.... RATIFICATIONS DU PRESIDENT DE LA REPUBLIQUE FRANCAISE PRESIDENT DE LA COMMUNAUTE DU TRAITE DE COOPERATION ENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE DU DAHOMEY SIGNE A PARIS LE 24 AVRIL 1961 : CHARLES de GAULLE PRESIDENT DE LA REPUBLIQUE FRANCAISE PRESIDENT DE LA COMMUNAUTE A IOUS CEUX QUI CES PRESENTES LETTRES VERRONT SAIVI : UN TRAITE DE COOPERATION ENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE DU DAHOM…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19610160_004.pdf",
+  "source_filename": "tra19610160_004.pdf",
+  "source_sha256": "57c88666388d9c04bdcdcecf8789213331a421f8f14b275361474d5afb61a3a1",
+  "treaty_id": "TRA19610160",
+  "treaty_number": "004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "'....\n\nRATIFICATIONS\n\nDU PRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nPRESIDENT DE LA COMMUNAUTE\n\nDU TRAITE DE COOPERATION\n\nENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE DU DAHOMEY\n\nSIGNE A PARIS LE 24 AVRIL 1961",
+      "quality_score": 0.9991,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": ":\n\nCHARLES de GAULLE\n\nPRESIDENT DE LA REPUBLIQUE FRANCAISE\n\nPRESIDENT DE LA COMMUNAUTE\n\nA IOUS CEUX QUI CES PRESENTES LETTRES VERRONT\n\nSAIVI :\n\nUN TRAITE DE COOPERATION\n\nENTRE LA REPUBLIQUE FRANCAISE ET LA REPUBLIQUE DU DAHOMEY\n\nAYANT ETE SIGNE A PARIS LE 24 AVRIL 1961\n\nTRAITE SONT LA TENEUR SUIT :",
+      "quality_score": 0.9946,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "١٠٠١٣\n\nAyant vu et examiné IE\n\ndit\n\n•TRAITE\n\nNOUS\n\nL lavons approuvé\n\net\n\napprouvons en toutes et chacune de SES parties, en vertu des dispositions qui y sont contenues et conformément à l'article 52 de la Constitution.\n\nDECLARONS qu'IL EST accepté , ratifié et confirmé\n\net PROMETTONS qu'IL SERd inviolable-\n\nment observé .\n\nEN FOI DE QUOI, Nous avons donné les présentes, revêtues du Sceau de la République.\n\nA PARIS, 1e\n\n.25 Aout 1961\n\nSigné : Charles de GAULLE\n\nLe Président du Conseil des ministres\n\nSigné : Nichel DEBRE\n\nPar le Président de la République\n\nLe Ministre des Affaires\n\nEtrangères\n\nSigné : Maurice COUVE de MURVILIS",
+      "quality_score": 0.9656,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19610286_004_s1",
+      "title": "Instrument français",
+      "score": 0.933648,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600199_004_s1",
+      "title": "Instrument français",
+      "score": 0.876458,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610137_003",
+      "title": "Instrument français",
+      "score": 0.826665,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_004_s1",
+      "title": "Instrument français",
+      "score": 0.77188,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_004",
+      "title": "Instrument français",
+      "score": 0.770674,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600199_005_s1",
+      "title": "Instrument camerounais",
+      "score": 0.754202,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_326",
+      "title": "Instrument de ratification française",
+      "score": 0.740907,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "fr-ratif_s1",
+      "title": "Ratification française",
+      "score": 0.724675,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19530025_004",
+      "title": "Instrument français",
+      "score": 0.721205,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_326_s1",
+      "title": "Instrument de ratification français",
+      "score": 0.717563,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

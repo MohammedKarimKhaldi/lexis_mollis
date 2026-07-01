@@ -111,5 +111,76 @@
       ]
     }
   ],
-  "similar_documents": []
+  "similar_documents": [
+    {
+      "document_id": "tra19200016_001_s1",
+      "title": "Traité",
+      "score": 0.390369,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19340016_005_s1",
+      "title": "Instrument britannique",
+      "score": 0.379617,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280028_100",
+      "title": "Recueil de trente pièces relatives à la préparation, à l'élaboration et à la conclusion du Traité",
+      "score": 0.378916,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_001_s1",
+      "title": "Accord",
+      "score": 0.37845,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190005_001b_s1",
+      "title": "Accord en version française cachetée et signée",
+      "score": 0.37623,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_630_s1",
+      "title": "Ratification du traité du 10 septembre 1919",
+      "score": 0.376119,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190005_001a_s1",
+      "title": "Accord en version bilingue, cacheté et signé",
+      "score": 0.37087,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19290031_005_s1",
+      "title": "Instrument espagnol",
+      "score": 0.369615,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_351_s1",
+      "title": "Instrument de ratification grec",
+      "score": 0.367782,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19820085_001_s1",
+      "title": "Accord",
+      "score": 0.367667,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
 }

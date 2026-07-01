@@ -1,0 +1,116 @@
+{
+  "document_id": "19820018_029_s1",
+  "title": "Pièces dans 19280002",
+  "year": 1982,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9758,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "MINISTÈRE DES AFFAIRES ÉTRANGÈRES No. B3.6842/20/AS1199 Le Ministère des Affaires Etrangères présente ses compliments à l'Ambassade de france et, se référant à sa Note 102 datée du 3 aodt, 1982, a l'honneur de porter à sa connaissance que le Gouvernement de la République Héllénique, a accepté l'Amendement adopté par l'Assemblée Générale du Bureau International des Expositions: \"Les dispositions de l'article 5.2 sont…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19820018_029_s1.pdf",
+  "source_filename": "19820018_029_s1.pdf",
+  "source_sha256": "3a6df5acbe4e414e2d71e0b7d6131b3a2184d549ce7709aa420908fa46b0e327",
+  "treaty_id": "TRA19820018",
+  "treaty_number": "GBN",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MINISTÈRE\n\nDES AFFAIRES ÉTRANGÈRES\n\nNo. B3.6842/20/AS1199\n\nLe Ministère des Affaires Etrangères présente ses compliments à l'Ambassade de france et, se référant à sa Note 102 datée du 3 aodt, 1982, a l'honneur de porter à sa connaissance que le Gouvernement de la\n\nRépublique Héllénique, a accepté l'Amendement adopté par l'Assemblée Générale du Bureau International des Expositions:\n\n\"Les dispositions de l'article 5.2 sont supprimées a partir des mots; 'les intervalles ci-dessus'.\"\n\nLe Ministère des Affaires Etrangères saisit cette occasion pour renouveller\n\nà l'Ambassade de France\n\nles assurances de sa très haute considération.\n\nAthènes, le: 15 septembre 1982.\n\n•AMBASSADE DE FRANCE\n\nEn Ville.",
+      "quality_score": 0.9758,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19820018_026_s1",
+      "title": "Note verbale d'acceptation de l'Espagne",
+      "score": 0.423588,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_032_s1",
+      "title": "Notification au Bureau international des expositions de l'acceptation du Maroc",
+      "score": 0.413685,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_006_s1",
+      "title": "Note verbale de l'Allemagne fédérale confirmant l'acceptation de l'amendement de 1982",
+      "score": 0.412004,
+      "type": "translation",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_033_s1",
+      "title": "accusé de réception du Nicaragua de la notification de l'amendement",
+      "score": 0.410369,
+      "type": "translation",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690202_010_s1",
+      "title": "Texte de l'accord (note verbale grecque)",
+      "score": 0.406775,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_030_s1",
+      "title": "Note verbale d'acceptation du Maroc",
+      "score": 0.404298,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_048_s1",
+      "title": "Note verbale d'acceptation par la Tunisie de l'amendement",
+      "score": 0.401371,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_016_s1",
+      "title": "Note verbale d'acceptation du Danemark",
+      "score": 0.399813,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19820018_007_s1",
+      "title": "Pièces dans 19280002",
+      "score": 0.399317,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19880095_035_s1",
+      "title": "Note verbale d'acceptation de l'amendement",
+      "score": 0.397825,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

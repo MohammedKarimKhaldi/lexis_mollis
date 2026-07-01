@@ -1,0 +1,143 @@
+{
+  "document_id": "19570067_976_s1",
+  "title": "Instrument d'adhésion de la Yougoslavie",
+  "year": 1957,
+  "doc_type": "Instrument d'adhésion",
+  "languages": [
+    "ca",
+    "en",
+    "fr"
+  ],
+  "quality_score": 0.9909,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "REPUBLIQUE POPULAIRE FEDERATIVE DE YOUGOSLAVIE ---- Adhésion --- - CONVENIION INSTITUANT UNE CONMISSION SERTCOLE INTERNATIONALE Alès. 1948 Le président de la République Populaire Fédéra- tive de Yougoslavie, conformément à la Loi constitution- nelle, déclare et atteste que le Conseil Exécutil Fédé- ral de la République Populaire Fédérntive de Yougoslavie, après avoir vu et examiné la Convention instituant une Commis…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument d'adhésion",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19570067_976_s1.pdf",
+  "source_filename": "19570067_976_s1.pdf",
+  "source_sha256": "bd01ce7610f3ac9ef00722258823cb8cf128c5982e6796179877ae80f929ccaa",
+  "treaty_id": "TRA19570067",
+  "treaty_number": "YUG001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "REPUBLIQUE POPULAIRE FEDERATIVE DE YOUGOSLAVIE\n\n---- Adhésion --- -\n\nCONVENIION\n\nINSTITUANT UNE CONMISSION SERTCOLE INTERNATIONALE\n\nAlès. 1948",
+      "quality_score": 0.9778,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "ca",
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Le président de la République Populaire Fédéra- tive de Yougoslavie, conformément à la Loi constitution- nelle, déclare et atteste que le Conseil Exécutil Fédé- ral de la République Populaire Fédérntive de Yougoslavie, après avoir vu et examiné la Convention instituant une\n\nCommission Sericole Internationale, signée à Alès en 1948, l'a approuvée, confirmée et ratifiée, promettant de l'observer consciencieusement.\n\nPar les présentes, la République Populaire Fédé- rative de Yougoslavie adhère à ladite Convention.",
+      "quality_score": 0.9986,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "EN FOI DE QUOI les présentes sont délivrées, munies du sceau d'Etat.\n\nFAIT à Beograd, le 6 septembre 1958.\n\nLe\n\nPrésident la République\n\nFédérative de\n\nopulaire",
+      "quality_score": 0.9964,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_976_s1",
+      "title": "Instrument de ratification yougoslave",
+      "score": 0.438665,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_170_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.381362,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19510004_61_s1",
+      "title": "Instrument d'adhésion de la Pologne",
+      "score": 0.373011,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19320077_005",
+      "title": "Instrument de ratification soviétique",
+      "score": 0.359174,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_010_s1",
+      "title": "accusé de réception de l'adhésion de l'Allemagne démocratique",
+      "score": 0.358669,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_058_s1",
+      "title": "Pouvoirs français",
+      "score": 0.355051,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_26_s1",
+      "title": "Pouvoirs de négociation  et de signature de la France",
+      "score": 0.3537,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19360013_005",
+      "title": "Instrument soviétique",
+      "score": 0.352239,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_234_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.351907,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_051_s1",
+      "title": "Instrument de ratification espagnol",
+      "score": 0.351639,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

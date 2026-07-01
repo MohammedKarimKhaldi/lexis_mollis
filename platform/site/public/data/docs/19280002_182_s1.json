@@ -1,0 +1,126 @@
+{
+  "document_id": "19280002_182_s1",
+  "title": "Note verbale d'adhésion",
+  "year": 1928,
+  "doc_type": "Note verbale",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9619,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "19280002 182 UNIONS ES AVR 1900 1.10 UN Paris, le lAVIİl 1960 La Légation de la République Populaire Roumaine présente ses compliments au Ministère des Affaires Etrangères et, conformément aux stipulations ¡ de L'article 35 de la Convention sur les Expositions Internationales, signée à Paris le 22 Novembre 1928, a l'honneur, au nom du Gouvernement roumain, de lui notifier, l'adhésion de la République Populaire Rouma…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Note verbale",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19280002_182_s1.pdf",
+  "source_filename": "19280002_182_s1.pdf",
+  "source_sha256": "5ea128a3d10ef0d9201e07311c3299f4fbc064ab551412068202c6e2dfc6da62",
+  "treaty_id": "TRA19280002",
+  "treaty_number": "ROU004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "19280002 182",
+      "quality_score": 0.9432,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "UNIONS\n\nES AVR 1900\n\n1.10 UN\n\nParis, le lAVIİl 1960\n\nLa Légation de la République Populaire\n\nRoumaine présente ses compliments au Ministère des\n\nAffaires Etrangères et, conformément aux stipulations ¡ de L'article 35 de la Convention sur les Expositions\n\nInternationales, signée à Paris le 22 Novembre 1928, a l'honneur, au nom du Gouvernement roumain, de lui notifier, l'adhésion de la République Populaire\n\nRoumaine à la Convention, ainsi qu'au protocole signé à Paris le 10 Mai 1948 qui modifie la conven- tion sur les Exposition Internationales, signée à\n\nLa Légation de la République Populaire\n\nRoumaine saisit cette occasion pour renouveler au\n\nMinistère des Affaires Etrangères l'expression de sa\n\nALBIEN DON\n\nBg's\n\nMINISTERE DES AFFAIRES ETRANGERES\n\nPARIS",
+      "quality_score": 0.9806,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19280002_180_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.876382,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_183_s1",
+      "title": "Instrument de ratification",
+      "score": 0.856019,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_184_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.853669,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_181_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.848877,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_162_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.782057,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_179_s1",
+      "title": "Note verbale d'intention d'adhésion",
+      "score": 0.77568,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_197_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.764757,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_198_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.761831,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_177_s1",
+      "title": "Déclaration des autorités portugaises relative à Macao",
+      "score": 0.759049,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19280002_178_s1",
+      "title": "Instrument d'adhésion du Qatar",
+      "score": 0.755783,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

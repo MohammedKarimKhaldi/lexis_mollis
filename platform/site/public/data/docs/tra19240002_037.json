@@ -1,0 +1,128 @@
+{
+  "document_id": "tra19240002_037",
+  "title": "Notification par le gouvernement français de l'acte par lequel la RDA fait part de la réapplication de l'arrangement",
+  "year": 1924,
+  "doc_type": "Notification",
+  "languages": [
+    "pt"
+  ],
+  "quality_score": 0.9832,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "Washington Luis Pereira de Sousa PRESIDENTE DA REPUBLICA DOS ESTADOS UNIDOS DO BRASIL Faço saber, aos que a presente Carta de ratificação virem, que, entre os Estados Unidos do Brasil e varios outros paizes, foi concluido e assignado, em Paris, com a data de 25 de Janeiro de 1924, um Accôrdo internacional, para a criação de uma repartição internacional de epizootias, acompanhado dos Estatutos organicos da dita repar…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Notification",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19240002_037.pdf",
+  "source_filename": "tra19240002_037.pdf",
+  "source_sha256": "11432514faaec364e2b8708d84ba55e7a125811398a5b9fb20e2ab9e27241213",
+  "treaty_id": "TRA19240002",
+  "treaty_number": "DDR003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Washington Luis Pereira de Sousa\n\nPRESIDENTE DA REPUBLICA DOS ESTADOS UNIDOS DO BRASIL\n\nFaço saber, aos que a presente Carta de ratificação virem, que, entre os Estados Unidos do Brasil e varios outros paizes, foi concluido e assignado, em\n\nParis, com a data de 25 de Janeiro de 1924, um Accôrdo internacional, para a criação de uma repartição internacional de epizootias, acompanhado dos Estatutos organicos da dita repartição, tudo do teor seguinte:",
+      "quality_score": 0.9963,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "E, tendo sido o mesmo Accôrdo internacional, cujo teor fica acima transcripto, approvado pelo\n\nCongresso Nacional, o confirmo e ratifico e, pela pre- sente, o dou por firme e valioso para produzir os seus devidos effeitos, promettendo que elle será cumprido inviolavelmente.\n\nEm firmeza do que, mandei passar esta Carta, que assigno e é sellada com o sello das armas da Re- publica e subscripta pelo Ministro de Estado das Re- lações Exteriores.\n\nDada no Palacio da Presidencia, no Rio de Janeiro.\n\naos quatro de Setembro de mil novecentos e vinte e oito, 107° da Independencia e 40° da Republica.\n\nOrari Mangabeira",
+      "quality_score": 0.9701,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "pt"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19380055_16_s1",
+      "title": "Instrument de ratification du Brésil",
+      "score": 0.43697,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19190007_17_s1",
+      "title": "Instrument de ratification",
+      "score": 0.42919,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_630_s1",
+      "title": "Ratification du traité du 10 septembre 1919",
+      "score": 0.398975,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19280002_hti001_s1",
+      "title": "Instrument d'adhésion",
+      "score": 0.376493,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19880095_031_s1",
+      "title": "Instrument d'acceptation du Mexique",
+      "score": 0.375213,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_109_s1",
+      "title": "Pouvoirs de dépôt de l'instrument d'adhésion de l'Uruguay",
+      "score": 0.366833,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_880a_s1",
+      "title": "Pouvoirs tchécoslovaques",
+      "score": 0.366282,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19370052_02_s1",
+      "title": "Pouvoirs brésiliens",
+      "score": 0.36621,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_84_s1",
+      "title": "Instrument de ratification du Portugal",
+      "score": 0.36558,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19190004_715_s1",
+      "title": "Ratification du traité, protocole et déclarations annexes",
+      "score": 0.360816,
+      "type": "weak_link",
+      "provisional": true
+    }
+  ]
+}

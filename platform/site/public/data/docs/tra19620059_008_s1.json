@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19620059_008_s1",
+  "title": "Procès-verbal d'échange des instruments",
+  "year": 1962,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9786,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL D'ECHANGE DES INSTRUMENTS DE RATIFICATION DE LA CONVENTION ENTRE LA KEPUBLIQUE FRANCAISE ET LE ROYAUME DE BELGIQUE RELATIVE AUX CONTRÔLES A LA FRONTIERE FRANCO-BELGE ET AUX GARES COV MONES ET D'ECHANGE, SIGNEE A BRUXELLES LE 30 MARS 1962 Son Excellence Monsieur le Baron JAS PAR, Ambassaieur Extraoriinaire el Plénipotentiaire ie Belgique, s'est présenté aujourd'hui au Ministère des Affuires Etrangères p…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19620059_008_s1.pdf",
+  "source_filename": "tra19620059_008_s1.pdf",
+  "source_sha256": "fc5b268d4273a900f65db053367d160a12918e735246d8047fbeabecafbd91c8",
+  "treaty_id": "TRA19620059",
+  "treaty_number": "008",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL D'ECHANGE\n\nDES INSTRUMENTS DE RATIFICATION DE LA CONVENTION\n\nENTRE LA KEPUBLIQUE FRANCAISE ET LE ROYAUME DE BELGIQUE\n\nRELATIVE AUX CONTRÔLES A LA FRONTIERE FRANCO-BELGE\n\nET AUX GARES COV MONES ET D'ECHANGE,\n\nSIGNEE A BRUXELLES LE 30 MARS 1962\n\nSon Excellence Monsieur le Baron JAS PAR,\n\nAmbassaieur Extraoriinaire el Plénipotentiaire ie Belgique,\n\ns'est\n\nprésenté aujourd'hui au Ministère des Affuires Etrangères\n\npour\n\nprocéder avec Monsieur Pierre SIXAUD, iinistre Plénipotentiaire,\n\nChef du Protocole, agissant au nom du Ministre des Affaires Etran- gères, à l'échange ries instruments ie ratificalion ie vonsieur le\n\nPrésicient ie la dépublique Française, Président re la Communauté, et de Sa Miaieslé BAUDOUIN, Roi nes Belges, se la Convention entre la République Française el le Royaume ne Belgiqe relative aux contrôles à la frontière franco-belge el aux gares communes et d'échange, signée à Bruxelles le 30 Mars 1902.\n\nLes instruments ayant été, après examentrouvés\n\nen bonie et ine forme, il a été procéne à leur échange.\n\nEN FOI DE QUOI, les soussignés ont iressé\n\nle présent Procès-Verval qu'ils ont revêtu de leur Sceau.\n\nFAIT à\n\nPAKIS, en double exemplaire,\n\nle 13 Mars 1964. /.\n\nle linal'\n\nJavel",
+      "quality_score": 0.9786,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19620059_005_s1",
+      "title": "Instrument belge",
+      "score": 0.41947,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19620059_001_s1",
+      "title": "Convention",
+      "score": 0.38928,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19650073_010_s1",
+      "title": "Accord : lettre belge (ensemble copie de l'arrangement)",
+      "score": 0.389031,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19650143_001_s1",
+      "title": "Arrangement",
+      "score": 0.373787,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19630134_008",
+      "title": "Procès-verbal d'échange des ratifications",
+      "score": 0.370116,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_098",
+      "title": "Procès-verbal de dépôt de l'instrument belge",
+      "score": 0.367907,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20000072_004",
+      "title": "Instrument français",
+      "score": 0.365924,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_698",
+      "title": "Procès-verbal de dépôt de l'instrument néerlandais",
+      "score": 0.364791,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19820077_002",
+      "title": "Pouvoirs français",
+      "score": 0.363238,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19610160_008",
+      "title": "Procès-verbal d'échange des instruments de ratification",
+      "score": 0.363196,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

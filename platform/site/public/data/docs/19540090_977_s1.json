@@ -1,0 +1,116 @@
+{
+  "document_id": "19540090_977_s1",
+  "title": "Procès-verbal de dépôt de l'instrument",
+  "year": 1954,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9965,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAL DE DEPOT DES INSTRUMENTS DE RATIFICATION DE LA YOUGOSIAVIE DE LA CONVENTION INTERNATIONALE POUR I'UNIFICATION DES METHODES D'ANALYSI ET D'APPRECIATION DES VINS SIGNEE A PARIS LE 13 OCTOBRE 1954 Son Excellence Monsieur le Docteur Radivoj UVALIC, Ambassadeur Extraordinaire et Plénipotentiaire de Yougoslavie, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Ludov…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19540090_977_s1.pdf",
+  "source_filename": "19540090_977_s1.pdf",
+  "source_sha256": "d7f32b12c92f7f0ef583b74b761a52aa1f73cf153e4a329c1700eb8a1bcdcfb4",
+  "treaty_id": "TRA19540090",
+  "treaty_number": "YUG003",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAL\n\nDE DEPOT DES INSTRUMENTS DE RATIFICATION DE LA YOUGOSIAVIE\n\nDE LA CONVENTION INTERNATIONALE POUR I'UNIFICATION\n\nDES METHODES D'ANALYSI ET D'APPRECIATION DES VINS\n\nSIGNEE A PARIS LE 13 OCTOBRE 1954\n\nSon Excellence Monsieur le Docteur Radivoj UVALIC,\n\nAmbassadeur Extraordinaire et Plénipotentiaire de Yougoslavie, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Ludovic CHANCEL, Ministre\n\nPlénipotentiaire, Chef du Protocole, agissant au nom du Ministre des Affaires Etrangères, au dépôt des instruments de ratifi- cation de la Iougoslavie de la Convention Internationale pour 1 'Unification des Méthodes d'Analyse et d'Appréciation des\n\nVins, signée à Paris le 13 octobre 1954, en exécution de l'article 8 de ladite Convention.\n\nbonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République Française.\n\nEN FOI DE QUOI, les soussignés ont dressé le présent\n\nProcès-Verbal qu'ils ont revêtu de leur sceau.\n\nFAIT A PARIS, en double exemplaire, le 21 mai 1958\n\nChencel\n\nRate lentie",
+      "quality_score": 0.9965,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.777179,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.770167,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_032_s1",
+      "title": "Procès-verbal de dépôt de l'instrument",
+      "score": 0.769379,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_437_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.74665,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.743327,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_922_s1",
+      "title": "Procès-verbal de dépôt de l'instrument turc",
+      "score": 0.738614,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.735024,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_978_s1",
+      "title": "Procès-verbal de dépôt de l'instrument yougoslave",
+      "score": 0.718901,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_153_s1",
+      "title": "Procès-verbal de dépôt de l'instrument bulgare",
+      "score": 0.687265,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_728_s1",
+      "title": "Procès-verbal de dépôt de l'instrument d'adhésion de la Roumanie",
+      "score": 0.656525,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

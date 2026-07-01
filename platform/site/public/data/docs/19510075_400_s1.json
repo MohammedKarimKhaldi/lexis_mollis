@@ -1,0 +1,116 @@
+{
+  "document_id": "19510075_400_s1",
+  "title": "Pouvoirs français",
+  "year": 1951,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "en"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "—7.- ZULL PQ/T Wwins the Comnonweaith-French War Graves Agreement relative to the graves of mambers of the Armed Forces of the commonwealth countries who fall in the wars of 1914-1918 or 1939-1945, and whose remains rest in French territory, has been approved by the Governnent of India and the Governments of other Commonwealth countrles, and the Government of the French Republic; AND WHOREds It Is expedient that a f…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19510075_400_s1.pdf",
+  "source_filename": "19510075_400_s1.pdf",
+  "source_sha256": "adc614e6f0a1c58a91e9e18751b387c1a795f46ef1bc1869fcb118d84b81a1ad",
+  "treaty_id": "TRA19510075",
+  "treaty_number": "FRA001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "—7.-\n\nZULL PQ/T\n\nWwins the Comnonweaith-French War Graves Agreement relative to the graves of mambers of the Armed Forces of the commonwealth countries who fall in the wars of 1914-1918 or 1939-1945, and whose remains rest in French territory, has been approved by the Governnent of India and the\n\nGovernments of other Commonwealth countrles, and the\n\nGovernment of the French Republic;\n\nAND WHOREds It Is expedient that a fit person should be appointed as Plenipotentiary and Representative having\n\nFull Power and Authority to sign the said Agreement for and on behalf of the Government of India;\n\nI, RAJENDRA FRADAD, President of India, do hereby certify that Sardar Hardit singh Malik, my Ambassador to France at Paris has been and is by these\n\nPresents confirmed as duly naned, constituted and appointed as Plenipotentiary and Representative having Full POwer and authority to sign the aforesaid Agreement for and on behalf of the Government of India.\n\nFurther, I do hereby certify that the Agreement so signed by the sald Plenipotentiary and Representative shall be agreed to, acknowledged and accepted by the government of Indis in the fullest manner, subject to ratification, Il necessary.\n\nIN WITNESS WHEREOF I have signed these Presents and affixed thereto my Seal,\n\nDONE at New Delhi, the 3'4\n\nDay of Angush 1951.\n\nPRES IDENT GE INDIA.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19510075_655_s1",
+      "title": "Pouvoirs indiens",
+      "score": 0.422042,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_015_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.413386,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19370087_003_s1",
+      "title": "Pouvoirs siamois",
+      "score": 0.395651,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19570067_401_s1",
+      "title": "Instrument de ratification de l'Inde",
+      "score": 0.391813,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_001_s1",
+      "title": "Convention",
+      "score": 0.387593,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760152_730_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.387479,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_005_s1",
+      "title": "Pouvoirs sud-africains",
+      "score": 0.387089,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19680033_003_s1",
+      "title": "Pouvoirs",
+      "score": 0.383583,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19510075_730_s1",
+      "title": "Pouvoirs britanniques",
+      "score": 0.382705,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19660161_39_s1",
+      "title": "Pouvoirs de signature de la Nouvelle-Zélande",
+      "score": 0.38051,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

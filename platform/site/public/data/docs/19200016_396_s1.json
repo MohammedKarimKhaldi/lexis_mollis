@@ -1,0 +1,129 @@
+{
+  "document_id": "19200016_396_s1",
+  "title": "Instrument de ratification français du traité, du protocole et de la déclaration",
+  "year": 1920,
+  "doc_type": "Instrument de ratification",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9002,
+  "review_required": true,
+  "review_priority": "normal",
+  "text_preview": "Voir texte 19200016 OI sur bobine B256 valamint, Chetyuemmal, Kimoral; Mubaral, Gorg , ;eminin id, a teet BiratEl. von cHlammal, Giämmal is Hoek Blurikassaggal 1920: dest s ex/ast hiegésita stirrleka tainemaelgyiles elóxetes hor rajárection esten megeravitem? novemker ho lixenötodi kazappen? athe Histor i mananga. featy fini Après arsir obtanu l'agret rentdel Ossemblee Rationale, je ratifie, vee les documents qui en…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Instrument de ratification",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19200016_396_s1.pdf",
+  "source_filename": "19200016_396_s1.pdf",
+  "source_sha256": "4c8b5029278fb9322389958ea76e680f6dcc50ea4a01f1053c0e90925d20a783",
+  "treaty_id": "TRA19200016",
+  "treaty_number": "FRA002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Voir texte\n\n19200016 OI\n\nsur bobine\n\nB256",
+      "quality_score": 0.9261,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "tesseract:fra+frm+lat+eng:psm3",
+      "language": [],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "valamint, Chetyuemmal, Kimoral; Mubaral, Gorg ,\n\n;eminin id, a teet BiratEl.\n\nvon cHlammal, Giämmal is Hoek Blurikassaggal 1920:\n\ndest s ex/ast hiegésita stirrleka tainemaelgyiles elóxetes hor rajárection esten megeravitem?\n\nnovemker ho lixenötodi kazappen?\n\nathe\n\nHistor i mananga.\n\nfeaty fini\n\nAprès arsir obtanu l'agret\n\nrentdel Ossemblee\n\nRationale, je ratifie, vee les documents qui en font comes, le Traité de Paix conclu, le quatie juin mil neuf contringt, à Trianon, are les Ecat.- Umisd'Umerique, l'Empire Britarmique, la France,\n\nl'alie et le fapon aims qui aine\n\nFait à Budapest, le quinze novembre mil neuf centringe.\n\nNicolas de Horthy m.p. Souverneus da Royaume de tongri. f25/\n\nOfzaires Etrangères de Hongrie.\n\nBudapest, le 21 novembre 1920.\n\nComte Louis Ambrig\n\nEnvoye Strandinaire et Mimistre Peripstentiaire.",
+      "quality_score": 0.8744,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": [
+        "engine_disagreement",
+        "possible_handwriting_or_historical_print"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200016_726_s1",
+      "title": "Instrument de ratification roumain du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_251_s1",
+      "title": "Instrument de ratification cubain du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_436_s1",
+      "title": "Pouvoirs (pour Mario Grassi)",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_196_s1",
+      "title": "Instrument de ratification chinois du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_096_s1",
+      "title": "Instrument de ratification belge du traité, du protocole et de la déclaration",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_731_s1",
+      "title": "Instrument de ratification britannique du traité, du protocole et de la déclaration",
+      "score": 0.820171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_886_s1",
+      "title": "Instrument de ratification siamois du traité, du protocole et de la déclaration",
+      "score": 0.820171,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19200016_351_s1",
+      "title": "Instrument de ratification hongrois du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19200016_326_s1",
+      "title": "Instrument de ratification grec du traité, du protocole et de la déclaration",
+      "score": 0.820086,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_796_s1",
+      "title": "Instrument de ratification du Royaume des Serbes, Croates, Slovènes de l'accord et du protocole en vue de préciser les conditions dans lesquelles devront être exécutées certaines clauses du Traité",
+      "score": 0.42292,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

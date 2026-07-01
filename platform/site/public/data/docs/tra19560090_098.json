@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19560090_098",
+  "title": "Procès-verbal de dépôt de l'instrument belge",
+  "year": 1956,
+  "doc_type": "Procès-verbal",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9667,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "PROCES-VERBAT DE DEPOT DES INSTRUMENTS DE RATIFICATION DE IA BELGIQUE DU TRAITE PORTANT MODIPICATION AU TRAITE INSTITUANT LA COMUNAUTE EUROPEENNE DU CHARBON ET DE L'ACIER, SIGNE A LUXEMBOURG DE 27 OCTOBRE 1956 Son Excellence Monsieur le Baron Jules GUILLAUME, Ambassadeur Extraordinaire et Plénipotentiaire de Belgique, s'est présenté aujourd'hui au Ministère des Affaires Etrangères pour procéder avec Monsieur Edouard…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Procès-verbal",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19560090_098.pdf",
+  "source_filename": "tra19560090_098.pdf",
+  "source_sha256": "7154638ced48f3c12501399253a19ec6cf9f58ab42cabb237563a19fb58bf3d6",
+  "treaty_id": "TRA19560090",
+  "treaty_number": "BEL004",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROCES-VERBAT\n\nDE DEPOT DES INSTRUMENTS DE RATIFICATION DE IA BELGIQUE\n\nDU TRAITE PORTANT MODIPICATION AU TRAITE INSTITUANT LA\n\nCOMUNAUTE EUROPEENNE DU CHARBON ET DE L'ACIER,\n\nSIGNE A LUXEMBOURG DE 27 OCTOBRE 1956\n\nSon Excellence Monsieur le Baron Jules GUILLAUME,\n\nAmbassadeur Extraordinaire et Plénipotentiaire de\n\nBelgique, s'est présenté aujourd'hui au Ministère des\n\nAffaires Etrangères pour procéder avec Monsieur Edouard de LA CHAUVINIERE, Ministre Plénipotentiaire, Chef du\n\nProtocole, agissant au nom du Ministre des Affaires\n\nEtrangères, au dépôt des instruments de ratification de la Belgique du Traité portant modification au Traité instituant la Communauté Européenne du Charbon et de l'Acier, signé à Luxembourg le 27 octobre 1956, en exécution de l'article 3 dudit Traité.\n\nLes instruments ayant été, après examen, trouvés en bonne et due forme, ont été déposés, pour y être conservés, dans les Archives de la République Française.\n\nEN FOI DE QUOI, Les soussignés ont dressé le présent\n\nProcès-Verbal, qu'ils ont revêtu de leur sceau.\n\nFAIT A PARIS, en double exemplaire, le 27 août 1957\n\nLu Chaunnien\n\n(",
+      "quality_score": 0.9667,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19560090_523",
+      "title": "Procès-verbal de dépôt de l'instrument luxembourgeois",
+      "score": 0.852814,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_698",
+      "title": "Procès-verbal de dépôt de l'instrument néerlandais",
+      "score": 0.799879,
+      "type": "clause_reuse",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19560090_438",
+      "title": "Pouvoirs français",
+      "score": 0.79943,
+      "type": "clause_reuse",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19560090_033",
+      "title": "Procès-verbal de dépôt de l'instrument allemand",
+      "score": 0.718002,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_192_s1",
+      "title": "Procès-verbal de dépôt de l'instrument chilien",
+      "score": 0.647774,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_072_s1",
+      "title": "PV de dépôt de l'instrument autrichien",
+      "score": 0.645355,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_352_s1",
+      "title": "Procès-verbal de dépôt de l'instrument grec",
+      "score": 0.630577,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_717_s1",
+      "title": "Procès-verbal de dépôt de l'instrument portugais",
+      "score": 0.625624,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_437_s1",
+      "title": "Procès-verbal de dépôt de l'instrument italien",
+      "score": 0.619109,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540090_922_s1",
+      "title": "Procès-verbal de dépôt de l'instrument turc",
+      "score": 0.616499,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

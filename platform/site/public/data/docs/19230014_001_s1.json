@@ -1,0 +1,107 @@
+{
+  "document_id": "19230014_001_s1",
+  "title": "Déclaration",
+  "year": 1923,
+  "doc_type": "Déclaration",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9926,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "LES SOUSSIGVES, agissant en vertu de leurs pleins pouvoirs, déclarent, au nom du Gouvernement hellénique, qu'aucune atteinte ne sera portée aux droits de propriété des personnes musulmanes, qui ne sont pas visées par les dispositions de la Convention concernant l'échange des populations signée à Lausanne le 30 janvier 1923, et qui ont quitté la Grèce, y compris l'ile de Crète, avant le 18 octobre 1912 ou qui ont rés…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Déclaration",
+    "instrument_type:declaration",
+    "legal_force:unknown",
+    "period:world_war_i_and_interwar_1914_1938",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19230014_001_s1.pdf",
+  "source_filename": "19230014_001_s1.pdf",
+  "source_sha256": "e9f908be131bfd422c9f549666e8c12ff4cb7b360f5fab52bb93b52c40f90c74",
+  "treaty_id": "TRA19230014",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LES SOUSSIGVES, agissant en vertu de leurs pleins pouvoirs, déclarent, au nom du Gouvernement hellénique, qu'aucune atteinte ne sera portée aux droits de propriété des personnes musulmanes, qui ne sont pas visées par les dispositions de la Convention concernant l'échange des populations signée à Lausanne le 30 janvier 1923, et qui ont quitté la Grèce, y compris l'ile de Crète, avant le 18 octobre 1912 ou qui ont résidé de tout temps en dehors de la Grèce. Elles garderont le droit de disposer librement de leurs propriétés.\n\nToutes les dispositions et mesures qui auraient été prises ou appliquées à titre exceptionnel a légard des biens desdits musulmans, seront levées. Au cas où les revenus de ces biens auraient été encaissés par le Gouvernement ou les autorités helléniques, sans avoir été jusqu'ici restitués ou avoir fait l'objet d'arrangements spé- claux entre le Gouvernement et les intéressés, ces revenus seront versés entre les mains des propriétaires. Toutes réclamations relatives aux revenus en question ainsi que toutes reclamations résullant du fait que ces personnes prétendraient avoir élé lésées dans leurs droits par l'application inégale des mesures d'ordre général, seront décidées par la Commission prévue dans la Convention susmentionnée.\n\na la condition toutefois que ces réclamations\n\nsoient formulées dans un\n\ndelar\n\nde six mois à partir de la mise en vigueur du Traité de Paix signé en date de ce jour. Lesdites réclamations seront examinées d'urgence par la Commission, afin de pouvoir être décidées dans un délai d'un an au plus tard à partir de la mise en vigueur dudit rate.\n\nVu les diflicultés d'ordre pratique, qui pourraient se présenter pour les personnes susvisées en ce qui concerne le droit de libre disposition de leurs biens à cause de leur absence, le Gouvernement hellénique admet qu'elles pourront profiter, si elles le veulent, des bons offices de la Commission mixte précitée pour alléner leurs propriétés. Ii demeure entendu qu'en ce cas l'intervention de la Commission mixte ne comportera pour le Gouvernement hellénique aucune obligation d'acheter les propriétés en question et que la tâche de la Commission se bornera à en faciliter l'aliénation.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 2,
+      "text": "Il demeure entendu que la présente Déclaration est faite sous condition de réciprocité en faveur des propriélaires grecs ayant quitté la Turquie avant le 18 octobre 1912 ou ayant habité de tout temps en debors de la Turquie.\n\nFAIT à Lausanne, le 24 juillet 1g23.\n\nMalamaccios",
+      "quality_score": 0.9852,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19200016_001_s1",
+      "title": "Traité",
+      "score": 0.40516,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "19230073_001_s1",
+      "title": "Convention",
+      "score": 0.387765,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19190004_630_s1",
+      "title": "Ratification du traité du 10 septembre 1919",
+      "score": 0.381842,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19230010_001_s1",
+      "title": "Convention",
+      "score": 0.381778,
+      "type": "weak_link",
+      "provisional": true
+    },
+    {
+      "document_id": "19200049_001_s1",
+      "title": "Traité",
+      "score": 0.379159,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_001_s1",
+      "title": "Accord",
+      "score": 0.377568,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19190006_009_s1",
+      "title": "Texte de la Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
+      "score": 0.366488,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

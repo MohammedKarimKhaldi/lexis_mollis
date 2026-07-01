@@ -1,0 +1,456 @@
+{
+  "document_id": "tra19800128_001_s1",
+  "title": "Accord",
+  "year": 1980,
+  "doc_type": "Accord",
+  "languages": [
+    "ca",
+    "cy",
+    "de",
+    "en",
+    "fr",
+    "pt",
+    "so",
+    "th"
+  ],
+  "quality_score": 0.8689,
+  "review_required": true,
+  "review_priority": "high",
+  "text_preview": "i - s a < . TOPLI anoo eR E E E iaa T EESE eae L L O e aa arD . . eoa T -o - a E Ce Ta TR ORAR O UAE- EEA L E aTe esa E Teda An i a . - Saan or G a eo la a r eetet re DDT oan poea, Tate T T L ee Taa ante DD g a Tea T e T a a a e E Ta n a TLT ・ ACCORD DE COOPERATION ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE FRANCAISE ET LE GOUVERNEMENT DE LA REPUBLIQUE DEMOCRATIQUE SOCIALISTE DE SRI LANKA POUR L'UTILISATION DE L'ENERGIE…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Accord",
+    "instrument_type:treaty",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19800128_001_s1.pdf",
+  "source_filename": "tra19800128_001_s1.pdf",
+  "source_sha256": "c5e531a63ba99c0ec9847b258b4063dabc87ddb6c7ab837e0a2a73f4b1de9548",
+  "treaty_id": "TRA19800128",
+  "treaty_number": "001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "i - s a < . TOPLI anoo eR E E E iaa T EESE eae L L O e aa arD . .\n\neoa T -o - a E Ce Ta TR ORAR O UAE- EEA L E aTe esa E Teda An i a .\n\n- Saan or G a eo la a r eetet re DDT oan poea, Tate T T L ee Taa ante DD g a Tea T e T a a a e E Ta n a TLT",
+      "quality_score": 0.5669,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm6",
+      "language": [
+        "ca",
+        "pt"
+      ],
+      "review_reasons": [
+        "low_confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "・\n\nACCORD DE COOPERATION\n\nENTRE\n\nLE GOUVERNEMENT DE\n\nLA REPUBLIQUE FRANCAISE\n\nET\n\nLE GOUVERNEMENT DE LA REPUBLIQUE DEMOCRATIQUE SOCIALISTE DE SRI LANKA\n\nPOUR L'UTILISATION DE L'ENERGIE NUCLEAIRE A DES FINS PACIFIQUES",
+      "quality_score": 0.9975,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "de"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 3,
+      "text": "ET\n\nLE GOUVERNEMENI DE LA REPUBLIQUE FRANCAISE\n\nLE GOUVERNEMENT DE LA REPUBLIQUE DEMOCRATIQUE SOCTALISTE DE SRI LANKA\n\nci-après dénommés les Parties contractantes,\n\n- désireux de développer les relations amicales existant\n\nentre leurs deux pays,\n\n- considérant l'importance qu'ils accordent au développement\n\ndes applications pacifiques de l'énergie nucléaire,\n\n- exprimant leur intention d'élargir et de renforcer leur\n\ncoopération en ce domaine,\n\nsont convenus de ce qui suit :\n\nARTICLE I\n\nLes Parties contractantes s'engagent, dans le cadre de leurs\n\nprogranmes respectifs, à développer leur coopération pour l'utilisation pacifique de l'énergie nucléaire, dans le domaine de la recherche fonda- mentale ou appliquée, corme en vue de réalisations industrielles.\n\nARTICLE IL\n\nEn application des dispositions de l'article I ci-dessus, les\n\nParties contractantes s'éngagent à favoriser :\n\n- la conclusion d'accords spécifiques entre autorités compétentes\n\ndes deux Parties contractantes ou tous organismes désignés par lesdites autorités ;\n\n- La passation de contrats en vue de réalisations industrielles\n\nainsi que pour la fourniture de matières, de matières nucléaires, d'équi- pements, d'installations et d'informations technologiques.\n\n./...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 4,
+      "text": "- 2 -\n\nARTICLE III\n\nLes accords envisagés à l'article II ci-dessus auront\n\nnotamment pour objet :\n\n- de définir des programmes d'intérêt commun\n\n;\n\n- d'organiser des échanges de documentation scientifique\n\net technique entre les deux pays ;\n\n- de préciser les modalités selon lesquelles pourront se\n\nréaliser des échanges de personnel, des visites scientifiques, des réunions d'experts et l'accueil de stagiaires.\n\nARTICLE IV\n\nIres contrats envisagés à l'article II ci-dessus auront\n\nnotamment pour objet :\n\n- de déterminer les modalités des opérations qui seront\n\neffectuées par les entreprises et organismes relevant de la juridiction d'une des Parties contractantes au bénéfice de l'autre\n\nPartie ;\n\n- de régler les conditions des prestations de conseil et\n\nd'assistance d'une Partie contractante à l'autre ;\n\n- de définir les conditions de fourniture entre les Parties\n\ncontractantes de matières, matíères nucléaires, équipements, installations et informations technologiques destinés à des applications pacifiques de l'énergie nucléaire.\n\nARTICLE V\n\nLes Parties contractantes :\n\na) s'engagent à garantir la sécurité et à préserver le\n\ncaractère confidentiel des données techniques et des informations\n\n....",
+      "quality_score": 0.9979,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 5,
+      "text": "- 3-\n\néchangées ; elles s'engagent à cet effet à ne pas conmuniquer les documents' et informations en cause à des tiers, publics ou privés, sans accord préa- Lable donné par écrit par la Partie les ayant fournis ;\n\nne peuvent se transmettre ou se fournir entre elles que les\n\ninformations, documents ou équipements dont elles ont la libre disposition ;\n\nc) ne sont pas tenues de se transmettre ou de se fournir entre\n\nelles les informations, documents ou équipements de nature confidentielle dont la transmission ou la fourniture n'a pas été prévue dans les accords ou contrats mentionnés aux articles II, III et IV ci-dessus.\n\nARTICLE VI\n\nLes Parties contractantes s'efforceront de faciliter par toutes\n\nmesures administratives de leur compétence, notamment en matiêre fiscale et/ou douanière, la bonne exécution du présent Accord ainsi que des conventions, protocoles et contrats qui seront conclus pour en assurer l'application.\n\nARTICLE VII\n\nLes Parties contractantes règleront, si nécessaire, par des.\n\naccords spécifiques les questions relatives aux dépenses et aux frais pouvant résulter de l'application du présent Accord.\n\nARTICLE VIII\n\nLes Parties contractantes s'engagent à ce que\n\na) les matières, matières nucléaires, équipements, installations\n\net informations technologiques fournis ou échangés dans le cadre du présent\n\nAccord,\n\n./...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 6,
+      "text": "- 4 -\n\nb) les matières, matières nucléaires, équipements,\n\ninstallations et infornations technologiques obtenus à partir ou à l'aide des éléments visés au paragraphe précédent,\n\nne soient pas utilisés à des usages militaires ou\n\npour la fabrication de dispositifs nucléaires explosifs par un Etat qui n'a pas fabriqué ou fait exploser un tel dispo- sitif avant le ler janvier 1967.\n\nA cette fin, les Parties contractantes s'engagent\n\nà ce que les matières, matières nucléaires, équipements et installations visés aux paragraphes a et b ci-dessus et se trouvant sous la juridiction d'un Etat qui n'a pas fabriqué ou fait exploser un dispositif nucléaire explosif avant le ler janvier 1967 soient soumis aux garanties de l'Agence internationale de l'énergie atomique (A.I.E.A.).\n\nARTICLE IX\n\nChacune des deux Parties contractantes prend, sur\n\nson territoire ainsi que dans le cas de transport hors de son territoire métropolitain, les mesures nécessaires pour assurer la protection physique des matières, matières nu- cléaires, équipements et installations nucléaires qui font l'objet du présent Accord.\n\nLes deux Parties contractantes fixent d'un commun\n\naccord les niveaux de protection physique sur la base desquels lesdites mesures doivent être mises en oeuvre.\n\nARTICLE\n\nDans le cas de fourniture de matières, matières nu-\n\ncléaires, équipements, installations et informations technolo- giques présentant, de l'avis de la Partie contractante qui les fournit, des risques particuliers, cette fourniture sera soumise à des conditions spéciales permettant d'assurer le respect des engagements fixés à l'article VIII.\n\n./...",
+      "quality_score": 0.9932,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 7,
+      "text": "- 5-\n\nCes conditions seront préalablement déterminées d'un commun\n\naccord.\n\nARTICLE XI\n\nChaque Partie contractante s'engage à ce que les matières,\n\nmatières nucléaires, équipements, installations et informations tech- nologiques qu'elle aura obtenus dans les conditions définies aux para- graphes a et b de l'article VIII ne soient transférés ou retransférés à quiconque hors de la juridiction de l'une ou de l'autre Partie sans avoir obtenu les mêmes engagements que ceux figurant aux articles\n\nVIII et IX ci-dessus, et sans, le cas échéant, que les dispositions de l'article X aient été mises en oeuvre.\n\nARTICLE XII\n\nEn vue d'assurer l'exécution des obligations résultant des\n\narticles VIII, X et XI du présent Accord, les Parties contractantes s'engagent à conclure avec 1'A. I.E.A. un accord trilatéral pour l'application des garanties de l'Agence.\n\nLes parties contractantes pourront toutefois surseoir d'un\n\nconmun accord à l'exécution de cet engagement si les garanties prévues au dernier paragraphe de l'article VIII s'exercent déjà dans le cadre d'un accora de garanties conclu avec 1\"A.I.E.A.\n\nARTICLE XIII\n\nAucune des dispositions du présent Accord ne peut être\n\ninterprétée comme portant atteinte aux obligations qui, à la date de la signature du présent Accord, résultent de la participation de l'une ou l'autre Partie contractante à d'autres accords inter- nationaux pour l'utilisation de l'énergie nucléaire à des fins pacifiques, notamment pour la Partie française, de sa participation au Traité Euratom.\n\n./...",
+      "quality_score": 0.9853,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 8,
+      "text": "- 6 -\n\nARTICLE XIV\n\nDes représentants des Parties contractantes se rencontreront\n\nlorsque cela sera nécessaire, en vue de se consulter sur les questions posées par l'application du présent Accord.\n\nARTICLE XV\n\nLe présent Accord peut être modifié par entente entre les\n\nParties contractantes à la demande de l'une d'entre elles. Les modifications ainsi acceptées entreront en vigueur après accomplissement des formalités constitutionnelles applicables dans chacun des deux\n\nEtats.\n\nARTICLE XVI\n\nIe présent Accord prendra effet après avoir été signé pai\n\nles représentants des deux Gouvernements et avoir fait l'objet de notifications mutuelles selon lesquelles les procédures constitutionnelles applicables dans chacun des deux Etats ont été accomplies. Il restera en vigueur pour une période de dix ans. Il sera ensuite renouvelé tacitement d'année en année, sauf dénonciation par l'une ou l'autre des Parties contractantes. La dénonciation devra être notifiée six mois avant l'expiration de chaque terme.\n\nARTICLE XVII\n\nEn cas de non renouvellement ou de dénonciation du présent\n\nAccord, les accords et contrats signés dans le cadre de l'article II demeureront en vigueur tant qu'ils n'auront pas été dénoncés. Les dispositions des articles VIII, IX, X et XI continueront en tout état de cause à s'appliquer aux matières, matières nucléaires, équipements, installations et informations technologiques visés aux paragraphes a et b de l'article VIII pendant la durée entière de leur utilisation.\n\n./...",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 9,
+      "text": "EN FOI DE QUOI, les soussignés, dûment autorisés à cet\n\neffet par leurs Gouvernements respectifs, ont signé le présent\n\nAccord.\n\nFait à Colombo, le 10 avril 1980\n\nen triple exemplaire, en langues française, cinghalaise et anglaise, les trois textes faisant également foi.\n\nPour le Gouvernement de la République Française\n\nPour le Gouvernement\n\nde la République Démocratique\n\nSocialiste de Sri Lanka\n\nRené MONORY\n\nMinistre de l'Economie\n\nSud Water\n\nC. Cyril MATHEW\n\nMinister of Industries and\n\nScientific Affairs",
+      "quality_score": 0.9792,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 10,
+      "text": "ga dsóúcd gad\n\nE\n\n§ Cam gwaa vaD dodded ge\n\ngaoć\n\nmmda AC adha 00a eCo 0803 580 Baqa OcA\n\nuucgkom sodda",
+      "quality_score": 0.6956,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "so"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "6 อ ล ิ ชิ ชั ย ฑู อิ อ ิ ธิ ธง ชิ ต อ ิ ง ตู ๑ 6 อ ิ ซ์ ง ค ุ ต ซ์ อ 6 ต ๆ 6 อ ๓\n\nga da ชะ ์ ea ี ้ ขุ ว ช์ ฏ ู อ 2 ๒\n\nซิ ๕% ง ห ช์ ว ต ง ซ์ ต ิ ต ง ผ อ ิ ว ษ์ อ ิ ง ร ี ช์ ต ว์ ช์ อ พ์ สุ ง ต ์ อ อ ร รุ 60 ๕ ๒ ๐ 6 ขอ ิ ธิ ต ชิ ฐ ง ชิ ต ิ ต ์ อ ี อ ง ต อ ิ ร 6 ว ิ ซ์ อ 3 อ ิ ด ง ๑ 6 ต ฉะ เช ็ อ ฮี ซู ๕ ต ติ ซ์ ผ ๒ อ ชะ ซ์ ซื อ อ ๕ ๓ ซ์ ซิ ง ง ง อ ิ อ ง ชี ร ๕ ง ต ว อ ิ ถิ อ ิ อ ิ ธี ๑ อ ชิ ค ง\n\nซี 6 ๕ ๐ ว ์ 6 อ ขี ขิ อ เร ุ ต ซั ต อ เ ะ ะ ชิ ชี 6 อ ๓ ชิ ติ ชั\n\n0\n\nร อ ฮิ ตา 6 อ ร ต ว ติ ๕ ง ต อ ผ ต อ e ต ร ์ ต ง หอ 5 ๕ ๑ อ ิ ง อ ๒ ต ช์ อ อ ย ์\n\nธิ 66 อ ิ ค ๒ อ ชุ ร ุ พ ๒ ง ชู ชง ต อ อิ ชั ชะ อ อ ๓ ต ร ุ ต ซ์ ขิ ร อ ิ ต ต ซ์ อ ต 0 ช ซ ์ ฉิ อ:\n\n1 อ ต อิ ต ด ช์ ธิ ง\n\nต ง ริ ชิ ต อ ิ ขะ ติ ๆ เ ชิ ธิ ชี 6 ว ิ ต ๆ ร ุ ต ษิ ซ์, ซิ สิ ต ง ๒ ชง ร ง ร ต ิ ต อ 6 ระ ต 6 ๕ ๑ ซั ่ อ , ห ม ซ์ ด ื อ ด 6 ต ฑ์ ซิ ง ยง ขิ ล ง ซิ 6 ๕ ย ชง อ ิ อ ิ ฮิ ซิ 8 ิ ๑ ชิ ๕ ต อ ต ต ต อ ร์ อ ง อ เยิ ธิ 8 อ ชิ ต ิ ต ๓ อ อ ิ ช ไ ร ซ์ ป ี ชี อ เอิ ๒ อ ิ ต ซ์ อ ๕ ฮิ ย ง ฉิ อ ิ ง อ ร เตะ ต อ อ ชด ธิ ส อ อ ซิ อ ิ ล ิ ชง ว ิ ต ย ิ ต ง ว ์ ต ล ิ ธิ.\n\nไ อ ๑ อ ิ ด ม ์ ธิ ง\n\n๑ ู ๒» ๕ เช ็ ร อ ิ ต 1 อ ิ ๑ อ ๓ ฑ์ ธิ ๑ ช์ อ ิ ถิ อ ิ อ ว ด อ ๕ 0 ชุ ต ต ุ ณ อ ิ , ซิ ย ิ ธิ ย ว ว ิ ต ย ิ :\n\nอ ล ธิ ชิ อ ิ ธิ ชง ร ิ ต อ ิ ง ฑ์ ๑ ณ์ ต ิ ต อ อ ิ ๕ ฉิ ต์ ง ซ์ ซู ต ว์ ๕๒ ร ์ ซี ต ิ 6 ถิ ว ์ อ ช์ อ ิ ธิ ซ์ ต วิ ๒ 6 ๓ 8 ๕ ซิ ร ทร ์ ส ิ ต ง ซ์ ซุ ต 6 ชิ ณั อ ื อ ย ิ อ ต ซ์ อ ิ ง ซ์ ร เช็ ต ๐ ต เติ อ ๒ รุ ย ง , ง อ 5 ว ร ี ชิ ต อ ิ ชง ย เร พ ร ุ ด ว ง ต อ ร ู อ ิ ขะ , ชะ ต ์ ฉิ ด ๕ อ ิ ธ , ชุ ช ต ๐ ว ์ ต ์ , ขอ ผ ต อ ิ ผง ะ อ อ ว ะ อติ ด ง อ ิ ต ยิ ขะ ง ต ื อ ชิ ดิ ย อ ิ ชิ ย อ ิ ข ซ ชั ๒ ฑ ์ อ ิ 8 อ ง ค ุ ต ง, อ อ ษ ร ุ เธ ะ 6 ริ อ อ ต ง 6 ์ ต ร ิ ธ์.",
+      "quality_score": 0.6775,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Thai:psm3",
+      "language": [
+        "th"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "ไห อ ๑ อ ิ ต ซ์ ย ้ ฆ\n\nด ร ๒» ร เช ื ้ อ อิ อ 1 ไ 1 อ ิ ด อ ิ ต ซ์ ซ้ ๕ ช์ ย ร ุ ต ซ์ ย ิ อ ด ซ์ อ อ 6 ฮิ อ ต ์ ซะ ฆ ต ์ อ ;\n\nร อ ง ฐ ซื อ ิ ง ร ิ อ ชิ ซิ อ ๕ อ เอ ิ ง ว ิ ๒ ซ์ ห ต ต ย์ ซิ ส ิ ๑ ชิ , ๒ ๓ ๕ ๐ 60 ชุ ต ๐ ์ ย ี ร ชง ซ้ อ อ งะ ต อ ง ซั ย ซื อ น อ ิ ง ช์ ธิ ต อ อ ง ว ์ : ต ว์ ตะ ชี อ ง อ ด ว 20 ฐ ๆ เม 6 หิ ะ อิ , ผ่ อ ร รั อิ ง ชี ด่ ช์ ฑู อ อิ ง ว ์ : ๓ ๐ ต ตี อ , ว ิ ร ุ ชา ษ ั อ ๓ ต วิ ฐ ฑ ุ ย ร ุ ย ง ว วง สิ 4 อิ , อ ิ ร ต ไซ ตุ ง ชร ต ์ ๕ ช์ อิ อ ิ ย ๒ ชุ ย ธง ด 8 ง ซิ ต ์ ว ว ๓ ต เ ดิ อ ธิ ซิ อ ๕ ต ง ว ธิ ห อ ิ ย ง อ ิ ว อ ิ ว ต ม ธิ 6 ๑ ชี ๆ ว์ ชิ ต ต เด ิ อ ิ อ ิ ต ิ ง ห ต ุ ต.\n\n1 อ ๓ อิ ด ซ์ ร ิ ม\n\nรู ต อ ล ๕ เร่ ะ อ ิ ต ไ ไ อ ิ ด อ ิ ต ฑ์ ซ็ ร ช์ ต คุ ต ช์ ซี อ ิ ย ชิ อ ๕ ชิ ร ต ั ต ร ง ซ์ อ , อ ิ ษ์ ต ิ ชิ ธ์ ย ง ว ั ต ถิ ง ๓ ว อ อ ชี ซึ ง ขุ ร ต ย ์ ลิ ชิ ธิ ษ ง ว ิ ต อ ิ ร ช์ อ ๕ ล ิ อ ง อ ิ ต ้ อ ต อ ซ์ อ , ชิ 6 ง ร ์ ชี ล อ ซ์ ๒ อ ชุ ง ม ร ด ง ช์ ชิ ต ิ ซ์ ต ิ เง ช็ อิ ต ๒ 6 ต @ ะ ด ี อ อ ชิ ง ฮิ ต อ ชง ช เ ริ ช ว ง ๕ ต ด ร อ ด ว์ ต ชง ว ลิ ง อื ย ง งิ อ ิ ว ต ง ชิ ชิ 6 ถี , ๒๒ อ ช์ ฉิ ย ั ว ย ว ชิต อ ิ ง ซ์ ย ี ธิ ซ์ ๆ en ซ์ อ ิ ย ชง ชิ ต ด อิ ง d ์ gueget ๑m 5 ๑ I ว ร ี ง ต ซ่ ร ซ์ ง ชิ ร ะ ง ซ่ ร ร ั ซิ ง ว ิ ร ช์ ร , ขี รด ว ชร ร ั ซิ ชิ ธิ ฏิ อ ิ ง ๓ ะ ตือ ชิ , ๒ ๓ ๑ ต ง ง อ ด ลง ชี ๕ ๕ ะ ช ต ซ ์ ซื อ ae ๓ ฑ์ ธิ ด ว อ ง ฮิ อ ิ อ ิ 38@ ง e ุ ย ง ต ต ิ อ ชั ้ ๓ go», ;\n\nฮะ ซ์ ม ื อ ๕ อ ิ ะ , ธุ ว ต ๐ อ , ขอ ย ม ด ฮิ ๒ ง ร ว ซ์ ต ตื อ ซอ ะ ธี ชิ อ ิ ธิ ชง ว ิ ต อ ชุ ต ว ์ ผู อ อ ิ ว ว์ ะ ๓ 6 ต เดิ อ ๒๕ ุ ม ว ง 6 อ ง ซ ใ ๑ ร ู ้ ว ล ิ ง อ ๑ ๐ ต เด็ อิ ขุ ๐ วอ ส ต เอิ อ ิ ล ิ ส ิ ง ด ๆ.\n\nVv Pn Daa\n\n(ๆ ). ต ู อ ิ อิ ง ว ์ : ๓ 6 ต ต์ ไซ ว 6 ๕ ต ั ่ ง ซั ต ต ี ๒ < ุ ต ั อ ผด อ ชู อิ ณ ไธ 8 อ ๕ ผู ว ะ ชิ ต ๒ ว ง อิ ว ต ร ต อ ิ ต ธิ อ อ ๒ ง ป ี ้ ๕ ต ๒ อ @ ๒ ๒ yw5 อ ce ร เนิ 6 ๒ ย ซ็ อ ิ ต ง อ ิ ง ร ง ว ธะ ว ซิ รื อ อ ซิ อ ิ ธิ ย วร ั ด ป ๒ ว ง ต ต ิ ธิ ร อ ฮี ๓ ว ิ ต ช์ ฒิ ๑ ๓ ช์ ๕6 ร a ิ ด ร ๓ ร ์ ซอ ิ ต ธิ ณุ ชด ชง ร ิ ต ย ิ ฆ ชิ ชิ ซ์ ๓ น ิ ช์ ชิ ง อ ิ ซ้ อ ชิ ซั ร ๕ ต ค ร ๕ ด ติ ส ง ซ์ ร ต อ เร ิ อ , ฟั ๊\n\nGCASDC cmt gowTBDC ydq nog ted ent essats อ ง ธิ ง ย ว ว ั ต ปิ อ 8 ๕ ย ป ี ร เต อิ 6 อ งื อิ อิ < จ ิ อ ิ ธิ ยง ร ิ ต อ ฮิ ธิ ช์ อง ว ต ต ฮิ.",
+      "quality_score": 0.677,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Thai:psm3",
+      "language": [
+        "th"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "(ต ว) . ฆ ิ ฮิ ชี ย ง ร ั ต ยิ ชิ ษิ ช์ ติ ร ุ ต ๑ ช์ ม ู ร ชั ย ฑ์ ซิ ส อ อ ๒ อ ต ้ อ อ ิ ชิ ออ ซะ เอิ gOS ean uw co อ ๐ ต ซอ ิ ส ฑ์ อ ิ ธิ ต ต ๓ ง ง อ ิ ต ยิ ง 6 อ ิ ด ง เย ื อ ๑ ๓ ร ์ ต ย งด ตี อ ต 6 จ เต็ง.\n\n(ร ม. @ ๑ ๒ ๒ ร ๕ ู เช็ ะ อ ิ ต 11 อ ิ ต , ท ฟี ไ . อ ิ ต ๒ ๒ ไห อ ิ ต อ ิ ต ซ์ ซิ อ ๕ ๕ ๑ ซ์ อ ิ ด ด ษ์ อ ร ๒ 1 อ ิ ฮิ ชิ อิ ซ์ ง ว ิ ฐ ย ิ ง ต ั ต ิ วะ , ๑ ชั อ ติ ต ง ช์ ร รี ส รุ ข ต ๐ ว ์ ต ต ซ ์ ง อิ อ อ ๑ ๒ ร ์ ตรง นิ อ อ อ ิ ดิ. ซื อ ง ต ง @ ต ซ้ อ ิ ง 6 ต ง อ ิ เอิ ชู อ ิ ษ ้ อ ง อ ิ ๓ ป ี ซอ ฒิ ง, ๑๕ ต ิ ต ง ๑ ๒ gyn6 อ ม ง ะ ea ํ ๓a ธะ ร ร ์ อ ซื อ อ ง ชิ ง ษ ง ร ั ต ย ปิ ง ซ์ อ ง เย ื อ ห ร ุ ต ง ร อ ร์ ย น ิ อ ต ๕ ุ อ ง ๑ อ ิ ยิ งง ชั ต อ อ ิ ะ ชิ จ 0 ฆ ว ิ ซ์ ธะ ว อื อ ห รุต.\n\nV1 อ ิ ว อ ๓ ซ์ 5 ง\n\nติ อ ิ ชิ ยง ว ิ ต อ ชิ ธิ ซ์ ๒ อ @ ๕ ๓ ร เตช» ฎิ น ิ ง ย อ ซด ื ้ ย ง 6 ๓ ซิ ฆ ง ธิ 8 ร อ ซ์ ม ผ ต อ ื อ ต ์ ต ๑ ๓ ซ์ อ , ต ิ e ช ๒ w/e ๒ ร ชิ ด HewI ๒ DED FI ซอ ื ย ง 6 ๑ ล ิ ง ง ชิ ชี ร อ ิ ซ์, ๑ ง ี อ ิ ต ต ซ้ อ ง ซิ ซิ ะ ฉี ริ้ ชิ ย ง ซ์ อ ๓ 589 ๕ อ ิ ง ข ร ง ะ ชิ ชี 6 ชิ ต ง ง ช็ ต ซ์ ต ตุ อง ซุ เดิ ต ๐ 0 ์ อ ซ์ ต ง 6 ๕ ง ชิ น ร ุ ว ว ฆ ช ์ , ง เต้ อ ง ๒ ต ง ซิ่ อิฐ อ ิ ชิ ดิ ๒ 3 ๕ ซิ ง ฑ ง ซ้ อ ๓ อ ิ ชื อ ๕ ชะ ต ย ชิ 8 อ ผุ ต ง อ อ ิ ต ุ ตุ a ga.\n\nบ ห 1 อ ต อ ิ ต ช์ ธิ ง\n\n๕ อิ อ ต ๓ ซ์ อ ิ ง ด ิ ว ง ต ้ อ ๓ ชิ สื อ ดิ ยง ๕ ซ์ ต อ ฮิ ย ๒ เลิ ชิ ต ร ุ ฮิ อ ๕ อ ‘ww ex DED 4IC nD ต wd ๓ 0 ๓ ซ์ ซิ ส อ ชี ชิ เย ด ิ อ ิ ธิ ธง ร ิ ต อ ชื ด ซ์ ขอ ิ ด ตะ ต ติ ย ชี ๑ ฆ้ ต อ ิ ต ต ซ์ อ ิ ง ซั อ อ ิ ย ชื ย เชิ ง.\n\nบ า 11 อ ๓ อ ิ ด ช์ ธิ ง\n\nต ย ง ชง ริ ฒ ต อ ิ :\n\n(๓). ๑ อ ิ ต ิ ชิ ย อิ ย ิ ย ต ชิ ชิ ง อ ๕ ะ ตุ ชิ ต ง ะ ง อ 6 ๕ อ ร ์ ต ู อ ิ อ ิ ง 0: อ 6 ต ซด ว 6 ร ร ู อ ิ ช , ต ะ ซั ซื อ ๕ ู อิ ช , ธุ ขอ ว ์ อ , อ อ รู ต ชิ ง อ อ ง ษ์ ต ต ฮือ ง อ ิ ์ ธิ: ง อ , {ๆ ว ง). ๑ ๒ ๓ <๕ ู เช ็ ร อ ต (4) ๑ ต ช้ <๑ ร นั ง คุ ๑ ส ์ ด ิ ชิ ต อ ิ ง ชี ๓ ต 6 ง ซ์ 6 อ ิ ง ต ต ์ ชง ๕ ชู อิ ม , ต ะ ซ์ ชื อ ร ู อ ิ ช , อ ุ ขอ ๐ 6 ซ์, บ อ ย ู ต ย ิ ง ต อ ง ช็ ช ซึ ้ ต ง อ ง ์ ธิ :",
+      "quality_score": 0.6702,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Thai:psm3",
+      "language": [
+        "th"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "o gdo goaa gaa gmdeod euJ dds 1967 daD\n\nƏv 01 Ə» Zad eud 580. mgoa öydð sugbo Ddod ema _ eaj emio 9 oð diwsag Dag onp medda 6060 cogor\n\nBgJoaa D80 5go w53 came ga 300 vd eov Ded.\n\ncð moho ogu, goa quoda fa) uo (gi) code uens uu Döy 1967 da0 du 01 Da a0 cuo 200 meda cogöosd\n\nFuca eamë cuf embdd A Jð dwsoa wea oler gd còs, mdin gs, guadah vo sogað dasad udëww dC aa ñeujssonasd (6.0.3.5) gówna 00m oor Jo ga do\n\nGDG VSR v con peð.\n\n1X D3 dasa\n\ncð dsaddcud qe Dgo gs, dda gs, goadh uv mös ougað sd odao ge ua d gw edacazg 800 oda Caa qadJODCE, coma Daca giaa D39, Dicas 080 oad Eg gas SaDa oD gga.\n\nded pdw B8 Bes OF BuDS ao ger oð D903 dne,\n\nI D008 geass daaDar 0S7 GOG udad DEI Sea ae gaa.\n\nX Da DosBo\n\no3 G8a adadad BEz o3 gs, auda gda, consé uagað uu sego ga ouaz Caa Beda, gz Bede gewa gA Bo wd 2D Fd ooon d RIE vdaded aao daed v3,\n\nVTI Da Dored ugur w w2 g9 58 Bgo, F eroga Bede cawed DCO 0n o gao.\n\nsò eaul di adhu geasws dsadoor D3 B660 DE",
+      "quality_score": 0.6958,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [
+        "so",
+        "pt",
+        "cy"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "- X10 อ ๓» อ ๑ ฑ์ ร ิ ง\n\nว ร ิ อ ิ อ ว์ ชง ร ิ ต | ย ิ ผ ต อ ร ู ต ๒ ซู เซ ไร อ ิ อ 111 อ ิ ต ห ๒ ไ 1 อ ิ ด อ ิ ต ฑ์ ซี อ ๕ ผุ จ ช ซ์ ๒ วิ ร ง อ ติ ต ฏิ อ ิ ร ๒ ว ซ์ ๒ ะ 6 ร ต ร ั ต ช ซู อิ ย อ ิ ง อ ิ ต ร , X อ ิ ด อ ิ ต ฑ์ ธิ ๑ ช์ อ ิ อ ิ ย ี อ ิ ง ต ซิ ว ว ง ต ไจ ๓ ต ว ์ ต @ เ ด ิ ชิ สี ต ริ ต ะ 6 , ซี อิ ชิ ติ ย ว ร ิ ต อ ต ฮิ ชิ ต ์ ท ไท ้ อ ิ ต อ ๓ ซ์ ด ิ ร ช์ (ซ่ ) ผ ๒๓ (ซุ ว ) รั ร อ ิ ๕ ต รุ พ ฑ์ อ ง ซ ไ ร ตั้ ซิ ผง อ ิ ช์ ๕ เด ิ ต ซอ อ , ชะ ซ์ ซิ อ ร ู อ ิ ช , ธง ต ๐ ๕), ช ย ต ย ู ด อ ิ ย ๒ ต ว ซั ะ ติ ด ง อ ิ เติ ์ , ติ ฮิ ชิ ย ง ชิ ต อ ิ 6 ร ู ต ชุ ต ฉิ ซั อ ยิ ษ์ ๒ ง ว ิ ต อ ิ ง ๓ อิ @ ต 0 ต อ ิ ซ์ ร อ ง อ ิ อ ชิ ต ิ อ ต เต เต ั ร ต ต ุ 0 ร ต ง ย เ ย ิ ส ื ง ต ด ตุ อ อ อ ๑ อ ร์ ต ู อ ิ ต ร อ ว ชะ อิ ร ื ่ ว ต ู ตุ อ ิ อ 0 อ ิ ษ์ อ ิ ซ์ ติ ย ิ น ิ ๒ ว ว ิ ต อ ิ ง ๒ ง 6 ๑ อ ต 89๐ ฮิ.\n\nX ไ อะ อ ิ ต ฑ์ ลิ ง\n\ngs อ dneded VT อ n, X อ ิ ตะ ๒ X ไ อ ิ ๑ ยิ ต ฑ์ ธิ อ ส ิ ต์ ขะ ช็ ร อ ๑ ว์ อ อ เร ิ อ ชิ ง ง ซั อ ๓ อะ ว์ อ อ อ ิ 0 ง ต อ ลิ ต ธิ ธี อ 5 ชิ ง ช่ ง ต ดะ ต ได 0 บ ว ์ อ ิ ว ต ู ต อ ๕ ๓ ฑ์ ธิ ต ิ ร ง ร ั ช่ ชวา ย ต ต ๑ ช์ ชุ ง ว ์ ต อ อ ิ ธิ ยิ ถิ ง ต ต ร ู ง 6 ชิ ธิ 9 ต คุ ต ง อ ิ ธิ ช์ ง ด ม ซ์ ด ๐ ง ว ์ อ ิ ว ต ุ ต อ ๕ ต ต์ อ๊ ต ิ ร ว ร ์ ร ์ ชวด ร ๑ อ ง อ ิ ต ร ร ต ชา ย ซิ อ ย ิ อ อ ซ์ อ ิ ง ต อ อ เนื อ อ ด ิ ยื อ ชง ว ิ ต ปิ ต ง ว ์ ร อ ด ธิ ดิ.\n\nไท อ ิ ว อ ิ ต ฑ์ ธิ ะ ชั ชู ซั ร ิ อ ร ร ิ <๑ ช์ ผ ร ุ อ ซ์ ชุ ง ว ์ ร ะ ๓ ฮิ อ ี ยิ อ ิ ง ต , ช์ ง ดะ ช์ ด ๐ ง ว อิ ว ต ์ ต อ ิ 6 ๓ ซ์ ธิ อ ิ ร ง ร ์ ษ์ ธร ว ด ต อ ง ง อ ิ ด ด ิ เซ ต ) ร ุ ว ว ร ต อ ชิ ม ี อ ิ ถิ ว ต , ธ 8 อ ค อ อ ต ซ้ อ ง ซ์ ผิ ซ์ ร ู เด ออ ธ์ ติ๊ ว ง ซ้อ ด ต 6 ด % เ ดิ อ ิ ะ ซิ ๓ ซิ , อ ดิ ต ง 6 ๓ ชื อ ฮิ ว ง ซั อ ๓ อ ิ ซิ อ อ ยี 5 ช ย ง วิ ต อ ชิ ชิ ซ์ ข ร ต ย ง ต ย อ ิ อ ต ซ์ อิ ง ว ษ์ อ ชิ ม ขุ รั อ อ อ ิ ง ต เล็ ต .\n\nXT โห อ ด อ ิ ต ซ์ ธิ ฆ\n\n๕ ชี อ ิ ต ต ซ์ อ ิ ง ร ซั ย ซ์ ต 6 ๓ ร ื อ ๑ ช็ ั ร้ , ชม ซ์ ป ื อ @ ๕ ต ซ์ ร ิ ต งง อิ ต ง ชี ร ๕ ง ชง ฮิ อ ิ อ ิ ชิ ส ิ อ ธิ ชิ ๑ ๕ อ ๑ อิ ด ษ์ บ ์ ง ดะ ช ไ ต ย ์ อ ิ อ ด ซ์ อ ง ซ้อ ชิ ธิ ธิ ชง ว ชิ ต อ ร รุ ด ชุ ต ด ิ ซี ย ซ์ ย ง ว ิ ต อ ิ ง ซ์ ง อ อ ง ซิ ยื อ ซิ ะ ๒, ๒ ๒ อ ชื 6 ด ั ้ ชร ว ต ์ อ 5% , ต 6609 ด ิ อิ ชู อ อ ๒ ๒ ๒ ง ซิ อ ิ อ ชิ ย ง ๕ ชั่ ต ๒ อ ิ ต ด ิ เร ิ วี อ ๕ อ ๑ อ ิ ด ติ ย ิ ต ๑ ฮิ aE ซ์ 2 ิ อ ษ์ อ ๕ ช แ ต 66 ๓ ปี ชิ ติ อ ซ์ ซู ซ้ อ ชิ 0 เข อ ง ต ง อ 6 ต ู ตุ ง .\n\nXxX ไป อ ิ 2 อ ิ ต ซ็ อ ง\n\nอ ิ ย ิ อ อ ซ้ อ ิ ง ซิ ว ง ซ้ อ ๓ ซิ ชิ ร อ ิ ชะ รี้ ๑๒ ย ิ ด ร ง ว ์ ช่ ง ต ะ ด อ ิ ชิ 6 ต ต ง ร ต ซ์ ต ๕ อ ะ ร อ ิ อ ซื อ ธิ ต ิ ย , ซอ ิ ต อ อ ิ ด ๑ อ 6 ฮิ 6 อ ิ อ ฎิ อ ิ ร , ฉิ อ ิ ธิ ย ง ว ิ ต อ อ ๕ ชิ ร รั ชิ ต ง ซ์ อ อ อะ ชิ ง ง ู ตุง.",
+      "quality_score": 0.6842,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Thai:psm3",
+      "language": [
+        "th"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "xX ป อ ิ อ อ ิ ต ฑ์ ล ง\n\nซิ อ ิ ชิ ว ว ิ ต ด อ ิ 6 ๕ <๓ ชุ ต ฉิ ชี อ ิ ซ์ ซ ว ว ิ ต ย ถิ ว อ ซ์ ๑ ๕ ส ื อ ชิ อ , ติ ย ี อ ชง ว ิ ต อิ อ ๕ ต เชิ เต็ อ ซู เช็ อ , 6 อ ี อ ิ อ ต ณั อ ิ ต ๒ 6 ต ร ์ อ ิ ต ง อ ต) 8 เด ิ ง ต ชิ ต , อ ิ ร ช์ ชี ชี ต ด ู 6 อ ิ อ ย ร ะ ร ด รี อ ิ ต , ป ิ ซี อ ิ ซ์ ด ์ ง ช์ ช ๕ ด์ ชุ ร ู ง 5 อ ิ ต ซุ ง ซ์ ฏิ ฐิ อิ อ ิ ม อ ิ ต ์ ขิ ง ต ู ต ุ ๕ อ ง ง ชิ ง อ ิ ย ง อ ึ ง ชุ ต ต อ ิ ต ง ซิ ชิ ร อ ิ ซ์ ช ต ู ยิ , อ ๕ ๓ ุ ฮิต ต ร๊ ด.\n\nXY1 อ ๑ อ ิ ๓ สี ล อ\n\nตั ต ๕ <๑ ซ์ ด ิ ร ง ร ั ซื อ ง ซ์ ฮี ชิ ชั ๑ อ ิ ย ิ อ ๑ ซ์ อ ิ ง ขั ่ ง ซ์ อ ว ต เดื อ อ ซ์ ช ผ ย อ ๓ ๒ อ ิ ซ์ ย ิ ซ์ 6 ว ซ์ ม ๑ ชั ้ ต ร ง 6 อิ ด ร ุ ง ช์ อ ิ ต อ อ ิ ม อ ิ ซ์ อ ิ ง ต ุ ต อ ว ง # ซอ ิ ชง อ ื ง ซ ต ุ ต อ ิ ต ง ต 6 ต % เ ดิ ๆ เ อิ อ ิ อ 0 ๆ ซ ร ด ชวด ม ต ิ ปิ ๕ อ ง ซ์ ติ คุ ษ์ อ 6 ต ะ เซ็ ร อ ซ์ ช ผ ู อิ, อิ อิ อ ต ซ์ อ ิ ง อ ิ 6 ง ซ้ อ ต อ ิ ง ต คุง. อิ อ ิ ต ด ต ษ์ อ ง ๕ อิ 6 เ ๕ <๓ อ ว ซ์ น ิ อ ง 6 ร ื อ ง อ ิ ซ์ ต ร ุ ด ว อ 8 ง ต ็ อ อ อ ิ ง เอ ิ ชิ ต ต ู ร ๆ» ๐ 6 อ ชั ย ฐ , 88 ชง ร ั ต ป ๕ ๕ ๓ ชุ ต ุ ร ิ ช์ อ ซ์ ชง ร ั ต อ ิ ย ซ์ ฮิ ธิ ซ์ 6 อ ิ อิ ต ๑ ซ้ อ ิ ง ต อิ งง ต อ 6 ๓ ร ชู อ ิ ษ ็ ถิ ง อ ิ ด ต เว, ซอ ิ 6 ะ ฐ ขิ อ ต อ ง 6 ชี อ ิ ง อ ผ่ รด ง ง ชิ ต อ ิ ธ ๕ ง ขี อ ว ซอ ซ์ อ ๐ ต % เ ช็ ง ห ู ต ุ ฑ . ๑ อ ิ ย ิ ต ๓ ซ์ อ ิ ง ชู อ ิ ง เต อ ิ 8 อ 35 ๑ ๕ อ ิ , อ ิ ซ์ อ ิ ซ์ 5 ว 6 ฉิ อ ิ ง ยิ ซู อ ิ เง ต อ ิ อ อ ชิ ง ย ๒ 0 ต 0 ร ษ 6 ร เด ต จิ ร ู ้ ง ต ต ง.\n\nXV อ ิ ๑ อ ิ ๓ ช์ ซิ ง\n\n6 ฮิ อ ิ ต ต ช์ อ ิ ง ๆ อ ษ์ ร ชง ว ต 6 ๓ ¢ ๕ ๕ ระ ต ร ์ ชิ จ ต ว อ 6 ร ชู อ ิ เร ื อ ง อ ๓ , ไ ไ 1 อ ิ ด อ ิ ต ต ์ อิ ๑ ชั ย ิ ย ม ล ิ อ ง อ ิ ขะ ต ุ ช ต ซั ่ ต ม ฑ์ อ ว ์ อ ละ ชิ ต ด ต ้ อ ง ช์ ๒ ๒ ชี ย ื อิ , ขี อ ิ ง ซุ อ ิ ผง ๓ ธะ ง ต ว์ อ 6 ๕ คง ซ ์ อ ๓, อ ิ 8 ง ซ์ อ ต อ ิ ช เ อ ิ ธิ ง ต ู ต ุ ม .\n\nened £04, VIN dm dmdSed (g) mm (qa) cscgdc cod ธะ , อ อ ม ซ ์ ม ื อ ร ู อ ิ ช , ธุ ว ต ๐ อ , ว อ ผู ต ชี ๒ ๒ ต ว ต ไซ ต ิ ต ง อ ิ ต ์ ธิ อ ซุ ขด ง รั อ ิ อ 6 ๑ ด 6 ต ิ ต ชิ ย ต ง ๕ น ี อ ิ ง อิ ตุ ช์ , ซ็ อ ง 0 ห 7 ท 1 อ ๓, 1 อ ๓ , X อิ ๑ ต ๒ X71 อ ิ อ อ ิ ต ฑ์ ธิ อ 6 ฮิ ฉิ ชิ อ ิ ง ต ชุ ร ุ ง 6 ยื ย ต ู คุม.",
+      "quality_score": 0.6815,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "tesseract:script/Thai:psm3",
+      "language": [
+        "th"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "- 7-\n\n60๘ป ตร๕ 06๘3 (ร 630 0063 30 นออป ีสอซ์ อนรอร์ 6๖ 8๒๒๖๐ , น๔๒๕.\n\nออสินออ 6๕ภอ ลง ผองอภาษฎ70 6อ.\n\ngor U2050W 4Q0 6อิฐดอิร์\n\n000690\n\nRene MONORY\n\nMinistre de I'Economie\n\nC. Cyril MATHEW\n\nMinister of Industries and\n\nScientific Affairs\n\nAT! ! . .",
+      "quality_score": 0.7586,
+      "review_required": true,
+      "review_priority": "normal",
+      "method": "apple_vision",
+      "language": [
+        "en",
+        "th"
+      ],
+      "review_reasons": [
+        "low_confidence",
+        "engine_disagreement"
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "COOPERATION AGREEMENT\n\nBETWEEN\n\nTHE GOVERNMENT OF THE FRENCH REPUBLIC\n\nAND\n\nTHE GOVERNMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA\n\nON THE PEACEFUL USES OF NUCLEAR ENERGY",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 19,
+      "text": "THE GOVERNMENT OF THE FRENCH REPUBLIC\n\nAND\n\nTHE GOVERNMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC\n\nOF SRI LANKA\n\nhereinafter referred to as the Contracting Parties,\n\n- desiring to\n\ndevelop the friendly relations\n\nprevailing between the two countries,\n\n- considering the importance they attach to the\n\ndevelopment of the peaceful uses of nuclear energy,\n\n- expressing their intention to widen and\n\nstrengthen their co-operation in this field,\n\nhave agreed as\n\nfollows:\n\nARTICLE I\n\nWithin the framework of their respective programmes\n\nthe Contracting Parties undertake to develop their co-operation in the peaceful uses of nuclear energy, both in the field of basic or applied research and with a view to industrial projects.\n\nARTICLE LI\n\nIn accordance with the provision of Article I above,\n\nthe Contracting Parties undertake to promote :\n\n- the conclusion of specific agreements between\n\ncompetent authorities of the Contracting\n\nParties\n\nor between\n\nagencies\n\ndesignated by such authorities ;\n\n- the signing\n\ncontracts for industrial\n\nprojects\n\nand for the supply of material, nuclear material, equipment, facilities and technological information.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 20,
+      "text": "- 2-\n\nARTICLE III\n\nThe agreements referred to in Article II above shall\n\nin particular have the purpose of :\n\n- establishing programmes of common interest ;\n\n- arranging exchanges of scientific and technical\n\ninformation\n\n• between the two countries ;\n\n- determining the procedures governing exchanges of\n\npersonnel, scientific visits, meetings of experts and the reception of trainees.\n\nARTICLE IV\n\nThe contracts referred to in Article II above shall\n\nin particular have the purpose of\n\n- determining the procedures governing the projects\n\nto be implemented by firms and agencies subject to the jurisdiction of one of the Contracting Parties for the benefit of the other ;\n\n- establishing the conditions under which ady ice and shall be given by one of the Contracting Parties to\n\n- defining the conditions for the exchange between the\n\nContracting Parties of material, nuclear material, equipment, facilities and technological information intended for the peaceful uses of nuclear energy.\n\nARTICLE V\n\nThe Contracting Parties :\n\nundertake to guarantee the security and preserve\n\nthe confidential nature of the technical data\n\nand infor mation\n\nexchanged; in this connection they undertake not to communicate the relevant documents and information to third parties, public or private, without prior authorization given in writing by the party having supplied the documents or information\n\n;",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 21,
+      "text": "- 3 -\n\nb)\n\nmay transmit or supply to each other only information\n\ndocumentation and equipment of which they are entitled freely to dispose ;\n\nc)\n\nshall not be obliged to transmit or supply to\n\nthird parties, public or private, information, documentation or equipment of\n\na confidential nature in cases where the trans-\n\nmission or supply of such information, documentation or equipment is not provided for under the agreements or contracts referred to in Articles II, III and IV above.\n\nARTICLE VI\n\nThe Contracting Parties shall, by taking all the\n\nadministrative measures within their power, especially in relation to fiscal and/or customs regulations, endeavour to facilitate the proper implementation of this Agreement and of the conventions, protocols and contracts concluded for purp os es of its application.\n\nARTICLE VII\n\nIf necessary, the Contracting Parties shail conclude\n\nspecial agreements in order to settle matters pertaining to expenses and costs which may accrue from the implementation of this Agreement.\n\nARTICLE VIII\n\nThe Contracting Parties undertake that :\n\na) material, nuclear material, equipment, facilities\n\nand technological information supplied\n\nor exchanged within the\n\nframework of this Agreement ;\n\nb) material, nuclear material, equipment, facilities\n\nand technological information obtained from or through the internediary of items\n\nreferred to in paragraph a) above",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 22,
+      "text": "Shall not be used in such a way as to further any\n\nmilitary purpose or for the manufacture of any nuclear explosive device by a State which had not produced or exploded such a device before 1 January 1967.\n\nFor this purpose the Contracting Parties undertake\n\nthat the material, nuclear material, equipment and facilities referred to in paragraphs a) and b)\n\nabove, and under th e control\n\nof a State which had not manufactured or exploded\n\na nuclear\n\ndevice before 1 January 1967 shall be subject to the safeguards of the International Atomic Energy Agency (I.A.E.A.).\n\nARTICLE IX\n\nEach Contracting Party, on its own territory and al so\n\nin cases of transfer out of its metropolitan territory, shall take the necessary measures to ensure the physical pro tection of the material, nuclear material, equipment and nuclear facilities affected by this Agreement:\n\nThe Contracting Parties shall determine by mutual\n\nagreement the levels of physical protection on which these measures shall be based.\n\nARTICLE X\n\nIn the case of supply of material, nuclear mater\n\nial,\n\nequipment, facilities and technological information presenting special risks in the opinion of the Contracting Party which supplies them, such supply shall be subject to special conditions in\n\norder to ensure fulfilment\n\nof the undertakings laid\n\ndown in Article VIII.\n\nThese conditions shali be determined\n\nin advance by\n\nmutual\n\nagreement.",
+      "quality_score": 0.9954,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 23,
+      "text": "- 5\n\nARTICLE XI\n\nEach Contracting Party undertakes that the material,\n\nnuclear material, equipment, facilities\n\nand technological\n\ninformation obtained under the conditions referred to in Article\n\nVIII, paragraphs a)\n\nshall not be transferred\n\ntransferred to any person\n\nnot under the jurisdiction of either\n\nContracting Party, unless it has received the assurances figuring in Articles VİII\n\nand IX above, and, unless where appropriate,\n\nthe provisions of Article X have been implemented.\n\nARTICLE XII\n\nIn order to ensure implementation of the obligations\n\nresulting from Articles VIII, X and XI of this Agreement, the\n\nContracting Parties undertake to conclude with the I.A.E.A. a trilateral agreement for the application of the Agency's\n\nSafeguards.\n\nThe Contracting Parties may nevertheless suspend by\n\nmutual agreement the execution of this undertaking provided that the safeguards referred to in the last paragraph of Article VIII are already being implemented under a safeguards agreement con- cluded with the I.A:E.A.\n\nARTICLE XIII\n\nNothing in this Agreement shall be interpreted as\n\naffecting\n\nthe obligations resulting at the date of signature\n\nof the Agreement from the participation of either Contracting\n\nParty in other international agreements on the peaceful uses of nuclear energy, particularly the participation of France in the Euratom Treaty.\n\nARTICLE XIV\n\nRepresentatives of the Contracting Parties shall meet,\n\nwhenever required, in order to consult each other on matters raised by the implementation of this Agreement.",
+      "quality_score": 0.9936,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 24,
+      "text": "6 -\n\nARTICLE XV\n\nThis Agreement may be amended by consent between the\n\nContracting Parties at the request of either of them. The amendments thus accepted shall enter into force after fulfilment of the constitutional procedures applicable in each\n\nof the two\n\nStates.\n\nARTICLE XVI\n\nThis Agreement shall come into force after it has been\n\nsigned by the representatives of the two governments and mutual notification that the constitutional procedures applicable to each of the two states have been fulfilled.\n\nIt shall remain in\n\nforce for a period of ten years and shall then be tacitly renewed for periods\n\nof one year, except in case of termination by either\n\nContracting Party. Termination shall be notified six months before the end\n\nof each period.\n\nARTICLE XVII\n\nIn case of non-renewal or termination of this\n\nAgreement, the agreements and contracts signed within the framework of Article II shall remain in force as long as they are not terminated. The provisions of Articles VIII, IX, X and XI shall continue in any case to apply to the material, nuclear material, equipment, facilities and technological information referred to in Article VIII, paragraphs a) and b) during the entire period of their utilisation.",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 25,
+      "text": "- 7 -\n\nIn witness whereof the undersigned, duly authorized\n\nthereto by their\n\nrespective Governments, have signed this\n\nAgreement.\n\nDone at Colombo\n\non the 10th day of April 1980.\n\nIn three texts, in the Sinhala, French and English\n\nlanguages, all texts being equally authentic.\n\nFor the Government of the\n\nFrench Republic\n\nRene MONORY\n\nMinister of Economy\n\nC. Sul Hate\n\nFor the\n\nGovernment of the\n\nDemocratic Socialist Republic\n\nof Sri Lanka\n\nC. Cyril MATHEW\n\nMinister of Industries\n\nand\n\nScientific Affairs",
+      "quality_score": 0.9923,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "en"
+      ],
+      "review_reasons": []
+    },
+    {
+      "page_number": 26,
+      "text": "à w\n\nE-",
+      "quality_score": 0.5484,
+      "review_required": true,
+      "review_priority": "high",
+      "method": "tesseract:script/Latin:psm3",
+      "language": [],
+      "review_reasons": [
+        "low_confidence",
+        "no_text_on_nonblank_page",
+        "sparse_extraction"
+      ]
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19900276_001",
+      "title": "Accord",
+      "score": 0.60795,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "20080090_001_s1",
+      "title": "Accord français",
+      "score": 0.597495,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810127_001a_s1",
+      "title": "Convention en français",
+      "score": 0.596747,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20250001_001_s1",
+      "title": "Accord",
+      "score": 0.562969,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220004_001_s1",
+      "title": "Convention (ensemble un protocole)",
+      "score": 0.539699,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20141292_001_s1",
+      "title": "Accord",
+      "score": 0.521505,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810127_001b_s1",
+      "title": "Convention en cingalais",
+      "score": 0.452887,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19810127_003_s1",
+      "title": "Pouvoirs sri-lankais",
+      "score": 0.447222,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19660053_001_s1",
+      "title": "Accord",
+      "score": 0.437314,
+      "type": "semantic_kin",
+      "provisional": true
+    },
+    {
+      "document_id": "tra19760034_001a_s1",
+      "title": "Accord",
+      "score": 0.428248,
+      "type": "semantic_kin",
+      "provisional": false
+    }
+  ]
+}

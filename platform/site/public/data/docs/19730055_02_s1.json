@@ -1,0 +1,116 @@
+{
+  "document_id": "19730055_02_s1",
+  "title": "Pouvoirs allemands",
+  "year": 1973,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "de"
+  ],
+  "quality_score": 0.9987,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "DER BUNDESMINISTER DES AUSWARTIGEN VOLLMACHT Der Botschafter der Bundesrepublik Deutschland in Paris Sigismund Freiherr von Br & u n und der Ministerialdirigent im Bundesministerium für Forschung und Technologie, Herr Reinhard Loo sch werden hiermit bevollmächtigt, das Übereinkommen zwischen bestimnten Mitgliedstaaten der Europäischen Weltraum- forschungsorganisation (ESRO) und der ESRO über die Durchführung eines m…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/19730055_02_s1.pdf",
+  "source_filename": "19730055_02_s1.pdf",
+  "source_sha256": "d7715e372d4b7e0cbb124db40e56c085a7daf58cc4952b30bbe5e4b56c5f5faa",
+  "treaty_id": "TRA19730055",
+  "treaty_number": "DEU001",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DER BUNDESMINISTER DES AUSWARTIGEN\n\nVOLLMACHT\n\nDer Botschafter der Bundesrepublik Deutschland in Paris\n\nSigismund Freiherr von\n\nBr & u n\n\nund der Ministerialdirigent im Bundesministerium für\n\nForschung und Technologie,\n\nHerr Reinhard Loo sch werden hiermit bevollmächtigt, das Übereinkommen zwischen bestimnten Mitgliedstaaten der Europäischen Weltraum- forschungsorganisation (ESRO) und der ESRO über die\n\nDurchführung eines maritimen Satellitenprogramms (Marots) für die Regierung der Bundesrepublik Deutsch- land gemeinsam oder einzeln zu unterzeichnen.\n\nBonn, den 5. November 1973",
+      "quality_score": 0.9987,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "de"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "19750012_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.427229,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19690071_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.390089,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19920190_030_s1",
+      "title": "Pouvoirs",
+      "score": 0.377128,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_07_s1",
+      "title": "Pouvoirs italiens",
+      "score": 0.374704,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19600202_003_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.372565,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19980155_030_s1",
+      "title": "Pouvoirs allemands",
+      "score": 0.370759,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_01_s1",
+      "title": "Traité",
+      "score": 0.36629,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19720117_06_s1",
+      "title": "Annonce de la signature du Protocole par l'Allemagne Fédérale",
+      "score": 0.362107,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19540096_011_s1",
+      "title": "Pouvoirs ouest-allemands",
+      "score": 0.357032,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19730055_18_s1",
+      "title": "Procès-verbal de dépôt de l'instrument de ratification suédois",
+      "score": 0.350098,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

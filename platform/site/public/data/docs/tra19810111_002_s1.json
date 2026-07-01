@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19810111_002_s1",
+  "title": "Pouvoirs",
+  "year": 1981,
+  "doc_type": "Pouvoirs",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 0.9799,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "POUVOIRS Au nom du Gouvernement de la République, NOUS, Ministre des Affaires Etrangères, donnons pouvoirs par ces présentes à Monsieur Jean MEADMORE, Ministre Plénipotentiaire, Directeur de la Mirection des Français à l'Etranger nour simner l'Accord, entre le Gouvernement de la Rinublique Française et le Gouvernement de la République Fédérale d'Allemaine, au sujet du recouvrement ou du recouvrement forcé de cotisat…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Pouvoirs",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19810111_002_s1.pdf",
+  "source_filename": "tra19810111_002_s1.pdf",
+  "source_sha256": "4c6e86627983698fed486f5d5b2e1feff2e657504379944851bd9b4532f6bb82",
+  "treaty_id": "TRA19810111",
+  "treaty_number": "002",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "POUVOIRS\n\nAu nom du Gouvernement de la République,\n\nNOUS, Ministre des Affaires Etrangères, donnons pouvoirs par ces présentes à Monsieur Jean MEADMORE,\n\nMinistre Plénipotentiaire, Directeur de la Mirection des Français à l'Etranger\n\nnour simner l'Accord, entre le Gouvernement de la\n\nRinublique Française et le Gouvernement de la République\n\nFédérale d'Allemaine, au sujet du recouvrement ou du recouvrement forcé de cotisations de sécurité sociale./.\n\nFAIT à PARIS, le 19.12, 8i\n\nLe Ministre des Affatres Etrangères\n\nI. frangins fonct",
+      "quality_score": 0.9799,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19980026_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.416193,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19850080_002",
+      "title": "Pouvoirs",
+      "score": 0.402211,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra20220006_002_s1",
+      "title": "Pouvoirs",
+      "score": 0.398187,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990161_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.39778,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19940065_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.396435,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19990090_002_s1",
+      "title": "Pouvoirs français",
+      "score": 0.396269,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002a_s1",
+      "title": "Pouvoirs français (délivrés à CatherineTasca)",
+      "score": 0.395348,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19930026_002b_s1",
+      "title": "Pouvoirs français (délivrés à Michel Vauzelle)",
+      "score": 0.395123,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "TRA20182473_002",
+      "title": "Pouvoirs français",
+      "score": 0.389875,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19900250_002",
+      "title": "Pouvoirs",
+      "score": 0.387568,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}

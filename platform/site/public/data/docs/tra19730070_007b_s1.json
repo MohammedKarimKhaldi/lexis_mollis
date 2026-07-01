@@ -1,0 +1,116 @@
+{
+  "document_id": "tra19730070_007b_s1",
+  "title": "2ème accusé de réception suisse de l'instrument français : cf. § 1 de la pièce /005",
+  "year": 1973,
+  "doc_type": "Autre",
+  "languages": [
+    "fr"
+  ],
+  "quality_score": 1.0,
+  "review_required": false,
+  "review_priority": "none",
+  "text_preview": "! ! i LE CHEF DU DÉPARTEMENT POLITIQUE FÉDÉRAL 3003 Berne, le 20 novembre 1973. Monsieur le Ministre, Par lettre du 23 mars 1973, vous avez bien voulu me faire savoir qu'avaient été accomplies les procédures requises par la Constitution de la République française pour la mise en vigueur de l'Accord entre le Gouvernement français et le Conseil fédéral suisse sur la compensation financière relative aux frontaliers tra…",
+  "tags": [
+    "century:c20",
+    "corpus:traites",
+    "doc_type:Autre",
+    "instrument_type:other",
+    "legal_force:unknown",
+    "period:world_war_ii_and_postwar_1939_1989",
+    "rights_status:to_review",
+    "source_db:traites_mineae",
+    "stage:live_snapshot"
+  ],
+  "source_url": "https://fr.ftp.opendatasoft.com/mineae/traites/tra19730070_007b_s1.pdf",
+  "source_filename": "tra19730070_007b_s1.pdf",
+  "source_sha256": "ce101f3ac0f5f5956d95c5a910ad890d3128198e41c0cfcddfdaa48bed72ed26",
+  "treaty_id": "TRA19730070",
+  "treaty_number": "007b",
+  "rights_status": "to_review",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "!\n\n!\n\ni\n\nLE CHEF\n\nDU\n\nDÉPARTEMENT POLITIQUE FÉDÉRAL\n\n3003 Berne, le 20 novembre 1973.\n\nMonsieur le Ministre,\n\nPar lettre du 23 mars 1973, vous avez bien voulu\n\nme faire savoir qu'avaient été accomplies les procédures requises par la Constitution de la République française pour la mise en vigueur de l'Accord entre le Gouvernement français et le Conseil fédéral suisse sur la compensation financière relative aux frontaliers travaillant à Genève, signé à Genève, le 29 janvier 1973.\n\nJ'ai 1'honneur de vous informer que les procédures\n\nconstitutionnelles requises du côté suisse pour la mise en vigueur de cet Accord ont également été accomplies.\n\nIa présente lettre constitue la notification pré-\n\nvue à l'article 4 dudit Accord, lequel entre dès lors en vigueur en date de ce jour.\n\nJe vous prie d'agréer, Monsieur le Ministre,\n\nl'assurance de ma haute considération.\n\nGraber\n\nSon Excellence\n\nMonsieur Michel Jobert\n\nMinistre des Affaires Etrangères\n\nParis",
+      "quality_score": 1.0,
+      "review_required": false,
+      "review_priority": "none",
+      "method": "apple_vision",
+      "language": [
+        "fr"
+      ],
+      "review_reasons": []
+    }
+  ],
+  "similar_documents": [
+    {
+      "document_id": "tra19730070_005_s1",
+      "title": "Instrument suisse",
+      "score": 1.0,
+      "type": "duplicate",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19730070_004_s1",
+      "title": "Instrument français",
+      "score": 0.467272,
+      "type": "semantic_kin",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19960061_004_s1",
+      "title": "Instrument français",
+      "score": 0.399083,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "19480001_65_s1",
+      "title": "Note verbale d'adhésion",
+      "score": 0.390315,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660081_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.39007,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19660289_004_s1",
+      "title": "Instrument français (notification)",
+      "score": 0.387418,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19970011_004_s1",
+      "title": "Instrument français",
+      "score": 0.382705,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19810140_004_s1",
+      "title": "Instrument français",
+      "score": 0.381539,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19760091_004_s1",
+      "title": "Instrument français",
+      "score": 0.380545,
+      "type": "weak_link",
+      "provisional": false
+    },
+    {
+      "document_id": "tra19540017_103_s1",
+      "title": "Déclaration du Président du Gouvernement de la Sarre",
+      "score": 0.380039,
+      "type": "weak_link",
+      "provisional": false
+    }
+  ]
+}
