@@ -1,6 +1,44 @@
 # Lexis Mollis — statut de déploiement
 
-Dernière mise à jour vérifiée : 2026-07-01 (Codex : évaluation LLM provisoire, graphe/release complets, dataset Hugging Face publié, site Cloudflare déployé, release GitHub `v0.1.0` créée).
+Mise à jour du 2026-07-06 (Claude) : amélioration du graphe de similarité pour que l'assistant
+gratuit (`scripts/rag_ask.py`, `/assistant/`) puisse répondre précisément à des questions
+comparatives comme « compare les types de documents (traité, accord, déclaration) et dis-moi
+s'il y a des différences de forme/rédaction ». Constat de départ : la similarité/le graphe ne
+capturaient que la proximité sémantique/lexicale entre chunks — aucune donnée agrégée sur la
+forme/rédaction typique par `doc_type`, donc une question comparative n'obtenait qu'une poignée
+de chunks retrouvés par recherche sémantique brute, potentiellement tous du même type.
+Changements :
+- Nouveau module `pdfkb/similarity/doc_type_profiles.py` (+ `scripts/build_doc_type_profiles.py`
+  pour le régénérer sans refaire tout le build) : calcule, par `doc_type`, des statistiques
+  réelles sur le corpus OCR (fraction de documents avec préambule « pleins pouvoirs », clause
+  « Considérant que », formule « sont convenus… », structure en articles numérotés (+ moyenne
+  d'articles/document), clause « En foi de quoi », clause de lieu/date, mention de ratification,
+  clause d'entrée en vigueur, clause de dénonciation…) et une narration française générée à partir
+  de ces chiffres. Sorties vérifiées sur les 3 146 documents : les trois types de l'exemple
+  ci-dessus ont des profils nettement différenciés (ex. structure en articles numérotés : 79,3 %
+  pour Accord contre 15,1 % pour Déclaration ; mention de ratification : 75,9 % pour Traité contre
+  12,9 % pour Accord). Nouveau livrable `outputs_v2/similarity/doc_type_profiles.json`, généré
+  automatiquement par `pdfkb similarity build` (`pdfkb/similarity/run.py`) et copié dans
+  `outputs_v2/release/` par `scripts/build_release_tables.py`. Testé (`tests/test_similarity.py`,
+  1 nouveau test, tous verts).
+- `scripts/rag_ask.py` (local) et `platform/site/worker/ask.ts` (site) détectent maintenant les
+  questions de comparaison (≥2 `doc_type` connus nommés dans la question) et construisent un
+  contexte différent : les profils agrégés des types cités, plus une recherche stratifiée *par
+  type* (au lieu d'un top-k global qui pouvait écraser les types sous-représentés — 152
+  « Déclaration » contre 807 « Autre ») pour fournir de vrais extraits de chaque type. Le prompt
+  système demande explicitement au modèle de citer les pourcentages exacts plutôt qu'une
+  impression générale. Publication côté site : `platform/scripts/build_site_data.py` écrit une
+  copie allégée dans `platform/site/public/data/doc_type_profiles.json`.
+- Identifiant de modèle OpenCode Zen restauré à `big-pickle` dans les deux fichiers (une
+  expérimentation locale non committée l'avait basculé sur `deepseek-v4-flash-free` pour tester
+  le throttling Workers documenté ci-dessous — sans effet, donc annulée).
+- Reste à faire pour aller plus loin : régénérer `outputs_v2/release` et
+  `platform/site/public/data/` avec `scripts/build_release_tables.py` puis
+  `platform/scripts/build_site_data.py` pour publier `doc_type_profiles.json` sur le site en
+  production (généré ici en local uniquement, dans `outputs_v2/similarity/`) ; étoffer la liste de
+  marqueurs si d'autres questions comparatives récurrentes apparaissent.
+
+Dernière mise à jour vérifiée précédente : 2026-07-01 (Codex : évaluation LLM provisoire, graphe/release complets, dataset Hugging Face publié, site Cloudflare déployé, release GitHub `v0.1.0` créée).
 
 Troisième mise à jour du même jour (Claude) : ajout d'un assistant de question/réponse gratuit
 sur le corpus, en deux volets.

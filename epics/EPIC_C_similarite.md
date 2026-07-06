@@ -256,3 +256,33 @@ Reporter les valeurs choisies dans `config.py` et `SIMILARITY_DESIGN.md`.
 
 > **Suite :** EPIC D — knowledge graph (`pdfkb/graph/`), qui importe `edges.parquet`
 > (`similar_to`) et y ajoute entités et relations typées.
+
+---
+
+## C.11 Profils de forme/rédaction par `doc_type` — `doc_type_profiles.py` (2026-07-06, Claude)
+
+**Objectif** : donner à l'assistant RAG (`scripts/rag_ask.py`, `platform/site/worker/ask.ts`) des
+faits *mesurés sur le corpus*, pas seulement des chunks proches sémantiquement, pour répondre à
+des questions comparatives entre types documentaires (« compare les types de documents (traité,
+accord, déclaration) et dis-moi s'il y a des différences de forme/rédaction »). Une recherche
+top-k pure n'est pas adaptée à ce type de question : rien ne garantit que les chunks les plus
+proches sémantiquement de la question couvrent tous les types cités, ni qu'ils soient
+représentatifs de la forme typique de chacun.
+```python
+def build_doc_type_profiles(chunks, mapping, documents=None, min_documents=3) -> dict:
+    """Pour chaque doc_type : fraction de documents avec chaque marqueur rhétorique/
+    structurel (pleins pouvoirs, Hautes Parties contractantes, Considérant que,
+    soussigné(s) déclare(nt), sont convenus, Gouvernement de, articles numérotés + moyenne,
+    En foi de quoi, Fait à ... le ..., ratification, entrée en vigueur, dénonciation),
+    + stats qualité/langue + extraits réels + narration française générée."""
+```
+Détails : voir `metadata_design/data_dictionary.md` §10.1 pour le schéma de sortie complet.
+Appelé automatiquement en fin de `pdfkb/similarity/run.py::build()` → livrable
+`outputs_v2/similarity/doc_type_profiles.json` ; régénérable seul (sans refaire embeddings/
+FAISS) via `scripts/build_doc_type_profiles.py`. Copié dans `outputs_v2/release/` par
+`scripts/build_release_tables.py`, publié en version allégée par
+`platform/scripts/build_site_data.py`.
+**CA C.11** : déterministe (aucune dépendance à un modèle, uniquement des expressions
+régulières sur texte normalisé) ; testé (`tests/test_similarity.py::
+test_doc_type_profiles_detect_markers_and_compare_types`) ; explicitement documenté comme
+heuristique OCR (pas une annotation juridique validée humainement).

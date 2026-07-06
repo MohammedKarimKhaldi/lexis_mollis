@@ -245,6 +245,10 @@ def main() -> int:
         if src.exists():
             shutil.copy2(src, graph_dir / name)
 
+    doc_type_profiles_src = args.similarity / "doc_type_profiles.json"
+    if doc_type_profiles_src.exists():
+        shutil.copy2(doc_type_profiles_src, args.output / "doc_type_profiles.json")
+
     manifest = {
         "created_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "pipeline_version": PIPELINE_VERSION,

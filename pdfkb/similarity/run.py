@@ -6,6 +6,7 @@ from typing import Any
 
 from .chunking import chunks_from_jsonl
 from .config import SimilarityConfig
+from .doc_type_profiles import write_doc_type_profiles
 from .embeddings import embed_chunks
 from .graph import cluster_documents, document_edges
 from .index import semantic_pairs
@@ -70,6 +71,7 @@ def build(kb: Path, output: Path, cfg: SimilarityConfig) -> dict:
     edges_pq = fuse_pairs(lexical_pq, semantic_pq, chunks_pq, cfg, output)
     doc_edges_pq = document_edges(edges_pq, chunks_pq, cfg, output)
     clusters_path, summary_path = cluster_documents(doc_edges_pq, cfg, output, chunks_pq=chunks_pq)
+    doc_type_profiles_path = write_doc_type_profiles(chunks_pq, output / "doc_type_profiles.json")
 
     chunks = read_parquet_records(chunks_pq)
     lexical = read_parquet_records(lexical_pq)
@@ -89,6 +91,7 @@ def build(kb: Path, output: Path, cfg: SimilarityConfig) -> dict:
         "document_edges": len(doc_edges),
         "clusters_path": str(clusters_path),
         "summary_path": str(summary_path),
+        "doc_type_profiles_path": str(doc_type_profiles_path),
         "run_config": str(run_config_path),
         **embedding_manifest,
     }

@@ -10,6 +10,7 @@ from jsonschema import Draft202012Validator
 
 from pdfkb.similarity.chunking import chunk_pages
 from pdfkb.similarity.config import SimilarityConfig
+from pdfkb.similarity.doc_type_profiles import build_doc_type_profiles
 from pdfkb.similarity.embeddings import embed_chunks
 from pdfkb.similarity.index import semantic_pairs
 from pdfkb.similarity.io import read_parquet_records, write_parquet_records
@@ -171,6 +172,70 @@ class SimilarityTests(unittest.TestCase):
             schema = json.loads(Path("metadata_design/edge.schema.json").read_text(encoding="utf-8"))
             Draft202012Validator.check_schema(schema)
             Draft202012Validator(schema).validate(edges[0])
+
+    def test_doc_type_profiles_detect_markers_and_compare_types(self) -> None:
+        treaty_chunks = [
+            self._typed_chunk(
+                "t1c0", "doc_t1", "Traité", 0,
+                "Les Hautes Parties contractantes, après avoir exhibé leurs pleins pouvoirs, "
+                "sont convenus des articles suivants. Article premier. Article 2.",
+            ),
+            self._typed_chunk(
+                "t1c1", "doc_t1", "Traité", 1,
+                "En foi de quoi les plénipotentiaires ont signé. Fait à Paris le 3 mars 1919. "
+                "Le présent traité sera ratifié et entrera en vigueur après ratification.",
+            ),
+            self._typed_chunk(
+                "t2c0", "doc_t2", "Traité", 0,
+                "Les Hautes Parties contractantes sont convenus des articles suivants. "
+                "Article premier. Ratification requise pour l'entrée en vigueur.",
+            ),
+        ]
+        declaration_chunks = [
+            self._typed_chunk(
+                "d1c0", "doc_d1", "Déclaration", 0,
+                "Le soussigné, dûment autorisé, déclare par les présentes accéder aux dispositions "
+                "ci-après énoncées, sans qu'aucun article numéroté ne soit requis.",
+            ),
+        ]
+        chunks = treaty_chunks + declaration_chunks
+        mapping = {"Traité": {"instrument_type": "treaty", "legal_force": "unknown"}}
+
+        profiles = build_doc_type_profiles(chunks, mapping, min_documents=2)
+
+        self.assertEqual(profiles["n_documents_total"], 3)
+        self.assertEqual(profiles["n_chunks_total"], 4)
+        self.assertIn("Traité", profiles["types"])
+        self.assertIn("Déclaration", profiles["types"])
+
+        treaty = profiles["types"]["Traité"]
+        self.assertEqual(treaty["n_documents"], 2)
+        self.assertEqual(treaty["instrument_type"], "treaty")
+        self.assertFalse(treaty["low_sample_warning"])
+        self.assertEqual(treaty["markers"]["hautes_parties_contractantes"]["document_fraction"], 1.0)
+        self.assertEqual(treaty["markers"]["ratification"]["document_fraction"], 1.0)
+        self.assertGreater(treaty["markers"]["article_numbered"]["avg_occurrences_per_document"], 0)
+        self.assertIn("Traité", treaty["narrative_fr"])
+
+        declaration = profiles["types"]["Déclaration"]
+        self.assertEqual(declaration["n_documents"], 1)
+        self.assertTrue(declaration["low_sample_warning"])
+        # The declaration sample deliberately has no "Hautes Parties contractantes" /
+        # numbered-article structure, unlike the treaty sample above — this is the
+        # exact contrast a "compare document types" question needs to be answerable.
+        self.assertEqual(declaration["markers"]["hautes_parties_contractantes"]["document_fraction"], 0.0)
+        self.assertEqual(declaration["markers"]["soussigne_declare"]["document_fraction"], 1.0)
+        self.assertLess(
+            declaration["markers"]["article_numbered"]["avg_occurrences_per_document"],
+            treaty["markers"]["article_numbered"]["avg_occurrences_per_document"],
+        )
+
+    def _typed_chunk(self, chunk_id: str, document_id: str, doc_type: str, chunk_index: int, text: str) -> dict:
+        chunk = self._chunk(chunk_id, SHA_A, document_id, text)
+        chunk["doc_type"] = doc_type
+        chunk["chunk_index"] = chunk_index
+        chunk["page_number"] = chunk_index + 1
+        return chunk
 
     def _chunk(
         self,

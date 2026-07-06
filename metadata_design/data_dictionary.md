@@ -167,3 +167,27 @@ titre.
 | `legal_force` | enum | `doc_type_mapping.json` / source vérifiée | `binding`, `non_binding`, `mixed`, `unknown`. |
 | `issuing_body` | tag libre | métadonnées / EPIC H | Autorité émettrice sous forme slug, alignable à Wikidata. |
 | `source_db` | enum | ingestion / export | Base source (`traites_mineae`, `eur_lex`, `oecd`, etc.). |
+
+### 10.1 Profils de forme/rédaction par `doc_type` — `outputs_v2/similarity/doc_type_profiles.json`
+
+Produit par `pdfkb/similarity/doc_type_profiles.py` (appelé automatiquement en fin de
+`pdfkb similarity build`, ou régénérable seul via `scripts/build_doc_type_profiles.py`).
+Pour chaque `doc_type`, calcule sur le texte OCR de tous ses documents : nombre de
+documents/extraits, score qualité moyen, langues, et la fraction de documents où des
+marqueurs rhétoriques/structurels apparaissent (préambule « pleins pouvoirs », « Hautes
+Parties contractantes », « Considérant que », formule « Le/Les soussigné(s) …
+déclare(nt) », « sont convenus … », désignation « le Gouvernement de … », structure en
+articles numérotés avec moyenne d'articles/document, « En foi de quoi », « Fait à … le
+… », ratification, entrée en vigueur, dénonciation), plus 2-3 extraits réels
+(préambule/clôture) par type et une narration française générée automatiquement à
+partir de ces chiffres (`narrative_fr`). Objectif : donner à un LLM (ou un humain) des
+faits mesurés sur le corpus — pas une impression qualitative — pour répondre à des
+questions du type « compare les types de documents (traité, accord, déclaration) et
+dis-moi s'il y a des différences de forme/rédaction » (voir `scripts/rag_ask.py` et
+`platform/site/worker/ask.ts`, qui consomment ce fichier en mode « comparaison de
+types »). Approche heuristique par expressions régulières sur texte OCR normalisé : à
+ne pas confondre avec une annotation juridique validée humainement (cf. les points de
+vigilance de `PROJECT_STATUS.md`). Copié tel quel dans `outputs_v2/release/` par
+`scripts/build_release_tables.py`, puis publié en version allégée (sans le détail des
+marqueurs) dans `platform/site/public/data/doc_type_profiles.json` par
+`platform/scripts/build_site_data.py`.

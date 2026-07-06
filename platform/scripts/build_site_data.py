@@ -120,6 +120,46 @@ def load_release(release: Path) -> tuple[list[dict[str, Any]], list[dict[str, An
   return documents, pages, chunks, edges, graph
 
 
+def load_doc_type_profiles(release: Path) -> dict[str, Any] | None:
+  path = first_existing([release / "doc_type_profiles.json", release / "similarity" / "doc_type_profiles.json"])
+  if not path:
+    return None
+  return json.loads(path.read_text(encoding="utf-8"))
+
+
+# Public copy for the site/worker: keeps the aggregate stats and narrative (the
+# whole point — grounded, corpus-wide facts about how each doc_type is drafted)
+# but trims the per-document sample excerpts so the asset stays small enough to
+# fetch cheaply from a Cloudflare Worker (see platform/site/worker/ask.ts).
+def build_public_doc_type_profiles(profiles: dict[str, Any], max_samples: int = 2, sample_chars: int = 220) -> dict[str, Any]:
+  public_types: dict[str, Any] = {}
+  for label, profile in (profiles.get("types") or {}).items():
+    trimmed_openings = [
+      {**sample, "excerpt": compact_text(sample.get("excerpt"), sample_chars)}
+      for sample in (profile.get("sample_openings") or [])[:max_samples]
+    ]
+    public_types[label] = {
+      "label": profile.get("label"),
+      "instrument_type": profile.get("instrument_type"),
+      "legal_force": profile.get("legal_force"),
+      "n_documents": profile.get("n_documents"),
+      "n_chunks": profile.get("n_chunks"),
+      "low_sample_warning": profile.get("low_sample_warning"),
+      "avg_quality_score": profile.get("avg_quality_score"),
+      "narrative_fr": profile.get("narrative_fr"),
+      "sample_openings": trimmed_openings,
+    }
+  return {
+    "schema_version": profiles.get("schema_version"),
+    "generated_at": profiles.get("generated_at"),
+    "method": profiles.get("method"),
+    "min_documents_for_reliable_stats": profiles.get("min_documents_for_reliable_stats"),
+    "n_documents_total": profiles.get("n_documents_total"),
+    "n_chunks_total": profiles.get("n_chunks_total"),
+    "types": public_types,
+  }
+
+
 def build_similarity(edges: list[dict[str, Any]], chunks: list[dict[str, Any]], titles: dict[str, str]) -> dict[str, list[dict[str, Any]]]:
   chunk_to_doc = {row.get("chunk_id"): row.get("document_id") for row in chunks if row.get("chunk_id")}
   best: dict[tuple[str, str], dict[str, Any]] = {}
@@ -242,6 +282,7 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
   release = Path(args.release)
   site = Path(args.site)
   documents, pages, chunks, edges, graph = load_release(release)
+  doc_type_profiles = load_doc_type_profiles(release)
   documents = documents[: args.max_documents]
   selected_ids = {row.get("document_id") for row in documents}
   pages_by_doc: dict[str, list[dict[str, Any]]] = defaultdict(list)
@@ -381,6 +422,7 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
     "graph_node_count": len(graph_reduced.get("nodes", [])),
     "graph_edge_count": len(graph_reduced.get("edges", [])),
     "pipeline_version": documents[0].get("pipeline_version") if documents else None,
+    "doc_type_profiles": len(doc_type_profiles.get("types") or {}) if doc_type_profiles else 0,
   }
 
   write_json(site / "manifest.json", manifest)
@@ -399,6 +441,8 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
     },
   )
   write_json(site / "graph.sigma.json", graph_reduced)
+  if doc_type_profiles:
+    write_json(site / "doc_type_profiles.json", build_public_doc_type_profiles(doc_type_profiles))
   return manifest
 
 
