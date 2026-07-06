@@ -1,5 +1,88 @@
 # Lexis Mollis — statut de déploiement
 
+Quatrième mise à jour du 2026-07-06 (Claude) : relais multi-machines, sans accès Cloudflare
+requis pour qui l'exécute. L'utilisateur veut qu'un ami puisse faire tourner le relais depuis
+son propre ordinateur (même token OpenCode) avec une seule commande, sans lui donner accès au
+compte Cloudflare. Auparavant, `run_relay_stack.sh` appelait `npx wrangler secret put RELAY_URL`
+— nécessitait d'être authentifié sur le compte Cloudflare de l'utilisateur, donc impossible à
+partager tel quel. Changement : nouvel endpoint `POST /api/relay/register` sur le Worker
+(`platform/site/worker/ask.ts`), protégé par `RELAY_SHARED_SECRET` (secret Worker déjà existant,
+moins sensible que la clé OpenCode — partageable). Le relais qui s'enregistre le plus récemment
+(champ `RELAY_STATE`, binding KV Cloudflare, clé `active_relay`, horodaté) devient le backend
+actif ; une entrée de plus de 10 min (`RELAY_STALE_MS`) est considérée hors ligne plutôt que
+d'essayer une URL morte. `run_relay_stack.sh` ne fait plus qu'un `curl` vers cet endpoint après
+avoir détecté l'URL du tunnel — aucune dépendance Cloudflare/wrangler pour qui exécute le script,
+seulement `python3`, `pip install requests` et `cloudflared`. Le script ne dépend plus non plus du
+`.venv` complet du projet (`scripts/llm_relay.py` n'a besoin que de la stdlib + `requests`) — donc
+un ami n'a besoin que de deux fichiers (`llm_relay.py`, `run_relay_stack.sh`), pas de tout le
+dépôt. Ordre de résolution du backend dans `ask.ts` : KV (`RELAY_STATE`, dynamique, multi-
+machines) → secret statique `RELAY_URL` (ancien mode mono-machine, conservé pour compatibilité)
+→ appel direct `OPENCODE_API_KEY` (probablement throttlé) → message d'erreur explicite.
+Reste à faire par l'utilisateur (hors d'atteinte d'un agent sandboxé — nécessite son compte
+Cloudflare) :
+```bash
+npx wrangler kv namespace create RELAY_STATE
+# coller l'id imprimé dans wrangler.jsonc ET platform/site/wrangler.jsonc (placeholder
+# REPLACE_WITH_KV_NAMESPACE_ID dans les deux fichiers)
+cd platform/site && npm run build && npx wrangler deploy
+```
+`RELAY_SHARED_SECRET` reste le même qu'avant (déjà posé comme secret Worker) — c'est cette même
+valeur qu'il faut donner à quiconque doit pouvoir exécuter `run_relay_stack.sh` (avec sa propre
+copie de `OPENCODE_API_KEY`, ou la même si elle est explicitement partagée). Testé dans le sandbox
+avec un faux serveur imitant le Worker (autorisation 401 sur mauvais secret, enregistrement 200 sur
+bon secret, valeur transmise correctement) ; la création réelle du namespace KV et le déploiement
+restent à faire par l'utilisateur.
+
+Troisième mise à jour du 2026-07-06 (Claude) : automatisation complète du relais résidentiel.
+L'utilisateur a explicitement refusé de passer à Cloudflare Workers AI (qui aurait supprimé toute
+dépendance à sa machine mais changé de modèle par rapport à `big-pickle`/OpenCode Zen) et refusé
+de devoir manuellement ouvrir des terminaux à chaque fois. Solution : `scripts/
+run_relay_stack.sh`, orchestrateur qui lance `scripts/llm_relay.py` + `cloudflared tunnel` et
+met à jour lui-même le secret Worker `RELAY_URL` à chaque nouvelle URL `*.trycloudflare.com`
+(parsée depuis le log du tunnel, `wrangler secret put RELAY_URL` appelé automatiquement via
+stdin) — plus besoin de copier-coller l'URL manuellement à chaque redémarrage. `scripts/
+com.lexismollis.relay.plist` : agent `launchd` macOS qui démarre ce script à la connexion et le
+relance s'il plante (`KeepAlive`), pour un fonctionnement permanent sans terminal ouvert au
+quotidien (la machine doit rester allumée et connectée — c'est le compromis assumé pour garder
+OpenCode Zen/`big-pickle` plutôt que Workers AI). Logs dans `~/Library/Logs/lexis-mollis-relay/`.
+Testé dans le sandbox avec de faux `cloudflared`/`npx wrangler` (parsing d'URL, appel de
+`wrangler secret put` avec la bonne valeur, déduplication pour ne pas rappeler à chaque itération
+de la boucle) ; l'installation réelle du launchd agent et le premier tunnel réel restent à faire
+par l'utilisateur (hors d'atteinte d'un agent sandboxé — nécessite son compte Homebrew/
+Cloudflare/macOS). `RELAY_SHARED_SECRET` reste un secret fixe à poser une seule fois
+manuellement (il ne change pas comme `RELAY_URL`, donc pas besoin de l'automatiser).
+
+Seconde mise à jour du 2026-07-06 (Claude) : relais résidentiel pour contourner le throttling
+Cloudflare d'OpenCode Zen documenté ci-dessous. Après avoir configuré `OPENCODE_API_KEY` comme
+secret Worker, l'appel direct depuis `/assistant/` reste probablement bloqué par
+`FreeUsageLimitError` (IP Workers throttlée, pas la clé). Nouveau `scripts/llm_relay.py` : petit
+serveur HTTP (stdlib + `requests` uniquement, aucune dépendance supplémentaire) tournant sur une
+machine résidentielle, exposé publiquement via un tunnel Cloudflare (`cloudflared tunnel --url
+http://127.0.0.1:8799`, tunnel éphémère sans domaine requis). La clé OpenCode ne quitte jamais
+cette machine — elle n'est plus un secret Cloudflare dans ce mode ; le Worker authentifie ses
+requêtes vers le relais avec un secret différent (`RELAY_SHARED_SECRET`). `platform/site/worker/
+ask.ts` essaie `RELAY_URL`/`RELAY_SHARED_SECRET` en priorité, puis retombe sur l'appel direct
+(`OPENCODE_API_KEY`) si le relais n'est pas configuré — aucune régression pour qui n'a pas encore
+mis en place le relais. Testé en local dans le sandbox avec un faux serveur OpenCode (vérifie
+auth 401, validation 400, transmission correcte du modèle/de la clé, réponse 200) ; le tunnel et
+l'appel réel à OpenCode Zen restent à vérifier en conditions réelles par l'utilisateur.
+Configuration à faire par l'utilisateur (nécessite sa machine + son compte Cloudflare, hors
+d'atteinte d'un agent sandboxé) :
+```bash
+export OPENCODE_API_KEY=...
+export RELAY_SHARED_SECRET=$(python3 -c "import secrets; print(secrets.token_hex(24))")
+.venv/bin/python scripts/llm_relay.py &
+cloudflared tunnel --url http://127.0.0.1:8799   # imprime https://xxxx.trycloudflare.com
+cd platform/site
+npx wrangler secret put RELAY_URL                # coller .../ask
+npx wrangler secret put RELAY_SHARED_SECRET      # coller la même valeur que ci-dessus
+```
+Point de vigilance : ce mode exige que la machine et `cloudflared` restent actifs pour que
+`/assistant/` fonctionne en production ; l'URL `trycloudflare.com` change à chaque redémarrage du
+tunnel (secret `RELAY_URL` à remettre à jour en conséquence). Choix délibéré de l'utilisateur
+(plutôt que changer de modèle ou rester local uniquement) pour garder `big-pickle` gratuit sans
+exposer la clé OpenCode à Cloudflare.
+
 Mise à jour du 2026-07-06 (Claude) : amélioration du graphe de similarité pour que l'assistant
 gratuit (`scripts/rag_ask.py`, `/assistant/`) puisse répondre précisément à des questions
 comparatives comme « compare les types de documents (traité, accord, déclaration) et dis-moi

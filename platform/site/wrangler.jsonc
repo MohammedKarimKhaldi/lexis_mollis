@@ -8,6 +8,15 @@
     "binding": "ASSETS",
     "not_found_handling": "single-page-application"
   },
+  // Same KV binding as the root wrangler.jsonc (kept in sync — see that file's
+  // comment) so the assistant's active relay works no matter which config
+  // deploys the Worker.
+  "kv_namespaces": [
+    {
+      "binding": "RELAY_STATE",
+      "id": "85b799fdebab4e23ad093bb38ade25b1"
+    }
+  ],
   "observability": {
     "enabled": true
   }

@@ -10,8 +10,24 @@
 // connection (scripts/rag_ask.py) works — i.e. OpenCode Zen is throttling
 // Cloudflare Workers' shared egress IP range specifically, not the account.
 // Sending explicit browser-like headers below in case that's read as a bot
-// signal on their side; if this still gets throttled, the fix has to change
-// the network path (proxy/relay), not the request itself.
+// signal on their side; that alone didn't fix it, so the actual fix changes
+// the network path: requests go to `scripts/llm_relay.py` — a tiny server on
+// ANY residential machine (yours, a friend's, a Raspberry Pi — whoever is
+// currently running `scripts/run_relay_stack.sh`), reached through a
+// Cloudflare Tunnel — which then calls OpenCode Zen from that residential IP
+// instead of Cloudflare's. The OpenCode API key lives only on that machine,
+// never as a Cloudflare secret.
+//
+// Whoever runs the relay doesn't need Cloudflare account access: their
+// script self-registers its current tunnel URL with this Worker by calling
+// POST /api/relay/register (authenticated with RELAY_SHARED_SECRET, a lower-
+// stakes secret than the OpenCode key — safe to hand to a friend), which
+// stores it in the RELAY_STATE KV binding. Whoever registered most recently
+// (within RELAY_STALE_MS) is used — so it works from any machine currently
+// running the relay, without redeploying or touching `wrangler secret`.
+// Falls back to the static `RELAY_URL` secret (legacy, single-machine setup)
+// and then to the direct call (`OPENCODE_API_KEY`) if neither relay path is
+// configured, for setups where the direct call isn't throttled.
 //
 // Deliberately NOT using a full-text search library (e.g. MiniSearch) here:
 // tokenizing/indexing the whole corpus, or even just parsing+compiling that
@@ -34,14 +50,33 @@
 // ASSETS.fetch, no extra CPU-heavy parsing, so it stays within the Workers
 // free-plan budget same as the ask index.
 
+// Minimal structural type for a Workers KV binding — avoids adding
+// @cloudflare/workers-types as a devDependency just for this.
+interface KVNamespaceLike {
+  get(key: string): Promise<string | null>;
+  put(key: string, value: string): Promise<void>;
+}
+
 export interface Env {
   ASSETS: Fetcher;
   OPENCODE_API_KEY?: string;
+  // Dynamic, multi-machine path (see module header comment): whichever
+  // relay last called POST /api/relay/register has its URL stored here.
+  RELAY_STATE?: KVNamespaceLike;
+  // Legacy/manual path: a fixed residential relay URL set once via
+  // `wrangler secret put RELAY_URL`, e.g. "https://xxxx.trycloudflare.com/ask".
+  // Only used if RELAY_STATE has no fresh registration.
+  RELAY_URL?: string;
+  RELAY_SHARED_SECRET?: string;
 }
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
 const API_MODEL = "big-pickle";
 const MAX_HITS = 6;
+const RELAY_STATE_KEY = "active_relay";
+// A relay that hasn't re-registered in this long is assumed offline (its
+// machine went to sleep, the tunnel died, ...) rather than trying a dead URL.
+const RELAY_STALE_MS = 10 * 60 * 1000;
 
 const SYSTEM_PROMPT =
   "Tu es un assistant de recherche qui répond STRICTEMENT à partir des extraits de documents " +
@@ -212,7 +247,7 @@ function buildProfileBlock(label: string, profile: DocTypeProfile): string {
   return lines.join("\n");
 }
 
-async function askLLM(question: string, context: string, apiKey: string): Promise<string> {
+async function askLLMDirect(question: string, context: string, apiKey: string): Promise<string> {
   const response = await fetch(API_URL, {
     method: "POST",
     headers: {
@@ -237,6 +272,63 @@ async function askLLM(question: string, context: string, apiKey: string): Promis
   }
   const data = (await response.json()) as { choices?: { message?: { content?: string } }[] };
   return data.choices?.[0]?.message?.content ?? "";
+}
+
+// Reads whichever relay most recently self-registered via /api/relay/register
+// (see handleRelayRegister), ignoring stale entries — an offline relay that
+// registered an hour ago shouldn't be tried forever.
+async function getActiveRelayUrl(env: Env): Promise<string | null> {
+  if (!env.RELAY_STATE) return null;
+  const raw = await env.RELAY_STATE.get(RELAY_STATE_KEY);
+  if (!raw) return null;
+  try {
+    const state = JSON.parse(raw) as { url?: string; updatedAt?: number };
+    if (!state.url || typeof state.updatedAt !== "number") return null;
+    if (Date.now() - state.updatedAt > RELAY_STALE_MS) return null;
+    return state.url;
+  } catch {
+    return null;
+  }
+}
+
+async function handleRelayRegister(request: Request, env: Env): Promise<Response> {
+  if (!env.RELAY_STATE) {
+    return Response.json({ error: "RELAY_STATE (KV binding) n'est pas configuré côté serveur." }, { status: 500 });
+  }
+  if (!env.RELAY_SHARED_SECRET || request.headers.get("X-Relay-Secret") !== env.RELAY_SHARED_SECRET) {
+    return Response.json({ error: "unauthorized" }, { status: 401 });
+  }
+  let url = "";
+  try {
+    const body = (await request.json()) as { url?: string };
+    url = (body.url || "").trim();
+  } catch {
+    return Response.json({ error: "invalid JSON body" }, { status: 400 });
+  }
+  if (!/^https:\/\/.+/.test(url)) {
+    return Response.json({ error: "missing or invalid 'url'" }, { status: 400 });
+  }
+  await env.RELAY_STATE.put(RELAY_STATE_KEY, JSON.stringify({ url, updatedAt: Date.now() }));
+  return Response.json({ ok: true, url });
+}
+
+// Preferred path — see module header comment. `relayUrl` is the full /ask URL
+// of scripts/llm_relay.py, exposed through a Cloudflare Tunnel. The relay adds
+// the SYSTEM_PROMPT and calls OpenCode Zen itself (from a residential IP), so
+// only the raw question + context need to travel over the tunnel.
+async function askLLMViaRelay(question: string, context: string, relayUrl: string, sharedSecret: string): Promise<string> {
+  const response = await fetch(relayUrl, {
+    method: "POST",
+    headers: { "Content-Type": "application/json", "X-Relay-Secret": sharedSecret },
+    body: JSON.stringify({ question, context })
+  });
+  if (!response.ok) {
+    const body = await response.text();
+    throw new Error(`Relay ${response.status}: ${body.slice(0, 300)}`);
+  }
+  const data = (await response.json()) as { answer?: string; error?: string };
+  if (data.error) throw new Error(data.error);
+  return data.answer ?? "";
 }
 
 async function handleAsk(request: Request, env: Env, origin: string): Promise<Response> {
@@ -298,16 +390,31 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
     score: hit.score
   }));
 
+  const relayUrl = (await getActiveRelayUrl(env)) || env.RELAY_URL;
+  if (relayUrl && env.RELAY_SHARED_SECRET) {
+    try {
+      const answer = await askLLMViaRelay(query, context, relayUrl, env.RELAY_SHARED_SECRET);
+      return Response.json({ answer, sources });
+    } catch (error) {
+      return Response.json(
+        { answer: null, sources, error: error instanceof Error ? error.message : String(error) },
+        { status: 502 }
+      );
+    }
+  }
+
   if (!env.OPENCODE_API_KEY) {
     return Response.json({
       answer: null,
       sources,
-      error: "La clé OPENCODE_API_KEY n'est pas configurée côté serveur (wrangler secret put OPENCODE_API_KEY)."
+      error:
+        "Aucun relais actif (voir scripts/run_relay_stack.sh) et OPENCODE_API_KEY n'est pas non " +
+        "plus configuré côté serveur (wrangler secret put ...)."
     });
   }
 
   try {
-    const answer = await askLLM(query, context, env.OPENCODE_API_KEY);
+    const answer = await askLLMDirect(query, context, env.OPENCODE_API_KEY);
     return Response.json({ answer, sources });
   } catch (error) {
     return Response.json(
@@ -325,6 +432,12 @@ export default {
         return new Response("Method Not Allowed", { status: 405 });
       }
       return handleAsk(request, env, url.origin);
+    }
+    if (url.pathname === "/api/relay/register") {
+      if (request.method !== "POST") {
+        return new Response("Method Not Allowed", { status: 405 });
+      }
+      return handleRelayRegister(request, env);
     }
     return env.ASSETS.fetch(request);
   }

@@ -8,6 +8,17 @@
     "binding": "ASSETS",
     "not_found_handling": "single-page-application"
   },
+  // Stores which relay (scripts/run_relay_stack.sh, running on whoever's
+  // machine is currently on) is active, so the Worker doesn't need a
+  // redeploy/wrangler-secret-update every time a different machine takes
+  // over. One-time setup: `npx wrangler kv namespace create RELAY_STATE`,
+  // then paste the printed id below (same id in platform/site/wrangler.jsonc).
+  "kv_namespaces": [
+    {
+      "binding": "RELAY_STATE",
+      "id": "85b799fdebab4e23ad093bb38ade25b1"
+    }
+  ],
   "observability": {
     "enabled": true
   }

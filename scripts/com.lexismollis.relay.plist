@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+launchd agent that keeps scripts/run_relay_stack.sh (relay + cloudflared tunnel
++ auto-updating RELAY_URL) running in the background, starting at login and
+restarting automatically if it ever crashes. Install with:
+
+  cp "scripts/com.lexismollis.relay.plist" ~/Library/LaunchAgents/
+  launchctl load ~/Library/LaunchAgents/com.lexismollis.relay.plist
+
+Uninstall / stop permanently with:
+
+  launchctl unload ~/Library/LaunchAgents/com.lexismollis.relay.plist
+  rm ~/Library/LaunchAgents/com.lexismollis.relay.plist
+
+Logs land in ~/Library/Logs/lexis-mollis-relay/ (relay.log, tunnel.log,
+wrangler.log, plus this file's own stdout/stderr below) — check those first
+if the assistant on the site stops answering.
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.lexismollis.relay</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/mohammed-karimkhaldi/Local Documents/Codes/Python/Reda/Traitements Fichiers/scripts/run_relay_stack.sh</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/Users/mohammed-karimkhaldi/Library/Logs/lexis-mollis-relay/launchd-stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/mohammed-karimkhaldi/Library/Logs/lexis-mollis-relay/launchd-stderr.log</string>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    </dict>
+</dict>
+</plist>
