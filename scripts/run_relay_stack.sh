@@ -77,9 +77,16 @@ cloudflared tunnel --url http://127.0.0.1:8799 >>"$LOG_DIR/tunnel.log" 2>&1 &
 TUNNEL_PID=$!
 
 LAST_URL=""
+LAST_REGISTER_EPOCH=0
+# Must be well under the Worker's RELAY_STALE_MS (10 minutes, ask.ts) so a
+# still-healthy relay never gets treated as offline just because its tunnel
+# URL hasn't changed -- registration is otherwise a one-time event per URL,
+# and a stable tunnel keeps the same URL indefinitely.
+HEARTBEAT_INTERVAL_SECONDS="${LEXIS_RELAY_HEARTBEAT_SECONDS:-240}"
 while kill -0 "$RELAY_PID" 2>/dev/null && kill -0 "$TUNNEL_PID" 2>/dev/null; do
   URL=$(grep -Eo 'https://[a-zA-Z0-9.-]+\.trycloudflare\.com' "$LOG_DIR/tunnel.log" 2>/dev/null | tail -1 || true)
-  if [[ -n "$URL" && "$URL" != "$LAST_URL" ]]; then
+  NOW_EPOCH=$(date +%s)
+  if [[ -n "$URL" ]] && { [[ "$URL" != "$LAST_URL" ]] || (( NOW_EPOCH - LAST_REGISTER_EPOCH >= HEARTBEAT_INTERVAL_SECONDS )); }; then
     echo "[stack] tunnel URL: $URL -- registering with $SITE_URL" >&2
     HTTP_STATUS=$(curl -s -o "$LOG_DIR/register_response.json" -w '%{http_code}' \
       -X POST "$SITE_URL/api/relay/register" \
@@ -88,6 +95,7 @@ while kill -0 "$RELAY_PID" 2>/dev/null && kill -0 "$TUNNEL_PID" 2>/dev/null; do
       -d "{\"url\": \"$URL/ask\"}" 2>>"$LOG_DIR/register.log" || echo "curl_failed")
     if [[ "$HTTP_STATUS" == "200" ]]; then
       LAST_URL="$URL"
+      LAST_REGISTER_EPOCH=$NOW_EPOCH
       echo "[stack] registered successfully as the active relay." >&2
     else
       echo "[stack] registration failed (HTTP $HTTP_STATUS) -- see $LOG_DIR/register_response.json and $LOG_DIR/register.log" >&2

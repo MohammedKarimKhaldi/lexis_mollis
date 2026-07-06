@@ -1,5 +1,21 @@
 # Lexis Mollis — statut de déploiement
 
+Cinquième mise à jour du 2026-07-06 (Claude) : correctif de péremption du relais. Bug trouvé en
+conditions réelles : `run_relay_stack.sh` n'enregistrait l'URL du tunnel qu'une seule fois, à sa
+première détection — un tunnel stable garde la même URL indéfiniment, donc l'horodatage stocké
+dans `RELAY_STATE` (KV) n'était jamais rafraîchi, et au bout de `RELAY_STALE_MS` (10 min, `ask.ts`)
+le Worker traitait un relais parfaitement fonctionnel comme hors ligne. Correctif : la boucle
+ré-enregistre désormais aussi en heartbeat toutes les `HEARTBEAT_INTERVAL_SECONDS` (240 s par
+défaut, largement sous les 10 min, surchageable via `LEXIS_RELAY_HEARTBEAT_SECONDS`), pas
+seulement quand l'URL change. Testé dans le sandbox avec un intervalle raccourci (6 s) sur une
+fenêtre de 20 s : 2 enregistrements confirmés, prouvant le heartbeat. Autres incidents résolus en
+conditions réelles pendant ce déploiement : compte Cloudflare local (`wrangler login`) différent
+du compte propriétaire du Worker (`wrangler whoami` vs l'id de compte dans les erreurs de déploi) ;
+processus orphelins du relais/tunnel survivant à la mort du script orchestrateur (terminal fermé
+sans passer par le trap `EXIT`) ; `python3` résolu différemment sous `launchd` (PATH minimal, sans
+les fichiers de profil du shell) que dans un terminal interactif, faisant échouer `import requests`
+tant que le bon interpréteur n'a pas le paquet installé. Tous documentés ici pour référence future.
+
 Quatrième mise à jour du 2026-07-06 (Claude) : relais multi-machines, sans accès Cloudflare
 requis pour qui l'exécute. L'utilisateur veut qu'un ami puisse faire tourner le relais depuis
 son propre ordinateur (même token OpenCode) avec une seule commande, sans lui donner accès au
