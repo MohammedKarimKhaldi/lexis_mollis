@@ -73,7 +73,13 @@ RELAY_PID=$!
 
 echo "[stack] starting cloudflared tunnel..." >&2
 : > "$LOG_DIR/tunnel.log"
-cloudflared tunnel --url http://127.0.0.1:8799 >>"$LOG_DIR/tunnel.log" 2>&1 &
+# --protocol http2 (TCP-based) instead of the default QUIC (UDP-based): some
+# networks/routers/ISPs throttle or interfere with UDP, which shows up as
+# repeated "control stream encountered a failure" / reconnect loops in
+# tunnel.log even though the tunnel URL itself was created successfully.
+# HTTP/2 is slightly higher-latency but far more reliable on those networks.
+# Override with LEXIS_TUNNEL_PROTOCOL=quic to go back to the default.
+cloudflared tunnel --protocol "${LEXIS_TUNNEL_PROTOCOL:-http2}" --url http://127.0.0.1:8799 >>"$LOG_DIR/tunnel.log" 2>&1 &
 TUNNEL_PID=$!
 
 LAST_URL=""
