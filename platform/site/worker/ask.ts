@@ -312,6 +312,58 @@ async function handleRelayRegister(request: Request, env: Env): Promise<Response
   return Response.json({ ok: true, url });
 }
 
+// Diagnostic-only: reports exactly what the read path (getActiveRelayUrl)
+// sees, including the raw KV value and computed staleness, so registration
+// (write-side) and lookup (read-side) issues can be told apart instead of
+// guessed at. Not authenticated -- it doesn't reveal anything beyond the
+// relay's own tunnel URL, which is not itself a secret.
+async function handleRelayStatus(env: Env): Promise<Response> {
+  // Booleans only (never the secret values themselves) -- this is what
+  // actually gates the relay branch in handleAsk: `relayUrl &&
+  // env.RELAY_SHARED_SECRET`. If RELAY_SHARED_SECRET is false here despite
+  // registration succeeding, that's the whole bug: the write path only needs
+  // the secret to *authenticate the register call*, but the read path
+  // (handleAsk) separately needs the SAME secret bound as a Worker secret on
+  // *this* deployment to actually use the relay -- two different deploy
+  // targets (root wrangler.jsonc vs platform/site/wrangler.jsonc) or two
+  // different Cloudflare accounts can easily end up with the secret set on
+  // one and not the other.
+  const secretsPresent = {
+    RELAY_SHARED_SECRET: Boolean(env.RELAY_SHARED_SECRET),
+    OPENCODE_API_KEY: Boolean(env.OPENCODE_API_KEY)
+  };
+  if (!env.RELAY_STATE) {
+    return Response.json({ configured: false, reason: "RELAY_STATE binding missing", secretsPresent });
+  }
+  const raw = await env.RELAY_STATE.get(RELAY_STATE_KEY);
+  if (!raw) {
+    return Response.json({ configured: true, registered: false, raw: null, secretsPresent });
+  }
+  let parsed: { url?: string; updatedAt?: number } | null = null;
+  try {
+    parsed = JSON.parse(raw);
+  } catch {
+    return Response.json({ configured: true, registered: false, raw, parseError: true, secretsPresent });
+  }
+  const ageMs = parsed?.updatedAt ? Date.now() - parsed.updatedAt : null;
+  const activeUrlWouldBe = await getActiveRelayUrl(env);
+  return Response.json({
+    configured: true,
+    registered: true,
+    raw,
+    url: parsed?.url ?? null,
+    updatedAt: parsed?.updatedAt ?? null,
+    ageSeconds: ageMs !== null ? Math.round(ageMs / 1000) : null,
+    staleMsThreshold: RELAY_STALE_MS,
+    stale: ageMs !== null ? ageMs > RELAY_STALE_MS : null,
+    activeUrlWouldBe,
+    secretsPresent,
+    // This mirrors handleAsk's exact gating condition -- if this is false
+    // despite activeUrlWouldBe being set, RELAY_SHARED_SECRET is the bug.
+    wouldUseRelay: Boolean(activeUrlWouldBe && env.RELAY_SHARED_SECRET)
+  });
+}
+
 // Preferred path — see module header comment. `relayUrl` is the full /ask URL
 // of scripts/llm_relay.py, exposed through a Cloudflare Tunnel. The relay adds
 // the SYSTEM_PROMPT and calls OpenCode Zen itself (from a residential IP), so
@@ -438,6 +490,9 @@ export default {
         return new Response("Method Not Allowed", { status: 405 });
       }
       return handleRelayRegister(request, env);
+    }
+    if (url.pathname === "/api/relay/status") {
+      return handleRelayStatus(env);
     }
     return env.ASSETS.fetch(request);
   }
