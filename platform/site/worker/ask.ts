@@ -70,6 +70,15 @@ export interface Env {
   RELAY_SHARED_SECRET?: string;
 }
 
+// Minimal structural type for the Workers ExecutionContext -- same reasoning
+// as KVNamespaceLike above. Needed so /api/ask's streamed response (see
+// handleAsk) can keep running the retrieval+LLM work via ctx.waitUntil after
+// the Response (backed by the stream's readable half) has already been
+// returned to the caller.
+interface ExecutionContextLike {
+  waitUntil(promise: Promise<unknown>): void;
+}
+
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
 const DEFAULT_MODEL = "big-pickle";
 // Free (no-cost) OpenCode Zen models -- kept in sync by hand against
@@ -607,22 +616,48 @@ function expandViaGraph(
   return candidates.slice(0, Math.max(0, limit));
 }
 
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+const CALL_MODEL_MAX_RETRIES = 2;
+const CALL_MODEL_RETRY_DELAY_MS = 600;
+
 // Single entry point for "call the model, however that's currently wired up"
 // -- relay (preferred, see module header) falling back to the direct call,
 // throwing if neither is configured. Used by generateAnswer both for the
 // plain single-call path and, repeatedly, inside the map-reduce path below,
 // so the relay/direct/error-message logic exists in exactly one place.
+//
+// Retries transient failures (network blip, a momentary 5xx from OpenCode
+// Zen, ...) a couple of times with backoff before giving up -- map-reduce
+// over a large type makes many sequential calls (e.g. 14 for "Autre"), so
+// without this, one flaky call out of many would throw away all the
+// batches that already succeeded (see generateAnswer's partial-answer
+// fallback for what happens if it still fails after retrying). Does NOT
+// retry the "not configured at all" error -- that's not transient, retrying
+// just delays showing the real fix to the person.
 async function callModel(env: Env, question: string, context: string, model: string): Promise<string> {
-  const relayUrl = (await getActiveRelayUrl(env)) || env.RELAY_URL;
-  if (relayUrl && env.RELAY_SHARED_SECRET) {
-    return askLLMViaRelay(question, context, relayUrl, env.RELAY_SHARED_SECRET, model);
+  let lastError: unknown;
+  for (let attempt = 0; attempt <= CALL_MODEL_MAX_RETRIES; attempt++) {
+    try {
+      const relayUrl = (await getActiveRelayUrl(env)) || env.RELAY_URL;
+      if (relayUrl && env.RELAY_SHARED_SECRET) {
+        return await askLLMViaRelay(question, context, relayUrl, env.RELAY_SHARED_SECRET, model);
+      }
+      if (!env.OPENCODE_API_KEY) {
+        throw new Error(
+          "Aucun relais actif (voir scripts/run_relay_stack.sh) et OPENCODE_API_KEY n'est pas non plus configuré côté serveur (wrangler secret put ...)."
+        );
+      }
+      return await askLLMDirect(question, context, env.OPENCODE_API_KEY, model);
+    } catch (error) {
+      lastError = error;
+      if (error instanceof Error && error.message.startsWith("Aucun relais actif")) throw error;
+      if (attempt < CALL_MODEL_MAX_RETRIES) await sleep(CALL_MODEL_RETRY_DELAY_MS * (attempt + 1));
+    }
   }
-  if (!env.OPENCODE_API_KEY) {
-    throw new Error(
-      "Aucun relais actif (voir scripts/run_relay_stack.sh) et OPENCODE_API_KEY n'est pas non plus configuré côté serveur (wrangler secret put ...)."
-    );
-  }
-  return askLLMDirect(question, context, env.OPENCODE_API_KEY, model);
+  throw lastError;
 }
 
 // Above this many documents in one call's context, switch from a single LLM
@@ -633,33 +668,90 @@ async function callModel(env: Env, question: string, context: string, model: str
 // far fewer documents than this) at exactly one call, unchanged from before.
 const MAP_REDUCE_BATCH_SIZE = 60;
 
-// Produces the final answer text for a fully-retrieved set of documents.
-// Below MAP_REDUCE_BATCH_SIZE documents, this is exactly the old behaviour:
-// one call with the whole context. Above it -- which only happens for named
-// types large enough that ALL of their documents (no cap, see the retrieval
-// loop in handleAsk) wouldn't fit in one call's context window -- this splits
-// the documents into batches, asks the model for concise notes per batch
-// (sequential, not parallel: avoids concurrent requests tripping OpenCode
-// Zen's free-tier rate limiting), then makes one final call synthesising all
-// batches' notes into a single coherent answer. Every document retrieved is
-// still used; this only changes how many LLM round-trips answering the
-// question takes.
-async function generateAnswer(
+// How many LLM round-trips generateAnswer will make for `hitCount`
+// documents -- exported as its own function (not just computed inline
+// inside generateAnswer) so handleAsk can announce the total step count to
+// the client via a `start` progress event *before* generateAnswer begins
+// making calls, letting the progress bar size itself correctly from the
+// first event instead of growing/guessing as batches arrive.
+function totalAnswerSteps(hitCount: number): number {
+  if (hitCount <= MAP_REDUCE_BATCH_SIZE) return 1;
+  return Math.ceil(hitCount / MAP_REDUCE_BATCH_SIZE) + 1; // + 1 final synthesis call
+}
+
+// Reports one step of progress (1-indexed) out of `totalAnswerSteps(...)`,
+// with a short human label for that step. Awaited so the caller (handleAsk)
+// can flush it to the client stream before the (potentially slow) LLM call
+// for that step actually starts, keeping the bar honestly in sync rather
+// than jumping several steps at once.
+type ProgressReporter = (step: number, totalSteps: number, label: string) => Promise<void>;
+
+// Everything a client needs to send back, verbatim, to resume a partially
+// failed map-reduce answer without redoing the batches that already
+// succeeded (see runMapReduceBatches). The Worker itself keeps no session
+// state between requests -- this bundle IS the state, round-tripped through
+// the client instead of a KV/Durable Object session store.
+interface ContinuationBundle {
+  query: string;
+  model: string;
+  profileBlocks: string[];
+  degradedNotice?: string;
+  remainingHits: SearchHit[];
+  remainingDetails: (DocDetail | null)[];
+  completedPartials: string[];
+  totalSteps: number;
+}
+
+interface AnswerResult {
+  answer: string;
+  // True when one or more batches failed even after callModel's own
+  // retries, and this answer was assembled from whatever batches DID
+  // succeed rather than the full document set -- see runMapReduceBatches.
+  // The caller (runAsk) surfaces this on the `done` event instead of
+  // silently presenting a partial answer as a complete one.
+  partial: boolean;
+  completedSteps: number;
+  totalSteps: number;
+  failureNote?: string;
+  // Present only when partial is true: hand this back as `continuation` in
+  // a follow-up /api/ask request (see handleAsk's resume branch) to retry
+  // just the failed batch onward, instead of redoing everything.
+  continuation?: ContinuationBundle;
+}
+
+// Shared core of the map-reduce path, used both for a fresh request (see
+// generateAnswer) and to resume one after a partial failure (see
+// handleAsk's resume branch / runAsk). `hits`/`details` here are only the
+// NOT-YET-PROCESSED documents -- on a fresh request that's everything; on a
+// resume it's the remaining batches from where the previous attempt stopped.
+// `completedPartials` carries forward any batch notes already produced by
+// an earlier attempt so they aren't redone, and `totalSteps` is fixed at the
+// very first attempt's document count so the progress bar's denominator
+// stays correct across any number of resumes.
+//
+// If a batch still fails after callModel's internal retries (a real, not
+// just transient, problem), the loop stops there rather than throwing away
+// every batch that already succeeded: whatever notes exist so far (from
+// this attempt AND any earlier ones) are used to produce a best-effort
+// partial answer (falling back to the raw notes themselves if even that
+// synthesis call fails), clearly flagged via `partial`/`failureNote`/
+// `continuation` rather than silently presented as complete or silently
+// discarded. Only when NOTHING has succeeded at all does this throw, since
+// there is then genuinely no partial progress to preserve or resume from.
+async function runMapReduceBatches(
   env: Env,
   query: string,
+  model: string,
   profileBlocks: string[],
   degradedNotice: string | undefined,
   hits: SearchHit[],
   details: (DocDetail | null)[],
-  model: string
-): Promise<string> {
+  onStep: ProgressReporter,
+  completedPartials: string[],
+  totalSteps: number
+): Promise<AnswerResult> {
   const constantBlocks = degradedNotice ? [degradedNotice, ...profileBlocks] : [...profileBlocks];
-
-  if (hits.length <= MAP_REDUCE_BATCH_SIZE) {
-    const blocks = [...constantBlocks];
-    if (hits.length) blocks.push(buildContext(hits, details));
-    return callModel(env, query, blocks.join("\n\n---\n\n"), model);
-  }
+  const totalBatches = totalSteps - 1; // last step is always the final synthesis call
 
   const batches: { hits: SearchHit[]; details: (DocDetail | null)[] }[] = [];
   for (let i = 0; i < hits.length; i += MAP_REDUCE_BATCH_SIZE) {
@@ -669,26 +761,148 @@ async function generateAnswer(
     });
   }
 
-  const partials: string[] = [];
+  const partials = [...completedPartials];
+  const startStep = completedPartials.length;
+  let failureNote: string | undefined;
+  let failedBatchIndex = -1;
   for (let i = 0; i < batches.length; i++) {
+    const stepNum = startStep + i + 1;
+    await onStep(stepNum, totalSteps, `Lot ${stepNum}/${totalBatches}`);
     const batch = batches[i];
     const batchQuestion =
       `Question originale : ${query}\n\n` +
-      `Ceci est le lot ${i + 1}/${batches.length} de documents pertinents pour cette question. Ne réponds PAS de ` +
+      `Ceci est le lot ${stepNum}/${totalBatches} de documents pertinents pour cette question. Ne réponds PAS de ` +
       "façon définitive et n'invente rien au-delà de ce lot : extrais uniquement, sous forme de notes concises, " +
       "les faits et citations [document_id] de CE lot utiles pour répondre à la question plus tard.";
     const batchContext = [...constantBlocks, buildContext(batch.hits, batch.details)].join("\n\n---\n\n");
-    const partial = await callModel(env, batchQuestion, batchContext, model);
-    partials.push(`### Notes du lot ${i + 1}/${batches.length}\n\n${partial}`);
+    try {
+      const partial = await callModel(env, batchQuestion, batchContext, model);
+      partials.push(`### Notes du lot ${stepNum}/${totalBatches}\n\n${partial}`);
+    } catch (error) {
+      failureNote = `échec au lot ${stepNum}/${totalBatches} (${error instanceof Error ? error.message : String(error)})`;
+      failedBatchIndex = i;
+      break;
+    }
   }
 
+  if (failureNote) {
+    if (!partials.length) {
+      // Nothing succeeded at all, ever -- genuinely no partial progress to
+      // preserve or resume from, so this is a real failure.
+      throw new Error(`${failureNote} -- aucun lot n'a pu être traité, aucune donnée partielle disponible.`);
+    }
+    // Includes the FAILED batch again (not just what's after it) so
+    // resuming retries it rather than silently dropping those documents --
+    // full coverage of the named type is the whole point of the "no cap"
+    // retrieval this feeds from.
+    const remainingHits = batches.slice(failedBatchIndex).flatMap((b) => b.hits);
+    const remainingDetails = batches.slice(failedBatchIndex).flatMap((b) => b.details);
+    const continuation: ContinuationBundle = {
+      query,
+      model,
+      profileBlocks,
+      degradedNotice,
+      remainingHits,
+      remainingDetails,
+      completedPartials: partials,
+      totalSteps
+    };
+    const partialNotice =
+      `### Réponse partielle\n\nUne erreur est survenue en cours de traitement (${failureNote}). Cette réponse ` +
+      `se base uniquement sur les ${partials.length}/${totalBatches} lots traités avec succès avant l'erreur -- ` +
+      "elle ne couvre pas l'ensemble des documents du type demandé. Indique clairement cette limite dans ta réponse.";
+    const reduceQuestion =
+      `Question : ${query}\n\n` +
+      `Voici des notes préparées à partir de SEULEMENT ${partials.length}/${totalBatches} lots de documents ` +
+      "(le reste a échoué -- voir la note de réponse partielle). Synthétise ces notes en UNE réponse cohérente, " +
+      "en conservant les citations [document_id] déjà présentes, et en rappelant explicitement que la réponse est " +
+      "partielle.";
+    const reduceContext = [...constantBlocks, partialNotice, ...partials].join("\n\n---\n\n");
+    try {
+      const answer = await callModel(env, reduceQuestion, reduceContext, model);
+      return { answer, partial: true, completedSteps: partials.length, totalSteps, failureNote, continuation };
+    } catch {
+      // Even the partial synthesis call failed -- fall back to the raw
+      // batch notes themselves rather than nothing at all; still real
+      // information extracted from real documents, just unpolished.
+      return {
+        answer: `${partialNotice}\n\n${partials.join("\n\n")}`,
+        partial: true,
+        completedSteps: partials.length,
+        totalSteps,
+        failureNote,
+        continuation
+      };
+    }
+  }
+
+  await onStep(totalSteps, totalSteps, "Synthèse finale");
   const reduceQuestion =
     `Question : ${query}\n\n` +
-    `Voici des notes préparées à partir de ${hits.length} documents du corpus, en ${batches.length} lots. ` +
-    "Synthétise-les en UNE réponse finale cohérente et complète, en conservant les citations [document_id] déjà " +
-    "présentes dans les notes plutôt qu'en les supprimant.";
+    `Voici des notes préparées à partir de ${totalBatches} lot(s) de documents du corpus. Synthétise-les en UNE ` +
+    "réponse finale cohérente et complète, en conservant les citations [document_id] déjà présentes dans les " +
+    "notes plutôt qu'en les supprimant.";
   const reduceContext = [...constantBlocks, ...partials].join("\n\n---\n\n");
-  return callModel(env, reduceQuestion, reduceContext, model);
+  try {
+    const answer = await callModel(env, reduceQuestion, reduceContext, model);
+    return { answer, partial: false, completedSteps: totalSteps, totalSteps };
+  } catch (error) {
+    // All batches succeeded but the final synthesis call itself failed --
+    // still resumable (0 remaining batches, so a "continue" retries just
+    // this synthesis step) rather than discarding every batch's notes.
+    const failureNoteFinal = `échec lors de la synthèse finale (${error instanceof Error ? error.message : String(error)})`;
+    return {
+      answer:
+        `### Réponse partielle\n\nTous les lots de documents ont été traités avec succès, mais la synthèse finale ` +
+        `a échoué (${failureNoteFinal}). Vous pouvez relancer pour ne réessayer que cette étape.`,
+      partial: true,
+      completedSteps: partials.length,
+      totalSteps,
+      failureNote: failureNoteFinal,
+      continuation: {
+        query,
+        model,
+        profileBlocks,
+        degradedNotice,
+        remainingHits: [],
+        remainingDetails: [],
+        completedPartials: partials,
+        totalSteps
+      }
+    };
+  }
+}
+
+// Produces the final answer for a fully-retrieved set of documents. Below
+// MAP_REDUCE_BATCH_SIZE documents, this is exactly the old behaviour: one
+// call with the whole context (no continuation possible if it fails -- there
+// is no partial progress to speak of for a single call). Above it -- which
+// only happens for named types large enough that ALL of their documents (no
+// cap, see the retrieval loop in handleAsk) wouldn't fit in one call's
+// context window -- this delegates to runMapReduceBatches starting fresh
+// (no completed batches yet).
+async function generateAnswer(
+  env: Env,
+  query: string,
+  profileBlocks: string[],
+  degradedNotice: string | undefined,
+  hits: SearchHit[],
+  details: (DocDetail | null)[],
+  model: string,
+  onStep: ProgressReporter
+): Promise<AnswerResult> {
+  const totalSteps = totalAnswerSteps(hits.length);
+
+  if (hits.length <= MAP_REDUCE_BATCH_SIZE) {
+    await onStep(1, totalSteps, "Génération de la réponse");
+    const constantBlocks = degradedNotice ? [degradedNotice, ...profileBlocks] : [...profileBlocks];
+    const blocks = [...constantBlocks];
+    if (hits.length) blocks.push(buildContext(hits, details));
+    const answer = await callModel(env, query, blocks.join("\n\n---\n\n"), model);
+    return { answer, partial: false, completedSteps: 1, totalSteps };
+  }
+
+  return runMapReduceBatches(env, query, model, profileBlocks, degradedNotice, hits, details, onStep, [], totalSteps);
 }
 
 interface RetrievalResult {
@@ -749,20 +963,52 @@ async function retrieveSeedsAndExpand(
   return { hits, details, browse };
 }
 
-async function handleAsk(request: Request, env: Env, origin: string): Promise<Response> {
-  let query = "";
-  let model = DEFAULT_MODEL;
-  try {
-    const body = (await request.json()) as { query?: string; model?: string };
-    query = (body.query || "").trim();
-    model = resolveModel(body.model);
-  } catch {
-    return Response.json({ error: "Corps de requête JSON invalide." }, { status: 400 });
-  }
-  if (!query) {
-    return Response.json({ error: "Question vide." }, { status: 400 });
-  }
+// One line of NDJSON (newline-delimited JSON) pushed to the client while
+// /api/ask's retrieval + answer generation is still running -- see
+// handleAsk's streaming setup below for why (a real, accurate progress bar
+// for map-reduce's multiple sequential LLM calls, rather than a fake
+// animated one, requires the Worker to actually report progress as it
+// happens instead of returning one response at the very end).
+type AskEvent =
+  | { type: "start"; totalSteps: number }
+  | { type: "step"; step: number; totalSteps: number; label: string }
+  | {
+      type: "done";
+      answer: string;
+      sources: unknown[];
+      browse: unknown[];
+      profiles: unknown;
+      degraded_notice: string | undefined;
+      model: string;
+      // Set when a map-reduce batch failed even after retries but earlier
+      // batches had already succeeded (see generateAnswer) -- the answer is
+      // real, but built from fewer documents than the full named type.
+      // Absent (undefined) for a normal, complete answer.
+      partial?: boolean;
+      completed_steps?: number;
+      total_steps?: number;
+      failure_note?: string;
+      // Present only when partial is true: send this back unchanged as
+      // `continuation` in a follow-up POST /api/ask to resume from the
+      // failed batch instead of redoing everything (see handleAsk's resume
+      // branch). Absent for a normal, complete answer.
+      continuation?: ContinuationBundle;
+    }
+  | {
+      type: "error";
+      sources: unknown[];
+      browse: unknown[];
+      profiles: unknown;
+      degraded_notice: string | undefined;
+      error: string;
+    };
 
+// All the retrieval + answer-generation work that used to be handleAsk's
+// entire body, before it was wrapped in streaming. Every `return
+// Response.json(...)` in the pre-streaming version became an `await
+// send(...)` here instead -- same payload shapes, just pushed as one NDJSON
+// line rather than the whole HTTP response.
+async function runAsk(query: string, model: string, env: Env, origin: string, send: (event: AskEvent) => Promise<void>): Promise<void> {
   const askDocs = await loadAskIndex(env, origin);
   const docsById = new Map(askDocs.map((doc) => [doc.id, doc]));
   const docTypeProfiles = await loadDocTypeProfiles(env, origin);
@@ -875,14 +1121,18 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
         // Genuinely nothing to answer from even with an unrestricted
         // free-text fallback -- fall back to the deterministic clarification
         // rather than sending an empty context to the LLM.
-        return Response.json({
+        await send({
+          type: "done",
           answer:
             buildUnmatchedTypeClarification(query, compareTypes, docTypeProfiles) ||
             "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation.",
           sources: [],
           browse: [],
-          profiles: undefined
+          profiles: undefined,
+          degraded_notice: undefined,
+          model
         });
+        return;
       }
 
       degradedNotice = buildDegradedNotice(compareTypes, docTypeProfiles);
@@ -903,11 +1153,16 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
       GRAPH_BROWSE_PER_SEED
     );
     if (!result.hits.length) {
-      return Response.json({
+      await send({
+        type: "done",
         answer: "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation.",
         sources: [],
-        browse: []
+        browse: [],
+        profiles: undefined,
+        degraded_notice: undefined,
+        model
       });
+      return;
     }
     hits = result.hits;
     details = result.details;
@@ -961,32 +1216,177 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
         })
       : undefined;
 
+  // Announce the total step count up front (before any LLM call starts) so
+  // the client can size a determinate progress bar immediately rather than
+  // guessing or growing it as steps arrive.
+  await send({ type: "start", totalSteps: totalAnswerSteps(hits.length) });
+
   try {
-    const answer = await generateAnswer(env, query, profileBlocks, degradedNotice, hits, details, model);
-    return Response.json({ answer, sources, browse: browseSources, profiles, degraded_notice: degradedNotice, model });
-  } catch (error) {
-    return Response.json(
-      {
-        answer: null,
-        sources,
-        browse: browseSources,
-        profiles,
-        degraded_notice: degradedNotice,
-        error: error instanceof Error ? error.message : String(error)
-      },
-      { status: 502 }
+    const result = await generateAnswer(env, query, profileBlocks, degradedNotice, hits, details, model, (step, totalSteps, label) =>
+      send({ type: "step", step, totalSteps, label })
     );
+    await send({
+      type: "done",
+      answer: result.answer,
+      sources,
+      browse: browseSources,
+      profiles,
+      degraded_notice: degradedNotice,
+      model,
+      ...(result.partial
+        ? {
+            partial: true,
+            completed_steps: result.completedSteps,
+            total_steps: result.totalSteps,
+            failure_note: result.failureNote,
+            continuation: result.continuation
+          }
+        : {})
+    });
+  } catch (error) {
+    await send({
+      type: "error",
+      sources,
+      browse: browseSources,
+      profiles,
+      degraded_notice: degradedNotice,
+      error: error instanceof Error ? error.message : String(error)
+    });
   }
 }
 
+// Resumes a partially-failed map-reduce answer from a client-provided
+// ContinuationBundle (see runMapReduceBatches) -- no retrieval, no doc_type
+// detection, none of runAsk's usual setup, since all of that already
+// happened in the original request and doesn't change on a retry. Only the
+// remaining (not-yet-processed) batches get worked on, picking up right
+// where the failure occurred instead of starting over from batch 1.
+async function runResume(continuation: ContinuationBundle, send: (event: AskEvent) => Promise<void>, env: Env): Promise<void> {
+  const model = resolveModel(continuation.model);
+  await send({ type: "start", totalSteps: continuation.totalSteps });
+  try {
+    const result = await runMapReduceBatches(
+      env,
+      continuation.query,
+      model,
+      continuation.profileBlocks,
+      continuation.degradedNotice,
+      continuation.remainingHits,
+      continuation.remainingDetails,
+      (step, totalSteps, label) => send({ type: "step", step, totalSteps, label }),
+      continuation.completedPartials,
+      continuation.totalSteps
+    );
+    // Sources/browse/profiles/degraded_notice are deliberately omitted here
+    // (empty/undefined) -- they don't change on a resume, and the client
+    // already rendered them from the original response, so there is nothing
+    // new to send and no reason to re-fetch or resend potentially large
+    // lists (a big named type's browse list can be hundreds of entries).
+    await send({
+      type: "done",
+      answer: result.answer,
+      sources: [],
+      browse: [],
+      profiles: undefined,
+      degraded_notice: undefined,
+      model,
+      ...(result.partial
+        ? {
+            partial: true,
+            completed_steps: result.completedSteps,
+            total_steps: result.totalSteps,
+            failure_note: result.failureNote,
+            continuation: result.continuation
+          }
+        : {})
+    });
+  } catch (error) {
+    await send({
+      type: "error",
+      sources: [],
+      browse: [],
+      profiles: undefined,
+      degraded_notice: undefined,
+      error: error instanceof Error ? error.message : String(error)
+    });
+  }
+}
+
+// Thin streaming wrapper around runAsk: validates the request body
+// synchronously (still a plain 400 JSON response -- nothing to stream yet at
+// that point), then hands off to runAsk via ctx.waitUntil, writing each
+// event runAsk reports as one NDJSON line to the response body as it
+// happens. This is what makes a real (not simulated) progress bar possible
+// for map-reduce's multiple sequential LLM calls on large named types (see
+// generateAnswer) -- the alternative, a single JSON response at the very
+// end, has nothing to show progress against until the whole thing finishes.
+async function handleAsk(request: Request, env: Env, origin: string, ctx: ExecutionContextLike): Promise<Response> {
+  let query = "";
+  let model = DEFAULT_MODEL;
+  let continuation: ContinuationBundle | undefined;
+  try {
+    const body = (await request.json()) as { query?: string; model?: string; continuation?: ContinuationBundle };
+    // A "continue" request from the client (see runResume/ContinuationBundle)
+    // -- resumes a previously partial map-reduce answer instead of asking a
+    // brand new question, so `query`/`model` come from the bundle itself
+    // rather than the top-level body fields.
+    if (body.continuation && Array.isArray(body.continuation.remainingHits)) {
+      continuation = body.continuation;
+    } else {
+      query = (body.query || "").trim();
+      model = resolveModel(body.model);
+    }
+  } catch {
+    return Response.json({ error: "Corps de requête JSON invalide." }, { status: 400 });
+  }
+  if (!continuation && !query) {
+    return Response.json({ error: "Question vide." }, { status: 400 });
+  }
+
+  const { readable, writable } = new TransformStream();
+  const writer = writable.getWriter();
+  const encoder = new TextEncoder();
+  const send = (event: AskEvent) => writer.write(encoder.encode(JSON.stringify(event) + "\n"));
+
+  ctx.waitUntil(
+    (async () => {
+      try {
+        if (continuation) {
+          await runResume(continuation, send, env);
+        } else {
+          await runAsk(query, model, env, origin, send);
+        }
+      } catch (error) {
+        // Only reached if runAsk itself threw outside its own try/catch
+        // (e.g. loadAskIndex failing) -- runAsk's own retrieval/answer
+        // errors are already turned into a "error" event above.
+        await send({
+          type: "error",
+          sources: [],
+          browse: [],
+          profiles: undefined,
+          degraded_notice: undefined,
+          error: error instanceof Error ? error.message : String(error)
+        }).catch(() => undefined);
+      } finally {
+        await writer.close().catch(() => undefined);
+      }
+    })()
+  );
+
+  return new Response(readable, {
+    headers: { "Content-Type": "application/x-ndjson; charset=utf-8", "Cache-Control": "no-store" }
+  });
+}
+
 export default {
-  async fetch(request: Request, env: Env): Promise<Response> {
+  async fetch(request: Request, env: Env, ctx: ExecutionContextLike): Promise<Response> {
     const url = new URL(request.url);
     if (url.pathname === "/api/ask") {
       if (request.method !== "POST") {
         return new Response("Method Not Allowed", { status: 405 });
       }
-      return handleAsk(request, env, url.origin);
+      return handleAsk(request, env, url.origin, ctx);
     }
     if (url.pathname === "/api/relay/register") {
       if (request.method !== "POST") {

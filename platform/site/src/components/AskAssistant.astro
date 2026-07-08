@@ -15,6 +15,10 @@
     <button class="button primary" type="submit" id="ask-submit">Poser la question</button>
   </form>
   <div id="ask-status" class="muted" aria-live="polite"></div>
+  <div id="ask-progress-wrap" class="ask-progress-wrap" hidden>
+    <div class="ask-progress-track"><div id="ask-progress-bar" class="ask-progress-bar"></div></div>
+    <span id="ask-progress-label" class="muted ask-progress-label" aria-live="polite"></span>
+  </div>
   <div id="ask-answer" class="ask-answer" hidden></div>
   <div id="ask-relay-help" class="ask-relay-help" hidden>
     <p>Aucun relais n'est actif en ce moment (voir <code>scripts/run_relay_stack.sh</code>). Sur la machine qui doit héberger le relais, lancez :</p>
@@ -25,6 +29,10 @@
     <p class="muted">Si le relais n'a jamais été installé sur cette machine, voir l'en-tête de <code>scripts/run_relay_stack.sh</code> pour la configuration initiale (fichier de secrets, launchd).</p>
   </div>
   <div id="ask-degraded-notice" class="ask-degraded-notice" hidden></div>
+  <div id="ask-partial-notice" class="ask-degraded-notice ask-partial-notice" hidden>
+    <p id="ask-partial-text"></p>
+    <button type="button" id="ask-continue-button" class="button secondary">Continuer le traitement</button>
+  </div>
   <div id="ask-profiles" class="ask-profiles" hidden></div>
   <div id="ask-browse-wrap" hidden>
     <p class="muted">Documents jugés pertinents (recherche + graphe de similarité) — cliquez pour ouvrir, faites défiler pour tout voir :</p>
@@ -46,6 +54,9 @@
   const answerEl = document.querySelector<HTMLElement>("#ask-answer");
   const profilesEl = document.querySelector<HTMLElement>("#ask-profiles");
   const degradedNoticeEl = document.querySelector<HTMLElement>("#ask-degraded-notice");
+  const partialNoticeEl = document.querySelector<HTMLElement>("#ask-partial-notice");
+  const partialTextEl = document.querySelector<HTMLElement>("#ask-partial-text");
+  const continueButton = document.querySelector<HTMLButtonElement>("#ask-continue-button");
   const browseWrapEl = document.querySelector<HTMLElement>("#ask-browse-wrap");
   const sourcesEl = document.querySelector<HTMLUListElement>("#ask-sources");
   const relayHelpEl = document.querySelector<HTMLElement>("#ask-relay-help");
@@ -55,6 +66,22 @@
   const chipsEl = document.querySelector<HTMLElement>("#ask-type-chips");
   const modelWrapEl = document.querySelector<HTMLElement>("#ask-model-wrap");
   const modelSelectEl = document.querySelector<HTMLSelectElement>("#ask-model-select");
+  const progressWrapEl = document.querySelector<HTMLElement>("#ask-progress-wrap");
+  const progressBarEl = document.querySelector<HTMLElement>("#ask-progress-bar");
+  const progressLabelEl = document.querySelector<HTMLElement>("#ask-progress-label");
+
+  // Reflects the Worker's real progress (see the `start`/`step` NDJSON events
+  // streamed by /api/ask -- platform/site/worker/ask.ts's handleAsk/runAsk),
+  // not a simulated/animated estimate: a large named type (hundreds of
+  // documents) answers via several sequential LLM calls (map-reduce, see
+  // generateAnswer), so this bar's position always matches a real step that
+  // actually just completed server-side.
+  function setProgress(step: number, totalSteps: number, label: string) {
+    if (!progressBarEl || !progressLabelEl) return;
+    const pct = totalSteps > 0 ? Math.min(100, Math.round((step / totalSteps) * 100)) : 0;
+    progressBarEl.style.width = `${pct}%`;
+    progressLabelEl.textContent = totalSteps > 1 ? `${label} (${step}/${totalSteps})` : label;
+  }
 
   // Populates the model dropdown from the Worker's own list (GET /api/models,
   // see FREE_MODELS in platform/site/worker/ask.ts) instead of hardcoding the
@@ -240,6 +267,38 @@
     degradedNoticeEl.hidden = false;
   }
 
+  // Opaque continuation bundle from the most recent partial `done` event
+  // (see ContinuationBundle in platform/site/worker/ask.ts) -- sent back
+  // unchanged as `continuation` in a follow-up POST /api/ask by the
+  // "Continuer" button so the Worker resumes from the failed batch instead
+  // of redoing every batch that already succeeded.
+  let lastContinuation: unknown = null;
+
+  // Shown when /api/ask's `done` event has `partial: true` (see
+  // generateAnswer/runAsk in platform/site/worker/ask.ts): a batch of
+  // documents failed even after the Worker's own retries, but earlier
+  // batches had already succeeded, so instead of throwing all of that work
+  // away and showing a bare error, the answer below is a real (if
+  // incomplete) synthesis of whatever DID succeed. This banner makes that
+  // limitation visible rather than silently presenting a partial answer as
+  // a complete one, and offers a real "Continuer" button (wired below) that
+  // resumes rather than forcing a full restart.
+  function renderPartialNotice(completedSteps: number | undefined, totalSteps: number | undefined, continuation: unknown) {
+    if (!partialNoticeEl || !partialTextEl || !continueButton) return;
+    lastContinuation = continuation ?? null;
+    if (!completedSteps || !totalSteps) {
+      partialNoticeEl.hidden = true;
+      partialTextEl.textContent = "";
+      continueButton.hidden = true;
+      return;
+    }
+    partialTextEl.textContent =
+      `⚠ Réponse partielle : une erreur est survenue en cours de traitement après ${completedSteps}/${totalSteps} ` +
+      "étapes. La réponse ci-dessous ne couvre qu'une partie des documents concernés.";
+    continueButton.hidden = !lastContinuation;
+    partialNoticeEl.hidden = false;
+  }
+
   marked.setOptions({ gfm: true, breaks: true });
 
   // Auto-links [document_id] citations that match a document actually
@@ -274,56 +333,150 @@
     });
   }
 
+  interface AskDonePayload {
+    answer: string | null;
+    sources?: Source[];
+    browse?: Source[];
+    profiles?: Profile[];
+    degraded_notice?: string;
+    error?: string;
+    partial?: boolean;
+    completed_steps?: number;
+    total_steps?: number;
+    continuation?: unknown;
+  }
+
+  // Shared by both a fresh question (form submit) and a "Continuer" click
+  // (resume): POSTs `body` to /api/ask and reads back the NDJSON stream --
+  // `start`/`step` update the progress bar as real work happens server-side,
+  // `done`/`error` is the final payload, returned once the stream closes.
+  // See handleAsk/runAsk/runResume in platform/site/worker/ask.ts for the
+  // exact event shapes this is reading.
+  async function postAndStream(body: Record<string, unknown>): Promise<AskDonePayload> {
+    const response = await fetch("/api/ask", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body)
+    });
+    if (!response.body) throw new Error("Réponse sans corps.");
+
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder();
+    let buffer = "";
+    let finalPayload: AskDonePayload | null = null;
+
+    // eslint-disable-next-line no-constant-condition
+    while (true) {
+      const { value, done } = await reader.read();
+      if (done) break;
+      buffer += decoder.decode(value, { stream: true });
+      let newlineIndex = buffer.indexOf("\n");
+      while (newlineIndex >= 0) {
+        const line = buffer.slice(0, newlineIndex).trim();
+        buffer = buffer.slice(newlineIndex + 1);
+        newlineIndex = buffer.indexOf("\n");
+        if (!line) continue;
+        const parsed = JSON.parse(line);
+        if (parsed.type === "start") {
+          setProgress(0, parsed.totalSteps, "Préparation…");
+        } else if (parsed.type === "step") {
+          setProgress(parsed.step, parsed.totalSteps, parsed.label);
+        } else if (parsed.type === "done" || parsed.type === "error") {
+          finalPayload = parsed as AskDonePayload;
+        }
+      }
+    }
+
+    if (!finalPayload) throw new Error("Réponse interrompue avant la fin.");
+    return finalPayload;
+  }
+
+  // Renders the answer/status/partial-notice portion of a payload. Shared by
+  // the initial question and by "Continuer" -- `renderRetrievalToo` is false
+  // for a resume, since sources/browse/profiles/degraded_notice aren't
+  // resent on a continuation response (they don't change, and the client
+  // already has them rendered from the original request -- see runResume's
+  // comment in ask.ts for why).
+  function renderAnswerPayload(payload: AskDonePayload, renderRetrievalToo: boolean) {
+    if (!statusEl || !answerEl) return;
+    if (renderRetrievalToo) {
+      renderSources(payload.browse?.length ? payload.browse : payload.sources || []);
+      renderProfiles(payload.profiles);
+      renderDegradedNotice(payload.degraded_notice);
+    }
+    renderPartialNotice(payload.partial ? payload.completed_steps : undefined, payload.partial ? payload.total_steps : undefined, payload.continuation);
+
+    if (payload.answer) {
+      const knownIds = new Set<string>(
+        [...(payload.browse || []), ...(payload.sources || [])].map((s: Source) => s.document_id)
+      );
+      answerEl.innerHTML = renderAnswerHtml(payload.answer, knownIds);
+      answerEl.hidden = false;
+      statusEl.textContent = payload.partial
+        ? "Réponse partielle -- voir la note ci-dessus."
+        : payload.browse?.length
+          ? `Réponse basée sur ${payload.sources?.length ?? 0} document(s) (sur ${payload.browse.length} jugés pertinents).`
+          : "";
+    } else if (payload.error) {
+      statusEl.textContent = payload.error;
+      if (relayHelpEl) relayHelpEl.hidden = !isNoRelayError(payload.error);
+    } else {
+      statusEl.textContent = "Aucune réponse retournée.";
+    }
+  }
+
   form?.addEventListener("submit", async (event) => {
     event.preventDefault();
     const query = input?.value.trim();
     if (!query || !statusEl || !answerEl || !sourcesEl || !submitButton) return;
 
     submitButton.disabled = true;
-    statusEl.textContent = "Recherche dans le corpus puis interrogation du modèle…";
+    statusEl.textContent = "Recherche dans le corpus…";
     answerEl.hidden = true;
     answerEl.innerHTML = "";
     renderSources([]);
     renderProfiles(undefined);
     renderDegradedNotice(undefined);
+    renderPartialNotice(undefined, undefined, null);
     if (relayHelpEl) relayHelpEl.hidden = true;
+    if (progressWrapEl) progressWrapEl.hidden = false;
+    setProgress(0, 1, "Recherche dans le corpus…");
 
     try {
       const model = modelSelectEl?.value || undefined;
-      const response = await fetch("/api/ask", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ query, model })
-      });
-      const payload = await response.json();
-
-      // `browse` is the full relevant set (keyword seeds + similarity-graph
-      // neighbours); `sources` is just the smaller subset sent to the LLM.
-      // Render the broader list so there's something to scroll through, with
-      // `used_in_answer` marking which of those also grounded the answer.
-      renderSources(payload.browse?.length ? payload.browse : payload.sources || []);
-      renderProfiles(payload.profiles);
-      renderDegradedNotice(payload.degraded_notice);
-
-      if (payload.answer) {
-        const knownIds = new Set<string>(
-          [...(payload.browse || []), ...(payload.sources || [])].map((s: Source) => s.document_id)
-        );
-        answerEl.innerHTML = renderAnswerHtml(payload.answer, knownIds);
-        answerEl.hidden = false;
-        statusEl.textContent = payload.browse?.length
-          ? `Réponse basée sur ${payload.sources?.length ?? 0} document(s) (sur ${payload.browse.length} jugés pertinents).`
-          : "";
-      } else if (payload.error) {
-        statusEl.textContent = payload.error;
-        if (relayHelpEl) relayHelpEl.hidden = !isNoRelayError(payload.error);
-      } else {
-        statusEl.textContent = "Aucune réponse retournée.";
-      }
+      const payload = await postAndStream({ query, model });
+      renderAnswerPayload(payload, true);
     } catch (error) {
       statusEl.textContent = "L'assistant n'a pas pu être contacté. Réessayez dans un instant.";
     } finally {
       submitButton.disabled = false;
+      if (progressWrapEl) progressWrapEl.hidden = true;
+    }
+  });
+
+  // Resumes a partial answer from lastContinuation (set by renderPartialNotice)
+  // instead of asking the whole question over again -- see ContinuationBundle/
+  // runResume in platform/site/worker/ask.ts. Only the answer/status/partial
+  // banner update; sources/profiles/degraded-notice stay exactly as already
+  // rendered, since a resume's `done` event deliberately doesn't resend them.
+  continueButton?.addEventListener("click", async () => {
+    if (!lastContinuation || !statusEl || !continueButton) return;
+    const continuation = lastContinuation;
+    continueButton.disabled = true;
+    if (submitButton) submitButton.disabled = true;
+    statusEl.textContent = "Reprise du traitement…";
+    if (progressWrapEl) progressWrapEl.hidden = false;
+    setProgress(0, 1, "Reprise du traitement…");
+
+    try {
+      const payload = await postAndStream({ continuation });
+      renderAnswerPayload(payload, false);
+    } catch (error) {
+      statusEl.textContent = "L'assistant n'a pas pu être contacté. Réessayez dans un instant.";
+    } finally {
+      continueButton.disabled = false;
+      if (submitButton) submitButton.disabled = false;
+      if (progressWrapEl) progressWrapEl.hidden = true;
     }
   });
 </script>
@@ -422,6 +575,30 @@
   :global(.type-chip span) {
     color: var(--muted);
     font-weight: 600;
+  }
+
+  .ask-progress-wrap {
+    display: grid;
+    gap: 0.35rem;
+  }
+
+  .ask-progress-track {
+    height: 8px;
+    border-radius: 999px;
+    background: rgba(31, 111, 120, 0.12);
+    overflow: hidden;
+  }
+
+  .ask-progress-bar {
+    height: 100%;
+    width: 0%;
+    background: var(--accent-strong);
+    border-radius: 999px;
+    transition: width 0.3s ease;
+  }
+
+  .ask-progress-label {
+    font-size: 0.8rem;
   }
 
   .ask-answer {
@@ -613,6 +790,16 @@
     color: #674019;
     font-size: 0.86rem;
     font-weight: 600;
+  }
+
+  .ask-partial-notice {
+    display: grid;
+    gap: 0.6rem;
+    justify-items: start;
+  }
+
+  #ask-partial-text {
+    margin: 0;
   }
 
   :global(.ask-profiles p) {

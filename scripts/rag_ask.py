@@ -55,7 +55,9 @@ os.environ.setdefault("OMP_NUM_THREADS", "1")
 import argparse
 import json
 import sys
+import time
 from collections import defaultdict
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
@@ -484,6 +486,41 @@ def ask_llm(question: str, context: str, api_url: str, api_model: str, api_key: 
     return response.json()["choices"][0]["message"]["content"]
 
 
+# Mirrors callModel's retry logic in platform/site/worker/ask.ts: a
+# comparison/descriptive question over a large named type makes many
+# sequential ask_llm calls (see generate_answer's map-reduce path below), so
+# one transient failure (network blip, momentary 5xx) shouldn't throw away
+# every batch that already succeeded -- retry a couple of times with backoff
+# first.
+CALL_LLM_MAX_RETRIES = 2
+CALL_LLM_RETRY_DELAY_S = 0.6
+
+
+def ask_llm_with_retry(question: str, context: str, api_url: str, api_model: str, api_key: str) -> str:
+    last_error: Exception | None = None
+    for attempt in range(CALL_LLM_MAX_RETRIES + 1):
+        try:
+            return ask_llm(question, context, api_url, api_model, api_key)
+        except Exception as exc:  # noqa: BLE001 - retried below, re-raised if exhausted
+            last_error = exc
+            if attempt < CALL_LLM_MAX_RETRIES:
+                time.sleep(CALL_LLM_RETRY_DELAY_S * (attempt + 1))
+    assert last_error is not None
+    raise last_error
+
+
+@dataclass
+class AnswerResult:
+    answer: str
+    # True when a map-reduce batch failed even after retries but earlier
+    # batches had already succeeded -- the answer is real, but built from
+    # fewer documents than the full named type (see generate_answer).
+    partial: bool = False
+    completed_steps: int = 0
+    total_steps: int = 1
+    failure_note: str | None = None
+
+
 # Mirrors MAP_REDUCE_BATCH_SIZE / generateAnswer in platform/site/worker/
 # ask.ts. A comparison/descriptive question naming a type retrieves EVERY
 # document of that type (no cap -- see KnowledgeBase.build_context /
@@ -506,7 +543,7 @@ def generate_answer(
     api_url: str,
     api_model: str,
     api_key: str,
-) -> str:
+) -> AnswerResult:
     profile_blocks = [kb.doc_type_profile_block(label) for label in compare_types]
     profile_blocks = [block for block in profile_blocks if block]
     degraded_notice = build_degraded_notice(compare_types, kb.doc_type_profiles) if degraded and hits else None
@@ -516,10 +553,13 @@ def generate_answer(
         seen_docs: set[str] = set()
         blocks = list(constant_blocks)
         blocks += [kb._hit_block(hit, use_graph, seen_docs) for hit in hits]
-        return ask_llm(query, "\n\n---\n\n".join(blocks), api_url, api_model, api_key)
+        answer = ask_llm_with_retry(query, "\n\n---\n\n".join(blocks), api_url, api_model, api_key)
+        return AnswerResult(answer=answer, completed_steps=1, total_steps=1)
 
     batches = [hits[i : i + MAP_REDUCE_BATCH_SIZE] for i in range(0, len(hits), MAP_REDUCE_BATCH_SIZE)]
+    total_steps = len(batches) + 1
     partials: list[str] = []
+    failure_note: str | None = None
     for i, batch in enumerate(batches, start=1):
         seen_docs = set()
         batch_blocks = list(constant_blocks) + [kb._hit_block(hit, use_graph, seen_docs) for hit in batch]
@@ -530,8 +570,39 @@ def generate_answer(
             "concises, les faits et citations [document_id] de CE lot utiles pour répondre à la question plus "
             "tard."
         )
-        partial = ask_llm(batch_question, "\n\n---\n\n".join(batch_blocks), api_url, api_model, api_key)
+        try:
+            partial = ask_llm_with_retry(batch_question, "\n\n---\n\n".join(batch_blocks), api_url, api_model, api_key)
+        except Exception as exc:  # noqa: BLE001 - handled below, real progress is preserved either way
+            failure_note = f"échec au lot {i}/{len(batches)} ({exc})"
+            break
         partials.append(f"### Notes du lot {i}/{len(batches)}\n\n{partial}")
+
+    if failure_note:
+        if not partials:
+            # Nothing succeeded at all -- genuinely no partial progress to
+            # preserve, so this is a real failure, not a partial success.
+            raise RuntimeError(f"{failure_note} -- aucun lot n'a pu être traité, aucune donnée partielle disponible.")
+        partial_notice = (
+            "### Réponse partielle\n\n"
+            f"Une erreur est survenue en cours de traitement ({failure_note}). Cette réponse se base uniquement "
+            f"sur les {len(partials)}/{len(batches)} lots traités avec succès avant l'erreur -- elle ne couvre "
+            "pas l'ensemble des documents du type demandé. Indique clairement cette limite dans ta réponse."
+        )
+        reduce_question = (
+            f"Question : {query}\n\n"
+            f"Voici des notes préparées à partir de SEULEMENT {len(partials)}/{len(batches)} lots de documents "
+            "(le reste a échoué -- voir la note de réponse partielle). Synthétise ces notes en UNE réponse "
+            "cohérente, en conservant les citations [document_id] déjà présentes, et en rappelant explicitement "
+            "que la réponse est partielle."
+        )
+        reduce_context = "\n\n---\n\n".join([*constant_blocks, partial_notice, *partials])
+        try:
+            answer = ask_llm_with_retry(reduce_question, reduce_context, api_url, api_model, api_key)
+        except Exception:  # noqa: BLE001 - fall back to raw notes below
+            answer = f"{partial_notice}\n\n" + "\n\n".join(partials)
+        return AnswerResult(
+            answer=answer, partial=True, completed_steps=len(partials), total_steps=total_steps, failure_note=failure_note
+        )
 
     reduce_question = (
         f"Question : {query}\n\n"
@@ -540,7 +611,8 @@ def generate_answer(
         "déjà présentes dans les notes plutôt qu'en les supprimant."
     )
     reduce_context = "\n\n---\n\n".join(list(constant_blocks) + partials)
-    return ask_llm(reduce_question, reduce_context, api_url, api_model, api_key)
+    answer = ask_llm_with_retry(reduce_question, reduce_context, api_url, api_model, api_key)
+    return AnswerResult(answer=answer, completed_steps=total_steps, total_steps=total_steps)
 
 
 def parse_args() -> argparse.Namespace:
@@ -616,14 +688,20 @@ def main() -> int:
             return
 
         try:
-            answer = generate_answer(
+            result = generate_answer(
                 kb, question, compare_types, degraded, hits, not args.no_graph, args.api_url, args.api_model, api_key
             )
         except Exception as exc:  # noqa: BLE001 - report and fall back, don't crash a REPL
             print(f"Échec de l'appel LLM ({exc}) — affichage du contexte brut à la place.", file=sys.stderr)
             print(context)
             return
-        print(answer)
+        if result.partial:
+            print(
+                f"[réponse partielle : {result.completed_steps}/{result.total_steps} étapes traitées avant "
+                f"l'erreur -- {result.failure_note}]",
+                file=sys.stderr,
+            )
+        print(result.answer)
         print("\nSources :", file=sys.stderr)
         for hit in hits:
             chunk = hit["chunk"]
