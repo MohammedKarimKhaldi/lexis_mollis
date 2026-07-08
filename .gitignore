@@ -14,6 +14,10 @@ venv/
 .env
 .env.*
 !.env.example
+# Wrangler's env-file convention (OPENCODE_API_KEY etc.) -- not covered by
+# the .env* patterns above since it's a different filename.
+.dev.vars
+.dev.vars.*
 
 # Node / web build artifacts
 node_modules/

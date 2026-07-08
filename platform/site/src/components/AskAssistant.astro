@@ -4,40 +4,237 @@
       <span>Votre question</span>
       <textarea id="ask-input" rows="2" placeholder="ex. Quels traités concernent la Roumanie après 1918 ?" required></textarea>
     </label>
+    <div id="ask-type-chips-wrap" hidden>
+      <span class="muted chips-label">Types de documents du corpus (cliquez pour les ajouter à votre question) :</span>
+      <div id="ask-type-chips" class="ask-type-chips" role="group" aria-label="Types de documents disponibles"></div>
+    </div>
     <button class="button primary" type="submit" id="ask-submit">Poser la question</button>
   </form>
   <div id="ask-status" class="muted" aria-live="polite"></div>
   <div id="ask-answer" class="ask-answer" hidden></div>
-  <ul id="ask-sources" class="ask-sources"></ul>
+  <div id="ask-relay-help" class="ask-relay-help" hidden>
+    <p>Aucun relais n'est actif en ce moment (voir <code>scripts/run_relay_stack.sh</code>). Sur la machine qui doit héberger le relais, lancez :</p>
+    <div class="code-row">
+      <pre><code id="ask-relay-cmd">launchctl unload ~/Library/LaunchAgents/com.lexismollis.relay.plist 2&gt;/dev/null; launchctl load ~/Library/LaunchAgents/com.lexismollis.relay.plist</code></pre>
+      <button type="button" id="ask-relay-copy" class="button secondary">Copier</button>
+    </div>
+    <p class="muted">Si le relais n'a jamais été installé sur cette machine, voir l'en-tête de <code>scripts/run_relay_stack.sh</code> pour la configuration initiale (fichier de secrets, launchd).</p>
+  </div>
+  <div id="ask-degraded-notice" class="ask-degraded-notice" hidden></div>
+  <div id="ask-profiles" class="ask-profiles" hidden></div>
+  <div id="ask-browse-wrap" hidden>
+    <p class="muted">Documents jugés pertinents (recherche + graphe de similarité) — cliquez pour ouvrir, faites défiler pour tout voir :</p>
+    <ul id="ask-sources" class="ask-sources ask-sources-scroll"></ul>
+  </div>
   <noscript>
     <p class="muted">L'assistant nécessite JavaScript. Utilisez la <a href="/recherche/">recherche plein texte</a> à la place.</p>
   </noscript>
 </section>
 
 <script>
+  import { marked } from "marked";
+  import DOMPurify from "dompurify";
+
   const form = document.querySelector<HTMLFormElement>("#ask-form");
   const input = document.querySelector<HTMLTextAreaElement>("#ask-input");
   const submitButton = document.querySelector<HTMLButtonElement>("#ask-submit");
   const statusEl = document.querySelector<HTMLElement>("#ask-status");
   const answerEl = document.querySelector<HTMLElement>("#ask-answer");
+  const profilesEl = document.querySelector<HTMLElement>("#ask-profiles");
+  const degradedNoticeEl = document.querySelector<HTMLElement>("#ask-degraded-notice");
+  const browseWrapEl = document.querySelector<HTMLElement>("#ask-browse-wrap");
   const sourcesEl = document.querySelector<HTMLUListElement>("#ask-sources");
+  const relayHelpEl = document.querySelector<HTMLElement>("#ask-relay-help");
+  const relayCopyButton = document.querySelector<HTMLButtonElement>("#ask-relay-copy");
+  const relayCmdEl = document.querySelector<HTMLElement>("#ask-relay-cmd");
+  const chipsWrapEl = document.querySelector<HTMLElement>("#ask-type-chips-wrap");
+  const chipsEl = document.querySelector<HTMLElement>("#ask-type-chips");
+
+  // Surfaces the corpus's actual controlled doc_type vocabulary as clickable
+  // chips, so people discover real category names (e.g. "Traité", "Accord")
+  // before typing a comparison question, instead of only finding out
+  // afterwards that a term like "Memorandum" isn't one of them -- see
+  // buildUnmatchedTypeClarification in platform/site/worker/ask.ts for the
+  // matching server-side fallback when that still happens.
+  async function loadTypeChips() {
+    if (!chipsEl || !chipsWrapEl) return;
+    try {
+      const response = await fetch("/data/doc_type_profiles.json");
+      if (!response.ok) return;
+      const data = (await response.json()) as { types?: Record<string, { label?: string; n_documents?: number }> };
+      const types = Object.values(data.types || {})
+        .filter((type): type is { label: string; n_documents: number } => Boolean(type.label && type.n_documents))
+        .filter((type) => type.label !== "Inconnu")
+        .sort((a, b) => b.n_documents - a.n_documents);
+      if (!types.length) return;
+      chipsEl.innerHTML = types
+        .map(
+          (type) =>
+            `<button type="button" class="type-chip" data-label="${type.label}">${type.label} <span>(${type.n_documents})</span></button>`
+        )
+        .join("");
+      chipsWrapEl.hidden = false;
+    } catch {
+      // Chips are a convenience, not critical -- fail silently if the static
+      // data file isn't reachable (e.g. very first build before a release).
+    }
+  }
+  loadTypeChips();
+
+  chipsEl?.addEventListener("click", (event) => {
+    const target = (event.target as HTMLElement)?.closest<HTMLButtonElement>(".type-chip");
+    if (!target || !input) return;
+    const label = target.dataset.label || "";
+    const current = input.value.trim();
+    input.value = current ? `${current} ${label}` : `Compare les types de documents ${label}`;
+    input.focus();
+  });
+
+  relayCopyButton?.addEventListener("click", async () => {
+    const text = relayCmdEl?.textContent || "";
+    try {
+      await navigator.clipboard.writeText(text);
+      const original = relayCopyButton.textContent;
+      relayCopyButton.textContent = "Copié !";
+      setTimeout(() => {
+        relayCopyButton.textContent = original;
+      }, 1500);
+    } catch {
+      // Clipboard API can be unavailable (older browser, insecure context) --
+      // the command is still plain selectable text in the <pre> either way.
+    }
+  });
+
+  // The Worker returns this exact message (see handleAsk in
+  // platform/site/worker/ask.ts) when neither a registered relay nor a
+  // direct OPENCODE_API_KEY is available -- show the fix inline instead of
+  // making the reader go find scripts/run_relay_stack.sh themselves.
+  function isNoRelayError(error: string | undefined): boolean {
+    return Boolean(error && error.includes("Aucun relais actif"));
+  }
 
   interface Source {
     document_id: string;
     title?: string;
     year?: number;
     score: number;
+    via_graph?: boolean;
+    used_in_answer?: boolean;
   }
 
+  interface Profile {
+    label: string;
+    instrument_type?: string | null;
+    n_documents?: number | null;
+    low_sample_warning?: boolean;
+  }
+
+  // Renders the full `browse` list from the API response: every document
+  // retrieval considered relevant (keyword seeds + their similarity-graph
+  // neighbours), not just the smaller subset actually sent to the LLM. Each
+  // entry links straight to the document page. Scrollable via CSS
+  // (.ask-sources-scroll) since this can be a few dozen entries.
   function renderSources(sources: Source[]) {
-    if (!sourcesEl) return;
+    if (!sourcesEl || !browseWrapEl) return;
+    if (!sources.length) {
+      browseWrapEl.hidden = true;
+      sourcesEl.innerHTML = "";
+      return;
+    }
     sourcesEl.innerHTML = sources
       .map(
         (source) =>
           `<li><a href="/document/${encodeURIComponent(source.document_id)}/">${source.title || source.document_id}</a>` +
-          `<span>${source.year || "année n/a"} · score ${source.score.toFixed(2)}</span></li>`
+          `<span>${source.year || "année n/a"} · score ${source.score.toFixed(2)}</span>` +
+          (source.used_in_answer
+            ? `<span class="badge-used" title="Ce document a été envoyé au modèle et peut être cité dans la réponse">utilisé dans la réponse</span>`
+            : "") +
+          (source.via_graph
+            ? `<span class="badge-graph" title="Trouvé via le graphe de similarité, pas une correspondance directe avec les mots de la question">via graphe</span>`
+            : "") +
+          `</li>`
       )
       .join("");
+    browseWrapEl.hidden = false;
+  }
+
+  // Corpus-wide statistical basis for a comparison answer (see profiles field
+  // in the /api/ask response) -- shown separately from `sources` (the
+  // illustrative excerpts) so it's clear a percentage like "79.3% articles
+  // numérotés" is measured over ALL documents of that type, not just the
+  // handful quoted below.
+  function renderProfiles(profiles: Profile[] | undefined) {
+    if (!profilesEl) return;
+    if (!profiles?.length) {
+      profilesEl.hidden = true;
+      profilesEl.innerHTML = "";
+      return;
+    }
+    const items = profiles
+      .map((profile) => {
+        const count = profile.n_documents != null ? `${profile.n_documents} document(s)` : "nombre inconnu";
+        const warn = profile.low_sample_warning ? " · échantillon réduit" : "";
+        return `<li><strong>${profile.label}</strong> — statistiques calculées sur l'ensemble du corpus : ${count}${warn}</li>`;
+      })
+      .join("");
+    profilesEl.innerHTML =
+      `<p class="muted">Base statistique (corpus complet, indépendante des extraits cités ci-dessous) :</p><ul>${items}</ul>`;
+    profilesEl.hidden = false;
+  }
+
+  // Shown when the Worker fell back to a "degraded compare" (see
+  // buildDegradedNotice/degradedCompare in platform/site/worker/ask.ts):
+  // a comparison question where one term (e.g. "Memorandum") isn't one of
+  // the corpus's official doc_type labels. The answer below still tries to
+  // reply for real, using free-text search for that term -- this banner
+  // makes the asymmetry visible (one side has real corpus-wide stats, the
+  // other doesn't) instead of silently blending the two.
+  function renderDegradedNotice(notice: string | undefined) {
+    if (!degradedNoticeEl) return;
+    if (!notice) {
+      degradedNoticeEl.hidden = true;
+      degradedNoticeEl.textContent = "";
+      return;
+    }
+    degradedNoticeEl.textContent =
+      "⚠ Comparaison partielle : un des termes de votre question ne correspond à aucun type officiel du corpus. " +
+      "Les documents pour ce terme viennent d'une recherche libre, sans statistique corpus-wide — voir la réponse " +
+      "pour le détail.";
+    degradedNoticeEl.hidden = false;
+  }
+
+  marked.setOptions({ gfm: true, breaks: true });
+
+  // Auto-links [document_id] citations that match a document actually
+  // present in this response's browse/sources list, by rewriting them to
+  // real markdown links *before* parsing -- so `marked` renders them as
+  // proper <a> tags itself rather than post-processing HTML with a regex.
+  function linkifyCitations(raw: string, knownIds: Set<string>): string {
+    return raw.replace(/\[([A-Za-z0-9_.-]+)\](?!\()/g, (full, id: string) =>
+      knownIds.has(id) ? `[${id}](/document/${encodeURIComponent(id)}/)` : full
+    );
+  }
+
+  // Renders an LLM answer as real Markdown (the free model routinely uses
+  // headers/bold/bullet lists/tables for comparison answers -- rendering
+  // that as plain .textContent, or with a hand-rolled parser that didn't
+  // understand tables, was the actual "not formatted correctly" bug).
+  // `marked` handles the full GFM subset (tables, nested lists, code
+  // blocks, ...) so this doesn't need patching every time the model reaches
+  // for a new construct. DOMPurify sanitizes the result afterwards as
+  // defense-in-depth -- `marked` doesn't escape raw HTML embedded in its
+  // input by default, and this text ultimately traces back to OCR'd
+  // historical documents, not just the model itself.
+  function renderAnswerHtml(raw: string, knownIds: Set<string>): string {
+    const html = marked.parse(linkifyCitations(raw, knownIds), { async: false }) as string;
+    return DOMPurify.sanitize(html, {
+      ALLOWED_TAGS: [
+        "p", "br", "strong", "em", "code", "pre", "ul", "ol", "li",
+        "h1", "h2", "h3", "h4", "h5", "h6",
+        "a", "table", "thead", "tbody", "tr", "th", "td", "blockquote", "hr"
+      ],
+      ALLOWED_ATTR: ["href"]
+    });
   }
 
   form?.addEventListener("submit", async (event) => {
@@ -48,7 +245,11 @@
     submitButton.disabled = true;
     statusEl.textContent = "Recherche dans le corpus puis interrogation du modèle…";
     answerEl.hidden = true;
-    sourcesEl.innerHTML = "";
+    answerEl.innerHTML = "";
+    renderSources([]);
+    renderProfiles(undefined);
+    renderDegradedNotice(undefined);
+    if (relayHelpEl) relayHelpEl.hidden = true;
 
     try {
       const response = await fetch("/api/ask", {
@@ -58,16 +259,26 @@
       });
       const payload = await response.json();
 
-      if (payload.sources?.length) renderSources(payload.sources);
+      // `browse` is the full relevant set (keyword seeds + similarity-graph
+      // neighbours); `sources` is just the smaller subset sent to the LLM.
+      // Render the broader list so there's something to scroll through, with
+      // `used_in_answer` marking which of those also grounded the answer.
+      renderSources(payload.browse?.length ? payload.browse : payload.sources || []);
+      renderProfiles(payload.profiles);
+      renderDegradedNotice(payload.degraded_notice);
 
       if (payload.answer) {
-        answerEl.textContent = payload.answer;
+        const knownIds = new Set<string>(
+          [...(payload.browse || []), ...(payload.sources || [])].map((s: Source) => s.document_id)
+        );
+        answerEl.innerHTML = renderAnswerHtml(payload.answer, knownIds);
         answerEl.hidden = false;
-        statusEl.textContent = payload.sources?.length
-          ? `Réponse basée sur ${payload.sources.length} document(s) du corpus.`
+        statusEl.textContent = payload.browse?.length
+          ? `Réponse basée sur ${payload.sources?.length ?? 0} document(s) (sur ${payload.browse.length} jugés pertinents).`
           : "";
       } else if (payload.error) {
         statusEl.textContent = payload.error;
+        if (relayHelpEl) relayHelpEl.hidden = !isNoRelayError(payload.error);
       } else {
         statusEl.textContent = "Aucune réponse retournée.";
       }
@@ -84,6 +295,8 @@
     padding: 24px;
     display: grid;
     gap: 16px;
+    max-width: 100%;
+    overflow-wrap: anywhere;
   }
 
   form {
@@ -114,13 +327,131 @@
     justify-self: start;
   }
 
+  #ask-type-chips-wrap {
+    display: grid;
+    gap: 0.4rem;
+  }
+
+  .chips-label {
+    font-size: 0.8rem;
+  }
+
+  .ask-type-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  /* Chip <button> items are injected via innerHTML at runtime -- must be
+     :global, same pattern as .ask-sources li. */
+  :global(.type-chip) {
+    cursor: pointer;
+    color: var(--ink);
+    background: #fffefb;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 0.3rem 0.7rem;
+    font: inherit;
+    font-size: 0.82rem;
+    font-weight: 700;
+  }
+
+  :global(.type-chip:hover) {
+    border-color: var(--accent-strong);
+    color: var(--accent-strong);
+  }
+
+  :global(.type-chip span) {
+    color: var(--muted);
+    font-weight: 600;
+  }
+
   .ask-answer {
+    max-width: 100%;
     padding: 18px;
     border: 1px solid var(--line);
     border-radius: var(--radius-md);
     background: rgba(31, 111, 120, 0.06);
-    white-space: pre-wrap;
     line-height: 1.6;
+    /* Belt-and-braces against overflow from any long unbroken token (long
+       citation ids, OCR-garbled "words" with no spaces, ...): wrap those
+       instead of letting them stretch the box past the page. */
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  /* .ask-answer's content is built via renderAnswerHtml() -> innerHTML at
+     runtime (see script above), so it never gets Astro's build-time scoping
+     attribute -- these rules must be :global to reach it. */
+  :global(.ask-answer h2),
+  :global(.ask-answer h3),
+  :global(.ask-answer h4) {
+    margin: 1.1em 0 0.4em;
+    line-height: 1.25;
+  }
+
+  :global(.ask-answer h2:first-child),
+  :global(.ask-answer h3:first-child),
+  :global(.ask-answer h4:first-child) {
+    margin-top: 0;
+  }
+
+  :global(.ask-answer p) {
+    margin: 0 0 0.9em;
+  }
+
+  :global(.ask-answer p:last-child) {
+    margin-bottom: 0;
+  }
+
+  :global(.ask-answer ul),
+  :global(.ask-answer ol) {
+    margin: 0 0 0.9em;
+    padding-left: 1.4em;
+    display: grid;
+    gap: 0.35em;
+  }
+
+  :global(.ask-answer code) {
+    background: rgba(31, 111, 120, 0.12);
+    border-radius: 4px;
+    padding: 0.1em 0.35em;
+    font-size: 0.92em;
+  }
+
+  :global(.ask-answer a) {
+    color: var(--accent-strong);
+    font-weight: 800;
+  }
+
+  /* display:block + overflow-x:auto is a lightweight way to make a wide
+     table horizontally scrollable on narrow screens without needing a
+     separate JS-injected wrapper element. */
+  :global(.ask-answer table) {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 0 0.9em;
+    display: block;
+    overflow-x: auto;
+  }
+
+  :global(.ask-answer th),
+  :global(.ask-answer td) {
+    border: 1px solid var(--line);
+    padding: 0.4em 0.6em;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  :global(.ask-answer th) {
+    background: rgba(31, 111, 120, 0.08);
+  }
+
+  :global(.ask-answer blockquote) {
+    margin: 0 0 0.9em;
+    padding-left: 0.9em;
+    border-left: 3px solid var(--line);
+    color: var(--muted);
   }
 
   .ask-sources {
@@ -152,5 +483,99 @@
   :global(.ask-sources span) {
     color: var(--muted);
     font-size: 0.84rem;
+  }
+
+  :global(.ask-sources-scroll) {
+    max-height: 340px;
+    overflow-y: auto;
+    padding-right: 4px;
+  }
+
+  :global(.badge-used) {
+    color: var(--ink);
+    background: rgba(31, 111, 120, 0.14);
+    font-size: 0.76rem;
+    font-weight: 800;
+    border-radius: 999px;
+    padding: 0.05rem 0.5rem;
+  }
+
+  .ask-relay-help {
+    padding: 14px 16px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    background: rgba(31, 111, 120, 0.06);
+    display: grid;
+    gap: 0.5rem;
+  }
+
+  :global(.ask-relay-help p) {
+    margin: 0;
+  }
+
+  .code-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 0.6rem;
+  }
+
+  .code-row pre {
+    flex: 1 1 260px;
+    min-width: 0;
+    margin: 0;
+    padding: 10px 12px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: #fffefb;
+    font-size: 0.82rem;
+    /* The full command must always be readable, never clipped behind a
+       near-invisible auto-scrollbar (macOS hides them until actively
+       scrolling) -- wrap it instead, breaking mid-token if needed since it's
+       one long unbroken path/command with few natural break points. */
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    word-break: break-all;
+  }
+
+  .ask-profiles {
+    padding: 14px 16px;
+    border: 1px dashed var(--line);
+    border-radius: var(--radius-md);
+  }
+
+  /* Mirrors the site's existing .notice style (global.css) rather than a
+     one-off color, so this reads as "part of the theme's warning language"
+     instead of a clashing box. */
+  .ask-degraded-notice {
+    padding: 14px 16px;
+    border: 1px solid rgba(154, 91, 31, 0.24);
+    border-radius: var(--radius-md);
+    background: rgba(255, 242, 219, 0.72);
+    color: #674019;
+    font-size: 0.86rem;
+    font-weight: 600;
+  }
+
+  :global(.ask-profiles p) {
+    margin: 0 0 0.4rem;
+  }
+
+  :global(.ask-profiles ul) {
+    display: grid;
+    gap: 0.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0.9rem;
+  }
+
+  :global(.badge-graph) {
+    color: var(--accent-strong);
+    font-size: 0.76rem;
+    font-weight: 800;
+    border: 1px solid var(--accent-strong);
+    border-radius: 999px;
+    padding: 0.05rem 0.5rem;
   }
 </style>

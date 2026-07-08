@@ -6,6 +6,10 @@
       "instrument_type": "treaty",
       "legal_force": "unknown"
     },
+    "Accusé de réception": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
     "Arrangement": {
       "instrument_type": "treaty",
       "legal_force": "unknown"
@@ -30,11 +34,23 @@
       "instrument_type": "treaty",
       "legal_force": "unknown"
     },
+    "Échange de notes": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
     "Inconnu": {
       "instrument_type": "unknown",
       "legal_force": "unknown"
     },
+    "Instrument d'acceptation": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
     "Instrument d'adhésion": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
+    "Instrument d'approbation": {
       "instrument_type": "treaty",
       "legal_force": "unknown"
     },
@@ -42,7 +58,15 @@
       "instrument_type": "treaty",
       "legal_force": "unknown"
     },
+    "Instrument de succession": {
+      "instrument_type": "treaty",
+      "legal_force": "unknown"
+    },
     "Lettre": {
+      "instrument_type": "other",
+      "legal_force": "unknown"
+    },
+    "Memorandum": {
       "instrument_type": "other",
       "legal_force": "unknown"
     },

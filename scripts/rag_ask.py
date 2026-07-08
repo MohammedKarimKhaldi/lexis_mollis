@@ -84,7 +84,11 @@ SYSTEM_PROMPT = (
     "des sections « Profil du type documentaire », base toute comparaison de forme/rédaction entre "
     "types de documents sur les statistiques qu'elles donnent (fractions de documents, moyennes) et "
     "cite les pourcentages exacts plutôt que des impressions générales ; illustre avec les extraits "
-    "réels fournis."
+    "réels fournis. Si le contexte contient une section « Note méthodologique », respecte-la "
+    "STRICTEMENT : pour la partie qu'elle concerne, ne donne AUCUN pourcentage ni statistique de "
+    "corpus, indique explicitement qu'il s'agit d'une recherche libre sur un terme non reconnu comme "
+    "catégorie officielle, et limite-toi à décrire prudemment ce qui est observable dans les extraits "
+    "cités pour cette partie."
 )
 
 
@@ -112,6 +116,78 @@ def detect_doc_types(query: str, labels: list[str]) -> list[str]:
         if any(f" {variant} " in padded_query for variant in _label_variants(label)):
             matched.append(label)
     return matched
+
+
+def has_comparison_intent(query: str) -> bool:
+    """Loose heuristic: does this question sound like it wants to compare document
+    types at all? False positives just trigger an unnecessary but harmless
+    clarification; false negatives are the real risk -- see
+    unmatched_type_clarification, mirrors platform/site/worker/ask.ts's
+    hasComparisonIntent."""
+    normalised = normalise_lexical(query)
+    return any(needle in normalised for needle in ("compar", "differenc", "distinction"))
+
+
+def unmatched_type_clarification(
+    query: str, compare_types: list[str], doc_type_profiles: dict[str, Any]
+) -> str | None:
+    """When a question clearly wants a type-vs-type comparison but fewer than 2 of
+    the named terms match the corpus's actual controlled doc_type vocabulary
+    (e.g. asking to compare "Traité" and "Memorandum", the latter not being one of
+    the corpus's real labels), answer deterministically instead of leaving it to
+    the LLM to notice and explain -- it *can* do that correctly, but
+    inconsistently and without ever stating what the real options are."""
+    if len(compare_types) >= 2 or not has_comparison_intent(query):
+        return None
+
+    available = ", ".join(
+        f"{profile['label']} ({profile['n_documents']})"
+        for profile in sorted(
+            doc_type_profiles.values(), key=lambda p: p.get("n_documents") or 0, reverse=True
+        )
+        if profile.get("label") and profile.get("n_documents")
+    )
+    matched_note = (
+        f"Type reconnu dans votre question : « {compare_types[0]} ». Le ou les autres termes utilisés ne "
+        "correspondent à aucun type du corpus. "
+        if compare_types
+        else "Aucun des termes utilisés ne correspond à un type reconnu du corpus. "
+    )
+    return (
+        "Votre question semble demander une comparaison entre types de documents, mais elle ne peut pas être "
+        f"traitée telle quelle : {matched_note}Cette classification (indépendante de cette question) ne connaît "
+        f"que les types suivants, avec leur nombre de documents dans le corpus : {available}. Reformulez votre "
+        "question en citant deux de ces types exacts, par exemple : « Compare les types Traité et Accord et "
+        "dis-moi s'il y a des différences de forme/rédaction »."
+    )
+
+
+def build_degraded_notice(compare_types: list[str], doc_type_profiles: dict[str, Any]) -> str:
+    """Companion to unmatched_type_clarification, for the case where we DON'T want
+    to refuse outright: compare_types has 0 or 1 real matches but there's still a
+    genuine comparison intent. Rather than hard-stopping, `handle()` now falls
+    through to a "degraded compare" (free-text search standing in for the
+    unmatched term(s), no corpus-wide stats attached) and uses this text as a
+    context block telling the LLM exactly how to caveat that part of the answer.
+    Mirrors platform/site/worker/ask.ts's buildDegradedNotice."""
+    available = ", ".join(
+        f"{profile['label']} ({profile['n_documents']})"
+        for profile in sorted(doc_type_profiles.values(), key=lambda p: p.get("n_documents") or 0, reverse=True)
+        if profile.get("label") and profile.get("n_documents")
+    )
+    subject = (
+        f"« {compare_types[0]} » est un type reconnu du corpus (statistiques ci-dessous). L'autre terme "
+        "utilisé dans votre question"
+        if compare_types
+        else "Aucun des termes utilisés dans votre question"
+    )
+    return (
+        f"### Note méthodologique (à respecter strictement dans ta réponse)\n\n{subject} ne correspond à aucun "
+        "des types officiels du corpus. Les extraits montrés pour ce terme proviennent d'une recherche libre "
+        "sur le texte/titre des documents, pas d'une catégorie auditée : aucune statistique de pourcentage "
+        "n'existe pour cette partie de la comparaison, seulement les exemples concrets cités. Types officiels "
+        f"disponibles avec leur nombre de documents dans le corpus : {available}."
+    )
 
 
 def _normalise(vectors: np.ndarray) -> np.ndarray:
@@ -304,7 +380,7 @@ class KnowledgeBase:
                 profile_block = self.doc_type_profile_block(label)
                 if profile_block:
                     blocks.append(profile_block)
-            per_type_k = max(2, k // len(compare_types))
+            per_type_k = max(3, k // len(compare_types))
             seen_chunk_ids: set[str] = set()
             for label in compare_types:
                 for hit in self.search_by_doc_type(query, label, k=per_type_k):
@@ -318,6 +394,51 @@ class KnowledgeBase:
             hits = self.search(query, k=k)
             for hit in hits:
                 blocks.append(self._hit_block(hit, use_graph, seen_docs))
+
+        return "\n\n---\n\n".join(blocks), hits
+
+    def build_degraded_context(
+        self,
+        query: str,
+        compare_types: list[str],
+        k: int = 8,
+        use_graph: bool = True,
+    ) -> tuple[str, list[dict]]:
+        """Comparison question where fewer than 2 of the named terms match a real
+        doc_type (0 or 1 do). Rather than refusing (see unmatched_type_clarification),
+        give a real profile + real excerpts for whichever type DID match, and an
+        honest, unrestricted free-text search standing in for the unmatched term(s)
+        -- see build_degraded_notice for exactly how that's disclaimed. Mirrors
+        platform/site/worker/ask.ts's degradedCompare branch in handleAsk."""
+        blocks: list[str] = [build_degraded_notice(compare_types, self.doc_type_profiles)]
+        seen_docs: set[str] = set()
+        seen_chunk_ids: set[str] = set()
+        hits: list[dict] = []
+
+        per_type_k = max(3, k // 2) if compare_types else 0
+        for label in compare_types:
+            profile_block = self.doc_type_profile_block(label)
+            if profile_block:
+                blocks.append(profile_block)
+            for hit in self.search_by_doc_type(query, label, k=per_type_k):
+                chunk_id = hit["chunk"].get("chunk_id")
+                if chunk_id in seen_chunk_ids:
+                    continue
+                seen_chunk_ids.add(chunk_id)
+                hits.append(hit)
+                blocks.append(self._hit_block(hit, use_graph, seen_docs))
+
+        # Free-text stand-in for the unmatched term(s): plain top-k search over the
+        # whole corpus (no type filter -- there's no real type to filter by),
+        # excluding whatever the matched-type loop above already picked up.
+        free_k = max(3, k - len(hits))
+        for hit in self.search(query, k=free_k):
+            chunk_id = hit["chunk"].get("chunk_id")
+            if chunk_id in seen_chunk_ids:
+                continue
+            seen_chunk_ids.add(chunk_id)
+            hits.append(hit)
+            blocks.append(self._hit_block(hit, use_graph, seen_docs))
 
         return "\n\n---\n\n".join(blocks), hits
 
@@ -346,7 +467,13 @@ def ask_llm(question: str, context: str, api_url: str, api_model: str, api_key: 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("query", nargs="?", help="Question. Omit for interactive mode.")
-    parser.add_argument("--k", type=int, default=8, help="Number of chunks to retrieve.")
+    parser.add_argument(
+        "--k",
+        type=int,
+        default=12,
+        help="Number of chunks to retrieve (for a comparison question naming N types, "
+        "this is treated as a shared budget split across types, min 3/type -- see build_context).",
+    )
     parser.add_argument("--no-graph", action="store_true", help="Disable knowledge-graph context expansion.")
     parser.add_argument("--no-llm", action="store_true", help="Print retrieved context only, skip the LLM call.")
     parser.add_argument("--api-url", default=os.environ.get("RAG_API_URL", DEFAULT_API_URL))
@@ -373,7 +500,30 @@ def main() -> int:
         compare_types = None if args.no_compare_mode else kb.detect_comparison_types(question)
         if compare_types and len(compare_types) >= 2:
             print(f"[mode comparaison de types activé : {', '.join(compare_types)}]", file=sys.stderr)
-        context, hits = kb.build_context(question, k=args.k, use_graph=not args.no_graph, compare_types=compare_types)
+        # A comparison-shaped question with fewer than 2 real doc_types matched
+        # used to hard-refuse via unmatched_type_clarification. It now falls
+        # through to a "degraded compare" instead -- see build_degraded_context.
+        degraded = (
+            not args.no_compare_mode
+            and (not compare_types or len(compare_types) < 2)
+            and has_comparison_intent(question)
+        )
+        if degraded:
+            context, hits = kb.build_degraded_context(
+                question, compare_types or [], k=args.k, use_graph=not args.no_graph
+            )
+            if not hits:
+                clarification = unmatched_type_clarification(question, compare_types or [], kb.doc_type_profiles)
+                print(
+                    clarification
+                    or "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation."
+                )
+                return
+            print("[mode comparaison dégradée : recherche libre pour le(s) terme(s) non reconnu(s)]", file=sys.stderr)
+        else:
+            context, hits = kb.build_context(
+                question, k=args.k, use_graph=not args.no_graph, compare_types=compare_types
+            )
         print(f"[{len(hits)} extraits récupérés]", file=sys.stderr)
 
         if args.no_llm:

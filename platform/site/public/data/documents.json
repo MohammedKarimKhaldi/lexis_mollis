@@ -245,7 +245,7 @@
     "document_id": "tra16630006_001_s1",
     "title": "Texte du traité (ensemble texte des pouvoirs danois et des pouvoirs français)",
     "year": 1663,
-    "doc_type": "Autre",
+    "doc_type": "Traité",
     "languages": [
       "ca",
       "de",
@@ -266,8 +266,8 @@
     "tags": [
       "century:c17",
       "corpus:traites",
-      "doc_type:Autre",
-      "instrument_type:other",
+      "doc_type:Traité",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:early_modern_1516_1788",
       "rights_status:to_review",
@@ -361,7 +361,7 @@
     "document_id": "tra16780001_007b_s1",
     "title": "Texte du serment d'observer les dispositions du traité",
     "year": 1678,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "es",
       "fr"
@@ -373,7 +373,7 @@
     "tags": [
       "century:c17",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:early_modern_1516_1788",
@@ -2346,7 +2346,7 @@
     "document_id": "tra17930005_001_s1",
     "title": "Texte de la lettre",
     "year": 1793,
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "languages": [
       "ar"
     ],
@@ -2357,7 +2357,7 @@
     "tags": [
       "century:c18",
       "corpus:traites",
-      "doc_type:Texte",
+      "doc_type:Lettre",
       "instrument_type:other",
       "legal_force:unknown",
       "period:revolutionary_napoleonic_1789_1815",
@@ -3812,7 +3812,7 @@
     "document_id": "tra18580012_003_s1",
     "title": "Texte du traité OU Texte du projet de traité",
     "year": 1858,
-    "doc_type": "Autre",
+    "doc_type": "Traité",
     "languages": [
       "ca",
       "cy",
@@ -3836,8 +3836,8 @@
     "tags": [
       "century:c19",
       "corpus:traites",
-      "doc_type:Autre",
-      "instrument_type:other",
+      "doc_type:Traité",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:nineteenth_century_1816_1913",
       "rights_status:to_review",
@@ -6248,7 +6248,7 @@
     "document_id": "tra18850024_001_s1",
     "title": "Texte de l'accord en français",
     "year": 1885,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "ar",
       "fr"
@@ -6260,8 +6260,8 @@
     "tags": [
       "century:c19",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:nineteenth_century_1816_1913",
       "rights_status:to_review",
@@ -6946,7 +6946,7 @@
     "document_id": "tra19170013_001",
     "title": "Texte de la notification donnant pouvoir aux plénipotentiaires de demander la reconnaissance par la France de l'indépendance de la Finlande",
     "year": 1917,
-    "doc_type": "Texte",
+    "doc_type": "Notification",
     "languages": [
       "fr"
     ],
@@ -6957,7 +6957,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
+      "doc_type:Notification",
       "instrument_type:other",
       "legal_force:unknown",
       "period:world_war_i_and_interwar_1914_1938",
@@ -9701,7 +9701,7 @@
     "document_id": "19190006_009_s1",
     "title": "Texte de la Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
     "year": 1919,
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "languages": [
       "ca",
       "de",
@@ -9716,8 +9716,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Convention",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_i_and_interwar_1914_1938",
       "rights_status:to_review",
@@ -12714,7 +12714,7 @@
     "document_id": "19200069_001_s1",
     "title": "Texte du Traité",
     "year": 1920,
-    "doc_type": "Autre",
+    "doc_type": "Traité",
     "languages": [
       "en",
       "fr",
@@ -12727,8 +12727,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
-      "instrument_type:other",
+      "doc_type:Traité",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_i_and_interwar_1914_1938",
       "rights_status:to_review",
@@ -23284,7 +23284,7 @@
     "document_id": "tra19310014_101",
     "title": "Texte du PV d'échange des ratifications",
     "year": 1931,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "fr"
     ],
@@ -23295,7 +23295,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:world_war_i_and_interwar_1914_1938",
@@ -23309,7 +23309,7 @@
     "document_id": "tra19310014_100",
     "title": "Texte du protocole",
     "year": 1931,
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "languages": [
       "fr"
     ],
@@ -23320,8 +23320,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
-      "instrument_type:other",
+      "doc_type:Protocole",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_i_and_interwar_1914_1938",
       "rights_status:to_review",
@@ -25783,7 +25783,7 @@
     "document_id": "tra19390012_001_s1",
     "title": "Texte des accords",
     "year": 1939,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -25794,8 +25794,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -26757,7 +26757,7 @@
     "document_id": "19470173_01_s1",
     "title": "Texte du Protocole",
     "year": 1947,
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "languages": [
       "en",
       "fr",
@@ -26770,8 +26770,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
-      "instrument_type:other",
+      "doc_type:Protocole",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -28281,7 +28281,7 @@
     "document_id": "tra19490223_s1",
     "title": "Texte des conventions",
     "year": 1949,
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "languages": [
       "ca",
       "de",
@@ -28301,8 +28301,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Convention",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -35917,7 +35917,7 @@
     "document_id": "tra19550092_010_s1",
     "title": "Texte de l'accord (lettre belge)",
     "year": 1955,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -35928,8 +35928,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -35942,7 +35942,7 @@
     "document_id": "tra19550092_001_s1",
     "title": "Texte de l'accord (lettre française)",
     "year": 1955,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -35953,8 +35953,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -39381,7 +39381,7 @@
     "document_id": "tra19610117_010_s1",
     "title": "Texte de l'accord (lettre chypriote)",
     "year": 1961,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "en"
     ],
@@ -39392,8 +39392,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -39406,7 +39406,7 @@
     "document_id": "tra19610117_001_s1",
     "title": "Texte de l'accord (lettre française)",
     "year": 1961,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -39417,8 +39417,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -41990,7 +41990,7 @@
     "document_id": "tra19650097_001_s1",
     "title": "Texte de l'accord (ensemble 2 annexes) - lettre française",
     "year": 1965,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "ca",
       "de",
@@ -42004,8 +42004,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -42018,7 +42018,7 @@
     "document_id": "tra19650138_001_s1",
     "title": "Texte du contrat de bail (ensemble carte)",
     "year": 1965,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "fr"
     ],
@@ -42029,7 +42029,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
@@ -42043,7 +42043,7 @@
     "document_id": "tra19650139_001_s1",
     "title": "Texte du procès-verbal",
     "year": 1965,
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "languages": [
       "fr"
     ],
@@ -42054,7 +42054,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Procès-verbal",
       "instrument_type:other",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
@@ -42068,7 +42068,7 @@
     "document_id": "tra19650054_100_s1",
     "title": "Texte du procès-verbal de la XIIe commission mixte franco-italienne pour l'application de la convention culturelle",
     "year": 1965,
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "languages": [
       "fr"
     ],
@@ -42079,7 +42079,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Procès-verbal",
       "instrument_type:other",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
@@ -44731,7 +44731,7 @@
     "document_id": "tra19690202_001_s1",
     "title": "Texte de l'accord (note verbale française)",
     "year": 1969,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -44742,8 +44742,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -44756,7 +44756,7 @@
     "document_id": "tra19690202_010_s1",
     "title": "Texte de l'accord (note verbale grecque)",
     "year": 1969,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -44767,8 +44767,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -45377,7 +45377,7 @@
     "document_id": "tra19710277_001_s1",
     "title": "Texte de l'accord (note française)",
     "year": 1971,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -45388,8 +45388,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -45402,7 +45402,7 @@
     "document_id": "tra19710277_010_s1",
     "title": "Texte de l'accord (note soviétique)",
     "year": 1971,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr",
       "ru"
@@ -45414,8 +45414,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -48041,7 +48041,7 @@
     "document_id": "tra19730406_001_s1",
     "title": "Texte de l'accord : note verbale française (ensemble bordereau des prix unitaires moyens en France)",
     "year": 1973,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "es",
       "fr",
@@ -48054,8 +48054,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -48068,7 +48068,7 @@
     "document_id": "tra19730406_010_s1",
     "title": "Texte de l'accord : note verbale soviétique",
     "year": 1973,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr",
       "ru"
@@ -48080,8 +48080,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -48897,7 +48897,7 @@
     "document_id": "tra19750336_001_s1",
     "title": "Texte du contrat (ensemble 7 annexes)",
     "year": 1975,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "ca",
       "en",
@@ -48914,7 +48914,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
@@ -50325,7 +50325,7 @@
     "document_id": "tra19760312_001_s1",
     "title": "Texte de l'accord (lettre française)",
     "year": 1976,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -50336,8 +50336,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -50350,7 +50350,7 @@
     "document_id": "tra19760312_010_s1",
     "title": "Texte de l'accord (lettre soviétique)",
     "year": 1976,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "ru"
     ],
@@ -50361,8 +50361,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
       "rights_status:to_review",
@@ -51425,7 +51425,7 @@
     "document_id": "tra19790233_001_s1",
     "title": "Texte du procès-verbal (ensemble liste de la délégation française et liste de la délégation chypriote)",
     "year": 1979,
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "languages": [
       "en",
       "et",
@@ -51440,7 +51440,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Procès-verbal",
       "instrument_type:other",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
@@ -54440,7 +54440,7 @@
     "document_id": "tra19840266_001_s1",
     "title": "Texte du procès-verbal (ensemble liste des délégations chypriote et française)",
     "year": 1984,
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "languages": [
       "bg",
       "ca",
@@ -54461,7 +54461,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Procès-verbal",
       "instrument_type:other",
       "legal_force:unknown",
       "period:world_war_ii_and_postwar_1939_1989",
@@ -59865,7 +59865,7 @@
     "document_id": "tra19940335_001_s1",
     "title": "Texte de l'arrangement : note française (ensemble 3 plans annexés signés par le directeur général des douanes à Berne le 2 sept 1992 et par le directeur général des douanes et droits indirects à Paris le 30 mars 1993 )",
     "year": 1994,
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "languages": [
       "en",
       "fr",
@@ -59878,8 +59878,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Arrangement",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:contemporary_1990_present",
       "rights_status:to_review",
@@ -59892,7 +59892,7 @@
     "document_id": "tra19940335_010_s1",
     "title": "Texte de l'arrangement : note suisse (sans les 3 plans annexes)",
     "year": 1994,
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "languages": [
       "fr"
     ],
@@ -59903,8 +59903,8 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Arrangement",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:contemporary_1990_present",
       "rights_status:to_review",
@@ -59917,7 +59917,7 @@
     "document_id": "tra19940328_001",
     "title": "Texte du procès-verbal",
     "year": 1994,
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "languages": [
       "fr",
       "ru"
@@ -59929,7 +59929,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Procès-verbal",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -59943,7 +59943,7 @@
     "document_id": "tra19940121_001_s1",
     "title": "Texte du relevé de conclusions",
     "year": 1994,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "fr",
       "ru"
@@ -59955,7 +59955,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -61356,7 +61356,7 @@
     "document_id": "tra19980277_001_s1",
     "title": "Texte du procès-verbal (ensemble liste des délégations française et gabonaise) (ensemble un communiqué conjoint)",
     "year": 1998,
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "languages": [
       "de",
       "en",
@@ -61369,7 +61369,7 @@
     "tags": [
       "century:c20",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Procès-verbal",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -62768,7 +62768,7 @@
     "document_id": "tra20030221_730",
     "title": "Texte de la lettre d'intention",
     "year": 2003,
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "languages": [
       "en"
     ],
@@ -62779,7 +62779,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Texte",
+      "doc_type:Lettre",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -63126,7 +63126,7 @@
     "document_id": "tra20040111_001_s1",
     "title": "Texte du memorandum d'entente",
     "year": 2004,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "en",
       "fr"
@@ -63138,7 +63138,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -63152,7 +63152,7 @@
     "document_id": "tra20040010_001_s1",
     "title": "Texte du programme (ensemble 1 annexe)",
     "year": 2004,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "ca",
       "et",
@@ -63169,7 +63169,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -63652,7 +63652,7 @@
     "document_id": "20060154_s1",
     "title": "Texte du document cadre",
     "year": 2006,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "en",
       "fr",
@@ -63665,7 +63665,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -63679,7 +63679,7 @@
     "document_id": "tra20060116_001_s1",
     "title": "Texte du document cadre (ensemble 3 annexes)",
     "year": 2006,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "ca",
       "en",
@@ -63693,7 +63693,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -65077,7 +65077,7 @@
     "document_id": "20090200_s1",
     "title": "Memorandum relatif à la mise en oeuvre d'un programme pluriannuel de formation en français dans l'administration arménienne",
     "year": 2009,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "fr"
     ],
@@ -65088,7 +65088,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -65102,7 +65102,7 @@
     "document_id": "20090232_s1",
     "title": "Memorandum relatif à la mise en oeuvre d'un programme triannuel de formation au français dans l'administration tchèque",
     "year": 2009,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "fr"
     ],
@@ -65113,7 +65113,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -66326,7 +66326,7 @@
     "document_id": "TRA20131111_001_s1",
     "title": "Texte du procès-verbal",
     "year": 2013,
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "languages": [
       "de",
       "fr",
@@ -66339,7 +66339,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Procès-verbal",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -66617,7 +66617,7 @@
     "document_id": "TRA20142478_001_s1",
     "title": "Texte du memorandum",
     "year": 2014,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "en"
     ],
@@ -66628,7 +66628,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -66642,7 +66642,7 @@
     "document_id": "TRA20142481_001_s1",
     "title": "Texte du memorandum",
     "year": 2014,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "en"
     ],
@@ -66653,7 +66653,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -67241,7 +67241,7 @@
     "document_id": "TRA20161964_001_s1",
     "title": "Texte du mémorandum",
     "year": 2015,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "ar",
       "fa",
@@ -67254,7 +67254,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -68476,7 +68476,7 @@
     "document_id": "TRA20161974_001_s1",
     "title": "Texte du mémorandum",
     "year": 2016,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "ar",
       "fa",
@@ -68489,7 +68489,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -68503,7 +68503,7 @@
     "document_id": "TRA20161975_001_s1",
     "title": "Texte du mémorandum",
     "year": 2016,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "ar",
       "fa",
@@ -68516,7 +68516,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -68530,7 +68530,7 @@
     "document_id": "TRA20161976_001_s1",
     "title": "Texte du mémorandum",
     "year": 2016,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "ar",
       "fa",
@@ -68543,7 +68543,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -68557,7 +68557,7 @@
     "document_id": "TRA20161977_001_s1",
     "title": "Texte du mémorandum",
     "year": 2016,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "ar",
       "fa",
@@ -68570,7 +68570,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -68584,7 +68584,7 @@
     "document_id": "TRA20161980_001_s1",
     "title": "Texte du mémorandum",
     "year": 2016,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "ar",
       "fa",
@@ -68597,7 +68597,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -68611,7 +68611,7 @@
     "document_id": "TRA20162288_001_s1",
     "title": "Texte du mémorandum",
     "year": 2016,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "fr",
       "ru"
@@ -68623,7 +68623,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -68637,7 +68637,7 @@
     "document_id": "TRA20161862_001_s1",
     "title": "Texte du relevé de conclusions",
     "year": 2016,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "ar",
       "fr"
@@ -68649,7 +68649,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -68663,7 +68663,7 @@
     "document_id": "TRA20162295_001",
     "title": "Texte du relevé de décisions",
     "year": 2016,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "fr"
     ],
@@ -68674,7 +68674,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -70368,7 +70368,7 @@
     "document_id": "TRA20172437_010_s1",
     "title": "Texte de l'accord (lettre australienne)",
     "year": 2017,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "en",
       "fr"
@@ -70380,8 +70380,8 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:contemporary_1990_present",
       "rights_status:to_review",
@@ -70394,7 +70394,7 @@
     "document_id": "TRA20172437_001_s1",
     "title": "Texte de l'accord (lettre française)",
     "year": 2017,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "en",
       "fr"
@@ -70406,8 +70406,8 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:contemporary_1990_present",
       "rights_status:to_review",
@@ -70602,7 +70602,7 @@
     "document_id": "TRA20172369_001",
     "title": "Texte du Protocole",
     "year": 2017,
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "languages": [
       "de",
       "fr"
@@ -70614,8 +70614,8 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
-      "instrument_type:other",
+      "doc_type:Protocole",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:contemporary_1990_present",
       "rights_status:to_review",
@@ -70628,7 +70628,7 @@
     "document_id": "TRA20172275_001_s1",
     "title": "Texte du mémorandum",
     "year": 2017,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "ar",
       "fa",
@@ -70641,7 +70641,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -70655,7 +70655,7 @@
     "document_id": "TRA20172286_001_s1",
     "title": "Texte du programme",
     "year": 2017,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "bg",
       "fr",
@@ -70668,7 +70668,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -73193,7 +73193,7 @@
     "document_id": "TRA20182434_001_s1",
     "title": "Texte du memorandum",
     "year": 2018,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "af",
       "ca",
@@ -73209,7 +73209,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -73223,7 +73223,7 @@
     "document_id": "TRA20182651_001_s1",
     "title": "Texte du mémorandum d'entente",
     "year": 2018,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "fr",
       "zh-cn"
@@ -73235,7 +73235,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -73249,7 +73249,7 @@
     "document_id": "TRA20182386_001_s1",
     "title": "Texte du pacte",
     "year": 2018,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "de",
       "en",
@@ -73263,7 +73263,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -73277,7 +73277,7 @@
     "document_id": "TRA20182484_001_s1",
     "title": "Texte du partenariat",
     "year": 2018,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "en",
       "fr"
@@ -73289,7 +73289,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -73303,7 +73303,7 @@
     "document_id": "TRA20182517_001_s1",
     "title": "Texte du partenariat",
     "year": 2018,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "fr",
       "sk"
@@ -73315,7 +73315,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -73329,7 +73329,7 @@
     "document_id": "TRA20182476_001_s1",
     "title": "Texte du plan d'action",
     "year": 2018,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "cs",
       "fr"
@@ -73341,7 +73341,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -73355,7 +73355,7 @@
     "document_id": "TRA20182650_001_s1",
     "title": "Texte du plan d'action (ensemble 1 annexe)",
     "year": 2018,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "en",
       "fr"
@@ -73367,7 +73367,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -73381,7 +73381,7 @@
     "document_id": "TRA20182625_001_s1",
     "title": "Texte du programme",
     "year": 2018,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "de",
       "en",
@@ -73395,7 +73395,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -75325,7 +75325,7 @@
     "document_id": "TRA20192687_001_s1",
     "title": "Texte de l'accord (lettre française)",
     "year": 2019,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -75336,8 +75336,8 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:contemporary_1990_present",
       "rights_status:to_review",
@@ -75350,7 +75350,7 @@
     "document_id": "TRA20192687_010_s1",
     "title": "Texte de l'accord (lettre gabonaise)",
     "year": 2019,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -75361,8 +75361,8 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:contemporary_1990_present",
       "rights_status:to_review",
@@ -75375,7 +75375,7 @@
     "document_id": "TRA20192598_010_s1",
     "title": "Texte de l'accord : note verbale australienne",
     "year": 2019,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -75386,8 +75386,8 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:contemporary_1990_present",
       "rights_status:to_review",
@@ -75400,7 +75400,7 @@
     "document_id": "TRA20192598_001_s1",
     "title": "Texte de l'accord : note verbale française",
     "year": 2019,
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "languages": [
       "fr"
     ],
@@ -75411,8 +75411,8 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Texte",
-      "instrument_type:other",
+      "doc_type:Accord",
+      "instrument_type:treaty",
       "legal_force:unknown",
       "period:contemporary_1990_present",
       "rights_status:to_review",
@@ -75609,7 +75609,7 @@
     "document_id": "TRA20192611_001_s1",
     "title": "Texte de la lettre",
     "year": 2019,
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "languages": [
       "ar",
       "en"
@@ -75621,7 +75621,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Texte",
+      "doc_type:Lettre",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -75635,7 +75635,7 @@
     "document_id": "TRA20192686_001_s1",
     "title": "Texte du contrat (ensemble 4 annexes)",
     "year": 2019,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "de",
       "en",
@@ -75648,7 +75648,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -75662,7 +75662,7 @@
     "document_id": "TRA20192654_001_s1",
     "title": "Texte du document cadre (ensemble programmation indicative du PDFC -Plan de développement France Comores- et son tableau)",
     "year": 2019,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "fr"
     ],
@@ -75673,7 +75673,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -75687,7 +75687,7 @@
     "document_id": "TRA20192744_001_s1",
     "title": "Texte du memorandum (Protocole d'accord entre le ministère de l'Europe et des affaires étrangères de la République française et le ministère des affaires étrangères du gouvernement du Népal pour la mise en place d'un mécanisme de consultation bilatérale)",
     "year": 2019,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "ca",
       "en",
@@ -75700,7 +75700,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -75714,7 +75714,7 @@
     "document_id": "TRA20192703_001_s1",
     "title": "Texte du plan d'action",
     "year": 2019,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "fr",
       "sl"
@@ -75726,7 +75726,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -75740,7 +75740,7 @@
     "document_id": "TRA20192702_001_s1",
     "title": "Texte du programme",
     "year": 2019,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "fr",
       "sk"
@@ -75752,7 +75752,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -76856,7 +76856,7 @@
     "document_id": "TRA20202773_001_s1",
     "title": "Texte du memorandum",
     "year": 2020,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "en"
     ],
@@ -76867,7 +76867,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -76881,7 +76881,7 @@
     "document_id": "TRA20202762_001_s1",
     "title": "Texte du partenariat",
     "year": 2020,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "en",
       "fr",
@@ -76895,7 +76895,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -76909,7 +76909,7 @@
     "document_id": "TRA20202803_001_s1",
     "title": "Texte du programme",
     "year": 2020,
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "languages": [
       "en",
       "fr",
@@ -76922,7 +76922,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Texte",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -81145,7 +81145,7 @@
     "document_id": "tra20240028_001_s1",
     "title": "Mémorandum",
     "year": 2024,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "de",
       "en",
@@ -81159,7 +81159,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -81173,7 +81173,7 @@
     "document_id": "tra20240065_001_s1",
     "title": "Mémorandum",
     "year": 2024,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "ar",
       "fr"
@@ -81185,7 +81185,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -81677,7 +81677,7 @@
     "document_id": "tra20250004_001_s1",
     "title": "Mémorandum d'entente",
     "year": 2025,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "de",
       "en",
@@ -81691,7 +81691,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -81705,7 +81705,7 @@
     "document_id": "tra20250005_001_s1",
     "title": "Mémorandum d'entente",
     "year": 2025,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "de",
       "en",
@@ -81721,7 +81721,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",
@@ -81735,7 +81735,7 @@
     "document_id": "tra20250006_001_s1",
     "title": "Mémorandum d'entente",
     "year": 2025,
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "languages": [
       "de",
       "en",
@@ -81749,7 +81749,7 @@
     "tags": [
       "century:c21",
       "corpus:traites",
-      "doc_type:Autre",
+      "doc_type:Memorandum",
       "instrument_type:other",
       "legal_force:unknown",
       "period:contemporary_1990_present",

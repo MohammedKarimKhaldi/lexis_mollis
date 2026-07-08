@@ -665,7 +665,7 @@
     "treaty_id": "TRA19490223",
     "treaty_number": "001",
     "title": "Texte des conventions",
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "year": 1949,
     "file_exists": true,
     "file_size": 11321729
@@ -2348,7 +2348,7 @@
     "treaty_id": "TRA19610117",
     "treaty_number": "001",
     "title": "Texte de l'accord (lettre française)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1961,
     "file_exists": true,
     "file_size": 95412
@@ -3250,7 +3250,7 @@
     "treaty_id": "TRA19690202",
     "treaty_number": "001",
     "title": "Texte de l'accord (note verbale française)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1969,
     "file_exists": true,
     "file_size": 35903
@@ -3261,7 +3261,7 @@
     "treaty_id": "TRA19690202",
     "treaty_number": "010",
     "title": "Texte de l'accord (note verbale grecque)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1969,
     "file_exists": true,
     "file_size": 21253
@@ -4416,7 +4416,7 @@
     "treaty_id": "TRA19810096",
     "treaty_number": "001A",
     "title": "Texte de l'accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1981,
     "file_exists": false,
     "file_size": 0
@@ -5175,7 +5175,7 @@
     "treaty_id": "TRA19890230",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1989,
     "file_exists": false,
     "file_size": 0
@@ -5505,7 +5505,7 @@
     "treaty_id": "TRA19940328",
     "treaty_number": "001",
     "title": "Texte du procès-verbal",
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "year": 1994,
     "file_exists": true,
     "file_size": 1516507
@@ -5516,7 +5516,7 @@
     "treaty_id": "TRA19940335",
     "treaty_number": "010",
     "title": "Texte de l'arrangement : note suisse (sans les 3 plans annexes)",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 1994,
     "file_exists": true,
     "file_size": 103231
@@ -6033,7 +6033,7 @@
     "treaty_id": "TRA20030225",
     "treaty_number": "001",
     "title": "Texte de la lettre d'intention",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 2003,
     "file_exists": true,
     "file_size": 20952
@@ -6044,7 +6044,7 @@
     "treaty_id": "TRA20040111",
     "treaty_number": "001",
     "title": "Texte du memorandum d'entente",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2004,
     "file_exists": true,
     "file_size": 172399
@@ -6275,7 +6275,7 @@
     "treaty_id": "TRA20060154",
     "treaty_number": "001",
     "title": "Texte du document cadre",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2006,
     "file_exists": true,
     "file_size": 1551550
@@ -6451,7 +6451,7 @@
     "treaty_id": "TRA20080002",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6462,7 +6462,7 @@
     "treaty_id": "TRA20080003",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6473,7 +6473,7 @@
     "treaty_id": "TRA20080004",
     "treaty_number": "001",
     "title": "Texte de la déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6484,7 +6484,7 @@
     "treaty_id": "TRA20080006",
     "treaty_number": "001",
     "title": "Texte de la déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6495,7 +6495,7 @@
     "treaty_id": "TRA20080009",
     "treaty_number": "001",
     "title": "Texte du Protocole d'Accord",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6506,7 +6506,7 @@
     "treaty_id": "TRA20080010",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement administratif et de l'annexe",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6528,7 +6528,7 @@
     "treaty_id": "TRA20080014",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6539,7 +6539,7 @@
     "treaty_id": "TRA20080015",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6550,7 +6550,7 @@
     "treaty_id": "TRA20080019",
     "treaty_number": "001",
     "title": "Texte de l'Accord cadre",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6561,7 +6561,7 @@
     "treaty_id": "TRA20080020",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6572,7 +6572,7 @@
     "treaty_id": "TRA20080040",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6583,7 +6583,7 @@
     "treaty_id": "TRA20080043",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6649,7 +6649,7 @@
     "treaty_id": "TRA20080096",
     "treaty_number": "001",
     "title": "Texte du Partenariat",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6660,7 +6660,7 @@
     "treaty_id": "TRA20080097",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6671,7 +6671,7 @@
     "treaty_id": "TRA20080098",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6682,7 +6682,7 @@
     "treaty_id": "TRA20080099",
     "treaty_number": "001",
     "title": "Texte de l'Accord et de l'annexe",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6693,7 +6693,7 @@
     "treaty_id": "TRA20080109",
     "treaty_number": "001",
     "title": "Texte du Memorandum d'entente [ensemble] 2 annexes (1/ Liste des délégations française et malaisienne et 2/ Projet d'accord de transport intermodal de surface)",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6704,7 +6704,7 @@
     "treaty_id": "TRA20080111",
     "treaty_number": "001",
     "title": "Texte de la Déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6715,7 +6715,7 @@
     "treaty_id": "TRA20080138",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6748,7 +6748,7 @@
     "treaty_id": "TRA20080149",
     "treaty_number": "001",
     "title": "Texte de la Déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6759,7 +6759,7 @@
     "treaty_id": "TRA20080159",
     "treaty_number": "001",
     "title": "Texte du Partenariat",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6770,7 +6770,7 @@
     "treaty_id": "TRA20080168",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6792,7 +6792,7 @@
     "treaty_id": "TRA20080179",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement administratif",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6814,7 +6814,7 @@
     "treaty_id": "TRA20080185",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6825,7 +6825,7 @@
     "treaty_id": "TRA20080186",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6836,7 +6836,7 @@
     "treaty_id": "TRA20080191",
     "treaty_number": "001",
     "title": "Texte de l'Accord complémentaire",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6847,7 +6847,7 @@
     "treaty_id": "TRA20080193",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6858,7 +6858,7 @@
     "treaty_id": "TRA20080195",
     "treaty_number": "001",
     "title": "Texte de l'Accord complémentaire",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6869,7 +6869,7 @@
     "treaty_id": "TRA20080196",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement administratif",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6902,7 +6902,7 @@
     "treaty_id": "TRA20080211",
     "treaty_number": "001",
     "title": "Texte de la déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6913,7 +6913,7 @@
     "treaty_id": "TRA20080219",
     "treaty_number": "001",
     "title": "Texte du Relevé de conclusions",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6924,7 +6924,7 @@
     "treaty_id": "TRA20080240",
     "treaty_number": "001",
     "title": "Texte du Procès-verbal et la de liste des représentants des 2 délégations",
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6968,7 +6968,7 @@
     "treaty_id": "TRA20080276",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6979,7 +6979,7 @@
     "treaty_id": "TRA20080278",
     "treaty_number": "001",
     "title": "Texte du Document cadre",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -6990,7 +6990,7 @@
     "treaty_id": "TRA20080280",
     "treaty_number": "001",
     "title": "Texte du Protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -7001,7 +7001,7 @@
     "treaty_id": "TRA20080282",
     "treaty_number": "001",
     "title": "Texte de la Convention",
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -7012,7 +7012,7 @@
     "treaty_id": "TRA20080284",
     "treaty_number": "001",
     "title": "Texte de la Convention",
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -7023,7 +7023,7 @@
     "treaty_id": "TRA20080287",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -7056,7 +7056,7 @@
     "treaty_id": "TRA20080307",
     "treaty_number": "001",
     "title": "Texte du Protocole additionnel à l'Accord",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -7067,7 +7067,7 @@
     "treaty_id": "TRA20080308",
     "treaty_number": "001",
     "title": "Texte du Protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -7089,7 +7089,7 @@
     "treaty_id": "TRA20080315",
     "treaty_number": "001",
     "title": "Texte de la Convention",
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -7155,7 +7155,7 @@
     "treaty_id": "TRA20080399",
     "treaty_number": "001/2",
     "title": "Texte de l'accord en portugais",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -7166,7 +7166,7 @@
     "treaty_id": "TRA20080399",
     "treaty_number": "001/4",
     "title": "Texte de l'accord en arabe",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -7188,7 +7188,7 @@
     "treaty_id": "TRA20090018",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7199,7 +7199,7 @@
     "treaty_id": "TRA20090035",
     "treaty_number": "001",
     "title": "Texte de la Lettre d'intention",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7210,7 +7210,7 @@
     "treaty_id": "TRA20090053",
     "treaty_number": "001",
     "title": "Texte de la Lettre d'intention",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7221,7 +7221,7 @@
     "treaty_id": "TRA20090063",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7232,7 +7232,7 @@
     "treaty_id": "TRA20090067",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7243,7 +7243,7 @@
     "treaty_id": "TRA20090071",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7254,7 +7254,7 @@
     "treaty_id": "TRA20090072",
     "treaty_number": "001",
     "title": "Texte de la déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7265,7 +7265,7 @@
     "treaty_id": "TRA20090073",
     "treaty_number": "001B",
     "title": "Texte de la lettre n°218 de l'Ambassadeur de France au Costa-Rica et sa traduction de courtoisie en français",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7298,7 +7298,7 @@
     "treaty_id": "TRA20090096",
     "treaty_number": "001",
     "title": "Texte de l'accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7309,7 +7309,7 @@
     "treaty_id": "TRA20090138",
     "treaty_number": "001B",
     "title": "Texte de la lettre indienne et sa traduction en français",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7320,7 +7320,7 @@
     "treaty_id": "TRA20090142",
     "treaty_number": "001",
     "title": "Texte du Programme",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7331,7 +7331,7 @@
     "treaty_id": "TRA20090159",
     "treaty_number": "001A",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7342,7 +7342,7 @@
     "treaty_id": "TRA20090203",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement technique",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7353,7 +7353,7 @@
     "treaty_id": "TRA20090205",
     "treaty_number": "001",
     "title": "Texte de la Déclaration d'intention",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7386,7 +7386,7 @@
     "treaty_id": "TRA20090217",
     "treaty_number": "001",
     "title": "Texte de l'accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7430,7 +7430,7 @@
     "treaty_id": "TRA20090229",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7441,7 +7441,7 @@
     "treaty_id": "TRA20090243",
     "treaty_number": "001A",
     "title": "Texte de la lettre du Ministre du Manitoba",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7474,7 +7474,7 @@
     "treaty_id": "TRA20090256",
     "treaty_number": "001A",
     "title": "Texte de l'accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -7716,7 +7716,7 @@
     "treaty_id": "TRA2011475",
     "treaty_number": "001",
     "title": "Texte de l'accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2011,
     "file_exists": false,
     "file_size": 0
@@ -7771,7 +7771,7 @@
     "treaty_id": "TRA20131111",
     "treaty_number": "001",
     "title": "Texte du procès-verbal",
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "year": 2013,
     "file_exists": true,
     "file_size": 2023601
@@ -7925,7 +7925,7 @@
     "treaty_id": "TRA20142478",
     "treaty_number": "001",
     "title": "Texte du memorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2014,
     "file_exists": true,
     "file_size": 53637
@@ -8112,7 +8112,7 @@
     "treaty_id": "TRA20161975",
     "treaty_number": "001",
     "title": "Texte du mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2016,
     "file_exists": true,
     "file_size": 160331
@@ -8123,7 +8123,7 @@
     "treaty_id": "TRA20161977",
     "treaty_number": "001",
     "title": "Texte du mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2016,
     "file_exists": true,
     "file_size": 167519
@@ -8233,7 +8233,7 @@
     "treaty_id": "TRA20162295",
     "treaty_number": "001",
     "title": "Texte du relevé de décisions",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2016,
     "file_exists": true,
     "file_size": 168120
@@ -8431,7 +8431,7 @@
     "treaty_id": "TRA20172275",
     "treaty_number": "001",
     "title": "Texte du mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2017,
     "file_exists": true,
     "file_size": 507802
@@ -8607,7 +8607,7 @@
     "treaty_id": "TRA20172437",
     "treaty_number": "010",
     "title": "Texte de l'accord (lettre australienne)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2017,
     "file_exists": true,
     "file_size": 39197
@@ -8937,7 +8937,7 @@
     "treaty_id": "TRA20182484",
     "treaty_number": "001",
     "title": "Texte du partenariat",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2018,
     "file_exists": true,
     "file_size": 515003
@@ -8948,7 +8948,7 @@
     "treaty_id": "TRA20182490",
     "treaty_number": "001",
     "title": "Texte du Protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2018,
     "file_exists": false,
     "file_size": 0
@@ -9740,7 +9740,7 @@
     "treaty_id": "TRA20210001",
     "treaty_number": "001/5",
     "title": "Texte de l'accord en version espagnole",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2021,
     "file_exists": false,
     "file_size": 0
@@ -10444,7 +10444,7 @@
     "treaty_id": "TRA20240028",
     "treaty_number": "001",
     "title": "Mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2024,
     "file_exists": true,
     "file_size": 702650
@@ -10587,7 +10587,7 @@
     "treaty_id": "TRA20240065",
     "treaty_number": "001",
     "title": "Mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2024,
     "file_exists": true,
     "file_size": 1042016
@@ -10785,7 +10785,7 @@
     "treaty_id": "TRA20250005",
     "treaty_number": "001",
     "title": "Mémorandum d'entente",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2025,
     "file_exists": true,
     "file_size": 231009
@@ -11181,7 +11181,7 @@
     "treaty_id": "TRA16630006",
     "treaty_number": "001",
     "title": "Texte du traité (ensemble texte des pouvoirs danois et des pouvoirs français)",
-    "doc_type": "Autre",
+    "doc_type": "Traité",
     "year": 1663,
     "file_exists": true,
     "file_size": 26159457
@@ -11225,7 +11225,7 @@
     "treaty_id": "TRA16780001",
     "treaty_number": "007B",
     "title": "Texte du serment d'observer les dispositions du traité",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 1678,
     "file_exists": true,
     "file_size": 149978
@@ -11500,7 +11500,7 @@
     "treaty_id": "TRA17930005",
     "treaty_number": "001A",
     "title": "Texte de la lettre",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 1793,
     "file_exists": true,
     "file_size": 54140
@@ -12215,7 +12215,7 @@
     "treaty_id": "TRA18850024",
     "treaty_number": "001",
     "title": "Texte de l'accord en français",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1885,
     "file_exists": true,
     "file_size": 1077811
@@ -12523,7 +12523,7 @@
     "treaty_id": "TRA19190006",
     "treaty_number": "009",
     "title": "Texte de la Convention entre la Bulgarie et la Grèce relative à l'émigration réciproque et volontaire des minorités ethniques, de religion ou de langue",
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "year": 1919,
     "file_exists": true,
     "file_size": 187072
@@ -15097,7 +15097,7 @@
     "treaty_id": "TRA19310014",
     "treaty_number": "101",
     "title": "Texte du PV d'échange des ratifications",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 1931,
     "file_exists": true,
     "file_size": 35282
@@ -15801,7 +15801,7 @@
     "treaty_id": "TRA19470173",
     "treaty_number": "001",
     "title": "Texte du Protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 1947,
     "file_exists": true,
     "file_size": 1214568
@@ -17341,7 +17341,7 @@
     "treaty_id": "TRA19550092",
     "treaty_number": "001",
     "title": "Texte de l'accord (lettre française)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1955,
     "file_exists": true,
     "file_size": 54449
@@ -18441,7 +18441,7 @@
     "treaty_id": "TRA19650097",
     "treaty_number": "001",
     "title": "Texte de l'accord (ensemble 2 annexes) - lettre française",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1965,
     "file_exists": true,
     "file_size": 1786667
@@ -19552,7 +19552,7 @@
     "treaty_id": "TRA19730406",
     "treaty_number": "001",
     "title": "Texte de l'accord : note verbale française (ensemble bordereau des prix unitaires moyens en France)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1973,
     "file_exists": true,
     "file_size": 1723390
@@ -19563,7 +19563,7 @@
     "treaty_id": "TRA19730406",
     "treaty_number": "010",
     "title": "Texte de l'accord : note verbale soviétique",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1973,
     "file_exists": true,
     "file_size": 41816
@@ -19926,7 +19926,7 @@
     "treaty_id": "TRA19760312",
     "treaty_number": "001",
     "title": "Texte de l'accord (lettre française)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1976,
     "file_exists": true,
     "file_size": 33037
@@ -20531,7 +20531,7 @@
     "treaty_id": "TRA19840266",
     "treaty_number": "001",
     "title": "Texte du procès-verbal (ensemble liste des délégations chypriote et française)",
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "year": 1984,
     "file_exists": true,
     "file_size": 939518
@@ -20971,7 +20971,7 @@
     "treaty_id": "TRA19880550",
     "treaty_number": "001",
     "title": "Texte de l'accord (note verbale française)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1988,
     "file_exists": false,
     "file_size": 0
@@ -20982,7 +20982,7 @@
     "treaty_id": "TRA19880550",
     "treaty_number": "010",
     "title": "Texte de l'accord (note verbale malawite)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1988,
     "file_exists": false,
     "file_size": 0
@@ -21686,7 +21686,7 @@
     "treaty_id": "TRA19980277",
     "treaty_number": "001",
     "title": "Texte du procès-verbal (ensemble liste des délégations française et gabonaise) (ensemble un communiqué conjoint)",
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "year": 1998,
     "file_exists": true,
     "file_size": 2409578
@@ -22016,7 +22016,7 @@
     "treaty_id": "TRA20060070",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2006,
     "file_exists": false,
     "file_size": 0
@@ -22126,7 +22126,7 @@
     "treaty_id": "TRA20080007",
     "treaty_number": "001",
     "title": "Texte de l'accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22159,7 +22159,7 @@
     "treaty_id": "TRA20080027",
     "treaty_number": "001",
     "title": "Texte de la Déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22170,7 +22170,7 @@
     "treaty_id": "TRA20080028",
     "treaty_number": "001A",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22192,7 +22192,7 @@
     "treaty_id": "TRA20080039",
     "treaty_number": "001",
     "title": "Texte de la Déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22203,7 +22203,7 @@
     "treaty_id": "TRA20080046",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22214,7 +22214,7 @@
     "treaty_id": "TRA20080050",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22236,7 +22236,7 @@
     "treaty_id": "TRA20080064",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22269,7 +22269,7 @@
     "treaty_id": "TRA20080117",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement administratif",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22302,7 +22302,7 @@
     "treaty_id": "TRA20080160",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22313,7 +22313,7 @@
     "treaty_id": "TRA20080167",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22324,7 +22324,7 @@
     "treaty_id": "TRA20080169",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22335,7 +22335,7 @@
     "treaty_id": "TRA20080172",
     "treaty_number": "001OTAN",
     "title": "Texte du Protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22346,7 +22346,7 @@
     "treaty_id": "TRA20080182",
     "treaty_number": "001",
     "title": "Texte de la déclaration de partenariat et de la feuille de route.",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22357,7 +22357,7 @@
     "treaty_id": "TRA20080189",
     "treaty_number": "001",
     "title": "Texte de l'Accord-cadre",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22368,7 +22368,7 @@
     "treaty_id": "TRA20080192",
     "treaty_number": "001",
     "title": "Texte de l'Accord complémentaire",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22379,7 +22379,7 @@
     "treaty_id": "TRA20080197",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement administratif",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22390,7 +22390,7 @@
     "treaty_id": "TRA20080209",
     "treaty_number": "001",
     "title": "Texte de la déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22401,7 +22401,7 @@
     "treaty_id": "TRA20080217",
     "treaty_number": "001",
     "title": "Texte de la Déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22500,7 +22500,7 @@
     "treaty_id": "TRA20080265",
     "treaty_number": "001",
     "title": "Texte de l'Accord-cadre et de sa lettre de transmission",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22544,7 +22544,7 @@
     "treaty_id": "TRA20080277",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement administratif",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22566,7 +22566,7 @@
     "treaty_id": "TRA20080289",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22599,7 +22599,7 @@
     "treaty_id": "TRA20080306",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22610,7 +22610,7 @@
     "treaty_id": "TRA20080327",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22643,7 +22643,7 @@
     "treaty_id": "TRA20080353",
     "treaty_number": "001",
     "title": "Texte de la Déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22654,7 +22654,7 @@
     "treaty_id": "TRA20080399",
     "treaty_number": "001/3",
     "title": "Texte de l'accord en espagnol",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22665,7 +22665,7 @@
     "treaty_id": "TRA20083130",
     "treaty_number": "001",
     "title": "Texte de la convention",
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -22709,7 +22709,7 @@
     "treaty_id": "TRA20090006",
     "treaty_number": "001",
     "title": "Texte de l'arrangement administratif [ensemble] description des signataires",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22720,7 +22720,7 @@
     "treaty_id": "TRA20090011",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22731,7 +22731,7 @@
     "treaty_id": "TRA20090017",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22742,7 +22742,7 @@
     "treaty_id": "TRA20090020",
     "treaty_number": "001",
     "title": "Texte de la Déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22753,7 +22753,7 @@
     "treaty_id": "TRA20090038",
     "treaty_number": "001",
     "title": "Texte du Communiqué final",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22764,7 +22764,7 @@
     "treaty_id": "TRA20090062",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22775,7 +22775,7 @@
     "treaty_id": "TRA20090068",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22808,7 +22808,7 @@
     "treaty_id": "TRA20090138",
     "treaty_number": "001A",
     "title": "Texte de la lettre française n°SG/2009-417",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22819,7 +22819,7 @@
     "treaty_id": "TRA20090149",
     "treaty_number": "001",
     "title": "Texte de l'accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22830,7 +22830,7 @@
     "treaty_id": "TRA20090204",
     "treaty_number": "001",
     "title": "Texte de la Déclaration d'intention",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22841,7 +22841,7 @@
     "treaty_id": "TRA20090215",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22885,7 +22885,7 @@
     "treaty_id": "TRA20090232",
     "treaty_number": "001",
     "title": "Memorandum relatif à la mise en oeuvre d'un programme triannuel de formation au français dans l'administration tchèque",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2009,
     "file_exists": true,
     "file_size": 82670
@@ -22918,7 +22918,7 @@
     "treaty_id": "TRA20090266",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22973,7 +22973,7 @@
     "treaty_id": "TRA20090318",
     "treaty_number": "001",
     "title": "Texte de la Convention",
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -22984,7 +22984,7 @@
     "treaty_id": "TRA20090319",
     "treaty_number": "001",
     "title": "Texte de la Déclaration commune",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -23017,7 +23017,7 @@
     "treaty_id": "TRA20100132",
     "treaty_number": "01",
     "title": "Texte du procès-verbal",
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "year": 2010,
     "file_exists": false,
     "file_size": 0
@@ -23490,7 +23490,7 @@
     "treaty_id": "TRA20142481",
     "treaty_number": "001",
     "title": "Texte du memorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2014,
     "file_exists": true,
     "file_size": 41326
@@ -23556,7 +23556,7 @@
     "treaty_id": "TRA20151964",
     "treaty_number": "001",
     "title": "Texte du mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2015,
     "file_exists": true,
     "file_size": 1019846
@@ -23567,7 +23567,7 @@
     "treaty_id": "TRA20152007",
     "treaty_number": "001",
     "title": "Texte de l'accord (lettre française)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2015,
     "file_exists": false,
     "file_size": 0
@@ -23677,7 +23677,7 @@
     "treaty_id": "TRA20161960",
     "treaty_number": "001",
     "title": "Texte du Memorandum of understanding",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2016,
     "file_exists": false,
     "file_size": 0
@@ -23710,7 +23710,7 @@
     "treaty_id": "TRA20161974",
     "treaty_number": "001",
     "title": "Texte du mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2016,
     "file_exists": true,
     "file_size": 109179
@@ -23721,7 +23721,7 @@
     "treaty_id": "TRA20161980",
     "treaty_number": "001",
     "title": "Texte du mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2016,
     "file_exists": true,
     "file_size": 129457
@@ -23952,7 +23952,7 @@
     "treaty_id": "TRA20172286",
     "treaty_number": "001",
     "title": "Texte du programme",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2017,
     "file_exists": true,
     "file_size": 88063
@@ -24095,7 +24095,7 @@
     "treaty_id": "TRA20172437",
     "treaty_number": "001",
     "title": "Texte de l'accord (lettre française)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2017,
     "file_exists": true,
     "file_size": 43968
@@ -24546,7 +24546,7 @@
     "treaty_id": "TRA20182625",
     "treaty_number": "001",
     "title": "Texte du programme",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2018,
     "file_exists": true,
     "file_size": 70583
@@ -24568,7 +24568,7 @@
     "treaty_id": "TRA20182651",
     "treaty_number": "001",
     "title": "Texte du mémorandum d'entente",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2018,
     "file_exists": true,
     "file_size": 169932
@@ -24689,7 +24689,7 @@
     "treaty_id": "TRA20192598",
     "treaty_number": "010",
     "title": "Texte de l'accord : note verbale australienne",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2019,
     "file_exists": true,
     "file_size": 24393
@@ -24733,7 +24733,7 @@
     "treaty_id": "TRA20192611",
     "treaty_number": "001",
     "title": "Texte de la lettre",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 2019,
     "file_exists": true,
     "file_size": 118017
@@ -24777,7 +24777,7 @@
     "treaty_id": "TRA20192643",
     "treaty_number": "001",
     "title": "Texte de l'accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2019,
     "file_exists": false,
     "file_size": 0
@@ -24821,7 +24821,7 @@
     "treaty_id": "TRA20192654",
     "treaty_number": "001",
     "title": "Texte du document cadre (ensemble programmation indicative du PDFC -Plan de développement France Comores- et son tableau)",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2019,
     "file_exists": true,
     "file_size": 371341
@@ -24942,7 +24942,7 @@
     "treaty_id": "TRA20192687",
     "treaty_number": "010",
     "title": "Texte de l'accord (lettre gabonaise)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2019,
     "file_exists": true,
     "file_size": 33817
@@ -25008,7 +25008,7 @@
     "treaty_id": "TRA20192702",
     "treaty_number": "001",
     "title": "Texte du programme",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2019,
     "file_exists": true,
     "file_size": 189932
@@ -25019,7 +25019,7 @@
     "treaty_id": "TRA20192703",
     "treaty_number": "001",
     "title": "Texte du plan d'action",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2019,
     "file_exists": true,
     "file_size": 348505
@@ -25162,7 +25162,7 @@
     "treaty_id": "TRA20192744",
     "treaty_number": "001",
     "title": "Texte du memorandum (Protocole d'accord entre le ministère de l'Europe et des affaires étrangères de la République française et le ministère des affaires étrangères du gouvernement du Népal pour la mise en place d'un mécanisme de consultation bilatérale)",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2019,
     "file_exists": true,
     "file_size": 98847
@@ -25305,7 +25305,7 @@
     "treaty_id": "TRA20202762",
     "treaty_number": "001",
     "title": "Texte du partenariat",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2020,
     "file_exists": true,
     "file_size": 977659
@@ -25360,7 +25360,7 @@
     "treaty_id": "TRA20202803",
     "treaty_number": "001",
     "title": "Texte du programme",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2020,
     "file_exists": true,
     "file_size": 86697
@@ -25393,7 +25393,7 @@
     "treaty_id": "TRA20210001",
     "treaty_number": "001/1",
     "title": "Texte de l'accord en version française",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2021,
     "file_exists": false,
     "file_size": 0
@@ -26614,7 +26614,7 @@
     "treaty_id": "TRA20250006",
     "treaty_number": "001",
     "title": "Mémorandum d'entente",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2025,
     "file_exists": true,
     "file_size": 399540
@@ -26746,7 +26746,7 @@
     "treaty_id": "TRA20250066",
     "treaty_number": "001",
     "title": "Texte du Protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2025,
     "file_exists": false,
     "file_size": 0
@@ -26845,7 +26845,7 @@
     "treaty_id": "TRA20250084",
     "treaty_number": "001",
     "title": "Mémorandum d'entente",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2025,
     "file_exists": false,
     "file_size": 0
@@ -26933,7 +26933,7 @@
     "treaty_id": "TRA20250114",
     "treaty_number": "001",
     "title": "Mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2025,
     "file_exists": false,
     "file_size": 0
@@ -27703,7 +27703,7 @@
     "treaty_id": "TRA18580012",
     "treaty_number": "003",
     "title": "Texte du traité OU Texte du projet de traité",
-    "doc_type": "Autre",
+    "doc_type": "Traité",
     "year": 1858,
     "file_exists": true,
     "file_size": 2934717
@@ -29155,7 +29155,7 @@
     "treaty_id": "TRA19202490",
     "treaty_number": "001",
     "title": "Texte du Protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 1920,
     "file_exists": false,
     "file_size": 0
@@ -32202,7 +32202,7 @@
     "treaty_id": "TRA19170013",
     "treaty_number": "001",
     "title": "Texte de la notification donnant pouvoir aux plénipotentiaires de demander la reconnaissance par la France de l'indépendance de la Finlande",
-    "doc_type": "Texte",
+    "doc_type": "Notification",
     "year": 1917,
     "file_exists": true,
     "file_size": 570253
@@ -33159,7 +33159,7 @@
     "treaty_id": "TRA19200069",
     "treaty_number": "001",
     "title": "Texte du Traité",
-    "doc_type": "Autre",
+    "doc_type": "Traité",
     "year": 1920,
     "file_exists": true,
     "file_size": 269884
@@ -34963,7 +34963,7 @@
     "treaty_id": "TRA19310014",
     "treaty_number": "100",
     "title": "Texte du protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 1931,
     "file_exists": true,
     "file_size": 184190
@@ -35326,7 +35326,7 @@
     "treaty_id": "TRA19390012",
     "treaty_number": "001",
     "title": "Texte des accords",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1939,
     "file_exists": true,
     "file_size": 3081589
@@ -36921,7 +36921,7 @@
     "treaty_id": "TRA19550092",
     "treaty_number": "010",
     "title": "Texte de l'accord (lettre belge)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1955,
     "file_exists": true,
     "file_size": 75646
@@ -37427,7 +37427,7 @@
     "treaty_id": "TRA19610117",
     "treaty_number": "010",
     "title": "Texte de l'accord (lettre chypriote)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1961,
     "file_exists": true,
     "file_size": 98634
@@ -37746,7 +37746,7 @@
     "treaty_id": "TRA19630112",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1963,
     "file_exists": false,
     "file_size": 0
@@ -38010,7 +38010,7 @@
     "treaty_id": "TRA19650054",
     "treaty_number": "100",
     "title": "Texte du procès-verbal de la XIIe commission mixte franco-italienne pour l'application de la convention culturelle",
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "year": 1965,
     "file_exists": true,
     "file_size": 1080441
@@ -38043,7 +38043,7 @@
     "treaty_id": "TRA19650138",
     "treaty_number": "001",
     "title": "Texte du contrat de bail (ensemble carte)",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 1965,
     "file_exists": true,
     "file_size": 290441
@@ -38054,7 +38054,7 @@
     "treaty_id": "TRA19650139",
     "treaty_number": "001",
     "title": "Texte du procès-verbal",
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "year": 1965,
     "file_exists": true,
     "file_size": 34964
@@ -38428,7 +38428,7 @@
     "treaty_id": "TRA19680114",
     "treaty_number": "001",
     "title": "Texte du Protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 1968,
     "file_exists": false,
     "file_size": 0
@@ -38571,7 +38571,7 @@
     "treaty_id": "TRA19710277",
     "treaty_number": "001",
     "title": "Texte de l'accord (note française)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1971,
     "file_exists": true,
     "file_size": 60506
@@ -38582,7 +38582,7 @@
     "treaty_id": "TRA19710277",
     "treaty_number": "010",
     "title": "Texte de l'accord (note soviétique)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1971,
     "file_exists": true,
     "file_size": 125955
@@ -39253,7 +39253,7 @@
     "treaty_id": "TRA19750336",
     "treaty_number": "001",
     "title": "Texte du contrat (ensemble 7 annexes)",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 1975,
     "file_exists": true,
     "file_size": 2426190
@@ -39539,7 +39539,7 @@
     "treaty_id": "TRA19760312",
     "treaty_number": "010",
     "title": "Texte de l'accord (lettre soviétique)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 1976,
     "file_exists": true,
     "file_size": 47852
@@ -39583,7 +39583,7 @@
     "treaty_id": "TRA19790233",
     "treaty_number": "001",
     "title": "Texte du procès-verbal (ensemble liste de la délégation française et liste de la délégation chypriote)",
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "year": 1979,
     "file_exists": true,
     "file_size": 530371
@@ -40771,7 +40771,7 @@
     "treaty_id": "TRA19940121",
     "treaty_number": "001",
     "title": "Texte du relevé de conclusions",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 1994,
     "file_exists": true,
     "file_size": 2734394
@@ -40782,7 +40782,7 @@
     "treaty_id": "TRA19940335",
     "treaty_number": "001",
     "title": "Texte de l'arrangement : note française (ensemble 3 plans annexés signés par le directeur général des douanes à Berne le 2 sept 1992 et par le directeur général des douanes et droits indirects à Paris le 30 mars 1993 )",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 1994,
     "file_exists": true,
     "file_size": 1138835
@@ -41552,7 +41552,7 @@
     "treaty_id": "TRA20040010",
     "treaty_number": "001",
     "title": "Texte du programme (ensemble 1 annexe)",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2004,
     "file_exists": true,
     "file_size": 258408
@@ -41783,7 +41783,7 @@
     "treaty_id": "TRA20060116",
     "treaty_number": "001",
     "title": "Texte du document cadre (ensemble 3 annexes)",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2006,
     "file_exists": true,
     "file_size": 1449190
@@ -41860,7 +41860,7 @@
     "treaty_id": "TRA20080008",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -41871,7 +41871,7 @@
     "treaty_id": "TRA20080016",
     "treaty_number": "001",
     "title": "Texte de la Convention",
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -41882,7 +41882,7 @@
     "treaty_id": "TRA20080017",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -41893,7 +41893,7 @@
     "treaty_id": "TRA20080022",
     "treaty_number": "001",
     "title": "Texte de la Lettre d'intention",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -41904,7 +41904,7 @@
     "treaty_id": "TRA20080030",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -41915,7 +41915,7 @@
     "treaty_id": "TRA20080038",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -41937,7 +41937,7 @@
     "treaty_id": "TRA20080044",
     "treaty_number": "001",
     "title": "Texte du Memorandum d'entente [ensemble] 3 annexes (1/ Liste des délégations française et brésilienne, 2/ Projet d'accord entre le Gouvernement de la République française et le Gouvernement de la République fédérative du Brésil relatif aux services aériens [ensemble] 1 annexe et 3/ Projet d'accords de partage de codes",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -41948,7 +41948,7 @@
     "treaty_id": "TRA20080045",
     "treaty_number": "001",
     "title": "Texte du Protocole d'entente",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -41959,7 +41959,7 @@
     "treaty_id": "TRA20080063",
     "treaty_number": "001",
     "title": "Texte du Protocole d'entente",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -41970,7 +41970,7 @@
     "treaty_id": "TRA20080078",
     "treaty_number": "001",
     "title": "Texte de la Déclaration politique",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -41992,7 +41992,7 @@
     "treaty_id": "TRA20080104",
     "treaty_number": "001",
     "title": "Texte du Memorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42036,7 +42036,7 @@
     "treaty_id": "TRA20080110",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement administratif",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42047,7 +42047,7 @@
     "treaty_id": "TRA20080120",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42058,7 +42058,7 @@
     "treaty_id": "TRA20080121",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42113,7 +42113,7 @@
     "treaty_id": "TRA20080158",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42124,7 +42124,7 @@
     "treaty_id": "TRA20080173",
     "treaty_number": "001OTAN",
     "title": "Texte du Protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42157,7 +42157,7 @@
     "treaty_id": "TRA20080188",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42168,7 +42168,7 @@
     "treaty_id": "TRA20080194",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42179,7 +42179,7 @@
     "treaty_id": "TRA20080198",
     "treaty_number": "001",
     "title": "Texte de la Convention",
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42201,7 +42201,7 @@
     "treaty_id": "TRA20080210",
     "treaty_number": "001",
     "title": "Texte de la déclaration commune",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42212,7 +42212,7 @@
     "treaty_id": "TRA20080212",
     "treaty_number": "001",
     "title": "Texte de la Déclaration conjointe",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42223,7 +42223,7 @@
     "treaty_id": "TRA20080213",
     "treaty_number": "001",
     "title": "Texte de la Déclaration commune",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42234,7 +42234,7 @@
     "treaty_id": "TRA20080215",
     "treaty_number": "001",
     "title": "Texte du Relevé de conclusions",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42245,7 +42245,7 @@
     "treaty_id": "TRA20080218",
     "treaty_number": "001",
     "title": "Texte de l'Accord cadre",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42256,7 +42256,7 @@
     "treaty_id": "TRA20080220",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42366,7 +42366,7 @@
     "treaty_id": "TRA20080266",
     "treaty_number": "001",
     "title": "Texte de l'Accord et de sa lettre de transmission",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42388,7 +42388,7 @@
     "treaty_id": "TRA20080281",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42399,7 +42399,7 @@
     "treaty_id": "TRA20080299",
     "treaty_number": "001",
     "title": "Texte de l'arrangement",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42432,7 +42432,7 @@
     "treaty_id": "TRA20080305",
     "treaty_number": "001",
     "title": "Texte du Plan d'action",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42443,7 +42443,7 @@
     "treaty_id": "TRA20080310",
     "treaty_number": "001",
     "title": "Texte du Protocole de coopération",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42454,7 +42454,7 @@
     "treaty_id": "TRA20080311",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42509,7 +42509,7 @@
     "treaty_id": "TRA20080399",
     "treaty_number": "001/1",
     "title": "Texte de l'accord en français",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42520,7 +42520,7 @@
     "treaty_id": "TRA20082020",
     "treaty_number": "001",
     "title": "Texte de l'Arrangement administratif",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2008,
     "file_exists": false,
     "file_size": 0
@@ -42542,7 +42542,7 @@
     "treaty_id": "TRA20090010",
     "treaty_number": "001",
     "title": "Texte du Procès-verbal et des annexes",
-    "doc_type": "Autre",
+    "doc_type": "Procès-verbal",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42553,7 +42553,7 @@
     "treaty_id": "TRA20090016",
     "treaty_number": "001",
     "title": "Texte de la déclaration commune",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42564,7 +42564,7 @@
     "treaty_id": "TRA20090034",
     "treaty_number": "001",
     "title": "Texte de l'arrangement administratif",
-    "doc_type": "Texte",
+    "doc_type": "Arrangement",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42575,7 +42575,7 @@
     "treaty_id": "TRA20090058",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42586,7 +42586,7 @@
     "treaty_id": "TRA20090059",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42597,7 +42597,7 @@
     "treaty_id": "TRA20090070",
     "treaty_number": "001",
     "title": "Texte de la Déclaration",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42608,7 +42608,7 @@
     "treaty_id": "TRA20090073",
     "treaty_number": "001A",
     "title": "Texte de la lettre n° DM-DGPE-289-09 du Ministre des Relations Extérieures espagnol et sa traduction de courtoisie en français",
-    "doc_type": "Texte",
+    "doc_type": "Lettre",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42641,7 +42641,7 @@
     "treaty_id": "TRA20090098",
     "treaty_number": "001FRA",
     "title": "Texte de la Convention",
-    "doc_type": "Texte",
+    "doc_type": "Convention",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42652,7 +42652,7 @@
     "treaty_id": "TRA20090129",
     "treaty_number": "001",
     "title": "Texte de la déclaration politique",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42663,7 +42663,7 @@
     "treaty_id": "TRA20090135",
     "treaty_number": "001B",
     "title": "Texte de l'accord : lettre française",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42674,7 +42674,7 @@
     "treaty_id": "TRA20090140",
     "treaty_number": "001",
     "title": "Texte du Mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42685,7 +42685,7 @@
     "treaty_id": "TRA20090141",
     "treaty_number": "001",
     "title": "Texte de l'Accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42696,7 +42696,7 @@
     "treaty_id": "TRA20090150",
     "treaty_number": "001",
     "title": "Texte de l'accord",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42707,7 +42707,7 @@
     "treaty_id": "TRA20090200",
     "treaty_number": "001",
     "title": "Memorandum relatif à la mise en oeuvre d'un programme pluriannuel de formation en français dans l'administration arménienne",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2009,
     "file_exists": true,
     "file_size": 84872
@@ -42718,7 +42718,7 @@
     "treaty_id": "TRA20090202",
     "treaty_number": "001",
     "title": "Texte de la Déclaration commune",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2009,
     "file_exists": false,
     "file_size": 0
@@ -42993,7 +42993,7 @@
     "treaty_id": "TRA20110627",
     "treaty_number": "001A",
     "title": "Texte de l'accord [signé]",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2011,
     "file_exists": false,
     "file_size": 0
@@ -43345,7 +43345,7 @@
     "treaty_id": "TRA20152007",
     "treaty_number": "010",
     "title": "Texte de l'accord (lettre italienne)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2015,
     "file_exists": false,
     "file_size": 0
@@ -43433,7 +43433,7 @@
     "treaty_id": "TRA20161862",
     "treaty_number": "001",
     "title": "Texte du relevé de conclusions",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2016,
     "file_exists": true,
     "file_size": 367680
@@ -43477,7 +43477,7 @@
     "treaty_id": "TRA20161976",
     "treaty_number": "001",
     "title": "Texte du mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2016,
     "file_exists": true,
     "file_size": 143015
@@ -43543,7 +43543,7 @@
     "treaty_id": "TRA20162288",
     "treaty_number": "001",
     "title": "Texte du mémorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2016,
     "file_exists": true,
     "file_size": 298626
@@ -43774,7 +43774,7 @@
     "treaty_id": "TRA20172369",
     "treaty_number": "001",
     "title": "Texte du Protocole",
-    "doc_type": "Autre",
+    "doc_type": "Protocole",
     "year": 2017,
     "file_exists": true,
     "file_size": 142590
@@ -43983,7 +43983,7 @@
     "treaty_id": "TRA20182386",
     "treaty_number": "001",
     "title": "Texte du pacte",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2018,
     "file_exists": true,
     "file_size": 2826769
@@ -44049,7 +44049,7 @@
     "treaty_id": "TRA20182434",
     "treaty_number": "001",
     "title": "Texte du memorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2018,
     "file_exists": true,
     "file_size": 413918
@@ -44071,7 +44071,7 @@
     "treaty_id": "TRA20182444",
     "treaty_number": "001",
     "title": "Texte du plan d'action",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2018,
     "file_exists": false,
     "file_size": 0
@@ -44137,7 +44137,7 @@
     "treaty_id": "TRA20182476",
     "treaty_number": "001",
     "title": "Texte du plan d'action",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2018,
     "file_exists": true,
     "file_size": 597430
@@ -44214,7 +44214,7 @@
     "treaty_id": "TRA20182517",
     "treaty_number": "001",
     "title": "Texte du partenariat",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2018,
     "file_exists": true,
     "file_size": 646759
@@ -44302,7 +44302,7 @@
     "treaty_id": "TRA20182650",
     "treaty_number": "001",
     "title": "Texte du plan d'action (ensemble 1 annexe)",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2018,
     "file_exists": true,
     "file_size": 375706
@@ -44434,7 +44434,7 @@
     "treaty_id": "TRA20192598",
     "treaty_number": "001",
     "title": "Texte de l'accord : note verbale française",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2019,
     "file_exists": true,
     "file_size": 39406
@@ -44632,7 +44632,7 @@
     "treaty_id": "TRA20192686",
     "treaty_number": "001",
     "title": "Texte du contrat (ensemble 4 annexes)",
-    "doc_type": "Autre",
+    "doc_type": "Texte",
     "year": 2019,
     "file_exists": true,
     "file_size": 304271
@@ -44643,7 +44643,7 @@
     "treaty_id": "TRA20192687",
     "treaty_number": "001",
     "title": "Texte de l'accord (lettre française)",
-    "doc_type": "Texte",
+    "doc_type": "Accord",
     "year": 2019,
     "file_exists": true,
     "file_size": 23607
@@ -44929,7 +44929,7 @@
     "treaty_id": "TRA20202773",
     "treaty_number": "001",
     "title": "Texte du memorandum",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2020,
     "file_exists": true,
     "file_size": 95130
@@ -46150,7 +46150,7 @@
     "treaty_id": "TRA20250004",
     "treaty_number": "001",
     "title": "Mémorandum d'entente",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2025,
     "file_exists": true,
     "file_size": 264689
@@ -46403,7 +46403,7 @@
     "treaty_id": "TRA20250079",
     "treaty_number": "001",
     "title": "Mémorandum d'entente",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2025,
     "file_exists": false,
     "file_size": 0
@@ -46414,7 +46414,7 @@
     "treaty_id": "TRA20250080",
     "treaty_number": "001",
     "title": "Mémorandum d'entente",
-    "doc_type": "Autre",
+    "doc_type": "Memorandum",
     "year": 2025,
     "file_exists": false,
     "file_size": 0
@@ -46524,7 +46524,7 @@
     "treaty_id": "TRA20250121",
     "treaty_number": "001",
     "title": "Texte de la Déclaration d'intention",
-    "doc_type": "Texte",
+    "doc_type": "Déclaration",
     "year": 2025,
     "file_exists": false,
     "file_size": 0

@@ -11,33 +11,93 @@ METADATA_DIR.mkdir(exist_ok=True)
 with open(LISTE_PDFS, "r") as f:
     lines = [l.strip() for l in f if l.strip() and not l.startswith("#")]
 
+TYPE_KEYWORD_PATTERNS = [
+    (r'^traité', 'Traité'),
+    (r'^convention', 'Convention'),
+    (r'^accord', 'Accord'),
+    (r'^protocole', 'Protocole'),
+    (r'^déclaration', 'Déclaration'),
+    (r'^arrangement', 'Arrangement'),
+    # [eé] rather than a bare é: some source titles drop the accent
+    # ("Echange de lettres") -- purely an OCR/scraping artifact upstream,
+    # not a different type.
+    (r'^[eé]change de lettres', 'Échange de lettres'),
+    (r'^[eé]change de notes', 'Échange de notes'),
+    (r'^lettre', 'Lettre'),
+    # Ratification, acceptance, approval and accession are the four standard
+    # means of expressing consent to a treaty (Vienna Convention on the Law
+    # of Treaties, Art. 11) -- "adhésion" is the French term for accession,
+    # hence folding "accession"-worded titles and the "ahésion" typo into the
+    # same label rather than treating them as a different type.
+    (r"^instrument d'?(adh[ée]sion|ah[ée]sion|accession)", "Instrument d'adhésion"),
+    (r'^instrument de ratification', 'Instrument de ratification'),
+    (r"^instrument d'?approbation", "Instrument d'approbation"),
+    (r"^instrument d'?acceptation", "Instrument d'acceptation"),
+    (r'^instrument de succession', 'Instrument de succession'),
+    (r'^pouvoirs', 'Pouvoirs'),
+    # [\s-] rather than a bare hyphen: many source titles use "procès verbal"
+    # (space) instead of "procès-verbal" (hyphen).
+    (r'^proc[èe]s[\s-]verba', 'Procès-verbal'),
+    (r'^note verbale', 'Note verbale'),
+    # Formal acknowledgment-of-receipt records -- a distinct, recurring
+    # administrative act with no other label fitting it. Covers "accusé de
+    # réception", "accusé réception" (no "de"), and the plural/hyphenated
+    # "accusé(s)-réception" variants seen in the source titles.
+    (r'^accusés?[\s-]?(de\s+)?r[ée]ception', 'Accusé de réception'),
+    (r'^certificat', 'Certificat'),
+    (r'^notification', 'Notification'),
+    # Titles that just say "Ratification ..." without the "Instrument de"
+    # prefix (e.g. "Ratification mauritanienne") -- same underlying act,
+    # folded into the existing label rather than left unclassified.
+    (r'^ratifications?\b', 'Instrument de ratification'),
+    (r'^m[ée]morandum', 'Memorandum'),
+    (r'^minutes', 'Minutes'),
+]
+
+# "Texte(s) de/du/des X" titles describe the TEXT of instrument X -- a flat
+# "Texte" label alone isn't informative for corpus-wide comparison (nearly
+# every document "is the text of" something), and it was swallowing hundreds
+# of documents whose real type (Accord, Déclaration, Memorandum, ...) was
+# right there in the title. If X matches a known type, classify by X instead;
+# only fall back to "Texte" when X isn't recognizable (e.g. "Texte de
+# l'avenant", "Texte du document cadre").
+TEXTE_OF_PREFIX = re.compile(r'^textes? (?:de|du|des)\s+')
+LEADING_ARTICLE = re.compile(r"^(?:l['’]|la\s+|le\s+|les\s+|du\s+|des\s+)")
+
+# Some titles lead with a short label before the actual type, e.g. "France -
+# Procès-verbal de dépôt..." or "Transmission de l'instrument : note verbale
+# des autorités monténégrines" -- the type is genuinely stated, just not at
+# position 0. Only strip a SHORT leading segment (<=40 chars) before a "-" or
+# ":" separator, so this can't accidentally eat into a long descriptive title
+# and misfire on unrelated text.
+LEADING_LABEL_PREFIX = re.compile(r'^[^-:]{1,40}[-:]\s*')
+
+
 def normalize_doc_type(title):
     if not title:
         return "Inconnu"
     t = title.lower().strip()
     base = re.sub(r'\(.*?\)', '', t).strip()
-    patterns = [
-        (r'^traité', 'Traité'),
-        (r'^convention', 'Convention'),
-        (r'^accord', 'Accord'),
-        (r'^protocole', 'Protocole'),
-        (r'^déclaration', 'Déclaration'),
-        (r'^arrangement', 'Arrangement'),
-        (r'^échange de lettres', 'Échange de lettres'),
-        (r'^lettre', 'Lettre'),
-        (r"^instrument d'?adhésion", "Instrument d'adhésion"),
-        (r'^instrument de ratification', 'Instrument de ratification'),
-        (r'^pouvoirs', 'Pouvoirs'),
-        (r'^procès-verbal', 'Procès-verbal'),
-        (r'^note verbale', 'Note verbale'),
-        (r'^certificat', 'Certificat'),
-        (r'^notification', 'Notification'),
-        (r'^texte de', 'Texte'),
-        (r'^minutes', 'Minutes'),
-    ]
-    for pattern, label in patterns:
+
+    texte_of = TEXTE_OF_PREFIX.match(base)
+    if texte_of:
+        remainder = LEADING_ARTICLE.sub('', base[texte_of.end():].strip()).strip()
+        for pattern, label in TYPE_KEYWORD_PATTERNS:
+            if re.match(pattern, remainder):
+                return label
+        return 'Texte'
+
+    for pattern, label in TYPE_KEYWORD_PATTERNS:
         if re.search(pattern, base):
             return label
+
+    label_prefix = LEADING_LABEL_PREFIX.match(base)
+    if label_prefix:
+        remainder = base[label_prefix.end():].strip()
+        for pattern, label in TYPE_KEYWORD_PATTERNS:
+            if re.match(pattern, remainder):
+                return label
+
     return "Autre"
 
 records = []

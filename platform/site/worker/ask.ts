@@ -72,7 +72,42 @@ export interface Env {
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
 const API_MODEL = "big-pickle";
-const MAX_HITS = 6;
+// Retrieval is two-stage, not a flat top-K keyword scan:
+//   1. seed  -- a small keyword-overlap search (searchAskIndex), cheap and
+//      precise for "does this document mention the query's words".
+//   2. expand -- for each seed, pull in its already-precomputed similarity-
+//      graph neighbours (DocDetail.similar_documents, built offline in
+//      platform/scripts/build_site_data.py::build_similarity from FAISS/
+//      LaBSE embeddings + lexical similarity -- see pdfkb/similarity). This
+//      is genuine semantic relevance propagation (documents *about the same
+//      thing* as a good keyword hit, even if they don't share its exact
+//      words), reusing data that's already published rather than running any
+//      embedding model inside the Worker (not feasible under Workers' CPU
+//      budget -- see the module header on why full-text search libraries
+//      were ruled out for the same reason).
+// This mirrors scripts/rag_ask.py's local pipeline in spirit: that one does
+// real FAISS nearest-neighbour search at query time (only possible locally,
+// where sentence-transformers can run); here, the *graph edges FAISS already
+// produced offline* stand in for a live vector search.
+const SEED_HITS = 6;
+// Of the full relevant set (below), only this many actually get fetched in
+// full and go into the LLM's context/citations -- keeps prompt size and
+// subrequest count sane. The rest are still returned to the client (as
+// `browse`, title/year/type/score only, no extra fetches) so the person
+// asking can scroll and open anything the retrieval considered relevant,
+// not just the subset the model happened to quote from.
+const FINAL_HITS = 10;
+// Per-seed cap on how many graph neighbours feed the *browsable* set. 10 is
+// the ceiling anyway -- platform/scripts/build_site_data.py only publishes
+// each document's top 10 similarity-graph neighbours.
+const GRAPH_BROWSE_PER_SEED = 10;
+const BROWSE_LIMIT = 60;
+// Comparison questions ("compare traité, accord, déclaration...") seed and
+// expand *per named type* so an under-represented type isn't crowded out --
+// same reasoning as scripts/rag_ask.py's search_by_doc_type.
+const COMPARE_SEED_PER_TYPE = 3;
+const COMPARE_FINAL_PER_TYPE = 5;
+const COMPARE_BROWSE_LIMIT_PER_TYPE = 25;
 const RELAY_STATE_KEY = "active_relay";
 // A relay that hasn't re-registered in this long is assumed offline (its
 // machine went to sleep, the tunnel died, ...) rather than trying a dead URL.
@@ -85,16 +120,25 @@ const SYSTEM_PROMPT =
   "d'inventer. Cite systématiquement l'identifiant de document entre crochets (ex. [16460004_s1]) " +
   "et l'année quand c'est pertinent. Réponds dans la langue de la question. Si le contexte contient " +
   "des sections « Profil du type documentaire », base toute comparaison de forme/rédaction entre " +
-  "types de documents sur les statistiques qu'elles donnent (fractions de documents, moyennes) et " +
-  "cite les pourcentages exacts plutôt que des impressions générales ; illustre avec les extraits " +
-  "réels fournis.";
+  "types de documents sur les statistiques qu'elles donnent (fractions de documents, moyennes) — " +
+  "ces statistiques portent sur l'ENSEMBLE des documents de ce type dans le corpus, pas seulement " +
+  "sur les extraits cités ci-dessous. Précise systématiquement le nombre total de documents sur " +
+  "lequel chaque statistique est calculée (donné en début de chaque profil, ex. « 387 document(s) " +
+  "classé(s) « Accord » ») pour que la fiabilité statistique soit explicite, cite les pourcentages " +
+  "exacts plutôt que des impressions générales, et illustre chaque affirmation avec au moins un " +
+  "extrait réel cité [identifiant] tiré des exemples fournis. Si le contexte contient une section " +
+  "« Note méthodologique », respecte-la STRICTEMENT : pour la partie qu'elle concerne, ne donne " +
+  "AUCUN pourcentage ni statistique de corpus, indique explicitement qu'il s'agit d'une recherche " +
+  "libre sur un terme non reconnu comme catégorie officielle, et limite-toi à décrire prudemment ce " +
+  "qui est observable dans les extraits cités pour cette partie.";
 
 // Mirrors the keys of metadata_design/doc_type_mapping.json (kept in sync by hand —
 // it changes rarely; see PROJECT_STATUS.md if it drifts).
 const DOC_TYPE_LABELS = [
-  "Accord", "Arrangement", "Autre", "Certificat", "Convention", "Déclaration",
-  "Échange de lettres", "Inconnu", "Instrument d'adhésion", "Instrument de ratification",
-  "Lettre", "Minutes", "Note verbale", "Notification", "Pouvoirs", "Procès-verbal",
+  "Accord", "Accusé de réception", "Arrangement", "Autre", "Certificat", "Convention", "Déclaration",
+  "Échange de lettres", "Échange de notes", "Inconnu", "Instrument d'acceptation", "Instrument d'adhésion",
+  "Instrument d'approbation", "Instrument de ratification", "Instrument de succession",
+  "Lettre", "Memorandum", "Minutes", "Note verbale", "Notification", "Pouvoirs", "Procès-verbal",
   "Protocole", "Texte", "Traité"
 ];
 
@@ -110,6 +154,16 @@ interface AskIndexDoc {
 interface SearchHit extends AskIndexDoc {
   document_id: string;
   score: number;
+  // Set when this hit was pulled in via graph expansion (similar_documents)
+  // rather than directly matching the query's keywords -- surfaced in
+  // buildContext so both the LLM and the `sources` list are transparent
+  // about why a given document is in context.
+  viaGraph?: boolean;
+  // Set on entries in the broader `browse` list (see handleAsk) that also
+  // made it into the LLM's actual context/citations, vs. ones that were
+  // identified as relevant but not sent to the model (still worth surfacing
+  // for a person to scroll through and open directly).
+  usedInAnswer?: boolean;
 }
 
 interface DocDetail {
@@ -127,6 +181,8 @@ interface DocTypeProfile {
   instrument_type?: string;
   legal_force?: string;
   narrative_fr?: string;
+  n_documents?: number;
+  low_sample_warning?: boolean;
   sample_openings?: { document_id?: string; year?: number; excerpt?: string }[];
 }
 
@@ -184,6 +240,80 @@ function detectDocTypes(query: string, labels: string[]): string[] {
   return labels.filter((label) => labelVariants(label).some((variant) => padded.includes(` ${variant} `)));
 }
 
+// Heuristic: does this question sound like it's trying to compare document
+// types at all? Deliberately loose (substring match on the normalised
+// query) -- false positives just mean an unnecessary but harmless
+// clarification; false negatives are the real risk (a comparison-shaped
+// question silently falling back to plain retrieval with no explanation,
+// which is exactly what happened when someone asked to compare "Traité" and
+// "Memorandum" -- the latter isn't one of the corpus's controlled labels).
+function hasComparisonIntent(query: string): boolean {
+  const normalised = normaliseFr(query);
+  return ["compar", "differenc", "distinction"].some((needle) => normalised.includes(needle));
+}
+
+// When a question clearly wants a type-vs-type comparison but fewer than 2
+// of the named terms match the corpus's actual controlled doc_type
+// vocabulary, answer deterministically instead of leaving it to the LLM to
+// notice and explain (which it *can* do correctly, as observed, but
+// inconsistently and without ever telling the person what the real options
+// are). Returns null when this doesn't apply (either it's not a comparison
+// question, or it already has >=2 valid types and can proceed normally).
+function buildUnmatchedTypeClarification(
+  query: string,
+  compareTypes: string[],
+  docTypeProfiles: DocTypeProfiles
+): string | null {
+  if (compareTypes.length >= 2 || !hasComparisonIntent(query)) return null;
+
+  const available = Object.values(docTypeProfiles.types || {})
+    .filter((profile): profile is DocTypeProfile & { label: string } => Boolean(profile.label && profile.n_documents))
+    .sort((a, b) => (b.n_documents ?? 0) - (a.n_documents ?? 0))
+    .map((profile) => `${profile.label} (${profile.n_documents})`)
+    .join(", ");
+
+  const matchedNote = compareTypes.length
+    ? `Type reconnu dans votre question : « ${compareTypes[0]} ». Le ou les autres termes utilisés ne correspondent à aucun type du corpus. `
+    : "Aucun des termes utilisés ne correspond à un type reconnu du corpus. ";
+
+  return (
+    "Votre question semble demander une comparaison entre types de documents, mais elle ne peut pas être traitée " +
+    "telle quelle : " +
+    matchedNote +
+    "Cette classification (indépendante de cette question) ne connaît que les types suivants, avec leur nombre de " +
+    `documents dans le corpus : ${available}. ` +
+    "Reformulez votre question en citant deux de ces types exacts, par exemple : « Compare les types Traité et " +
+    "Accord et dis-moi s'il y a des différences de forme/rédaction »."
+  );
+}
+
+// Companion to buildUnmatchedTypeClarification, for the case where we DON'T
+// want to refuse outright: compareTypes has 0 or 1 real matches but there's
+// still a genuine comparison intent. Rather than hard-stopping, handleAsk
+// now falls through to a "degraded compare" retrieval (free-text search
+// standing in for the unmatched term(s), no corpus-wide stats attached) and
+// uses this text both as a context block telling the LLM exactly how to
+// caveat that part of the answer, and as a `degraded_notice` field the UI
+// can render as a visible disclaimer alongside a real answer.
+function buildDegradedNotice(compareTypes: string[], docTypeProfiles: DocTypeProfiles): string {
+  const available = Object.values(docTypeProfiles.types || {})
+    .filter((profile): profile is DocTypeProfile & { label: string } => Boolean(profile.label && profile.n_documents))
+    .sort((a, b) => (b.n_documents ?? 0) - (a.n_documents ?? 0))
+    .map((profile) => `${profile.label} (${profile.n_documents})`)
+    .join(", ");
+  const subject = compareTypes.length
+    ? `« ${compareTypes[0]} » est un type reconnu du corpus (statistiques ci-dessous). L'autre terme utilisé dans ` +
+      "votre question"
+    : "Aucun des termes utilisés dans votre question";
+  return (
+    `### Note méthodologique (à respecter strictement dans ta réponse)\n\n${subject} ne correspond à aucun des ` +
+    "types officiels du corpus. Les extraits montrés pour ce terme proviennent d'une recherche libre sur le " +
+    "texte/titre des documents, pas d'une catégorie auditée : aucune statistique de pourcentage n'existe pour " +
+    `cette partie de la comparaison, seulement les exemples concrets cités. Types officiels disponibles avec leur ` +
+    `nombre de documents dans le corpus : ${available}.`
+  );
+}
+
 function searchAskIndex(query: string, docs: AskIndexDoc[], limit: number): SearchHit[] {
   const queryWords = Array.from(new Set(query.toLowerCase().match(/[a-zà-öø-ÿ0-9]{3,}/g) || []));
   if (!queryWords.length) return [];
@@ -211,8 +341,11 @@ function buildContext(hits: SearchHit[], details: (DocDetail | null)[]): string 
   hits.forEach((hit, i) => {
     const detail = details[i];
     const title = detail?.title || hit.title || hit.document_id;
+    const provenance = hit.viaGraph
+      ? "trouvé via graphe de similarité"
+      : "correspondance mots-clés";
     const lines = [
-      `### [${hit.document_id}] ${title} (${detail?.year ?? hit.year ?? "année n/a"}, score=${hit.score.toFixed(2)})`,
+      `### [${hit.document_id}] ${title} (${detail?.year ?? hit.year ?? "année n/a"}, score=${hit.score.toFixed(2)}, ${provenance})`,
       `Traité : ${detail?.treaty_id || hit.treaty_id || "n/a"} · Type : ${detail?.doc_type || hit.doc_type || "n/a"}`,
       "",
       (detail?.text_preview || "").trim()
@@ -383,6 +516,46 @@ async function askLLMViaRelay(question: string, context: string, relayUrl: strin
   return data.answer ?? "";
 }
 
+// Pulls in graph neighbours of `seedHits` (via each seed's already-fetched
+// DocDetail.similar_documents) up to `limit`, skipping anything in
+// `exclude`. `typeFilter`, when given, only keeps a candidate whose doc_type
+// (looked up in `docsById`, since similar_documents' own "type" field is the
+// *edge* type like "similar_to", not the target document's doc_type) matches
+// -- used by comparison mode to keep expansion within the named type instead
+// of drifting into whichever type happens to dominate the similarity graph.
+function expandViaGraph(
+  seedHits: SearchHit[],
+  seedDetails: (DocDetail | null)[],
+  docsById: Map<string, AskIndexDoc>,
+  exclude: Set<string>,
+  limit: number,
+  perSeedCap: number,
+  typeFilter?: string
+): SearchHit[] {
+  const candidates: SearchHit[] = [];
+  const localSeen = new Set<string>();
+  seedHits.forEach((seed, i) => {
+    // Cap how many neighbours a single seed can contribute, so one
+    // well-connected document doesn't crowd out the others' neighbourhoods.
+    const related = (seedDetails[i]?.similar_documents || []).slice(0, perSeedCap);
+    for (const rel of related) {
+      if (!rel.document_id || exclude.has(rel.document_id) || localSeen.has(rel.document_id)) continue;
+      if (typeFilter && docsById.get(rel.document_id)?.doc_type !== typeFilter) continue;
+      localSeen.add(rel.document_id);
+      candidates.push({
+        id: rel.document_id,
+        document_id: rel.document_id,
+        title: rel.title,
+        doc_type: docsById.get(rel.document_id)?.doc_type,
+        score: Number(rel.score ?? 0),
+        viaGraph: true
+      });
+    }
+  });
+  candidates.sort((a, b) => b.score - a.score);
+  return candidates.slice(0, Math.max(0, limit));
+}
+
 async function handleAsk(request: Request, env: Env, origin: string): Promise<Response> {
   let query = "";
   try {
@@ -396,42 +569,195 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
   }
 
   const askDocs = await loadAskIndex(env, origin);
+  const docsById = new Map(askDocs.map((doc) => [doc.id, doc]));
   const docTypeProfiles = await loadDocTypeProfiles(env, origin);
   const compareTypes = detectDocTypes(query, DOC_TYPE_LABELS).filter((label) => docTypeProfiles.types?.[label]);
+  // A comparison-shaped question ("compare X et Y") with fewer than 2 real
+  // corpus doc_types matched used to hard-refuse via
+  // buildUnmatchedTypeClarification. It now falls through to a "degraded
+  // compare" instead: whichever term(s) DID match still get a real,
+  // rigorous profile; the unmatched term is covered by plain free-text
+  // search, clearly disclaimed (see buildDegradedNotice) rather than
+  // silently treated as an official category, or silently refused outright.
+  const degradedCompare = compareTypes.length < 2 && hasComparisonIntent(query);
+  // Set only inside the degradedCompare branch below; surfaced to the client
+  // as `degraded_notice` so the UI can render it as a visible disclaimer
+  // alongside a real (partial) answer.
+  let degradedNotice: string | undefined;
 
   let hits: SearchHit[];
+  let details: (DocDetail | null)[];
   let contextBlocks: string[];
+  // Broader than `hits`: every document the retrieval considered relevant
+  // (seeds + all their graph neighbours, up to BROWSE_LIMIT /
+  // COMPARE_BROWSE_LIMIT_PER_TYPE), not just the smaller subset that fit
+  // into the LLM's context. Returned to the client so a person can scroll
+  // and open any of them directly, not only the ones the model quoted from.
+  let browse: SearchHit[];
 
   if (compareTypes.length >= 2) {
     // Comparison mode: prepend corpus-wide structural profiles for each named
     // type, then retrieve real excerpts *per type* (not one undifferentiated
     // top-k) so under-represented types aren't crowded out — see the module
     // header comment and scripts/rag_ask.py for the equivalent local logic.
+    // Within each type: seed with keyword search, then expand via the
+    // similarity graph (still restricted to that type) instead of just
+    // taking more raw keyword matches.
     const profileBlocks = compareTypes.map((label) => buildProfileBlock(label, docTypeProfiles.types![label]));
-    const perType = Math.max(1, Math.floor(MAX_HITS / compareTypes.length));
     const seen = new Set<string>();
     hits = [];
+    details = [];
+    browse = [];
     for (const label of compareTypes) {
       const typedDocs = askDocs.filter((doc) => doc.doc_type === label);
-      for (const hit of searchAskIndex(query, typedDocs, perType)) {
-        if (seen.has(hit.document_id)) continue;
-        seen.add(hit.document_id);
-        hits.push(hit);
-      }
+      const typeSeeds = searchAskIndex(query, typedDocs, COMPARE_SEED_PER_TYPE).filter(
+        (hit) => !seen.has(hit.document_id)
+      );
+      typeSeeds.forEach((hit) => seen.add(hit.document_id));
+      const typeSeedDetails = await Promise.all(typeSeeds.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
+
+      // Full browsable neighbourhood for this type (no extra fetches needed —
+      // similar_documents was already loaded fetching typeSeedDetails above).
+      const typeBrowseExpanded = expandViaGraph(
+        typeSeeds,
+        typeSeedDetails,
+        docsById,
+        seen,
+        COMPARE_BROWSE_LIMIT_PER_TYPE,
+        GRAPH_BROWSE_PER_SEED,
+        label
+      );
+      // Smaller, already-score-sorted subset of that which actually gets
+      // fetched in full and sent to the LLM.
+      const typeExpanded = typeBrowseExpanded.slice(0, Math.max(0, COMPARE_FINAL_PER_TYPE - typeSeeds.length));
+      typeExpanded.forEach((hit) => seen.add(hit.document_id));
+      const typeExpandedDetails = await Promise.all(
+        typeExpanded.map((hit) => fetchDocDetail(env, origin, hit.document_id))
+      );
+
+      hits.push(...typeSeeds, ...typeExpanded);
+      details.push(...typeSeedDetails, ...typeExpandedDetails);
+      const usedIds = new Set([...typeSeeds, ...typeExpanded].map((hit) => hit.document_id));
+      browse.push(
+        ...typeSeeds.map((hit) => ({ ...hit, usedInAnswer: true })),
+        ...typeBrowseExpanded.map((hit) => ({ ...hit, usedInAnswer: usedIds.has(hit.document_id) }))
+      );
     }
-    const details = await Promise.all(hits.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
     contextBlocks = [...profileBlocks];
     if (hits.length) contextBlocks.push(buildContext(hits, details));
-  } else {
-    hits = searchAskIndex(query, askDocs, MAX_HITS);
+  } else if (degradedCompare) {
+    // Degraded compare: a real profile (if any) for whichever type matched,
+    // plus an honest, unrestricted free-text search standing in for the
+    // unmatched term(s) instead of refusing outright -- see
+    // buildDegradedNotice for exactly how that gets disclaimed to both the
+    // LLM and the client.
+    const profileBlocks = compareTypes.map((label) => buildProfileBlock(label, docTypeProfiles.types![label]));
+    const seen = new Set<string>();
+    hits = [];
+    details = [];
+    browse = [];
+
+    for (const label of compareTypes) {
+      const typedDocs = askDocs.filter((doc) => doc.doc_type === label);
+      const typeSeeds = searchAskIndex(query, typedDocs, COMPARE_SEED_PER_TYPE).filter(
+        (hit) => !seen.has(hit.document_id)
+      );
+      typeSeeds.forEach((hit) => seen.add(hit.document_id));
+      const typeSeedDetails = await Promise.all(typeSeeds.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
+      const typeBrowseExpanded = expandViaGraph(
+        typeSeeds,
+        typeSeedDetails,
+        docsById,
+        seen,
+        COMPARE_BROWSE_LIMIT_PER_TYPE,
+        GRAPH_BROWSE_PER_SEED,
+        label
+      );
+      const typeExpanded = typeBrowseExpanded.slice(0, Math.max(0, COMPARE_FINAL_PER_TYPE - typeSeeds.length));
+      typeExpanded.forEach((hit) => seen.add(hit.document_id));
+      const typeExpandedDetails = await Promise.all(
+        typeExpanded.map((hit) => fetchDocDetail(env, origin, hit.document_id))
+      );
+      hits.push(...typeSeeds, ...typeExpanded);
+      details.push(...typeSeedDetails, ...typeExpandedDetails);
+      const typeUsedIds = new Set([...typeSeeds, ...typeExpanded].map((hit) => hit.document_id));
+      browse.push(
+        ...typeSeeds.map((hit) => ({ ...hit, usedInAnswer: true })),
+        ...typeBrowseExpanded.map((hit) => ({ ...hit, usedInAnswer: typeUsedIds.has(hit.document_id) }))
+      );
+    }
+
+    // Free-text stand-in for the unmatched term(s): same seed+graph-expansion
+    // retrieval as plain mode, over the whole corpus (no type filter -- there
+    // is no real type to filter by), excluding whatever the matched-type loop
+    // above already picked up.
+    const freeSeeds = searchAskIndex(query, askDocs, SEED_HITS).filter((hit) => !seen.has(hit.document_id));
+    freeSeeds.forEach((hit) => seen.add(hit.document_id));
+    const freeSeedDetails = await Promise.all(freeSeeds.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
+    const freeBrowseExpanded = expandViaGraph(freeSeeds, freeSeedDetails, docsById, seen, BROWSE_LIMIT, GRAPH_BROWSE_PER_SEED);
+    const freeExpanded = freeBrowseExpanded.slice(0, Math.max(0, FINAL_HITS - freeSeeds.length));
+    freeExpanded.forEach((hit) => seen.add(hit.document_id));
+    const freeExpandedDetails = await Promise.all(
+      freeExpanded.map((hit) => fetchDocDetail(env, origin, hit.document_id))
+    );
+    hits.push(...freeSeeds, ...freeExpanded);
+    details.push(...freeSeedDetails, ...freeExpandedDetails);
+    const freeUsedIds = new Set([...freeSeeds, ...freeExpanded].map((hit) => hit.document_id));
+    browse.push(
+      ...freeSeeds.map((hit) => ({ ...hit, usedInAnswer: true })),
+      ...freeBrowseExpanded.map((hit) => ({ ...hit, usedInAnswer: freeUsedIds.has(hit.document_id) }))
+    );
+
     if (!hits.length) {
+      // Genuinely nothing to answer from even with an unrestricted free-text
+      // fallback -- fall back to the deterministic clarification rather than
+      // sending an empty context to the LLM.
       return Response.json({
-        answer: "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation.",
-        sources: []
+        answer:
+          buildUnmatchedTypeClarification(query, compareTypes, docTypeProfiles) ||
+          "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation.",
+        sources: [],
+        browse: [],
+        profiles: undefined
       });
     }
-    const details = await Promise.all(hits.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
+
+    degradedNotice = buildDegradedNotice(compareTypes, docTypeProfiles);
+    contextBlocks = [degradedNotice, ...profileBlocks, buildContext(hits, details)];
+  } else {
+    // Plain question: seed with keyword search, then expand via the
+    // similarity graph (see expandViaGraph) so context isn't limited to
+    // documents that happen to share the query's exact words.
+    const seedHits = searchAskIndex(query, askDocs, SEED_HITS);
+    if (!seedHits.length) {
+      return Response.json({
+        answer: "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation.",
+        sources: [],
+        browse: []
+      });
+    }
+    const seedDetails = await Promise.all(seedHits.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
+    const seedIds = new Set(seedHits.map((hit) => hit.document_id));
+    const browseExpanded = expandViaGraph(
+      seedHits,
+      seedDetails,
+      docsById,
+      seedIds,
+      BROWSE_LIMIT,
+      GRAPH_BROWSE_PER_SEED
+    );
+    const expanded = browseExpanded.slice(0, Math.max(0, FINAL_HITS - seedHits.length));
+    const expandedDetails = await Promise.all(expanded.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
+
+    hits = [...seedHits, ...expanded];
+    details = [...seedDetails, ...expandedDetails];
     contextBlocks = [buildContext(hits, details)];
+
+    const usedIds = new Set(hits.map((hit) => hit.document_id));
+    browse = [
+      ...seedHits.map((hit) => ({ ...hit, usedInAnswer: true })),
+      ...browseExpanded.map((hit) => ({ ...hit, usedInAnswer: usedIds.has(hit.document_id) }))
+    ];
   }
 
   const context = contextBlocks.join("\n\n---\n\n");
@@ -439,17 +765,63 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
     document_id: hit.document_id,
     title: hit.title,
     year: hit.year,
-    score: hit.score
+    score: hit.score,
+    via_graph: Boolean(hit.viaGraph)
   }));
+  // Deduplicated, score-sorted version of the broader relevant set (see
+  // `browse` above) for the client to render as a scrollable, clickable list
+  // -- every document retrieval considered relevant, not just the ones that
+  // fit into the LLM's context.
+  const browseSeen = new Set<string>();
+  const browseSources = browse
+    .filter((hit) => {
+      if (browseSeen.has(hit.document_id)) return false;
+      browseSeen.add(hit.document_id);
+      return true;
+    })
+    .sort((a, b) => b.score - a.score)
+    .map((hit) => ({
+      document_id: hit.document_id,
+      title: hit.title,
+      year: hit.year,
+      doc_type: hit.doc_type,
+      score: hit.score,
+      via_graph: Boolean(hit.viaGraph),
+      used_in_answer: Boolean(hit.usedInAnswer)
+    }));
+  // Separate from `sources` (the illustrative excerpts): the corpus-wide
+  // statistical basis for a comparison answer, so callers (the /assistant/
+  // UI, or anything else consuming this API) can show explicitly that "79.3%
+  // numbered articles" etc. is measured over the type's full document count,
+  // not just the handful of excerpts quoted above.
+  const profiles =
+    compareTypes.length >= 1
+      ? compareTypes.map((label) => {
+          const profile = docTypeProfiles.types![label];
+          return {
+            label,
+            instrument_type: profile.instrument_type ?? null,
+            n_documents: profile.n_documents ?? null,
+            low_sample_warning: Boolean(profile.low_sample_warning)
+          };
+        })
+      : undefined;
 
   const relayUrl = (await getActiveRelayUrl(env)) || env.RELAY_URL;
   if (relayUrl && env.RELAY_SHARED_SECRET) {
     try {
       const answer = await askLLMViaRelay(query, context, relayUrl, env.RELAY_SHARED_SECRET);
-      return Response.json({ answer, sources });
+      return Response.json({ answer, sources, browse: browseSources, profiles, degraded_notice: degradedNotice });
     } catch (error) {
       return Response.json(
-        { answer: null, sources, error: error instanceof Error ? error.message : String(error) },
+        {
+          answer: null,
+          sources,
+          browse: browseSources,
+          profiles,
+          degraded_notice: degradedNotice,
+          error: error instanceof Error ? error.message : String(error)
+        },
         { status: 502 }
       );
     }
@@ -459,6 +831,9 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
     return Response.json({
       answer: null,
       sources,
+      browse: browseSources,
+      profiles,
+      degraded_notice: degradedNotice,
       error:
         "Aucun relais actif (voir scripts/run_relay_stack.sh) et OPENCODE_API_KEY n'est pas non " +
         "plus configuré côté serveur (wrangler secret put ...)."
@@ -467,10 +842,17 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
 
   try {
     const answer = await askLLMDirect(query, context, env.OPENCODE_API_KEY);
-    return Response.json({ answer, sources });
+    return Response.json({ answer, sources, browse: browseSources, profiles, degraded_notice: degradedNotice });
   } catch (error) {
     return Response.json(
-      { answer: null, sources, error: error instanceof Error ? error.message : String(error) },
+      {
+        answer: null,
+        sources,
+        browse: browseSources,
+        profiles,
+        degraded_notice: degradedNotice,
+        error: error instanceof Error ? error.message : String(error)
+      },
       { status: 502 }
     );
   }

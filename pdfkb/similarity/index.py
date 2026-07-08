@@ -22,6 +22,13 @@ def _normalise(vectors: np.ndarray) -> np.ndarray:
 def build_index(embeddings_npy: Path, embeddings_index_pq: Path, cfg: SimilarityConfig, out_dir: Path) -> Path:
     import faiss
 
+    # faiss's and torch's (sentence-transformers, already loaded earlier in the
+    # same `similarity build` run for embeddings) bundled OpenMP runtimes
+    # crash (segfault) if faiss is left multi-threaded in the same process --
+    # see pdfkb/__main__.py's KMP_DUPLICATE_LIB_OK/OMP_NUM_THREADS env vars,
+    # and scripts/rag_ask.py's KnowledgeBase.__init__ for the same fix.
+    faiss.omp_set_num_threads(1)
+
     out_dir.mkdir(parents=True, exist_ok=True)
     vectors = np.load(embeddings_npy).astype(np.float32)
     if vectors.size == 0:
