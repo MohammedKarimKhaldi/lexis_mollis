@@ -58,9 +58,25 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import requests
 
 API_URL = os.environ.get("RELAY_API_URL", "https://opencode.ai/zen/v1/chat/completions")
-API_MODEL = os.environ.get("RELAY_API_MODEL", "big-pickle")
+DEFAULT_MODEL = os.environ.get("RELAY_API_MODEL", "big-pickle")
 HOST = os.environ.get("RELAY_HOST", "127.0.0.1")
 PORT = int(os.environ.get("RELAY_PORT", "8799"))
+
+# Kept in sync by hand with FREE_MODELS in platform/site/worker/ask.ts — any
+# model id the Worker is allowed to request must be whitelisted here too,
+# since this relay is what actually calls OpenCode Zen.
+FREE_MODEL_IDS = {
+    "big-pickle",
+    "deepseek-v4-flash-free",
+    "mimo-v2.5-free",
+    "hy3-free",
+    "nemotron-3-ultra-free",
+    "north-mini-code-free",
+}
+
+
+def resolve_model(requested: object) -> str:
+    return requested if isinstance(requested, str) and requested in FREE_MODEL_IDS else DEFAULT_MODEL
 
 # Kept identical in wording to platform/site/worker/ask.ts and scripts/rag_ask.py
 # so all three entry points (site, relay, local CLI) answer the same way.
@@ -85,9 +101,9 @@ def _env_or_exit(name: str) -> str:
     return value
 
 
-def ask_opencode(question: str, context: str, api_key: str) -> str:
+def ask_opencode(question: str, context: str, api_key: str, model: str = DEFAULT_MODEL) -> str:
     payload = {
-        "model": API_MODEL,
+        "model": model,
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": f"Contexte :\n\n{context}\n\n---\n\nQuestion : {question}"},
@@ -116,7 +132,7 @@ def make_handler(api_key: str, shared_secret: str) -> type:
 
         def do_GET(self) -> None:  # noqa: N802
             if self.path == "/health":
-                self._send_json(200, {"status": "ok", "model": API_MODEL})
+                self._send_json(200, {"status": "ok", "model": DEFAULT_MODEL})
             else:
                 self._send_json(404, {"error": "not found"})
 
@@ -133,6 +149,7 @@ def make_handler(api_key: str, shared_secret: str) -> type:
                 body = json.loads(raw or b"{}")
                 question = str(body.get("question") or "").strip()
                 context = str(body.get("context") or "")
+                model = resolve_model(body.get("model"))
             except Exception as exc:  # noqa: BLE001 - report and move on, don't crash the server
                 self._send_json(400, {"error": f"invalid request body: {exc}"})
                 return
@@ -140,12 +157,12 @@ def make_handler(api_key: str, shared_secret: str) -> type:
                 self._send_json(400, {"error": "missing question"})
                 return
             try:
-                answer = ask_opencode(question, context, api_key)
+                answer = ask_opencode(question, context, api_key, model)
             except Exception as exc:  # noqa: BLE001 - report upstream failure, keep serving
                 print(f"[relay] OpenCode Zen call failed: {exc}", file=sys.stderr)
                 self._send_json(502, {"error": str(exc)})
                 return
-            print(f"[relay] answered ({len(question)} char question -> {len(answer)} char answer)", file=sys.stderr)
+            print(f"[relay] answered with {model} ({len(question)} char question -> {len(answer)} char answer)", file=sys.stderr)
             self._send_json(200, {"answer": answer})
 
         def log_message(self, fmt: str, *args: object) -> None:  # quieter default access log
@@ -158,7 +175,7 @@ def main() -> int:
     api_key = _env_or_exit("OPENCODE_API_KEY")
     shared_secret = _env_or_exit("RELAY_SHARED_SECRET")
     server = ThreadingHTTPServer((HOST, PORT), make_handler(api_key, shared_secret))
-    print(f"[relay] listening on http://{HOST}:{PORT} (model={API_MODEL}, upstream={API_URL})", file=sys.stderr)
+    print(f"[relay] listening on http://{HOST}:{PORT} (default model={DEFAULT_MODEL}, upstream={API_URL})", file=sys.stderr)
     print(f"[relay] expose it with: cloudflared tunnel --url http://{HOST}:{PORT}", file=sys.stderr)
     try:
         server.serve_forever()

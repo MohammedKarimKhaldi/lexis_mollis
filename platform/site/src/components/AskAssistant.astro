@@ -8,6 +8,10 @@
       <span class="muted chips-label">Types de documents du corpus (cliquez pour les ajouter à votre question) :</span>
       <div id="ask-type-chips" class="ask-type-chips" role="group" aria-label="Types de documents disponibles"></div>
     </div>
+    <label id="ask-model-wrap" class="ask-model-wrap" hidden>
+      <span>Modèle (gratuit, via OpenCode Zen)</span>
+      <select id="ask-model-select"></select>
+    </label>
     <button class="button primary" type="submit" id="ask-submit">Poser la question</button>
   </form>
   <div id="ask-status" class="muted" aria-live="polite"></div>
@@ -49,6 +53,39 @@
   const relayCmdEl = document.querySelector<HTMLElement>("#ask-relay-cmd");
   const chipsWrapEl = document.querySelector<HTMLElement>("#ask-type-chips-wrap");
   const chipsEl = document.querySelector<HTMLElement>("#ask-type-chips");
+  const modelWrapEl = document.querySelector<HTMLElement>("#ask-model-wrap");
+  const modelSelectEl = document.querySelector<HTMLSelectElement>("#ask-model-select");
+
+  // Populates the model dropdown from the Worker's own list (GET /api/models,
+  // see FREE_MODELS in platform/site/worker/ask.ts) instead of hardcoding the
+  // options here a second time, so the two never drift apart.
+  async function loadModelOptions() {
+    if (!modelSelectEl || !modelWrapEl) return;
+    try {
+      const response = await fetch("/api/models");
+      if (!response.ok) return;
+      const data = (await response.json()) as {
+        models?: { id: string; label: string }[];
+        default?: string;
+      };
+      if (!data.models?.length) return;
+      modelSelectEl.innerHTML = data.models
+        .map((model) => `<option value="${model.id}">${model.label}</option>`)
+        .join("");
+      const saved = localStorage.getItem("ask-model");
+      const validIds = new Set(data.models.map((model) => model.id));
+      modelSelectEl.value = saved && validIds.has(saved) ? saved : data.default || data.models[0].id;
+      modelWrapEl.hidden = false;
+    } catch {
+      // Dropdown is a convenience -- if unreachable, the Worker still
+      // defaults to big-pickle server-side.
+    }
+  }
+  loadModelOptions();
+
+  modelSelectEl?.addEventListener("change", () => {
+    if (modelSelectEl.value) localStorage.setItem("ask-model", modelSelectEl.value);
+  });
 
   // Surfaces the corpus's actual controlled doc_type vocabulary as clickable
   // chips, so people discover real category names (e.g. "Traité", "Accord")
@@ -252,10 +289,11 @@
     if (relayHelpEl) relayHelpEl.hidden = true;
 
     try {
+      const model = modelSelectEl?.value || undefined;
       const response = await fetch("/api/ask", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ query })
+        body: JSON.stringify({ query, model })
       });
       const payload = await response.json();
 
@@ -340,6 +378,26 @@
     display: flex;
     flex-wrap: wrap;
     gap: 0.4rem;
+  }
+
+  .ask-model-wrap {
+    display: grid;
+    gap: 0.42rem;
+    color: var(--muted);
+    font-size: 0.84rem;
+    font-weight: 800;
+    max-width: 320px;
+  }
+
+  #ask-model-select {
+    width: 100%;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: #fffefb;
+    color: var(--ink);
+    padding: 0.5rem 0.7rem;
+    font: inherit;
+    font-weight: 600;
   }
 
   /* Chip <button> items are injected via innerHTML at runtime -- must be

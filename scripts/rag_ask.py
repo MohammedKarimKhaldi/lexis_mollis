@@ -308,8 +308,11 @@ class KnowledgeBase:
 
     def detect_comparison_types(self, query: str) -> list[str]:
         """Doc_type labels named in `query`, restricted to types we have profiles for.
-        Comparison mode (see `build_context`) only activates with >=2 matches — a
-        question naming a single type is answered fine by plain top-k retrieval."""
+        `build_context` gives type-restricted retrieval + a real profile block to ANY
+        named type, whether there's one (a descriptive question, e.g. "quelles sont
+        les caractéristiques d'un memorandum ?") or several (an explicit comparison) --
+        a single named type used to fall through to plain whole-corpus search, which
+        could surface documents unrelated to the type actually asked about."""
         matched = detect_doc_types(query, self.doc_type_labels)
         return [label for label in matched if label in self.doc_type_profiles] or matched
 
@@ -370,75 +373,62 @@ class KnowledgeBase:
         k: int = 8,
         use_graph: bool = True,
         compare_types: list[str] | None = None,
+        degraded: bool = False,
     ) -> tuple[str, list[dict]]:
+        """Retrieval context. The SAME per-type-restricted-search + profile-block
+        mechanism applies whether `compare_types` names one type (a descriptive
+        question, e.g. "quelles sont les caractéristiques d'un memorandum ?") or
+        several (an explicit comparison) -- one shared loop, not a separate code
+        path per scenario, so retrieval bugs only need fixing in one place.
+        `degraded=True` additionally appends an honest, unrestricted free-text
+        search standing in for whatever term(s) in the question didn't match a
+        real corpus type (mirrors platform/site/worker/ask.ts's degradedCompare) --
+        see build_degraded_notice for how that's disclaimed."""
         blocks: list[str] = []
         seen_docs: set[str] = set()
+        seen_chunk_ids: set[str] = set()
         hits: list[dict] = []
+        compare_types = compare_types or []
 
-        if compare_types and len(compare_types) >= 2:
+        if degraded:
+            blocks.append(build_degraded_notice(compare_types, self.doc_type_profiles))
+
+        if compare_types:
+            per_type_k = max(3, k // len(compare_types))
             for label in compare_types:
                 profile_block = self.doc_type_profile_block(label)
                 if profile_block:
                     blocks.append(profile_block)
-            per_type_k = max(3, k // len(compare_types))
-            seen_chunk_ids: set[str] = set()
-            for label in compare_types:
-                for hit in self.search_by_doc_type(query, label, k=per_type_k):
+                type_hits = self.search_by_doc_type(query, label, k=per_type_k)
+                if not type_hits:
+                    # Descriptive query shares no keywords with any chunk of this
+                    # type -- fall back to a few real chunks of the type directly
+                    # rather than ending up with zero excerpts (the profile
+                    # block's own sample_openings help too, but real citable
+                    # excerpts are better where available).
+                    pool = [c for c in self.chunks_by_id.values() if c.get("doc_type") == label][:per_type_k]
+                    type_hits = [{"score": 0.0, "chunk": chunk} for chunk in pool]
+                for hit in type_hits:
                     chunk_id = hit["chunk"].get("chunk_id")
                     if chunk_id in seen_chunk_ids:
                         continue
                     seen_chunk_ids.add(chunk_id)
                     hits.append(hit)
                     blocks.append(self._hit_block(hit, use_graph, seen_docs))
-        else:
-            hits = self.search(query, k=k)
-            for hit in hits:
-                blocks.append(self._hit_block(hit, use_graph, seen_docs))
 
-        return "\n\n---\n\n".join(blocks), hits
-
-    def build_degraded_context(
-        self,
-        query: str,
-        compare_types: list[str],
-        k: int = 8,
-        use_graph: bool = True,
-    ) -> tuple[str, list[dict]]:
-        """Comparison question where fewer than 2 of the named terms match a real
-        doc_type (0 or 1 do). Rather than refusing (see unmatched_type_clarification),
-        give a real profile + real excerpts for whichever type DID match, and an
-        honest, unrestricted free-text search standing in for the unmatched term(s)
-        -- see build_degraded_notice for exactly how that's disclaimed. Mirrors
-        platform/site/worker/ask.ts's degradedCompare branch in handleAsk."""
-        blocks: list[str] = [build_degraded_notice(compare_types, self.doc_type_profiles)]
-        seen_docs: set[str] = set()
-        seen_chunk_ids: set[str] = set()
-        hits: list[dict] = []
-
-        per_type_k = max(3, k // 2) if compare_types else 0
-        for label in compare_types:
-            profile_block = self.doc_type_profile_block(label)
-            if profile_block:
-                blocks.append(profile_block)
-            for hit in self.search_by_doc_type(query, label, k=per_type_k):
+        if degraded or not compare_types:
+            # Free-text stand-in (degraded mode) or the only retrieval (plain
+            # questions naming no known type): plain top-k search over the
+            # whole corpus, excluding whatever the type-restricted loop above
+            # already picked up.
+            free_k = max(3, k - len(hits))
+            for hit in self.search(query, k=free_k):
                 chunk_id = hit["chunk"].get("chunk_id")
                 if chunk_id in seen_chunk_ids:
                     continue
                 seen_chunk_ids.add(chunk_id)
                 hits.append(hit)
                 blocks.append(self._hit_block(hit, use_graph, seen_docs))
-
-        # Free-text stand-in for the unmatched term(s): plain top-k search over the
-        # whole corpus (no type filter -- there's no real type to filter by),
-        # excluding whatever the matched-type loop above already picked up.
-        free_k = max(3, k - len(hits))
-        for hit in self.search(query, k=free_k):
-            chunk_id = hit["chunk"].get("chunk_id")
-            if chunk_id in seen_chunk_ids:
-                continue
-            seen_chunk_ids.add(chunk_id)
-            hits.append(hit)
-            blocks.append(self._hit_block(hit, use_graph, seen_docs))
 
         return "\n\n---\n\n".join(blocks), hits
 
@@ -497,33 +487,29 @@ def main() -> int:
     kb = KnowledgeBase(args.similarity_dir, args.release_dir, args.graph_dir, doc_type_profiles_path=profiles_path)
 
     def handle(question: str) -> None:
-        compare_types = None if args.no_compare_mode else kb.detect_comparison_types(question)
-        if compare_types and len(compare_types) >= 2:
+        compare_types = [] if args.no_compare_mode else kb.detect_comparison_types(question)
+        if len(compare_types) >= 2:
             print(f"[mode comparaison de types activé : {', '.join(compare_types)}]", file=sys.stderr)
+        elif len(compare_types) == 1:
+            print(f"[type reconnu dans la question : {compare_types[0]}]", file=sys.stderr)
         # A comparison-shaped question with fewer than 2 real doc_types matched
         # used to hard-refuse via unmatched_type_clarification. It now falls
-        # through to a "degraded compare" instead -- see build_degraded_context.
-        degraded = (
-            not args.no_compare_mode
-            and (not compare_types or len(compare_types) < 2)
-            and has_comparison_intent(question)
+        # through to the same type-aware build_context instead, with
+        # degraded=True adding an honest free-text stand-in for the unmatched
+        # term(s) -- see build_context's docstring.
+        degraded = not args.no_compare_mode and len(compare_types) < 2 and has_comparison_intent(question)
+        context, hits = kb.build_context(
+            question, k=args.k, use_graph=not args.no_graph, compare_types=compare_types, degraded=degraded
         )
         if degraded:
-            context, hits = kb.build_degraded_context(
-                question, compare_types or [], k=args.k, use_graph=not args.no_graph
-            )
             if not hits:
-                clarification = unmatched_type_clarification(question, compare_types or [], kb.doc_type_profiles)
+                clarification = unmatched_type_clarification(question, compare_types, kb.doc_type_profiles)
                 print(
                     clarification
                     or "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation."
                 )
                 return
             print("[mode comparaison dégradée : recherche libre pour le(s) terme(s) non reconnu(s)]", file=sys.stderr)
-        else:
-            context, hits = kb.build_context(
-                question, k=args.k, use_graph=not args.no_graph, compare_types=compare_types
-            )
         print(f"[{len(hits)} extraits récupérés]", file=sys.stderr)
 
         if args.no_llm:

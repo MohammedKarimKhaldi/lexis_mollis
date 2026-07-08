@@ -45,7 +45,7 @@ set -euo pipefail
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 SECRETS_FILE="${LEXIS_RELAY_SECRETS_FILE:-$HOME/.lexis_mollis_relay.env}"
 LOG_DIR="${LEXIS_RELAY_LOG_DIR:-$HOME/Library/Logs/lexis-mollis-relay}"
-SITE_URL="${LEXIS_SITE_URL:-https://lexis-mollis.mk-74a.workers.dev}"
+SITE_URL="${LEXIS_SITE_URL:-https://lexis-mollis.karim-m-khaldi.workers.dev}"
 PYTHON_BIN="${PYTHON_BIN:-python3}"
 mkdir -p "$LOG_DIR"
 

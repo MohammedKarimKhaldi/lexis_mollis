@@ -120,7 +120,7 @@ Les textes officiels sous-jacents peuvent relever de statuts distincts ; le cham
 Les publications publiques sont :
 
 - Hugging Face Datasets : https://huggingface.co/datasets/lexis-mollis/soft-law-corpus
-- Site public : https://lexis-mollis.mk-74a.workers.dev
+- Site public : https://lexis-mollis.karim-m-khaldi.workers.dev
 - Zenodo : DOI à créer lors de la première release
 - Internet Archive ou équivalent : conservation des PDF sources lorsque les droits
   le permettent

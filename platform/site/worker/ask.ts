@@ -71,7 +71,27 @@ export interface Env {
 }
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
-const API_MODEL = "big-pickle";
+const DEFAULT_MODEL = "big-pickle";
+// Free (no-cost) OpenCode Zen models -- kept in sync by hand against
+// `curl https://opencode.ai/zen/v1/models` (only "-free"-suffixed ids, plus
+// "big-pickle" which OpenCode itself designates as its free flagship model,
+// see scripts/rag_ask.py's header). Mirrored in AskAssistant.astro's
+// dropdown and scripts/llm_relay.py's whitelist -- the client can only ever
+// pick from this exact list (see resolveModel), so there's no way to smuggle
+// a paid model id through the request body and run up someone's bill.
+const FREE_MODELS: { id: string; label: string }[] = [
+  { id: "big-pickle", label: "Big Pickle (par défaut)" },
+  { id: "deepseek-v4-flash-free", label: "DeepSeek V4 Flash" },
+  { id: "mimo-v2.5-free", label: "MiMo V2.5" },
+  { id: "hy3-free", label: "Hunyuan 3" },
+  { id: "nemotron-3-ultra-free", label: "Nemotron 3 Ultra" },
+  { id: "north-mini-code-free", label: "North Mini Code" }
+];
+const FREE_MODEL_IDS = new Set(FREE_MODELS.map((m) => m.id));
+
+function resolveModel(requested: unknown): string {
+  return typeof requested === "string" && FREE_MODEL_IDS.has(requested) ? requested : DEFAULT_MODEL;
+}
 // Retrieval is two-stage, not a flat top-K keyword scan:
 //   1. seed  -- a small keyword-overlap search (searchAskIndex), cheap and
 //      precise for "does this document mention the query's words".
@@ -380,7 +400,7 @@ function buildProfileBlock(label: string, profile: DocTypeProfile): string {
   return lines.join("\n");
 }
 
-async function askLLMDirect(question: string, context: string, apiKey: string): Promise<string> {
+async function askLLMDirect(question: string, context: string, apiKey: string, model: string): Promise<string> {
   const response = await fetch(API_URL, {
     method: "POST",
     headers: {
@@ -391,7 +411,7 @@ async function askLLMDirect(question: string, context: string, apiKey: string): 
       "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8"
     },
     body: JSON.stringify({
-      model: API_MODEL,
+      model,
       messages: [
         { role: "system", content: SYSTEM_PROMPT },
         { role: "user", content: `Contexte :\n\n${context}\n\n---\n\nQuestion : ${question}` }
@@ -501,11 +521,17 @@ async function handleRelayStatus(env: Env): Promise<Response> {
 // of scripts/llm_relay.py, exposed through a Cloudflare Tunnel. The relay adds
 // the SYSTEM_PROMPT and calls OpenCode Zen itself (from a residential IP), so
 // only the raw question + context need to travel over the tunnel.
-async function askLLMViaRelay(question: string, context: string, relayUrl: string, sharedSecret: string): Promise<string> {
+async function askLLMViaRelay(
+  question: string,
+  context: string,
+  relayUrl: string,
+  sharedSecret: string,
+  model: string
+): Promise<string> {
   const response = await fetch(relayUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json", "X-Relay-Secret": sharedSecret },
-    body: JSON.stringify({ question, context })
+    body: JSON.stringify({ question, context, model })
   });
   if (!response.ok) {
     const body = await response.text();
@@ -556,11 +582,71 @@ function expandViaGraph(
   return candidates.slice(0, Math.max(0, limit));
 }
 
+interface RetrievalResult {
+  hits: SearchHit[];
+  details: (DocDetail | null)[];
+  browse: SearchHit[];
+}
+
+// The one retrieval primitive behind every branch of handleAsk: seed with
+// keyword search over `candidateDocs`, then expand via the similarity graph
+// (optionally restricted to `typeFilter`), tracking `exclude` so repeated
+// calls (e.g. once per named type, then once more for a free-text fallback)
+// never return the same document twice. Used identically whether
+// `candidateDocs` is the whole corpus (plain questions, free-text fallback)
+// or pre-filtered to one doc_type (descriptive or comparison questions) --
+// there is deliberately no separate code path per scenario, only different
+// arguments, so fixing or tuning retrieval happens in exactly one place.
+async function retrieveSeedsAndExpand(
+  query: string,
+  candidateDocs: AskIndexDoc[],
+  env: Env,
+  origin: string,
+  docsById: Map<string, AskIndexDoc>,
+  exclude: Set<string>,
+  seedCap: number,
+  finalCap: number,
+  browseCap: number,
+  graphPerSeedCap: number,
+  typeFilter?: string
+): Promise<RetrievalResult> {
+  let seeds = searchAskIndex(query, candidateDocs, seedCap).filter((hit) => !exclude.has(hit.document_id));
+  // A descriptive question ("caractéristiques d'un memorandum") often shares
+  // no keywords at all with the documents themselves -- fall back to just
+  // taking a few documents of the candidate set directly rather than ending
+  // up with zero excerpts (the profile block's own sample_openings help too,
+  // but real citable excerpts are better where available).
+  if (!seeds.length && candidateDocs.length) {
+    seeds = candidateDocs
+      .filter((doc) => !exclude.has(doc.id))
+      .slice(0, seedCap)
+      .map((doc) => ({ ...doc, document_id: doc.id, score: 0 }));
+  }
+  seeds.forEach((hit) => exclude.add(hit.document_id));
+  const seedDetails = await Promise.all(seeds.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
+
+  const browseExpanded = expandViaGraph(seeds, seedDetails, docsById, exclude, browseCap, graphPerSeedCap, typeFilter);
+  const expanded = browseExpanded.slice(0, Math.max(0, finalCap - seeds.length));
+  expanded.forEach((hit) => exclude.add(hit.document_id));
+  const expandedDetails = await Promise.all(expanded.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
+
+  const hits = [...seeds, ...expanded];
+  const details = [...seedDetails, ...expandedDetails];
+  const usedIds = new Set(hits.map((hit) => hit.document_id));
+  const browse = [
+    ...seeds.map((hit) => ({ ...hit, usedInAnswer: true })),
+    ...browseExpanded.map((hit) => ({ ...hit, usedInAnswer: usedIds.has(hit.document_id) }))
+  ];
+  return { hits, details, browse };
+}
+
 async function handleAsk(request: Request, env: Env, origin: string): Promise<Response> {
   let query = "";
+  let model = DEFAULT_MODEL;
   try {
-    const body = (await request.json()) as { query?: string };
+    const body = (await request.json()) as { query?: string; model?: string };
     query = (body.query || "").trim();
+    model = resolveModel(body.model);
   } catch {
     return Response.json({ error: "Corps de requête JSON invalide." }, { status: 400 });
   }
@@ -595,14 +681,22 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
   // and open any of them directly, not only the ones the model quoted from.
   let browse: SearchHit[];
 
-  if (compareTypes.length >= 2) {
-    // Comparison mode: prepend corpus-wide structural profiles for each named
-    // type, then retrieve real excerpts *per type* (not one undifferentiated
-    // top-k) so under-represented types aren't crowded out — see the module
-    // header comment and scripts/rag_ask.py for the equivalent local logic.
-    // Within each type: seed with keyword search, then expand via the
-    // similarity graph (still restricted to that type) instead of just
-    // taking more raw keyword matches.
+  if (compareTypes.length >= 1 || degradedCompare) {
+    // Type-aware retrieval: the SAME mechanism whether exactly one real
+    // corpus type is named (a descriptive question like "quelles sont les
+    // caractéristiques d'un memorandum ?") or several (an explicit
+    // comparison) -- both get a real corpus-wide profile per named type plus
+    // retrieval restricted to that type, via one shared loop over
+    // retrieveSeedsAndExpand, instead of near-duplicate code per scenario.
+    // This is what fixed the "memorandum" bug: previously only >=2 named
+    // types got type-restricted retrieval at all, so a single-type question
+    // fell through to whole-corpus keyword search, which could surface
+    // documents having nothing to do with the named type.
+    const multiType = compareTypes.length > 1;
+    const seedCap = multiType ? COMPARE_SEED_PER_TYPE : SEED_HITS;
+    const finalCap = multiType ? COMPARE_FINAL_PER_TYPE : FINAL_HITS;
+    const browseCap = multiType ? COMPARE_BROWSE_LIMIT_PER_TYPE : BROWSE_LIMIT;
+
     const profileBlocks = compareTypes.map((label) => buildProfileBlock(label, docTypeProfiles.types![label]));
     const seen = new Set<string>();
     hits = [];
@@ -610,154 +704,94 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
     browse = [];
     for (const label of compareTypes) {
       const typedDocs = askDocs.filter((doc) => doc.doc_type === label);
-      const typeSeeds = searchAskIndex(query, typedDocs, COMPARE_SEED_PER_TYPE).filter(
-        (hit) => !seen.has(hit.document_id)
-      );
-      typeSeeds.forEach((hit) => seen.add(hit.document_id));
-      const typeSeedDetails = await Promise.all(typeSeeds.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
-
-      // Full browsable neighbourhood for this type (no extra fetches needed —
-      // similar_documents was already loaded fetching typeSeedDetails above).
-      const typeBrowseExpanded = expandViaGraph(
-        typeSeeds,
-        typeSeedDetails,
+      const result = await retrieveSeedsAndExpand(
+        query,
+        typedDocs,
+        env,
+        origin,
         docsById,
         seen,
-        COMPARE_BROWSE_LIMIT_PER_TYPE,
+        seedCap,
+        finalCap,
+        browseCap,
         GRAPH_BROWSE_PER_SEED,
         label
       );
-      // Smaller, already-score-sorted subset of that which actually gets
-      // fetched in full and sent to the LLM.
-      const typeExpanded = typeBrowseExpanded.slice(0, Math.max(0, COMPARE_FINAL_PER_TYPE - typeSeeds.length));
-      typeExpanded.forEach((hit) => seen.add(hit.document_id));
-      const typeExpandedDetails = await Promise.all(
-        typeExpanded.map((hit) => fetchDocDetail(env, origin, hit.document_id))
-      );
-
-      hits.push(...typeSeeds, ...typeExpanded);
-      details.push(...typeSeedDetails, ...typeExpandedDetails);
-      const usedIds = new Set([...typeSeeds, ...typeExpanded].map((hit) => hit.document_id));
-      browse.push(
-        ...typeSeeds.map((hit) => ({ ...hit, usedInAnswer: true })),
-        ...typeBrowseExpanded.map((hit) => ({ ...hit, usedInAnswer: usedIds.has(hit.document_id) }))
-      );
+      hits.push(...result.hits);
+      details.push(...result.details);
+      browse.push(...result.browse);
     }
     contextBlocks = [...profileBlocks];
-    if (hits.length) contextBlocks.push(buildContext(hits, details));
-  } else if (degradedCompare) {
-    // Degraded compare: a real profile (if any) for whichever type matched,
-    // plus an honest, unrestricted free-text search standing in for the
-    // unmatched term(s) instead of refusing outright -- see
-    // buildDegradedNotice for exactly how that gets disclaimed to both the
-    // LLM and the client.
-    const profileBlocks = compareTypes.map((label) => buildProfileBlock(label, docTypeProfiles.types![label]));
-    const seen = new Set<string>();
-    hits = [];
-    details = [];
-    browse = [];
 
-    for (const label of compareTypes) {
-      const typedDocs = askDocs.filter((doc) => doc.doc_type === label);
-      const typeSeeds = searchAskIndex(query, typedDocs, COMPARE_SEED_PER_TYPE).filter(
-        (hit) => !seen.has(hit.document_id)
-      );
-      typeSeeds.forEach((hit) => seen.add(hit.document_id));
-      const typeSeedDetails = await Promise.all(typeSeeds.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
-      const typeBrowseExpanded = expandViaGraph(
-        typeSeeds,
-        typeSeedDetails,
+    // A comparison-shaped question ("compare X et Y") where fewer than 2 of
+    // the named terms matched a real type used to hard-refuse via
+    // buildUnmatchedTypeClarification. It now falls through to this same
+    // type-aware path for whichever term(s) DID match, PLUS an honest,
+    // unrestricted free-text search standing in for the unmatched term(s) --
+    // see buildDegradedNotice for exactly how that's disclaimed rather than
+    // silently treated as an official category, or silently refused outright.
+    if (degradedCompare) {
+      const freeResult = await retrieveSeedsAndExpand(
+        query,
+        askDocs,
+        env,
+        origin,
         docsById,
         seen,
-        COMPARE_BROWSE_LIMIT_PER_TYPE,
-        GRAPH_BROWSE_PER_SEED,
-        label
+        SEED_HITS,
+        FINAL_HITS,
+        BROWSE_LIMIT,
+        GRAPH_BROWSE_PER_SEED
       );
-      const typeExpanded = typeBrowseExpanded.slice(0, Math.max(0, COMPARE_FINAL_PER_TYPE - typeSeeds.length));
-      typeExpanded.forEach((hit) => seen.add(hit.document_id));
-      const typeExpandedDetails = await Promise.all(
-        typeExpanded.map((hit) => fetchDocDetail(env, origin, hit.document_id))
-      );
-      hits.push(...typeSeeds, ...typeExpanded);
-      details.push(...typeSeedDetails, ...typeExpandedDetails);
-      const typeUsedIds = new Set([...typeSeeds, ...typeExpanded].map((hit) => hit.document_id));
-      browse.push(
-        ...typeSeeds.map((hit) => ({ ...hit, usedInAnswer: true })),
-        ...typeBrowseExpanded.map((hit) => ({ ...hit, usedInAnswer: typeUsedIds.has(hit.document_id) }))
-      );
+      hits.push(...freeResult.hits);
+      details.push(...freeResult.details);
+      browse.push(...freeResult.browse);
+
+      if (!hits.length) {
+        // Genuinely nothing to answer from even with an unrestricted
+        // free-text fallback -- fall back to the deterministic clarification
+        // rather than sending an empty context to the LLM.
+        return Response.json({
+          answer:
+            buildUnmatchedTypeClarification(query, compareTypes, docTypeProfiles) ||
+            "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation.",
+          sources: [],
+          browse: [],
+          profiles: undefined
+        });
+      }
+
+      degradedNotice = buildDegradedNotice(compareTypes, docTypeProfiles);
+      contextBlocks.unshift(degradedNotice);
     }
 
-    // Free-text stand-in for the unmatched term(s): same seed+graph-expansion
-    // retrieval as plain mode, over the whole corpus (no type filter -- there
-    // is no real type to filter by), excluding whatever the matched-type loop
-    // above already picked up.
-    const freeSeeds = searchAskIndex(query, askDocs, SEED_HITS).filter((hit) => !seen.has(hit.document_id));
-    freeSeeds.forEach((hit) => seen.add(hit.document_id));
-    const freeSeedDetails = await Promise.all(freeSeeds.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
-    const freeBrowseExpanded = expandViaGraph(freeSeeds, freeSeedDetails, docsById, seen, BROWSE_LIMIT, GRAPH_BROWSE_PER_SEED);
-    const freeExpanded = freeBrowseExpanded.slice(0, Math.max(0, FINAL_HITS - freeSeeds.length));
-    freeExpanded.forEach((hit) => seen.add(hit.document_id));
-    const freeExpandedDetails = await Promise.all(
-      freeExpanded.map((hit) => fetchDocDetail(env, origin, hit.document_id))
-    );
-    hits.push(...freeSeeds, ...freeExpanded);
-    details.push(...freeSeedDetails, ...freeExpandedDetails);
-    const freeUsedIds = new Set([...freeSeeds, ...freeExpanded].map((hit) => hit.document_id));
-    browse.push(
-      ...freeSeeds.map((hit) => ({ ...hit, usedInAnswer: true })),
-      ...freeBrowseExpanded.map((hit) => ({ ...hit, usedInAnswer: freeUsedIds.has(hit.document_id) }))
-    );
-
-    if (!hits.length) {
-      // Genuinely nothing to answer from even with an unrestricted free-text
-      // fallback -- fall back to the deterministic clarification rather than
-      // sending an empty context to the LLM.
-      return Response.json({
-        answer:
-          buildUnmatchedTypeClarification(query, compareTypes, docTypeProfiles) ||
-          "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation.",
-        sources: [],
-        browse: [],
-        profiles: undefined
-      });
-    }
-
-    degradedNotice = buildDegradedNotice(compareTypes, docTypeProfiles);
-    contextBlocks = [degradedNotice, ...profileBlocks, buildContext(hits, details)];
+    if (hits.length) contextBlocks.push(buildContext(hits, details));
   } else {
-    // Plain question: seed with keyword search, then expand via the
-    // similarity graph (see expandViaGraph) so context isn't limited to
-    // documents that happen to share the query's exact words.
-    const seedHits = searchAskIndex(query, askDocs, SEED_HITS);
-    if (!seedHits.length) {
+    // Plain question: no known corpus type named at all -- seed with keyword
+    // search over the whole corpus, then expand via the similarity graph.
+    const result = await retrieveSeedsAndExpand(
+      query,
+      askDocs,
+      env,
+      origin,
+      docsById,
+      new Set<string>(),
+      SEED_HITS,
+      FINAL_HITS,
+      BROWSE_LIMIT,
+      GRAPH_BROWSE_PER_SEED
+    );
+    if (!result.hits.length) {
       return Response.json({
         answer: "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation.",
         sources: [],
         browse: []
       });
     }
-    const seedDetails = await Promise.all(seedHits.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
-    const seedIds = new Set(seedHits.map((hit) => hit.document_id));
-    const browseExpanded = expandViaGraph(
-      seedHits,
-      seedDetails,
-      docsById,
-      seedIds,
-      BROWSE_LIMIT,
-      GRAPH_BROWSE_PER_SEED
-    );
-    const expanded = browseExpanded.slice(0, Math.max(0, FINAL_HITS - seedHits.length));
-    const expandedDetails = await Promise.all(expanded.map((hit) => fetchDocDetail(env, origin, hit.document_id)));
-
-    hits = [...seedHits, ...expanded];
-    details = [...seedDetails, ...expandedDetails];
+    hits = result.hits;
+    details = result.details;
+    browse = result.browse;
     contextBlocks = [buildContext(hits, details)];
-
-    const usedIds = new Set(hits.map((hit) => hit.document_id));
-    browse = [
-      ...seedHits.map((hit) => ({ ...hit, usedInAnswer: true })),
-      ...browseExpanded.map((hit) => ({ ...hit, usedInAnswer: usedIds.has(hit.document_id) }))
-    ];
   }
 
   const context = contextBlocks.join("\n\n---\n\n");
@@ -810,8 +844,8 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
   const relayUrl = (await getActiveRelayUrl(env)) || env.RELAY_URL;
   if (relayUrl && env.RELAY_SHARED_SECRET) {
     try {
-      const answer = await askLLMViaRelay(query, context, relayUrl, env.RELAY_SHARED_SECRET);
-      return Response.json({ answer, sources, browse: browseSources, profiles, degraded_notice: degradedNotice });
+      const answer = await askLLMViaRelay(query, context, relayUrl, env.RELAY_SHARED_SECRET, model);
+      return Response.json({ answer, sources, browse: browseSources, profiles, degraded_notice: degradedNotice, model });
     } catch (error) {
       return Response.json(
         {
@@ -841,8 +875,8 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
   }
 
   try {
-    const answer = await askLLMDirect(query, context, env.OPENCODE_API_KEY);
-    return Response.json({ answer, sources, browse: browseSources, profiles, degraded_notice: degradedNotice });
+    const answer = await askLLMDirect(query, context, env.OPENCODE_API_KEY, model);
+    return Response.json({ answer, sources, browse: browseSources, profiles, degraded_notice: degradedNotice, model });
   } catch (error) {
     return Response.json(
       {
@@ -875,6 +909,9 @@ export default {
     }
     if (url.pathname === "/api/relay/status") {
       return handleRelayStatus(env);
+    }
+    if (url.pathname === "/api/models") {
+      return Response.json({ models: FREE_MODELS, default: DEFAULT_MODEL });
     }
     return env.ASSETS.fetch(request);
   }
