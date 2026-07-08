@@ -122,12 +122,6 @@ const FINAL_HITS = 10;
 // each document's top 10 similarity-graph neighbours.
 const GRAPH_BROWSE_PER_SEED = 10;
 const BROWSE_LIMIT = 60;
-// Comparison questions ("compare traité, accord, déclaration...") seed and
-// expand *per named type* so an under-represented type isn't crowded out --
-// same reasoning as scripts/rag_ask.py's search_by_doc_type.
-const COMPARE_SEED_PER_TYPE = 3;
-const COMPARE_FINAL_PER_TYPE = 5;
-const COMPARE_BROWSE_LIMIT_PER_TYPE = 25;
 const RELAY_STATE_KEY = "active_relay";
 // A relay that hasn't re-registered in this long is assumed offline (its
 // machine went to sleep, the tunnel died, ...) rather than trying a dead URL.
@@ -217,6 +211,37 @@ async function loadAskIndex(env: Env, origin: string): Promise<AskIndexDoc[]> {
   const response = await env.ASSETS.fetch(new URL("/data/ask_index.json", origin));
   cachedAskIndex = ((await response.json()) as AskIndexDoc[]) || [];
   return cachedAskIndex;
+}
+
+interface DocumentsIndexEntry {
+  document_id: string;
+  title?: string;
+  year?: number;
+  doc_type?: string;
+  text_preview?: string;
+}
+
+let cachedDocumentsIndex: DocumentsIndexEntry[] | null = null;
+
+// Bulk per-document data (title/year/doc_type/text_preview for the WHOLE
+// corpus in one file) -- fetched and cached once per Worker instance, same
+// pattern as loadAskIndex. Used by the named-type retrieval path below
+// instead of one fetchDocDetail() subrequest per document: a type like
+// "Autre" (749 documents) or "Accord" (408) would otherwise need that many
+// subrequests in a single request, comfortably over Cloudflare Workers'
+// actual platform limit (50 on Free/Bundled plans) -- a real error, not a
+// design preference, and not fixed by making the fetches sequential instead
+// of parallel (the limit is on total count, not concurrency). Reading from
+// this single bulk file avoids the problem entirely regardless of how many
+// documents a type has. The one thing it doesn't carry is similar_documents
+// (graph neighbours), only present in the per-document detail files -- an
+// acceptable trade-off here since every document of the named type is
+// already included directly.
+async function loadDocumentsIndex(env: Env, origin: string): Promise<DocumentsIndexEntry[]> {
+  if (cachedDocumentsIndex) return cachedDocumentsIndex;
+  const response = await env.ASSETS.fetch(new URL("/data/documents.json", origin));
+  cachedDocumentsIndex = response.ok ? ((await response.json()) as DocumentsIndexEntry[]) : [];
+  return cachedDocumentsIndex;
 }
 
 let cachedDocTypeProfiles: DocTypeProfiles | null = null;
@@ -582,6 +607,90 @@ function expandViaGraph(
   return candidates.slice(0, Math.max(0, limit));
 }
 
+// Single entry point for "call the model, however that's currently wired up"
+// -- relay (preferred, see module header) falling back to the direct call,
+// throwing if neither is configured. Used by generateAnswer both for the
+// plain single-call path and, repeatedly, inside the map-reduce path below,
+// so the relay/direct/error-message logic exists in exactly one place.
+async function callModel(env: Env, question: string, context: string, model: string): Promise<string> {
+  const relayUrl = (await getActiveRelayUrl(env)) || env.RELAY_URL;
+  if (relayUrl && env.RELAY_SHARED_SECRET) {
+    return askLLMViaRelay(question, context, relayUrl, env.RELAY_SHARED_SECRET, model);
+  }
+  if (!env.OPENCODE_API_KEY) {
+    throw new Error(
+      "Aucun relais actif (voir scripts/run_relay_stack.sh) et OPENCODE_API_KEY n'est pas non plus configuré côté serveur (wrangler secret put ...)."
+    );
+  }
+  return askLLMDirect(question, context, env.OPENCODE_API_KEY, model);
+}
+
+// Above this many documents in one call's context, switch from a single LLM
+// call to sequential map-reduce (see generateAnswer). Each document's context
+// block is short (bulk text_preview is capped ~420 chars at build time), so
+// this batch size stays well within any free model's context window while
+// keeping the round-trip count for the common case (most questions retrieve
+// far fewer documents than this) at exactly one call, unchanged from before.
+const MAP_REDUCE_BATCH_SIZE = 60;
+
+// Produces the final answer text for a fully-retrieved set of documents.
+// Below MAP_REDUCE_BATCH_SIZE documents, this is exactly the old behaviour:
+// one call with the whole context. Above it -- which only happens for named
+// types large enough that ALL of their documents (no cap, see the retrieval
+// loop in handleAsk) wouldn't fit in one call's context window -- this splits
+// the documents into batches, asks the model for concise notes per batch
+// (sequential, not parallel: avoids concurrent requests tripping OpenCode
+// Zen's free-tier rate limiting), then makes one final call synthesising all
+// batches' notes into a single coherent answer. Every document retrieved is
+// still used; this only changes how many LLM round-trips answering the
+// question takes.
+async function generateAnswer(
+  env: Env,
+  query: string,
+  profileBlocks: string[],
+  degradedNotice: string | undefined,
+  hits: SearchHit[],
+  details: (DocDetail | null)[],
+  model: string
+): Promise<string> {
+  const constantBlocks = degradedNotice ? [degradedNotice, ...profileBlocks] : [...profileBlocks];
+
+  if (hits.length <= MAP_REDUCE_BATCH_SIZE) {
+    const blocks = [...constantBlocks];
+    if (hits.length) blocks.push(buildContext(hits, details));
+    return callModel(env, query, blocks.join("\n\n---\n\n"), model);
+  }
+
+  const batches: { hits: SearchHit[]; details: (DocDetail | null)[] }[] = [];
+  for (let i = 0; i < hits.length; i += MAP_REDUCE_BATCH_SIZE) {
+    batches.push({
+      hits: hits.slice(i, i + MAP_REDUCE_BATCH_SIZE),
+      details: details.slice(i, i + MAP_REDUCE_BATCH_SIZE)
+    });
+  }
+
+  const partials: string[] = [];
+  for (let i = 0; i < batches.length; i++) {
+    const batch = batches[i];
+    const batchQuestion =
+      `Question originale : ${query}\n\n` +
+      `Ceci est le lot ${i + 1}/${batches.length} de documents pertinents pour cette question. Ne réponds PAS de ` +
+      "façon définitive et n'invente rien au-delà de ce lot : extrais uniquement, sous forme de notes concises, " +
+      "les faits et citations [document_id] de CE lot utiles pour répondre à la question plus tard.";
+    const batchContext = [...constantBlocks, buildContext(batch.hits, batch.details)].join("\n\n---\n\n");
+    const partial = await callModel(env, batchQuestion, batchContext, model);
+    partials.push(`### Notes du lot ${i + 1}/${batches.length}\n\n${partial}`);
+  }
+
+  const reduceQuestion =
+    `Question : ${query}\n\n` +
+    `Voici des notes préparées à partir de ${hits.length} documents du corpus, en ${batches.length} lots. ` +
+    "Synthétise-les en UNE réponse finale cohérente et complète, en conservant les citations [document_id] déjà " +
+    "présentes dans les notes plutôt qu'en les supprimant.";
+  const reduceContext = [...constantBlocks, ...partials].join("\n\n---\n\n");
+  return callModel(env, reduceQuestion, reduceContext, model);
+}
+
 interface RetrievalResult {
   hits: SearchHit[];
   details: (DocDetail | null)[];
@@ -673,12 +782,18 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
 
   let hits: SearchHit[];
   let details: (DocDetail | null)[];
-  let contextBlocks: string[];
-  // Broader than `hits`: every document the retrieval considered relevant
-  // (seeds + all their graph neighbours, up to BROWSE_LIMIT /
-  // COMPARE_BROWSE_LIMIT_PER_TYPE), not just the smaller subset that fit
-  // into the LLM's context. Returned to the client so a person can scroll
-  // and open any of them directly, not only the ones the model quoted from.
+  // Corpus-wide statistical block(s) for whichever type(s) were named --
+  // empty for plain/untyped questions. Kept separate (not pre-joined into a
+  // single context string) so generateAnswer can re-include it in every
+  // batch if map-reduce kicks in, not just a single combined call.
+  let profileBlocks: string[];
+  // For a named-type question, `browse` is now identical to `hits` (every
+  // document of that type, all used in the answer). For the untyped/
+  // degraded-compare paths below it's still broader than `hits` -- every
+  // document retrieval considered relevant (seeds + graph neighbours, up to
+  // BROWSE_LIMIT), not just the smaller subset that fit into the LLM's
+  // context -- so a person can still scroll and open anything retrieval
+  // considered relevant, not only what the model quoted from.
   let browse: SearchHit[];
 
   if (compareTypes.length >= 1 || degradedCompare) {
@@ -692,36 +807,45 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
     // types got type-restricted retrieval at all, so a single-type question
     // fell through to whole-corpus keyword search, which could surface
     // documents having nothing to do with the named type.
-    const multiType = compareTypes.length > 1;
-    const seedCap = multiType ? COMPARE_SEED_PER_TYPE : SEED_HITS;
-    const finalCap = multiType ? COMPARE_FINAL_PER_TYPE : FINAL_HITS;
-    const browseCap = multiType ? COMPARE_BROWSE_LIMIT_PER_TYPE : BROWSE_LIMIT;
-
-    const profileBlocks = compareTypes.map((label) => buildProfileBlock(label, docTypeProfiles.types![label]));
+    //
+    // No sampling cap here, by design: every document belonging to a named
+    // type is fetched and put in context, not a keyword-ranked top-N slice --
+    // a purely descriptive question ("caractéristiques d'un memorandum ?")
+    // has no discriminating keywords to rank by, so a cap would drop
+    // documents arbitrarily rather than meaningfully. A large type (hundreds
+    // of documents) is handled by reading previews from the bulk documents
+    // index (loadDocumentsIndex, one cached fetch total regardless of type
+    // size -- NOT one fetchDocDetail subrequest per document, which would hit
+    // Cloudflare Workers' actual subrequest limit for a type like "Autre",
+    // 749 documents) and, if the resulting context is still too large for one
+    // LLM call, generateAnswer below switches to sequential map-reduce.
+    profileBlocks = compareTypes.map((label) => buildProfileBlock(label, docTypeProfiles.types![label]));
+    const docsIndex = await loadDocumentsIndex(env, origin);
+    const docsIndexById = new Map(docsIndex.map((doc) => [doc.document_id, doc]));
     const seen = new Set<string>();
     hits = [];
     details = [];
     browse = [];
     for (const label of compareTypes) {
-      const typedDocs = askDocs.filter((doc) => doc.doc_type === label);
-      const result = await retrieveSeedsAndExpand(
-        query,
-        typedDocs,
-        env,
-        origin,
-        docsById,
-        seen,
-        seedCap,
-        finalCap,
-        browseCap,
-        GRAPH_BROWSE_PER_SEED,
-        label
-      );
-      hits.push(...result.hits);
-      details.push(...result.details);
-      browse.push(...result.browse);
+      const typedDocs = askDocs.filter((doc) => doc.doc_type === label && !seen.has(doc.id));
+      typedDocs.forEach((doc) => seen.add(doc.id));
+      const typeHits: SearchHit[] = typedDocs.map((doc) => ({ ...doc, document_id: doc.id, score: 0 }));
+      const typeDetails: (DocDetail | null)[] = typeHits.map((hit) => {
+        const bulk = docsIndexById.get(hit.document_id);
+        if (!bulk) return null;
+        return {
+          document_id: bulk.document_id,
+          title: bulk.title,
+          year: bulk.year,
+          doc_type: bulk.doc_type,
+          treaty_id: hit.treaty_id,
+          text_preview: bulk.text_preview
+        };
+      });
+      hits.push(...typeHits);
+      details.push(...typeDetails);
+      browse.push(...typeHits.map((hit) => ({ ...hit, usedInAnswer: true })));
     }
-    contextBlocks = [...profileBlocks];
 
     // A comparison-shaped question ("compare X et Y") where fewer than 2 of
     // the named terms matched a real type used to hard-refuse via
@@ -762,10 +886,7 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
       }
 
       degradedNotice = buildDegradedNotice(compareTypes, docTypeProfiles);
-      contextBlocks.unshift(degradedNotice);
     }
-
-    if (hits.length) contextBlocks.push(buildContext(hits, details));
   } else {
     // Plain question: no known corpus type named at all -- seed with keyword
     // search over the whole corpus, then expand via the similarity graph.
@@ -791,10 +912,9 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
     hits = result.hits;
     details = result.details;
     browse = result.browse;
-    contextBlocks = [buildContext(hits, details)];
+    profileBlocks = [];
   }
 
-  const context = contextBlocks.join("\n\n---\n\n");
   const sources = hits.map((hit) => ({
     document_id: hit.document_id,
     title: hit.title,
@@ -841,41 +961,8 @@ async function handleAsk(request: Request, env: Env, origin: string): Promise<Re
         })
       : undefined;
 
-  const relayUrl = (await getActiveRelayUrl(env)) || env.RELAY_URL;
-  if (relayUrl && env.RELAY_SHARED_SECRET) {
-    try {
-      const answer = await askLLMViaRelay(query, context, relayUrl, env.RELAY_SHARED_SECRET, model);
-      return Response.json({ answer, sources, browse: browseSources, profiles, degraded_notice: degradedNotice, model });
-    } catch (error) {
-      return Response.json(
-        {
-          answer: null,
-          sources,
-          browse: browseSources,
-          profiles,
-          degraded_notice: degradedNotice,
-          error: error instanceof Error ? error.message : String(error)
-        },
-        { status: 502 }
-      );
-    }
-  }
-
-  if (!env.OPENCODE_API_KEY) {
-    return Response.json({
-      answer: null,
-      sources,
-      browse: browseSources,
-      profiles,
-      degraded_notice: degradedNotice,
-      error:
-        "Aucun relais actif (voir scripts/run_relay_stack.sh) et OPENCODE_API_KEY n'est pas non " +
-        "plus configuré côté serveur (wrangler secret put ...)."
-    });
-  }
-
   try {
-    const answer = await askLLMDirect(query, context, env.OPENCODE_API_KEY, model);
+    const answer = await generateAnswer(env, query, profileBlocks, degradedNotice, hits, details, model);
     return Response.json({ answer, sources, browse: browseSources, profiles, degraded_notice: degradedNotice, model });
   } catch (error) {
     return Response.json(

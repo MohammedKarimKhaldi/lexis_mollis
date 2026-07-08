@@ -228,6 +228,14 @@ class KnowledgeBase:
 
         self.chunks_by_id = {c["chunk_id"]: c for c in read_parquet_records(Path(release_dir) / "chunks")}
         self.documents_by_id = {d["document_id"]: d for d in read_parquet_records(Path(release_dir) / "documents")}
+        # One entry per document, chunks sorted by page — lets build_context
+        # pick "the" representative chunk for any document of a named type
+        # without a full scan of chunks_by_id per document.
+        self.chunks_by_doc: dict[str, list[dict]] = defaultdict(list)
+        for chunk in self.chunks_by_id.values():
+            self.chunks_by_doc[chunk["document_id"]].append(chunk)
+        for doc_chunks in self.chunks_by_doc.values():
+            doc_chunks.sort(key=lambda c: c.get("page_number") or 0)
 
         self.doc_edges: dict[str, list[dict]] = defaultdict(list)
         for edge in read_parquet_records(Path(release_dir) / "edges"):
@@ -367,6 +375,35 @@ class KnowledgeBase:
         matching = [hit for hit in pool if hit["chunk"].get("doc_type") == doc_type]
         return matching[:k]
 
+    def all_hits_for_doc_type(self, query: str, doc_type: str) -> list[dict]:
+        """One hit per document of `doc_type` — every document, no cap (see
+        platform/site/worker/ask.ts's matching change for why: a purely
+        descriptive question has no keywords to meaningfully rank documents
+        by, so a fixed top-k sample would drop documents arbitrarily rather
+        than meaningfully). Prefers whatever chunk the keyword search actually
+        ranked highest for a document (a better excerpt pick within a
+        multi-page document); any document of this type the search didn't
+        surface at all still gets included, via its first chunk."""
+        doc_ids = [doc_id for doc_id, doc in self.documents_by_id.items() if doc.get("doc_type") == doc_type]
+        seen_docs: set[str] = set()
+        hits: list[dict] = []
+        pool = self.search(query, k=max(len(doc_ids) * 3, 50))
+        for hit in pool:
+            doc_id = hit["chunk"]["document_id"]
+            if doc_id in seen_docs or hit["chunk"].get("doc_type") != doc_type:
+                continue
+            seen_docs.add(doc_id)
+            hits.append(hit)
+        for doc_id in doc_ids:
+            if doc_id in seen_docs:
+                continue
+            doc_chunks = self.chunks_by_doc.get(doc_id)
+            if not doc_chunks:
+                continue
+            seen_docs.add(doc_id)
+            hits.append({"score": 0.0, "chunk": doc_chunks[0]})
+        return hits
+
     def build_context(
         self,
         query: str,
@@ -394,20 +431,13 @@ class KnowledgeBase:
             blocks.append(build_degraded_notice(compare_types, self.doc_type_profiles))
 
         if compare_types:
-            per_type_k = max(3, k // len(compare_types))
             for label in compare_types:
                 profile_block = self.doc_type_profile_block(label)
                 if profile_block:
                     blocks.append(profile_block)
-                type_hits = self.search_by_doc_type(query, label, k=per_type_k)
-                if not type_hits:
-                    # Descriptive query shares no keywords with any chunk of this
-                    # type -- fall back to a few real chunks of the type directly
-                    # rather than ending up with zero excerpts (the profile
-                    # block's own sample_openings help too, but real citable
-                    # excerpts are better where available).
-                    pool = [c for c in self.chunks_by_id.values() if c.get("doc_type") == label][:per_type_k]
-                    type_hits = [{"score": 0.0, "chunk": chunk} for chunk in pool]
+                # No cap: every document of this type goes into context, not a
+                # fixed top-k sample (see all_hits_for_doc_type docstring).
+                type_hits = self.all_hits_for_doc_type(query, label)
                 for hit in type_hits:
                     chunk_id = hit["chunk"].get("chunk_id")
                     if chunk_id in seen_chunk_ids:
@@ -452,6 +482,65 @@ def ask_llm(question: str, context: str, api_url: str, api_model: str, api_key: 
     )
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"]
+
+
+# Mirrors MAP_REDUCE_BATCH_SIZE / generateAnswer in platform/site/worker/
+# ask.ts. A comparison/descriptive question naming a type retrieves EVERY
+# document of that type (no cap -- see KnowledgeBase.build_context /
+# all_hits_for_doc_type), which can be hundreds of chunks for a large type.
+# Below this many hits, behaviour is unchanged: one ask_llm call with the
+# whole context. Above it, split into batches, get concise notes per batch
+# (sequential -- avoids concurrent calls tripping OpenCode Zen's free-tier
+# rate limiting), then one final call synthesising the batch notes into a
+# single answer. Every retrieved document is still used either way.
+MAP_REDUCE_BATCH_SIZE = 60
+
+
+def generate_answer(
+    kb: "KnowledgeBase",
+    query: str,
+    compare_types: list[str],
+    degraded: bool,
+    hits: list[dict],
+    use_graph: bool,
+    api_url: str,
+    api_model: str,
+    api_key: str,
+) -> str:
+    profile_blocks = [kb.doc_type_profile_block(label) for label in compare_types]
+    profile_blocks = [block for block in profile_blocks if block]
+    degraded_notice = build_degraded_notice(compare_types, kb.doc_type_profiles) if degraded and hits else None
+    constant_blocks = ([degraded_notice] if degraded_notice else []) + profile_blocks
+
+    if len(hits) <= MAP_REDUCE_BATCH_SIZE:
+        seen_docs: set[str] = set()
+        blocks = list(constant_blocks)
+        blocks += [kb._hit_block(hit, use_graph, seen_docs) for hit in hits]
+        return ask_llm(query, "\n\n---\n\n".join(blocks), api_url, api_model, api_key)
+
+    batches = [hits[i : i + MAP_REDUCE_BATCH_SIZE] for i in range(0, len(hits), MAP_REDUCE_BATCH_SIZE)]
+    partials: list[str] = []
+    for i, batch in enumerate(batches, start=1):
+        seen_docs = set()
+        batch_blocks = list(constant_blocks) + [kb._hit_block(hit, use_graph, seen_docs) for hit in batch]
+        batch_question = (
+            f"Question originale : {query}\n\n"
+            f"Ceci est le lot {i}/{len(batches)} de documents pertinents pour cette question. Ne réponds PAS de "
+            "façon définitive et n'invente rien au-delà de ce lot : extrais uniquement, sous forme de notes "
+            "concises, les faits et citations [document_id] de CE lot utiles pour répondre à la question plus "
+            "tard."
+        )
+        partial = ask_llm(batch_question, "\n\n---\n\n".join(batch_blocks), api_url, api_model, api_key)
+        partials.append(f"### Notes du lot {i}/{len(batches)}\n\n{partial}")
+
+    reduce_question = (
+        f"Question : {query}\n\n"
+        f"Voici des notes préparées à partir de {len(hits)} documents du corpus, en {len(batches)} lots. "
+        "Synthétise-les en UNE réponse finale cohérente et complète, en conservant les citations [document_id] "
+        "déjà présentes dans les notes plutôt qu'en les supprimant."
+    )
+    reduce_context = "\n\n---\n\n".join(list(constant_blocks) + partials)
+    return ask_llm(reduce_question, reduce_context, api_url, api_model, api_key)
 
 
 def parse_args() -> argparse.Namespace:
@@ -527,7 +616,9 @@ def main() -> int:
             return
 
         try:
-            answer = ask_llm(question, context, args.api_url, args.api_model, api_key)
+            answer = generate_answer(
+                kb, question, compare_types, degraded, hits, not args.no_graph, args.api_url, args.api_model, api_key
+            )
         except Exception as exc:  # noqa: BLE001 - report and fall back, don't crash a REPL
             print(f"Échec de l'appel LLM ({exc}) — affichage du contexte brut à la place.", file=sys.stderr)
             print(context)
