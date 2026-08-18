@@ -1,8 +1,9 @@
 from __future__ import annotations
 
+import logging
+import re
 from collections.abc import Iterable, Iterator
 from pathlib import Path
-import re
 from typing import Any
 
 from pdfkb.ids import chunk_id as make_chunk_id
@@ -11,6 +12,7 @@ from pdfkb.ids import text_sha256
 from .config import SimilarityConfig
 from .io import read_jsonl, write_parquet_records
 
+logger = logging.getLogger(__name__)
 
 TOKEN_RE = re.compile(r"\S+")
 
@@ -43,8 +45,8 @@ def token_offsets(text: str, tokenizer: Any | None) -> list[tuple[int, int]]:
                 clean_offsets = [(int(start), int(end)) for start, end in offsets if int(end) > int(start)]
                 if clean_offsets:
                     return clean_offsets
-        except Exception:
-            pass
+        except Exception as error:  # noqa: BLE001 - tokenizer offsets are an optimisation, regex is the fallback
+            logger.debug("tokenizer offset_mapping failed, falling back to regex tokens: %s", error)
     return _token_offsets_regex(text)
 
 

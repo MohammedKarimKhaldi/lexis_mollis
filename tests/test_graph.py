@@ -14,7 +14,6 @@ from pdfkb.graph.gazetteers import build_matcher, load_all_gazetteers
 from pdfkb.graph.run import build as build_graph
 from pdfkb.similarity.io import read_parquet_records, write_parquet_records
 
-
 SHA = "c" * 64
 
 
@@ -63,7 +62,9 @@ class GraphTests(unittest.TestCase):
                 page("doc_a", 1, "La France et la République française signent à Paris le 24 octobre 1900."),
                 page("doc_b", 1, "The United Kingdom signs in London on 25 October 1900.", treaty_id="TRA19000002"),
             ]
-            kb.write_text("\n".join(json.dumps(record, ensure_ascii=False) for record in pages) + "\n", encoding="utf-8")
+            kb.write_text(
+                "\n".join(json.dumps(record, ensure_ascii=False) for record in pages) + "\n", encoding="utf-8"
+            )
             similarity = root / "similarity"
             similarity.mkdir()
             write_parquet_records(
@@ -112,9 +113,10 @@ class GraphTests(unittest.TestCase):
             sigma = json.loads((out / "graph.sigma.json").read_text(encoding="utf-8"))
             self.assertIn("nodes", sigma)
             self.assertIn("edges", sigma)
-            self.assertTrue(all(isinstance(node["x"], float) and isinstance(node["y"], float) for node in sigma["nodes"]))
+            self.assertTrue(
+                all(isinstance(node["x"], float) and isinstance(node["y"], float) for node in sigma["nodes"])
+            )
 
 
 if __name__ == "__main__":
     unittest.main()
-

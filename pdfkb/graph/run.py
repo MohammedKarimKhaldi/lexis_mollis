@@ -48,4 +48,3 @@ def build(kb: Path, similarity: Path | None, output: Path, ontology: Path, cfg: 
     }
     (output / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return manifest
-

@@ -1,9 +1,9 @@
 from __future__ import annotations
 
 import shutil
+from collections.abc import Iterable
 from concurrent.futures import Future, ThreadPoolExecutor, as_completed
 from pathlib import Path
-from typing import Iterable
 
 from tqdm import tqdm
 
@@ -81,7 +81,7 @@ def run_pipeline(
                     document, page_index = future_map[future]
                     try:
                         state.save_page(future.result())
-                    except Exception as error:
+                    except Exception as error:  # noqa: BLE001 - recorded via save_error, audited in state
                         failures += 1
                         state.save_error(document.sha256, page_index + 1, repr(error))
                     progress.update(1)
@@ -92,4 +92,3 @@ def run_pipeline(
         manifest["pages_processed_this_run"] = len(jobs) - failures
         manifest["pages_failed_this_run"] = failures
         return manifest
-

@@ -4,7 +4,6 @@ import hashlib
 import re
 import unicodedata
 
-
 SHA256_RE = re.compile(r"^[a-f0-9]{64}$")
 WIKIDATA_QID_RE = re.compile(r"^Q[0-9]+$")
 
@@ -57,6 +56,37 @@ def chunk_id(source_sha256: str, page: int, idx: int) -> str:
     return f"{source_sha256}:p{page:04d}:c{idx:03d}"
 
 
+def _document_node_id(document_id: str | None) -> str:
+    if not document_id:
+        raise ValueError("Document nodes require document_id")
+    return f"doc:{document_id}"
+
+
+def _instrument_node_id(treaty_id: str | None, label: str | None) -> str:
+    if treaty_id:
+        return f"instr:{treaty_id}"
+    if not label:
+        raise ValueError("Instrument nodes require treaty_id or label")
+    return f"instr:{slug(label)}:{text_sha256(label)[:12]}"
+
+
+def _clause_node_id(source_sha256: str | None, page: int | None, idx: int | None) -> str:
+    if source_sha256 is None or page is None or idx is None:
+        raise ValueError("Clause nodes require source_sha256, page and idx")
+    return f"clause:{chunk_id(source_sha256, page, idx)}"
+
+
+def _entity_node_id(node_type: str, label: str | None, wikidata_qid: str | None) -> str:
+    if wikidata_qid is not None:
+        if not WIKIDATA_QID_RE.fullmatch(wikidata_qid):
+            raise ValueError(f"invalid Wikidata QID: {wikidata_qid!r}")
+        return f"ent:wd:{wikidata_qid}"
+
+    if not label:
+        raise ValueError(f"{node_type} nodes require label or wikidata_qid")
+    return f"ent:{node_type}:{slug(label)}"
+
+
 def node_id(
     node_type: str,
     *,
@@ -71,30 +101,12 @@ def node_id(
     """Build a deterministic node identifier for the Lexis Mollis graph."""
 
     if node_type == "Document":
-        if not document_id:
-            raise ValueError("Document nodes require document_id")
-        return f"doc:{document_id}"
-
+        return _document_node_id(document_id)
     if node_type == "Instrument":
-        if treaty_id:
-            return f"instr:{treaty_id}"
-        if not label:
-            raise ValueError("Instrument nodes require treaty_id or label")
-        return f"instr:{slug(label)}:{text_sha256(label)[:12]}"
-
+        return _instrument_node_id(treaty_id, label)
     if node_type == "Clause":
-        if source_sha256 is None or page is None or idx is None:
-            raise ValueError("Clause nodes require source_sha256, page and idx")
-        return f"clause:{chunk_id(source_sha256, page, idx)}"
-
-    if wikidata_qid is not None:
-        if not WIKIDATA_QID_RE.fullmatch(wikidata_qid):
-            raise ValueError(f"invalid Wikidata QID: {wikidata_qid!r}")
-        return f"ent:wd:{wikidata_qid}"
-
-    if not label:
-        raise ValueError(f"{node_type} nodes require label or wikidata_qid")
-    return f"ent:{node_type}:{slug(label)}"
+        return _clause_node_id(source_sha256, page, idx)
+    return _entity_node_id(node_type, label, wikidata_qid)
 
 
 def edge_key(src: str, dst: str, edge_type: str) -> str:
@@ -107,4 +119,3 @@ def edge_key(src: str, dst: str, edge_type: str) -> str:
     if edge_type in SYMMETRIC_EDGE_TYPES and dst < src:
         src, dst = dst, src
     return f"{edge_type}:{src}->{dst}"
-

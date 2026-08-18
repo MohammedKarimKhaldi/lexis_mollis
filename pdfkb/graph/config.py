@@ -17,4 +17,3 @@ class GraphConfig:
         data = asdict(self)
         data["gazetteers"] = str(self.gazetteers)
         return data
-

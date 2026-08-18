@@ -19,7 +19,7 @@ def _normalise(vectors: np.ndarray) -> np.ndarray:
     return vectors / norms
 
 
-def build_index(embeddings_npy: Path, embeddings_index_pq: Path, cfg: SimilarityConfig, out_dir: Path) -> Path:
+def build_index(embeddings_npy: Path, embeddings_index_pq: Path, _cfg: SimilarityConfig, out_dir: Path) -> Path:
     import faiss
 
     # faiss's and torch's (sentence-transformers, already loaded earlier in the
@@ -74,8 +74,5 @@ def semantic_pairs(embeddings_npy: Path, embeddings_index_pq: Path, cfg: Similar
                 if previous is None or score_value > previous:
                     pairs[(a, b)] = score_value
 
-    records = [
-        {"src": src, "dst": dst, "cosine": round(score, 6)}
-        for (src, dst), score in sorted(pairs.items())
-    ]
+    records = [{"src": src, "dst": dst, "cosine": round(score, 6)} for (src, dst), score in sorted(pairs.items())]
     return write_parquet_records(records, out_dir / "semantic_pairs.parquet")

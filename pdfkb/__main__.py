@@ -14,4 +14,3 @@ os.environ.setdefault("OMP_NUM_THREADS", "1")
 from .cli import main
 
 raise SystemExit(main())
-

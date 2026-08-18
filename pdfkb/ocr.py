@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import re
+import logging
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
@@ -16,6 +16,7 @@ from .models import Candidate, PageResult, TextBlock
 from .quality import agreement, native_is_credible, score_candidate, scripts_in_text
 from .vision import recognize as vision_recognize
 
+logger = logging.getLogger(__name__)
 
 SCRIPT_MODELS = {
     "Latin": "script/Latin",
@@ -83,7 +84,8 @@ def native_candidate(pdf_path: Path, page_index: int) -> tuple[Candidate, float]
             try:
                 for rect in page.get_image_rects(image[0]):
                     image_area += max(0.0, float(rect.width * rect.height))
-            except Exception:
+            except Exception:  # noqa: BLE001 - one image's rects failing shouldn't drop the page
+                logger.debug("native_candidate: get_image_rects failed on page %d of %s", page_index, pdf_path)
                 continue
         image_coverage = min(1.0, image_area / page_area)
         blocks = [
@@ -118,7 +120,8 @@ def detect_osd(image: Image.Image) -> dict[str, Any]:
             "rotate": int(data.get("rotate", 0)),
             "orientation_conf": float(data.get("orientation_conf", 0.0)),
         }
-    except Exception:
+    except Exception as error:  # noqa: BLE001 - OSD is a best-effort hint, not required for OCR
+        logger.debug("detect_osd failed, falling back to unknown script/orientation: %s", error)
         return {"script": "", "script_conf": 0.0, "rotate": 0, "orientation_conf": 0.0}
 
 
@@ -151,7 +154,9 @@ def tesseract_candidate(
         timeout=180,
     )
     width, height = image.size
-    line_words: dict[tuple[int, int, int, int], list[tuple[int, str, float, tuple[int, int, int, int]]]] = defaultdict(list)
+    line_words: dict[tuple[int, int, int, int], list[tuple[int, str, float, tuple[int, int, int, int]]]] = defaultdict(
+        list
+    )
     for index, raw_text in enumerate(data["text"]):
         text = str(raw_text).strip()
         try:
@@ -193,9 +198,7 @@ def tesseract_candidate(
         )
     text = "\n".join(block.text for block in blocks)
     total_chars = sum(len(block.text) for block in blocks)
-    confidence = (
-        sum((block.confidence or 0.0) * len(block.text) for block in blocks) / max(total_chars, 1)
-    )
+    confidence = sum((block.confidence or 0.0) * len(block.text) for block in blocks) / max(total_chars, 1)
     candidate = Candidate(
         method=f"tesseract:{language}:psm{psm}",
         text=text,
@@ -234,6 +237,101 @@ def _choose(candidates: list[Candidate]) -> tuple[Candidate, float | None]:
     return max(nonempty, key=lambda c: c.score), pair_agreement
 
 
+def _raster_image_and_metrics(
+    pdf_path: Path, page_index: int, dpi: int
+) -> tuple[Image.Image, dict[str, Any], float, dict[str, Any]]:
+    image, info = render_page(pdf_path, page_index, dpi=dpi)
+    ink_ratio = image_ink_ratio(image)
+    osd = detect_osd(image)
+    if osd["rotate"] in (90, 180, 270) and osd["orientation_conf"] >= 5.0:
+        image = image.rotate(-osd["rotate"], expand=True, fillcolor="white")
+    return image, info, ink_ratio, osd
+
+
+def _original_tesseract_candidates(image: Image.Image, languages: list[str], osd: dict[str, Any]) -> list[Candidate]:
+    candidates: list[Candidate] = []
+    for language in languages:
+        try:
+            tess = tesseract_candidate(image, language, "original", osd, psm=3)
+            candidates.append(tess)
+            if not tess.text.strip():
+                candidates.append(tesseract_candidate(image, language, "original", osd, psm=6))
+        except Exception as error:  # noqa: BLE001 - recorded on the candidate, audited via PageResult
+            candidates.append(
+                Candidate(
+                    method=f"tesseract:{language}:error",
+                    text="",
+                    metrics={"error": str(error)[:500]},
+                )
+            )
+    return candidates
+
+
+def _enhanced_candidates(
+    pdf_path: Path, image: Image.Image, languages: list[str], osd: dict[str, Any]
+) -> list[Candidate]:
+    candidates: list[Candidate] = []
+    enhanced = conservative_enhancement(image)
+    try:
+        enhanced_apple = vision_recognize(enhanced, variant="enhanced")
+        score_candidate(enhanced_apple)
+        candidates.append(enhanced_apple)
+    except Exception as error:  # noqa: BLE001 - enhanced pass is a bonus, original candidates still stand
+        logger.debug("enhanced Apple Vision pass failed for %s: %s", pdf_path, error)
+    for language in languages[:1]:
+        try:
+            tess = tesseract_candidate(enhanced, language, "enhanced", osd, psm=3)
+            candidates.append(tess)
+            if not tess.text.strip():
+                candidates.append(tesseract_candidate(enhanced, language, "enhanced", osd, psm=6))
+        except Exception as error:  # noqa: BLE001 - enhanced pass is a bonus, original candidates still stand
+            logger.debug("enhanced tesseract pass failed for %s (%s): %s", pdf_path, language, error)
+    return candidates
+
+
+def _review_reasons(
+    selected: Candidate,
+    candidates: list[Candidate],
+    pair_agreement: float | None,
+    ink_ratio: float,
+    quality: float,
+    year: int | None,
+) -> list[str]:
+    reasons: list[str] = []
+    if quality < 0.85:
+        reasons.append("low_confidence")
+    apple_texts = [c.text for c in candidates if c.method == "apple_vision" and c.text.strip()]
+    tess_texts = [c.text for c in candidates if c.method.startswith("tesseract:") and c.text.strip()]
+    comparable_lengths = False
+    if apple_texts and tess_texts:
+        apple_length = max(map(len, apple_texts))
+        tess_length = max(map(len, tess_texts))
+        comparable_lengths = min(apple_length, tess_length) / max(apple_length, tess_length) >= 0.55
+    if pair_agreement is not None and pair_agreement < 0.55 and (comparable_lengths or quality < 0.90):
+        reasons.append("engine_disagreement")
+    if ink_ratio > 0.01 and len(selected.text.strip()) < 10:
+        reasons.append("no_text_on_nonblank_page")
+    if ink_ratio > 0.04 and len(selected.text.strip()) < 80 and quality < 0.90:
+        reasons.append("sparse_extraction")
+    if float(selected.metrics.get("noise_ratio", 0.0)) > 0.02:
+        reasons.append("high_noise")
+    if len(selected.scripts) >= 3:
+        reasons.append("mixed_scripts")
+    if year is not None and year < 1930 and pair_agreement is not None and pair_agreement < 0.65:
+        reasons.append("possible_handwriting_or_historical_print")
+    return reasons
+
+
+def _save_review_image(image: Image.Image, review_image_dir: Path, sha256: str, page_index: int) -> None:
+    review_image_dir.mkdir(parents=True, exist_ok=True)
+    image.thumbnail((1800, 1800))
+    image.convert("RGB").save(
+        review_image_dir / f"{sha256[:16]}_p{page_index + 1:04d}.jpg",
+        format="JPEG",
+        quality=88,
+    )
+
+
 def process_page(
     pdf_path: Path,
     sha256: str,
@@ -258,82 +356,29 @@ def process_page(
             }
         ink_ratio = 0.0
     else:
-        image, info = render_page(pdf_path, page_index, dpi=dpi)
-        ink_ratio = image_ink_ratio(image)
-        osd = detect_osd(image)
-        if osd["rotate"] in (90, 180, 270) and osd["orientation_conf"] >= 5.0:
-            image = image.rotate(-osd["rotate"], expand=True, fillcolor="white")
+        image, info, ink_ratio, osd = _raster_image_and_metrics(pdf_path, page_index, dpi)
 
         apple = vision_recognize(image, variant="original")
         score_candidate(apple)
         candidates.append(apple)
 
         languages = _tesseract_config(osd, apple.text, year)
-        for language in languages:
-            try:
-                tess = tesseract_candidate(image, language, "original", osd, psm=3)
-                candidates.append(tess)
-                if not tess.text.strip():
-                    candidates.append(tesseract_candidate(image, language, "original", osd, psm=6))
-            except Exception as error:
-                candidates.append(
-                    Candidate(
-                        method=f"tesseract:{language}:error",
-                        text="",
-                        metrics={"error": str(error)[:500]},
-                    )
-                )
+        candidates.extend(_original_tesseract_candidates(image, languages, osd))
 
         best_initial, _ = _choose(candidates)
         has_tesseract_text = any(
-            candidate.method.startswith("tesseract:") and candidate.text.strip()
-            for candidate in candidates
+            candidate.method.startswith("tesseract:") and candidate.text.strip() for candidate in candidates
         )
         if best_initial.score < 0.88 or not has_tesseract_text:
-            enhanced = conservative_enhancement(image)
-            try:
-                enhanced_apple = vision_recognize(enhanced, variant="enhanced")
-                score_candidate(enhanced_apple)
-                candidates.append(enhanced_apple)
-            except Exception:
-                pass
-            for language in languages[:1]:
-                try:
-                    tess = tesseract_candidate(enhanced, language, "enhanced", osd, psm=3)
-                    candidates.append(tess)
-                    if not tess.text.strip():
-                        candidates.append(tesseract_candidate(enhanced, language, "enhanced", osd, psm=6))
-                except Exception:
-                    pass
+            candidates.extend(_enhanced_candidates(pdf_path, image, languages, osd))
 
     selected, pair_agreement = _choose(candidates)
     quality = selected.score
-    reasons: list[str] = []
-    if quality < 0.85:
-        reasons.append("low_confidence")
-    apple_texts = [c.text for c in candidates if c.method == "apple_vision" and c.text.strip()]
-    tess_texts = [c.text for c in candidates if c.method.startswith("tesseract:") and c.text.strip()]
-    comparable_lengths = False
-    if apple_texts and tess_texts:
-        apple_length = max(map(len, apple_texts))
-        tess_length = max(map(len, tess_texts))
-        comparable_lengths = min(apple_length, tess_length) / max(apple_length, tess_length) >= 0.55
-    if pair_agreement is not None and pair_agreement < 0.55 and (comparable_lengths or quality < 0.90):
-        reasons.append("engine_disagreement")
-    if ink_ratio > 0.01 and len(selected.text.strip()) < 10:
-        reasons.append("no_text_on_nonblank_page")
-    if ink_ratio > 0.04 and len(selected.text.strip()) < 80 and quality < 0.90:
-        reasons.append("sparse_extraction")
-    if float(selected.metrics.get("noise_ratio", 0.0)) > 0.02:
-        reasons.append("high_noise")
-    if len(selected.scripts) >= 3:
-        reasons.append("mixed_scripts")
-    if year is not None and year < 1930 and pair_agreement is not None and pair_agreement < 0.65:
-        reasons.append("possible_handwriting_or_historical_print")
+    reasons = _review_reasons(selected, candidates, pair_agreement, ink_ratio, quality, year)
 
     review_required = bool(reasons)
-    priority = "high" if quality < 0.65 or "no_text_on_nonblank_page" in reasons else (
-        "normal" if review_required else "none"
+    priority = (
+        "high" if quality < 0.65 or "no_text_on_nonblank_page" in reasons else ("normal" if review_required else "none")
     )
     result = PageResult(
         source_sha256=sha256,
@@ -352,11 +397,5 @@ def process_page(
         review_reasons=list(dict.fromkeys(reasons)),
     )
     if review_required and review_image_dir is not None and not pure_native:
-        review_image_dir.mkdir(parents=True, exist_ok=True)
-        image.thumbnail((1800, 1800))
-        image.convert("RGB").save(
-            review_image_dir / f"{sha256[:16]}_p{page_index + 1:04d}.jpg",
-            format="JPEG",
-            quality=88,
-        )
+        _save_review_image(image, review_image_dir, sha256, page_index)
     return result

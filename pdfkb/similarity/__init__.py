@@ -4,4 +4,3 @@ from .config import SimilarityConfig
 from .run import build
 
 __all__ = ["SimilarityConfig", "build"]
-

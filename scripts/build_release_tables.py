@@ -2,12 +2,12 @@
 from __future__ import annotations
 
 import argparse
-from collections import defaultdict
-from datetime import datetime, timezone
 import hashlib
 import json
-from pathlib import Path
 import shutil
+from collections import defaultdict
+from datetime import UTC, datetime
+from pathlib import Path
 from typing import Any
 
 from jsonschema import Draft202012Validator
@@ -15,7 +15,6 @@ from jsonschema import Draft202012Validator
 from pdfkb import PIPELINE_VERSION
 from pdfkb.ids import text_sha256
 from pdfkb.similarity.io import read_jsonl, read_parquet_records, write_parquet_records
-
 
 ROOT = Path(__file__).resolve().parents[1]
 SCHEMAS = ROOT / "metadata_design"
@@ -162,7 +161,10 @@ def dedupe_edges(rows: list[dict]) -> list[dict]:
     for row in rows:
         key = (row.get("src"), row.get("dst"), row.get("level"), row.get("type"), row.get("method"))
         seen.setdefault(key, row)
-    return sorted(seen.values(), key=lambda row: (row.get("level") or "", row.get("type") or "", row.get("src") or "", row.get("dst") or ""))
+    return sorted(
+        seen.values(),
+        key=lambda row: (row.get("level") or "", row.get("type") or "", row.get("src") or "", row.get("dst") or ""),
+    )
 
 
 def validate_rows(rows: list[dict], schema_name: str) -> None:
@@ -195,6 +197,52 @@ def checksums(output: Path) -> dict[str, str]:
     return digest_by_path
 
 
+def _validate_all(
+    documents: list[dict], pages: list[dict], chunks: list[dict], edges: list[dict], nodes: list[dict]
+) -> None:
+    validate_rows(documents, "document.schema.json")
+    validate_rows(pages[:1000], "page.schema.json")
+    if chunks:
+        validate_rows(chunks[:1000], "chunk.schema.json")
+    if edges:
+        validate_rows(edges[:1000], "edge.schema.json")
+    if nodes:
+        validate_rows(nodes[:1000], "node.schema.json")
+
+
+def _write_tables(
+    documents: list[dict], pages: list[dict], chunks: list[dict], edges: list[dict], nodes: list[dict], output: Path
+) -> dict[str, Path]:
+    written = {
+        "documents": write_table("documents", documents, output),
+        "pages": write_table("pages", pages, output),
+    }
+    if chunks:
+        written["chunks"] = write_table("chunks", chunks, output)
+    if edges:
+        written["edges"] = write_table("edges", edges, output)
+    if nodes:
+        written["nodes"] = write_table("nodes", nodes, output)
+    return written
+
+
+def _copy_graph_artifacts(graph_src: Path, output: Path) -> None:
+    graph_dir = output / "graph"
+    if graph_dir.exists():
+        shutil.rmtree(graph_dir)
+    graph_dir.mkdir()
+    for name in ["graph.ttl", "graph.jsonld", "graph.sigma.json", "summary.json"]:
+        src = graph_src / name
+        if src.exists():
+            shutil.copy2(src, graph_dir / name)
+
+
+def _copy_doc_type_profiles(similarity_src: Path, output: Path) -> None:
+    doc_type_profiles_src = similarity_src / "doc_type_profiles.json"
+    if doc_type_profiles_src.exists():
+        shutil.copy2(doc_type_profiles_src, output / "doc_type_profiles.json")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Build Lexis Mollis release Parquet tables.")
     parser.add_argument("--kb", type=Path, default=Path("outputs_v2/kb/pages.jsonl"))
@@ -215,42 +263,15 @@ def main() -> int:
     )
     nodes = read_optional_parquet(args.graph / "nodes.parquet")
 
-    validate_rows(documents, "document.schema.json")
-    validate_rows(pages[:1000], "page.schema.json")
-    if chunks:
-        validate_rows(chunks[:1000], "chunk.schema.json")
-    if edges:
-        validate_rows(edges[:1000], "edge.schema.json")
-    if nodes:
-        validate_rows(nodes[:1000], "node.schema.json")
+    _validate_all(documents, pages, chunks, edges, nodes)
 
     args.output.mkdir(parents=True, exist_ok=True)
-    written = {
-        "documents": write_table("documents", documents, args.output),
-        "pages": write_table("pages", pages, args.output),
-    }
-    if chunks:
-        written["chunks"] = write_table("chunks", chunks, args.output)
-    if edges:
-        written["edges"] = write_table("edges", edges, args.output)
-    if nodes:
-        written["nodes"] = write_table("nodes", nodes, args.output)
-
-    graph_dir = args.output / "graph"
-    if graph_dir.exists():
-        shutil.rmtree(graph_dir)
-    graph_dir.mkdir()
-    for name in ["graph.ttl", "graph.jsonld", "graph.sigma.json", "summary.json"]:
-        src = args.graph / name
-        if src.exists():
-            shutil.copy2(src, graph_dir / name)
-
-    doc_type_profiles_src = args.similarity / "doc_type_profiles.json"
-    if doc_type_profiles_src.exists():
-        shutil.copy2(doc_type_profiles_src, args.output / "doc_type_profiles.json")
+    written = _write_tables(documents, pages, chunks, edges, nodes, args.output)
+    _copy_graph_artifacts(args.graph, args.output)
+    _copy_doc_type_profiles(args.similarity, args.output)
 
     manifest = {
-        "created_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        "created_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
         "pipeline_version": PIPELINE_VERSION,
         "scope": args.scope,
         "tables": {
@@ -262,13 +283,16 @@ def main() -> int:
         },
         "paths": {key: str(path) for key, path in written.items()},
     }
-    (args.output / "release_manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    (args.output / "release_manifest.json").write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     manifest["checksums"] = checksums(args.output)
-    (args.output / "release_manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    (args.output / "release_manifest.json").write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     print(json.dumps(manifest, ensure_ascii=False, indent=2))
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

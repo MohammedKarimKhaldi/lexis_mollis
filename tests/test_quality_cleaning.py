@@ -14,7 +14,11 @@ def page(number: int, text: str) -> PageResult:
     candidate = Candidate(
         method="test",
         text=text,
-        blocks=[TextBlock(line, (0.1, index * 0.05, 0.9, index * 0.05 + 0.03), 0.9) for index, line in enumerate(text.splitlines()) if line],
+        blocks=[
+            TextBlock(line, (0.1, index * 0.05, 0.9, index * 0.05 + 0.03), 0.9)
+            for index, line in enumerate(text.splitlines())
+            if line
+        ],
         confidence=0.9,
     )
     score_candidate(candidate)
@@ -56,18 +60,20 @@ class QualityTests(unittest.TestCase):
 
     def test_state_round_trip(self) -> None:
         result = page(1, "Texte fidèle et suffisamment long pour le test.")
-        with tempfile.TemporaryDirectory() as directory:
-            with PipelineState(Path(directory) / "state.sqlite3") as state:
-                state.save_page(result)
-                loaded = state.load_page(result.source_sha256, 1)
-                self.assertIsNotNone(loaded)
-                self.assertEqual(loaded.selected.text, result.selected.text)
-                self.assertTrue(state.page_is_done(result.source_sha256, 1))
-                state.save_error(result.source_sha256, 1, "échec de nouvelle tentative")
-                preserved = state.load_page(result.source_sha256, 1)
-                self.assertIsNotNone(preserved)
-                self.assertEqual(preserved.selected.text, result.selected.text)
-                self.assertEqual(len(state.errors()), 1)
+        with (
+            tempfile.TemporaryDirectory() as directory,
+            PipelineState(Path(directory) / "state.sqlite3") as state,
+        ):
+            state.save_page(result)
+            loaded = state.load_page(result.source_sha256, 1)
+            self.assertIsNotNone(loaded)
+            self.assertEqual(loaded.selected.text, result.selected.text)
+            self.assertTrue(state.page_is_done(result.source_sha256, 1))
+            state.save_error(result.source_sha256, 1, "échec de nouvelle tentative")
+            preserved = state.load_page(result.source_sha256, 1)
+            self.assertIsNotNone(preserved)
+            self.assertEqual(preserved.selected.text, result.selected.text)
+            self.assertEqual(len(state.errors()), 1)
 
 
 if __name__ == "__main__":

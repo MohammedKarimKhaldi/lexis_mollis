@@ -50,6 +50,7 @@ already needs.
 
 from __future__ import annotations
 
+import contextlib
 import json
 import os
 import sys
@@ -78,6 +79,7 @@ FREE_MODEL_IDS = {
 def resolve_model(requested: object) -> str:
     return requested if isinstance(requested, str) and requested in FREE_MODEL_IDS else DEFAULT_MODEL
 
+
 # Kept identical in wording to platform/site/worker/ask.ts and scripts/rag_ask.py
 # so all three entry points (site, relay, local CLI) answer the same way.
 SYSTEM_PROMPT = (
@@ -85,7 +87,11 @@ SYSTEM_PROMPT = (
     "fournis (corpus de traités et instruments juridiques Lexis Mollis, OCR historique, parfois "
     "imparfait). Si l'information n'est pas dans le contexte fourni, dis-le clairement plutôt que "
     "d'inventer. Cite systématiquement l'identifiant de document entre crochets (ex. [16460004_s1]) "
-    "et l'année quand c'est pertinent. Réponds dans la langue de la question. Si le contexte contient "
+    "et l'année quand c'est pertinent. Réponds en français par défaut, et toujours en français lorsque "
+    "la question est en français ; change de langue uniquement si la personne le demande explicitement. "
+    "Donne une réponse directe et concise ; ne mentionne jamais les lots, étapes, prompts ou mécanismes "
+    "internes. "
+    "Si le contexte contient "
     "des sections « Profil du type documentaire », base toute comparaison de forme/rédaction entre "
     "types de documents sur les statistiques qu'elles donnent (fractions de documents, moyennes) et "
     "cite les pourcentages exacts plutôt que des impressions générales ; illustre avec les extraits "
@@ -120,9 +126,46 @@ def ask_opencode(question: str, context: str, api_key: str, model: str = DEFAULT
     return response.json()["choices"][0]["message"]["content"]
 
 
+def _parse_ask_body(raw: bytes) -> tuple[str, str, str]:
+    body = json.loads(raw or b"{}")
+    question = str(body.get("question") or "").strip()
+    context = str(body.get("context") or "")
+    model = resolve_model(body.get("model"))
+    return question, context, model
+
+
+def _handle_ask(handler: BaseHTTPRequestHandler, api_key: str, shared_secret: str) -> None:
+    if handler.path != "/ask":
+        handler.send_json(404, {"error": "not found"})
+        return
+    if handler.headers.get("X-Relay-Secret") != shared_secret:
+        handler.send_json(401, {"error": "unauthorized"})
+        return
+    length = int(handler.headers.get("Content-Length") or 0)
+    try:
+        question, context, model = _parse_ask_body(handler.rfile.read(length) if length else b"{}")
+    except Exception as exc:  # noqa: BLE001 - report and move on, don't crash the server
+        handler.send_json(400, {"error": f"invalid request body: {exc}"})
+        return
+    if not question:
+        handler.send_json(400, {"error": "missing question"})
+        return
+    try:
+        answer = ask_opencode(question, context, api_key, model)
+    except Exception as exc:  # noqa: BLE001 - report upstream failure, keep serving
+        print(f"[relay] OpenCode Zen call failed: {exc}", file=sys.stderr)
+        handler.send_json(502, {"error": str(exc)})
+        return
+    print(
+        f"[relay] answered with {model} ({len(question)} char question -> {len(answer)} char answer)",
+        file=sys.stderr,
+    )
+    handler.send_json(200, {"answer": answer})
+
+
 def make_handler(api_key: str, shared_secret: str) -> type:
     class RelayHandler(BaseHTTPRequestHandler):
-        def _send_json(self, status: int, payload: dict) -> None:
+        def send_json(self, status: int, payload: dict) -> None:
             body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
             self.send_response(status)
             self.send_header("Content-Type", "application/json; charset=utf-8")
@@ -130,40 +173,14 @@ def make_handler(api_key: str, shared_secret: str) -> type:
             self.end_headers()
             self.wfile.write(body)
 
-        def do_GET(self) -> None:  # noqa: N802
+        def do_GET(self) -> None:
             if self.path == "/health":
-                self._send_json(200, {"status": "ok", "model": DEFAULT_MODEL})
+                self.send_json(200, {"status": "ok", "model": DEFAULT_MODEL})
             else:
-                self._send_json(404, {"error": "not found"})
+                self.send_json(404, {"error": "not found"})
 
-        def do_POST(self) -> None:  # noqa: N802
-            if self.path != "/ask":
-                self._send_json(404, {"error": "not found"})
-                return
-            if self.headers.get("X-Relay-Secret") != shared_secret:
-                self._send_json(401, {"error": "unauthorized"})
-                return
-            length = int(self.headers.get("Content-Length") or 0)
-            try:
-                raw = self.rfile.read(length) if length else b"{}"
-                body = json.loads(raw or b"{}")
-                question = str(body.get("question") or "").strip()
-                context = str(body.get("context") or "")
-                model = resolve_model(body.get("model"))
-            except Exception as exc:  # noqa: BLE001 - report and move on, don't crash the server
-                self._send_json(400, {"error": f"invalid request body: {exc}"})
-                return
-            if not question:
-                self._send_json(400, {"error": "missing question"})
-                return
-            try:
-                answer = ask_opencode(question, context, api_key, model)
-            except Exception as exc:  # noqa: BLE001 - report upstream failure, keep serving
-                print(f"[relay] OpenCode Zen call failed: {exc}", file=sys.stderr)
-                self._send_json(502, {"error": str(exc)})
-                return
-            print(f"[relay] answered with {model} ({len(question)} char question -> {len(answer)} char answer)", file=sys.stderr)
-            self._send_json(200, {"answer": answer})
+        def do_POST(self) -> None:
+            _handle_ask(self, api_key, shared_secret)
 
         def log_message(self, fmt: str, *args: object) -> None:  # quieter default access log
             print(f"[relay] {self.address_string()} - {fmt % args}", file=sys.stderr)
@@ -175,12 +192,13 @@ def main() -> int:
     api_key = _env_or_exit("OPENCODE_API_KEY")
     shared_secret = _env_or_exit("RELAY_SHARED_SECRET")
     server = ThreadingHTTPServer((HOST, PORT), make_handler(api_key, shared_secret))
-    print(f"[relay] listening on http://{HOST}:{PORT} (default model={DEFAULT_MODEL}, upstream={API_URL})", file=sys.stderr)
+    print(
+        f"[relay] listening on http://{HOST}:{PORT} (default model={DEFAULT_MODEL}, upstream={API_URL})",
+        file=sys.stderr,
+    )
     print(f"[relay] expose it with: cloudflared tunnel --url http://{HOST}:{PORT}", file=sys.stderr)
-    try:
+    with contextlib.suppress(KeyboardInterrupt):
         server.serve_forever()
-    except KeyboardInterrupt:
-        pass
     return 0
 
 

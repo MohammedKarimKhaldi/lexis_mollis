@@ -92,7 +92,7 @@ class PageResult:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "PageResult":
+    def from_dict(cls, data: dict[str, Any]) -> PageResult:
         def block_from_dict(block: dict[str, Any]) -> TextBlock:
             return TextBlock(
                 text=block["text"],

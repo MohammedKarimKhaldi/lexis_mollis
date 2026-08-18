@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-from collections import defaultdict
 import json
+from collections import defaultdict
 from pathlib import Path
 
 from pdfkb import PIPELINE_VERSION
@@ -40,7 +40,9 @@ def document_records_from_pages(pages: list[dict]) -> list[dict]:
     return list(by_doc.values())
 
 
-def resolve_nodes(mentions: list[dict], documents: list[dict], mapping: dict[str, dict] | None = None) -> tuple[list[dict], list[dict]]:
+def resolve_nodes(
+    mentions: list[dict], documents: list[dict], mapping: dict[str, dict] | None = None
+) -> tuple[list[dict], list[dict]]:
     mapping = mapping or {}
     nodes: dict[str, dict] = {}
     mention_links: list[dict] = []
@@ -145,5 +147,6 @@ def resolve_nodes(mentions: list[dict], documents: list[dict], mapping: dict[str
             }
         )
 
-    return sorted(nodes.values(), key=lambda row: row["node_id"]), sorted(mention_links, key=lambda row: row["mention_id"])
-
+    return sorted(nodes.values(), key=lambda row: row["node_id"]), sorted(
+        mention_links, key=lambda row: row["mention_id"]
+    )

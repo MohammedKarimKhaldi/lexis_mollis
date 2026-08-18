@@ -17,7 +17,6 @@ from pdfkb.similarity.io import read_parquet_records, write_parquet_records
 from pdfkb.similarity.lexical import char_ngrams, lexical_pairs, normalise_lexical
 from pdfkb.similarity.pairs import fuse_pairs
 
-
 SHA_A = "a" * 64
 SHA_B = "b" * 64
 
@@ -36,9 +35,7 @@ class FakeEmbeddingModel:
 
     def encode(self, texts: list[str], **_: object) -> np.ndarray:
         self.calls += len(texts)
-        vectors = []
-        for text in texts:
-            vectors.append([float(len(text) + 1), float(sum(ord(ch) for ch in text) % 17 + 1)])
+        vectors = [[float(len(text) + 1), float(sum(ord(ch) for ch in text) % 17 + 1)] for text in texts]
         return np.asarray(vectors, dtype=np.float32)
 
 
@@ -126,7 +123,9 @@ class SimilarityTests(unittest.TestCase):
                 ],
                 root / "embeddings_index.parquet",
             )
-            pairs_pq = semantic_pairs(root / "embeddings.npy", root / "embeddings_index.parquet", SimilarityConfig(knn=1), root)
+            pairs_pq = semantic_pairs(
+                root / "embeddings.npy", root / "embeddings_index.parquet", SimilarityConfig(knn=1), root
+            )
             pairs = read_parquet_records(pairs_pq)
             self.assertTrue(all(row["src"] != row["dst"] for row in pairs))
             self.assertTrue(any({row["src"], row["dst"]} == {"c1", "c2"} for row in pairs))
@@ -161,8 +160,12 @@ class SimilarityTests(unittest.TestCase):
                 self._chunk("c2", SHA_B, "doc_b", "Texte B", lang=["en"], quality=0.82, review=True),
             ]
             chunks_pq = write_parquet_records(chunks, root / "chunks.parquet")
-            lexical_pq = write_parquet_records([{"src": "c1", "dst": "c2", "jaccard": 0.1}], root / "lexical_pairs.parquet")
-            semantic_pq = write_parquet_records([{"src": "c1", "dst": "c2", "cosine": 1.000001}], root / "semantic_pairs.parquet")
+            lexical_pq = write_parquet_records(
+                [{"src": "c1", "dst": "c2", "jaccard": 0.1}], root / "lexical_pairs.parquet"
+            )
+            semantic_pq = write_parquet_records(
+                [{"src": "c1", "dst": "c2", "cosine": 1.000001}], root / "semantic_pairs.parquet"
+            )
             edges_pq = fuse_pairs(lexical_pq, semantic_pq, chunks_pq, SimilarityConfig(), root)
             edges = read_parquet_records(edges_pq)
             self.assertEqual(edges[0]["type"], "translation")
@@ -176,24 +179,36 @@ class SimilarityTests(unittest.TestCase):
     def test_doc_type_profiles_detect_markers_and_compare_types(self) -> None:
         treaty_chunks = [
             self._typed_chunk(
-                "t1c0", "doc_t1", "Traité", 0,
+                "t1c0",
+                "doc_t1",
+                "Traité",
+                0,
                 "Les Hautes Parties contractantes, après avoir exhibé leurs pleins pouvoirs, "
                 "sont convenus des articles suivants. Article premier. Article 2.",
             ),
             self._typed_chunk(
-                "t1c1", "doc_t1", "Traité", 1,
+                "t1c1",
+                "doc_t1",
+                "Traité",
+                1,
                 "En foi de quoi les plénipotentiaires ont signé. Fait à Paris le 3 mars 1919. "
                 "Le présent traité sera ratifié et entrera en vigueur après ratification.",
             ),
             self._typed_chunk(
-                "t2c0", "doc_t2", "Traité", 0,
+                "t2c0",
+                "doc_t2",
+                "Traité",
+                0,
                 "Les Hautes Parties contractantes sont convenus des articles suivants. "
                 "Article premier. Ratification requise pour l'entrée en vigueur.",
             ),
         ]
         declaration_chunks = [
             self._typed_chunk(
-                "d1c0", "doc_d1", "Déclaration", 0,
+                "d1c0",
+                "doc_d1",
+                "Déclaration",
+                0,
                 "Le soussigné, dûment autorisé, déclare par les présentes accéder aux dispositions "
                 "ci-après énoncées, sans qu'aucun article numéroté ne soit requis.",
             ),

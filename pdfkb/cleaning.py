@@ -109,4 +109,3 @@ def clean_document(results: list[PageResult]) -> list[PageResult]:
     for result in results:
         result.cleaned_text, result.removed_lines = clean_page(result, recurring)
     return results
-

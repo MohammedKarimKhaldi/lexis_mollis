@@ -1,8 +1,7 @@
 from __future__ import annotations
 
-from dataclasses import dataclass
 import re
-
+from dataclasses import dataclass
 
 MONTHS = {
     "janvier": 1,
@@ -55,13 +54,17 @@ def extract_dates(text: str) -> list[DateMention]:
         month = MONTHS[match.group(2).casefold()]
         year = int(match.group(3))
         if _valid_date(year, month, day):
-            mentions.append(DateMention(match.group(0), match.start(), match.end(), f"{year:04d}-{month:02d}-{day:02d}", 0.95))
+            mentions.append(
+                DateMention(match.group(0), match.start(), match.end(), f"{year:04d}-{month:02d}-{day:02d}", 0.95)
+            )
     for match in NUMERIC_DATE_RE.finditer(text):
         day = int(match.group(1))
         month = int(match.group(2))
         year = int(match.group(3))
         if _valid_date(year, month, day):
-            mentions.append(DateMention(match.group(0), match.start(), match.end(), f"{year:04d}-{month:02d}-{day:02d}", 0.85))
+            mentions.append(
+                DateMention(match.group(0), match.start(), match.end(), f"{year:04d}-{month:02d}-{day:02d}", 0.85)
+            )
     return mentions
 
 
@@ -73,4 +76,3 @@ def _valid_date(year: int, month: int, day: int) -> bool:
     if month == 2 and day > 29:
         return False
     return 1400 <= year <= 2100
-

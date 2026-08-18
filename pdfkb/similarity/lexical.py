@@ -1,14 +1,13 @@
 from __future__ import annotations
 
-from pathlib import Path
 import re
 import unicodedata
+from pathlib import Path
 
 from datasketch import MinHash, MinHashLSH
 
 from .config import SimilarityConfig
 from .io import read_parquet_records, write_parquet_records
-
 
 ALNUM_RE = re.compile(r"[^a-z0-9]+")
 
@@ -61,8 +60,5 @@ def lexical_pairs(chunks_pq: Path, cfg: SimilarityConfig, out_dir: Path) -> Path
             if (a, b) not in pairs:
                 pairs[(a, b)] = float(signatures[a].jaccard(signatures[b]))
 
-    records = [
-        {"src": src, "dst": dst, "jaccard": round(score, 6)}
-        for (src, dst), score in sorted(pairs.items())
-    ]
+    records = [{"src": src, "dst": dst, "jaccard": round(score, 6)} for (src, dst), score in sorted(pairs.items())]
     return write_parquet_records(records, out_dir / "lexical_pairs.parquet")

@@ -7,12 +7,11 @@ import json
 import re
 import unicodedata
 from collections import Counter, defaultdict
+from collections.abc import Iterable
 from pathlib import Path
-from typing import Iterable
 
 from pdfkb.graph.gazetteers import load_all_gazetteers
 from pdfkb.similarity.io import read_jsonl
-
 
 CAPITALIZED = r"[A-ZÀ-ÖØ-Þ][A-Za-zÀ-ÖØ-öø-ÿ0-9'’.-]+"
 CONNECTOR = r"(?:d[’']|de|du|des|del|della|di|da|dos|das|la|le|les|l[’']|of|the|and|et|à|au|aux)"
@@ -211,9 +210,7 @@ def is_candidate(phrase: str, known: set[str]) -> bool:
         return False
     if len(content_parts) <= 4 and generic_count / len(content_parts) >= 0.60:
         return False
-    if any(char.isdigit() for char in value) and len(parts) == 1:
-        return False
-    return True
+    return not (any(char.isdigit() for char in value) and len(parts) == 1)
 
 
 def context(text: str, start: int, end: int, chars: int) -> str:

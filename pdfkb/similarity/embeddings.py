@@ -1,14 +1,18 @@
 from __future__ import annotations
 
+import logging
+from collections.abc import Callable
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
-from typing import Any, Callable
+from typing import Any
 
 import numpy as np
 
 from .config import SimilarityConfig
 from .io import read_parquet_records, write_parquet_records
+
+logger = logging.getLogger(__name__)
 
 
 @dataclass(frozen=True)
@@ -37,7 +41,10 @@ def _load_model(cfg: SimilarityConfig) -> tuple[Any, str]:
 
     try:
         return SentenceTransformer(cfg.model), cfg.model
-    except Exception:
+    except Exception as error:  # noqa: BLE001 - falling back to a known-good embedding model
+        logger.warning(
+            "failed to load embedding model %r, falling back to %r: %s", cfg.model, cfg.fallback_model, error
+        )
         return SentenceTransformer(cfg.fallback_model), cfg.fallback_model
 
 
@@ -71,7 +78,9 @@ def embed_chunks(
 
     model, model_name = (model_factory or _load_model)(cfg)
     cache_rows, cache_vectors = _read_cache(cache_index_path, cache_vectors_path)
-    cache_by_hash = {row["text_sha256"]: int(row["cache_row"]) for row in cache_rows if row.get("embedding_model") == model_name}
+    cache_by_hash = {
+        row["text_sha256"]: int(row["cache_row"]) for row in cache_rows if row.get("embedding_model") == model_name
+    }
 
     unique_texts: dict[str, str] = {}
     for chunk in chunks:
@@ -79,7 +88,7 @@ def embed_chunks(
 
     missing = [(sha, text) for sha, text in unique_texts.items() if sha not in cache_by_hash]
     encoded_count = len(missing)
-    now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+    now = datetime.now(UTC).isoformat().replace("+00:00", "Z")
 
     if missing:
         encoded = model.encode(
@@ -109,7 +118,9 @@ def embed_chunks(
         cache_vectors = np.zeros((0, 0), dtype=np.float32)
 
     assert cache_vectors is not None
-    full_vectors = np.vstack([cache_vectors[cache_by_hash[chunk["text_sha256"]]] for chunk in chunks]).astype(np.float32)
+    full_vectors = np.vstack([cache_vectors[cache_by_hash[chunk["text_sha256"]]] for chunk in chunks]).astype(
+        np.float32
+    )
     full_vectors = _normalise(full_vectors)
 
     np.save(embeddings_path, full_vectors)
@@ -144,4 +155,3 @@ def embed_chunks(
         dim=int(full_vectors.shape[1]) if full_vectors.ndim == 2 else 0,
         encoded_count=encoded_count,
     )
-

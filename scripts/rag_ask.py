@@ -64,9 +64,9 @@ from typing import Any
 import numpy as np
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from pdfkb.similarity.doc_type_profiles import load_doc_type_mapping  # noqa: E402
-from pdfkb.similarity.io import read_parquet_records  # noqa: E402
-from pdfkb.similarity.lexical import normalise_lexical  # noqa: E402
+from pdfkb.similarity.doc_type_profiles import load_doc_type_mapping
+from pdfkb.similarity.io import read_parquet_records
+from pdfkb.similarity.lexical import normalise_lexical
 
 DEFAULT_SIMILARITY_DIR = Path("outputs_v2/similarity")
 DEFAULT_RELEASE_DIR = Path("outputs_v2/release")
@@ -82,7 +82,11 @@ SYSTEM_PROMPT = (
     "fournis (corpus de traités et instruments juridiques Lexis Mollis, OCR historique, parfois "
     "imparfait). Si l'information n'est pas dans le contexte fourni, dis-le clairement plutôt que "
     "d'inventer. Cite systématiquement l'identifiant de document entre crochets (ex. [16460004_s1]) "
-    "et la page quand c'est pertinent. Réponds dans la langue de la question. Si le contexte contient "
+    "et la page quand c'est pertinent. Réponds en français par défaut, et toujours en français lorsque "
+    "la question est en français ; change de langue uniquement si la personne le demande explicitement. "
+    "Donne une réponse directe et concise ; ne mentionne jamais les lots, étapes, prompts ou mécanismes "
+    "internes. "
+    "Si le contexte contient "
     "des sections « Profil du type documentaire », base toute comparaison de forme/rédaction entre "
     "types de documents sur les statistiques qu'elles donnent (fractions de documents, moyennes) et "
     "cite les pourcentages exacts plutôt que des impressions générales ; illustre avec les extraits "
@@ -106,18 +110,14 @@ def _label_variants(label: str) -> set[str]:
     if not norm.endswith("s"):
         variants.add(norm + "s")
     if len(words) > 1 and not words[-1].endswith("s"):
-        variants.add(" ".join(words[:-1] + [words[-1] + "s"]))
+        variants.add(" ".join([*words[:-1], words[-1] + "s"]))
     return variants
 
 
 def detect_doc_types(query: str, labels: list[str]) -> list[str]:
     """Return the known doc_type labels named in `query` (order-preserving, no dupes)."""
     padded_query = f" {normalise_lexical(query)} "
-    matched: list[str] = []
-    for label in labels:
-        if any(f" {variant} " in padded_query for variant in _label_variants(label)):
-            matched.append(label)
-    return matched
+    return [label for label in labels if any(f" {variant} " in padded_query for variant in _label_variants(label))]
 
 
 def has_comparison_intent(query: str) -> bool:
@@ -130,9 +130,17 @@ def has_comparison_intent(query: str) -> bool:
     return any(needle in normalised for needle in ("compar", "differenc", "distinction"))
 
 
-def unmatched_type_clarification(
-    query: str, compare_types: list[str], doc_type_profiles: dict[str, Any]
-) -> str | None:
+def needs_type_profile(query: str) -> bool:
+    if has_comparison_intent(query):
+        return True
+    normalised = normalise_lexical(query)
+    return any(
+        needle in normalised
+        for needle in ("caracter", "structure", "redaction", "forme", "typologie", "profil", "style")
+    )
+
+
+def unmatched_type_clarification(query: str, compare_types: list[str], doc_type_profiles: dict[str, Any]) -> str | None:
     """When a question clearly wants a type-vs-type comparison but fewer than 2 of
     the named terms match the corpus's actual controlled doc_type vocabulary
     (e.g. asking to compare "Traité" and "Memorandum", the latter not being one of
@@ -144,9 +152,7 @@ def unmatched_type_clarification(
 
     available = ", ".join(
         f"{profile['label']} ({profile['n_documents']})"
-        for profile in sorted(
-            doc_type_profiles.values(), key=lambda p: p.get("n_documents") or 0, reverse=True
-        )
+        for profile in sorted(doc_type_profiles.values(), key=lambda p: p.get("n_documents") or 0, reverse=True)
         if profile.get("label") and profile.get("n_documents")
     )
     matched_note = (
@@ -311,7 +317,9 @@ class KnowledgeBase:
             seen.add(dst_id)
             doc = self.documents_by_id.get(dst_id)
             if doc is not None:
-                related.append({"document": doc, "type": edge["type"], "score": edge.get("combined") or edge.get("quality_weight")})
+                related.append(
+                    {"document": doc, "type": edge["type"], "score": edge.get("combined") or edge.get("quality_weight")}
+                )
             if len(related) >= limit:
                 break
         return related
@@ -339,10 +347,12 @@ class KnowledgeBase:
         if openings:
             lines += ["", "Exemples réels (débuts de document) :"]
             for sample in openings[:3]:
-                lines.append(f"- [{sample.get('document_id')}] ({sample.get('year') or 'n/a'}) : « {sample.get('excerpt')} »")
+                lines.append(
+                    f"- [{sample.get('document_id')}] ({sample.get('year') or 'n/a'}) : « {sample.get('excerpt')} »"
+                )
         return "\n".join(lines)
 
-    def _hit_block(self, hit: dict, use_graph: bool, seen_docs: set[str]) -> str:
+    def hit_block(self, hit: dict, use_graph: bool, seen_docs: set[str]) -> str:
         chunk = hit["chunk"]
         doc = self.documents_by_id.get(chunk["document_id"], {})
         lines = [
@@ -446,7 +456,7 @@ class KnowledgeBase:
                         continue
                     seen_chunk_ids.add(chunk_id)
                     hits.append(hit)
-                    blocks.append(self._hit_block(hit, use_graph, seen_docs))
+                    blocks.append(self.hit_block(hit, use_graph, seen_docs))
 
         if degraded or not compare_types:
             # Free-text stand-in (degraded mode) or the only retrieval (plain
@@ -460,7 +470,7 @@ class KnowledgeBase:
                     continue
                 seen_chunk_ids.add(chunk_id)
                 hits.append(hit)
-                blocks.append(self._hit_block(hit, use_graph, seen_docs))
+                blocks.append(self.hit_block(hit, use_graph, seen_docs))
 
         return "\n\n---\n\n".join(blocks), hits
 
@@ -534,7 +544,7 @@ MAP_REDUCE_BATCH_SIZE = 60
 
 
 def generate_answer(
-    kb: "KnowledgeBase",
+    kb: KnowledgeBase,
     query: str,
     compare_types: list[str],
     degraded: bool,
@@ -552,7 +562,7 @@ def generate_answer(
     if len(hits) <= MAP_REDUCE_BATCH_SIZE:
         seen_docs: set[str] = set()
         blocks = list(constant_blocks)
-        blocks += [kb._hit_block(hit, use_graph, seen_docs) for hit in hits]
+        blocks += [kb.hit_block(hit, use_graph, seen_docs) for hit in hits]
         answer = ask_llm_with_retry(query, "\n\n---\n\n".join(blocks), api_url, api_model, api_key)
         return AnswerResult(answer=answer, completed_steps=1, total_steps=1)
 
@@ -562,7 +572,7 @@ def generate_answer(
     failure_note: str | None = None
     for i, batch in enumerate(batches, start=1):
         seen_docs = set()
-        batch_blocks = list(constant_blocks) + [kb._hit_block(hit, use_graph, seen_docs) for hit in batch]
+        batch_blocks = list(constant_blocks) + [kb.hit_block(hit, use_graph, seen_docs) for hit in batch]
         batch_question = (
             f"Question originale : {query}\n\n"
             f"Ceci est le lot {i}/{len(batches)} de documents pertinents pour cette question. Ne réponds PAS de "
@@ -601,7 +611,11 @@ def generate_answer(
         except Exception:  # noqa: BLE001 - fall back to raw notes below
             answer = f"{partial_notice}\n\n" + "\n\n".join(partials)
         return AnswerResult(
-            answer=answer, partial=True, completed_steps=len(partials), total_steps=total_steps, failure_note=failure_note
+            answer=answer,
+            partial=True,
+            completed_steps=len(partials),
+            total_steps=total_steps,
+            failure_note=failure_note,
         )
 
     reduce_question = (
@@ -638,8 +652,88 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="Path to doc_type_profiles.json (default: <similarity-dir>/doc_type_profiles.json).",
     )
-    parser.add_argument("--no-compare-mode", action="store_true", help="Disable doc_type comparison-question detection.")
+    parser.add_argument(
+        "--no-compare-mode", action="store_true", help="Disable doc_type comparison-question detection."
+    )
     return parser.parse_args()
+
+
+def _detect_compare_types(question: str, args: argparse.Namespace, kb: KnowledgeBase) -> list[str]:
+    detected_types = [] if args.no_compare_mode else kb.detect_comparison_types(question)
+    compare_types = detected_types if needs_type_profile(question) else []
+    if len(compare_types) >= 2:
+        print(f"[mode comparaison de types activé : {', '.join(compare_types)}]", file=sys.stderr)
+    elif len(compare_types) == 1:
+        print(f"[type reconnu dans la question : {compare_types[0]}]", file=sys.stderr)
+    return compare_types
+
+
+def _print_answer(
+    kb: KnowledgeBase,
+    question: str,
+    compare_types: list[str],
+    degraded: bool,
+    hits: list,
+    args: argparse.Namespace,
+    api_key: str,
+) -> None:
+    try:
+        result = generate_answer(
+            kb, question, compare_types, degraded, hits, not args.no_graph, args.api_url, args.api_model, api_key
+        )
+    except Exception as exc:  # noqa: BLE001 - report and fall back, don't crash a REPL
+        print(f"Échec de l'appel LLM ({exc}) — affichage du contexte brut à la place.", file=sys.stderr)
+        return
+    if result.partial:
+        print(
+            f"[réponse partielle : {result.completed_steps}/{result.total_steps} étapes traitées avant "
+            f"l'erreur -- {result.failure_note}]",
+            file=sys.stderr,
+        )
+    print(result.answer)
+    print("\nSources :", file=sys.stderr)
+    for hit in hits:
+        chunk = hit["chunk"]
+        print(f"  - [{chunk['document_id']}] p.{chunk.get('page_number')} (score {hit['score']:.2f})", file=sys.stderr)
+
+
+def _handle_question(question: str, args: argparse.Namespace, kb: KnowledgeBase) -> None:
+    compare_types = _detect_compare_types(question, args, kb)
+    # A comparison-shaped question with fewer than 2 real doc_types matched
+    # used to hard-refuse via unmatched_type_clarification. It now falls
+    # through to the same type-aware build_context instead, with
+    # degraded=True adding an honest free-text stand-in for the unmatched
+    # term(s) -- see build_context's docstring.
+    degraded = not args.no_compare_mode and len(compare_types) < 2 and has_comparison_intent(question)
+    context, hits = kb.build_context(
+        question, k=args.k, use_graph=not args.no_graph, compare_types=compare_types, degraded=degraded
+    )
+    if degraded:
+        if not hits:
+            clarification = unmatched_type_clarification(question, compare_types, kb.doc_type_profiles)
+            print(
+                clarification
+                or "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation."
+            )
+            return
+        print("[mode comparaison dégradée : recherche libre pour le(s) terme(s) non reconnu(s)]", file=sys.stderr)
+    print(f"[{len(hits)} extraits récupérés]", file=sys.stderr)
+
+    if args.no_llm:
+        print(context)
+        return
+
+    api_key = os.environ.get("OPENCODE_API_KEY")
+    if not api_key:
+        print(
+            "OPENCODE_API_KEY n'est pas défini (voir l'en-tête de scripts/rag_ask.py) — "
+            "affichage du contexte brut uniquement.",
+            file=sys.stderr,
+        )
+        print(context)
+        return
+
+    _print_answer(kb, question, compare_types, degraded, hits, args, api_key)
 
 
 def main() -> int:
@@ -647,68 +741,8 @@ def main() -> int:
     profiles_path = args.doc_type_profiles or (args.similarity_dir / "doc_type_profiles.json")
     kb = KnowledgeBase(args.similarity_dir, args.release_dir, args.graph_dir, doc_type_profiles_path=profiles_path)
 
-    def handle(question: str) -> None:
-        compare_types = [] if args.no_compare_mode else kb.detect_comparison_types(question)
-        if len(compare_types) >= 2:
-            print(f"[mode comparaison de types activé : {', '.join(compare_types)}]", file=sys.stderr)
-        elif len(compare_types) == 1:
-            print(f"[type reconnu dans la question : {compare_types[0]}]", file=sys.stderr)
-        # A comparison-shaped question with fewer than 2 real doc_types matched
-        # used to hard-refuse via unmatched_type_clarification. It now falls
-        # through to the same type-aware build_context instead, with
-        # degraded=True adding an honest free-text stand-in for the unmatched
-        # term(s) -- see build_context's docstring.
-        degraded = not args.no_compare_mode and len(compare_types) < 2 and has_comparison_intent(question)
-        context, hits = kb.build_context(
-            question, k=args.k, use_graph=not args.no_graph, compare_types=compare_types, degraded=degraded
-        )
-        if degraded:
-            if not hits:
-                clarification = unmatched_type_clarification(question, compare_types, kb.doc_type_profiles)
-                print(
-                    clarification
-                    or "Aucun document du corpus ne semble correspondre à cette question. Essayez une autre formulation."
-                )
-                return
-            print("[mode comparaison dégradée : recherche libre pour le(s) terme(s) non reconnu(s)]", file=sys.stderr)
-        print(f"[{len(hits)} extraits récupérés]", file=sys.stderr)
-
-        if args.no_llm:
-            print(context)
-            return
-
-        api_key = os.environ.get("OPENCODE_API_KEY")
-        if not api_key:
-            print(
-                "OPENCODE_API_KEY n'est pas défini (voir l'en-tête de scripts/rag_ask.py) — "
-                "affichage du contexte brut uniquement.",
-                file=sys.stderr,
-            )
-            print(context)
-            return
-
-        try:
-            result = generate_answer(
-                kb, question, compare_types, degraded, hits, not args.no_graph, args.api_url, args.api_model, api_key
-            )
-        except Exception as exc:  # noqa: BLE001 - report and fall back, don't crash a REPL
-            print(f"Échec de l'appel LLM ({exc}) — affichage du contexte brut à la place.", file=sys.stderr)
-            print(context)
-            return
-        if result.partial:
-            print(
-                f"[réponse partielle : {result.completed_steps}/{result.total_steps} étapes traitées avant "
-                f"l'erreur -- {result.failure_note}]",
-                file=sys.stderr,
-            )
-        print(result.answer)
-        print("\nSources :", file=sys.stderr)
-        for hit in hits:
-            chunk = hit["chunk"]
-            print(f"  - [{chunk['document_id']}] p.{chunk.get('page_number')} (score {hit['score']:.2f})", file=sys.stderr)
-
     if args.query:
-        handle(args.query)
+        _handle_question(args.query, args, kb)
         return 0
 
     print("Mode interactif — Ctrl+D ou 'exit' pour quitter.", file=sys.stderr)
@@ -719,7 +753,7 @@ def main() -> int:
             break
         if not question or question.lower() in {"exit", "quit"}:
             break
-        handle(question)
+        _handle_question(question, args, kb)
     return 0
 
 

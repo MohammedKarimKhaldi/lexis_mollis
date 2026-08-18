@@ -7,7 +7,7 @@ page literally reads "PROCES-VERBAL de DEPOT des RATIFICATIONS...").
 Run AFTER `pdfkb run` (needs OCR'd page text in metadata/pipeline.sqlite3) but
 BEFORE `pdfkb run --resume` is re-run to push the correction back into the
 pipeline state, and before `pdfkb audit` / `similarity build` / etc. See
-BUILD_PLAYBOOK.md / README.md for the full command order.
+README.md and ARCHITECTURE.md for the current command order.
 
 Deliberately conservative: only two text markers are used, both validated by
 checking their hit-rate across ALL already title-classified doc_types before

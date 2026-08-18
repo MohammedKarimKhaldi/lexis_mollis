@@ -156,4 +156,3 @@ def native_is_credible(candidate: Candidate) -> bool:
         and float(metrics["noise_ratio"]) <= 0.01
         and candidate.score >= 0.82
     )
-

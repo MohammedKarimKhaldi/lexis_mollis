@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-from collections import Counter
 import json
+from collections import Counter
 from pathlib import Path
 from urllib.parse import quote
 
@@ -14,7 +14,6 @@ from pdfkb.ids import edge_key, node_id, text_sha256
 from pdfkb.similarity.io import read_parquet_records, write_parquet_records
 
 from .config import GraphConfig
-
 
 SLO = Namespace("https://lexis-mollis.org/ontology#")
 SCHEMA = Namespace("https://schema.org/")
@@ -36,17 +35,7 @@ EDGE_PREDICATES = {
 }
 
 
-def build_edges(
-    nodes: list[dict],
-    documents: list[dict],
-    mention_links: list[dict],
-    similarity_dir: Path | None,
-    out_dir: Path,
-) -> Path:
-    node_ids = {node["node_id"] for node in nodes}
-    docs = {doc["document_id"]: doc for doc in documents}
-    records: dict[str, dict] = {}
-
+def _add_treaty_instrument_edges(records: dict[str, dict], documents: list[dict]) -> None:
     for doc in documents:
         if not doc.get("treaty_id"):
             continue
@@ -70,6 +59,8 @@ def build_edges(
             },
         )
 
+
+def _add_mention_edges(records: dict[str, dict], mention_links: list[dict], docs: dict[str, dict]) -> None:
     for link in mention_links:
         doc = docs.get(link["document_id"])
         if not doc or not doc.get("treaty_id"):
@@ -110,7 +101,10 @@ def build_edges(
             },
         )
 
-    nodes_by_id = {node["node_id"]: node for node in nodes}
+
+def _add_instrument_type_topic_edges(
+    records: dict[str, dict], documents: list[dict], nodes_by_id: dict[str, dict], node_ids: set[str]
+) -> None:
     for doc in documents:
         if not doc.get("treaty_id"):
             continue
@@ -140,16 +134,37 @@ def build_edges(
                 },
             )
 
-    if similarity_dir is not None and (similarity_dir / "doc_edges.parquet").exists():
-        for edge in read_parquet_records(similarity_dir / "doc_edges.parquet"):
-            if edge["src"] in node_ids and edge["dst"] in node_ids:
-                imported = dict(edge)
-                imported["type"] = "similar_to" if imported["type"] == "similar_to" else imported["type"]
-                imported["pipeline_version"] = imported.get("pipeline_version") or PIPELINE_VERSION
-                _add_edge(records, imported)
+
+def _import_similarity_edges(records: dict[str, dict], similarity_dir: Path | None, node_ids: set[str]) -> None:
+    if similarity_dir is None or not (similarity_dir / "doc_edges.parquet").exists():
+        return
+    for edge in read_parquet_records(similarity_dir / "doc_edges.parquet"):
+        if edge["src"] in node_ids and edge["dst"] in node_ids:
+            imported = dict(edge)
+            imported["pipeline_version"] = imported.get("pipeline_version") or PIPELINE_VERSION
+            _add_edge(records, imported)
+
+
+def build_edges(
+    nodes: list[dict],
+    documents: list[dict],
+    mention_links: list[dict],
+    similarity_dir: Path | None,
+    out_dir: Path,
+) -> Path:
+    node_ids = {node["node_id"] for node in nodes}
+    docs = {doc["document_id"]: doc for doc in documents}
+    records: dict[str, dict] = {}
+
+    _add_treaty_instrument_edges(records, documents)
+    _add_mention_edges(records, mention_links, docs)
+    _add_instrument_type_topic_edges(records, documents, {node["node_id"]: node for node in nodes}, node_ids)
+    _import_similarity_edges(records, similarity_dir, node_ids)
 
     valid_records = [edge for edge in records.values() if edge["src"] in node_ids and edge["dst"] in node_ids]
-    return write_parquet_records(sorted(valid_records, key=lambda row: (row["type"], row["src"], row["dst"])), out_dir / "edges.parquet")
+    return write_parquet_records(
+        sorted(valid_records, key=lambda row: (row["type"], row["src"], row["dst"])), out_dir / "edges.parquet"
+    )
 
 
 def _add_edge(records: dict[str, dict], edge: dict) -> None:
@@ -216,7 +231,9 @@ def _write_sigma(nodes: list[dict], edges: list[dict], path: Path, cfg: GraphCon
         graph.add_node(node["node_id"])
     for edge in edges:
         if edge["src"] in graph and edge["dst"] in graph:
-            graph.add_edge(edge["src"], edge["dst"], weight=float(edge.get("combined") or edge.get("quality_weight") or 1.0))
+            graph.add_edge(
+                edge["src"], edge["dst"], weight=float(edge.get("combined") or edge.get("quality_weight") or 1.0)
+            )
     positions = nx.spring_layout(graph, seed=cfg.seed, weight="weight") if graph.number_of_nodes() else {}
     degrees = dict(graph.degree())
     payload = {

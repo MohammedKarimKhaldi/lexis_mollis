@@ -2,16 +2,15 @@
 from __future__ import annotations
 
 import argparse
+import json
 from collections import Counter, defaultdict
 from dataclasses import replace
-import json
 from pathlib import Path
 from typing import Any
 
 from pdfkb.similarity.config import SimilarityConfig
 from pdfkb.similarity.io import read_parquet_records
 from pdfkb.similarity.pairs import _edge_type
-
 
 DEFAULT_WEIGHTS = [(0.5, 0.5), (0.6, 0.4), (0.4, 0.6)]
 DEFAULT_DUPLICATE = [0.88, 0.90, 0.92]
@@ -47,7 +46,12 @@ def load_chunks(similarity_dir: Path) -> dict[str, dict]:
     return {row["chunk_id"]: row for row in read_parquet_records(similarity_dir / "chunks.parquet")}
 
 
-def score_config(cases: list[dict[str, Any]], scores: dict[tuple[str, str], dict[str, float]], chunks: dict[str, dict], cfg: SimilarityConfig) -> dict[str, Any]:
+def score_config(
+    cases: list[dict[str, Any]],
+    scores: dict[tuple[str, str], dict[str, float]],
+    chunks: dict[str, dict],
+    cfg: SimilarityConfig,
+) -> dict[str, Any]:
     tp = fp = fn = tn = 0
     by_type: dict[str, Counter] = defaultdict(Counter)
     missing_pairs = 0
@@ -101,7 +105,9 @@ def score_config(cases: list[dict[str, Any]], scores: dict[tuple[str, str], dict
     }
 
 
-def sweep(cases: list[dict[str, Any]], scores: dict[tuple[str, str], dict[str, float]], chunks: dict[str, dict]) -> dict[str, Any]:
+def sweep(
+    cases: list[dict[str, Any]], scores: dict[tuple[str, str], dict[str, float]], chunks: dict[str, dict]
+) -> dict[str, Any]:
     best: dict[str, Any] | None = None
     for w_lexical, w_semantic in DEFAULT_WEIGHTS:
         for duplicate in DEFAULT_DUPLICATE:
@@ -162,13 +168,17 @@ def main() -> int:
 
     if positive < 30 or negative < 30:
         report["status"] = "insufficient_annotations"
-        report["message"] = "Add at least 30 positive and 30 negative human-validated real pairs before claiming calibrated thresholds."
+        report["message"] = (
+            "Add at least 30 positive and 30 negative human-validated real pairs before claiming calibrated thresholds."
+        )
     else:
         scores = load_scores(args.similarity_dir)
         chunks = load_chunks(args.similarity_dir)
         report["status"] = "calibrated" if human_validated else "llm_draft_calibrated"
         if not human_validated:
-            report["message"] = "Threshold sweep completed on LLM-draft labels. Treat as provisional; do not claim human-validated calibration until human annotations replace these cases."
+            report["message"] = (
+                "Threshold sweep completed on LLM-draft labels. Treat as provisional; do not claim human-validated calibration until human annotations replace these cases."
+            )
         report["best"] = sweep(scored_cases, scores, chunks)
 
     args.output.parent.mkdir(parents=True, exist_ok=True)

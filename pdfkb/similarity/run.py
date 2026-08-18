@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import logging
 from pathlib import Path
 from typing import Any
 
@@ -13,6 +14,8 @@ from .index import semantic_pairs
 from .io import read_parquet_records, write_parquet_records
 from .lexical import lexical_pairs
 from .pairs import fuse_pairs
+
+logger = logging.getLogger(__name__)
 
 
 class RegexTokenizer:
@@ -31,9 +34,11 @@ def load_tokenizer(cfg: SimilarityConfig) -> tuple[Any, str]:
 
         try:
             return AutoTokenizer.from_pretrained(cfg.model), cfg.model
-        except Exception:
+        except Exception as error:  # noqa: BLE001 - falling back to a known-good tokenizer
+            logger.warning("failed to load tokenizer %r, falling back to %r: %s", cfg.model, cfg.fallback_model, error)
             return AutoTokenizer.from_pretrained(cfg.fallback_model), cfg.fallback_model
-    except Exception:
+    except Exception as error:  # noqa: BLE001 - transformers unavailable, falling back to regex tokenisation
+        logger.warning("transformers unavailable, falling back to regex tokenisation: %s", error)
         return RegexTokenizer(), "regex_fallback"
 
 

@@ -12,7 +12,6 @@ from typing import Any
 
 from pdfkb.similarity.io import read_parquet_records
 
-
 BANDS = [
     ("very_high_ge_0_95", 0.95, 1.01),
     ("high_0_85_0_95", 0.85, 0.95),
@@ -113,7 +112,14 @@ def _record(
         "combined": round(_score(edge.get("combined") if edge else 0.0), 6),
         "lexical": round(_score(edge.get("lexical") if edge else 0.0), 6),
         "semantic": round(_score(edge.get("semantic") if edge else 0.0), 6),
-        "quality_weight": round(_score(edge.get("quality_weight") if edge else min(src.get("quality_score") or 0, dst.get("quality_score") or 0)), 6),
+        "quality_weight": round(
+            _score(
+                edge.get("quality_weight")
+                if edge
+                else min(src.get("quality_score") or 0, dst.get("quality_score") or 0)
+            ),
+            6,
+        ),
         "src_language": "|".join(src.get("language") or []),
         "dst_language": "|".join(dst.get("language") or []),
         "src_excerpt": _excerpt(src.get("text") or "", excerpt_chars),
@@ -330,7 +336,11 @@ def main() -> int:
         "csv": str(args.output_csv),
         "json": str(args.output_json),
         "by_band": {band: sum(1 for record in records if record["score_band"] == band) for band, *_ in BANDS}
-        | {"no_edge_same_type_century": sum(1 for record in records if record["score_band"] == "no_edge_same_type_century")},
+        | {
+            "no_edge_same_type_century": sum(
+                1 for record in records if record["score_band"] == "no_edge_same_type_century"
+            )
+        },
     }
     print(json.dumps(summary, ensure_ascii=False, indent=2))
     return 0

@@ -10,7 +10,6 @@ from typing import Any
 from jsonschema import Draft202012Validator
 from rdflib import Graph
 
-
 ROOT = Path(__file__).resolve().parents[1]
 METADATA_DESIGN = ROOT / "metadata_design"
 
@@ -123,4 +122,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

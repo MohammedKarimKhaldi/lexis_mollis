@@ -17,8 +17,7 @@ def main() -> int:
 
     citation = yaml.safe_load(args.citation.read_text(encoding="utf-8"))
     creators = [
-        {"name": f"{author['family-names']}, {author['given-names']}"}
-        for author in citation.get("authors", [])
+        {"name": f"{author['family-names']}, {author['given-names']}"} for author in citation.get("authors", [])
     ]
     generated = {
         "title": citation["title"],
@@ -51,4 +50,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

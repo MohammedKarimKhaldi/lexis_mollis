@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import io
-from dataclasses import dataclass
 
 from PIL import Image
 
@@ -46,9 +45,7 @@ def recognize(image: Image.Image, variant: str = "original") -> Candidate:
     if hasattr(request, "setAutomaticallyDetectsLanguage_"):
         request.setAutomaticallyDetectsLanguage_(True)
 
-    handler = Vision.VNImageRequestHandler.alloc().initWithCGImage_options_(
-        _cgimage_from_pil(image), None
-    )
+    handler = Vision.VNImageRequestHandler.alloc().initWithCGImage_options_(_cgimage_from_pil(image), None)
     success, error = handler.performRequests_error_([request], None)
     if not success:
         raise RuntimeError(f"Apple Vision a échoué: {error}")
@@ -73,7 +70,7 @@ def recognize(image: Image.Image, variant: str = "original") -> Candidate:
         confidences.append(confidence)
 
     text = "\n".join(block.text for block in blocks)
-    weighted = sum(c * max(len(b.text), 1) for c, b in zip(confidences, blocks))
+    weighted = sum(c * max(len(b.text), 1) for c, b in zip(confidences, blocks, strict=True))
     weight = sum(max(len(block.text), 1) for block in blocks)
     confidence = weighted / weight if weight else 0.0
     return Candidate(
@@ -83,4 +80,3 @@ def recognize(image: Image.Image, variant: str = "original") -> Candidate:
         confidence=confidence,
         variant=variant,
     )
-

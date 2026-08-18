@@ -4,4 +4,3 @@ from .config import GraphConfig
 from .run import build
 
 __all__ = ["GraphConfig", "build"]
-

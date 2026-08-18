@@ -55,4 +55,3 @@ def run_benchmark(source: Path, cases_path: Path, dpi: int = 200) -> dict[str, A
             }
         )
     return {"cases": len(cases), "passed": passed, "failed": len(cases) - passed, "outcomes": outcomes}
-

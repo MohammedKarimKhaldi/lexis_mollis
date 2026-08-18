@@ -1,8 +1,8 @@
 from __future__ import annotations
 
 import json
+from collections.abc import Iterable
 from pathlib import Path
-from typing import Iterable
 
 import pyarrow as pa
 import pyarrow.parquet as pq
@@ -32,4 +32,3 @@ def write_parquet_records(records: Iterable[dict], path: Path) -> Path:
     table = pa.Table.from_pylist(rows) if rows else pa.table({})
     pq.write_table(table, path)
     return path
-

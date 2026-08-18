@@ -4,7 +4,6 @@ import unittest
 
 from pdfkb.ids import chunk_id, edge_key, node_id, slug, text_sha256
 
-
 SHA = "a" * 64
 
 
@@ -30,7 +29,10 @@ class IdTests(unittest.TestCase):
         self.assertEqual(node_id("Document", document_id="TRA001_s1"), "doc:TRA001_s1")
         self.assertEqual(node_id("Instrument", treaty_id="TRA001"), "instr:TRA001")
         self.assertEqual(node_id("Party", wikidata_qid="Q142"), "ent:wd:Q142")
-        self.assertEqual(node_id("Organization", label="Organisation mondiale de la Santé"), "ent:Organization:organisation_mondiale_de_la_sante")
+        self.assertEqual(
+            node_id("Organization", label="Organisation mondiale de la Santé"),
+            "ent:Organization:organisation_mondiale_de_la_sante",
+        )
         self.assertEqual(node_id("Clause", source_sha256=SHA, page=1, idx=0), f"clause:{SHA}:p0001:c000")
 
     def test_symmetric_edge_key_orders_endpoints(self) -> None:

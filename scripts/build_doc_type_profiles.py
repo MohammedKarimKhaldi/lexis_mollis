@@ -17,22 +17,30 @@ from __future__ import annotations
 
 import argparse
 import json
-from pathlib import Path
 import sys
+from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from pdfkb.similarity.doc_type_profiles import write_doc_type_profiles  # noqa: E402
+from pdfkb.similarity.doc_type_profiles import write_doc_type_profiles
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--chunks", type=Path, default=Path("outputs_v2/similarity/chunks.parquet"))
-    parser.add_argument("--documents", type=Path, default=Path("outputs_v2/release/documents"),
-                         help="Optional documents table (for accurate page counts). Skipped if absent.")
+    parser.add_argument(
+        "--documents",
+        type=Path,
+        default=Path("outputs_v2/release/documents"),
+        help="Optional documents table (for accurate page counts). Skipped if absent.",
+    )
     parser.add_argument("--mapping", type=Path, default=Path("metadata_design/doc_type_mapping.json"))
     parser.add_argument("--output", type=Path, default=Path("outputs_v2/similarity/doc_type_profiles.json"))
-    parser.add_argument("--min-documents", type=int, default=3,
-                         help="Below this many documents, a type's stats are flagged low_sample_warning.")
+    parser.add_argument(
+        "--min-documents",
+        type=int,
+        default=3,
+        help="Below this many documents, a type's stats are flagged low_sample_warning.",
+    )
     return parser.parse_args()
 
 
@@ -50,16 +58,18 @@ def main() -> int:
         min_documents=args.min_documents,
     )
     data = json.loads(out_path.read_text(encoding="utf-8"))
-    print(json.dumps(
-        {
-            "output": str(out_path),
-            "n_documents_total": data["n_documents_total"],
-            "n_chunks_total": data["n_chunks_total"],
-            "types": {label: profile["n_documents"] for label, profile in data["types"].items()},
-        },
-        ensure_ascii=False,
-        indent=2,
-    ))
+    print(
+        json.dumps(
+            {
+                "output": str(out_path),
+                "n_documents_total": data["n_documents_total"],
+                "n_chunks_total": data["n_chunks_total"],
+                "types": {label: profile["n_documents"] for label, profile in data["types"].items()},
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+    )
     return 0
 
 

@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-from collections import Counter, defaultdict
 import json
+from collections import Counter, defaultdict
 from pathlib import Path
 from statistics import median
 
@@ -19,7 +19,7 @@ def _document_edge_type(chunk_type: str) -> str:
     return "similar_to"
 
 
-def document_edges(chunk_edges_pq: Path, chunks_pq: Path, cfg: SimilarityConfig, out_dir: Path) -> Path:
+def document_edges(chunk_edges_pq: Path, chunks_pq: Path, _cfg: SimilarityConfig, out_dir: Path) -> Path:
     chunks = {chunk["chunk_id"]: chunk for chunk in read_parquet_records(chunks_pq)}
     groups: dict[tuple[str, str], list[dict]] = defaultdict(list)
 
@@ -61,7 +61,9 @@ def document_edges(chunk_edges_pq: Path, chunks_pq: Path, cfg: SimilarityConfig,
     return write_parquet_records(records, out_dir / "doc_edges.parquet")
 
 
-def cluster_documents(doc_edges_pq: Path, cfg: SimilarityConfig, out_dir: Path, chunks_pq: Path | None = None) -> tuple[Path, Path]:
+def cluster_documents(
+    doc_edges_pq: Path, cfg: SimilarityConfig, out_dir: Path, chunks_pq: Path | None = None
+) -> tuple[Path, Path]:
     import networkx as nx
     from networkx.algorithms.community import louvain_communities
 
@@ -107,4 +109,3 @@ def cluster_documents(doc_edges_pq: Path, cfg: SimilarityConfig, out_dir: Path, 
     clusters_path.write_text(json.dumps(clusters, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     summary_path.write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return clusters_path, summary_path
-

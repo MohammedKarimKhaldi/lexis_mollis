@@ -1,10 +1,10 @@
 from __future__ import annotations
 
-from dataclasses import dataclass
 import csv
-from pathlib import Path
 import re
-from typing import Iterable
+from collections.abc import Iterable
+from dataclasses import dataclass
+from pathlib import Path
 
 from pdfkb.ids import WIKIDATA_QID_RE
 
@@ -73,10 +73,11 @@ class Matcher:
         self.patterns = patterns
 
     def find(self, text: str) -> list[GazMatch]:
-        matches: list[GazMatch] = []
-        for pattern, entry, surface in self.patterns:
-            for match in pattern.finditer(text):
-                matches.append(GazMatch(entry=entry, surface=match.group(0) or surface, start=match.start(), end=match.end()))
+        matches = [
+            GazMatch(entry=entry, surface=match.group(0) or surface, start=match.start(), end=match.end())
+            for pattern, entry, surface in self.patterns
+            for match in pattern.finditer(text)
+        ]
         return _drop_overlaps(matches)
 
 
@@ -94,4 +95,3 @@ def _drop_overlaps(matches: list[GazMatch]) -> list[GazMatch]:
 
 def build_matcher(entries: Iterable[GazEntry]) -> Matcher:
     return Matcher(entries)
-

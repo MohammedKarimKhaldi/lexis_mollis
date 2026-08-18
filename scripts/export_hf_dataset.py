@@ -3,9 +3,8 @@ from __future__ import annotations
 
 import argparse
 import os
-from pathlib import Path
 import shutil
-
+from pathlib import Path
 
 CARD = """---
 license: cc-by-4.0
@@ -99,4 +98,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
