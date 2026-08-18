@@ -208,7 +208,7 @@ def build(kb: Path, output: Path, cfg: SimilarityConfig) -> dict:
     # 8. écrire run_config.json + manifeste compteurs
     return manifest
 ```
-CLI (subparser conforme au motif `pdfkb/cli.py`, cf. annexe du `BUILD_PLAYBOOK.md`) :
+CLI (subparser conforme au motif `pdfkb/cli.py`, cf. `ARCHITECTURE.md`) :
 ```bash
 .venv/bin/python -m pdfkb similarity build \
   --kb outputs_v2/kb/pages.jsonl \

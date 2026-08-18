@@ -4,6 +4,7 @@ Décrire le changement et l'epic/tâche concerné(e).
 
 ## Checklist
 
+- [ ] Le lint et le format passent (`ruff check .` et `ruff format --check .`).
 - [ ] Les tests pertinents passent (`python -m unittest discover -v`).
 - [ ] Les schémas/ontologie passent si concernés (`python scripts/validate_schemas.py`).
 - [ ] La gouvernance passe si concernée (`python scripts/check_governance.py`).
@@ -19,4 +20,3 @@ Commandes exécutées et résultats.
 ## Limites connues
 
 Notes, hypothèses, points à revoir.
-

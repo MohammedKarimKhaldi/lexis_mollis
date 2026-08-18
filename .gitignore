@@ -10,6 +10,7 @@ pdfkb.egg-info/
 
 # Local environments
 .venv/
+.venv-semantica/
 venv/
 .env
 .env.*

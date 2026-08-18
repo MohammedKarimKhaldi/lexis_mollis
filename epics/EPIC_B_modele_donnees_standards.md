@@ -1,6 +1,6 @@
 # EPIC B — Modèle de données & standards (spec détaillée)
 
-> Déclinaison exécutable de l'EPIC B du `BUILD_PLAYBOOK.md`. Objectif : figer les **contrats
+> Spécification historique de l'EPIC B (voir `epics/README.md`). Objectif : figer les **contrats
 > de données** de toute la plateforme — schémas des entités dérivées (chunk, edge, node),
 > taxonomie de tags, **ontologie RDF** du knowledge graph, et dictionnaire de données — afin
 > que les EPIC C (similarité), D (graphe), E (publication) et F (site) produisent et

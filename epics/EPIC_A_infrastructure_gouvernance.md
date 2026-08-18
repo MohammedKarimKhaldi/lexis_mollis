@@ -1,6 +1,6 @@
 # EPIC A — Infrastructure & gouvernance (spec détaillée)
 
-> Déclinaison exécutable de l'EPIC A du `BUILD_PLAYBOOK.md`. Objectif : poser les fondations
+> Spécification historique de l'EPIC A (voir `epics/README.md`). Objectif : poser les fondations
 > publiques du projet **Lexis Mollis** — organisation, dépôts, licences, fichiers de
 > gouvernance, comptes de publication et secrets — pour que tous les autres épics aient un
 > socle propre. Aucune dépendance à l'OCR. **Définition de fin (DoD) en §A.6.**
@@ -170,7 +170,7 @@ date-released: "2026-07-01"
 ### A.2.5 `README.md` (racine `pipeline`) — squelette
 Sections : titre + badges (licence, CI, DOI) ; pitch (1 paragraphe) ; **Avertissement
 qualité/OCR** (texte historique multilingue, pages à réviser, ne pas traiter comme vérité
-absolue) ; architecture (renvoi à `ROADMAP.md` et `BUILD_PLAYBOOK.md`) ; installation
+absolue) ; architecture (renvoi à `ROADMAP.md` et `ARCHITECTURE.md`) ; installation
 (`.venv`, `pip install -e .[derive]`) ; usage CLI (`run`, `audit`, `similarity build`,
 `graph build`) ; **données & licence** (liens HF/Zenodo/Internet Archive, CC-BY-4.0,
 attribution) ; **citation** (renvoi `CITATION.cff`) ; contribution (`CONTRIBUTING.md`) ;

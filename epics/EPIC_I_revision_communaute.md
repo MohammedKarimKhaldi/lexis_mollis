@@ -104,6 +104,5 @@ validation est explicite ; crédits prévus.
 - [ ] Contribution ouverte documentée (3 voies, templates, flux de validation, crédits).
 - [ ] Aucune correction générative ; chaque action attribuée et horodatée.
 
-> **Fin du détail des épics (A→I).** Le `BUILD_PLAYBOOK.md` reste l'index ; chaque
-> `epics/EPIC_*.md` en est la spec exécutable. Séquencement global et MVP : voir
-> `BUILD_PLAYBOOK.md` §2.
+> **Fin du détail historique des épics (A→I).** Voir `epics/README.md` pour les documents
+> actuels de référence.

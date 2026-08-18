@@ -1,52 +1,60 @@
 # Contribuer à Lexis Mollis
 
-Merci de contribuer à une base ouverte et auditable de droit souple. Le projet
-préfère les contributions petites, vérifiables et reproductibles.
+Merci de contribuer à une base ouverte et auditable de droit souple. Les changements doivent
+rester petits, vérifiables et reproductibles.
 
-## Préparer l'environnement
+## Environnement
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-python -m pip install -e '.[derive]'
+python -m pip install -e '.[derive,dev,semantica]'
+npm ci
 ```
+
+Python 3.11 ou supérieur est requis.
+
+Semantica et son Explorer sont dans l'extra optionnel `semantica`. Une installation de
+contribution les inclut afin que les tests d'adaptation `ContextGraph` s'exécutent en CI.
 
 ## Garde-fous
 
 - Ne jamais corriger, reformuler ou compléter le texte OCR par génération.
-- Ne jamais supprimer les pages faibles : conserver `quality_score`,
-  `review_required` et `review_priority`.
-- Ne jamais inférer un statut de droits : conserver `rights_status` et la
-  provenance.
-- Ne jamais committer de secrets, tokens, `.env`, bases SQLite, PDF sources ou
-  gros artefacts dérivés.
-- Garder les pipelines déterministes et documenter les modèles/paramètres.
+- Ne jamais supprimer les pages faibles ; conserver les champs de qualité et de révision.
+- Ne jamais inférer un statut de droits ; conserver la provenance et `rights_status`.
+- Ne jamais committer secrets, `.env`, bases SQLite, PDF sources ou gros artefacts dérivés.
+- Garder les pipelines déterministes et documenter modèles, paramètres et seeds.
 
-## Style et tests
+## Style et validation
 
-- Code Python avec type hints quand c'est utile.
-- Format recommandé : `black`, lint recommandé : `ruff`.
-- Tests :
+Ruff est l'unique formateur/linter Python du projet. Le dossier `legacy/` est exclu afin de
+préserver les scripts archivés dans leur état historique.
 
 ```bash
+ruff check .
+ruff format --check .
 python -m unittest discover -v
 python scripts/validate_schemas.py
 python scripts/check_governance.py
+npm run build
 ```
 
-## Workflow pull request
+Pour appliquer le format avant une PR :
 
-- Utiliser des commits conventionnels : `feat:`, `fix:`, `docs:`, `test:`,
-  `chore:`.
-- Une PR = un changement thématique.
+```bash
+ruff check --fix .
+ruff format .
+```
+
+## Pull requests
+
+- Utiliser des commits conventionnels : `feat:`, `fix:`, `docs:`, `test:`, `chore:`.
+- Une PR doit couvrir un changement thématique.
 - Décrire les données touchées, les commandes exécutées et les limites connues.
-- Cocher les critères d'acceptation de l'epic concernée.
+- Signaler explicitement toute modification d'un schéma, de l'ontologie ou des sorties publiées.
 
-## Trois contributions prioritaires
+Les contributions prioritaires sont les nouvelles sources ouvertes avec droits vérifiés,
+les signalements de transcription avec preuve et les corrections de relations documentées.
 
-1. Proposer une source de droit souple avec URL, droits et volume estimé.
-2. Signaler une correction de transcription avec `document_id` et `page_number`.
-3. Signaler une relation ou similarité manquante/fausse avec preuves.
-
-Voir aussi [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
-
+Voir aussi [ARCHITECTURE.md](ARCHITECTURE.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) et
+[SECURITY.md](SECURITY.md).

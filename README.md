@@ -3,94 +3,77 @@
 [![Code license: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE)
 [![Data license: CC-BY-4.0](https://img.shields.io/badge/data-CC--BY--4.0-green.svg)](LICENSE-DATA)
 [![CI](https://github.com/MohammedKarimKhaldi/lexis_mollis/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammedKarimKhaldi/lexis_mollis/actions/workflows/ci.yml)
-[![DOI](https://img.shields.io/badge/DOI-Zenodo%20à%20venir-lightgrey.svg)](.zenodo.json)
 
-Lexis Mollis vise à construire une base ouverte, auditable et interrogeable de
-droit souple : traités, déclarations, résolutions, recommandations, lignes
-directrices, codes de conduite et instruments connexes. Ce dépôt contient le
-pipeline OCR local `pdfkb`, les contrats de données, puis les modules dérivés de
-recherche sémantique, similarité et knowledge graph.
+Lexis Mollis transforme des PDF juridiques historiques et multilingues en un corpus ouvert,
+auditable et interrogeable. La release actuelle contient 3 146 documents et 26 566 pages,
+avec provenance OCR page par page, indicateurs de qualité, chunks de recherche, similarités
+et graphe de connaissances.
 
-## Avertissement qualité/OCR
+Le dépôt regroupe :
 
-Le corpus contient des documents historiques, multilingues, parfois scannés,
-dégradés ou manuscrits. Le pipeline conserve toutes les pages, y compris les pages
-faibles, avec des champs de qualité (`quality_score`, `review_required`,
-`review_priority`). Les transcriptions ne doivent pas être traitées comme une
-vérité absolue sans vérification sur les pages signalées.
+- le pipeline OCR local `pdfkb` ;
+- les contrats de données et l'ontologie RDF dans `metadata_design/` ;
+- les pipelines de similarité et de knowledge graph ;
+- les scripts de publication Hugging Face/Zenodo ;
+- le site Astro/Cloudflare et ses services de recherche/SPARQL.
 
-Aucune correction générative, reformulation ou complétion par LLM n'est autorisée
-sur la couche OCR brute. Les couches dérivées (chunks, embeddings, relations,
-graphes) doivent rester reproductibles depuis `metadata/pipeline.sqlite3` et le
-code versionné.
+Voir [ARCHITECTURE.md](ARCHITECTURE.md) pour le flux technique, [PROJECT_STATUS.md](PROJECT_STATUS.md)
+pour l'état vérifié et [ROADMAP.md](ROADMAP.md) pour les travaux restants. Les anciennes
+spécifications détaillées sont conservées dans [`epics/`](epics/) comme références historiques.
 
-## Architecture
+## Qualité et fidélité
 
-La feuille de route complète est dans [ROADMAP.md](ROADMAP.md). Le cahier
-d'exécution est dans [BUILD_PLAYBOOK.md](BUILD_PLAYBOOK.md), avec les specs
-détaillées dans [`epics/`](epics/).
+Les documents peuvent être scannés, dégradés, manuscrits ou multilingues. Le pipeline conserve
+toutes les pages, y compris les pages faibles, avec `quality_score`, `review_required` et
+`review_priority`.
 
-Le statut opérationnel de déploiement est suivi dans
-[PROJECT_STATUS.md](PROJECT_STATUS.md).
-
-Flux cible :
-
-1. OCR fidèle et auditable avec `pdfkb`.
-2. Export page par page en Markdown/JSONL.
-3. Chunking, embeddings multilingues et index FAISS.
-4. Graphe de similarités et knowledge graph RDF/property graph.
-5. Publication ouverte sur Hugging Face Datasets, Zenodo et site public.
+Aucune correction générative, reformulation ou complétion par LLM n'est autorisée dans la couche
+OCR brute. Les chunks, embeddings, relations et graphes restent reproductibles depuis
+`metadata/pipeline.sqlite3`, les sources locales et le code versionné.
 
 ## Installation
+
+Python 3.11 ou supérieur est requis.
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-python -m pip install -e '.[derive]'
+python -m pip install -e '.[derive,semantica]'
 ```
 
-## Usage CLI
-
-OCR complet :
+Pour contribuer au code :
 
 ```bash
-python -m pdfkb run --source traites --metadata metadata/parsed_metadata.json --output outputs_v2 --workers 2 --resume
+python -m pip install -e '.[derive,dev,semantica]'
 ```
 
-État du run :
+## Commandes principales
+
+OCR complet ou reprise d'un run :
 
 ```bash
-python -m pdfkb status --state metadata/pipeline.sqlite3
+python -m pdfkb run \
+  --source traites \
+  --metadata metadata/parsed_metadata.json \
+  --output outputs_v2 \
+  --state metadata/pipeline.sqlite3 \
+  --workers 2 \
+  --resume
 ```
 
-Export léger exploitable pendant l'OCR :
+Reconstruire les exports sans refaire l'OCR :
 
 ```bash
-python -m pdfkb audit --state metadata/pipeline.sqlite3 --output outputs_v2 --light
+python -m pdfkb audit --state metadata/pipeline.sqlite3 --output outputs_v2
 ```
 
-Pilote similarité lexical léger pendant l'OCR :
-
-```bash
-python -m pdfkb similarity build \
-  --kb outputs_v2/kb/pages.jsonl \
-  --output outputs_v2/similarity_pilot \
-  --lexical-only \
-  --limit-pages 500
-```
-
-Build complet similarité lexicale + embeddings + FAISS, à lancer quand la machine
-peut encaisser l'encodage local :
+Construire la similarité et le graphe :
 
 ```bash
 python -m pdfkb similarity build \
   --kb outputs_v2/kb/pages.jsonl \
   --output outputs_v2/similarity
-```
 
-Knowledge graph conservateur (gazetteers + règles + import des similarités) :
-
-```bash
 python -m pdfkb graph build \
   --kb outputs_v2/kb/pages.jsonl \
   --similarity outputs_v2/similarity \
@@ -98,43 +81,57 @@ python -m pdfkb graph build \
   --ontology metadata_design/ontology.ttl
 ```
 
-Calibration des seuils, après annotation humaine de paires réelles dans
-`benchmarks/similarity_cases.json` :
+Exporter le graphe complet vers le `ContextGraph` officiel de Semantica :
 
 ```bash
-python scripts/calibrate_similarity.py \
-  --similarity-dir outputs_v2/similarity \
-  --output outputs_v2/similarity/calibration_report.json
+python -m pdfkb semantica export
 ```
 
-## Données, licence et attribution
+Pour alimenter l'interface locale légère, convertir la projection web et lancer l'API
+Semantica :
 
-Le code est distribué sous licence Apache-2.0. Les données produites par Lexis
-Mollis sont distribuées sous CC-BY-4.0 avec attribution :
+```bash
+python -m pdfkb semantica export \
+  --input platform/site/public/data/graph.sigma.json \
+  --output outputs_v2/graph/graph.semantica.web.json
 
-> Mohammed-Karim Khaldi, Reda Rostane — Lexis Mollis
+python -m pdfkb semantica serve \
+  --graph outputs_v2/graph/graph.semantica.web.json \
+  --no-browser
+```
 
-Les textes officiels sous-jacents peuvent relever de statuts distincts ; le champ
-`rights_status` est conservé pour éviter toute inférence abusive.
+Construire puis lancer le site complet dans un second terminal :
 
-Les publications publiques sont :
+```bash
+npm run build
+cd platform/site && npx wrangler dev --port 8787
+```
 
-- Hugging Face Datasets : https://huggingface.co/datasets/lexis-mollis/soft-law-corpus
-- Site public : https://lexis-mollis.karim-m-khaldi.workers.dev
-- Zenodo : DOI à créer lors de la première release
-- Internet Archive ou équivalent : conservation des PDF sources lorsque les droits
-  le permettent
+Ouvrir <http://127.0.0.1:8787/graphe/>. L'interface Astro reste claire et compacte ; elle
+interroge l'API Semantica locale sur le port 8000 pour la recherche, les voisinages et la
+provenance. L'Explorer officiel sur le port 8000 reste un outil de diagnostic, pas une seconde
+interface utilisateur. L'assistant accepte les questions naturelles en français et répond en
+français par défaut.
 
-## Citation
+## Validation
 
-Voir [CITATION.cff](CITATION.cff).
+```bash
+ruff check .
+ruff format --check .
+python -m unittest discover -v
+python scripts/validate_schemas.py
+python scripts/check_governance.py
+npm run build
+```
 
-## Contribution
+## Publications
 
-Voir [CONTRIBUTING.md](CONTRIBUTING.md). Les contributions les plus utiles sont :
-proposer une source ouverte, signaler une erreur de transcription, ou signaler une
-relation/similarité manquante.
+- Dataset : <https://huggingface.co/datasets/lexis-mollis/soft-law-corpus>
+- Site public : <https://lexis-mollis.mk-74a.workers.dev>
+- Release GitHub : <https://github.com/MohammedKarimKhaldi/lexis_mollis/releases/tag/v0.1.0>
+- Zenodo : DOI à reporter après validation du dépôt associé à la release
 
-## Auteurs
+## Licences et citation
 
-Mohammed-Karim Khaldi, Reda Rostane.
+Le code est distribué sous Apache-2.0. Les données dérivées sont distribuées sous CC-BY-4.0,
+avec attribution à Mohammed-Karim Khaldi et Reda Rostane. Voir [CITATION.cff](CITATION.cff).
