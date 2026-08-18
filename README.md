@@ -127,7 +127,7 @@ npm run build
 ## Publications
 
 - Dataset : <https://huggingface.co/datasets/lexis-mollis/soft-law-corpus>
-- Site public : <https://lexis-mollis.mk-74a.workers.dev>
+- Site public : <https://lexis-mollis.karim-m-khaldi.workers.dev>
 - Release GitHub : <https://github.com/MohammedKarimKhaldi/lexis_mollis/releases/tag/v0.1.0>
 - Zenodo : DOI à reporter après validation du dépôt associé à la release
 

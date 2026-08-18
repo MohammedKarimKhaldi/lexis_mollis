@@ -20,7 +20,7 @@ Cloudflare reproductible.
 
 ## Publication et déploiement
 
-- Site : <https://lexis-mollis.mk-74a.workers.dev>
+- Site : <https://lexis-mollis.karim-m-khaldi.workers.dev>
 - Dataset : <https://huggingface.co/datasets/lexis-mollis/soft-law-corpus>
 - Release GitHub : `v0.1.0`
 - DOI Zenodo : à confirmer ou créer, puis à reporter dans `CITATION.cff`, le README et la fiche dataset
