@@ -64,6 +64,7 @@ from typing import Any
 import numpy as np
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from pdfkb.prompts import RAG_SYSTEM_PROMPT
 from pdfkb.similarity.doc_type_profiles import load_doc_type_mapping
 from pdfkb.similarity.io import read_parquet_records
 from pdfkb.similarity.lexical import normalise_lexical
@@ -76,26 +77,6 @@ DEFAULT_EMBEDDING_MODEL = "sentence-transformers/LaBSE"
 DEFAULT_API_URL = "https://opencode.ai/zen/v1/chat/completions"
 DEFAULT_API_MODEL = "big-pickle"
 DOC_EDGE_TYPES = {"similar_to", "translation", "same_instrument_as"}
-
-SYSTEM_PROMPT = (
-    "Tu es un assistant de recherche qui répond STRICTEMENT à partir des extraits de documents "
-    "fournis (corpus de traités et instruments juridiques Lexis Mollis, OCR historique, parfois "
-    "imparfait). Si l'information n'est pas dans le contexte fourni, dis-le clairement plutôt que "
-    "d'inventer. Cite systématiquement l'identifiant de document entre crochets (ex. [16460004_s1]) "
-    "et la page quand c'est pertinent. Réponds en français par défaut, et toujours en français lorsque "
-    "la question est en français ; change de langue uniquement si la personne le demande explicitement. "
-    "Donne une réponse directe et concise ; ne mentionne jamais les lots, étapes, prompts ou mécanismes "
-    "internes. "
-    "Si le contexte contient "
-    "des sections « Profil du type documentaire », base toute comparaison de forme/rédaction entre "
-    "types de documents sur les statistiques qu'elles donnent (fractions de documents, moyennes) et "
-    "cite les pourcentages exacts plutôt que des impressions générales ; illustre avec les extraits "
-    "réels fournis. Si le contexte contient une section « Note méthodologique », respecte-la "
-    "STRICTEMENT : pour la partie qu'elle concerne, ne donne AUCUN pourcentage ni statistique de "
-    "corpus, indique explicitement qu'il s'agit d'une recherche libre sur un terme non reconnu comme "
-    "catégorie officielle, et limite-toi à décrire prudemment ce qui est observable dans les extraits "
-    "cités pour cette partie."
-)
 
 
 def _label_variants(label: str) -> set[str]:
@@ -128,16 +109,6 @@ def has_comparison_intent(query: str) -> bool:
     hasComparisonIntent."""
     normalised = normalise_lexical(query)
     return any(needle in normalised for needle in ("compar", "differenc", "distinction"))
-
-
-def needs_type_profile(query: str) -> bool:
-    if has_comparison_intent(query):
-        return True
-    normalised = normalise_lexical(query)
-    return any(
-        needle in normalised
-        for needle in ("caracter", "structure", "redaction", "forme", "typologie", "profil", "style")
-    )
 
 
 def unmatched_type_clarification(query: str, compare_types: list[str], doc_type_profiles: dict[str, Any]) -> str | None:
@@ -481,7 +452,7 @@ def ask_llm(question: str, context: str, api_url: str, api_model: str, api_key: 
     payload = {
         "model": api_model,
         "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "system", "content": RAG_SYSTEM_PROMPT},
             {"role": "user", "content": f"Contexte :\n\n{context}\n\n---\n\nQuestion : {question}"},
         ],
         "temperature": 0.2,
@@ -659,8 +630,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def _detect_compare_types(question: str, args: argparse.Namespace, kb: KnowledgeBase) -> list[str]:
-    detected_types = [] if args.no_compare_mode else kb.detect_comparison_types(question)
-    compare_types = detected_types if needs_type_profile(question) else []
+    compare_types = [] if args.no_compare_mode else kb.detect_comparison_types(question)
     if len(compare_types) >= 2:
         print(f"[mode comparaison de types activé : {', '.join(compare_types)}]", file=sys.stderr)
     elif len(compare_types) == 1:

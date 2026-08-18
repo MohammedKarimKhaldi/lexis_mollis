@@ -309,14 +309,6 @@ function hasComparisonIntent(query: string): boolean {
   return ["compar", "differenc", "distinction"].some((needle) => normalised.includes(needle));
 }
 
-function needsTypeProfile(query: string): boolean {
-  if (hasComparisonIntent(query)) return true;
-  const normalised = normaliseFr(query);
-  return ["caracter", "structure", "redaction", "forme", "typologie", "profil", "style"].some((needle) =>
-    normalised.includes(needle)
-  );
-}
-
 // When a question clearly wants a type-vs-type comparison but fewer than 2
 // of the named terms match the corpus's actual controlled doc_type
 // vocabulary, answer deterministically instead of leaving it to the LLM to
@@ -1023,8 +1015,7 @@ async function runAsk(query: string, model: string, env: Env, origin: string, se
   const askDocs = await loadAskIndex(env, origin);
   const docsById = new Map(askDocs.map((doc) => [doc.id, doc]));
   const docTypeProfiles = await loadDocTypeProfiles(env, origin);
-  const detectedTypes = detectDocTypes(query, DOC_TYPE_LABELS).filter((label) => docTypeProfiles.types?.[label]);
-  const compareTypes = needsTypeProfile(query) ? detectedTypes : [];
+  const compareTypes = detectDocTypes(query, DOC_TYPE_LABELS).filter((label) => docTypeProfiles.types?.[label]);
   // A comparison-shaped question ("compare X et Y") with fewer than 2 real
   // corpus doc_types matched used to hard-refuse via
   // buildUnmatchedTypeClarification. It now falls through to a "degraded

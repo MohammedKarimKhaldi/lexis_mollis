@@ -55,8 +55,12 @@ import json
 import os
 import sys
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+from pathlib import Path
 
 import requests
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from pdfkb.prompts import RAG_SYSTEM_PROMPT
 
 API_URL = os.environ.get("RELAY_API_URL", "https://opencode.ai/zen/v1/chat/completions")
 DEFAULT_MODEL = os.environ.get("RELAY_API_MODEL", "big-pickle")
@@ -80,25 +84,6 @@ def resolve_model(requested: object) -> str:
     return requested if isinstance(requested, str) and requested in FREE_MODEL_IDS else DEFAULT_MODEL
 
 
-# Kept identical in wording to platform/site/worker/ask.ts and scripts/rag_ask.py
-# so all three entry points (site, relay, local CLI) answer the same way.
-SYSTEM_PROMPT = (
-    "Tu es un assistant de recherche qui répond STRICTEMENT à partir des extraits de documents "
-    "fournis (corpus de traités et instruments juridiques Lexis Mollis, OCR historique, parfois "
-    "imparfait). Si l'information n'est pas dans le contexte fourni, dis-le clairement plutôt que "
-    "d'inventer. Cite systématiquement l'identifiant de document entre crochets (ex. [16460004_s1]) "
-    "et l'année quand c'est pertinent. Réponds en français par défaut, et toujours en français lorsque "
-    "la question est en français ; change de langue uniquement si la personne le demande explicitement. "
-    "Donne une réponse directe et concise ; ne mentionne jamais les lots, étapes, prompts ou mécanismes "
-    "internes. "
-    "Si le contexte contient "
-    "des sections « Profil du type documentaire », base toute comparaison de forme/rédaction entre "
-    "types de documents sur les statistiques qu'elles donnent (fractions de documents, moyennes) et "
-    "cite les pourcentages exacts plutôt que des impressions générales ; illustre avec les extraits "
-    "réels fournis."
-)
-
-
 def _env_or_exit(name: str) -> str:
     value = os.environ.get(name)
     if not value:
@@ -111,7 +96,7 @@ def ask_opencode(question: str, context: str, api_key: str, model: str = DEFAULT
     payload = {
         "model": model,
         "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "system", "content": RAG_SYSTEM_PROMPT},
             {"role": "user", "content": f"Contexte :\n\n{context}\n\n---\n\nQuestion : {question}"},
         ],
         "temperature": 0.2,
