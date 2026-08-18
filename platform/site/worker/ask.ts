@@ -141,7 +141,10 @@ const SYSTEM_PROMPT =
   "fournis (corpus de traités et instruments juridiques Lexis Mollis, OCR historique, parfois " +
   "imparfait). Si l'information n'est pas dans le contexte fourni, dis-le clairement plutôt que " +
   "d'inventer. Cite systématiquement l'identifiant de document entre crochets (ex. [16460004_s1]) " +
-  "et l'année quand c'est pertinent. Réponds dans la langue de la question. Si le contexte contient " +
+  "et l'année quand c'est pertinent. Réponds en français par défaut, et toujours en français lorsque " +
+  "la question est en français ; change de langue uniquement si la personne le demande explicitement. " +
+  "Donne une réponse directe et concise ; ne mentionne jamais les lots, étapes, prompts ou mécanismes internes. " +
+  "Si le contexte contient " +
   "des sections « Profil du type documentaire », base toute comparaison de forme/rédaction entre " +
   "types de documents sur les statistiques qu'elles donnent (fractions de documents, moyennes) — " +
   "ces statistiques portent sur l'ENSEMBLE des documents de ce type dans le corpus, pas seulement " +
@@ -304,6 +307,14 @@ function detectDocTypes(query: string, labels: string[]): string[] {
 function hasComparisonIntent(query: string): boolean {
   const normalised = normaliseFr(query);
   return ["compar", "differenc", "distinction"].some((needle) => normalised.includes(needle));
+}
+
+function needsTypeProfile(query: string): boolean {
+  if (hasComparisonIntent(query)) return true;
+  const normalised = normaliseFr(query);
+  return ["caracter", "structure", "redaction", "forme", "typologie", "profil", "style"].some((needle) =>
+    normalised.includes(needle)
+  );
 }
 
 // When a question clearly wants a type-vs-type comparison but fewer than 2
@@ -1012,7 +1023,8 @@ async function runAsk(query: string, model: string, env: Env, origin: string, se
   const askDocs = await loadAskIndex(env, origin);
   const docsById = new Map(askDocs.map((doc) => [doc.id, doc]));
   const docTypeProfiles = await loadDocTypeProfiles(env, origin);
-  const compareTypes = detectDocTypes(query, DOC_TYPE_LABELS).filter((label) => docTypeProfiles.types?.[label]);
+  const detectedTypes = detectDocTypes(query, DOC_TYPE_LABELS).filter((label) => docTypeProfiles.types?.[label]);
+  const compareTypes = needsTypeProfile(query) ? detectedTypes : [];
   // A comparison-shaped question ("compare X et Y") with fewer than 2 real
   // corpus doc_types matched used to hard-refuse via
   // buildUnmatchedTypeClarification. It now falls through to a "degraded

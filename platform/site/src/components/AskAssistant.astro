@@ -4,14 +4,19 @@
       <span>Votre question</span>
       <textarea id="ask-input" rows="2" placeholder="ex. Quels traités concernent la Roumanie après 1918 ?" required></textarea>
     </label>
-    <div id="ask-type-chips-wrap" hidden>
-      <span class="muted chips-label">Types de documents du corpus (cliquez pour les ajouter à votre question) :</span>
-      <div id="ask-type-chips" class="ask-type-chips" role="group" aria-label="Types de documents disponibles"></div>
-    </div>
-    <label id="ask-model-wrap" class="ask-model-wrap" hidden>
-      <span>Modèle (gratuit, via OpenCode Zen)</span>
-      <select id="ask-model-select"></select>
-    </label>
+    <details class="ask-options">
+      <summary>Options</summary>
+      <div class="ask-options-content">
+        <div id="ask-type-chips-wrap" hidden>
+          <span class="muted chips-label">Types de documents à ajouter à la question :</span>
+          <div id="ask-type-chips" class="ask-type-chips" role="group" aria-label="Types de documents disponibles"></div>
+        </div>
+        <label id="ask-model-wrap" class="ask-model-wrap" hidden>
+          <span>Modèle de réponse</span>
+          <select id="ask-model-select"></select>
+        </label>
+      </div>
+    </details>
     <button class="button primary" type="submit" id="ask-submit">Poser la question</button>
   </form>
   <div id="ask-status" class="muted" aria-live="polite"></div>
@@ -35,8 +40,11 @@
   </div>
   <div id="ask-profiles" class="ask-profiles" hidden></div>
   <div id="ask-browse-wrap" hidden>
-    <p class="muted">Documents jugés pertinents (recherche + graphe de similarité) — cliquez pour ouvrir, faites défiler pour tout voir :</p>
-    <ul id="ask-sources" class="ask-sources ask-sources-scroll"></ul>
+    <details class="ask-sources-details">
+      <summary>Documents et sources utilisés</summary>
+      <p class="muted">Documents jugés pertinents par la recherche et le graphe de similarité :</p>
+      <ul id="ask-sources" class="ask-sources ask-sources-scroll"></ul>
+    </details>
   </div>
   <noscript>
     <p class="muted">L'assistant nécessite JavaScript. Utilisez la <a href="/recherche/">recherche plein texte</a> à la place.</p>
@@ -490,9 +498,35 @@
     overflow-wrap: anywhere;
   }
 
+  /* Several optional panels set their own grid/flex display. Restate the
+     hidden contract at author level so those rules cannot expose technical
+     controls before they are actually needed. */
+  .ask-shell [hidden] {
+    display: none;
+  }
+
   form {
     display: grid;
     gap: 12px;
+  }
+
+  .ask-options summary,
+  .ask-sources-details summary {
+    width: fit-content;
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 0.84rem;
+    font-weight: 800;
+  }
+
+  .ask-options-content {
+    display: grid;
+    gap: 0.8rem;
+    padding-top: 0.65rem;
+  }
+
+  .ask-sources-details[open] summary {
+    margin-bottom: 0.65rem;
   }
 
   label {

@@ -1,45 +1,77 @@
-<section class="graph-shell card">
-  <div class="graph-toolbar">
-    <label>
-      <span>Filtrer un nœud</span>
-      <input id="graph-filter" type="search" placeholder="Titre, État, thème…" />
+<section class="graph-shell" aria-label="Explorateur du graphe">
+  <div class="graph-topbar">
+    <label class="graph-search">
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <span class="visually-hidden">Rechercher dans le graphe</span>
+      <input id="graph-filter" type="search" placeholder="Rechercher un traité, un pays, un thème…" />
     </label>
-    <label>
-      <span>Similarité minimale <span id="weight-value">0.00</span></span>
-      <input id="graph-weight" type="range" min="0" max="1" step="0.01" value="0" />
-    </label>
-    <button id="graph-reset" class="button secondary" type="button">Réinitialiser la sélection</button>
-    <span id="graph-count" class="muted">—</span>
-  </div>
-  <div class="graph-toggles">
-    <fieldset>
-      <legend>Types de nœuds</legend>
-      <div id="node-type-toggles" class="toggle-list"></div>
-    </fieldset>
-    <fieldset>
-      <legend>Types de liens</legend>
-      <div id="edge-type-toggles" class="toggle-list"></div>
-    </fieldset>
-  </div>
-  <div class="graph-canvas-wrap">
-    <div id="sigma-container" aria-label="Graphe de connaissances Lexis Mollis"></div>
-    <div id="graph-loading" class="graph-overlay">
-      <div class="graph-spinner" aria-hidden="true"></div>
-      <p id="graph-loading-text">Chargement des données du graphe…</p>
+    <div class="graph-meta" aria-live="polite">
+      <span id="graph-count">—</span>
+      <span id="semantica-status" class="semantica-status" hidden>Semantica actif</span>
     </div>
-    <div id="graph-error" class="graph-overlay graph-error" hidden>
-      <p class="graph-error-title">Le graphe n'a pas pu s'afficher</p>
-      <p id="graph-error-detail" class="muted"></p>
-      <div class="graph-error-actions">
-        <button id="graph-retry" class="button secondary" type="button">Réessayer</button>
-        <a class="button secondary" href="/data/graph.sigma.json">Données brutes (JSON)</a>
+    <button id="graph-reset" class="graph-text-button" type="button">Tout afficher</button>
+  </div>
+
+  <div class="graph-workspace">
+    <div class="graph-map">
+      <div id="sigma-container" aria-label="Carte interactive des communautés documentaires"></div>
+      <div class="map-caption">
+        <strong>Vue par communautés</strong>
+        <span>Glisser pour déplacer · molette pour zoomer</span>
+      </div>
+      <div class="zoom-controls" aria-label="Contrôles du zoom">
+        <button id="graph-zoom-in" type="button" aria-label="Zoomer">+</button>
+        <button id="graph-zoom-out" type="button" aria-label="Dézoomer">−</button>
+        <button id="graph-zoom-fit" type="button" aria-label="Recentrer">⌂</button>
+      </div>
+      <div id="graph-loading" class="graph-overlay">
+        <div class="graph-spinner" aria-hidden="true"></div>
+        <p id="graph-loading-text">Préparation des communautés…</p>
+      </div>
+      <div id="graph-error" class="graph-overlay graph-error" hidden>
+        <p class="graph-error-title">Le graphe n'a pas pu s'afficher</p>
+        <p id="graph-error-detail" class="muted"></p>
+        <div class="graph-error-actions">
+          <button id="graph-retry" class="button secondary" type="button">Réessayer</button>
+          <a class="button secondary" href="/data/graph.sigma.json">Données JSON</a>
+        </div>
       </div>
     </div>
+
+    <aside class="graph-panel" aria-live="polite">
+      <div id="community-overview">
+        <div class="panel-heading">
+          <div>
+            <span class="panel-kicker">Explorer</span>
+            <h2>Communautés</h2>
+          </div>
+          <button id="community-clear" class="graph-text-button" type="button" hidden>Effacer</button>
+        </div>
+        <p class="panel-intro">Les couleurs regroupent les documents qui partagent les liens les plus forts.</p>
+        <div id="community-list" class="community-list"></div>
+      </div>
+
+      <article id="graph-detail" class="node-detail" hidden>
+        <button id="detail-back" class="detail-back" type="button">← Communautés</button>
+        <div id="node-detail-content"></div>
+      </article>
+    </aside>
   </div>
-  <div id="graph-detail" class="graph-detail muted">
-    Clique un nœud pour afficher ses détails et mettre en évidence ses voisins directs
-    (documents similaires, entités liées).
-  </div>
+
+  <details class="graph-options">
+    <summary>Affiner la vue</summary>
+    <div class="graph-options-content">
+      <label>
+        <span>Similarité minimale <strong id="weight-value">0.00</strong></span>
+        <input id="graph-weight" type="range" min="0" max="1" step="0.01" value="0" />
+      </label>
+      <fieldset>
+        <legend>Types de liens</legend>
+        <div id="edge-type-toggles" class="toggle-list"></div>
+      </fieldset>
+    </div>
+  </details>
+
   <noscript>
     <p class="muted">Le graphe interactif nécessite JavaScript. Export brut : <a href="/data/graph.sigma.json">graph.sigma.json</a>.</p>
   </noscript>
@@ -50,48 +82,82 @@
   import Sigma from "sigma";
   import type { Settings } from "sigma/settings";
 
+  interface CommunityRow {
+    id: string;
+    label: string;
+    count: number;
+  }
+
+  interface CommunityPayload {
+    method?: string;
+    communities?: CommunityRow[];
+    membership?: Record<string, string>;
+  }
+
   const container = document.querySelector<HTMLElement>("#sigma-container");
   const loadingEl = document.querySelector<HTMLElement>("#graph-loading");
   const loadingText = document.querySelector<HTMLElement>("#graph-loading-text");
   const errorEl = document.querySelector<HTMLElement>("#graph-error");
   const errorDetail = document.querySelector<HTMLElement>("#graph-error-detail");
   const retryButton = document.querySelector<HTMLButtonElement>("#graph-retry");
+  const overview = document.querySelector<HTMLElement>("#community-overview");
   const detail = document.querySelector<HTMLElement>("#graph-detail");
+  const detailContent = document.querySelector<HTMLElement>("#node-detail-content");
+  const detailBack = document.querySelector<HTMLButtonElement>("#detail-back");
+  const communityList = document.querySelector<HTMLElement>("#community-list");
+  const communityClear = document.querySelector<HTMLButtonElement>("#community-clear");
   const count = document.querySelector<HTMLElement>("#graph-count");
+  const semanticaStatus = document.querySelector<HTMLElement>("#semantica-status");
   const filter = document.querySelector<HTMLInputElement>("#graph-filter");
   const weightSlider = document.querySelector<HTMLInputElement>("#graph-weight");
   const weightValue = document.querySelector<HTMLElement>("#weight-value");
   const resetButton = document.querySelector<HTMLButtonElement>("#graph-reset");
-  const nodeTypeToggles = document.querySelector("#node-type-toggles");
-  const edgeTypeToggles = document.querySelector("#edge-type-toggles");
+  const edgeTypeToggles = document.querySelector<HTMLElement>("#edge-type-toggles");
+  const zoomIn = document.querySelector<HTMLButtonElement>("#graph-zoom-in");
+  const zoomOut = document.querySelector<HTMLButtonElement>("#graph-zoom-out");
+  const zoomFit = document.querySelector<HTMLButtonElement>("#graph-zoom-fit");
 
-  const colors: Record<string, string> = {
-    Document: "#2f7d8c",
-    Instrument: "#3d5a80",
-    Party: "#c17817",
-    Organization: "#6a4c93",
-    TopicConcept: "#2a9d8f",
-    Place: "#e15554",
-    default: "#94a1b2"
-  };
-  const typeLabels: Record<string, string> = {
-    Document: "Document",
-    Instrument: "Instrument",
-    Party: "État / partie",
-    Organization: "Organisation",
-    TopicConcept: "Thème",
-    Place: "Lieu"
-  };
+  const communityColors = [
+    "#167982",
+    "#536eae",
+    "#c27a22",
+    "#765ca7",
+    "#ca6258",
+    "#398761",
+    "#3f8fae",
+    "#8b98a5"
+  ];
+
+  const communityCenters = [
+    { x: 0.34, y: 0.40 },
+    { x: 0.69, y: 0.38 },
+    { x: 0.49, y: 0.72 },
+    { x: 0.17, y: 0.72 },
+    { x: 0.82, y: 0.68 },
+    { x: 0.18, y: 0.17 },
+    { x: 0.78, y: 0.16 },
+    { x: 0.50, y: 0.08 }
+  ];
+
   const edgeTypeLabels: Record<string, string> = {
-    similar_to: "Similaire à",
-    translation: "Traduction",
+    similar_to: "Documents proches",
+    translation: "Traductions",
     same_instrument_as: "Même instrument",
-    about_topic: "Porte sur",
-    dated: "Daté",
-    issued_by: "Émis par",
-    party_to: "Partie à",
-    signed_at: "Signé à"
+    about_topic: "Thème commun",
+    dated: "Même période",
+    issued_by: "Même émetteur",
+    party_to: "Même partie",
+    signed_at: "Même lieu"
   };
+
+  function escapeHtml(value: unknown): string {
+    return String(value ?? "")
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;")
+      .replaceAll("'", "&#039;");
+  }
 
   function showError(err: unknown) {
     console.error("Graph view failed to initialize", err);
@@ -103,9 +169,6 @@
     }
   }
 
-  // Draws each label on a small rounded pill instead of raw canvas text, so
-  // labels stay legible over a dense, overlapping graph instead of turning
-  // into an illegible smear of black text.
   function drawPillLabel(
     context: CanvasRenderingContext2D,
     data: { x: number; y: number; size: number; label?: string | null; color?: string },
@@ -114,110 +177,169 @@
     if (!data.label) return;
     const size = settings.labelSize;
     context.font = `${settings.labelWeight} ${size}px ${settings.labelFont}`;
-    const width = context.measureText(data.label).width;
-    const paddingX = 7;
+    const clippedLabel = data.label.length > 46 ? `${data.label.slice(0, 45)}…` : data.label;
+    const width = context.measureText(clippedLabel).width;
+    const paddingX = 8;
     const paddingY = 4;
     const x = data.x + data.size + 5;
     const rectY = data.y - size / 2 - paddingY;
     const rectH = size + paddingY * 2;
-    const rectW = width + paddingX * 2;
+    const rectW = width + paddingX * 2 + 8;
     const radius = rectH / 2;
 
     context.beginPath();
-    context.moveTo(x + radius, rectY);
-    context.arcTo(x + rectW, rectY, x + rectW, rectY + rectH, radius);
-    context.arcTo(x + rectW, rectY + rectH, x, rectY + rectH, radius);
-    context.arcTo(x, rectY + rectH, x, rectY, radius);
-    context.arcTo(x, rectY, x + rectW, rectY, radius);
-    context.closePath();
-    context.fillStyle = "rgba(20, 27, 36, 0.86)";
+    context.roundRect(x, rectY, rectW, rectH, radius);
+    context.fillStyle = "rgba(255, 254, 250, 0.96)";
     context.fill();
+    context.strokeStyle = "rgba(23, 33, 43, 0.12)";
+    context.lineWidth = 1;
+    context.stroke();
 
-    context.fillStyle = data.color || "#fdfaf3";
-    context.fillRect(x + paddingX - 5, rectY + rectH / 2 - 2, 4, 4);
-    context.fillStyle = "#fdfaf3";
+    context.beginPath();
+    context.arc(x + 9, rectY + rectH / 2, 2.5, 0, Math.PI * 2);
+    context.fillStyle = data.color || "#167982";
+    context.fill();
+    context.fillStyle = "#17212b";
     context.textBaseline = "middle";
-    context.fillText(data.label, x + paddingX, rectY + rectH / 2);
+    context.fillText(clippedLabel, x + paddingX + 8, rectY + rectH / 2);
+  }
+
+  function deterministicOffset(value: string): number {
+    let hash = 0;
+    for (let index = 0; index < value.length; index += 1) hash = (hash * 31 + value.charCodeAt(index)) | 0;
+    return ((hash >>> 0) % 1000) / 1000 - 0.5;
   }
 
   async function init() {
     if (!container) return;
 
     const canvasProbe = document.createElement("canvas");
-    const webglOk = !!(canvasProbe.getContext("webgl2") || canvasProbe.getContext("webgl"));
-    if (!webglOk) {
-      throw new Error(
-        "Ce navigateur ne semble pas prendre en charge WebGL, nécessaire pour le rendu du graphe. Essayez une version récente de Chrome, Firefox ou Edge, ou vérifiez que l'accélération matérielle n'est pas désactivée."
-      );
+    if (!(canvasProbe.getContext("webgl2") || canvasProbe.getContext("webgl"))) {
+      throw new Error("WebGL est nécessaire pour afficher le graphe. Vérifiez l'accélération matérielle du navigateur.");
     }
 
-    if (loadingText) loadingText.textContent = "Chargement des données du graphe…";
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 30000);
-    let response: Response;
+    const timeout = window.setTimeout(() => controller.abort(), 30000);
+    let graphResponse: Response;
+    let communitiesResponse: Response;
     try {
-      response = await fetch("/data/graph.sigma.json", { signal: controller.signal });
+      [graphResponse, communitiesResponse] = await Promise.all([
+        fetch("/data/graph.sigma.json", { signal: controller.signal }),
+        fetch("/data/graph.communities.json", { signal: controller.signal })
+      ]);
     } catch {
-      throw new Error("Le téléchargement des données du graphe a échoué ou a expiré (connexion lente ou interrompue).");
+      throw new Error("Le téléchargement du graphe a échoué ou a expiré.");
     } finally {
-      clearTimeout(timeout);
+      window.clearTimeout(timeout);
     }
-    if (!response.ok) {
-      throw new Error(`Le serveur a répondu ${response.status} en tentant de charger les données du graphe.`);
-    }
-    const payload = await response.json();
+    if (!graphResponse.ok) throw new Error(`Le serveur a répondu ${graphResponse.status} pour le graphe.`);
 
-    if (loadingText) loadingText.textContent = "Construction du graphe…";
+    const payload = await graphResponse.json();
+    const communityPayload: CommunityPayload = communitiesResponse.ok ? await communitiesResponse.json() : {};
+    if (loadingText) loadingText.textContent = "Organisation des communautés…";
+
+    const rawNodes: any[] = payload.nodes || [];
+    if (!rawNodes.length) throw new Error("Les données du graphe sont vides.");
+
+    const sourceMembership = communityPayload.membership || {};
+    const sourceLabels = new Map((communityPayload.communities || []).map((row) => [row.id, row.label]));
+    const sourceCounts = new Map<string, number>();
+    for (const node of rawNodes) {
+      const sourceId = sourceMembership[node.id] || "community_other";
+      sourceCounts.set(sourceId, (sourceCounts.get(sourceId) || 0) + 1);
+    }
+    const primaryCommunityIds = [...sourceCounts]
+      .sort((left, right) => right[1] - left[1])
+      .slice(0, 7)
+      .map(([id]) => id);
+    const primarySet = new Set(primaryCommunityIds);
+    const visualMembership = new Map<string, string>();
+    const visualCounts = new Map<string, number>();
+    for (const node of rawNodes) {
+      const sourceId = sourceMembership[node.id] || "community_other";
+      const visualId = primarySet.has(sourceId) ? sourceId : "community_other";
+      visualMembership.set(node.id, visualId);
+      visualCounts.set(visualId, (visualCounts.get(visualId) || 0) + 1);
+    }
+
+    const orderedCommunityIds = [
+      ...primaryCommunityIds,
+      ...(visualCounts.has("community_other") ? ["community_other"] : [])
+    ];
+    const communities: CommunityRow[] = orderedCommunityIds.map((id) => ({
+      id,
+      label: id === "community_other" ? "Autres communautés" : sourceLabels.get(id) || "Documents liés",
+      count: visualCounts.get(id) || 0
+    }));
+    const communityById = new Map(communities.map((row, index) => [row.id, { ...row, color: communityColors[index] }]));
+
+    const rawByCommunity = new Map<string, any[]>();
+    for (const node of rawNodes) {
+      const communityId = visualMembership.get(node.id) || "community_other";
+      const rows = rawByCommunity.get(communityId) || [];
+      rows.push(node);
+      rawByCommunity.set(communityId, rows);
+    }
+
+    const positions = new Map<string, { x: number; y: number }>();
+    const maxCommunitySize = Math.max(...communities.map((row) => row.count), 1);
+    communities.forEach((community, index) => {
+      const rows = rawByCommunity.get(community.id) || [];
+      const xs = rows.map((node) => Number(node.x)).filter(Number.isFinite);
+      const ys = rows.map((node) => Number(node.y)).filter(Number.isFinite);
+      const xMin = xs.length ? Math.min(...xs) : 0;
+      const xMax = xs.length ? Math.max(...xs) : 1;
+      const yMin = ys.length ? Math.min(...ys) : 0;
+      const yMax = ys.length ? Math.max(...ys) : 1;
+      const span = Math.max(xMax - xMin, yMax - yMin, 0.01);
+      const center = communityCenters[index] || communityCenters[communityCenters.length - 1];
+      const radius = 0.07 + 0.105 * Math.sqrt(community.count / maxCommunitySize);
+      for (const node of rows) {
+        const rawX = Number.isFinite(Number(node.x)) ? Number(node.x) : xMin + span / 2;
+        const rawY = Number.isFinite(Number(node.y)) ? Number(node.y) : yMin + span / 2;
+        const jitter = deterministicOffset(String(node.id)) * 0.006;
+        positions.set(node.id, {
+          x: center.x + ((rawX - (xMin + xMax) / 2) / span) * radius * 2 + jitter,
+          y: center.y + ((rawY - (yMin + yMax) / 2) / span) * radius * 2 - jitter
+        });
+      }
+    });
+
     const graph = new Graph();
+    const rawSizeMax = Math.max(1, ...rawNodes.map((node) => Number(node.size) || 0));
+    const scaleSize = (value: number) => 2.3 + 6.2 * Math.sqrt(Math.max(0, value) / rawSizeMax);
 
-    // The exported layout coordinates aren't normalized to [0, 1], but Sigma's
-    // default camera is centered at (0.5, 0.5) with ratio 1 — without rescaling,
-    // it only frames a small off-center slice of the actual graph.
-    const rawXs = (payload.nodes || []).map((n: any) => n.x).filter(Number.isFinite);
-    const rawYs = (payload.nodes || []).map((n: any) => n.y).filter(Number.isFinite);
-    const xMin = rawXs.length ? Math.min(...rawXs) : 0;
-    const xMax = rawXs.length ? Math.max(...rawXs) : 1;
-    const yMin = rawYs.length ? Math.min(...rawYs) : 0;
-    const yMax = rawYs.length ? Math.max(...rawYs) : 1;
-    const xSpan = xMax - xMin || 1;
-    const ySpan = yMax - yMin || 1;
-
-    // Raw `size` is an unbounded connection count (some hub nodes exceed 1000),
-    // not a pixel radius — a sqrt scale keeps hubs visibly bigger without one
-    // node swallowing the whole canvas.
-    const rawSizeMax = Math.max(1, ...(payload.nodes || []).map((n: any) => Number(n.size) || 0));
-    const scaleSize = (value: number) => 3 + 14 * Math.sqrt(Math.max(0, value) / rawSizeMax);
-
-    for (const node of payload.nodes || []) {
+    for (const node of rawNodes) {
+      const communityId = visualMembership.get(node.id) || "community_other";
+      const community = communityById.get(communityId);
+      const position = positions.get(node.id) || { x: Math.random(), y: Math.random() };
+      const baseSize = scaleSize(Number(node.size) || 0);
       graph.addNode(node.id, {
         label: node.label || node.id,
-        x: Number.isFinite(node.x) ? (node.x - xMin) / xSpan : Math.random(),
-        y: Number.isFinite(node.y) ? (node.y - yMin) / ySpan : Math.random(),
-        size: scaleSize(Number(node.size) || 0),
-        baseColor: colors[node.type] || colors.default,
-        color: colors[node.type] || colors.default,
-        entityType: node.type || "Node",
-        document_id: node.document_id || node.id.replace(/^doc:/, "")
+        x: position.x,
+        y: position.y,
+        size: baseSize,
+        baseSize,
+        baseColor: community?.color || communityColors.at(-1),
+        color: community?.color || communityColors.at(-1),
+        communityId,
+        communityLabel: community?.label || "Autres communautés",
+        entityType: node.type || "Document",
+        document_id:
+          (node.type || "Document") === "Document" ? node.document_id || node.id.replace(/^doc:/, "") : null
       });
     }
 
     for (const edge of payload.edges || []) {
-      if (graph.hasNode(edge.source) && graph.hasNode(edge.target)) {
-        graph.mergeEdge(edge.source, edge.target, {
-          label: edge.type || "link",
-          edgeType: edge.type || "link",
-          // NB: don't set a `type` attribute on nodes/edges — Sigma reserves it
-          // to pick a WebGL rendering program and throws on unknown values.
-          weight: Number(edge.weight || 0),
-          size: Math.max(0.6, Math.min(3, Number(edge.weight || 1) * 2)),
-          baseColor: edge.provisional ? "rgba(193, 120, 23, 0.4)" : "rgba(61, 90, 128, 0.16)",
-          color: edge.provisional ? "rgba(193, 120, 23, 0.4)" : "rgba(61, 90, 128, 0.16)"
-        });
-      }
-    }
-
-    if (!graph.order) {
-      throw new Error("Les données du graphe sont vides.");
+      if (!graph.hasNode(edge.source) || !graph.hasNode(edge.target)) continue;
+      graph.mergeEdge(edge.source, edge.target, {
+        label: edge.type || "link",
+        edgeType: edge.type || "link",
+        weight: Number(edge.weight || 0),
+        size: Math.max(0.55, Math.min(2.4, Number(edge.weight || 1) * 1.7)),
+        baseColor: edge.provisional ? "rgba(194, 122, 34, 0.35)" : "rgba(23, 33, 43, 0.14)",
+        color: edge.provisional ? "rgba(194, 122, 34, 0.35)" : "rgba(23, 33, 43, 0.14)"
+      });
     }
 
     const renderer = new Sigma(graph, container, {
@@ -226,56 +348,59 @@
       zIndex: true,
       hideEdgesOnMove: true,
       hideLabelsOnMove: true,
-      labelRenderedSizeThreshold: 8,
-      labelFont: "Fraunces, Georgia, serif",
-      labelColor: { color: "#fdfaf3" },
+      labelRenderedSizeThreshold: 8.2,
+      labelDensity: 0.65,
+      labelGridCellSize: 130,
+      stagePadding: 42,
+      minCameraRatio: 0.35,
+      maxCameraRatio: 4,
+      labelFont: "Inter, ui-sans-serif, system-ui, sans-serif",
+      labelSize: 12,
+      labelWeight: "600",
+      labelColor: { color: "#17212b" },
       defaultDrawNodeLabel: drawPillLabel,
-      // Sigma's built-in hover renderer draws a hard-coded white box behind
-      // the label and text in `labelColor` (which is near-white here for
-      // the pill style) — white-on-white while the cursor sits on a node.
-      // Reuse the same pill renderer so hover looks identical to the resting
-      // label instead of briefly turning illegible.
       defaultDrawNodeHover: drawPillLabel
     });
 
     if (loadingEl) loadingEl.hidden = true;
-
-    // Soft "reveal" entrance: start slightly zoomed out and settle into place.
     const camera = renderer.getCamera();
-    camera.setState({ ratio: 1.35 });
-    camera.animate({ ratio: 1 }, { duration: 700, easing: "quadraticOut" });
+    camera.setState({ ratio: 1.22 });
+    camera.animate({ ratio: 1 }, { duration: 650, easing: "quadraticOut" });
 
-    count!.textContent = `${graph.order} nœuds · ${graph.size} liens`;
+    const semanticaBaseUrl =
+      location.hostname === "127.0.0.1" || location.hostname === "localhost"
+        ? `http://${location.hostname}:8000`
+        : null;
+    let semanticaAvailable = false;
+    let semanticaMatches: Set<string> | null = null;
+    let semanticaSearchSequence = 0;
+    let semanticaDetailSequence = 0;
 
-    // -- Filter controls, built from the node/edge types actually present --
-    const activeNodeTypes = new Set(graph.nodes().map((id) => graph.getNodeAttribute(id, "entityType")));
-    const activeEdgeTypes = new Set(graph.edges().map((id) => graph.getEdgeAttribute(id, "edgeType")));
-    const disabledNodeTypes = new Set<string>();
-    const disabledEdgeTypes = new Set<string>();
-
-    for (const type of activeNodeTypes) {
-      const id = `node-type-${type}`;
-      const wrapper = document.createElement("label");
-      wrapper.className = "toggle-chip";
-      wrapper.innerHTML = `<input type="checkbox" id="${id}" checked /><span class="dot" style="background:${colors[type] || colors.default}"></span>${typeLabels[type] || type}`;
-      nodeTypeToggles?.appendChild(wrapper);
-      wrapper.querySelector("input")?.addEventListener("change", (event) => {
-        const checked = (event.target as HTMLInputElement).checked;
-        if (checked) disabledNodeTypes.delete(type);
-        else disabledNodeTypes.add(type);
-        applyFilters();
-      });
+    if (semanticaBaseUrl) {
+      try {
+        const healthController = new AbortController();
+        const healthTimeout = window.setTimeout(() => healthController.abort(), 1500);
+        const response = await fetch(`${semanticaBaseUrl}/api/health`, { signal: healthController.signal });
+        window.clearTimeout(healthTimeout);
+        semanticaAvailable = response.ok;
+        if (semanticaStatus) semanticaStatus.hidden = !semanticaAvailable;
+      } catch {
+        semanticaAvailable = false;
+      }
     }
 
+    const activeEdgeTypes = new Set(graph.edges().map((id) => graph.getEdgeAttribute(id, "edgeType")));
+    const disabledEdgeTypes = new Set<string>();
     for (const type of activeEdgeTypes) {
-      const id = `edge-type-${type}`;
       const wrapper = document.createElement("label");
       wrapper.className = "toggle-chip";
-      wrapper.innerHTML = `<input type="checkbox" id="${id}" checked />${edgeTypeLabels[type] || type}`;
+      const checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.checked = true;
+      wrapper.append(checkbox, document.createTextNode(edgeTypeLabels[type] || type));
       edgeTypeToggles?.appendChild(wrapper);
-      wrapper.querySelector("input")?.addEventListener("change", (event) => {
-        const checked = (event.target as HTMLInputElement).checked;
-        if (checked) disabledEdgeTypes.delete(type);
+      checkbox.addEventListener("change", () => {
+        if (checkbox.checked) disabledEdgeTypes.delete(type);
         else disabledEdgeTypes.add(type);
         applyFilters();
       });
@@ -283,75 +408,173 @@
 
     let focusNode: string | null = null;
     let hoverNode: string | null = null;
+    let activeCommunity: string | null = null;
     let neighborSet = new Set<string>();
     let neighborEdges = new Set<string>();
+    let hoverEdges = new Set<string>();
 
     function edgeVisible(edgeId: string): boolean {
       const attrs = graph.getEdgeAttributes(edgeId);
-      if (disabledEdgeTypes.has(attrs.edgeType)) return false;
-      if (attrs.weight < Number(weightSlider?.value || 0)) return false;
-      return true;
+      return !disabledEdgeTypes.has(attrs.edgeType) && attrs.weight >= Number(weightSlider?.value || 0);
+    }
+
+    function matchesSearch(node: string): boolean {
+      const query = (filter?.value || "").trim().toLocaleLowerCase("fr");
+      if (!query) return true;
+      const label = String(graph.getNodeAttribute(node, "label") || "").toLocaleLowerCase("fr");
+      return label.includes(query) || Boolean(semanticaMatches?.has(node));
+    }
+
+    function updateCount() {
+      const query = (filter?.value || "").trim();
+      if (query) {
+        const matches = graph.nodes().filter(matchesSearch).length;
+        if (count) count.textContent = `${matches} résultat${matches > 1 ? "s" : ""}`;
+        return;
+      }
+      if (activeCommunity) {
+        const selected = communityById.get(activeCommunity);
+        if (count) count.textContent = `${selected?.count || 0} documents`;
+        return;
+      }
+      if (count) count.textContent = `${graph.order.toLocaleString("fr-FR")} documents · ${graph.size.toLocaleString("fr-FR")} liens`;
     }
 
     function applyFilters() {
-      const query = (filter?.value || "").trim().toLowerCase();
-      // Only a deliberate click dims the rest of the graph to highlight a
-      // neighborhood — with 6000 nodes packed together, doing that on every
-      // mouse-over instead would flicker the whole canvas near-white as the
-      // cursor crosses node after node while just moving around.
-      const activeNode = focusNode;
-      const activeNeighbors = neighborSet;
-      const activeNeighborEdges = neighborEdges;
-
-      // Drawing all ~27k edges at once fuses the dense core into a solid
-      // white mass — edges are hidden by default and only revealed for the
-      // node currently focused (click) or hovered, which is also the more
-      // useful reading: "what is *this* document connected to," not a
-      // static hairball nobody can parse.
-      renderer.setSetting("edgeReducer", (edge, data) => {
+      const hasQuery = Boolean((filter?.value || "").trim());
+      const edgeReducer = (edge: string, data: any) => {
         if (!edgeVisible(edge)) return { ...data, hidden: true };
-        if (activeNode) return activeNeighborEdges.has(edge)
-          ? { ...data, color: "rgba(60, 210, 190, 0.65)", zIndex: 1 }
+        if (focusNode) {
+          return neighborEdges.has(edge)
+            ? { ...data, color: "rgba(22, 121, 130, 0.62)", size: Math.max(data.size, 1.2), zIndex: 2 }
+            : { ...data, hidden: true };
+        }
+        if (hoverNode) {
+          return hoverEdges.has(edge)
+            ? { ...data, color: "rgba(23, 33, 43, 0.28)", zIndex: 1 }
           : { ...data, hidden: true };
-        if (hoverNode) return graph.edges(hoverNode).includes(edge)
-          ? { ...data, color: "rgba(253, 250, 243, 0.45)", zIndex: 1 }
-          : { ...data, hidden: true };
+        }
         return { ...data, hidden: true };
-      });
+      };
 
-      renderer.setSetting("nodeReducer", (node, data) => {
-        const attrs = graph.getNodeAttributes(node);
-        if (disabledNodeTypes.has(attrs.entityType)) return { ...data, hidden: true };
-
-        let result = { ...data, color: data.baseColor };
-
-        // Thousands of nodes recolored to a pale, translucent grey still
-        // fuse into a solid white wash once they overlap at this density.
-        // Shrinking them toward invisible — while keeping their own hue —
-        // makes the unrelated part of the graph recede into the dark
-        // background instead of washing it out.
-        if (query) {
-          const label = String(data.label || "").toLowerCase();
-          if (!label.includes(query)) return { ...result, size: Math.min(data.size, 1.4), label: "" };
-          result = { ...result, color: "#144d57", size: Math.max(data.size, 9), zIndex: 2 };
+      const nodeReducer = (node: string, data: any) => {
+        let result = { ...data, color: data.baseColor, size: data.baseSize };
+        if (hasQuery) {
+          if (!matchesSearch(node)) return { ...result, color: "#d7dedf", size: 0.9, label: "" };
+          result = { ...result, size: Math.max(data.baseSize, 8.5), zIndex: 3, forceLabel: true };
         }
-
-        if (activeNode) {
-          if (node === activeNode) return { ...result, color: "#144d57", size: Math.max(data.size, 12), zIndex: 3 };
-          if (activeNeighbors.has(node)) return { ...result, size: Math.max(data.size, 7), zIndex: 2 };
-          return { ...result, size: Math.min(data.size, 1.4), label: "" };
+        if (activeCommunity && data.communityId !== activeCommunity) {
+          return { ...result, color: "#d7dedf", size: 0.85, label: "" };
         }
-
-        // Light hover affordance: only the hovered node itself gets a nudge,
-        // the rest of the graph stays untouched.
-        if (node === hoverNode) {
-          return { ...result, size: Math.max(data.size, 10), zIndex: 3, forceLabel: true };
+        if (activeCommunity && data.communityId === activeCommunity) {
+          result = { ...result, size: Math.max(data.baseSize, 4.2), zIndex: 2 };
         }
-
+        if (focusNode) {
+          if (node === focusNode) return { ...result, size: 12, zIndex: 5, forceLabel: true };
+          if (neighborSet.has(node)) return { ...result, size: Math.max(data.baseSize, 6.5), zIndex: 3, forceLabel: true };
+          return { ...result, color: "#dce2e2", size: 0.8, label: "" };
+        }
+        if (node === hoverNode) return { ...result, size: Math.max(data.baseSize, 9.5), zIndex: 4, forceLabel: true };
         return result;
-      });
+      };
 
-      renderer.refresh();
+      updateCount();
+      renderer.setSettings({ edgeReducer, nodeReducer });
+    }
+
+    function showOverview() {
+      if (overview) overview.hidden = false;
+      if (detail) detail.hidden = true;
+    }
+
+    function showDetail() {
+      if (overview) overview.hidden = true;
+      if (detail) detail.hidden = false;
+    }
+
+    function renderCommunityList() {
+      if (!communityList) return;
+      communityList.replaceChildren();
+      for (const community of communities) {
+        const row = communityById.get(community.id);
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "community-button";
+        button.setAttribute("aria-pressed", String(activeCommunity === community.id));
+        button.innerHTML = `
+          <span class="community-dot" style="--community-color:${row?.color || communityColors.at(-1)}"></span>
+          <span class="community-label">${escapeHtml(community.label)}</span>
+          <span class="community-count">${community.count.toLocaleString("fr-FR")}</span>
+        `;
+        button.addEventListener("click", () => {
+          focusNode = null;
+          neighborSet = new Set();
+          neighborEdges = new Set();
+          activeCommunity = activeCommunity === community.id ? null : community.id;
+          if (communityClear) communityClear.hidden = !activeCommunity;
+          renderCommunityList();
+          applyFilters();
+          if (activeCommunity) {
+            const center = communityCenters[communities.findIndex((item) => item.id === activeCommunity)];
+            if (center) void camera.animate({ x: center.x, y: center.y, ratio: 0.72 }, { duration: 450, easing: "quadraticInOut" });
+          } else {
+            void camera.animatedReset({ duration: 450 });
+          }
+        });
+        communityList.appendChild(button);
+      }
+    }
+
+    async function searchWithSemantica(query: string) {
+      const sequence = ++semanticaSearchSequence;
+      if (!semanticaAvailable || !semanticaBaseUrl || query.length < 2) {
+        semanticaMatches = null;
+        applyFilters();
+        return;
+      }
+      try {
+        const response = await fetch(`${semanticaBaseUrl}/api/graph/search`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ query, limit: 50, rank_by: "relevance" })
+        });
+        if (!response.ok) return;
+        const results = await response.json();
+        if (sequence !== semanticaSearchSequence) return;
+        semanticaMatches = new Set(
+          (results.results || [])
+            .map((result: any) => String(result.node?.id || ""))
+            .filter((nodeId: string) => graph.hasNode(nodeId))
+        );
+        applyFilters();
+      } catch {
+        // The static graph remains usable if the optional Semantica API stops.
+      }
+    }
+
+    async function appendSemanticaInsight(node: string) {
+      const sequence = ++semanticaDetailSequence;
+      if (!semanticaAvailable || !semanticaBaseUrl || !detailContent) return;
+      try {
+        const encodedNode = encodeURIComponent(node);
+        const [neighborsResponse, provenanceResponse] = await Promise.all([
+          fetch(`${semanticaBaseUrl}/api/graph/node/${encodedNode}/neighbors?depth=1`),
+          fetch(`${semanticaBaseUrl}/api/provenance?node_id=${encodedNode}`)
+        ]);
+        if (!neighborsResponse.ok || !provenanceResponse.ok || sequence !== semanticaDetailSequence) return;
+        const neighbors = await neighborsResponse.json();
+        const provenance = await provenanceResponse.json();
+        if (sequence !== semanticaDetailSequence) return;
+        const provenanceCount = Array.isArray(provenance.nodes) ? provenance.nodes.length : 0;
+        detailContent.insertAdjacentHTML(
+          "beforeend",
+          `<p class="semantica-insight"><strong>Semantica</strong><span>${Array.isArray(neighbors) ? neighbors.length : 0} relations analysées${
+            provenanceCount ? ` · ${provenanceCount} traces de provenance` : ""
+          }</span></p>`
+        );
+      } catch {
+        // Semantica enriches the panel without blocking it.
+      }
     }
 
     function describeNeighbors(node: string): string {
@@ -362,49 +585,62 @@
           const other = graph.opposite(node, edgeId);
           const otherAttrs = graph.getNodeAttributes(other);
           const edgeAttrs = graph.getEdgeAttributes(edgeId);
-          const href = otherAttrs.entityType === "Document" ? `/document/${encodeURIComponent(otherAttrs.document_id)}/` : null;
-          const label = href ? `<a href="${href}">${otherAttrs.label}</a>` : otherAttrs.label;
-          return { label, type: edgeAttrs.edgeType, weight: edgeAttrs.weight, other };
+          return { label: otherAttrs.label, type: edgeAttrs.edgeType, weight: edgeAttrs.weight, otherAttrs };
         })
-        .sort((a, b) => b.weight - a.weight)
-        .slice(0, 12);
+        .sort((left, right) => right.weight - left.weight)
+        .slice(0, 8);
 
-      if (!rows.length) return "<p class=\"muted\">Aucun lien visible avec les filtres actuels.</p>";
-      return `<ul class="neighbor-list">${rows
-        .map((row) => `<li>${row.label} <span>${edgeTypeLabels[row.type] || row.type} · ${row.weight.toFixed(2)}</span></li>`)
-        .join("")}</ul>`;
+      if (!rows.length) return '<p class="empty-links">Aucun lien visible avec les filtres actuels.</p>';
+      return `<ol class="neighbor-list">${rows
+        .map((row) => {
+          const label = row.otherAttrs.document_id
+            ? `<a href="/document/${encodeURIComponent(row.otherAttrs.document_id)}/">${escapeHtml(row.label)}</a>`
+            : escapeHtml(row.label);
+          return `<li>${label}<span>${escapeHtml(
+            edgeTypeLabels[row.type] || row.type
+          )} · ${Number(row.weight).toFixed(2)}</span></li>`;
+        })
+        .join("")}</ol>`;
     }
 
     renderer.on("clickNode", ({ node }) => {
       const attrs = graph.getNodeAttributes(node);
-      const href = attrs.entityType === "Document" ? `/document/${encodeURIComponent(attrs.document_id)}/` : null;
-
       focusNode = node;
+      activeCommunity = null;
+      if (communityClear) communityClear.hidden = true;
       neighborEdges = new Set(graph.edges(node));
       neighborSet = new Set(graph.neighbors(node));
-
-      detail!.innerHTML = `
-        <strong>${attrs.label}</strong><br>
-        <span>${typeLabels[attrs.entityType] || attrs.entityType}</span>
-        ${href ? `<br><a class="button secondary" href="${href}">Ouvrir la fiche</a>` : ""}
-        <div class="neighbor-head">Liens directs (${neighborSet.size})</div>
-        ${describeNeighbors(node)}
-      `;
-
+      if (detailContent) {
+        detailContent.innerHTML = `
+          <span class="detail-community"><i style="--community-color:${escapeHtml(attrs.baseColor)}"></i>${escapeHtml(attrs.communityLabel)}</span>
+          <h2>${escapeHtml(attrs.label)}</h2>
+          ${
+            attrs.document_id
+              ? `<a class="detail-document-link" href="/document/${encodeURIComponent(attrs.document_id)}/">Ouvrir la fiche →</a>`
+              : ""
+          }
+          <div class="neighbor-heading"><strong>Connexions directes</strong><span>${neighborSet.size}</span></div>
+          ${describeNeighbors(node)}
+        `;
+      }
+      showDetail();
       applyFilters();
+      void appendSemanticaInsight(node);
     });
 
     renderer.on("clickStage", () => {
+      semanticaDetailSequence += 1;
       focusNode = null;
       neighborSet = new Set();
       neighborEdges = new Set();
-      detail!.innerHTML = "Clique un nœud pour afficher ses détails et mettre en évidence ses voisins directs (documents similaires, entités liées).";
+      showOverview();
       applyFilters();
     });
 
     renderer.on("enterNode", ({ node }) => {
       if (focusNode) return;
       hoverNode = node;
+      hoverEdges = new Set(graph.edges(node));
       container.style.cursor = "pointer";
       applyFilters();
     });
@@ -412,171 +648,490 @@
     renderer.on("leaveNode", () => {
       if (focusNode) return;
       hoverNode = null;
-      container.style.cursor = "default";
+      hoverEdges = new Set();
+      container.style.cursor = "grab";
       applyFilters();
     });
 
-    filter?.addEventListener("input", applyFilters);
+    let searchTimer: number | undefined;
+    filter?.addEventListener("input", () => {
+      semanticaMatches = null;
+      activeCommunity = null;
+      if (communityClear) communityClear.hidden = true;
+      renderCommunityList();
+      applyFilters();
+      window.clearTimeout(searchTimer);
+      searchTimer = window.setTimeout(() => void searchWithSemantica((filter.value || "").trim()), 220);
+    });
+
     weightSlider?.addEventListener("input", () => {
       if (weightValue) weightValue.textContent = Number(weightSlider.value).toFixed(2);
       applyFilters();
     });
-    resetButton?.addEventListener("click", () => {
+
+    function resetView() {
+      semanticaSearchSequence += 1;
+      semanticaDetailSequence += 1;
+      semanticaMatches = null;
+      activeCommunity = null;
+      focusNode = null;
+      hoverNode = null;
+      neighborSet = new Set();
+      neighborEdges = new Set();
+      hoverEdges = new Set();
       if (filter) filter.value = "";
       if (weightSlider) weightSlider.value = "0";
       if (weightValue) weightValue.textContent = "0.00";
+      if (communityClear) communityClear.hidden = true;
+      renderCommunityList();
+      showOverview();
+      applyFilters();
+      void camera.animatedReset({ duration: 450 });
+    }
+
+    resetButton?.addEventListener("click", resetView);
+    communityClear?.addEventListener("click", resetView);
+    detailBack?.addEventListener("click", () => {
       focusNode = null;
       neighborSet = new Set();
       neighborEdges = new Set();
-      detail!.innerHTML = "Clique un nœud pour afficher ses détails et mettre en évidence ses voisins directs (documents similaires, entités liées).";
+      showOverview();
       applyFilters();
     });
+    zoomIn?.addEventListener("click", () => void camera.animatedZoom({ duration: 220 }));
+    zoomOut?.addEventListener("click", () => void camera.animatedUnzoom({ duration: 220 }));
+    zoomFit?.addEventListener("click", () => void camera.animatedReset({ duration: 350 }));
 
+    renderCommunityList();
+    showOverview();
     applyFilters();
   }
 
   retryButton?.addEventListener("click", () => location.reload());
-
   init().catch(showError);
 </script>
 
 <style>
   .graph-shell {
-    padding: 22px;
+    overflow: hidden;
+    border: 1px solid var(--line);
+    border-radius: 24px;
+    background: rgba(255, 253, 248, 0.82);
+    box-shadow: 0 18px 54px rgba(23, 33, 43, 0.09);
   }
 
-  .graph-toolbar {
-    display: flex;
-    align-items: end;
-    justify-content: space-between;
-    gap: 1rem;
-    margin-bottom: 14px;
-  }
-
-  label {
+  .graph-topbar {
     display: grid;
-    gap: 0.42rem;
-    width: min(420px, 100%);
-    color: var(--muted);
-    font-size: 0.84rem;
-    font-weight: 800;
+    grid-template-columns: minmax(280px, 1fr) auto auto;
+    align-items: center;
+    gap: 1rem;
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--line);
+    background: rgba(255, 253, 248, 0.92);
   }
 
-  input {
+  .graph-search {
+    position: relative;
+    display: block;
+    width: 100%;
+  }
+
+  .search-icon {
+    position: absolute;
+    z-index: 1;
+    left: 0.82rem;
+    top: 50%;
+    color: var(--muted);
+    font-size: 1.25rem;
+    transform: translateY(-52%);
+    pointer-events: none;
+  }
+
+  .graph-search input {
+    width: 100%;
     min-height: 44px;
     border: 1px solid var(--line);
-    border-radius: 14px;
+    border-radius: 12px;
     background: #fffefb;
     color: var(--ink);
-    padding: 0.72rem 0.86rem;
+    padding: 0.68rem 0.85rem 0.68rem 2.45rem;
+    outline: none;
   }
 
-  #graph-weight {
-    min-height: 24px;
-    padding: 0;
-    border: none;
+  .graph-search input:focus {
+    border-color: rgba(31, 111, 120, 0.55);
+    box-shadow: 0 0 0 3px rgba(31, 111, 120, 0.1);
   }
 
-  #graph-reset {
-    align-self: end;
+  .graph-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 700;
     white-space: nowrap;
   }
 
-  .graph-toggles {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.2rem;
-    margin: 0 0 14px;
-  }
-
-  .graph-toggles fieldset {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0.6rem;
-    margin: 0;
-    padding: 0.4rem 0;
-    border: none;
-  }
-
-  .graph-toggles legend {
-    width: 100%;
-    color: var(--muted);
-    font-size: 0.78rem;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 0.02em;
-  }
-
-  .toggle-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.6rem;
-  }
-
-  .toggle-chip {
+  .semantica-status {
     display: inline-flex;
     align-items: center;
     gap: 0.35rem;
-    font-size: 0.82rem;
-    font-weight: 700;
-    color: var(--ink);
+    color: var(--ok);
+  }
+
+  .semantica-status::before {
+    content: "";
+    width: 0.45rem;
+    height: 0.45rem;
+    border-radius: 50%;
+    background: currentColor;
+    box-shadow: 0 0 0 3px rgba(35, 114, 77, 0.1);
+  }
+
+  .semantica-status[hidden],
+  [hidden] {
+    display: none;
+  }
+
+  .graph-text-button,
+  .detail-back {
+    border: 0;
+    background: transparent;
+    color: var(--accent-strong);
+    padding: 0.3rem;
+    font: inherit;
+    font-size: 0.8rem;
+    font-weight: 800;
     cursor: pointer;
   }
 
-  .toggle-chip input {
-    accent-color: #2f7d8c;
-  }
-
-  .dot {
-    width: 0.6rem;
-    height: 0.6rem;
-    border-radius: 999px;
-    flex-shrink: 0;
-  }
-
-  .neighbor-head {
-    margin-top: 0.6rem;
-    font-weight: 800;
-    font-size: 0.84rem;
-  }
-
-  .neighbor-list {
+  .graph-workspace {
     display: grid;
-    gap: 0.35rem;
-    margin: 0;
-    padding-left: 1rem;
-    font-size: 0.86rem;
+    grid-template-columns: minmax(0, 1fr) 310px;
+    min-height: 620px;
   }
 
-  .neighbor-list li span {
-    display: block;
-    color: var(--muted);
-    font-size: 0.78rem;
-  }
-
-  .graph-canvas-wrap {
+  .graph-map {
     position: relative;
-    height: min(66vh, 620px);
-    min-height: 420px;
+    min-width: 0;
+    min-height: 620px;
+    overflow: hidden;
+    border-right: 1px solid var(--line);
+    background:
+      radial-gradient(circle at 22% 20%, rgba(22, 121, 130, 0.09), transparent 34%),
+      radial-gradient(circle at 76% 72%, rgba(118, 92, 167, 0.07), transparent 38%),
+      #fbfaf6;
   }
 
   #sigma-container {
     position: absolute;
     inset: 0;
-    border: 1px solid rgba(20, 27, 36, 0.5);
-    border-radius: var(--radius-md);
+    cursor: grab;
+  }
+
+  #sigma-container:active {
+    cursor: grabbing;
+  }
+
+  .map-caption {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    display: grid;
+    gap: 0.08rem;
+    padding: 0.55rem 0.7rem;
+    border: 1px solid rgba(23, 33, 43, 0.08);
+    border-radius: 10px;
+    background: rgba(255, 254, 250, 0.88);
+    box-shadow: 0 6px 20px rgba(23, 33, 43, 0.06);
+    backdrop-filter: blur(8px);
+    pointer-events: none;
+  }
+
+  .map-caption strong {
+    font-size: 0.76rem;
+  }
+
+  .map-caption span {
+    color: var(--muted);
+    font-size: 0.68rem;
+  }
+
+  .zoom-controls {
+    position: absolute;
+    left: 14px;
+    bottom: 14px;
+    display: flex;
     overflow: hidden;
-    background:
-      radial-gradient(circle at 18% 12%, rgba(47, 125, 140, 0.35), transparent 42%),
-      radial-gradient(circle at 82% 88%, rgba(106, 76, 147, 0.28), transparent 45%),
-      radial-gradient(circle at 60% 30%, rgba(42, 157, 143, 0.16), transparent 55%),
-      linear-gradient(160deg, #10151c 0%, #161d27 55%, #1b232f 100%);
-    box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.35);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: rgba(255, 254, 250, 0.92);
+    box-shadow: 0 6px 20px rgba(23, 33, 43, 0.08);
+  }
+
+  .zoom-controls button {
+    width: 36px;
+    height: 36px;
+    border: 0;
+    border-right: 1px solid var(--line);
+    background: transparent;
+    color: var(--ink);
+    font-size: 1.05rem;
+    cursor: pointer;
+  }
+
+  .zoom-controls button:last-child {
+    border-right: 0;
+    font-size: 0.9rem;
+  }
+
+  .zoom-controls button:hover,
+  .zoom-controls button:focus-visible {
+    background: var(--accent-soft);
+  }
+
+  .graph-panel {
+    padding: 22px 18px;
+    background: rgba(255, 253, 248, 0.96);
+  }
+
+  .panel-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .panel-kicker {
+    color: var(--accent);
+    font-size: 0.68rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .panel-heading h2,
+  :global(.node-detail h2) {
+    margin: 0.15rem 0 0;
+    color: var(--ink);
+    font-family: Fraunces, Georgia, serif;
+    font-size: 1.35rem;
+    line-height: 1.18;
+  }
+
+  .panel-intro {
+    margin: 0.65rem 0 1rem;
+    color: var(--muted);
+    font-size: 0.8rem;
+    line-height: 1.5;
+  }
+
+  .community-list {
+    display: grid;
+    gap: 0.25rem;
+  }
+
+  :global(.community-button) {
+    display: grid;
+    grid-template-columns: 12px minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 0.65rem;
+    width: 100%;
+    min-height: 42px;
+    border: 0;
+    border-radius: 10px;
+    background: transparent;
+    color: var(--ink);
+    padding: 0.55rem 0.6rem;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  :global(.community-button:hover),
+  :global(.community-button[aria-pressed="true"]) {
+    background: var(--surface-strong);
+  }
+
+  :global(.community-button[aria-pressed="true"]) {
+    box-shadow: inset 2px 0 var(--accent);
+  }
+
+  :global(.community-dot) {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--community-color);
+    box-shadow: 0 0 0 4px color-mix(in srgb, var(--community-color) 13%, transparent);
+  }
+
+  :global(.community-label) {
+    overflow: hidden;
+    font-size: 0.79rem;
+    font-weight: 750;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  :global(.community-count) {
+    color: var(--muted);
+    font-size: 0.72rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .detail-back {
+    margin: -0.3rem 0 0.75rem -0.3rem;
+  }
+
+  :global(.detail-community) {
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    color: var(--muted);
+    font-size: 0.72rem;
+    font-weight: 750;
+  }
+
+  :global(.detail-community i) {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--community-color);
+  }
+
+  :global(.node-detail h2) {
+    margin: 0.6rem 0 0.8rem;
+    font-size: 1.18rem;
+  }
+
+  :global(.detail-document-link) {
+    color: var(--accent-strong);
+    font-size: 0.8rem;
+    font-weight: 800;
+  }
+
+  :global(.neighbor-heading) {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1.35rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--line);
+    font-size: 0.79rem;
+  }
+
+  :global(.neighbor-heading span) {
+    color: var(--muted);
+  }
+
+  :global(.neighbor-list) {
+    display: grid;
+    gap: 0;
+    margin: 0.4rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  :global(.neighbor-list li) {
+    padding: 0.55rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  :global(.neighbor-list a) {
+    display: -webkit-box;
+    overflow: hidden;
+    color: var(--ink);
+    font-size: 0.76rem;
+    font-weight: 700;
+    line-height: 1.35;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  :global(.neighbor-list span),
+  :global(.empty-links) {
+    display: block;
+    margin-top: 0.2rem;
+    color: var(--muted);
+    font-size: 0.68rem;
+  }
+
+  :global(.semantica-insight) {
+    display: grid;
+    gap: 0.15rem;
+    margin: 1rem 0 0;
+    padding: 0.65rem 0.75rem;
+    border-radius: 10px;
+    background: var(--accent-soft);
+    color: var(--accent-strong);
+    font-size: 0.7rem;
+  }
+
+  :global(.semantica-insight span) {
+    color: var(--muted);
+  }
+
+  .graph-options {
+    padding: 0.8rem 1rem;
+    border-top: 1px solid var(--line);
+    background: rgba(255, 253, 248, 0.92);
+  }
+
+  .graph-options summary {
+    width: fit-content;
+    color: var(--muted);
+    font-size: 0.75rem;
+    font-weight: 800;
+    cursor: pointer;
+  }
+
+  .graph-options-content {
+    display: grid;
+    grid-template-columns: minmax(220px, 340px) minmax(0, 1fr);
+    align-items: end;
+    gap: 1.4rem;
+    padding-top: 0.8rem;
+  }
+
+  .graph-options label,
+  .graph-options fieldset {
+    display: grid;
+    gap: 0.45rem;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+
+  #graph-weight {
+    width: 100%;
+    accent-color: var(--accent);
+  }
+
+  .toggle-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  :global(.toggle-chip) {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--ink);
+    font-size: 0.75rem;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  :global(.toggle-chip input) {
+    accent-color: var(--accent);
   }
 
   .graph-overlay {
     position: absolute;
+    z-index: 5;
     inset: 0;
     display: flex;
     flex-direction: column;
@@ -584,27 +1139,23 @@
     justify-content: center;
     gap: 0.9rem;
     padding: 2rem;
+    background: rgba(251, 250, 246, 0.9);
+    color: var(--ink);
     text-align: center;
-    border-radius: var(--radius-md);
-    background: rgba(16, 21, 28, 0.72);
-    color: #fdfaf3;
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(3px);
   }
 
-  /* `display: flex` above has author-origin precedence over the UA's
-     `[hidden] { display: none }` rule, so it must be restated explicitly
-     or the `hidden` property/attribute stops hiding this element. */
   .graph-overlay[hidden] {
     display: none;
   }
 
   .graph-spinner {
-    width: 34px;
-    height: 34px;
-    border-radius: 999px;
-    border: 3px solid rgba(253, 250, 243, 0.22);
-    border-top-color: #2a9d8f;
-    animation: graph-spin 0.85s linear infinite;
+    width: 32px;
+    height: 32px;
+    border: 3px solid rgba(31, 111, 120, 0.14);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: graph-spin 0.8s linear infinite;
   }
 
   @keyframes graph-spin {
@@ -613,18 +1164,9 @@
     }
   }
 
-  .graph-error {
-    background: rgba(16, 21, 28, 0.92);
-  }
-
   .graph-error-title {
-    font-size: 1.05rem;
+    margin: 0;
     font-weight: 800;
-  }
-
-  .graph-error .muted {
-    color: rgba(253, 250, 243, 0.7);
-    max-width: 46ch;
   }
 
   .graph-error-actions {
@@ -634,19 +1176,56 @@
     gap: 0.6rem;
   }
 
-  .graph-detail {
-    display: grid;
-    gap: 0.4rem;
-    margin-top: 14px;
-    padding: 14px;
-    border: 1px dashed var(--line);
-    border-radius: var(--radius-md);
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
   }
 
-  @media (max-width: 760px) {
-    .graph-toolbar {
-      align-items: stretch;
-      flex-direction: column;
+  @media (max-width: 900px) {
+    .graph-workspace {
+      grid-template-columns: 1fr;
+    }
+
+    .graph-map {
+      min-height: 560px;
+      border-right: 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .graph-panel {
+      min-height: 0;
+    }
+
+    .community-list {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 680px) {
+    .graph-topbar {
+      grid-template-columns: 1fr auto;
+    }
+
+    .graph-search {
+      grid-column: 1 / -1;
+    }
+
+    .graph-map {
+      min-height: 500px;
+    }
+
+    .map-caption span {
+      display: none;
+    }
+
+    .community-list,
+    .graph-options-content {
+      grid-template-columns: 1fr;
     }
   }
 </style>

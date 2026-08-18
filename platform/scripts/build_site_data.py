@@ -14,204 +14,301 @@ from typing import Any
 
 
 def _json_default(value: Any) -> Any:
-  if isinstance(value, float) and (math.isnan(value) or math.isinf(value)):
-    return None
-  if hasattr(value, "as_py"):
-    return value.as_py()
-  return str(value)
+    if isinstance(value, float) and (math.isnan(value) or math.isinf(value)):
+        return None
+    if hasattr(value, "as_py"):
+        return value.as_py()
+    return str(value)
 
 
 def write_json(path: Path, data: Any) -> None:
-  path.parent.mkdir(parents=True, exist_ok=True)
-  tmp = path.with_suffix(path.suffix + ".tmp")
-  tmp.write_text(
-    json.dumps(data, ensure_ascii=False, indent=2, default=_json_default) + "\n",
-    encoding="utf-8",
-  )
-  tmp.replace(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    tmp.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2, default=_json_default) + "\n",
+        encoding="utf-8",
+    )
+    tmp.replace(path)
 
 
 def read_parquet_dir(path: Path) -> list[dict[str, Any]]:
-  try:
-    import pyarrow.parquet as pq
-  except ImportError as exc:  # pragma: no cover - exercised in environments without derive deps
-    raise SystemExit("pyarrow is required: install the project with .[derive]") from exc
+    try:
+        import pyarrow.parquet as pq
+    except ImportError as exc:  # pragma: no cover - exercised in environments without derive deps
+        raise SystemExit("pyarrow is required: install the project with .[derive]") from exc
 
-  if path.is_file():
-    files = [path]
-  else:
-    files = sorted(path.glob("*.parquet")) if path.exists() else []
-  rows: list[dict[str, Any]] = []
-  for file in files:
-    rows.extend(pq.read_table(file).to_pylist())
-  return rows
+    if path.is_file():
+        files = [path]
+    else:
+        files = sorted(path.glob("*.parquet")) if path.exists() else []
+    rows: list[dict[str, Any]] = []
+    for file in files:
+        rows.extend(pq.read_table(file).to_pylist())
+    return rows
 
 
 def first_existing(paths: list[Path]) -> Path | None:
-  for path in paths:
-    if path.exists():
-      return path
-  return None
+    for path in paths:
+        if path.exists():
+            return path
+    return None
 
 
 def as_list(value: Any) -> list[Any]:
-  if value is None:
-    return []
-  if isinstance(value, list):
-    return value
-  if isinstance(value, tuple):
-    return list(value)
-  return [value]
+    if value is None:
+        return []
+    if isinstance(value, list):
+        return value
+    if isinstance(value, tuple):
+        return list(value)
+    return [value]
 
 
 def compact_text(text: str | None, limit: int = 420) -> str:
-  normalized = re.sub(r"\s+", " ", text or "").strip()
-  if len(normalized) <= limit:
-    return normalized
-  return normalized[: limit - 1].rstrip() + "…"
+    normalized = re.sub(r"\s+", " ", text or "").strip()
+    if len(normalized) <= limit:
+        return normalized
+    return normalized[: limit - 1].rstrip() + "…"
 
 
 # Small stopword list for the assistant's lightweight keyword index (build.py
 # generates this so the Worker never has to tokenize full text at request
 # time — see platform/site/worker/ask.ts).
 STOPWORDS = frozenset(
-  "le la les un une des du de et en à au aux ce cet cette ces son sa ses leur leurs qui que quoi dont où "
-  "est sont pour par sur avec sans entre dans not the and for with from into onto that this these those "
-  "il elle nous vous ils elles on ne pas plus tout tous toute toutes ainsi ou mais donc or ni car été être "
-  "avoir fait faire dit dite entre 2020 2021 2022 2023 2024 2025"
-  .split()
+    "le la les un une des du de et en à au aux ce cet cette ces son sa ses leur leurs qui que quoi dont où "
+    "est sont pour par sur avec sans entre dans not the and for with from into onto that this these those "
+    "il elle nous vous ils elles on ne pas plus tout tous toute toutes ainsi ou mais donc or ni car été être "
+    "avoir fait faire dit dite entre 2020 2021 2022 2023 2024 2025".split()
 )
+
+COMMUNITY_STOPWORDS = STOPWORDS | frozenset(
+    "accord accords convention conventions document documents ensemble ensembles instrument instruments "
+    "publication publications texte textes copie copies français française françaises français relatifs relatives "
+    "traité traités pièce pièces signé signée signés signées verbal".split()
+)
+
+COMMUNITY_LABELS = {
+    "adhésion": "Adhésions",
+    "annexe": "Annexes",
+    "certificat": "Certificats",
+    "déclaration": "Déclarations",
+    "dépôt": "Dépôts",
+    "échange": "Échanges",
+    "enregistrement": "Enregistrements",
+    "lettre": "Correspondance",
+    "note": "Notes verbales",
+    "notification": "Notifications",
+    "pouvoirs": "Pouvoirs",
+    "procès": "Procès-verbaux",
+    "protocole": "Protocoles",
+    "ratification": "Ratifications",
+    "réception": "Réceptions",
+    "signature": "Signatures",
+    "verbale": "Notes verbales",
+}
 
 
 def extract_keywords(text: str, limit: int = 40) -> str:
-  words = re.findall(r"[a-zà-öø-ÿ0-9]{3,}", (text or "").lower())
-  seen: list[str] = []
-  seen_set: set[str] = set()
-  for word in words:
-    if word in STOPWORDS or word in seen_set:
-      continue
-    seen_set.add(word)
-    seen.append(word)
-    if len(seen) >= limit:
-      break
-  return " ".join(seen)
+    words = re.findall(r"[a-zà-öø-ÿ0-9]{3,}", (text or "").lower())
+    seen: list[str] = []
+    seen_set: set[str] = set()
+    for word in words:
+        if word in STOPWORDS or word in seen_set:
+            continue
+        seen_set.add(word)
+        seen.append(word)
+        if len(seen) >= limit:
+            break
+    return " ".join(seen)
 
 
 def tag_value(tags: list[str], namespace: str) -> str | None:
-  prefix = f"{namespace}:"
-  for tag in tags:
-    if tag.startswith(prefix):
-      return tag[len(prefix) :]
-  return None
+    prefix = f"{namespace}:"
+    for tag in tags:
+        if tag.startswith(prefix):
+            return tag[len(prefix) :]
+    return None
 
 
-def load_release(release: Path) -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
-  documents_path = first_existing([release / "documents", release / "documents.parquet"])
-  pages_path = first_existing([release / "pages", release / "pages.parquet"])
-  chunks_path = first_existing([release / "chunks", release / "chunks.parquet"])
-  edges_path = first_existing([release / "edges", release / "edges.parquet", release / "similarity" / "doc_edges.parquet"])
-  graph_path = first_existing([release / "graph" / "graph.sigma.json", release / "graph.sigma.json"])
+def load_release(
+    release: Path,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
+    documents_path = first_existing([release / "documents", release / "documents.parquet"])
+    pages_path = first_existing([release / "pages", release / "pages.parquet"])
+    chunks_path = first_existing([release / "chunks", release / "chunks.parquet"])
+    edges_path = first_existing(
+        [release / "edges", release / "edges.parquet", release / "similarity" / "doc_edges.parquet"]
+    )
+    graph_path = first_existing([release / "graph" / "graph.sigma.json", release / "graph.sigma.json"])
 
-  documents = read_parquet_dir(documents_path) if documents_path else []
-  pages = read_parquet_dir(pages_path) if pages_path else []
-  chunks = read_parquet_dir(chunks_path) if chunks_path else []
-  edges = read_parquet_dir(edges_path) if edges_path else []
-  graph = json.loads(graph_path.read_text(encoding="utf-8")) if graph_path else {"nodes": [], "edges": []}
-  return documents, pages, chunks, edges, graph
+    documents = read_parquet_dir(documents_path) if documents_path else []
+    pages = read_parquet_dir(pages_path) if pages_path else []
+    chunks = read_parquet_dir(chunks_path) if chunks_path else []
+    edges = read_parquet_dir(edges_path) if edges_path else []
+    graph = json.loads(graph_path.read_text(encoding="utf-8")) if graph_path else {"nodes": [], "edges": []}
+    return documents, pages, chunks, edges, graph
 
 
 def load_doc_type_profiles(release: Path) -> dict[str, Any] | None:
-  path = first_existing([release / "doc_type_profiles.json", release / "similarity" / "doc_type_profiles.json"])
-  if not path:
-    return None
-  return json.loads(path.read_text(encoding="utf-8"))
+    path = first_existing([release / "doc_type_profiles.json", release / "similarity" / "doc_type_profiles.json"])
+    if not path:
+        return None
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def load_similarity_clusters(release: Path) -> list[dict[str, Any]]:
+    path = first_existing(
+        [
+            release / "similarity" / "clusters.json",
+            release / "clusters.json",
+            release.parent / "similarity" / "clusters.json",
+        ]
+    )
+    if not path:
+        return []
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    return payload if isinstance(payload, list) else []
+
+
+def build_graph_communities(
+    graph: dict[str, Any], clusters: list[dict[str, Any]], titles: dict[str, str]
+) -> dict[str, Any]:
+    """Build the compact community index used by the browser graph.
+
+    Louvain is computed by the existing similarity pipeline. This step only
+    intersects those stable clusters with the bounded web projection and adds
+    short French labels derived from document titles.
+    """
+    node_ids = {str(node.get("id")) for node in graph.get("nodes") or [] if node.get("id")}
+    memberships: dict[str, str] = {}
+    communities: list[dict[str, Any]] = []
+
+    for cluster in clusters:
+        community_id = str(cluster.get("cluster_id") or "")
+        members = [
+            f"doc:{document_id}" for document_id in cluster.get("documents") or [] if f"doc:{document_id}" in node_ids
+        ]
+        if not community_id or not members:
+            continue
+
+        counts: dict[str, int] = defaultdict(int)
+        for node_id in members:
+            title = titles.get(node_id.removeprefix("doc:"), "").lower()
+            for word in set(re.findall(r"[a-zà-öø-ÿ]{4,}", title)):
+                if word not in COMMUNITY_STOPWORDS:
+                    counts[word] += 1
+        keywords = sorted(counts, key=lambda word: (-counts[word], word))[:2]
+        label = " · ".join(COMMUNITY_LABELS.get(word, word.capitalize()) for word in keywords)
+        if not label:
+            label = "Documents liés"
+
+        for node_id in members:
+            memberships[node_id] = community_id
+        communities.append({"id": community_id, "label": label, "count": len(members)})
+
+    missing = sorted(node_ids - memberships.keys())
+    for node_id in missing:
+        memberships[node_id] = "community_other"
+    if missing:
+        communities.append({"id": "community_other", "label": "Autres documents", "count": len(missing)})
+
+    communities.sort(key=lambda item: (-int(item["count"]), str(item["id"])))
+    return {
+        "method": "networkx_louvain",
+        "communities": communities,
+        "membership": dict(sorted(memberships.items())),
+    }
 
 
 # Public copy for the site/worker: keeps the aggregate stats and narrative (the
 # whole point — grounded, corpus-wide facts about how each doc_type is drafted)
 # but trims the per-document sample excerpts so the asset stays small enough to
 # fetch cheaply from a Cloudflare Worker (see platform/site/worker/ask.ts).
-def build_public_doc_type_profiles(profiles: dict[str, Any], max_samples: int = 2, sample_chars: int = 220) -> dict[str, Any]:
-  public_types: dict[str, Any] = {}
-  for label, profile in (profiles.get("types") or {}).items():
-    trimmed_openings = [
-      {**sample, "excerpt": compact_text(sample.get("excerpt"), sample_chars)}
-      for sample in (profile.get("sample_openings") or [])[:max_samples]
-    ]
-    public_types[label] = {
-      "label": profile.get("label"),
-      "instrument_type": profile.get("instrument_type"),
-      "legal_force": profile.get("legal_force"),
-      "n_documents": profile.get("n_documents"),
-      "n_chunks": profile.get("n_chunks"),
-      "low_sample_warning": profile.get("low_sample_warning"),
-      "avg_quality_score": profile.get("avg_quality_score"),
-      "narrative_fr": profile.get("narrative_fr"),
-      "sample_openings": trimmed_openings,
+def build_public_doc_type_profiles(
+    profiles: dict[str, Any], max_samples: int = 2, sample_chars: int = 220
+) -> dict[str, Any]:
+    public_types: dict[str, Any] = {}
+    for label, profile in (profiles.get("types") or {}).items():
+        trimmed_openings = [
+            {**sample, "excerpt": compact_text(sample.get("excerpt"), sample_chars)}
+            for sample in (profile.get("sample_openings") or [])[:max_samples]
+        ]
+        public_types[label] = {
+            "label": profile.get("label"),
+            "instrument_type": profile.get("instrument_type"),
+            "legal_force": profile.get("legal_force"),
+            "n_documents": profile.get("n_documents"),
+            "n_chunks": profile.get("n_chunks"),
+            "low_sample_warning": profile.get("low_sample_warning"),
+            "avg_quality_score": profile.get("avg_quality_score"),
+            "narrative_fr": profile.get("narrative_fr"),
+            "sample_openings": trimmed_openings,
+        }
+    return {
+        "schema_version": profiles.get("schema_version"),
+        "generated_at": profiles.get("generated_at"),
+        "method": profiles.get("method"),
+        "min_documents_for_reliable_stats": profiles.get("min_documents_for_reliable_stats"),
+        "n_documents_total": profiles.get("n_documents_total"),
+        "n_chunks_total": profiles.get("n_chunks_total"),
+        "types": public_types,
     }
-  return {
-    "schema_version": profiles.get("schema_version"),
-    "generated_at": profiles.get("generated_at"),
-    "method": profiles.get("method"),
-    "min_documents_for_reliable_stats": profiles.get("min_documents_for_reliable_stats"),
-    "n_documents_total": profiles.get("n_documents_total"),
-    "n_chunks_total": profiles.get("n_chunks_total"),
-    "types": public_types,
-  }
 
 
-def build_similarity(edges: list[dict[str, Any]], chunks: list[dict[str, Any]], titles: dict[str, str]) -> dict[str, list[dict[str, Any]]]:
-  chunk_to_doc = {row.get("chunk_id"): row.get("document_id") for row in chunks if row.get("chunk_id")}
-  best: dict[tuple[str, str], dict[str, Any]] = {}
+def build_similarity(
+    edges: list[dict[str, Any]], chunks: list[dict[str, Any]], titles: dict[str, str]
+) -> dict[str, list[dict[str, Any]]]:
+    chunk_to_doc = {row.get("chunk_id"): row.get("document_id") for row in chunks if row.get("chunk_id")}
+    best: dict[tuple[str, str], dict[str, Any]] = {}
 
-  for edge in edges:
-    src = edge.get("src")
-    dst = edge.get("dst")
-    if not src or not dst:
-      continue
-    src_doc = src.replace("doc:", "") if str(src).startswith("doc:") else chunk_to_doc.get(src)
-    dst_doc = dst.replace("doc:", "") if str(dst).startswith("doc:") else chunk_to_doc.get(dst)
-    if not src_doc or not dst_doc or src_doc == dst_doc:
-      continue
-    key = tuple(sorted((str(src_doc), str(dst_doc))))
-    score = edge.get("combined") or edge.get("semantic") or edge.get("lexical") or edge.get("weight") or 0
-    try:
-      numeric_score = float(score)
-    except (TypeError, ValueError):
-      numeric_score = 0.0
-    current = best.get(key)
-    if current is None or numeric_score > current["score"]:
-      best[key] = {
-        "src": str(src_doc),
-        "dst": str(dst_doc),
-        "score": numeric_score,
-        "type": edge.get("type") or "similar_to",
-        "provisional": bool(edge.get("provisional", False)),
-      }
+    for edge in edges:
+        src = edge.get("src")
+        dst = edge.get("dst")
+        if not src or not dst:
+            continue
+        src_doc = src.replace("doc:", "") if str(src).startswith("doc:") else chunk_to_doc.get(src)
+        dst_doc = dst.replace("doc:", "") if str(dst).startswith("doc:") else chunk_to_doc.get(dst)
+        if not src_doc or not dst_doc or src_doc == dst_doc:
+            continue
+        key = tuple(sorted((str(src_doc), str(dst_doc))))
+        score = edge.get("combined") or edge.get("semantic") or edge.get("lexical") or edge.get("weight") or 0
+        try:
+            numeric_score = float(score)
+        except (TypeError, ValueError):
+            numeric_score = 0.0
+        current = best.get(key)
+        if current is None or numeric_score > current["score"]:
+            best[key] = {
+                "src": str(src_doc),
+                "dst": str(dst_doc),
+                "score": numeric_score,
+                "type": edge.get("type") or "similar_to",
+                "provisional": bool(edge.get("provisional", False)),
+            }
 
-  grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
-  for item in best.values():
-    grouped[item["src"]].append(
-      {
-        "document_id": item["dst"],
-        "title": titles.get(item["dst"], item["dst"]),
-        "score": item["score"],
-        "type": item["type"],
-        "provisional": item["provisional"],
-      }
-    )
-    grouped[item["dst"]].append(
-      {
-        "document_id": item["src"],
-        "title": titles.get(item["src"], item["src"]),
-        "score": item["score"],
-        "type": item["type"],
-        "provisional": item["provisional"],
-      }
-    )
-  for doc_id in grouped:
-    grouped[doc_id].sort(key=lambda row: row.get("score", 0), reverse=True)
-  return grouped
+    grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for item in best.values():
+        grouped[item["src"]].append(
+            {
+                "document_id": item["dst"],
+                "title": titles.get(item["dst"], item["dst"]),
+                "score": item["score"],
+                "type": item["type"],
+                "provisional": item["provisional"],
+            }
+        )
+        grouped[item["dst"]].append(
+            {
+                "document_id": item["src"],
+                "title": titles.get(item["src"], item["src"]),
+                "score": item["score"],
+                "type": item["type"],
+                "provisional": item["provisional"],
+            }
+        )
+    for doc_id in grouped:
+        grouped[doc_id].sort(key=lambda row: row.get("score", 0), reverse=True)
+    return grouped
 
 
 # Document nodes come first so every document stays explorable; the remaining
@@ -221,116 +318,69 @@ GRAPH_TYPE_PRIORITY = ["Document", "Organization", "Party", "Place", "Instrument
 
 
 def reduce_graph(graph: dict[str, Any], max_nodes: int, max_edges_per_node: int = 8) -> dict[str, Any]:
-  nodes = graph.get("nodes") or []
-  edges = graph.get("edges") or []
+    nodes = graph.get("nodes") or []
+    edges = graph.get("edges") or []
 
-  weighted_degree: dict[str, float] = defaultdict(float)
-  for edge in edges:
-    weight = float(edge.get("weight") or 1.0)
-    weighted_degree[edge.get("source")] += weight
-    weighted_degree[edge.get("target")] += weight
+    weighted_degree: dict[str, float] = defaultdict(float)
+    for edge in edges:
+        weight = float(edge.get("weight") or 1.0)
+        weighted_degree[edge.get("source")] += weight
+        weighted_degree[edge.get("target")] += weight
 
-  by_type: dict[str, list[dict[str, Any]]] = defaultdict(list)
-  for node in nodes:
-    by_type[node.get("type") or "default"].append(node)
-  for bucket in by_type.values():
-    bucket.sort(key=lambda n: weighted_degree.get(n.get("id"), 0.0), reverse=True)
+    by_type: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for node in nodes:
+        by_type[node.get("type") or "default"].append(node)
+    for bucket in by_type.values():
+        bucket.sort(key=lambda n: weighted_degree.get(n.get("id"), 0.0), reverse=True)
 
-  ordered_types = [t for t in GRAPH_TYPE_PRIORITY if t in by_type]
-  ordered_types += [t for t in by_type if t not in ordered_types]
+    ordered_types = [t for t in GRAPH_TYPE_PRIORITY if t in by_type]
+    ordered_types += [t for t in by_type if t not in ordered_types]
 
-  selected: list[dict[str, Any]] = []
-  remaining = max_nodes
-  for node_type in ordered_types:
-    if remaining <= 0:
-      break
-    bucket = by_type[node_type]
-    take = bucket[:remaining]
-    selected.extend(take)
-    remaining -= len(take)
+    selected: list[dict[str, Any]] = []
+    remaining = max_nodes
+    for node_type in ordered_types:
+        if remaining <= 0:
+            break
+        bucket = by_type[node_type]
+        take = bucket[:remaining]
+        selected.extend(take)
+        remaining -= len(take)
 
-  selected_ids = {node.get("id") for node in selected}
+    selected_ids = {node.get("id") for node in selected}
 
-  candidate_edges = [
-    edge
-    for edge in edges
-    if edge.get("source") in selected_ids and edge.get("target") in selected_ids
-  ]
-  candidate_edges.sort(key=lambda edge: float(edge.get("weight") or 0.0), reverse=True)
+    candidate_edges = [
+        edge for edge in edges if edge.get("source") in selected_ids and edge.get("target") in selected_ids
+    ]
+    candidate_edges.sort(key=lambda edge: float(edge.get("weight") or 0.0), reverse=True)
 
-  # Keep each node's strongest links first so high-degree nodes don't crowd out
-  # the rest and no selected node ends up stranded without any edges.
-  per_node_count: dict[str, int] = defaultdict(int)
-  seen_pairs: set[tuple[str, str]] = set()
-  kept_edges: list[dict[str, Any]] = []
-  for edge in candidate_edges:
-    source, target = edge.get("source"), edge.get("target")
-    pair = tuple(sorted((str(source), str(target))))
-    if pair in seen_pairs:
-      continue
-    if per_node_count[source] >= max_edges_per_node and per_node_count[target] >= max_edges_per_node:
-      continue
-    kept_edges.append(edge)
-    seen_pairs.add(pair)
-    per_node_count[source] += 1
-    per_node_count[target] += 1
+    # Keep each node's strongest links first so high-degree nodes don't crowd out
+    # the rest and no selected node ends up stranded without any edges.
+    per_node_count: dict[str, int] = defaultdict(int)
+    seen_pairs: set[tuple[str, str]] = set()
+    kept_edges: list[dict[str, Any]] = []
+    for edge in candidate_edges:
+        source, target = edge.get("source"), edge.get("target")
+        pair = tuple(sorted((str(source), str(target))))
+        if pair in seen_pairs:
+            continue
+        if per_node_count[source] >= max_edges_per_node and per_node_count[target] >= max_edges_per_node:
+            continue
+        kept_edges.append(edge)
+        seen_pairs.add(pair)
+        per_node_count[source] += 1
+        per_node_count[target] += 1
 
-  return {"nodes": selected, "edges": kept_edges}
+    return {"nodes": selected, "edges": kept_edges}
 
 
-def build(args: argparse.Namespace) -> dict[str, Any]:
-  release = Path(args.release)
-  site = Path(args.site)
-  documents, pages, chunks, edges, graph = load_release(release)
-  doc_type_profiles = load_doc_type_profiles(release)
-  documents = documents[: args.max_documents]
-  selected_ids = {row.get("document_id") for row in documents}
-  pages_by_doc: dict[str, list[dict[str, Any]]] = defaultdict(list)
-  for page in pages:
-    if page.get("document_id") in selected_ids:
-      pages_by_doc[str(page["document_id"])].append(page)
-  for page_list in pages_by_doc.values():
-    page_list.sort(key=lambda row: row.get("page_number") or 0)
-
-  titles = {str(row.get("document_id")): row.get("title") or str(row.get("document_id")) for row in documents}
-  similar = build_similarity(edges, chunks, titles)
-
-  summaries: list[dict[str, Any]] = []
-  search_docs: list[dict[str, Any]] = []
-  ask_index: list[dict[str, Any]] = []
-  facets: dict[str, set[Any]] = {
-    "languages": set(),
-    "doc_types": set(),
-    "years": set(),
-    "instrument_types": set(),
-    "legal_force": set(),
-    "source_db": set(),
-  }
-  page_count = 0
-  docs_dir = site / "docs"
-  docs_dir.mkdir(parents=True, exist_ok=True)
-  for stale in docs_dir.glob("*.json"):
-    stale.unlink()
-
-  for doc in documents:
+def _document_summary(doc: dict[str, Any], doc_pages: list[dict[str, Any]]) -> tuple[dict[str, Any], list[str], str]:
     doc_id = str(doc.get("document_id"))
-    doc_pages = pages_by_doc.get(doc_id, [])
-    page_count += len(doc_pages)
     tags = [str(tag) for tag in as_list(doc.get("tags"))]
-    languages = sorted(
-      {
-        str(language)
-        for page in doc_pages
-        for language in as_list(page.get("language"))
-        if language
-      }
-    )
+    languages = sorted({str(language) for page in doc_pages for language in as_list(page.get("language")) if language})
     if not languages:
-      languages = sorted(str(tag).split(":", 1)[1] for tag in tags if str(tag).startswith("language:"))
+        languages = sorted(str(tag).split(":", 1)[1] for tag in tags if str(tag).startswith("language:"))
     quality_scores = [
-      float(page["quality_score"])
-      for page in doc_pages
-      if isinstance(page.get("quality_score"), (int, float))
+        float(page["quality_score"]) for page in doc_pages if isinstance(page.get("quality_score"), (int, float))
     ]
     quality_score = round(sum(quality_scores) / len(quality_scores), 4) if quality_scores else None
     review_required = bool(doc.get("review_required")) or any(bool(page.get("review_required")) for page in doc_pages)
@@ -341,126 +391,180 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
     doc_type = doc.get("doc_type") or tag_value(tags, "doc_type")
     year = doc.get("year")
     summary = {
-      "document_id": doc_id,
-      "title": doc.get("title") or doc_id,
-      "year": year,
-      "doc_type": doc_type,
-      "languages": languages,
-      "quality_score": quality_score,
-      "review_required": review_required,
-      "review_priority": review_priority,
-      "text_preview": preview,
-      "tags": tags,
-      "source_url": doc.get("source_url"),
-    }
-    summaries.append(summary)
-
-    for language in languages:
-      facets["languages"].add(language)
-    if doc_type:
-      facets["doc_types"].add(doc_type)
-    if year:
-      facets["years"].add(int(year))
-    for namespace in ("instrument_type", "legal_force", "source_db"):
-      value = tag_value(tags, namespace)
-      if value:
-        facets[f"{namespace}s" if namespace == "instrument_type" else namespace].add(value)
-
-    page_records = [
-      {
-        "page_number": page.get("page_number"),
-        "text": page.get("text") or "",
-        "quality_score": page.get("quality_score"),
-        "review_required": page.get("review_required"),
-        "review_priority": page.get("review_priority"),
-        "method": page.get("method"),
-        "language": as_list(page.get("language")),
-        "review_reasons": as_list(page.get("review_reasons")),
-      }
-      for page in doc_pages
-    ]
-    write_json(
-      docs_dir / f"{doc_id}.json",
-      {
-        **summary,
-        "source_filename": doc.get("source_filename"),
-        "source_sha256": doc.get("source_sha256"),
-        "treaty_id": doc.get("treaty_id"),
-        "treaty_number": doc.get("treaty_number"),
-        "rights_status": doc.get("rights_status") or "to_review",
-        "pages": page_records,
-        "similar_documents": similar.get(doc_id, [])[:10],
-      },
-    )
-    search_docs.append(
-      {
-        "id": doc_id,
-        **summary,
-        "summary": preview,
-        "text": compact_text(full_text, limit=args.search_text_chars),
-        "tags": " ".join(tags),
-      }
-    )
-    ask_index.append(
-      {
-        "id": doc_id,
+        "document_id": doc_id,
         "title": doc.get("title") or doc_id,
         "year": year,
         "doc_type": doc_type,
-        "treaty_id": doc.get("treaty_id"),
-        "kw": extract_keywords(f"{doc.get('title') or ''} {' '.join(tags)} {preview}"),
-      }
+        "languages": languages,
+        "quality_score": quality_score,
+        "review_required": review_required,
+        "review_priority": review_priority,
+        "text_preview": preview,
+        "tags": tags,
+        "source_url": doc.get("source_url"),
+    }
+    return summary, tags, full_text
+
+
+def _update_facets(facets: dict[str, set[Any]], summary: dict[str, Any], tags: list[str]) -> None:
+    for language in summary["languages"]:
+        facets["languages"].add(language)
+    if summary["doc_type"]:
+        facets["doc_types"].add(summary["doc_type"])
+    if summary["year"]:
+        facets["years"].add(int(summary["year"]))
+    for namespace in ("instrument_type", "legal_force", "source_db"):
+        value = tag_value(tags, namespace)
+        if value:
+            facets[f"{namespace}s" if namespace == "instrument_type" else namespace].add(value)
+
+
+def build(args: argparse.Namespace) -> dict[str, Any]:
+    release = Path(args.release)
+    site = Path(args.site)
+    documents, pages, chunks, edges, graph = load_release(release)
+    doc_type_profiles = load_doc_type_profiles(release)
+    similarity_clusters = load_similarity_clusters(release)
+    documents = documents[: args.max_documents]
+    selected_ids = {row.get("document_id") for row in documents}
+    pages_by_doc: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for page in pages:
+        if page.get("document_id") in selected_ids:
+            pages_by_doc[str(page["document_id"])].append(page)
+    for page_list in pages_by_doc.values():
+        page_list.sort(key=lambda row: row.get("page_number") or 0)
+
+    titles = {str(row.get("document_id")): row.get("title") or str(row.get("document_id")) for row in documents}
+    similar = build_similarity(edges, chunks, titles)
+
+    summaries: list[dict[str, Any]] = []
+    search_docs: list[dict[str, Any]] = []
+    ask_index: list[dict[str, Any]] = []
+    facets: dict[str, set[Any]] = {
+        "languages": set(),
+        "doc_types": set(),
+        "years": set(),
+        "instrument_types": set(),
+        "legal_force": set(),
+        "source_db": set(),
+    }
+    page_count = 0
+    docs_dir = site / "docs"
+    docs_dir.mkdir(parents=True, exist_ok=True)
+    for stale in docs_dir.glob("*.json"):
+        stale.unlink()
+
+    for doc in documents:
+        doc_id = str(doc.get("document_id"))
+        doc_pages = pages_by_doc.get(doc_id, [])
+        page_count += len(doc_pages)
+        summary, tags, full_text = _document_summary(doc, doc_pages)
+        preview = summary["text_preview"]
+        doc_type = summary["doc_type"]
+        year = summary["year"]
+        summaries.append(summary)
+        _update_facets(facets, summary, tags)
+
+        page_records = [
+            {
+                "page_number": page.get("page_number"),
+                "text": page.get("text") or "",
+                "quality_score": page.get("quality_score"),
+                "review_required": page.get("review_required"),
+                "review_priority": page.get("review_priority"),
+                "method": page.get("method"),
+                "language": as_list(page.get("language")),
+                "review_reasons": as_list(page.get("review_reasons")),
+            }
+            for page in doc_pages
+        ]
+        write_json(
+            docs_dir / f"{doc_id}.json",
+            {
+                **summary,
+                "source_filename": doc.get("source_filename"),
+                "source_sha256": doc.get("source_sha256"),
+                "treaty_id": doc.get("treaty_id"),
+                "treaty_number": doc.get("treaty_number"),
+                "rights_status": doc.get("rights_status") or "to_review",
+                "pages": page_records,
+                "similar_documents": similar.get(doc_id, [])[:10],
+            },
+        )
+        search_docs.append(
+            {
+                "id": doc_id,
+                **summary,
+                "summary": preview,
+                "text": compact_text(full_text, limit=args.search_text_chars),
+                "tags": " ".join(tags),
+            }
+        )
+        ask_index.append(
+            {
+                "id": doc_id,
+                "title": doc.get("title") or doc_id,
+                "year": year,
+                "doc_type": doc_type,
+                "treaty_id": doc.get("treaty_id"),
+                "kw": extract_keywords(f"{doc.get('title') or ''} {' '.join(tags)} {preview}"),
+            }
+        )
+
+    summaries.sort(key=lambda row: (row.get("year") or 99999, row.get("title") or ""))
+    graph_reduced = reduce_graph(graph, args.max_graph_nodes)
+    graph_communities = build_graph_communities(graph_reduced, similarity_clusters, titles)
+    manifest = {
+        "generated_at": datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+        "source": str(release),
+        "document_count": len(summaries),
+        "page_count": page_count,
+        "graph_node_count": len(graph_reduced.get("nodes", [])),
+        "graph_edge_count": len(graph_reduced.get("edges", [])),
+        "graph_community_count": len(graph_communities.get("communities", [])),
+        "pipeline_version": documents[0].get("pipeline_version") if documents else None,
+        "doc_type_profiles": len(doc_type_profiles.get("types") or {}) if doc_type_profiles else 0,
+    }
+
+    write_json(site / "manifest.json", manifest)
+    write_json(site / "documents.json", summaries)
+    write_json(site / "search.json", {"documents": search_docs})
+    write_json(site / "ask_index.json", ask_index)
+    write_json(
+        site / "facets.json",
+        {
+            "languages": sorted(facets["languages"]),
+            "doc_types": sorted(facets["doc_types"]),
+            "years": sorted(facets["years"]),
+            "instrument_types": sorted(facets["instrument_types"]),
+            "legal_force": sorted(facets["legal_force"]),
+            "source_db": sorted(facets["source_db"]),
+        },
     )
-
-  summaries.sort(key=lambda row: (row.get("year") or 99999, row.get("title") or ""))
-  graph_reduced = reduce_graph(graph, args.max_graph_nodes)
-  manifest = {
-    "generated_at": datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
-    "source": str(release),
-    "document_count": len(summaries),
-    "page_count": page_count,
-    "graph_node_count": len(graph_reduced.get("nodes", [])),
-    "graph_edge_count": len(graph_reduced.get("edges", [])),
-    "pipeline_version": documents[0].get("pipeline_version") if documents else None,
-    "doc_type_profiles": len(doc_type_profiles.get("types") or {}) if doc_type_profiles else 0,
-  }
-
-  write_json(site / "manifest.json", manifest)
-  write_json(site / "documents.json", summaries)
-  write_json(site / "search.json", {"documents": search_docs})
-  write_json(site / "ask_index.json", ask_index)
-  write_json(
-    site / "facets.json",
-    {
-      "languages": sorted(facets["languages"]),
-      "doc_types": sorted(facets["doc_types"]),
-      "years": sorted(facets["years"]),
-      "instrument_types": sorted(facets["instrument_types"]),
-      "legal_force": sorted(facets["legal_force"]),
-      "source_db": sorted(facets["source_db"]),
-    },
-  )
-  write_json(site / "graph.sigma.json", graph_reduced)
-  if doc_type_profiles:
-    write_json(site / "doc_type_profiles.json", build_public_doc_type_profiles(doc_type_profiles))
-  return manifest
+    write_json(site / "graph.sigma.json", graph_reduced)
+    write_json(site / "graph.communities.json", graph_communities)
+    if doc_type_profiles:
+        write_json(site / "doc_type_profiles.json", build_public_doc_type_profiles(doc_type_profiles))
+    return manifest
 
 
 def parse_args() -> argparse.Namespace:
-  parser = argparse.ArgumentParser(description=__doc__)
-  parser.add_argument("--release", default="outputs_v2/release_pilot", help="Release export directory.")
-  parser.add_argument("--site", default="platform/site/public/data", help="Output data directory.")
-  parser.add_argument("--max-documents", type=int, default=500, help="Maximum documents to include.")
-  parser.add_argument("--max-graph-nodes", type=int, default=6000, help="Maximum graph nodes for the static view.")
-  parser.add_argument("--search-text-chars", type=int, default=2200, help="Text characters per document in client search data.")
-  return parser.parse_args()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--release", default="outputs_v2/release_pilot", help="Release export directory.")
+    parser.add_argument("--site", default="platform/site/public/data", help="Output data directory.")
+    parser.add_argument("--max-documents", type=int, default=500, help="Maximum documents to include.")
+    parser.add_argument("--max-graph-nodes", type=int, default=6000, help="Maximum graph nodes for the static view.")
+    parser.add_argument(
+        "--search-text-chars", type=int, default=2200, help="Text characters per document in client search data."
+    )
+    return parser.parse_args()
 
 
 def main() -> int:
-  manifest = build(parse_args())
-  print(json.dumps(manifest, ensure_ascii=False, indent=2))
-  return 0
+    manifest = build(parse_args())
+    print(json.dumps(manifest, ensure_ascii=False, indent=2))
+    return 0
 
 
 if __name__ == "__main__":
-  raise SystemExit(main())
+    raise SystemExit(main())
